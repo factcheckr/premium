@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-02-27T21:20:33.425Z</updated>
+    <updated>2022-02-27T22:22:33.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[커리어 패스 바꾼 신세계I&C팀장들이 일하는 법]]></title>
+        <id>https://www.folin.co/story/2081</id>
+        <link href="https://www.folin.co/story/2081"/>
+        <updated>2022-02-27T22:22:16.310Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[창업 후 해마다 매출 3배 성장한 메타버스 테크기업]]></title>
+        <id>https://www.folin.co/story/2065</id>
+        <link href="https://www.folin.co/story/2065"/>
+        <updated>2022-02-27T22:22:16.311Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1시간에 5억원씩 판다, '장사의 신동' 제작 비하인드]]></title>
         <id>https://www.folin.co/story/2088</id>
@@ -276,21 +292,5 @@
         <updated>2022-02-27T18:21:05.774Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>커리어</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['줌 피로' 해결할 메타버스 가상오피스]]></title>
-        <id>https://www.folin.co/story/2040</id>
-        <link href="https://www.folin.co/story/2040"/>
-        <updated>2022-02-27T18:21:05.774Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박찬용 에디터의 '요기레터' 기획 비하인드]]></title>
-        <id>https://www.folin.co/story/2037</id>
-        <link href="https://www.folin.co/story/2037"/>
-        <updated>2022-02-27T18:21:05.775Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
     </entry>
 </feed>
