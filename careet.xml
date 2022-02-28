@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 07:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 08:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.careet.net/656</guid>
             <pubDate>Mon, 28 Feb 2022 02:38:06 GMT</pubDate>
             <content:encoded><![CDATA[Z세대 108명에게 물었습니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/97de7f02-fe8a-4f8b-9386-591ab24002de_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/5c3c7f2d-51a2-4856-b206-1dec44f6a307_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[내년에는 이렇게 준비해 보세요! 삼일절 관련 마케팅 레퍼런스]]></title>

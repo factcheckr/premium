@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-02-28T07:21:47.735Z</updated>
+    <updated>2022-02-28T08:27:39.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[팀장의 '실무 vs 관리' 업무 밸런스는 몇 대 몇?]]></title>
+        <id>https://publy.co/content/6717?fr=category</id>
+        <link href="https://publy.co/content/6717?fr=category"/>
+        <updated>2022-02-28T08:26:52.638Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[떠날 고객이 보내는 신호, 답은 데이터에 있다]]></title>
         <id>https://publy.co/content/6691?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6685?fr=category"/>
         <updated>2022-02-27T18:20:37.585Z</updated>
         <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회사 이름 없이, '직업인'으로서 나의 경쟁력 키우기]]></title>
-        <id>https://publy.co/content/6630?fr=category</id>
-        <link href="https://publy.co/content/6630?fr=category"/>
-        <updated>2022-02-27T18:20:37.587Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
