@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-02-28T21:19:48.159Z</updated>
+    <updated>2022-02-28T22:22:51.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료] 퍼시스, 일하는 환경의 변화를 고민하다]]></title>
+        <id>https://www.folin.co/story/2090</id>
+        <link href="https://www.folin.co/story/2090"/>
+        <updated>2022-02-28T22:22:33.888Z</updated>
+        <content type="html"><![CDATA[<li>공간</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[커리어 패스 바꾼 신세계I&C팀장들이 일하는 법]]></title>
         <id>https://www.folin.co/story/2081</id>
@@ -284,13 +292,5 @@
         <updated>2022-02-27T18:21:05.772Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구독으로 시작해 46개 회사 된 블록체인 커뮤니티 논스]]></title>
-        <id>https://www.folin.co/story/2042</id>
-        <link href="https://www.folin.co/story/2042"/>
-        <updated>2022-02-27T18:21:05.774Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content>
     </entry>
 </feed>
