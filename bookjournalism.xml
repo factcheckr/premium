@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-03-01T14:21:42.474Z</updated>
+    <updated>2022-03-01T15:25:07.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[형법 제9조에 따라 만 14세 미만의 행위는 벌할 수 없다. 촉법소년 연령, 낮춰야 하나.]]></title>
+        <id>https://www.bookjournalism.com/books/49274</id>
+        <link href="https://www.bookjournalism.com/books/49274"/>
+        <updated>2022-03-01T15:24:57.234Z</updated>
+        <content type="html"><![CDATA[죄를 물을 수 없는 아이들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19로 국경이 닫히고 도시는 활기를 잃었다. 이제 도시를 되살릴 방법을 궁리해야 할 때다.]]></title>
         <id>https://www.bookjournalism.com/books/49207</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/48763"/>
         <updated>2022-03-01T07:21:10.560Z</updated>
         <content type="html"><![CDATA[틸다의 답이 던지는 질문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조정은 시작됐다. 지금의 금융 시스템이 조정의 스트레스를 견뎌낼 수 있을까. 금융 시장 붕괴가 현실화된다면 어디서부터 시작될까. 과연 올 것이 올 것인가?]]></title>
-        <id>https://www.bookjournalism.com/books/48584</id>
-        <link href="https://www.bookjournalism.com/books/48584"/>
-        <updated>2022-03-01T07:21:10.563Z</updated>
-        <content type="html"><![CDATA[넥스트 금융위기]]></content>
     </entry>
 </feed>
