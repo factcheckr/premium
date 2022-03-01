@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 21:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 22:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -461,6 +461,22 @@
             <content:encoded><![CDATA[김난도 서울대 소비자학과 교수만큼 서점가에 영향력이 큰 저자가 또 있을까요. 매년 10월 말이 되면 서점가는 술렁입니다. 김 교수 팀이 2009년부터 매년 출간해 온 트렌드 전망서<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마케터의 기쁨과 슬픔, 7년 차의 레슨런 (폴인)]]></title>
+            <link>https://www.folin.co/story/2087</link>
+            <guid>https://www.folin.co/story/2087</guid>
+            <pubDate>Tue, 01 Mar 2022 22:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 블로그와 스노우·웍스의 디자인, 뭐가 다를까 (폴인)]]></title>
+            <link>https://www.folin.co/story/2085</link>
+            <guid>https://www.folin.co/story/2085</guid>
+            <pubDate>Tue, 01 Mar 2022 22:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[무료] 퍼시스, 일하는 환경의 변화를 고민하다 (폴인)]]></title>
             <link>https://www.folin.co/story/2090</link>
             <guid>https://www.folin.co/story/2090</guid>
@@ -731,22 +747,6 @@
             <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<li>라이프스타일</li>
                                 <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스티비 마케터 이루리가 말하는 N개의 사이드 프로젝트 (폴인)]]></title>
-            <link>https://www.folin.co/story/2045</link>
-            <guid>https://www.folin.co/story/2045</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['환경에 진심'인 MZ세대를 타깃으로 마케팅하려면? (폴인)]]></title>
-            <link>https://www.folin.co/story/2041</link>
-            <guid>https://www.folin.co/story/2041</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[형법 제9조에 따라 만 14세 미만의 행위는 벌할 수 없다. 촉법소년 연령, 낮춰야 하나. (북저널리즘)]]></title>

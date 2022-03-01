@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-01T21:21:07.570Z</updated>
+    <updated>2022-03-01T22:22:42.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마케터의 기쁨과 슬픔, 7년 차의 레슨런]]></title>
+        <id>https://www.folin.co/story/2087</id>
+        <link href="https://www.folin.co/story/2087"/>
+        <updated>2022-03-01T22:22:26.229Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 블로그와 스노우·웍스의 디자인, 뭐가 다를까]]></title>
+        <id>https://www.folin.co/story/2085</id>
+        <link href="https://www.folin.co/story/2085"/>
+        <updated>2022-03-01T22:22:26.229Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료] 퍼시스, 일하는 환경의 변화를 고민하다]]></title>
         <id>https://www.folin.co/story/2090</id>
@@ -276,21 +292,5 @@
         <updated>2022-02-27T18:21:05.770Z</updated>
         <content type="html"><![CDATA[<li>라이프스타일</li>
                                 <li>커리어</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티비 마케터 이루리가 말하는 N개의 사이드 프로젝트]]></title>
-        <id>https://www.folin.co/story/2045</id>
-        <link href="https://www.folin.co/story/2045"/>
-        <updated>2022-02-27T18:21:05.771Z</updated>
-        <content type="html"><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환경에 진심'인 MZ세대를 타깃으로 마케팅하려면?]]></title>
-        <id>https://www.folin.co/story/2041</id>
-        <link href="https://www.folin.co/story/2041"/>
-        <updated>2022-02-27T18:21:05.772Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
     </entry>
 </feed>
