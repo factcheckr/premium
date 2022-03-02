@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-03-02T07:21:18.219Z</updated>
+    <updated>2022-03-02T08:27:24.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[와디즈가 대체 불가능한 IP 경쟁력을 키우는 방법]]></title>
+        <id>https://publy.co/content/6693?fr=category</id>
+        <link href="https://publy.co/content/6693?fr=category"/>
+        <updated>2022-03-02T08:26:38.183Z</updated>
+        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팀장의 '실무 vs 관리' 업무 밸런스는 몇 대 몇?]]></title>
         <id>https://publy.co/content/6717?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6670?fr=category"/>
         <updated>2022-02-27T18:20:37.584Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀장과 팀원이 함께 성장하는 성과 목표 찾기 : 조인트 포인트]]></title>
-        <id>https://publy.co/content/6685?fr=category</id>
-        <link href="https://publy.co/content/6685?fr=category"/>
-        <updated>2022-02-27T18:20:37.585Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
     </entry>
 </feed>
