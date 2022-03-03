@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-03T21:20:26.390Z</updated>
+    <updated>2022-03-03T22:23:09.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외식업 브랜드를 시작하게 만드는 질문들]]></title>
+        <id>https://www.folin.co/story/2097</id>
+        <link href="https://www.folin.co/story/2097"/>
+        <updated>2022-03-03T22:22:51.069Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼전 개발자에서 식당 사장으로, 외식업의 혁신을 말하다]]></title>
+        <id>https://www.folin.co/story/2096</id>
+        <link href="https://www.folin.co/story/2096"/>
+        <updated>2022-03-03T22:22:51.071Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투자 없이 창업, 6년간 800만 권 판매한 모트모트]]></title>
         <id>https://www.folin.co/story/2091</id>
@@ -275,22 +291,6 @@
         <link href="https://www.folin.co/story/2046"/>
         <updated>2022-02-27T18:21:05.764Z</updated>
         <content type="html"><![CDATA[<li>워크</li>
-                                <li>커리어</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에디터가 추천하는 숨은 보석 스토리  TOP4]]></title>
-        <id>https://www.folin.co/story/2051</id>
-        <link href="https://www.folin.co/story/2051"/>
-        <updated>2022-02-27T18:21:05.765Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴인 멤버들이 가장 많이 하이라이트한 스토리 TOP 5]]></title>
-        <id>https://www.folin.co/story/2050</id>
-        <link href="https://www.folin.co/story/2050"/>
-        <updated>2022-02-27T18:21:05.768Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>커리어</li>]]></content>
     </entry>
 </feed>

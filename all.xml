@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 21:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 22:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,6 +293,22 @@
             <content:encoded><![CDATA[팬데믹이 다시 심해지고 있어요. 이럴 때 할 말은 아니지만, 봄옷 살 시기도 다가왔어요. 그런데 백화점 분위기가 좀 이상해요. 할인 행사도 잘 하지 않고, 침체돼 있달까? 우리나라<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[외식업 브랜드를 시작하게 만드는 질문들 (폴인)]]></title>
+            <link>https://www.folin.co/story/2097</link>
+            <guid>https://www.folin.co/story/2097</guid>
+            <pubDate>Thu, 03 Mar 2022 22:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>조직문화</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[삼전 개발자에서 식당 사장으로, 외식업의 혁신을 말하다 (폴인)]]></title>
+            <link>https://www.folin.co/story/2096</link>
+            <guid>https://www.folin.co/story/2096</guid>
+            <pubDate>Thu, 03 Mar 2022 22:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[투자 없이 창업, 6년간 800만 권 판매한 모트모트 (폴인)]]></title>
             <link>https://www.folin.co/story/2091</link>
             <guid>https://www.folin.co/story/2091</guid>
@@ -565,28 +581,88 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에디터가 추천하는 숨은 보석 스토리  TOP4 (폴인)]]></title>
-            <link>https://www.folin.co/story/2051</link>
-            <guid>https://www.folin.co/story/2051</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content:encoded>
+            <title><![CDATA[택배 파업이 두 달 넘게 이어진 끝에 마무리 되었다. 21세기에 벌어진 20세기 노동쟁의였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49300</link>
+            <guid>https://www.bookjournalism.com/books/49300</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[택배파업, 우리 삶도 파손주의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[폴인 멤버들이 가장 많이 하이라이트한 스토리 TOP 5 (폴인)]]></title>
-            <link>https://www.folin.co/story/2050</link>
-            <guid>https://www.folin.co/story/2050</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content:encoded>
+            <title><![CDATA[푸틴는 왜 우크라이나의 동쪽 절반을 노리는가? 푸틴을 어디서 어떻게 저지할 것인가? 우크라이나 전선이 무너지면 푸틴은 어디까지 노릴 것인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49282</link>
+            <guid>https://www.bookjournalism.com/books/49282</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 라인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성숙한 ‘어른의 감정’ 배우는 법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bzup/ahopsi/contents/220204182221240mI</link>
-            <guid>https://contents.premium.naver.com/bzup/ahopsi/contents/220204182221240mI</guid>
-            <pubDate>Thu, 03 Mar 2022 15:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[얼마 전 한 대학원생과 상담하다가 6개월 전 갑자기 돌아가신 그의 아버지의 이야기가 나왔다. 그가 무엇을 느꼈는지 물었지만 그는 생각을 이야기했다. 나는 ‘마음’이라는 말을 ‘감정’으로 바꾸어 다시 물었다.   그는 의욕이 없고 결정을 내리기가 힘들어 상담을 했지만 가장 큰 문제는 감정을 잘 느끼지 못하는 것이었다. 오히려 감정을 느낀다고 뭐가 달라지냐고 따지듯]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDdfMjQ0/MDAxNjQ0MjI1NDAxNDU2.EjVkp9vL2lsi7qji1yxEzUJi8fOLy-yMdmIcJ8X1bHQg.H_VX-jFw6_hNRnHqIU1waI8hZtOFOnVzMp9zJ4fP_F0g.JPEG/MicrosoftTeams-image_(44).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[형법 제9조에 따라 만 14세 미만의 행위는 벌할 수 없다. 촉법소년 연령, 낮춰야 하나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49274</link>
+            <guid>https://www.bookjournalism.com/books/49274</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[죄를 물을 수 없는 아이들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19로 국경이 닫히고 도시는 활기를 잃었다. 이제 도시를 되살릴 방법을 궁리해야 할 때다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49207</link>
+            <guid>https://www.bookjournalism.com/books/49207</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 시대, 도시의 부활 전략]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 여섯 번째 - 2022년 2월 24일 오전 5시 러시아가 우크라이나를 침공했습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49178</link>
+            <guid>https://www.bookjournalism.com/books/49178</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #25에선, 보름도 남지 않은 제20대 대통령선거의 향방을 단일화라는 키워드로 짚어봅니다. 그리고 결국 전쟁이 발발한 우크라이나 사태를 통해 푸틴의 야망과 바이든의 좌절에 대해 들여다봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49142</link>
+            <guid>https://www.bookjournalism.com/audio/49142</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[단일화 꽃은 과연 필까요? 그리고 우크라이나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[과연 어느 쪽이 안철수 후보와의 단일화를 성사시킬까? 성공하면 당선이다. 실패하면 낙선이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49101</link>
+            <guid>https://www.bookjournalism.com/books/49101</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[단일화 날밀기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트럼프의 소셜 미디어 트루스 소셜이 출시됐다. 트루스 소셜이 보여주는 진실은 무엇인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49061</link>
+            <guid>https://www.bookjournalism.com/books/49061</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[진실을 ‘트루스’ 하시겠습니까]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일런 머스크의 스페이스X의 목표는 화성 식민지화와 태양계 정복이다. 이것은 로켓사이언스가 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49023</link>
+            <guid>https://www.bookjournalism.com/books/49023</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[애드 아스트라]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[부스터슛을 띄우고 나선 이재명 후보는 과연 막판 대역전에 성공할 수 있을까? 조금씩 어긋나 있는 이 후보의 선거전략을 분석한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/48997</link>
+            <guid>https://www.bookjournalism.com/books/48997</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이재명의 부스터슛이 오프사이드인 이유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[청년희망적금 신청이 시작됐다. 화제의 적금은 청년에게 희망인가 고문인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/48951</link>
+            <guid>https://www.bookjournalism.com/books/48951</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[적금도 희망이 되나요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 다섯 번째 - 이번 고비도 우리는 이겨낼 수 있을 겁니다. 북저널리즘도 이겨내겠습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/48912</link>
+            <guid>https://www.bookjournalism.com/books/48912</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[오미크론]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[中 1위 가전업체, 칩 양산에 사활…뒤늦은 반격 성공할까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -597,12 +673,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTZfMjc5/MDAxNjQ0OTcxODQwODE5.VcX_PQrTwjqipFEtaxpzQtZKLkf124XZjaUVjByTf0Ug.PO4FttfSiIp2sxkISyflOSXWuBq-ELqh0ALi_FkD054g.JPEG/%E9%92%9B%E5%AA%92%E4%BD%93.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[웹툰]자매와 바람난 한의사-2화 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220224114925199dx</link>
-            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220224114925199dx</guid>
+            <title><![CDATA[성숙한 ‘어른의 감정’ 배우는 법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bzup/ahopsi/contents/220204182221240mI</link>
+            <guid>https://contents.premium.naver.com/bzup/ahopsi/contents/220204182221240mI</guid>
             <pubDate>Thu, 03 Mar 2022 15:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[소설 같은 세금 이야기를 만화로 만나보세요. 다양한 삶의 이야기 속에 세금 정보를 녹여내, 재미로 보다 보면 세금 지식이 절로 늘어납니다.]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjRfMjMw/MDAxNjQ1NjcwNzM0MzI5.Ywr6BM7GwsjX838sB2Pkw0gisf11FKfwLUH2wU6ReYYg.JoU0hoGG_zQZnFRR_FcM-rBuKtx-nNHOfQ6mIxt52u4g.JPEG/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%9A%A9_%EC%84%B8%EA%B8%88%EC%9D%98_%EC%9C%A0%ED%98%B9_%EC%9E%90%EB%A7%A4%EC%99%80%EB%B0%94%EB%9E%8C%EB%82%9C%ED%95%9C%EC%9D%98%EC%82%AC_2%ED%99%94.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[얼마 전 한 대학원생과 상담하다가 6개월 전 갑자기 돌아가신 그의 아버지의 이야기가 나왔다. 그가 무엇을 느꼈는지 물었지만 그는 생각을 이야기했다. 나는 ‘마음’이라는 말을 ‘감정’으로 바꾸어 다시 물었다.   그는 의욕이 없고 결정을 내리기가 힘들어 상담을 했지만 가장 큰 문제는 감정을 잘 느끼지 못하는 것이었다. 오히려 감정을 느낀다고 뭐가 달라지냐고 따지듯]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDdfMjQ0/MDAxNjQ0MjI1NDAxNDU2.EjVkp9vL2lsi7qji1yxEzUJi8fOLy-yMdmIcJ8X1bHQg.H_VX-jFw6_hNRnHqIU1waI8hZtOFOnVzMp9zJ4fP_F0g.JPEG/MicrosoftTeams-image_(44).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['분자접착제 기술' 핀테라퓨틱스, 1년 만에 추가 펀딩 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -613,12 +689,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjRfMzQg/MDAxNjQ1Njg5MTYyNDI0.Re-6zlgqZ-Cehni9Fx7oEuS-JXICZdPwSu43D0SO9hcg.JjgPEGMFjg0LMBkt-1zlh-U64ZGDcMVKTjbt8E7aVEgg.PNG/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-02-24_165229.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[너와 같이 우산이 쓰고 싶었어 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bookcrew/essaycat/contents/211108173017095TM</link>
-            <guid>https://contents.premium.naver.com/bookcrew/essaycat/contents/211108173017095TM</guid>
+            <title><![CDATA[[웹툰]자매와 바람난 한의사-2화 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220224114925199dx</link>
+            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220224114925199dx</guid>
             <pubDate>Thu, 03 Mar 2022 15:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[너와 같이 우산이 쓰고 싶었어 누가 나에게 총을 겨누고 “네가 가장 싫어하는 게 뭐냐, 3초 내에 말하지 않으면 쏘겠다. 어서 말해라, 하나, 둘...”하고 위협하면 나는 아마도 “아이고 저는 비를 제일 싫어합니다요, 살려 주십쇼.”하고 말할 것 같다. 내가 만났던 사랑하는 사람들에게도 비가 오는 날에는 만나지 않겠다고 선언해 두었다. 물론 그렇게 정 없게 말했던 것은 아니]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDhfMTI4/MDAxNjM2MzU5NjUwMDg0.wW2Qlk65H0KtbFhF5o85Gd9018c4UehVNEqqqbDPW3kg.7nTcdRpoe36Y7xeJNAAzg6O7r02Bk4T0pWvIxzMhpNUg.JPEG/erik-witsoe-mODxn7mOzms-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[소설 같은 세금 이야기를 만화로 만나보세요. 다양한 삶의 이야기 속에 세금 정보를 녹여내, 재미로 보다 보면 세금 지식이 절로 늘어납니다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjRfMjMw/MDAxNjQ1NjcwNzM0MzI5.Ywr6BM7GwsjX838sB2Pkw0gisf11FKfwLUH2wU6ReYYg.JoU0hoGG_zQZnFRR_FcM-rBuKtx-nNHOfQ6mIxt52u4g.JPEG/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%9A%A9_%EC%84%B8%EA%B8%88%EC%9D%98_%EC%9C%A0%ED%98%B9_%EC%9E%90%EB%A7%A4%EC%99%80%EB%B0%94%EB%9E%8C%EB%82%9C%ED%95%9C%EC%9D%98%EC%82%AC_2%ED%99%94.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중요한 건 눈에 보이지 않아 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -629,12 +705,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjJfOTQg/MDAxNjQ1NTE2MDUwOTc0.ipqIIZ8b2sZTCV3raqk-y5wujEaRWn-GVa5pgutlUr8g.StL2PfCtqTZrRhQH71u6qvR7L2q-TfUyh9EIk_ZT2fEg.PNG/%EC%B9%B4%ED%8E%98_%EB%A4%BC%EB%AF%B8%EC%97%90%EB%A5%B4.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[배당주] 카카오뱅크의 해외송금 파트너! 세계 최대 규모의 송금회사 - 웨스턴유니언 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220225085404728EX</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220225085404728EX</guid>
+            <title><![CDATA[너와 같이 우산이 쓰고 싶었어 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bookcrew/essaycat/contents/211108173017095TM</link>
+            <guid>https://contents.premium.naver.com/bookcrew/essaycat/contents/211108173017095TM</guid>
             <pubDate>Thu, 03 Mar 2022 15:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[배당공격수, 미드필더, 골키퍼 등 투자 성향에 맞는 배당주를~ 매월 어떤 배당주를 사야할지 고민했다면? 지금 영상을 주목하세요! 미식가가 선정한 3월 배당매력주 ● 배당 골키퍼 : 웨스턴유니언(WU) 배당주 골키퍼의 특징 보수적인 투자자나 매월 안정적인 현금 수입이 필요한 은퇴자에게 적합 배당률 3% ~ 8% 주가 변동성이 낮아 투자자가 편안하게 장기 투자가 가능하도록 함]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfMTEz/MDAxNjQ1NTgwNTA4NDc3.osXDtVtEd5jvMy1r9LuVOlMg7NsgnHtMVOJSSu3ciFkg.XueZnxJaV4P2SS526rRvsNYydoHXFdoKze1r4slChocg.JPEG/tech-daily-V06dt37iQFY-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[너와 같이 우산이 쓰고 싶었어 누가 나에게 총을 겨누고 “네가 가장 싫어하는 게 뭐냐, 3초 내에 말하지 않으면 쏘겠다. 어서 말해라, 하나, 둘...”하고 위협하면 나는 아마도 “아이고 저는 비를 제일 싫어합니다요, 살려 주십쇼.”하고 말할 것 같다. 내가 만났던 사랑하는 사람들에게도 비가 오는 날에는 만나지 않겠다고 선언해 두었다. 물론 그렇게 정 없게 말했던 것은 아니]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDhfMTI4/MDAxNjM2MzU5NjUwMDg0.wW2Qlk65H0KtbFhF5o85Gd9018c4UehVNEqqqbDPW3kg.7nTcdRpoe36Y7xeJNAAzg6O7r02Bk4T0pWvIxzMhpNUg.JPEG/erik-witsoe-mODxn7mOzms-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리는 몇 번이나 만나고 헤어질까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -645,12 +721,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTZfMjk3/MDAxNjM3MDQzNjkyMzY0.vwGJS0tR4ULpVulXNpxsBenaGpGGpqMEqzV6Cysbij4g.MRe8aOwnXMt7GtzNzc-7UeGgk-YyIesEWfaxQ8hfRZgg.JPEG/Deanna_Dikeman04.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[알리바바 롤러코스터탄 주가ㅣ어제 무려 15% 상승, 모더나ㅣ오늘 머하뉴?🗽 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220225123654220zj</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220225123654220zj</guid>
-            <pubDate>Thu, 03 Mar 2022 21:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[📆2022년 2월 25일📆  🎢‘롤러코스터’ 탄 알리바바 주가, 이유는?🎢  :중국 경제 성장률의 둔화 때문일까요? 알리바바가 기대에 미치지 못하는 실적을 발표했어요. '집토끼' 지키기 전략에 나선 알리바바, 그 이유는?  ⚡니콜라, 올해 사상 첫 매출 기대⚡  :전기차 스타트업 니콜라 코퍼레이션이 올해 사상 첫 매출을 실현할 것으로 기대한다고 밝혔습니다. 제 2의 테슬라를 꿈꾸기도]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfMjUz/MDAxNjQ1NzYwMTM1Njcz.KhKl0a6PVSDw552vMm-sCzKmR1uoV5SmhHLFhno5xjog.SP86mj_sgXPvUiCXLPMDxgrglTwfteQTs-CrnVuH1WAg.PNG/0225-%EC%84%AC%EB%84%A4%EC%9D%BC.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[[배당주] 카카오뱅크의 해외송금 파트너! 세계 최대 규모의 송금회사 - 웨스턴유니언 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220225085404728EX</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220225085404728EX</guid>
+            <pubDate>Thu, 03 Mar 2022 15:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[배당공격수, 미드필더, 골키퍼 등 투자 성향에 맞는 배당주를~ 매월 어떤 배당주를 사야할지 고민했다면? 지금 영상을 주목하세요! 미식가가 선정한 3월 배당매력주 ● 배당 골키퍼 : 웨스턴유니언(WU) 배당주 골키퍼의 특징 보수적인 투자자나 매월 안정적인 현금 수입이 필요한 은퇴자에게 적합 배당률 3% ~ 8% 주가 변동성이 낮아 투자자가 편안하게 장기 투자가 가능하도록 함]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfMTEz/MDAxNjQ1NTgwNTA4NDc3.osXDtVtEd5jvMy1r9LuVOlMg7NsgnHtMVOJSSu3ciFkg.XueZnxJaV4P2SS526rRvsNYydoHXFdoKze1r4slChocg.JPEG/tech-daily-V06dt37iQFY-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[배당주] 10만달러로 미국배당주 사모으기 (feat. 모의투자 하는 법) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220225140446630HR</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220225140446630HR</guid>
+            <pubDate>Thu, 03 Mar 2022 22:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[미국 배당주... 실제로 수익이 날까? 추천 배당주를 정규장에서 모의투자로 매수해봤습니다.  배당주 전략이 얼마나 맞을지..? 같이 지켜봐요~! 영상 뒤에 '국희있음' #미국배당주 #모의투자 ※ 이 글은 당사가 신뢰할 수 있는 자료 및 정보로부터 얻은 것이지만, 그 정확성이나 완전성을 보장할 수 없으므로 투자자 자신의 판단과 책임하에 최종 투자 의사 결정을 하시기 바랍니다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfMTU2/MDAxNjQ1NzY1MzYzNjkx.zW_z4Y5pTYGwrtSRZnYNhu0e2_uvF9a3wMshvpxxlB0g.S5K768ewrbbJJMh-dB3LSXwS8HECyzbgzAs54XD0DMcg.JPEG/jeremy-bezanger-glY0yf3lxA4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
