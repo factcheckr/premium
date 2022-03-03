@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 22:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 23:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,6 +581,13 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[만일 단일화로 대선에서 승리한다면, 윤석열과 안철수는 정말 권력을 나눌 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49348</link>
+            <guid>https://www.bookjournalism.com/books/49348</guid>
+            <pubDate>Thu, 03 Mar 2022 23:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[악마의 유혹]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[택배 파업이 두 달 넘게 이어진 끝에 마무리 되었다. 21세기에 벌어진 20세기 노동쟁의였다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/49300</link>
             <guid>https://www.bookjournalism.com/books/49300</guid>
@@ -656,13 +663,6 @@
             <guid>https://www.bookjournalism.com/books/48951</guid>
             <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
             <content:encoded><![CDATA[적금도 희망이 되나요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 다섯 번째 - 이번 고비도 우리는 이겨낼 수 있을 겁니다. 북저널리즘도 이겨내겠습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/48912</link>
-            <guid>https://www.bookjournalism.com/books/48912</guid>
-            <pubDate>Thu, 03 Mar 2022 22:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[오미크론]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[中 1위 가전업체, 칩 양산에 사활…뒤늦은 반격 성공할까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
