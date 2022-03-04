@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 07:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 08:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신입 마케터가 어떻게 팔로워 꼴찌를 1위로 만들었을까? (퍼블리)]]></title>
+            <link>https://publy.co/content/6700?fr=category</link>
+            <guid>https://publy.co/content/6700?fr=category</guid>
+            <pubDate>Fri, 04 Mar 2022 08:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[PM이 알아야 할 현실적인 프로젝트 접근법 (퍼블리)]]></title>
             <link>https://publy.co/content/6706?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6697?fr=category</guid>
             <pubDate>Sun, 27 Feb 2022 18:20:37 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카피 쓰는 법: 카피라이터의 문장 수집 생활 (퍼블리)]]></title>
-            <link>https://publy.co/content/6711?fr=category</link>
-            <guid>https://publy.co/content/6711?fr=category</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[캐릿 유튜브] Z세대는 취미로 ‘보컬 트레이닝’배운다고? (영상 있음) (캐릿)]]></title>
