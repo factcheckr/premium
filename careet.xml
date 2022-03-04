@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 23:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 01:38:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금이 몇 년도야? 포켓몬빵이 유행이고 노키아폰이 돌아왔다고?]]></title>
+            <link>https://www.careet.net/662</link>
+            <guid>https://www.careet.net/662</guid>
+            <pubDate>Fri, 04 Mar 2022 01:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[90년대생 Z세대를 벅차오르게 한 떡상템]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/6d80cdbf-2a06-4c22-9061-9f4ef7f2dfd5_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이게 왜 유행이야?] 깻잎 논쟁, 유래부터 종결까지! 타임라인 총정리]]></title>
+            <link>https://www.careet.net/660</link>
+            <guid>https://www.careet.net/660</guid>
+            <pubDate>Fri, 04 Mar 2022 01:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[2019년에 시작된 깻잎 논쟁이 갑자기 Z세대 핫이슈가 된 이유!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/c360e127-3568-46ad-af9c-346835674710_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈 3일 만에 6억 원 매출? 와인 전문 매장 ‘보틀벙커’ 체험기]]></title>
             <link>https://www.careet.net/657</link>
