@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 14:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 15:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,11 +310,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/8d8496da-2895-453a-a1f4-75363d01ff63_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[행복의 기원 : 행복은 복권이 아니라 초콜릿에서 오는 것이다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/222</link>
-            <guid>https://www.longblack.co/note/222</guid>
-            <pubDate>Fri, 04 Mar 2022 15:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[사람은 오래 전부터 본성과 이성 사이에서 갈등을 느끼는 존재였습니다. 올해는 기필코 다이어트에 성공하리라 다짐하지만(이성) 늦은 밤 라면을 끓이고 있는 나<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 05 Mar 2022 15:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[B의 마음을 다잡게 만든 지난주 롱블랙의 문장
+
+“축적이 있는 사람들은 인사이트가 반짝, 하잖아요. 그게 순간의 노력으로 반짝이는 것 같지만, 그 전에 굉장히 많은 시행착오가 있었기 때문에 가능한 거예요. 그걸 우리는 혁신의 축적이라고 불러요. 이미 오래전부터 조금<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[외식업 브랜드를 시작하게 만드는 질문들 (폴인)]]></title>
@@ -689,76 +691,75 @@
             <content:encoded><![CDATA[이재명의 부스터슛이 오프사이드인 이유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[번번이 실패하는 신년계획, 단순한 의지박약의 문제일까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220105083959131rX</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220105083959131rX</guid>
-            <pubDate>Fri, 04 Mar 2022 15:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[매년 1월이 되면 담배 판매량은 눈에 띄게 감소하고, 피트니스센터에 가입하는 회원 수는 증가한다. 신년 계획에 '금연' '다이어트' '운동'은 단골 메뉴이기 때문이다. 그런데 담배 시장이나 헬스케어 시장의 '1월 효과'는 시간이 지나면 자연스럽게 사라진다. 이 같은 회귀 현상이 나타나는 이유는 무엇일까? 사람들이 지킬 수 없는 계획을 무분별하게 세운 탓으로만 단정할 수 있]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDRfNjYg/MDAxNjQxMjU5NjE5ODcx.tBnxGbV0kObVm_y1SJo98rzr3kZYWdqvE-0nuVYGLzUg.LO8EH8TiJKe2gY8rF62sd0jlMhQ_S-ENiiG2HySuAJgg.JPEG/GettyImages-1354819191_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[브리핑] 美, 은행간 결제망(SWIFT)서 러 축출...그러나 구멍은 마련돼  있다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220227095933803jO</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220227095933803jO</guid>
+            <pubDate>Sat, 05 Mar 2022 15:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[해외에 송금할 때 이른바 SWIFT 코드를 입력해야 합니다. SWIFT는 Society for Worldwide Interbank Financial Telecommunications(세계 은행간금융통신협회)의 머릿글자입니다. 1차 오일쇼크가 발생한 1973년에 등장했습니다.  SWIFT 코드는 사실 은행에만 부여된 것은 아닙니다. 수출입 기업들도 갖고 있는 경우가 많습니다. 국경 너머로 자금을 보내거나 받을 때 필수적인 영어 알파벳과 숫자 조합입니]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMTIg/MDAxNjQ1OTIzMTAzMTg3.Wg55DXEOWGPjTiKRIUPBs4Z5WlO3yKSelaiDWT9tZ4kg.ZoxGre4o0hTqpaAlgbgkZPEIMChXD8FXKaYoLSXTHqwg.JPEG/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[간肝건강] #1. 내 간은 왜 뚱뚱해졌을까? 간에 쌓지 말아야 할 것 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/hidoc/hidocpremium/contents/220128113946383qP</link>
-            <guid>https://contents.premium.naver.com/hidoc/hidocpremium/contents/220128113946383qP</guid>
-            <pubDate>Fri, 04 Mar 2022 15:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[쌓지 말아야 할 것 ‘축적’이라는 단어를 사전에서는 ‘지식이나 경험, 자금 등이 모여서 쌓인 것’이라고 정의합니다. 신뢰와 지혜, 노하우, 에너지, 곳간에 쌀가마까지. 우리 삶에 무언가가 쌓여서 나쁠 일은 그리 많지 않아 보입니다. 쌓인 것은 곧 역량이 되고, 그렇게 축적된 역량은 개인과 집단의 파급력을 높이니까요. 아, 물론 다 그렇지는 않습니다. 쌓여서 좋지 못한 것]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjhfMiAg/MDAxNjQzMzM3MjY0NDgz.BSy9G5zaiLw5aE3rOJpJmutpLcF7OuUJgj3owJSTp5Qg.mG0AlaOZqZGkoqPNbQ38PuovA7DPfnQlXVAVvbKQz8gg.JPEG/SE-2c936292-9109-4136-b759-d8f03f0a4676.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[기쁨의 강도보다 빈도 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220220184827125RX</link>
+            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220220184827125RX</guid>
+            <pubDate>Sat, 05 Mar 2022 15:22:57 GMT</pubDate>
+            <content:encoded><![CDATA["이다음에 회사 그만두면 뭐 할 거야?" 요즘 둘 이상 모이는 자리면 꼭 빼먹지 않고 나오는 단골 질문.  2~3년 전까지만 해도 가끔씩 나오던 질문이 근래엔 시도 때도 없이 튀어나온다. 너는 기술이 있어서 좋겠다. 넌 손재주가 있잖아. 그 정도면 평생 할 수 있는 일 아니야? 등등 직업 따라 성향 따라 답변도 제각각이다. 그 사이에서 나는 새로운 도전을 좋아하는 것도, 냉큼 그 일]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjBfMTg3/MDAxNjQ1MzQ2NTY5OTgx.rqt9A4K58J23krMN4jKOetcsQjZdaP7sKHE_JO8pQjIg.25aXy6x9YtDpVI9w8fsQ_jAuXnZDr8rE9BKJ3hqLlBIg.JPEG/photo-1567578923208-5cc60003892d.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[웹툰]자매와 바람난 한의사-3화 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220224115136484qM</link>
-            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220224115136484qM</guid>
-            <pubDate>Fri, 04 Mar 2022 15:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[소설 같은 세금 이야기를 만화로 만나보세요. 다양한 삶의 이야기 속에 세금 정보를 녹여내, 재미로 보다 보면 세금 지식이 절로 늘어납니다.]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjRfMTM3/MDAxNjQ1NjcxMDA2MDcy.-Djw87ouYFadyZeIRzwGL5384Sjc4pyAw7m4ev5dFIUg.spuaS1B_3nwHJZKnepWqEnAXy3eQLJUk_13O8hqY578g.JPEG/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%9A%A9_%EC%84%B8%EA%B8%88%EC%9D%98_%EC%9C%A0%ED%98%B9_%EC%9E%90%EB%A7%A4%EC%99%80%EB%B0%94%EB%9E%8C%EB%82%9C%ED%95%9C%EC%9D%98%EC%82%AC_3%ED%99%94.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[동영상] L. 랜덜 레이 "당신은 MMT를 잘못 알고 있다!" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220227102404747ku</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220227102404747ku</guid>
+            <pubDate>Sat, 05 Mar 2022 15:22:57 GMT</pubDate>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMjk5/MDAxNjQ1OTI1MDIyMTQz.7x0w4Zh6Dx5fK9padYPctChgiAh5f56H4UBiiWxV-Vog.4lRa-gtxJqD3bdWBXeDJck5oNHvpWRDbTNWeMcy_5o8g.JPEG/%EB%9E%9C%EB%8D%9C_%EB%A0%88%EC%9D%B4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디자이너가 뽑은 일하기 좋은 회사 BEST30 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/220225180151841SK</link>
-            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/220225180151841SK</guid>
-            <pubDate>Fri, 04 Mar 2022 15:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[맞다. 일하기 좋은 회사란 상대적이다. 같은 회사에서 일을 하더라도 누군가에게는 좋은 회사일 수 있지만, 다른 누군가에게는 별로인 회사일 수 있다. 결국은 진리의 케바케(case by case)다.  어떤 일을 맡고 있는지에 따라 조직원 만족도는 다르지 않을까?그 회사에서 어떤 직무를 중시하는지, 내 전문 분야 안에서 얼마나 성장할 수 있는지, 또는 팀 분위기는 어떤지 등에 따라 만]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfMjA5/MDAxNjQ1Nzc5NjQ1NDIw.UlFlZNn_8g0RxULio8Z0R2s4tqO2Ptm6Ogzqq4EdAhEg.KjrPm2osAuHUMaQqQKPGJFtVFu3Wp3yibPXgMacWRW8g.JPEG/%EB%94%94%EC%9E%90%EC%9D%B81.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[하종현, 제이슨 마틴 등 2월 주목할 만한 전시들 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/socialartnews/artnews/contents/220215014500354QQ</link>
+            <guid>https://contents.premium.naver.com/socialartnews/artnews/contents/220215014500354QQ</guid>
+            <pubDate>Sat, 05 Mar 2022 15:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[하종현, 제이슨 마틴 등 2월 주목할 만한 전시들 팬데믹에도 미술계의 시간은 빨리 간다. 오는 9월 프리즈 서울 개최를 앞두고 해외 화랑이 속속 국내 미술시장에 합류하면서 미술판이 더 커진 것이다. 게다가 외신에서 최근 한국화랑협회의 경매 소식을 비중 있게 보도하는 등 국제적 연관성도 높아졌다. 게오르그 바젤리츠, 알렉스 카츠 등 거장의 전시로 갤러리의 국제적 명성]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTVfMjQx/MDAxNjQ0ODk3NTgyMDA0.sX-6s2JVSTuqVTc6eSlzaaQXd-prPRurhk87eJqS6SAg.ZFk0GX3kTlh7cg5o8umzuc0oDCAu-u6SJS_aGEWAXNEg.PNG/_Jason_Martin_Feb_2022_Photo_credit_Mustafa_Hulusi.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[4. 한 바퀴 돈 샘 치고? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220226111816124ur</link>
-            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220226111816124ur</guid>
-            <pubDate>Fri, 04 Mar 2022 15:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[봄   어제 맡았던 나무냄새와 당신이 알려주어 이름이 생긴 꽃과 떨어진 나뭇잎을 주어 책에 껴놓았던 감촉과   폭우에 우산을 버리고 그대와 빗물이 되었던 순간들은   오늘도 어제도 싹을 틔운다   밤에도 빛을 잊지 못한 채 눈에 선명해 봄을 맞는다. 지찬의 말에 화정은 무슨 말을 내뱉으려다, 쉽게 이어가지 못했다. 말 없는 소주만 한 잔씩 마실 뿐이었다. 지찬도 별다른 이야]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjRfODMg/MDAxNjQ1Njg3MjIzNjMx.3i0Uh_aUdUYyaEXexqLbuXPQRqf3DBL0TbZrjuF6gr0g.qg4dU385Sur5YOoVdLxYNlKcLfNzpIP4WYms0BPKHYQg.PNG/K-005.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[굿모닝러너 챌린지 [12일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220227185648715PJ</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220227185648715PJ</guid>
+            <pubDate>Sat, 05 Mar 2022 15:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [12일차] 굿모닝러너님,  오늘 아침, 더 나아갈 수 있는 길에 감사하며 하루를 시작하셨나요 ?  계속 나아가다보면 당신의 타이밍이 곧 올거에요. 벌써 2월의 마지막 날이네요~ 지나간 과정들에 감사하며, 새로운 3월을 맞이해보세요 :)    굿모닝러너_챌린지_12일차 #20220228 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMjAw/MDAxNjQ1OTU1NzIxNzcw.9PQPjqDPyFf2iVbndYBnx3xjIRkgXuNKRzkXlOJVdaMg.kqp7SQidwr8rw3nseDyYGMysNw72KyTm0gK9Q9NDj88g.JPEG/KakaoTalk_20220227_185228688.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#2. 이유 없는 하루도 있잖아요. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220216215113398qe</link>
-            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220216215113398qe</guid>
-            <pubDate>Fri, 04 Mar 2022 15:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[이유 없는 하루   이유 없이 우울해질 때가 있습니다 아침이 평소와 달리 울적한 것도 아니고,  밥을 먹다 혀를 깨물은 것도 아닌데 오늘은 아무 말도 하고 싶지 않은 하루입니다   오늘은 햇볕이 잘 드는 벤치에 몸을 놓고 싶고 해변에 발자국을 찍고 지우기를 반복하는 이유 없는 하루이고 싶습니다   내가 느끼는 우울함엔 아무 이유가 없어서 ‘어제 무슨 일이 있었던 것’도]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTZfMTIg/MDAxNjQ1MDE0Njk2NDE4.YznWDP3o3awcpuM3jk18CADC74HKpZ9kszivROhPLWkg.OI9cSXE9zYqZbUNMb-rftb17er0IcyMQMck-2547w70g.JPEG/%ED%98%BC%EC%9E%90%EC%B0%BD%EB%B0%96%EC%9D%84.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[올해 버크셔 해셔웨이 주주서한 - 당신이 "일하는" 것으로 여겨지는 직업이 아닌 일을 했으면 좋겠습니다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/stockisacompany/pklinvestment/contents/220301165829328Ke</link>
+            <guid>https://contents.premium.naver.com/stockisacompany/pklinvestment/contents/220301165829328Ke</guid>
+            <pubDate>Sat, 05 Mar 2022 15:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 증권맨 P씨입니다. 세계적으로 유명한 투자자이자 오마하의 현인으로 불리는 워렌 버핏(Warren Buffet)이 수장으로 있는 버크셔 해셔웨이(Berkshire Hathaway)가 올해도 마찬가지로 워렌 버핏의 주주서한(Shareholder Letters)을 공개하였습니다. 2월 26일이었죠. 워렌 버핏은 1977년부터 전세계 주주와 투자자들에게 보내는 편지인 주주서한을 매년 공개하고 있습니다. &lt;1977년부터 매]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDFfMTIx/MDAxNjQ2MTIxOTQwNjAx.4fAPYlqdCwrEg0R0g34D3_oGCEffm1Oy2FdY2TcERoEg.c6cdIBRiKcSfn728JpKVQM8HwZdrVXwyqurlib1mt-sg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[트윗시황] "알트코인 시즌이 곧 온다" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/coindesk/nextmoney/contents/220304092247983Fk</link>
-            <guid>https://contents.premium.naver.com/coindesk/nextmoney/contents/220304092247983Fk</guid>
-            <pubDate>Sat, 05 Mar 2022 10:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[1. 코인베이스: 코인베이스는 거래 기능을 향상시켰습니다. 지정가 주문, 스톱 리밋 주문, 트레이딩뷰가 제공하는 차트, 코인베이스 프로와 동일한 수수료, 실시간 호가창(오더북) 사용이 가능합니다. 🤷‍♀️스톱 리밋이란? 매수·매도 가격과 스톱 가격을 사전 설정하고, 가격이 스톱 가격에 도달하며 지정된 매수·매도 가격으로 주문이 자동으로 체결되는 기능입니다.  2. 코인]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDRfNjkg/MDAxNjQ2MzUxNjAwMDAw._NkPMRicwauRmzwTnsohiGpGb5iaYyB8hbuL0KCpt24g.vLABpRN3J9tdxY2C-84FQVGwc1jT1Pe1gF_KsJM2DK8g.PNG/%ED%8A%B8%EC%9C%97%EC%8B%9C%ED%99%A9.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[그 가게가 남달랐던 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220227193354548eA</link>
+            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220227193354548eA</guid>
+            <pubDate>Sat, 05 Mar 2022 15:22:58 GMT</pubDate>
+            <content:encoded><![CDATA['오늘 그 생선구이집 갈까?' 월요일 퇴근길, 나는 서둘러 남편에게 문자를 보냈다. 코로나 이후, 한동안 잊고 지낸 가게가 떠올라서였다. 재작년까지만 해도 틈날 때마다 찾아가 저녁을 해결하던 곳이었다. 삼치구이나 고등어구이 중 하나를 고르고, 거기에 곁들일 찌개류를 추가하면 되는 아주 심플한 메뉴의 가게였다. 꾸준히 장사가 잘 된 덕에 더 큰 곳으로 이전을 하게 되었]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMjU1/MDAxNjQ1OTU4MjY0NjQx.3qAn0hQIPAaNCGj-ukW8gH780Tpm07FKqyKm7WNdliIg.fODRT_kapr-lDivEeUa0a6eESinyT3nSQqZ7wDzJyzsg.JPEG/photo-1428895009712-de9e58a18409.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[내 주식 싼 거야 비싼 거야? 구별하는 방법 l PER, EV/Sales (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220226205355083On</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220226205355083On</guid>
-            <pubDate>Fri, 04 Mar 2022 15:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[나 오늘 주식 샀는데.. 싼 거야? 비싼 거야?🔍  기업의 사정에 따라, 보는 관점에 따라 주가는 비싼 것일 수도 싼 것일 수도 있어요.  같은 물건을 사도 누구는 "잘 샀다" 말하지만, 다른 누구는 "비싸게 샀네" 하는 것처럼 말이죠.  현명한 투자를 위해서는 그런 것들을 비교해 볼 수 있는 '기준'들이 필요한데요  🍯꿀팁🍯 이번 영상에서는 주식의 가격을 비교해볼 수 있는 방법들을 알]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjZfMTc0/MDAxNjQ1ODc2MzU1MDY1.S4V7NH2B5brQX0JBISHBQwySysiEbboIystDBjAuIGwg.6MJ77KJeT0MB0yhyIk64GF2yyQ2SkWpnAw7bct8wJU0g.PNG/%EB%86%92%EC%9D%B4_%EC%84%AC%EB%84%A4%EC%9D%BC.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[단어를 골몰하고, 나만의 단어로 만드는 시간 ☞ ☞☞  '함께 쓰기' 활동 모집 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/song/mustseed/contents/220302020414119Kq</link>
+            <guid>https://contents.premium.naver.com/song/mustseed/contents/220302020414119Kq</guid>
+            <pubDate>Sat, 05 Mar 2022 15:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;연패의 삶: 져도 이기기&gt;, '함께 쓰기' 모집 ﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅ ✨ '함께 쓰기'가 뭔가요?  https://tundra-heaven-906.notion.site/f0b20b5b5b284496aee7d58e1f92d641 ✨ '함께 쓰기' 신청서 https://forms.gle/3cR42ZkNLTFW7o4m9 ﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅ &lt;연패의 삶: 져도 이기기&gt;, '함께 쓰기' 모집 신청 마감✱3/6 참가비✱2만 원 / 100% 인증 시 전액 환급 진행 방법 및 신청 ✱ 링크]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDJfMjg4/MDAxNjQ2MTUyODA3MjI2.SOdC-nG9TKYR-nPzCaAE_9cqq5pzodXu4RqQdWdqOXUg.s4GBoT0qnUi9TJJdi2L1iprYvcGoF28OSGF-PK56zSIg.JPEG/%ED%95%A8%EA%BB%98%EC%93%B0%EA%B8%B0_%ED%99%8D%EB%B3%B4ingeneral.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이번 겨울이 잘 지나가고 봄을 맞이할 때. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/youngbeom/youngbeomoh/contents/220304104321498ab</link>
-            <guid>https://contents.premium.naver.com/youngbeom/youngbeomoh/contents/220304104321498ab</guid>
-            <pubDate>Sat, 05 Mar 2022 11:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[이번 겨울이 잘 지나가고 봄을 맞이할 때. "마음의 한파가 지나가 따뜻한 봄바람이 고된 마음을 잘 달래줬으면 하는 마음입니다." 요즘 들어 힘들게 살아가는 우리들의 일상이 좀처럼 나아질 기미가 보이지 않으니까. 당신은 어떻게 보내고 있나요? 당신 또한 무기력함에 힘들어하고 있나요? 저는 요즘 다른 사람들 앞에서 괜찮은 모습을 보이곤 하지만 혼자 있을 때면 수도 없이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDNfNDEg/MDAxNjQ2MzE4NTI4NjM1.TkOSleDys27QYjI267geqgDhPoyG8LH_P6JqMMv6HKQg.GAPhF1_iATg4d-X1442OV_c2x2vw3sWgCHBuHpOwoFgg.JPEG/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84_%EC%9D%B4%EB%AF%B8%EC%A7%80_%ED%8E%B8%EC%A7%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[Tips] 초보 러너, 어떻게 자세로 달려야 할까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220301153453438wi</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220301153453438wi</guid>
+            <pubDate>Sat, 05 Mar 2022 15:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[간단한 러닝 팁을 전하는 코너입니다. 달리는 방법부터 호흡하는 방법까지, 러너들이 궁금해할 만한 내용들을 정리해서 소개합니다. 러닝과 관련해서 궁금한 점들이 있으면 댓글로 남겨주시면 또 다른 콘텐츠로 전달하겠습니다. 안녕하세요 굿모닝러너입니다.  운동은 자세! 이런 말 들어보셨을 거예요. 러닝도 마찬가지이죠. 특히 러닝은 온전히 내 몸만을 이용하는 만큼 자세]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMjky/MDAxNjQ1OTYzNjc4MjIy.Uz1KIpJcSIx3laOb0fYm1891hU8uOXqUbbVdJgfv14Ig.B-kXMh37T6IEmylnIYaButKjjOYgK1BWgfb9v4mJOcIg.JPEG/chander-r-AtfA8NDgpKA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

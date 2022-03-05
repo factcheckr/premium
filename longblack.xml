@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-03-05T14:21:18.371Z</updated>
+    <updated>2022-03-05T15:22:58.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[행복의 기원 : 행복은 복권이 아니라 초콜릿에서 오는 것이다]]></title>
-        <id>https://www.longblack.co/note/222</id>
-        <link href="https://www.longblack.co/note/222"/>
-        <updated>2022-03-04T15:24:28.796Z</updated>
-        <content type="html"><![CDATA[사람은 오래 전부터 본성과 이성 사이에서 갈등을 느끼는 존재였습니다. 올해는 기필코 다이어트에 성공하리라 다짐하지만(이성) 늦은 밤 라면을 끓이고 있는 나<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2022-03-05T15:22:27.474Z</updated>
+        <content type="html"><![CDATA[B의 마음을 다잡게 만든 지난주 롱블랙의 문장
+
+“축적이 있는 사람들은 인사이트가 반짝, 하잖아요. 그게 순간의 노력으로 반짝이는 것 같지만, 그 전에 굉장히 많은 시행착오가 있었기 때문에 가능한 거예요. 그걸 우리는 혁신의 축적이라고 불러요. 이미 오래전부터 조금<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
