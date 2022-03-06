@@ -4,17 +4,9 @@
         <title>네이버 프리미엄콘텐츠 ─ 무료 프로모션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 10:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 11:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[브리핑] 美, 은행간 결제망(SWIFT)서 러 축출...그러나 구멍은 마련돼  있다!]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220227095933803jO</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220227095933803jO</guid>
-            <pubDate>Sat, 05 Mar 2022 15:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[해외에 송금할 때 이른바 SWIFT 코드를 입력해야 합니다. SWIFT는 Society for Worldwide Interbank Financial Telecommunications(세계 은행간금융통신협회)의 머릿글자입니다. 1차 오일쇼크가 발생한 1973년에 등장했습니다.  SWIFT 코드는 사실 은행에만 부여된 것은 아닙니다. 수출입 기업들도 갖고 있는 경우가 많습니다. 국경 너머로 자금을 보내거나 받을 때 필수적인 영어 알파벳과 숫자 조합입니]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMTIg/MDAxNjQ1OTIzMTAzMTg3.Wg55DXEOWGPjTiKRIUPBs4Z5WlO3yKSelaiDWT9tZ4kg.ZoxGre4o0hTqpaAlgbgkZPEIMChXD8FXKaYoLSXTHqwg.JPEG/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[아파트 리모델링 쉽지않은 이유]]></title>
             <link>https://contents.premium.naver.com/backbriefing/news/contents/211228183452815Ib</link>
@@ -24,11 +16,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjhfMjcw/MDAxNjQwNjY3MjU4NzE5.PMoh7iAubcQORJtwLYk0AEDNTxi25WFpctlHZnV524sg.8FiN3YE8ipEgx7ZJqgfBjiF8CahJe90a4LulSyhA2hgg.PNG/%EB%A6%AC%EB%AA%A8_%EC%9E%AC%EA%B1%B4%EC%B6%95_%EC%B0%A8%EC%9D%B4.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[동영상] L. 랜덜 레이 "당신은 MMT를 잘못 알고 있다!"]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220227102404747ku</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220227102404747ku</guid>
+            <title><![CDATA[[브리핑] 美, 은행간 결제망(SWIFT)서 러 축출...그러나 구멍은 마련돼  있다!]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220227095933803jO</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220227095933803jO</guid>
             <pubDate>Sat, 05 Mar 2022 15:22:57 GMT</pubDate>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMjk5/MDAxNjQ1OTI1MDIyMTQz.7x0w4Zh6Dx5fK9padYPctChgiAh5f56H4UBiiWxV-Vog.4lRa-gtxJqD3bdWBXeDJck5oNHvpWRDbTNWeMcy_5o8g.JPEG/%EB%9E%9C%EB%8D%9C_%EB%A0%88%EC%9D%B4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[해외에 송금할 때 이른바 SWIFT 코드를 입력해야 합니다. SWIFT는 Society for Worldwide Interbank Financial Telecommunications(세계 은행간금융통신협회)의 머릿글자입니다. 1차 오일쇼크가 발생한 1973년에 등장했습니다.  SWIFT 코드는 사실 은행에만 부여된 것은 아닙니다. 수출입 기업들도 갖고 있는 경우가 많습니다. 국경 너머로 자금을 보내거나 받을 때 필수적인 영어 알파벳과 숫자 조합입니]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMTIg/MDAxNjQ1OTIzMTAzMTg3.Wg55DXEOWGPjTiKRIUPBs4Z5WlO3yKSelaiDWT9tZ4kg.ZoxGre4o0hTqpaAlgbgkZPEIMChXD8FXKaYoLSXTHqwg.JPEG/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기쁨의 강도보다 빈도]]></title>
@@ -39,12 +32,11 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjBfMTg3/MDAxNjQ1MzQ2NTY5OTgx.rqt9A4K58J23krMN4jKOetcsQjZdaP7sKHE_JO8pQjIg.25aXy6x9YtDpVI9w8fsQ_jAuXnZDr8rE9BKJ3hqLlBIg.JPEG/photo-1567578923208-5cc60003892d.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [12일차]]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220227185648715PJ</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220227185648715PJ</guid>
+            <title><![CDATA[[동영상] L. 랜덜 레이 "당신은 MMT를 잘못 알고 있다!"]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220227102404747ku</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220227102404747ku</guid>
             <pubDate>Sat, 05 Mar 2022 15:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [12일차] 굿모닝러너님,  오늘 아침, 더 나아갈 수 있는 길에 감사하며 하루를 시작하셨나요 ?  계속 나아가다보면 당신의 타이밍이 곧 올거에요. 벌써 2월의 마지막 날이네요~ 지나간 과정들에 감사하며, 새로운 3월을 맞이해보세요 :)    굿모닝러너_챌린지_12일차 #20220228 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMjAw/MDAxNjQ1OTU1NzIxNzcw.9PQPjqDPyFf2iVbndYBnx3xjIRkgXuNKRzkXlOJVdaMg.kqp7SQidwr8rw3nseDyYGMysNw72KyTm0gK9Q9NDj88g.JPEG/KakaoTalk_20220227_185228688.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMjk5/MDAxNjQ1OTI1MDIyMTQz.7x0w4Zh6Dx5fK9padYPctChgiAh5f56H4UBiiWxV-Vog.4lRa-gtxJqD3bdWBXeDJck5oNHvpWRDbTNWeMcy_5o8g.JPEG/%EB%9E%9C%EB%8D%9C_%EB%A0%88%EC%9D%B4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하종현, 제이슨 마틴 등 2월 주목할 만한 전시들]]></title>
@@ -55,12 +47,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTVfMjQx/MDAxNjQ0ODk3NTgyMDA0.sX-6s2JVSTuqVTc6eSlzaaQXd-prPRurhk87eJqS6SAg.ZFk0GX3kTlh7cg5o8umzuc0oDCAu-u6SJS_aGEWAXNEg.PNG/_Jason_Martin_Feb_2022_Photo_credit_Mustafa_Hulusi.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[그 가게가 남달랐던 이유]]></title>
-            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220227193354548eA</link>
-            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220227193354548eA</guid>
-            <pubDate>Sat, 05 Mar 2022 15:22:58 GMT</pubDate>
-            <content:encoded><![CDATA['오늘 그 생선구이집 갈까?' 월요일 퇴근길, 나는 서둘러 남편에게 문자를 보냈다. 코로나 이후, 한동안 잊고 지낸 가게가 떠올라서였다. 재작년까지만 해도 틈날 때마다 찾아가 저녁을 해결하던 곳이었다. 삼치구이나 고등어구이 중 하나를 고르고, 거기에 곁들일 찌개류를 추가하면 되는 아주 심플한 메뉴의 가게였다. 꾸준히 장사가 잘 된 덕에 더 큰 곳으로 이전을 하게 되었]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMjU1/MDAxNjQ1OTU4MjY0NjQx.3qAn0hQIPAaNCGj-ukW8gH780Tpm07FKqyKm7WNdliIg.fODRT_kapr-lDivEeUa0a6eESinyT3nSQqZ7wDzJyzsg.JPEG/photo-1428895009712-de9e58a18409.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[굿모닝러너 챌린지 [12일차]]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220227185648715PJ</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220227185648715PJ</guid>
+            <pubDate>Sat, 05 Mar 2022 15:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [12일차] 굿모닝러너님,  오늘 아침, 더 나아갈 수 있는 길에 감사하며 하루를 시작하셨나요 ?  계속 나아가다보면 당신의 타이밍이 곧 올거에요. 벌써 2월의 마지막 날이네요~ 지나간 과정들에 감사하며, 새로운 3월을 맞이해보세요 :)    굿모닝러너_챌린지_12일차 #20220228 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMjAw/MDAxNjQ1OTU1NzIxNzcw.9PQPjqDPyFf2iVbndYBnx3xjIRkgXuNKRzkXlOJVdaMg.kqp7SQidwr8rw3nseDyYGMysNw72KyTm0gK9Q9NDj88g.JPEG/KakaoTalk_20220227_185228688.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 버크셔 해셔웨이 주주서한 - 당신이 "일하는" 것으로 여겨지는 직업이 아닌 일을 했으면 좋겠습니다.]]></title>
@@ -71,12 +63,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDFfMTIx/MDAxNjQ2MTIxOTQwNjAx.4fAPYlqdCwrEg0R0g34D3_oGCEffm1Oy2FdY2TcERoEg.c6cdIBRiKcSfn728JpKVQM8HwZdrVXwyqurlib1mt-sg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[Tips] 초보 러너, 어떻게 자세로 달려야 할까요?]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220301153453438wi</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220301153453438wi</guid>
-            <pubDate>Sun, 06 Mar 2022 09:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[간단한 러닝 팁을 전하는 코너입니다. 달리는 방법부터 호흡하는 방법까지, 러너들이 궁금해할 만한 내용들을 정리해서 소개합니다. 러닝과 관련해서 궁금한 점들이 있으면 댓글로 남겨주시면 또 다른 콘텐츠로 전달하겠습니다. 안녕하세요 굿모닝러너입니다.  운동은 자세! 이런 말 들어보셨을 거예요. 러닝도 마찬가지이죠. 특히 러닝은 온전히 내 몸만을 이용하는 만큼 자세]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMjky/MDAxNjQ1OTYzNjc4MjIy.Uz1KIpJcSIx3laOb0fYm1891hU8uOXqUbbVdJgfv14Ig.B-kXMh37T6IEmylnIYaButKjjOYgK1BWgfb9v4mJOcIg.JPEG/chander-r-AtfA8NDgpKA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[그 가게가 남달랐던 이유]]></title>
+            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220227193354548eA</link>
+            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220227193354548eA</guid>
+            <pubDate>Sat, 05 Mar 2022 15:22:58 GMT</pubDate>
+            <content:encoded><![CDATA['오늘 그 생선구이집 갈까?' 월요일 퇴근길, 나는 서둘러 남편에게 문자를 보냈다. 코로나 이후, 한동안 잊고 지낸 가게가 떠올라서였다. 재작년까지만 해도 틈날 때마다 찾아가 저녁을 해결하던 곳이었다. 삼치구이나 고등어구이 중 하나를 고르고, 거기에 곁들일 찌개류를 추가하면 되는 아주 심플한 메뉴의 가게였다. 꾸준히 장사가 잘 된 덕에 더 큰 곳으로 이전을 하게 되었]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjdfMjU1/MDAxNjQ1OTU4MjY0NjQx.3qAn0hQIPAaNCGj-ukW8gH780Tpm07FKqyKm7WNdliIg.fODRT_kapr-lDivEeUa0a6eESinyT3nSQqZ7wDzJyzsg.JPEG/photo-1428895009712-de9e58a18409.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[단어를 골몰하고, 나만의 단어로 만드는 시간 ☞ ☞☞  '함께 쓰기' 활동 모집]]></title>
+            <link>https://contents.premium.naver.com/song/mustseed/contents/220302020414119Kq</link>
+            <guid>https://contents.premium.naver.com/song/mustseed/contents/220302020414119Kq</guid>
+            <pubDate>Sun, 06 Mar 2022 11:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;연패의 삶: 져도 이기기&gt;, '함께 쓰기' 모집 ﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅ ✨ '함께 쓰기'가 뭔가요?  https://tundra-heaven-906.notion.site/f0b20b5b5b284496aee7d58e1f92d641 ✨ '함께 쓰기' 신청서 https://forms.gle/3cR42ZkNLTFW7o4m9 ﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅﹅ &lt;연패의 삶: 져도 이기기&gt;, '함께 쓰기' 모집 신청 마감✱3/6 참가비✱2만 원 / 100% 인증 시 전액 환급 진행 방법 및 신청 ✱ 링크]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDJfMjg4/MDAxNjQ2MTUyODA3MjI2.SOdC-nG9TKYR-nPzCaAE_9cqq5pzodXu4RqQdWdqOXUg.s4GBoT0qnUi9TJJdi2L1iprYvcGoF28OSGF-PK56zSIg.JPEG/%ED%95%A8%EA%BB%98%EC%93%B0%EA%B8%B0_%ED%99%8D%EB%B3%B4ingeneral.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
