@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 01:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 02:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6697?fr=category</guid>
             <pubDate>Sun, 27 Feb 2022 18:20:37 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세계 여성의 날 이제는 챙기셔야 합니다 feat. 레퍼런스 모음 (캐릿)]]></title>
+            <link>https://www.careet.net/665</link>
+            <guid>https://www.careet.net/665</guid>
+            <pubDate>Mon, 07 Mar 2022 02:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[내년 여성의 날 마케팅은 이렇게 준비해보세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/b4c1a7f5-edae-46aa-8b4e-14a1d92fe559_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[캐릿 유튜브] Z세대는 취미로 ‘보컬 트레이닝’배운다고? (영상 있음) (캐릿)]]></title>
@@ -605,12 +613,88 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[역대급 체험형 전시, 뮤 울프 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/whyart/media/contents/220221203224461na</link>
-            <guid>https://contents.premium.naver.com/whyart/media/contents/220221203224461na</guid>
-            <pubDate>Sun, 06 Mar 2022 15:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[👇🏻 평범한 마트처럼 보이는 이곳, 진짜 마트일까요?  이곳은 미국 라스베이거스에 위치한 &lt;오메가 마트(The Omega Mart)&gt;입니다. 겉으로 보기엔 마트와 크게 다를 바 없는 것 같은데요. 이곳에서 파는 식료품들의 목록을 보면 얘기가 달라집니다.  이게 다 뭘까요? 실제로 판매하는 물건들일까요? “미국에서 가장 특별한 식료품점”이라는 소개 문구가 맞긴 한 것 같은데요. 관람객이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjFfMTM4/MDAxNjQ1NDM5ODY4MzY1.pKUhiU-VziiQPqyd2powLsP-rZu1KPN-nacrSPNEsWEg.d4DietZ2hZqJNbhs4zOypiRMV0pKbslWur1c8TuRvrAg.JPEG/2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[2022년 일곱 번째 - 대선 이후 4420만명의 대한민국 유권자 모두가 이겼다고 느낄 수 있기를. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49399</link>
+            <guid>https://www.bookjournalism.com/books/49399</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[대선 너머]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #26에선, 푸틴의 증오와 우크라이나의 운명, 대선의 막판 변수 단일화 효과,〈소년심판〉이 제기하는 촉법소년 문제에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49380</link>
+            <guid>https://www.bookjournalism.com/audio/49380</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[악마 푸틴과 단일화 뒤 악마의 유혹 그리고 소년악마]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[만일 단일화로 대선에서 승리한다면, 윤석열과 안철수는 정말 권력을 나눌 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49348</link>
+            <guid>https://www.bookjournalism.com/books/49348</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[악마의 유혹]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[택배 파업이 두 달 넘게 이어진 끝에 마무리 되었다. 21세기에 벌어진 20세기 노동쟁의였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49300</link>
+            <guid>https://www.bookjournalism.com/books/49300</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[택배파업, 우리 삶도 파손주의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[푸틴는 왜 우크라이나의 동쪽 절반을 노리는가? 푸틴을 어디서 어떻게 저지할 것인가? 우크라이나 전선이 무너지면 푸틴은 어디까지 노릴 것인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49282</link>
+            <guid>https://www.bookjournalism.com/books/49282</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 라인]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[형법 제9조에 따라 만 14세 미만의 행위는 벌할 수 없다. 촉법소년 연령, 낮춰야 하나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49274</link>
+            <guid>https://www.bookjournalism.com/books/49274</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[죄를 물을 수 없는 아이들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19로 국경이 닫히고 도시는 활기를 잃었다. 이제 도시를 되살릴 방법을 궁리해야 할 때다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49207</link>
+            <guid>https://www.bookjournalism.com/books/49207</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 시대, 도시의 부활 전략]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 여섯 번째 - 2022년 2월 24일 오전 5시 러시아가 우크라이나를 침공했습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49178</link>
+            <guid>https://www.bookjournalism.com/books/49178</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #25에선, 보름도 남지 않은 제20대 대통령선거의 향방을 단일화라는 키워드로 짚어봅니다. 그리고 결국 전쟁이 발발한 우크라이나 사태를 통해 푸틴의 야망과 바이든의 좌절에 대해 들여다봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49142</link>
+            <guid>https://www.bookjournalism.com/audio/49142</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[단일화 꽃은 과연 필까요? 그리고 우크라이나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[과연 어느 쪽이 안철수 후보와의 단일화를 성사시킬까? 성공하면 당선이다. 실패하면 낙선이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49101</link>
+            <guid>https://www.bookjournalism.com/books/49101</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[단일화 날밀기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트럼프의 소셜 미디어 트루스 소셜이 출시됐다. 트루스 소셜이 보여주는 진실은 무엇인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49061</link>
+            <guid>https://www.bookjournalism.com/books/49061</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[진실을 ‘트루스’ 하시겠습니까]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일런 머스크의 스페이스X의 목표는 화성 식민지화와 태양계 정복이다. 이것은 로켓사이언스가 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49023</link>
+            <guid>https://www.bookjournalism.com/books/49023</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[애드 아스트라]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 사태에서 '맹활약'하는 우주기업들 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -621,12 +705,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfODgg/MDAxNjQ1Nzc3NzI2MDQ0.s8hs1-B8E1xgsGStjtSegWeKfy1g6Kw3268N7NWkqm8g.S_iEsPaz-EMOoF3fRtT3NEytI7aEwkcMCMSy8My49D0g.JPEG/2f953725e0f08cfec52cbecbdb779894.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[라인프렌즈, 중국에서 아예 방 뺀다…中 위기설 사실일까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/chinalab/bizntech/contents/220221160726441bv</link>
-            <guid>https://contents.premium.naver.com/chinalab/bizntech/contents/220221160726441bv</guid>
+            <title><![CDATA[역대급 체험형 전시, 뮤 울프 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/whyart/media/contents/220221203224461na</link>
+            <guid>https://contents.premium.naver.com/whyart/media/contents/220221203224461na</guid>
             <pubDate>Sun, 06 Mar 2022 15:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[중국 매체 제일재경(第一財經)은 라인프렌즈의 마지막 중국 매장인 청두(成都)점이 2월 10일을 끝으로 폐점했다고 보도했다. 한한령에도 끄떡없던 라인프렌즈, 결국 중국 서 위기를 맞은 것일까? ​ 패기롭게 中 시장 진출한 라인, 당국 규제에 메신저 사업 접어 일본에서 소위 ‘대박’을 터뜨린 라인(LINE)은 시야를 넓혀 중국 시장에도 발을 뻗었다. 라인은 중국 진출 초창기인 20]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjFfMzIg/MDAxNjQ1NDI2NzI3Mjk1.0Ay9A4Uh-MvGoI4CjXXpQc-_M7DcTUbda28JqZ3ZNTIg.0Ol-7S2FWzf7PQaFhkAkSkZdI0U87BKpvkCCVgdiRuMg.JPEG/d62a6059252dd42acf9ac02c9bf484bccbeab884.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[👇🏻 평범한 마트처럼 보이는 이곳, 진짜 마트일까요?  이곳은 미국 라스베이거스에 위치한 &lt;오메가 마트(The Omega Mart)&gt;입니다. 겉으로 보기엔 마트와 크게 다를 바 없는 것 같은데요. 이곳에서 파는 식료품들의 목록을 보면 얘기가 달라집니다.  이게 다 뭘까요? 실제로 판매하는 물건들일까요? “미국에서 가장 특별한 식료품점”이라는 소개 문구가 맞긴 한 것 같은데요. 관람객이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjFfMTM4/MDAxNjQ1NDM5ODY4MzY1.pKUhiU-VziiQPqyd2powLsP-rZu1KPN-nacrSPNEsWEg.d4DietZ2hZqJNbhs4zOypiRMV0pKbslWur1c8TuRvrAg.JPEG/2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[✍️젤렌스키의 영웅적 행동과 진정한 리더쉽 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -637,12 +721,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjhfMjE5/MDAxNjQ2MDAyODM0Mjg1.1iil93jkdE6pPDnrGPCVB-_owKhCwXPkWR5-HdOT-gkg.VzPFPOCVVxUtked6-dT9ag-T-eRLbViRmt9YKrru6zIg.JPEG/%EC%BA%A1%EC%B2%98.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA['높아진 한국 IB 위상' KB증권, 유럽 통신사 M&A 인수금융 따냈다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220227075613572Mi</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220227075613572Mi</guid>
+            <title><![CDATA[라인프렌즈, 중국에서 아예 방 뺀다…中 위기설 사실일까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/chinalab/bizntech/contents/220221160726441bv</link>
+            <guid>https://contents.premium.naver.com/chinalab/bizntech/contents/220221160726441bv</guid>
             <pubDate>Sun, 06 Mar 2022 15:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[국내 투자은행(IB)들의 위상이 날로 높아지고 있습니다. 글로벌 빅딜에 이름을 올리면서 존재감을 시장에 각인시키고 있습니다. 이번에는 KB증권이 쾌거를 올렸습니다. KB증권은 네덜란드 모바일 통신 시장 1위 기업의 빅딜에 인수금융 주선사 자격을 따냈습니다. 인수금융으로 조달되는 금액만 3조원이 넘는 대형 딜로, 국내에서는 KB증권이 단독으로 주선을 맡았습니다. 최근 글]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfMjcx/MDAxNjQ1NzY4OTk4NzE3.FOZn3EgLJQYPpARq5X32QIl2gfd_Ppb5huYqJjd__7Ig.HPQZq-4xZ86yry4TRk3wSTSJsJnjMt8i0CuP-JDZxMcg.JPEG/business-g30a3f465c_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[중국 매체 제일재경(第一財經)은 라인프렌즈의 마지막 중국 매장인 청두(成都)점이 2월 10일을 끝으로 폐점했다고 보도했다. 한한령에도 끄떡없던 라인프렌즈, 결국 중국 서 위기를 맞은 것일까? ​ 패기롭게 中 시장 진출한 라인, 당국 규제에 메신저 사업 접어 일본에서 소위 ‘대박’을 터뜨린 라인(LINE)은 시야를 넓혀 중국 시장에도 발을 뻗었다. 라인은 중국 진출 초창기인 20]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjFfMzIg/MDAxNjQ1NDI2NzI3Mjk1.0Ay9A4Uh-MvGoI4CjXXpQc-_M7DcTUbda28JqZ3ZNTIg.0Ol-7S2FWzf7PQaFhkAkSkZdI0U87BKpvkCCVgdiRuMg.JPEG/d62a6059252dd42acf9ac02c9bf484bccbeab884.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[보고서의 분량은 적을수록 적절하고, 보고 시점은 빠를수록 좋다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -653,12 +737,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjhfOTkg/MDAxNjQ2MDIwOTI0Mzc5.E9OaFbWdngh6jR-PZ7xbJ9q0MX7jtAZsN5gcfZHMs2gg.H60DeKAAPL7X1hv1LQQT_HI1zi9fj8rvarR_-LujRnAg.JPEG/%EB%B3%B4%EA%B3%A0%EC%84%9C%EB%B6%84%EB%9F%89_%EB%B3%B4%EA%B3%A0%EC%8B%9C%EC%A0%90_%EC%A0%95%EA%B2%BD%EC%88%98%EC%9D%98%EB%8D%94%EB%8D%94%EB%8D%94.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6억→44억원…11년 만에 7배 이상 뛴 ‘땡땡이 비너스상’ (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/edaily/artmoney/contents/220225131431273cB</link>
-            <guid>https://contents.premium.naver.com/edaily/artmoney/contents/220225131431273cB</guid>
+            <title><![CDATA['높아진 한국 IB 위상' KB증권, 유럽 통신사 M&A 인수금융 따냈다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220227075613572Mi</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220227075613572Mi</guid>
             <pubDate>Sun, 06 Mar 2022 15:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[국내 양대 미술품 경매사가 먼저 불을 붙인 ‘2월 메이저 경매’가 마무리됐다. 지난 22일과 23일 하루 사이로 서울옥션과 케이옥션은 ‘제165회 미술품 경매’와 ‘2월 경매’를 차례로 열었다. 추정가로 예상했던 규모는 275억원대(서울옥션 188억원, 케이옥션 87억원).  지난해에 이어 올해도 시작부터 ‘뭉칫돈’을 끌어들일 블루칩 작가군으로 이우환(86)과 쿠사마 야요이(93), 김]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfMTQ0/MDAxNjQ1NzYxOTEzNjE2.DnMgiNgiZpPFZG4Y9B0ARLsr0Iq9lgEXRLH_-_LscXUg.IeMeYkkn3UjfQWfxLww5T6LAu9wCMVSpnRyoWjoAka0g.JPEG/3.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[국내 투자은행(IB)들의 위상이 날로 높아지고 있습니다. 글로벌 빅딜에 이름을 올리면서 존재감을 시장에 각인시키고 있습니다. 이번에는 KB증권이 쾌거를 올렸습니다. KB증권은 네덜란드 모바일 통신 시장 1위 기업의 빅딜에 인수금융 주선사 자격을 따냈습니다. 인수금융으로 조달되는 금액만 3조원이 넘는 대형 딜로, 국내에서는 KB증권이 단독으로 주선을 맡았습니다. 최근 글]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfMjcx/MDAxNjQ1NzY4OTk4NzE3.FOZn3EgLJQYPpARq5X32QIl2gfd_Ppb5huYqJjd__7Ig.HPQZq-4xZ86yry4TRk3wSTSJsJnjMt8i0CuP-JDZxMcg.JPEG/business-g30a3f465c_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스낵에세이] "메멘토 모리" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -669,12 +753,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjhfMTY4/MDAxNjQ2MDEyOTEyNDUw.O8CEtYZ_BRbArYhGo2A8p8XwMey7X2zyScX3KkUh5RMg.motRzDHZ0xcE1VbQHnz9GqOW_sXssR0pjk-3dxaSN1Eg.PNG/MZRIAHHXVZTO556APUKLWB7NH4.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[무엇을 좋아하고 무엇을 싫어하나요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maumbam/surisee/contents/220208162600901Om</link>
-            <guid>https://contents.premium.naver.com/maumbam/surisee/contents/220208162600901Om</guid>
-            <pubDate>Sun, 06 Mar 2022 22:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[즐겨 듣는 팟캐스트에서는 게스트에게 조금 특별한 자기소개를 권한다. “당신은 무엇을 좋아하고 무엇을 싫어하나요?”라고 질문하고 이런 대답들을 듣는다. 저는 잠을 좋아하고 기상을 싫어합니다.  저는 집을 좋아하고 먼 곳을 싫어합니다. 저는 입금을 좋아하고 마감을 싫어합니다.  저는 와인을 좋아하고 우유를 싫어합니다. 저는 여름을 좋아하고 겨울을 싫어합니다. 저는]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDhfMTYy/MDAxNjQ0MzA1MDg0NzIw.5tp1pI8nSAALcyfioO3Q6DzzWWwaycB9Yrd-UllxCyUg.F2gQ2I61OBdtCIA16uO3DUCy2vEOZz9-_ojT_1wnzBUg.JPEG/KakaoTalk_20220208_162402742.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[6억→44억원…11년 만에 7배 이상 뛴 ‘땡땡이 비너스상’ (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/edaily/artmoney/contents/220225131431273cB</link>
+            <guid>https://contents.premium.naver.com/edaily/artmoney/contents/220225131431273cB</guid>
+            <pubDate>Sun, 06 Mar 2022 15:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[국내 양대 미술품 경매사가 먼저 불을 붙인 ‘2월 메이저 경매’가 마무리됐다. 지난 22일과 23일 하루 사이로 서울옥션과 케이옥션은 ‘제165회 미술품 경매’와 ‘2월 경매’를 차례로 열었다. 추정가로 예상했던 규모는 275억원대(서울옥션 188억원, 케이옥션 87억원).  지난해에 이어 올해도 시작부터 ‘뭉칫돈’을 끌어들일 블루칩 작가군으로 이우환(86)과 쿠사마 야요이(93), 김]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfMTQ0/MDAxNjQ1NzYxOTEzNjE2.DnMgiNgiZpPFZG4Y9B0ARLsr0Iq9lgEXRLH_-_LscXUg.IeMeYkkn3UjfQWfxLww5T6LAu9wCMVSpnRyoWjoAka0g.JPEG/3.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무료 영상 편집 프로그램 다빈치 리졸브 소개 (다운로드부터 설치하기 - 동영상 첨부) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/videocoach/videocoach80/contents/220228172712938nd</link>
+            <guid>https://contents.premium.naver.com/videocoach/videocoach80/contents/220228172712938nd</guid>
+            <pubDate>Mon, 07 Mar 2022 02:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 비디오코치입니다.  바야흐로 유튜브는 영상 채널의 대세로 자리잡았습니다. 이제 남녀노소를 가리지 않고 영상을 촬영하고 영상을 편집하는 시대입니다.  그런데 문제는 영상 편집용 프로그램에 있어 접근성이 그리 높지 않은 상황입니다. 무료 편집 프로그램이 있기는 하지만 기능적으로 많이 부족한 상황입니다.  그렇다고 프리미어, 파이널컷과 같은 유료 프로]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjhfMTEy/MDAxNjQ2MDM2NjEzMTcz.wsZIyzyfuVXb5EYO6tD222xTvNR9B79BF2Qgls9DbG4g.vBLPuRtVp6pLW1rgTHPdL_8RmYNm85j3wkZOXXgE7_Mg.PNG/20210208_190744.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

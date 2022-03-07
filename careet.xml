@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 01:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 02:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 여성의 날 이제는 챙기셔야 합니다 feat. 레퍼런스 모음]]></title>
+            <link>https://www.careet.net/665</link>
+            <guid>https://www.careet.net/665</guid>
+            <pubDate>Mon, 07 Mar 2022 02:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[내년 여성의 날 마케팅은 이렇게 준비해보세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/b4c1a7f5-edae-46aa-8b4e-14a1d92fe559_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[캐릿 유튜브] Z세대는 취미로 ‘보컬 트레이닝’배운다고? (영상 있음)]]></title>
             <link>https://www.careet.net/663</link>
