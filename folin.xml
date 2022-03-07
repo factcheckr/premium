@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-07T21:20:35.498Z</updated>
+    <updated>2022-03-07T22:22:37.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배달앱, OTT까지 ‘5060이 뜬다’]]></title>
+        <id>https://www.folin.co/story/2100</id>
+        <link href="https://www.folin.co/story/2100"/>
+        <updated>2022-03-07T22:22:20.074Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["사무실, 출퇴근 '디폴트' 아니라 '목적지' 돼야죠"]]></title>
+        <id>https://www.folin.co/story/2099</id>
+        <link href="https://www.folin.co/story/2099"/>
+        <updated>2022-03-07T22:22:20.074Z</updated>
+        <content type="html"><![CDATA[<li>공간</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['샤이(Shy)브리드' 대신 '하이브리드' 워크]]></title>
         <id>https://www.folin.co/story/2098</id>
@@ -276,21 +292,5 @@
         <updated>2022-02-27T18:21:05.760Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ 1인 가구를 사로잡은 코리빙, 맹그로브]]></title>
-        <id>https://www.folin.co/story/2048</id>
-        <link href="https://www.folin.co/story/2048"/>
-        <updated>2022-02-27T18:21:05.761Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>조직문화</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코리빙 브랜드 맹그로브가 '콘텐츠 맛집'이 된 사연]]></title>
-        <id>https://www.folin.co/story/2049</id>
-        <link href="https://www.folin.co/story/2049"/>
-        <updated>2022-02-27T18:21:05.762Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>조직문화</li>]]></content>
     </entry>
 </feed>

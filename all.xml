@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 21:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 22:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -325,6 +325,22 @@
             <content:encoded><![CDATA[서점을 열고 싶었던 적이 있습니다. 그런데 이 책을 보고 마음을 접었죠. 출판사 브로드컬리프레스에서 나온 『서울의 3년 이하 서점들』입니다. 제목 그대로 서울에서 서점을 창업한 지<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[배달앱, OTT까지 ‘5060이 뜬다’ (폴인)]]></title>
+            <link>https://www.folin.co/story/2100</link>
+            <guid>https://www.folin.co/story/2100</guid>
+            <pubDate>Mon, 07 Mar 2022 22:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["사무실, 출퇴근 '디폴트' 아니라 '목적지' 돼야죠" (폴인)]]></title>
+            <link>https://www.folin.co/story/2099</link>
+            <guid>https://www.folin.co/story/2099</guid>
+            <pubDate>Mon, 07 Mar 2022 22:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[<li>공간</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['샤이(Shy)브리드' 대신 '하이브리드' 워크 (폴인)]]></title>
             <link>https://www.folin.co/story/2098</link>
             <guid>https://www.folin.co/story/2098</guid>
@@ -595,22 +611,6 @@
             <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MZ 1인 가구를 사로잡은 코리빙, 맹그로브 (폴인)]]></title>
-            <link>https://www.folin.co/story/2048</link>
-            <guid>https://www.folin.co/story/2048</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>조직문화</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코리빙 브랜드 맹그로브가 '콘텐츠 맛집'이 된 사연 (폴인)]]></title>
-            <link>https://www.folin.co/story/2049</link>
-            <guid>https://www.folin.co/story/2049</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아는 언론 통제를 강화하고 글로벌 기업들은 러시아를 보이콧 한다. 푸틴은 여론을 잠재울 수 있을 것인가. (북저널리즘)]]></title>
