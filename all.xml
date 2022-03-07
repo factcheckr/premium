@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 08:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한번에 통과되는 기획서는 '논리'가 있다 (퍼블리)]]></title>
+            <link>https://publy.co/content/6719?fr=category</link>
+            <guid>https://publy.co/content/6719?fr=category</guid>
+            <pubDate>Mon, 07 Mar 2022 09:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[그로스해킹: 데이터와 실험으로 성장하는 서비스 만들기 (퍼블리)]]></title>
             <link>https://publy.co/content/6722?fr=category</link>
@@ -67,13 +74,6 @@
             <title><![CDATA[목표, 생각만 하지 말고 눈으로 확인하세요! 노션 목표 관리법(템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/6698?fr=category</link>
             <guid>https://publy.co/content/6698?fr=category</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[회사와 나, 모두 윈윈하는 마케터의 셀프브랜딩 (퍼블리)]]></title>
-            <link>https://publy.co/content/6718?fr=category</link>
-            <guid>https://publy.co/content/6718?fr=category</guid>
             <pubDate>Sun, 27 Feb 2022 18:20:37 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
         </item>
