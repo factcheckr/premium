@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-03-07T14:21:17.665Z</updated>
+    <updated>2022-03-07T15:24:01.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[미나 페르호넨 : 좋은 디자인은 만드는 사람의 기쁨에서 탄생한다]]></title>
-        <id>https://www.longblack.co/note/223</id>
-        <link href="https://www.longblack.co/note/223"/>
-        <updated>2022-03-06T15:22:33.029Z</updated>
-        <content type="html"><![CDATA[미나 페르호넨minä perhonen은 ‘일본의 마리메꼬*’라고 불리는 패션 브랜드입니다. 감성적이면서도 과감한 그래픽<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[브로드컬리 : 안 되면 카페나 하겠다는 사회에, 자영업자의 진짜 삶을 알리다]]></title>
+        <id>https://www.longblack.co/note/224</id>
+        <link href="https://www.longblack.co/note/224"/>
+        <updated>2022-03-07T15:23:27.809Z</updated>
+        <content type="html"><![CDATA[서점을 열고 싶었던 적이 있습니다. 그런데 이 책을 보고 마음을 접었죠. 출판사 브로드컬리프레스에서 나온 『서울의 3년 이하 서점들』입니다. 제목 그대로 서울에서 서점을 창업한 지<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
