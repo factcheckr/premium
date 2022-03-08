@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-08T21:21:27.151Z</updated>
+    <updated>2022-03-08T22:23:21.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디자이너에서 그로스 해커를 거쳐 CMO까지, 원동력은?]]></title>
+        <id>https://www.folin.co/story/2092</id>
+        <link href="https://www.folin.co/story/2092"/>
+        <updated>2022-03-08T22:23:05.977Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배달앱, OTT까지 '5060이 뜬다']]></title>
         <id>https://www.folin.co/story/2100</id>
@@ -284,13 +292,5 @@
         <updated>2022-02-27T18:21:05.758Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>테크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요기요 마케터는 왜 뉴스레터를 선택했을까]]></title>
-        <id>https://www.folin.co/story/2052</id>
-        <link href="https://www.folin.co/story/2052"/>
-        <updated>2022-02-27T18:21:05.760Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
     </entry>
 </feed>

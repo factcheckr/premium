@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 21:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 22:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,6 +333,14 @@
             <content:encoded><![CDATA[대통령 선거일입니다. 5년 간 우리를 이끌 리더가 탄생하는 날이죠.&nbsp;그런데 문득 궁금해졌습니다. 도대체 리더는 어떻게 탄생하는 걸까요. 처음부터<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[디자이너에서 그로스 해커를 거쳐 CMO까지, 원동력은? (폴인)]]></title>
+            <link>https://www.folin.co/story/2092</link>
+            <guid>https://www.folin.co/story/2092</guid>
+            <pubDate>Tue, 08 Mar 2022 22:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[배달앱, OTT까지 '5060이 뜬다' (폴인)]]></title>
             <link>https://www.folin.co/story/2100</link>
             <guid>https://www.folin.co/story/2100</guid>
@@ -611,14 +619,6 @@
             <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요기요 마케터는 왜 뉴스레터를 선택했을까 (폴인)]]></title>
-            <link>https://www.folin.co/story/2052</link>
-            <guid>https://www.folin.co/story/2052</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아는 언론 통제를 강화하고 글로벌 기업들은 러시아를 보이콧 한다. 푸틴은 여론을 잠재울 수 있을 것인가. (북저널리즘)]]></title>
