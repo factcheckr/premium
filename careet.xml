@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 04:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 05:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] MZ가 사랑하는 브랜드, 쿠캣 팀장이 공개하는 영업 비밀!]]></title>
+            <link>https://www.careet.net/664</link>
+            <guid>https://www.careet.net/664</guid>
+            <pubDate>Tue, 08 Mar 2022 05:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[대기업이 550억원에 인수한 ‘쿠캣’의 디테일]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/b6c2d937-04a4-403d-8d8a-45ad9b4fe503_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세계 여성의 날 이제는 챙기셔야 합니다 feat. 레퍼런스 모음]]></title>
             <link>https://www.careet.net/665</link>
