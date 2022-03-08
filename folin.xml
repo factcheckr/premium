@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-08T01:24:06.140Z</updated>
+    <updated>2022-03-08T02:39:47.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[배달앱, OTT까지 ‘5060이 뜬다’]]></title>
+        <title type="html"><![CDATA[배달앱, OTT까지 '5060이 뜬다']]></title>
         <id>https://www.folin.co/story/2100</id>
         <link href="https://www.folin.co/story/2100"/>
         <updated>2022-03-07T22:22:20.074Z</updated>
@@ -14,7 +14,7 @@
                                 <li>라이프스타일</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["사무실, 출퇴근 '디폴트' 아니라 '목적지' 돼야죠"]]></title>
+        <title type="html"><![CDATA[오피스의 넥스트 레벨, '소셜 커뮤니티']]></title>
         <id>https://www.folin.co/story/2099</id>
         <link href="https://www.folin.co/story/2099"/>
         <updated>2022-03-07T22:22:20.074Z</updated>
