@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-09T21:20:49.204Z</updated>
+    <updated>2022-03-09T22:23:06.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[까탈로그, 유튜브 이어 패션브랜드 뛰어든 '디에디트']]></title>
+        <id>https://www.folin.co/story/2111</id>
+        <link href="https://www.folin.co/story/2111"/>
+        <updated>2022-03-09T22:22:51.301Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법]]></title>
+        <id>https://www.folin.co/story/2104</id>
+        <link href="https://www.folin.co/story/2104"/>
+        <updated>2022-03-09T22:22:51.302Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디자이너에서 그로스 해커를 거쳐 CMO까지, 원동력은?]]></title>
         <id>https://www.folin.co/story/2092</id>
@@ -276,21 +292,5 @@
         <updated>2022-02-27T18:21:05.755Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일의 양을, 나의 가능성을 늘리고 싶다면]]></title>
-        <id>https://www.folin.co/story/2060</id>
-        <link href="https://www.folin.co/story/2060"/>
-        <updated>2022-02-27T18:21:05.757Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업계 1위 배스킨라빈스는 왜 무인매장BM을 만들었을까]]></title>
-        <id>https://www.folin.co/story/2054</id>
-        <link href="https://www.folin.co/story/2054"/>
-        <updated>2022-02-27T18:21:05.758Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content>
     </entry>
 </feed>
