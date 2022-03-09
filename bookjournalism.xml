@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-03-09T18:27:53.327Z</updated>
+    <updated>2022-03-09T19:18:55.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.bookjournalism.com/books/49441</id>
+        <link href="https://www.bookjournalism.com/books/49441"/>
+        <updated>2022-03-09T19:18:47.811Z</updated>
+        <content type="html"><![CDATA[20대 대통령 윤석열 당선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아는 언론 통제를 강화하고 글로벌 기업들은 러시아를 보이콧 한다. 푸틴은 여론을 잠재울 수 있을 것인가.]]></title>
         <id>https://www.bookjournalism.com/books/49423</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/49101"/>
         <updated>2022-03-09T17:23:15.854Z</updated>
         <content type="html"><![CDATA[단일화 날밀기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트럼프의 소셜 미디어 트루스 소셜이 출시됐다. 트루스 소셜이 보여주는 진실은 무엇인가.]]></title>
-        <id>https://www.bookjournalism.com/books/49061</id>
-        <link href="https://www.bookjournalism.com/books/49061"/>
-        <updated>2022-03-09T17:23:15.854Z</updated>
-        <content type="html"><![CDATA[진실을 ‘트루스’ 하시겠습니까]]></content>
     </entry>
 </feed>
