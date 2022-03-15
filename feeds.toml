@@ -30,11 +30,11 @@ waitUntil = "networkidle"
 [folin]
 title = "폴인"
 url = "https://www.folin.co/story"
-entrySelector = "//html/body/div[1]/div/article/section[2]/div/div/div[1]/ul/li"
-titleSelector = "//a/div/h3"
-linkSelector = "//a"
-contentSelector = "//a/div[2]/ul[1]"
-waitUntil = "networkidle"
+entrySelector = "ul.component-grid4.story-list-contain > li"
+titleSelector = "h3.item-title.line-clamp"
+linkSelector = "a"
+contentSelector = "ul.category-type"
+waitForSelector = "ul.component-grid4.story-list-contain > li"
 
 [bookjournalism]
 title = "북저널리즘"
