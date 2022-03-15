@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 21:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 23:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -381,6 +381,22 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전에 K가 소개한 미나 페르호넨 기억하세요? 핀란드의 마리메꼬라던 일본의 패브릭 브랜드요!<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['에피소드'가 신규 지점 4곳을 동시오픈한 이유 (폴인)]]></title>
+            <link>https://www.folin.co/story/2118</link>
+            <guid>https://www.folin.co/story/2118</guid>
+            <pubDate>Tue, 15 Mar 2022 23:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<li>공간</li>
+                                <li>라이프스타일</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중견기업·스타트업 거친 네이버웍스 기획자의 커리어 조언 (폴인)]]></title>
+            <link>https://www.folin.co/story/2105</link>
+            <guid>https://www.folin.co/story/2105</guid>
+            <pubDate>Tue, 15 Mar 2022 23:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우아한형제들 '더큰집' 기획 비하인드 (폴인)]]></title>
             <link>https://www.folin.co/story/2108</link>
             <guid>https://www.folin.co/story/2108</guid>
@@ -651,22 +667,6 @@
             <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내 직장에서 '우리 팀원'과 나눌 1ON1 질문리스트 (폴인)]]></title>
-            <link>https://www.folin.co/story/2066</link>
-            <guid>https://www.folin.co/story/2066</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인생에서 가장 많이 쇼핑하는 시기, '원더 이어' (폴인)]]></title>
-            <link>https://www.folin.co/story/2068</link>
-            <guid>https://www.folin.co/story/2068</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[16년 만에 돌아온 포켓몬빵이 빵터졌다. 띠부씰의 혁신은 무엇인가? (북저널리즘)]]></title>
