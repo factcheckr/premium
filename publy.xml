@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-03-10T06:27:46.540Z</updated>
+    <updated>2022-03-15T12:39:03.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[백화점의 공식을 깨다: 일본 백화점의 이유 있는 변신]]></title>
+        <id>https://publy.co/content/6723?fr=category</id>
+        <link href="https://publy.co/content/6723?fr=category"/>
+        <updated>2022-03-15T12:38:19.855Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일 잘하는 PM은 업무 요청부터 다르다]]></title>
+        <id>https://publy.co/content/6737?fr=category</id>
+        <link href="https://publy.co/content/6737?fr=category"/>
+        <updated>2022-03-15T12:38:19.857Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팝업스토어 운영기: 이태원 좁은 골목에 4만 명을 불러모으다]]></title>
+        <id>https://publy.co/content/6728?fr=category</id>
+        <link href="https://publy.co/content/6728?fr=category"/>
+        <updated>2022-03-15T12:38:19.858Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다음이 밀어주는 '카카오뷰', 기본 세팅부터 실전 활용까지]]></title>
+        <id>https://publy.co/content/6727?fr=category</id>
+        <link href="https://publy.co/content/6727?fr=category"/>
+        <updated>2022-03-15T12:38:19.859Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋은 PM이라면 주의해야 할 의사결정 편향]]></title>
+        <id>https://publy.co/content/6695?fr=category</id>
+        <link href="https://publy.co/content/6695?fr=category"/>
+        <updated>2022-03-15T12:38:19.860Z</updated>
+        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노코드: 시장에서 통하는 서비스를 만드는 PM의 기술]]></title>
+        <id>https://publy.co/content/6710?fr=category</id>
+        <link href="https://publy.co/content/6710?fr=category"/>
+        <updated>2022-03-15T12:38:19.862Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주니어 개발자를 위한 정보 검색 노하우]]></title>
         <id>https://publy.co/content/6713?fr=category</id>
@@ -32,47 +74,5 @@
         <link href="https://publy.co/content/6700?fr=category"/>
         <updated>2022-03-04T08:26:18.411Z</updated>
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PM이 알아야 할 현실적인 프로젝트 접근법]]></title>
-        <id>https://publy.co/content/6706?fr=category</id>
-        <link href="https://publy.co/content/6706?fr=category"/>
-        <updated>2022-03-03T08:25:55.142Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와디즈가 대체 불가능한 IP 경쟁력을 키우는 방법]]></title>
-        <id>https://publy.co/content/6693?fr=category</id>
-        <link href="https://publy.co/content/6693?fr=category"/>
-        <updated>2022-03-02T08:26:38.183Z</updated>
-        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀장의 '실무 vs 관리' 업무 밸런스는 몇 대 몇?]]></title>
-        <id>https://publy.co/content/6717?fr=category</id>
-        <link href="https://publy.co/content/6717?fr=category"/>
-        <updated>2022-02-28T08:26:52.638Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떠날 고객이 보내는 신호, 답은 데이터에 있다]]></title>
-        <id>https://publy.co/content/6691?fr=category</id>
-        <link href="https://publy.co/content/6691?fr=category"/>
-        <updated>2022-02-27T18:20:37.570Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회사 밖 팀원들과 만든 앱, '쉐어워크' 런칭 경험담]]></title>
-        <id>https://publy.co/content/6661?fr=category</id>
-        <link href="https://publy.co/content/6661?fr=category"/>
-        <updated>2022-02-27T18:20:37.573Z</updated>
-        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1년 만에 50% 성장! 팀장의 성과내는 팀 구조화 방법]]></title>
-        <id>https://publy.co/content/6699?fr=category</id>
-        <link href="https://publy.co/content/6699?fr=category"/>
-        <updated>2022-02-27T18:20:37.574Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
     </entry>
 </feed>
