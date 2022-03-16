@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-03-16T06:31:12.692Z</updated>
+    <updated>2022-03-16T07:23:18.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
@@ -62,7 +62,7 @@
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그로스해킹: 데이터와 실험으로 성장하는 서비스 만들기]]></title>
+        <title type="html"><![CDATA[작은 조직의 그로스는 어떻게? 데이터와 실험으로 성장하는 서비스 만들기]]></title>
         <id>https://publy.co/content/6722?fr=category</id>
         <link href="https://publy.co/content/6722?fr=category"/>
         <updated>2022-03-07T08:27:03.965Z</updated>

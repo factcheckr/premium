@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 06:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 07:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,7 @@
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[그로스해킹: 데이터와 실험으로 성장하는 서비스 만들기 (퍼블리)]]></title>
+            <title><![CDATA[작은 조직의 그로스는 어떻게? 데이터와 실험으로 성장하는 서비스 만들기 (퍼블리)]]></title>
             <link>https://publy.co/content/6722?fr=category</link>
             <guid>https://publy.co/content/6722?fr=category</guid>
             <pubDate>Mon, 07 Mar 2022 08:27:03 GMT</pubDate>
