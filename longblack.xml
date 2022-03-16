@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-03-15T23:23:44.965Z</updated>
+    <updated>2022-03-16T01:39:49.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/230</id>
         <link href="https://www.longblack.co/note/230"/>
         <updated>2022-03-15T15:43:22.887Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전에 K가 소개한 미나 페르호넨 기억하세요? 핀란드의 마리메꼬라던 일본의 패브릭 브랜드요!<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전에 K가 소개한 미나 페르호넨 기억하세요? 일본의 마리메꼬라던 패브릭 브랜드요! 자, 제<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

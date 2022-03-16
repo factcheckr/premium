@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 23:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 01:39:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6700?fr=category</guid>
             <pubDate>Fri, 04 Mar 2022 08:26:18 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[멤버십 회원 전용] 월간 알파세대 트렌드 (캐릿)]]></title>
+            <link>https://www.careet.net/673</link>
+            <guid>https://www.careet.net/673</guid>
+            <pubDate>Wed, 16 Mar 2022 01:39:16 GMT</pubDate>
+            <content:encoded><![CDATA[상상도 못한 초·중학생 문화, 랜덤 채팅 앱으로 MBTI 대화상대 찾고, QR 코드로 캐릭터 키운다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/830985cf-177b-46ed-98c7-48c5afe956ff_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[힙합 트렌드 놓치면 Z세대도 놓치는 것! 힙합 씬 5분 과외 (캐릿)]]></title>
@@ -378,7 +386,7 @@
             <link>https://www.longblack.co/note/230</link>
             <guid>https://www.longblack.co/note/230</guid>
             <pubDate>Tue, 15 Mar 2022 15:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전에 K가 소개한 미나 페르호넨 기억하세요? 핀란드의 마리메꼬라던 일본의 패브릭 브랜드요!<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전에 K가 소개한 미나 페르호넨 기억하세요? 일본의 마리메꼬라던 패브릭 브랜드요! 자, 제<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['에피소드'가 신규 지점 4곳을 동시오픈한 이유 (폴인)]]></title>

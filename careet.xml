@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 23:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 01:39:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[멤버십 회원 전용] 월간 알파세대 트렌드]]></title>
+            <link>https://www.careet.net/673</link>
+            <guid>https://www.careet.net/673</guid>
+            <pubDate>Wed, 16 Mar 2022 01:39:16 GMT</pubDate>
+            <content:encoded><![CDATA[상상도 못한 초·중학생 문화, 랜덤 채팅 앱으로 MBTI 대화상대 찾고, QR 코드로 캐릭터 키운다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/830985cf-177b-46ed-98c7-48c5afe956ff_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[힙합 트렌드 놓치면 Z세대도 놓치는 것! 힙합 씬 5분 과외]]></title>
             <link>https://www.careet.net/674</link>
