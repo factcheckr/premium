@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 21:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 22:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -389,6 +389,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K서울 원남동 조명 골목의 라이마스 쇼룸은 빛으로 가득했습니다. 가늘고 긴 금속 막대로 차갑고 우아한 느낌을<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[네이버클라우드 인사팀이 '영혼의 성장'을 고민하는 이유 (폴인)]]></title>
+            <link>https://www.folin.co/story/2116</link>
+            <guid>https://www.folin.co/story/2116</guid>
+            <pubDate>Wed, 16 Mar 2022 22:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['에피소드'가 신규 지점 4곳을 동시오픈한 이유 (폴인)]]></title>
             <link>https://www.folin.co/story/2118</link>
             <guid>https://www.folin.co/story/2118</guid>
@@ -667,14 +675,6 @@
             <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[토스와 콜린스가 고객에게 사랑받는 비결 (폴인)]]></title>
-            <link>https://www.folin.co/story/2073</link>
-            <guid>https://www.folin.co/story/2073</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[👁저 거친 러시아와, 불안한 서방과, 그걸 지켜보는 중국(feat.세계패권전쟁) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
