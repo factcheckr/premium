@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-03-16T07:23:18.265Z</updated>
+    <updated>2022-03-16T09:22:20.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[공간 속 숨은 영감을 찾는 기획자의 기록법]]></title>
+        <id>https://publy.co/content/6679?fr=category</id>
+        <link href="https://publy.co/content/6679?fr=category"/>
+        <updated>2022-03-16T09:21:40.130Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백화점의 공식을 깨다: 일본 백화점의 이유 있는 변신]]></title>
         <id>https://publy.co/content/6723?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6722?fr=category"/>
         <updated>2022-03-07T08:27:03.965Z</updated>
         <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신입 마케터가 어떻게 팔로워 꼴찌를 1위로 만들었을까?]]></title>
-        <id>https://publy.co/content/6700?fr=category</id>
-        <link href="https://publy.co/content/6700?fr=category"/>
-        <updated>2022-03-04T08:26:18.411Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>
