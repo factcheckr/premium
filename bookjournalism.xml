@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-03-17T07:21:43.168Z</updated>
+    <updated>2022-03-17T08:27:21.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[장애인의 직업은 왜 단순·반복 노동에 한정되어 왔나. 핸디캡을 넘어 좋아하는 일에 도전하는 일곱 명이 모였다.]]></title>
+        <id>https://www.bookjournalism.com/books/49573</id>
+        <link href="https://www.bookjournalism.com/books/49573"/>
+        <updated>2022-03-17T08:27:13.059Z</updated>
+        <content type="html"><![CDATA[비욘드 핸디캡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MZ세대는 역사상 가장 가난한 세대다. 무엇이 이들을 부채로 내몰았나?]]></title>
         <id>https://www.bookjournalism.com/books/49671</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/49380"/>
         <updated>2022-03-17T02:45:13.549Z</updated>
         <content type="html"><![CDATA[악마 푸틴과 단일화 뒤 악마의 유혹 그리고 소년악마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만일 단일화로 대선에서 승리한다면, 윤석열과 안철수는 정말 권력을 나눌 수 있을까?]]></title>
-        <id>https://www.bookjournalism.com/books/49348</id>
-        <link href="https://www.bookjournalism.com/books/49348"/>
-        <updated>2022-03-17T02:45:13.556Z</updated>
-        <content type="html"><![CDATA[악마의 유혹]]></content>
     </entry>
 </feed>
