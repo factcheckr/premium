@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 19:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 21:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -685,12 +685,88 @@
                                 <li>테크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[저는 커피를 싫... 아닙니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bookcrew/essaycat/contents/220301204703554UZ</link>
-            <guid>https://contents.premium.naver.com/bookcrew/essaycat/contents/220301204703554UZ</guid>
-            <pubDate>Thu, 17 Mar 2022 16:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[저는 커피를 싫... 아닙니다 작가라면 커피를 사랑해야 할 것 같다. 이전 세대의 작가들이 정갈하게 연필을 깎아 원고지에 사각사각, 그러면서 막걸리도 한 잔 하는, 그런 모습으로 상상된다면, 우리 동시대의 젊은 작가들은 노트북으로 MS워드에 타다다닥, 그러면서 시럽을 넣지 않은 원두커피를 마시는, 다른 모습으로 상상되곤 한다. 아침에 일어나 직접 원두를 내리고 그 향긋]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDFfMzIg/MDAxNjQ2MTM0NjY1MDU3.LMOrEsnH2L4JplIjkQsJVz62zZsHBcLAbbMh6G9Pf-wg.RJh01cnBE-tURsoMCVVG6jqO5MJ6J-DaexVoNP3Sd98g.JPEG/erik-mclean-aDLwjNG_09A-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[넷플릭스가 이용자간 계정 공유를 막는다고 밝혔다. 정체된 콘텐츠 구독 시장은 새로운 과금 모델을 찾을 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49684</link>
+            <guid>https://www.bookjournalism.com/books/49684</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[구독의 미래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장애인의 직업은 왜 단순·반복 노동에 한정되어 왔나. 핸디캡을 넘어 좋아하는 일에 도전하는 일곱 명이 모였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49573</link>
+            <guid>https://www.bookjournalism.com/books/49573</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[비욘드 핸디캡]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대는 역사상 가장 가난한 세대다. 무엇이 이들을 부채로 내몰았나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49671</link>
+            <guid>https://www.bookjournalism.com/books/49671</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[빚쟁이가 되어버린 MZ를 아시오?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[16년 만에 돌아온 포켓몬빵이 빵터졌다. 띠부씰의 혁신은 무엇인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49624</link>
+            <guid>https://www.bookjournalism.com/books/49624</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[너로 정했다! 제빵왕 피카츄]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[춘식이가 핑크제국을 노린다. 카카오는 어떻게 SM인수전에서 앞섰나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49548</link>
+            <guid>https://www.bookjournalism.com/books/49548</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[카카오와 SM의 라춘댄스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 여덟 번째 - 바야흐로 한국 자본주의에는 건강한 시장이 필요합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49520</link>
+            <guid>https://www.bookjournalism.com/books/49520</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 시장]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도심에서 백화점이 사라지고 있다. 그 자리를 무엇으로 메꿔야 할까? 도시가 고민할 차례다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49492</link>
+            <guid>https://www.bookjournalism.com/books/49492</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[백화점 멸종의 시대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #27에선, 드디어 막을 내린 20대 대선에 대해 이야기 나눠봅니다. 사상 초유의 박빙 승부로 탄생한 윤석열 정부의 미래는 어떤 모습일까요? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49508</link>
+            <guid>https://www.bookjournalism.com/audio/49508</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[광화문 앞길은 꽃길인가 가시밭길인가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ 세대는 왜 새로운 스포츠에 주목할까? 스포츠는 어디까지 확장할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49483</link>
+            <guid>https://www.bookjournalism.com/books/49483</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[MZ의 스포츠는 콘텐츠다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 국민의힘 대선후보가 대한민국 20대 대통령에 당선됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49441</link>
+            <guid>https://www.bookjournalism.com/books/49441</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[20대 대통령 윤석열 당선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아는 언론 통제를 강화하고 글로벌 기업들은 러시아를 보이콧 한다. 푸틴은 여론을 잠재울 수 있을 것인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49423</link>
+            <guid>https://www.bookjournalism.com/books/49423</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[센서드 러시아]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 일곱 번째 - 대선 이후 4420만명의 대한민국 유권자 모두가 이겼다고 느낄 수 있기를. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49399</link>
+            <guid>https://www.bookjournalism.com/books/49399</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[대선 너머]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[혹시 내게 무슨 일이 생기면 (2020) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -701,12 +777,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTdfMjc0/MDAxNjQ1MDkzOTU2Njk1.J5L3m38jiFkojl86GuRkxJ3b1HA_vELkGB5Liw4tAekg.cxMj-T3g8Joo7nHgdq-AzHgsuLgAllbgx0yGqXsLMrIg.JPEG/%ED%98%B9%EC%8B%9C%EB%82%B4%EA%B2%8C%EB%AC%B4%EC%8A%A8%EC%9D%BC%EC%9D%B4%EC%83%9D%EA%B8%B0%EB%A9%B4_2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄날은 간다(2001) : 지나간 사랑의 흔적 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220303205320183ny</link>
-            <guid>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220303205320183ny</guid>
+            <title><![CDATA[저는 커피를 싫... 아닙니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bookcrew/essaycat/contents/220301204703554UZ</link>
+            <guid>https://contents.premium.naver.com/bookcrew/essaycat/contents/220301204703554UZ</guid>
             <pubDate>Thu, 17 Mar 2022 16:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[**어바웃 무비 채널의 모든 글은 스포일러를 포함하고 있습니다. **이 글 속에 등장하는 &lt;캐스트 어웨이&gt;, &lt;8월의 크리스마스&gt;, &lt;봄날은 간다&gt;는 현재 넷플릭스 등을 통해 관람할 수 있습니다. 무인도에 떨어진 한 남자가 있다. 회사로부터 긴급한 호출을 받게 된 그는 말레이시아로 향하는 화물 비행기에 탑승한 참이었다. 비행 도중 폭풍우를 만나 계획되어 있던 항로를 벗어나게]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDNfNjEg/MDAxNjQ2MzA3MTkyMDYz.rQk9YpcV2w4GZEFMtQKx_5GtcDUA05rR-MMV3IiaWOQg.CyBv4Oa1746rXSJalb7At-jg69EvJB8k9tUsXut0IZIg.JPEG/12110210A770FD709C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[저는 커피를 싫... 아닙니다 작가라면 커피를 사랑해야 할 것 같다. 이전 세대의 작가들이 정갈하게 연필을 깎아 원고지에 사각사각, 그러면서 막걸리도 한 잔 하는, 그런 모습으로 상상된다면, 우리 동시대의 젊은 작가들은 노트북으로 MS워드에 타다다닥, 그러면서 시럽을 넣지 않은 원두커피를 마시는, 다른 모습으로 상상되곤 한다. 아침에 일어나 직접 원두를 내리고 그 향긋]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDFfMzIg/MDAxNjQ2MTM0NjY1MDU3.LMOrEsnH2L4JplIjkQsJVz62zZsHBcLAbbMh6G9Pf-wg.RJh01cnBE-tURsoMCVVG6jqO5MJ6J-DaexVoNP3Sd98g.JPEG/erik-mclean-aDLwjNG_09A-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메리 크리스마스 미스터 모 (2017) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -717,12 +793,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjRfMjAg/MDAxNjQ1NjkyMTc3NTQx.0S7rkIxcnHQHA7c5ZxjrqM9w1bYAsFDQdpyon7smE60g.kC1j5Tqm-pOpImVot3zjvsJFnfGrCu5MCPNhkb3fhXAg.JPEG/%EB%A9%94%EB%A6%AC_%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4_%EB%AF%B8%EC%8A%A4%ED%84%B0_%EB%AA%A8_1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Thu, 17 Mar 2022 02:45:21 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[봄날은 간다(2001) : 지나간 사랑의 흔적 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220303205320183ny</link>
+            <guid>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220303205320183ny</guid>
+            <pubDate>Thu, 17 Mar 2022 16:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[**어바웃 무비 채널의 모든 글은 스포일러를 포함하고 있습니다. **이 글 속에 등장하는 &lt;캐스트 어웨이&gt;, &lt;8월의 크리스마스&gt;, &lt;봄날은 간다&gt;는 현재 넷플릭스 등을 통해 관람할 수 있습니다. 무인도에 떨어진 한 남자가 있다. 회사로부터 긴급한 호출을 받게 된 그는 말레이시아로 향하는 화물 비행기에 탑승한 참이었다. 비행 도중 폭풍우를 만나 계획되어 있던 항로를 벗어나게]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDNfNjEg/MDAxNjQ2MzA3MTkyMDYz.rQk9YpcV2w4GZEFMtQKx_5GtcDUA05rR-MMV3IiaWOQg.CyBv4Oa1746rXSJalb7At-jg69EvJB8k9tUsXut0IZIg.JPEG/12110210A770FD709C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["자, 먹자" 영어로 어떻게 말해요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -733,12 +809,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjRfOTAg/MDAxNjQ1Njk5OTM3NTM0.iuNw-3-58IySl-_F9_WuVFXBxzYMek18Uwvbu0s-Hx4g.kn9qEAR5USsgPbBKWpAgPyV4WCEFFGQ3ShFtKlNgEIAg.PNG/p_30%EC%9D%BC-9%EC%9D%BC%EC%B0%A8%EB%8C%80%ED%91%9C-001.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[특집] “낡은 것들이 모두 사라진 세상”은 아직 오지 않았다 ─ 영화 <남한산성> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220309084745325mG</link>
-            <guid>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220309084745325mG</guid>
-            <pubDate>Thu, 17 Mar 2022 16:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[1636년. 청의 대군이 조선을 침략한다. 청군은 단지 열흘만에 서울에 도착했고, 조선의 왕 인조와 신하들은 남한산성으로 급히 피신했다. 영화 &lt;남한산성&gt;은 이 사건, 병자호란(1636)을 배경으로 한 영화다. 또한 소설가 김훈의 장편소설 &lt;남한산성&gt;을 각색한 영화이기도 하다. 역사적인 사실을 놓고 만든 사극 영화인만큼, 이 영화 하나만 놓고도 할 이야기가 굉장히 많다. 특히 사회]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDlfNzAg/MDAxNjQ2NzgwMzk0ODMw.eqzZzE32voM_xmpPAOnxNGuVBPUZMa2UeKqWuEmlZpIg.j45i4IupjO9pZ47AXLAIq37VAUqRID_QqPw91IxgRGMg.PNG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(2).png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:21 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[영문뉴스번역]러시아-우크라이나 사태에 따른 교민 안전 우려 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -749,12 +825,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDdfMTg3/MDAxNjQ2NjE5ODc0NTU4.9UlxdWcRNN7CZyRC_5Xbld-PJxrONNUqbuX9WLcU7wMg.3B3F1q82rsy5lCdewyWK4ApBNNjKdrosLLPQQcdAy6Ag.JPEG/20220225000500_0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [21일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220311054836956tk</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220311054836956tk</guid>
-            <pubDate>Thu, 17 Mar 2022 19:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [21일차] 굿모닝러너님, 오늘 하루, 사소한 성공으로 하루를 시작하셨나요? 그 길에서 내 안의 멋진 나를 만나실 수 있을거에요 :)  굿모닝러너_챌린지_21일차 #20220311 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록 예시) 닉네임  / 목표:]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTFfMjk3/MDAxNjQ2OTQ1Mjc3NTQy.TmB0Lor9rkjLB4cTBL0MmJc8PSwbJiwpx1Vb74AzcnUg.b9cLmkxqWQz3ueWGLonf5g2v6pnqAWzlFMB1Y2_iE4Eg.JPEG/KakaoTalk_20220311_054612259.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[특집] “낡은 것들이 모두 사라진 세상”은 아직 오지 않았다 ─ 영화 <남한산성> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220309084745325mG</link>
+            <guid>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220309084745325mG</guid>
+            <pubDate>Thu, 17 Mar 2022 16:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[1636년. 청의 대군이 조선을 침략한다. 청군은 단지 열흘만에 서울에 도착했고, 조선의 왕 인조와 신하들은 남한산성으로 급히 피신했다. 영화 &lt;남한산성&gt;은 이 사건, 병자호란(1636)을 배경으로 한 영화다. 또한 소설가 김훈의 장편소설 &lt;남한산성&gt;을 각색한 영화이기도 하다. 역사적인 사실을 놓고 만든 사극 영화인만큼, 이 영화 하나만 놓고도 할 이야기가 굉장히 많다. 특히 사회]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDlfNzAg/MDAxNjQ2NzgwMzk0ODMw.eqzZzE32voM_xmpPAOnxNGuVBPUZMa2UeKqWuEmlZpIg.j45i4IupjO9pZ47AXLAIq37VAUqRID_QqPw91IxgRGMg.PNG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(2).png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[영문뉴스번역]한국이 기축통화국이 될 수 있을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/koreaherald/englishcafe/contents/220307112902665rY</link>
+            <guid>https://contents.premium.naver.com/koreaherald/englishcafe/contents/220307112902665rY</guid>
+            <pubDate>Thu, 17 Mar 2022 21:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[아래 콘텐츠는 영어신문 코리아헤럴드가 매주 발행하는 팟캐스트 서비스입니다. 여러분들의 영어실력향상을 위해 영문기사에 나오는 단어, 표현 등을 음성으로 자세하게 설명해주는 코너입니다. 팟캐스트를 이용해서 음성으로 들으시고, 시사상식도 쌓고 영어 실력도 키워보세요. 21일 월요일 이재명 더불어민주당 대통령 후보가 한국 원화가 기축통화에 근접했다는 주장에 곧]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDdfMjcy/MDAxNjQ2NjE5ODEwOTI0.bJAQUbm79NpqYerpSWzsIG9yUn7pT0Wwa6xp690r5ogg.to1Yv7seEUNgA-HFVRMN8TtnyjTNExfKUD-8Bd36Wz0g.JPEG/20220222000650_0_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
