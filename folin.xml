@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-17T21:21:51.510Z</updated>
+    <updated>2022-03-17T22:23:50.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코사이어티가 정의하는 '워(Work)케이션']]></title>
+        <id>https://www.folin.co/story/2119</id>
+        <link href="https://www.folin.co/story/2119"/>
+        <updated>2022-03-17T22:23:31.768Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멘탈케어‧VR‧스마트홈‧업사이클링…글로벌 트렌드 4가지]]></title>
+        <id>https://www.folin.co/story/2120</id>
+        <link href="https://www.folin.co/story/2120"/>
+        <updated>2022-03-17T22:23:31.770Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버클라우드 인사팀이 '영혼의 성장'을 고민하는 이유]]></title>
         <id>https://www.folin.co/story/2116</id>
@@ -276,21 +292,5 @@
         <updated>2022-02-27T18:21:05.740Z</updated>
         <content type="html"><![CDATA[<li>라이프스타일</li>
                                 <li>커리어</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자기시간 70%를 성과관리에 쓰는 구글 매니저, 나는?]]></title>
-        <id>https://www.folin.co/story/2067</id>
-        <link href="https://www.folin.co/story/2067"/>
-        <updated>2022-02-27T18:21:05.741Z</updated>
-        <content type="html"><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하이브리드 근무' 가상오피스, 컴투스와 MS의 전략은]]></title>
-        <id>https://www.folin.co/story/2063</id>
-        <link href="https://www.folin.co/story/2063"/>
-        <updated>2022-02-27T18:21:05.744Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content>
     </entry>
 </feed>
