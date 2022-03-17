@@ -4,9 +4,16 @@
         <title>네이버 프리미엄콘텐츠 ─ 무료 프로모션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 10:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 12:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내년 키워드는 정상화‥B2B 강한 테크기업 유망]]></title>
+            <link>https://contents.premium.naver.com/backbriefing/news/contents/211228172710194Uf</link>
+            <guid>https://contents.premium.naver.com/backbriefing/news/contents/211228172710194Uf</guid>
+            <pubDate>Thu, 17 Mar 2022 12:42:54 GMT</pubDate>
+            <content:encoded><![CDATA[허재환 유진투자증권 이사의 28일 시장 코멘트 남은 연말 급락 리스크 없다 "올해 주식시장 출발은 굉장히 기대감이 컸다가 하반기 들어서 힘이 빠졌다. 그래도 연말까지 시장이 급락할 리스크는 적다. 배당은 충분히 받을만하다.  미국도 스퀘어나 페이팔 같은 주식은 지난 삼 개월간 주가가 많이 빠졌다. 미국도 인덱스(지수)가 오른 것 같지만, 사실 되는 종목과 안되는 종목이]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[👁저 거친 러시아와, 불안한 서방과, 그걸 지켜보는 중국(feat.세계패권전쟁)]]></title>
             <link>https://contents.premium.naver.com/coinsignal/first/contents/220228184429466jr</link>
@@ -70,14 +77,6 @@
             <pubDate>Wed, 16 Mar 2022 15:25:00 GMT</pubDate>
             <content:encoded><![CDATA[문제. 지문을 읽고, (A), (B)에 들어갈 단어를 알맞게 연결한 것은? 해설. 한국은행은 물가 안정을 도모함으로써 국민경제의 건전한 발전에 이바지하는 것을 최우선 목표로 삼고 있다. 따라서 A는 물가 안정이다. 이자율은 채권의 시장가격과 긴밀하게 연관되어 있기 때문에 채권에 대한 수요나 공급이 변화하면 이자율도 변한다. 한국은행이 공개시장에서 채권을 매도하면 채권 가]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfMjcx/MDAxNjQ2ODc3MDYzNDAy.Z7k0VK4hPkD31bhegpJxDkyQY1d2uCVndStdm6pXo3Ag.ipcMCnDevF4geTVmy4YsgltZBeHr-iUrcc82JGCySBAg.JPEG/11744254_R_0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이직 제안받고 옮겼는데 3주만에 나가라고?]]></title>
-            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/220310120903487PT</link>
-            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/220310120903487PT</guid>
-            <pubDate>Thu, 17 Mar 2022 10:26:29 GMT</pubDate>
-            <content:encoded><![CDATA["안녕하세요. 한 회사에서 19년 가량 다니다가 이직을 준비하던 차에 다른 회사에서 포지션 제안을 받았어요. 그 회사와 네 차례 만나며 대화를 나눴고, '다니던 직장에서 일했던 시간보다 더 오랜 시간 함께하자'는 말에 입사를 결정했죠. 문제는 입사 후 새 회사가 돌변하면서 발생했습니다. 출근한지 3주 만에 퇴사를 종용받았습니다. 2주만이라도 이직 준비 기간을 달라고 했지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfNzMg/MDAxNjQ2ODgxNTA1NDYx.jZuYeWRSF7DVqH2gHGjK3-EB3_WRjeXdIJzNl653Bvwg.LaOjLfFdbIUkrrdPTelSUcXejdhvl97nLKDiAjfB5HMg.JPEG/orial.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
