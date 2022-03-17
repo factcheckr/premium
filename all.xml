@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 22:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 02:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6722?fr=category</guid>
             <pubDate>Mon, 07 Mar 2022 08:27:03 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대가 직접 알려주는 샘플 키트 좋은 예 vs. 나쁜 예 (캐릿)]]></title>
+            <link>https://www.careet.net/677</link>
+            <guid>https://www.careet.net/677</guid>
+            <pubDate>Thu, 17 Mar 2022 02:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[대학별 입학 키트를 참고해보세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/ae362b43-1e47-4a22-b084-e34923226dc1_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[멤버십 회원 전용] 월간 알파세대 트렌드 (캐릿)]]></title>
@@ -677,6 +685,90 @@
                                 <li>테크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[MZ세대는 역사상 가장 가난한 세대다. 무엇이 이들을 부채로 내몰았나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49671</link>
+            <guid>https://www.bookjournalism.com/books/49671</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[빚쟁이가 되어버린 MZ를 아시오?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[16년 만에 돌아온 포켓몬빵이 빵터졌다. 띠부씰의 혁신은 무엇인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49624</link>
+            <guid>https://www.bookjournalism.com/books/49624</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[너로 정했다! 제빵왕 피카츄]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[춘식이가 핑크제국을 노린다. 카카오는 어떻게 SM인수전에서 앞섰나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49548</link>
+            <guid>https://www.bookjournalism.com/books/49548</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[카카오와 SM의 라춘댄스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 여덟 번째 - 바야흐로 한국 자본주의에는 건강한 시장이 필요합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49520</link>
+            <guid>https://www.bookjournalism.com/books/49520</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 시장]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도심에서 백화점이 사라지고 있다. 그 자리를 무엇으로 메꿔야 할까? 도시가 고민할 차례다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49492</link>
+            <guid>https://www.bookjournalism.com/books/49492</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[백화점 멸종의 시대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #27에선, 드디어 막을 내린 20대 대선에 대해 이야기 나눠봅니다. 사상 초유의 박빙 승부로 탄생한 윤석열 정부의 미래는 어떤 모습일까요? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49508</link>
+            <guid>https://www.bookjournalism.com/audio/49508</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[광화문 앞길은 꽃길인가 가시밭길인가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ 세대는 왜 새로운 스포츠에 주목할까? 스포츠는 어디까지 확장할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49483</link>
+            <guid>https://www.bookjournalism.com/books/49483</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[MZ의 스포츠는 콘텐츠다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 국민의힘 대선후보가 대한민국 20대 대통령에 당선됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49441</link>
+            <guid>https://www.bookjournalism.com/books/49441</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[20대 대통령 윤석열 당선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아는 언론 통제를 강화하고 글로벌 기업들은 러시아를 보이콧 한다. 푸틴은 여론을 잠재울 수 있을 것인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49423</link>
+            <guid>https://www.bookjournalism.com/books/49423</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[센서드 러시아]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 일곱 번째 - 대선 이후 4420만명의 대한민국 유권자 모두가 이겼다고 느낄 수 있기를. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49399</link>
+            <guid>https://www.bookjournalism.com/books/49399</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[대선 너머]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #26에선, 푸틴의 증오와 우크라이나의 운명, 대선의 막판 변수 단일화 효과,〈소년심판〉이 제기하는 촉법소년 문제에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49380</link>
+            <guid>https://www.bookjournalism.com/audio/49380</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[악마 푸틴과 단일화 뒤 악마의 유혹 그리고 소년악마]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[만일 단일화로 대선에서 승리한다면, 윤석열과 안철수는 정말 권력을 나눌 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49348</link>
+            <guid>https://www.bookjournalism.com/books/49348</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[악마의 유혹]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[👁저 거친 러시아와, 불안한 서방과, 그걸 지켜보는 중국(feat.세계패권전쟁) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/coinsignal/first/contents/220228184429466jr</link>
             <guid>https://contents.premium.naver.com/coinsignal/first/contents/220228184429466jr</guid>
@@ -685,12 +777,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjhfMjk1/MDAxNjQ2MDQwMTMxODQ5.-Reu8sc4RvB8-2xro0ELW6m1A8JiXKky4EvPx873KTUg.XeUrCmFPJiYu4CAioAwCAVgxKj_iA1Az8HE71iJSbwsg.JPEG/220228_%ED%91%B8%ED%8B%B4%EA%B3%BC_%EC%8B%9C%EC%A7%84%ED%95%91_%EC%A0%95%EC%83%81_%ED%9A%8C%EB%8B%B4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[👅 떼창 듣고 소름돋은 그 노래! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/muezli/muezli0/contents/220209170848374dP</link>
-            <guid>https://contents.premium.naver.com/muezli/muezli0/contents/220209170848374dP</guid>
-            <pubDate>Wed, 16 Mar 2022 15:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[엊그제 쇼트트랙 경기를 보신 분들이라면, 모두 분노하지 않았을까 싶은데요. 말도 안되는 심판으로 말도 안되는 실격이 한 번도 아니고 수 차례 나온 것을 보고, 과연 이게 진정한 올림픽인가 싶더라고요. 올림픽 창시자인 피에르 드 쿠베르탱은 이런 말을 남겼어요. ‘올림픽에서 가장 중요한 것은 이기는 것이 아니라 참가하는 것 그 자체이고, 삶에서 가장 중요한 것은 정복]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDlfMTE2/MDAxNjQ0Mzg5NTg4Mjg2.e6hUE3ykS6s3QnnygTlcphWrKOc3rOj90S1_4VtP04gg.2Jna4ZQ9Ta-tLj-Epz-pEjpRz9s7UE83y-cALY7R_8Ag.PNG/SE-3b7da164-b8eb-41b6-b2fc-555fe473c8a6.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Thu, 17 Mar 2022 02:45:21 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[굿모닝러너 챌린지 [20일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -701,12 +793,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfMjM2/MDAxNjQ2ODYwMDM4NTkw.kA7SJvMErPLzOXUm71kmj3gghV5AqUsTd3INAhm1Xkkg.ZpLZB2orhFHbfqhYzdaOH5LYSDm0ZvOkVjHs6_qHjKIg.JPEG/KakaoTalk_20220310_060511349.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테마주-통신사 : 이젠 속도전이다! 5G 속도 놓고 경쟁 중! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220310103001393rt</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220310103001393rt</guid>
+            <title><![CDATA[👅 떼창 듣고 소름돋은 그 노래! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/muezli/muezli0/contents/220209170848374dP</link>
+            <guid>https://contents.premium.naver.com/muezli/muezli0/contents/220209170848374dP</guid>
             <pubDate>Wed, 16 Mar 2022 15:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[증시 변동성이 심할땐 통신주를 눈여겨보라~! 미국 대표통신사 선두는 누구? 통신주의 반등기회는  지금부터 시작? #미국주식 #미국통신사 #대표3인방 버라이즌(VZ) 이동통신가입자 기준 1위 T모바일(TMUS) 이동통신가입자 기준 2위 AT&amp;T(T) 이동통신가입자 기준 3위 5G 속도는  가입자 당 매출 증가세로 이어지고 있답니다! 속도 경쟁에서 우위를 보이는 기업은  어디일까요? ※ 이 글은]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfNjQg/MDAxNjQ2ODc1MzkxNjkw.PuGH4qQkvjeZLPJ5OXPkFM8xUY_CXsfw4InxzCXogz8g.s_djMF9t-ghrMn8CQJMYhnIUiiYDeu7tNN2JaBEFexwg.PNG/1.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[엊그제 쇼트트랙 경기를 보신 분들이라면, 모두 분노하지 않았을까 싶은데요. 말도 안되는 심판으로 말도 안되는 실격이 한 번도 아니고 수 차례 나온 것을 보고, 과연 이게 진정한 올림픽인가 싶더라고요. 올림픽 창시자인 피에르 드 쿠베르탱은 이런 말을 남겼어요. ‘올림픽에서 가장 중요한 것은 이기는 것이 아니라 참가하는 것 그 자체이고, 삶에서 가장 중요한 것은 정복]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDlfMTE2/MDAxNjQ0Mzg5NTg4Mjg2.e6hUE3ykS6s3QnnygTlcphWrKOc3rOj90S1_4VtP04gg.2Jna4ZQ9Ta-tLj-Epz-pEjpRz9s7UE83y-cALY7R_8Ag.PNG/SE-3b7da164-b8eb-41b6-b2fc-555fe473c8a6.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아마존의 액면분할, 투자자보단 직원을 위해! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -717,12 +809,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfMjUx/MDAxNjQ2ODc2MTM3NTUx.0zj4Lzcw0RFhr2qIrOpimImGY7qfFoYQDbjKQJOUvOMg.Y4T-8W2hmPP953dcQtid-GHY90F-CQVkb3G0e3HnDUog.JPEG/20220310_%EC%95%84%EB%A7%88%EC%A1%B4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국은행이 채권을 사고팔면? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/hankyungtesat/tesat/contents/220310110329742lr</link>
-            <guid>https://contents.premium.naver.com/hankyungtesat/tesat/contents/220310110329742lr</guid>
+            <title><![CDATA[테마주-통신사 : 이젠 속도전이다! 5G 속도 놓고 경쟁 중! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220310103001393rt</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220310103001393rt</guid>
             <pubDate>Wed, 16 Mar 2022 15:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[문제. 지문을 읽고, (A), (B)에 들어갈 단어를 알맞게 연결한 것은? 해설. 한국은행은 물가 안정을 도모함으로써 국민경제의 건전한 발전에 이바지하는 것을 최우선 목표로 삼고 있다. 따라서 A는 물가 안정이다. 이자율은 채권의 시장가격과 긴밀하게 연관되어 있기 때문에 채권에 대한 수요나 공급이 변화하면 이자율도 변한다. 한국은행이 공개시장에서 채권을 매도하면 채권 가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfMjcx/MDAxNjQ2ODc3MDYzNDAy.Z7k0VK4hPkD31bhegpJxDkyQY1d2uCVndStdm6pXo3Ag.ipcMCnDevF4geTVmy4YsgltZBeHr-iUrcc82JGCySBAg.JPEG/11744254_R_0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[증시 변동성이 심할땐 통신주를 눈여겨보라~! 미국 대표통신사 선두는 누구? 통신주의 반등기회는  지금부터 시작? #미국주식 #미국통신사 #대표3인방 버라이즌(VZ) 이동통신가입자 기준 1위 T모바일(TMUS) 이동통신가입자 기준 2위 AT&amp;T(T) 이동통신가입자 기준 3위 5G 속도는  가입자 당 매출 증가세로 이어지고 있답니다! 속도 경쟁에서 우위를 보이는 기업은  어디일까요? ※ 이 글은]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfNjQg/MDAxNjQ2ODc1MzkxNjkw.PuGH4qQkvjeZLPJ5OXPkFM8xUY_CXsfw4InxzCXogz8g.s_djMF9t-ghrMn8CQJMYhnIUiiYDeu7tNN2JaBEFexwg.PNG/1.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[브리핑] 미-러 에너지 전쟁, 바이든도 부담...원유 10달러 오르면 美 성장률 0.2%p 하락 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -733,12 +825,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfMTYy/MDAxNjQ2ODc4NDkwNjk3.lsHMkVc39FEmsrPrPC7mWsbY898gVp4L5dIXr0kHIkcg.cIQHE-IK54W6Ur9_8fQiwIej5P2vBkB89vcZ-qkBg20g.JPEG/%EB%AF%B8-%EB%9F%AC-%EC%97%90%EB%84%88%EC%A7%80-%EC%A0%84%EC%9F%81-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[고등학생 르포] 교복은 원래 줄여입는 것 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/3091201/xmas/contents/220310231012865qu</link>
-            <guid>https://contents.premium.naver.com/3091201/xmas/contents/220310231012865qu</guid>
+            <title><![CDATA[한국은행이 채권을 사고팔면? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/hankyungtesat/tesat/contents/220310110329742lr</link>
+            <guid>https://contents.premium.naver.com/hankyungtesat/tesat/contents/220310110329742lr</guid>
             <pubDate>Wed, 16 Mar 2022 15:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[1999년, 고등학교에 입학할 때 나의 키는 163cm였다. 지금의 고등학생들은 다들 180cm가 넘는 듯하지만 이때만 해도 170cm가 넘는 학생들은 별로 없었다. 가장 작은 사람이 1번이었고 자신의 키에 따라 순차적으로 번호를 받아갔다. 나는 40명 중에 23번이었으니까 그때나 지금이나 표준 신장인 것이 분명하다.   반에서 가장 키가 큰 S가 173cm 정도 되었던 듯하다. 끝 번호를 받고 뒷자리]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfMTM1/MDAxNjQ2OTIxMTM1NDI1.fiGY6RuJdv7xYQ06dOvFizmurRNScaq2VH2HUP0v63Eg.963obkMpyz-qJNd5Rj_pz0RutagstKj2E5avjwIFPXIg.JPEG/KakaoTalk_20220310_230453487.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[문제. 지문을 읽고, (A), (B)에 들어갈 단어를 알맞게 연결한 것은? 해설. 한국은행은 물가 안정을 도모함으로써 국민경제의 건전한 발전에 이바지하는 것을 최우선 목표로 삼고 있다. 따라서 A는 물가 안정이다. 이자율은 채권의 시장가격과 긴밀하게 연관되어 있기 때문에 채권에 대한 수요나 공급이 변화하면 이자율도 변한다. 한국은행이 공개시장에서 채권을 매도하면 채권 가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfMjcx/MDAxNjQ2ODc3MDYzNDAy.Z7k0VK4hPkD31bhegpJxDkyQY1d2uCVndStdm6pXo3Ag.ipcMCnDevF4geTVmy4YsgltZBeHr-iUrcc82JGCySBAg.JPEG/11744254_R_0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이직 제안받고 옮겼는데 3주만에 나가라고? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
