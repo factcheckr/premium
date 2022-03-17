@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 22:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 23:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -397,7 +397,7 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C선물로 비누를 받았어요. 오동나무 박스에 정갈하게 담겨왔죠. 모양이 독특해요. 동그란 흰색 비누 안에 조각<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코사이어티가 정의하는 '워(Work)케이션' (폴인)]]></title>
+            <title><![CDATA[코사이어티가 정의하는　　　　 '워(Work)케이션' (폴인)]]></title>
             <link>https://www.folin.co/story/2119</link>
             <guid>https://www.folin.co/story/2119</guid>
             <pubDate>Thu, 17 Mar 2022 22:23:31 GMT</pubDate>
