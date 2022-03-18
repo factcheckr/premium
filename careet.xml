@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 09:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 10:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/8f369e70-723c-4f42-857f-7d5b28d5d38a_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[등산, 골프에 이어 이젠 테니스까지 배우는 Z세대 근황]]></title>
+            <title><![CDATA[등산, 골프에 이어 테니스까지 배우는 Z세대 근황]]></title>
             <link>https://www.careet.net/676</link>
             <guid>https://www.careet.net/676</guid>
             <pubDate>Fri, 18 Mar 2022 01:41:58 GMT</pubDate>
