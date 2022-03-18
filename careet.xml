@@ -4,9 +4,33 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 23:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 01:42:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라떼는 모르는 Z세대 사진 꿀팁! 전신 사진을 위에서 찍는다고?]]></title>
+            <link>https://www.careet.net/680</link>
+            <guid>https://www.careet.net/680</guid>
+            <pubDate>Fri, 18 Mar 2022 01:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[항공샷=음식 사진이라고 생각하셨나요?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/13ee49fe-7419-4488-bbb2-078c6031896a_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] 라이브 방송은 어떻게 하는 거야? 생초보 김용명의 라방 도전기]]></title>
+            <link>https://www.careet.net/678</link>
+            <guid>https://www.careet.net/678</guid>
+            <pubDate>Fri, 18 Mar 2022 01:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[라이브 방송의 주제는 바로 ‘요즘 학교 신문물 썰 대회’]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/8f369e70-723c-4f42-857f-7d5b28d5d38a_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[등산, 골프에 이어 이젠 테니스까지 배우는 Z세대 근황]]></title>
+            <link>https://www.careet.net/676</link>
+            <guid>https://www.careet.net/676</guid>
+            <pubDate>Fri, 18 Mar 2022 01:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 힙한 아웃도어 취미, 또 생겼다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/be0fcf9b-0290-4682-bb96-7783857d0bd3_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 직접 알려주는 샘플 키트 좋은 예 vs. 나쁜 예]]></title>
             <link>https://www.careet.net/677</link>
