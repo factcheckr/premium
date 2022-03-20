@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 20:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 22:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -421,6 +421,22 @@
             <content:encoded><![CDATA[2, 3년 되었을까요. 와인을 마시게 되면 꼭 내추럴 와인을 고릅니다. 다음날 머리 아픈 것이 덜하기도 하지만, 향이 훨씬 풍성하다고 느낍니다. 언제부터인가 와인 병에 종종 독특한<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['협업=회의실' 공식 깬 GS, '킫'을 만들다 (폴인)]]></title>
+            <link>https://www.folin.co/story/2121</link>
+            <guid>https://www.folin.co/story/2121</guid>
+            <pubDate>Sun, 20 Mar 2022 22:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<li>공간</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[은행 딜링룸부터 스타트업까지, PSX 대표의 문제해결법 (폴인)]]></title>
+            <link>https://www.folin.co/story/2110</link>
+            <guid>https://www.folin.co/story/2110</guid>
+            <pubDate>Sun, 20 Mar 2022 22:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>스타트업</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코사이어티가 정의하는 '워(Work)케이션' (폴인)]]></title>
             <link>https://www.folin.co/story/2119</link>
             <guid>https://www.folin.co/story/2119</guid>
@@ -691,22 +707,6 @@
             <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브랜디드 콘텐츠 성공, '팔리는 구조'에서 나온다 (폴인)]]></title>
-            <link>https://www.folin.co/story/2077</link>
-            <guid>https://www.folin.co/story/2077</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[29CM 출신 카피라이터가 영감을 모으는 방법, 뭘까 (폴인)]]></title>
-            <link>https://www.folin.co/story/2071</link>
-            <guid>https://www.folin.co/story/2071</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 아홉 번째 - 청와대는 정말 웨스트윙이 될 수 있을까요? (북저널리즘)]]></title>
