@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-21T22:24:43.224Z</updated>
+    <updated>2022-03-21T23:23:14.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대기업 업무지원팀이 '힙한 공간' 기획한 비결]]></title>
+        <id>https://www.folin.co/story/2125</id>
+        <link href="https://www.folin.co/story/2125"/>
+        <updated>2022-03-21T23:22:56.549Z</updated>
+        <content type="html"><![CDATA[<li>공간</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['협업=회의실' 공식 깬 GS, '킫'을 만들다]]></title>
         <id>https://www.folin.co/story/2121</id>
@@ -282,14 +290,6 @@
         <id>https://www.folin.co/story/2072</id>
         <link href="https://www.folin.co/story/2072"/>
         <updated>2022-02-27T18:21:05.736Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플 '지옥'의 사자, SM 아이돌 에스파의 공통점은?]]></title>
-        <id>https://www.folin.co/story/2064</id>
-        <link href="https://www.folin.co/story/2064"/>
-        <updated>2022-02-27T18:21:05.737Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>테크</li>]]></content>
     </entry>
