@@ -6,6 +6,7 @@ titleSelector = "h6.text-gray-900.font-weight-normal.font-size-medium.text-trunc
 linkSelector = "a.d-block.position-relative"
 contentSelector = "p.font-size-xsmall.text-gray-600"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [careet]
 title = "캐릿"
@@ -16,6 +17,7 @@ linkSelector = "a"
 contentSelector = "p.txt-elp.list-desc"
 imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [longblack]
 title = "롱블랙"
@@ -26,6 +28,7 @@ linkSelector = "a"
 contentSelector = "p.today-note-desc"
 imageSelector = "div.bg-img.ratio-4-3"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [folin]
 title = "폴인"
@@ -35,6 +38,7 @@ titleSelector = "h3.item-title.line-clamp"
 linkSelector = "a"
 contentSelector = "ul.category-type"
 waitForSelector = "ul.component-grid4.story-list-contain > li"
+onFail = "stale"
 
 [bookjournalism]
 title = "북저널리즘"
@@ -45,6 +49,7 @@ linkSelector = "a.link-inner"
 contentSelector = "span.post-title"
 imageSelector = "span.cover"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [naver_premium_free]
 title = "네이버 프리미엄콘텐츠 ─ 무료 프로모션"
@@ -55,3 +60,4 @@ linkSelector = "div a.promotion_link_2"
 contentSelector = "p.promotion_info"
 imageSelector = "div.promotion_img_area img._LAZY_LOADING"
 waitUntil = "networkidle"
+onFail = "stale"
