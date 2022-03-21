@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 22:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 01:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,22 @@
             <guid>https://publy.co/content/6713?fr=category</guid>
             <pubDate>Tue, 08 Mar 2022 09:21:15 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 드라마의 신박한 홍보 방식! 주인공 방을 VR 쇼룸으로 만든다고? (캐릿)]]></title>
+            <link>https://www.careet.net/683</link>
+            <guid>https://www.careet.net/683</guid>
+            <pubDate>Mon, 21 Mar 2022 01:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대에게 ‘메타버스 마케팅 맛집’으로 소문나는 법]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/ce5c25cb-6d07-4910-8ddc-35e2c12a01b7_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대에게 ‘10분 전 출근’하라고 하면 꼰대인 걸까? (캐릿)]]></title>
+            <link>https://www.careet.net/682</link>
+            <guid>https://www.careet.net/682</guid>
+            <pubDate>Mon, 21 Mar 2022 01:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[“10분 전 출근은 근로자의 배려이지 의무가 아니예요”]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/a836a761-1420-4123-8fe9-1403f38c50fc_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[라떼는 모르는 Z세대 사진 꿀팁! 전신 사진을 위에서 찍는다고? (캐릿)]]></title>
