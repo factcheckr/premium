@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-03-22T07:22:56.459Z</updated>
+    <updated>2022-03-22T08:28:34.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[팀원의 '기분 점수'를 활용한 업무관리 노하우]]></title>
+        <id>https://publy.co/content/6735?fr=category</id>
+        <link href="https://publy.co/content/6735?fr=category"/>
+        <updated>2022-03-22T08:27:57.149Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['응답하라 마케팅'이 말하는 사랑받는 뉴스레터의 운영법]]></title>
         <id>https://publy.co/content/6741?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6695?fr=category"/>
         <updated>2022-03-15T12:38:19.860Z</updated>
         <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노코드: 시장에서 통하는 서비스를 만드는 PM의 기술]]></title>
-        <id>https://publy.co/content/6710?fr=category</id>
-        <link href="https://publy.co/content/6710?fr=category"/>
-        <updated>2022-03-15T12:38:19.862Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>
