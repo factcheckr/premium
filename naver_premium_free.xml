@@ -4,17 +4,9 @@
         <title>네이버 프리미엄콘텐츠 ─ 무료 프로모션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 01:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:56:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[시계열 자료의 이해]]></title>
-            <link>https://contents.premium.naver.com/stats/research/contents/220220130103487LE</link>
-            <guid>https://contents.premium.naver.com/stats/research/contents/220220130103487LE</guid>
-            <pubDate>Mon, 21 Mar 2022 15:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[시계열 자료 (Time-series data)의 경우 기본적으로 하나의 대상에 대하여 여러 시점에 걸쳐 관측한 자료를 의미한다. 횡단면 자료의 경우 기본적으로 한 시점에 여러 대상에  대하여 조사한 자료라면 시계열은 여러 시점에 한 대상에 대하여 조사한 자료라는 차이가 있다. 시계열 자료의 예로는 한 국가의 취업률, 한 기업의 주가, 한 지역의 범죄율, 한 가구의 부채율 등 매우 다양하]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjBfMjMy/MDAxNjQ1MzI3MjUwMTA5.6VOP1DA71LnxPMhQ13cSdYYMibFA7xQ16-rzB3Qzlvcg.xQlvxWWwy0uPIWGcDlzYSPHh_ToCxKBeigWY_dB-XeUg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[고등학생 르포] 서강대 앞 음주원정기]]></title>
             <link>https://contents.premium.naver.com/3091201/xmas/contents/220315005439689Fr</link>
@@ -24,12 +16,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfMTkg/MDAxNjQ3MjczMTc4MDg0.MyE-xoV51aVFK-DYQPSX4QOr9USRpetYWlo1HC1ZKwQg.iJoeB56hrUMowZLGAFymyQ3UvIA6-FfGaG9LYq9GWAQg.PNG/%EC%95%84%EB%AC%B4%ED%8A%BC%EC%88%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!]]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Tue, 22 Mar 2022 01:43:53 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[시계열 자료의 이해]]></title>
+            <link>https://contents.premium.naver.com/stats/research/contents/220220130103487LE</link>
+            <guid>https://contents.premium.naver.com/stats/research/contents/220220130103487LE</guid>
+            <pubDate>Mon, 21 Mar 2022 15:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[시계열 자료 (Time-series data)의 경우 기본적으로 하나의 대상에 대하여 여러 시점에 걸쳐 관측한 자료를 의미한다. 횡단면 자료의 경우 기본적으로 한 시점에 여러 대상에  대하여 조사한 자료라면 시계열은 여러 시점에 한 대상에 대하여 조사한 자료라는 차이가 있다. 시계열 자료의 예로는 한 국가의 취업률, 한 기업의 주가, 한 지역의 범죄율, 한 가구의 부채율 등 매우 다양하]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjBfMjMy/MDAxNjQ1MzI3MjUwMTA5.6VOP1DA71LnxPMhQ13cSdYYMibFA7xQ16-rzB3Qzlvcg.xQlvxWWwy0uPIWGcDlzYSPHh_ToCxKBeigWY_dB-XeUg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[굿모닝러너 챌린지 [23일차]]]></title>
@@ -40,12 +32,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfMTE4/MDAxNjQ3MjkyNDIwMzg5.2yl_NShMzPpmmKq7QB3XCR9JnJe597wxjJQCEFOkNSsg.EWPe2Zt7Yjs8xKu5Kh47wfsfTSXYBYiMvGUVT48DrzAg.JPEG/KakaoTalk_20220315_061127796.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#9. 행복은 가까이에]]></title>
-            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220315103245671Gu</link>
-            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220315103245671Gu</guid>
-            <pubDate>Mon, 21 Mar 2022 15:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[행복은 가까이에   살기 위해 배고프고 힘내려고 먹는 줄 알았는데 배고플 때 기대되고 먹으면서 행복해지니   이게 삶인가 싶어   부푼 배 쓰다듬으며 쏟아지는 잠에 나를 맡기고 햇살 받으며 일어나니 오늘은 뭐 먹을까 기대되는 삶   행복은 가까이에 있는데   무얼 위해 내일을 기다리고 무얼 위해 내 일을 찾을까   “지유쌤은 서른이 넘었는데도, 왜 이렇게 피부가 좋아요? 피]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfNjAg/MDAxNjQ3MzA3MDE4MjU1.lyL_D3Gl-p7mTw_S65CpqFFQ0mH0PmdmdP2HWvBD1bAg.IIqVrZgPZ0oC1H901jbCVCFoZgRDDWDH8h_RSGLdi5Yg.JPEG/%EC%86%8C%EB%85%80%EB%B0%94%EB%8B%A4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!]]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Tue, 22 Mar 2022 01:43:53 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["난 해적왕이 될거야" 주식왕 캐서린 D. 우드는 누구?ㅣ💈미.장.원💈]]></title>
@@ -56,12 +48,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfNDEg/MDAxNjQ3MzIxMzU3MTY0.19uu3OK1q_-CT4D2AhnuMdteem01SRSmNkPUcQ-7txYg.Agk-7iJWMNgCTtbkL83ODXikHLJmjJh9qgBvkNAN5Bwg.PNG/%ED%95%B4%EC%A0%81%EC%99%95-%EC%84%AC%EB%84%A4%EC%9D%BC.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[무료 영상 편집 프로그램 다빈치 리졸브에서 영상, 이미지, 오디오 추가하기]]></title>
-            <link>https://contents.premium.naver.com/videocoach/videocoach80/contents/220315121132103Ds</link>
-            <guid>https://contents.premium.naver.com/videocoach/videocoach80/contents/220315121132103Ds</guid>
+            <title><![CDATA[#9. 행복은 가까이에]]></title>
+            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220315103245671Gu</link>
+            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220315103245671Gu</guid>
             <pubDate>Mon, 21 Mar 2022 15:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[이제부터 본격적인 편집작업을 할 텐데 현재 편집 작업을 위한 영상 소스 등은 미리 준비가 되셔야하고 자막 작업을 위해서는 나레이션 작업도 이루어져야 합니다. 그리고 원활한 편집 작업을 위해서는 시나리오 즉, 원고가 있어야 됩니다. 이제 그에 맞추어서 영상이나 이미지도 준비하고 나레이션도 녹음하고 자막도 준비할 수 있는 것입니다.  다빈치 리졸브는 우선적으로 바]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfNzAg/MDAxNjQ3MzEzNjEyOTk4.uFdawZbg8TKxVZiZROAtvtx-MGqK0FZIiB2pcYmKtbog.1_kAjOPZ6CbZZZav90tcqbkCZ-UTaEAPYyaNdZNfjZwg.JPEG/01.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[행복은 가까이에   살기 위해 배고프고 힘내려고 먹는 줄 알았는데 배고플 때 기대되고 먹으면서 행복해지니   이게 삶인가 싶어   부푼 배 쓰다듬으며 쏟아지는 잠에 나를 맡기고 햇살 받으며 일어나니 오늘은 뭐 먹을까 기대되는 삶   행복은 가까이에 있는데   무얼 위해 내일을 기다리고 무얼 위해 내 일을 찾을까   “지유쌤은 서른이 넘었는데도, 왜 이렇게 피부가 좋아요? 피]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfNjAg/MDAxNjQ3MzA3MDE4MjU1.lyL_D3Gl-p7mTw_S65CpqFFQ0mH0PmdmdP2HWvBD1bAg.IIqVrZgPZ0oC1H901jbCVCFoZgRDDWDH8h_RSGLdi5Yg.JPEG/%EC%86%8C%EB%85%80%EB%B0%94%EB%8B%A4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[▶미래의 먹거리 산업 로봇을 주목하라!]]></title>
@@ -72,12 +64,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMThfOTYg/MDAxNjQ3NTgwNTEwMTY4.LkV2Lo5ikT7bKD2Wd0JFFDQnnuqI5RIMKfWv4SKtGzUg.28RjbLeAHjJ8g-1XE_fUYd8qeRfWydMPkoQv7rprGPQg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[호주 드라마 ‘스테이트리스’ - 에 대하여]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220315133559432af</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220315133559432af</guid>
+            <title><![CDATA[무료 영상 편집 프로그램 다빈치 리졸브에서 영상, 이미지, 오디오 추가하기]]></title>
+            <link>https://contents.premium.naver.com/videocoach/videocoach80/contents/220315121132103Ds</link>
+            <guid>https://contents.premium.naver.com/videocoach/videocoach80/contents/220315121132103Ds</guid>
             <pubDate>Mon, 21 Mar 2022 15:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[호주에서 제작된 &lt;스테이트리스&gt;는 ABC에서 제작하고 초연한 드라마 시리즈이다. 2004년부터 약 10개월간 호주 정부의 강제 구금 프로그램에 불법적으로 구금된 호주 영주권자 코넬리아 라우의 실제 사건을 토대로 제작되었다.  &lt;스테이트리스&gt;의 파일럿 에피소드는 총 3명의 중심인물의 배경을 보여준다. 자신이 원하는 삶을 살아가고 싶은 스튜어디스 소피, 아프가니스탄을 벗어]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfMTQ2/MDAxNjQ3MzE4ODc1MjUx.4OGi1Eq8kkzDFDLWFy6NOAmycePPIKH2WIkuUYsCRLAg.3E-NJ1y9j2XMESmFFeHgOC2CiPYU9Yy8q1vIBS0WgP0g.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(3).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[이제부터 본격적인 편집작업을 할 텐데 현재 편집 작업을 위한 영상 소스 등은 미리 준비가 되셔야하고 자막 작업을 위해서는 나레이션 작업도 이루어져야 합니다. 그리고 원활한 편집 작업을 위해서는 시나리오 즉, 원고가 있어야 됩니다. 이제 그에 맞추어서 영상이나 이미지도 준비하고 나레이션도 녹음하고 자막도 준비할 수 있는 것입니다.  다빈치 리졸브는 우선적으로 바]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfNzAg/MDAxNjQ3MzEzNjEyOTk4.uFdawZbg8TKxVZiZROAtvtx-MGqK0FZIiB2pcYmKtbog.1_kAjOPZ6CbZZZav90tcqbkCZ-UTaEAPYyaNdZNfjZwg.JPEG/01.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포르쉐-애플의 만남, 무엇이 나올까?]]></title>
+            <link>https://contents.premium.naver.com/economy/economywave/contents/220321094233497bM</link>
+            <guid>https://contents.premium.naver.com/economy/economywave/contents/220321094233497bM</guid>
+            <pubDate>Tue, 22 Mar 2022 02:56:49 GMT</pubDate>
+            <content:encoded><![CDATA[경제전파사 독자 여러분, 살짝 쌀쌀한 월요일 아침이네요. 오늘은 한 주를 시작하며 지난주 글로벌 금융시장을 간략하게 정리하고, 흥미로운 기업 소식 2가지를 체크해보고자 해요.  - '휴, 금리 올렸네' 안도한 뉴욕 증시 - 포르쉐-애플의 만남, 무엇이 나올까? - 게임스톱이 NFT를 한다고? 경제전파사가 처음이라면... 01 '휴, 금리 올렸네' 안도한 뉴욕 증시 지난주 시장의 예상대로]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjFfNTgg/MDAxNjQ3ODIzMzMyODU3.zGVdtmJZLRS0PhJvYEdTmvJSZA6PByfiDARaKMU4jKAg.YtMoYsS3mISeMjckIULsHFjZDQqnLD06b2PeAV4ZOC8g.PNG/%EC%9D%B4%EB%AF%B8%EC%A7%80_5.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
