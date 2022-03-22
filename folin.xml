@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-21T23:23:14.024Z</updated>
+    <updated>2022-03-22T01:43:53.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
     <entry>
@@ -22,7 +22,7 @@
                                 <li>워크</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[은행 딜링룸부터 스타트업까지, PSX 대표의 문제해결법]]></title>
+        <title type="html"><![CDATA["실패는 안고가는 거죠" 서울거래 비상장 대표의 깨달음]]></title>
         <id>https://www.folin.co/story/2110</id>
         <link href="https://www.folin.co/story/2110"/>
         <updated>2022-03-20T22:25:18.704Z</updated>
