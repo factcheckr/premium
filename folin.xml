@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-22T21:21:36.671Z</updated>
+    <updated>2022-03-22T22:22:37.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["스몰 토크→영감" 네이버클라우드 인사 담당자의 업무법]]></title>
+        <id>https://www.folin.co/story/2117</id>
+        <link href="https://www.folin.co/story/2117"/>
+        <updated>2022-03-22T22:22:18.812Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매출40배, 일회용품 200만개 줄인 트래쉬버스터즈]]></title>
+        <id>https://www.folin.co/story/2115</id>
+        <link href="https://www.folin.co/story/2115"/>
+        <updated>2022-03-22T22:22:18.819Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대기업 업무지원팀이 '힙한 공간' 기획한 비결]]></title>
         <id>https://www.folin.co/story/2125</id>
@@ -276,21 +292,5 @@
         <updated>2022-02-27T18:21:05.733Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아이만큼 내 성장도 중요" MZ엄마 지갑 여는 분야는]]></title>
-        <id>https://www.folin.co/story/2076</id>
-        <link href="https://www.folin.co/story/2076"/>
-        <updated>2022-02-27T18:21:05.734Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2만명 찾은 완전스마트매장, 어떻게 탄생했나]]></title>
-        <id>https://www.folin.co/story/2072</id>
-        <link href="https://www.folin.co/story/2072"/>
-        <updated>2022-02-27T18:21:05.736Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content>
     </entry>
 </feed>

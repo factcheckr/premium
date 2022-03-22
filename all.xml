@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 21:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 22:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -445,6 +445,22 @@
             <content:encoded><![CDATA[저는 우유를 못 마십니다. 유당불내증*을 앓고 있거든요. 무심코 라떼를 마셨다간 화장실에서 하루 반나절을 보낼 정도죠.*유당을 분해, 소화하지 못하는 증상.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA["스몰 토크→영감" 네이버클라우드 인사 담당자의 업무법 (폴인)]]></title>
+            <link>https://www.folin.co/story/2117</link>
+            <guid>https://www.folin.co/story/2117</guid>
+            <pubDate>Tue, 22 Mar 2022 22:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매출40배, 일회용품 200만개 줄인 트래쉬버스터즈 (폴인)]]></title>
+            <link>https://www.folin.co/story/2115</link>
+            <guid>https://www.folin.co/story/2115</guid>
+            <pubDate>Tue, 22 Mar 2022 22:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대기업 업무지원팀이 '힙한 공간' 기획한 비결 (폴인)]]></title>
             <link>https://www.folin.co/story/2125</link>
             <guid>https://www.folin.co/story/2125</guid>
@@ -715,22 +731,6 @@
             <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["아이만큼 내 성장도 중요" MZ엄마 지갑 여는 분야는 (폴인)]]></title>
-            <link>https://www.folin.co/story/2076</link>
-            <guid>https://www.folin.co/story/2076</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2만명 찾은 완전스마트매장, 어떻게 탄생했나 (폴인)]]></title>
-            <link>https://www.folin.co/story/2072</link>
-            <guid>https://www.folin.co/story/2072</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해외 입국자의 자가 격리 의무가 해제됐다. 숙박 및 여행 업계의 전쟁이 시작됐다. (북저널리즘)]]></title>
