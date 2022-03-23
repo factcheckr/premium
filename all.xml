@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 01:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:01:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -825,6 +825,14 @@
             <content:encoded><![CDATA[광화문 앞길은 꽃길인가 가시밭길인가]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['우선주'는 패스트 패스…배당 먼저 받을 권리 있어요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220121102216725oT</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220121102216725oT</guid>
+            <pubDate>Tue, 22 Mar 2022 15:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[보통 놀이동산의 인기 어트랙션(놀이기구)을 타려면 1시간 이상 기다려야 한다. 우리는 여기서 선택의 기로에 놓인다. 단 몇 분의 즐거움을 위해 1시간 이상을 기다릴 것인지, 아니면 포기하고 대기시간이 짧지만 다소 시시한 어트랙션을 탈 것인지 선택해야 한다.   유명 D놀이동산은 FAST PASS(이하 FP)라는 제도를 통해 이용객의 대기시간을 절약할 수 있게 했다. 물론 무한정으로 F]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjFfMTU4/MDAxNjQyNzMxMTIxMDQx.HmQW9boLkChueiMB7dTYqw_9PNVR7LiOPxqCiZXkztEg.fjlWvR2XAkz9G3vr952HuQkAiyp8fBjdHXsz3dd4eKIg.JPEG/GettyImages-1258041005.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[평범한 삶이 가장 행복한 거야 어바웃 타임  About Time, 2013 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/justmovie/romanceholic/contents/220305190613388mQ</link>
             <guid>https://contents.premium.naver.com/justmovie/romanceholic/contents/220305190613388mQ</guid>
@@ -833,12 +841,11 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjdfMTQw/MDAxNjQzMjEyODgyNTcx.oGHGWbgfiYuSMPSQ_4V5X5PYVSVzSgT4wlFOvMx0-Lsg.LaN6MRlzX0JWqu6lc6L3PU910EwyaBtX31r88o3yWwAg.JPEG/19.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['우선주'는 패스트 패스…배당 먼저 받을 권리 있어요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220121102216725oT</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220121102216725oT</guid>
+            <title><![CDATA[[안내]  오늘, 외쿡신문 서비스 중단 안내 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/byline/todayglobal/contents/220222135854304lJ</link>
+            <guid>https://contents.premium.naver.com/byline/todayglobal/contents/220222135854304lJ</guid>
             <pubDate>Tue, 22 Mar 2022 15:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[보통 놀이동산의 인기 어트랙션(놀이기구)을 타려면 1시간 이상 기다려야 한다. 우리는 여기서 선택의 기로에 놓인다. 단 몇 분의 즐거움을 위해 1시간 이상을 기다릴 것인지, 아니면 포기하고 대기시간이 짧지만 다소 시시한 어트랙션을 탈 것인지 선택해야 한다.   유명 D놀이동산은 FAST PASS(이하 FP)라는 제도를 통해 이용객의 대기시간을 절약할 수 있게 했다. 물론 무한정으로 F]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjFfMTU4/MDAxNjQyNzMxMTIxMDQx.HmQW9boLkChueiMB7dTYqw_9PNVR7LiOPxqCiZXkztEg.fjlWvR2XAkz9G3vr952HuQkAiyp8fBjdHXsz3dd4eKIg.JPEG/GettyImages-1258041005.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[안녕하세요. '오늘, 외쿡신문'을 구독해 주신 구독자님들께 죄송한 말씀드립니다. 저희의 내부 사정으로 인해 '오늘, 외쿡신문' 서비스를 지속할 수 없게 되었습니다. 이에 따라 네이버 프리미엄 콘텐츠에서 '오늘, 외쿡신문' 연재를 조만간 중단하고, 한 달 후(3월23일) 채널 운영을 완전히 종료할 예정입니다. 앞으로는 바이라인네트워크(https://byline.network/)에서 글로벌 테크 소식]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[특집] 긴 헤맴의 끝에 우리가 도착하게 될 곳은 어디인가 ─ 영화, <1917> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -849,11 +856,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfNTgg/MDAxNjQ3MzIyMTgxNDQw.My5pPvD3vFI5zeJTB0_wGL99A2hY62G0Bbmq7PHM948g.YoJHG0FAvyyf1ASjfWY-q2gHc1-j5WhST1xzV8aJqQsg.JPEG/1603344384169.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[안내]  오늘, 외쿡신문 서비스 중단 안내 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/byline/todayglobal/contents/220222135854304lJ</link>
-            <guid>https://contents.premium.naver.com/byline/todayglobal/contents/220222135854304lJ</guid>
-            <pubDate>Tue, 22 Mar 2022 15:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. '오늘, 외쿡신문'을 구독해 주신 구독자님들께 죄송한 말씀드립니다. 저희의 내부 사정으로 인해 '오늘, 외쿡신문' 서비스를 지속할 수 없게 되었습니다. 이에 따라 네이버 프리미엄 콘텐츠에서 '오늘, 외쿡신문' 연재를 조만간 중단하고, 한 달 후(3월23일) 채널 운영을 완전히 종료할 예정입니다. 앞으로는 바이라인네트워크(https://byline.network/)에서 글로벌 테크 소식]]></content:encoded>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Wed, 23 Mar 2022 01:47:58 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[우량주] 석유시대 종말? 버핏도 주목한 재생에너지株...세계 최대 탈탄소 플랫폼 - 넥스트에라에너지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -864,12 +872,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfMTY4/MDAxNjQ3MzI1NjU0MjY2.l5IUr1Z_pOneeLyPxzo_3YF6cOlZEqooLyQAOVjhMmcg.7Autgp72-matxoEGwd1gW0ppXwAjax5w_Lt2WDE4sBEg.JPEG/arteum-ro-ZYu6P9-Glic-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Wed, 23 Mar 2022 01:47:58 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[제약사 바이엘 사장 "mRNA 백신은 유전자 치료제" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220312195427696kV</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220312195427696kV</guid>
+            <pubDate>Tue, 22 Mar 2022 15:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[Bayer Executive Says mRNA Vaccines are Gene Therapy 제약사 바이엘 사장 "mRNA 백신은 유전자 치료제" A speech made last year by a Bayer executive mentioning that messenger RNA (mRNA) vaccines are gene therapy is gaining traction on social media for the second time since it was initially posted online in October 2021. "mRNA 백신은 유전자 치료제"라고 한 독일 제약사 바이엘(Bayer) 사장의 발언이 또다시 소셜미디어에서 주목받고 있다. Stefan Oelri]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTJfMTk4/MDAxNjQ3MDgxOTIyODg4.MVM_tnRWeW5j6OkLSnHDAOf0W63p8KTWIDzBo_oFaDQg.HhHDCMR0dx8uwBEQP4Y-J28feUQrEIfp1p_zTIzXI1og.JPEG/China-Hackers_germany-BAYER-700x420.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[경제상식] 비트코인은 투자할 가치가 있나? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -880,20 +888,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTZfMjkx/MDAxNjQ3MzkwMjYyMDYw.HgpFS1Uy1wGKfn3re-Yh5PXO7hIG0cSYA_VQ9qcrdzUg.GaLXeJLRw5tcBJvWHC0beNoa8B0f0ZM-fAgEtk6gyPgg.JPEG/KZHNWEKCAYHQ2R7KXNW6XCVT2Q.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제약사 바이엘 사장 "mRNA 백신은 유전자 치료제" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220312195427696kV</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220312195427696kV</guid>
-            <pubDate>Tue, 22 Mar 2022 15:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[Bayer Executive Says mRNA Vaccines are Gene Therapy 제약사 바이엘 사장 "mRNA 백신은 유전자 치료제" A speech made last year by a Bayer executive mentioning that messenger RNA (mRNA) vaccines are gene therapy is gaining traction on social media for the second time since it was initially posted online in October 2021. "mRNA 백신은 유전자 치료제"라고 한 독일 제약사 바이엘(Bayer) 사장의 발언이 또다시 소셜미디어에서 주목받고 있다. Stefan Oelri]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTJfMTk4/MDAxNjQ3MDgxOTIyODg4.MVM_tnRWeW5j6OkLSnHDAOf0W63p8KTWIDzBo_oFaDQg.HhHDCMR0dx8uwBEQP4Y-J28feUQrEIfp1p_zTIzXI1og.JPEG/China-Hackers_germany-BAYER-700x420.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[7월부터 바뀌는 건강보험료, 퇴직자가 건보료 절약하려면... (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/geumgo/geumgo1/contents/220318103305995qM</link>
-            <guid>https://contents.premium.naver.com/geumgo/geumgo1/contents/220318103305995qM</guid>
-            <pubDate>Wed, 23 Mar 2022 01:47:58 GMT</pubDate>
-            <content:encoded><![CDATA[건강료보험료 부과체계 2단계 개편안이 올해 7월부터 시행될 예정이다. 2단계 개편안의 주요 내용은 직장 가입자가 추가로 건강보험료를 납부하는 월급외 종합과세소득 기준이 3천4백만 원 초과에서 2천만 원 초과로 낮아진다.  자녀 건강보험 피부양자 자격요건 강화 또한, 공적연금의 소득반영율이 30%에서 50%로 확대되고 자녀 건강보험 피부양자 자격요건이 강화된다. 따라서]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMThfMjIw/MDAxNjQ3NTY2ODA3OTM3.2dfCNVpKEmT8lOLp5L_DKl4L6PGxvDgXv7djTJvGLXUg.MIEB3ghrRDx_C8y4Bi2yKkTSUbESFpTNn8lZmpHZWjwg.PNG/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[굿모닝러너 챌린지 [24일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220316062235973ZA</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220316062235973ZA</guid>
+            <pubDate>Wed, 23 Mar 2022 03:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [24일차] 굿모닝러너님, 잠에서 깰 때 어떤 생각을 하셨나요? 오늘 하루를 미소를 지으며 시작하고 감사로 마무리해보세요. 감동적인 하루를 보낼 수 있을 거에요 :)  굿모닝러너_챌린지_24일차 #20220316 #AM06:00 잠에서 깰 때 드는 생각은 그날 하루를 결정하고, 잠들기 전에 드는 생각은 다음날 아침을 결정한다. 그런 하루하루가 모여 우리의 인생을 만든다. 하루]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTZfMjg2/MDAxNjQ3Mzc5MzE3OTQy.BCmTjElPytauV57i7TDicUU1wLUp_Kpdhyv5OZq6JzAg.DGUNWf8wKfBXUdHrd1LVoZEkDWD9utTGEm3pPNPANz8g.JPEG/KakaoTalk_20220316_061320105.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
