@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 23:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 01:43:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,22 @@
             <guid>https://publy.co/content/6728?fr=category</guid>
             <pubDate>Tue, 15 Mar 2022 12:38:19 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[데이터] MZ세대 46%는 기프티콘으로 OOO을 받고 싶어 한다! (캐릿)]]></title>
+            <link>https://www.careet.net/685</link>
+            <guid>https://www.careet.net/685</guid>
+            <pubDate>Thu, 24 Mar 2022 01:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[5조 원 규모로 성장한 모바일 교환권 시장! MZ세대는 어떻게 이용하고 있을까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/99423f42-e169-434c-b5c5-b061dc2329a0_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신입사원이 ‘선배 최고!’ 외치게 만드는 피드백, 그거 어떻게 하는 건데? (캐릿)]]></title>
+            <link>https://www.careet.net/687</link>
+            <guid>https://www.careet.net/687</guid>
+            <pubDate>Thu, 24 Mar 2022 01:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 후배 열정러로 성장시키는 좋은 피드백 노하우]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/fce92ace-004a-4656-b681-b48f57730f7f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[중국 Z세대 트렌드 모음] 24시간 틱톡 라이브 방송 켜 놓는 게 대세라고? (캐릿)]]></title>
@@ -453,6 +469,22 @@
             <content:encoded><![CDATA[큰 몸집의 청년이 대학 캠퍼스의 계단에 앉아서 노트북을 펼칩니다. 트레이닝 반바지에 발목 긴 양말을 신고, 진지한 얼굴로 노트북을 들여다봐요. 저런, 모니터에 ‘신입사원 채용 공고<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[중고거래 앱 번개장터가 'BGZT랩' 오픈한 이유 (폴인)]]></title>
+            <link>https://www.folin.co/story/2131</link>
+            <guid>https://www.folin.co/story/2131</guid>
+            <pubDate>Thu, 24 Mar 2022 01:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>조직문화</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[번개장터가 발견한 요즘 중고시장 키워드 3 (폴인)]]></title>
+            <link>https://www.folin.co/story/2130</link>
+            <guid>https://www.folin.co/story/2130</guid>
+            <pubDate>Thu, 24 Mar 2022 01:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>조직문화</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["스몰 토크→영감" 네이버클라우드 인사 담당자의 업무법 (폴인)]]></title>
             <link>https://www.folin.co/story/2117</link>
             <guid>https://www.folin.co/story/2117</guid>
@@ -725,22 +757,6 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버가 글로벌 B2B 도전자로 '협업 툴' 택한 이유 (폴인)]]></title>
-            <link>https://www.folin.co/story/2078</link>
-            <guid>https://www.folin.co/story/2078</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[힙마비가 뽑은 영감의 문장들 (폴인)]]></title>
-            <link>https://www.folin.co/story/2074</link>
-            <guid>https://www.folin.co/story/2074</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[윤석열 당선인은 대출 규제를 완화하겠다고 한다. 벌써 시중 은행들은 곳간 문을 열었다. 잔치의 시간인가, 폭탄의 시간인가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/49778</link>
             <guid>https://www.bookjournalism.com/books/49778</guid>
@@ -833,12 +849,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTdfMjc0/MDAxNjQ1MDkzOTU2Njk1.J5L3m38jiFkojl86GuRkxJ3b1HA_vELkGB5Liw4tAekg.cxMj-T3g8Joo7nHgdq-AzHgsuLgAllbgx0yGqXsLMrIg.JPEG/%ED%98%B9%EC%8B%9C%EB%82%B4%EA%B2%8C%EB%AC%B4%EC%8A%A8%EC%9D%BC%EC%9D%B4%EC%83%9D%EA%B8%B0%EB%A9%B4_2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[법인사업자 전환은 늘 유리할까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220315155205863BU</link>
-            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220315155205863BU</guid>
-            <pubDate>Wed, 23 Mar 2022 15:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[지난주 세세하게에서는 법인사업자가 뭔지, 개인사업자와의 차이는 뭔지 등에 대해 세세하게 다뤘었는데요. (지난주 세세하게 법인사업자? 개인사업자? 보기 링크: https://bit.ly/3vYdEue) 많은 개인사업자들이 법인전환에 대한 고민을 하게 되는 순간이 올 거예요. 아무래도 법인이 개인보다 대외신인도가 높아서 금융기관으로부터 사업자금융통을 받기 쉽고 세제지원 등 정책적 지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfNDgg/MDAxNjQ3MzI3MDExMTEx.0LvOsSidYdxLB9TwUfrMpdV5uv2gTFkc032QroS-UCog.u19zzFWygA4GmPQKk1y3ZfcGyVhX_WihKJmzctd4Knsg.JPEG/%C3%AC%C2%A0%C2%88%C3%AC%C2%83%C2%88_%C3%AB%C2%B2%C2%95%C3%AC%C2%9D%C2%B8%C3%AC%C2%82%C2%AC%C3%AC%C2%97%C2%85%C3%AC%C2%9E%C2%90%C3%AA%C2%B0%C2%9C%C3%AC%C2%9D%C2%B8%C3%AC%C2%82%C2%AC%C3%AC%C2%97%C2%85%C3%AC%C2%9E%C2%90.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Thu, 24 Mar 2022 01:43:21 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[굿모닝러너 챌린지 [25일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -849,12 +865,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfNjkg/MDAxNjQ3NDY0NTY0NTIy.kiDkoHsOOLHGsedS2xD_FsCOneOmxaMXB3ddANR49Wsg.c6dGfvkk8-xuCIEfzorBk6_HiVLRC_cqo5XB-W6Kcl8g.JPEG/KakaoTalk_20220317_055727675.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산은이 점찍은 스톤브릿지, 5000억 펀드 조성 탄력 받았다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220316174633531Xu</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220316174633531Xu</guid>
+            <title><![CDATA[법인사업자 전환은 늘 유리할까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220315155205863BU</link>
+            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220315155205863BU</guid>
             <pubDate>Wed, 23 Mar 2022 15:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[사모투자펀드(PEF) 운용사 스톤브릿지캐피탈(이하 스톤브릿지)이 올 한 해 쾌조의 스타트를 끊었습니다. 대형 펀드를 만들 계획인데 아주 든든한 우군을 맞았기 때문입니다. 산업은행이 바로 그 귀인입니다. 스톤브릿지는 산은 뉴딜펀드 출자사업 운용사로 선정되면서 2호 블라인드펀드 조성에 탄력이 붙었습니다. ESG(환경·사회·지배구조) 관련 투자 활동과 함께 신속한 투자 행]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTZfMjI4/MDAxNjQ3NDA3NDI3OTEz.VOguCwbPzaUBRQboELQx8oxIi-g9K1_OK4Iz23cxt_8g.prSkP63txgeE3U7vwwp8JrDJLEwfiWc2Ih-633Gv30Qg.JPEG/Screenshot_2022-03-16_at_14.10.20.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[지난주 세세하게에서는 법인사업자가 뭔지, 개인사업자와의 차이는 뭔지 등에 대해 세세하게 다뤘었는데요. (지난주 세세하게 법인사업자? 개인사업자? 보기 링크: https://bit.ly/3vYdEue) 많은 개인사업자들이 법인전환에 대한 고민을 하게 되는 순간이 올 거예요. 아무래도 법인이 개인보다 대외신인도가 높아서 금융기관으로부터 사업자금융통을 받기 쉽고 세제지원 등 정책적 지]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfNDgg/MDAxNjQ3MzI3MDExMTEx.0LvOsSidYdxLB9TwUfrMpdV5uv2gTFkc032QroS-UCog.u19zzFWygA4GmPQKk1y3ZfcGyVhX_WihKJmzctd4Knsg.JPEG/%C3%AC%C2%A0%C2%88%C3%AC%C2%83%C2%88_%C3%AB%C2%B2%C2%95%C3%AC%C2%9D%C2%B8%C3%AC%C2%82%C2%AC%C3%AC%C2%97%C2%85%C3%AC%C2%9E%C2%90%C3%AA%C2%B0%C2%9C%C3%AC%C2%9D%C2%B8%C3%AC%C2%82%C2%AC%C3%AC%C2%97%C2%85%C3%AC%C2%9E%C2%90.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연차가 무제한이라고?! 직원만족도 1위 루닛이 일하는 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -865,12 +881,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMjA5/MDAxNjQ3NDk2OTM5MTg3.PH9NtIU1boD1WjYQ4LJxxFfF0orL8RmU-jIOVHn8BzEg.hgOCxDBpwzeLBMemzWNeR5wQ5_oo7G9krrJSQclmITUg.JPEG/%EB%A3%A8%EB%8B%9B0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[경제뉴스] 종이컵 차차 없애는 스타벅스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/ottguidebook/1776/contents/220317091047863mW</link>
-            <guid>https://contents.premium.naver.com/ottguidebook/1776/contents/220317091047863mW</guid>
+            <title><![CDATA[산은이 점찍은 스톤브릿지, 5000억 펀드 조성 탄력 받았다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220316174633531Xu</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220316174633531Xu</guid>
             <pubDate>Wed, 23 Mar 2022 15:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 산업통입니다. 앞으로 미국과 캐나다에선 스타벅스에 갈 때 머그잔을 반드시 챙겨가야 할 것으로 보입니다.  내년 말까지 미국과 캐나다의 스타벅스 고객들은 음료수에 재사용 가능한 개인 컵을 사용할 수 있게 될 것이라고 미국 현지시간 화요일 스타벅스가 발표했습니다. 이같은 변경 사항은 카페, 드라이브스루 및 모바일 주문 시 음료에 적용됩니다. 스타벅스는]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMTEz/MDAxNjQ3NDc1NzI1NzU5.CD4-IQNcrnLlD6bXK1CuFoLT_CL_GEPRwKITP8P-kVIg.Ry8lwGoXX-y3J8uBoAHJOr6QM_iPhRHBSRGkIEPUpjQg.JPEG/NLN6V3U4GVC5ZJZ32RQQWV6K7M.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[사모투자펀드(PEF) 운용사 스톤브릿지캐피탈(이하 스톤브릿지)이 올 한 해 쾌조의 스타트를 끊었습니다. 대형 펀드를 만들 계획인데 아주 든든한 우군을 맞았기 때문입니다. 산업은행이 바로 그 귀인입니다. 스톤브릿지는 산은 뉴딜펀드 출자사업 운용사로 선정되면서 2호 블라인드펀드 조성에 탄력이 붙었습니다. ESG(환경·사회·지배구조) 관련 투자 활동과 함께 신속한 투자 행]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTZfMjI4/MDAxNjQ3NDA3NDI3OTEz.VOguCwbPzaUBRQboELQx8oxIi-g9K1_OK4Iz23cxt_8g.prSkP63txgeE3U7vwwp8JrDJLEwfiWc2Ih-633Gv30Qg.JPEG/Screenshot_2022-03-16_at_14.10.20.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단 음식이 당기는 이유? OO 때문! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -881,12 +897,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMjU3/MDAxNjQ3NTAwNzcwMjY4.9oQ0C1pneCd6NMV2BpWJiWT7kJpvmR1hT92DBVn0vRwg.ug5LMOviVYU7GtHzbOF296RyAyF7ofmeAkggY1jKYSog.JPEG/GettyImages-1222516224.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영원한 실패란 없으니 다시 시작하라고 말하는 비긴 어게인 Begin Again , 2013 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/justmovie/romanceholic/contents/220317020338743RF</link>
-            <guid>https://contents.premium.naver.com/justmovie/romanceholic/contents/220317020338743RF</guid>
+            <title><![CDATA[[경제뉴스] 종이컵 차차 없애는 스타벅스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/ottguidebook/1776/contents/220317091047863mW</link>
+            <guid>https://contents.premium.naver.com/ottguidebook/1776/contents/220317091047863mW</guid>
             <pubDate>Wed, 23 Mar 2022 15:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[스토리와 음악을 조화롭게 만드는 탁월한 연출로 관객의 마음을 사로잡는 '존 카니 감독'은 영화&lt;원스&gt;로 선댄스 영화제 관객상을 시작으로 ‘올해의 영화’로 등극한 후 독립영화상을 수상하고 사운드트랙으로 그래미상 후보, 주제곡 ‘Falling Slowly’로 아카데미 주제가상을 수상했던 감독이다. &lt;비긴 어게인&gt;에서는 뉴욕 거리 곳곳을 배경으로 아름다운 선율 안에 인생과 사랑,]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTZfMTM4/MDAxNjQ3NDMwMDc5ODA0.2RjZRtAS1GsV6EHZC7zaPbhYHAhno9wIiczbK5V-OpIg.aQwSv3Xcxrgi9m27QoMR3kYBC3sVRcX3SRkvdP1Lr5Yg.JPEG/13.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[안녕하세요. 산업통입니다. 앞으로 미국과 캐나다에선 스타벅스에 갈 때 머그잔을 반드시 챙겨가야 할 것으로 보입니다.  내년 말까지 미국과 캐나다의 스타벅스 고객들은 음료수에 재사용 가능한 개인 컵을 사용할 수 있게 될 것이라고 미국 현지시간 화요일 스타벅스가 발표했습니다. 이같은 변경 사항은 카페, 드라이브스루 및 모바일 주문 시 음료에 적용됩니다. 스타벅스는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMTEz/MDAxNjQ3NDc1NzI1NzU5.CD4-IQNcrnLlD6bXK1CuFoLT_CL_GEPRwKITP8P-kVIg.Ry8lwGoXX-y3J8uBoAHJOr6QM_iPhRHBSRGkIEPUpjQg.JPEG/NLN6V3U4GVC5ZJZ32RQQWV6K7M.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#10. 작아지지 말자. 웅크려들지 말자 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>

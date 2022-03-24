@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-23T23:24:26.042Z</updated>
+    <updated>2022-03-24T01:43:22.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중고거래 앱 번개장터가 'BGZT랩' 오픈한 이유]]></title>
+        <id>https://www.folin.co/story/2131</id>
+        <link href="https://www.folin.co/story/2131"/>
+        <updated>2022-03-24T01:42:35.270Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[번개장터가 발견한 요즘 중고시장 키워드 3]]></title>
+        <id>https://www.folin.co/story/2130</id>
+        <link href="https://www.folin.co/story/2130"/>
+        <updated>2022-03-24T01:42:35.281Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["스몰 토크→영감" 네이버클라우드 인사 담당자의 업무법]]></title>
         <id>https://www.folin.co/story/2117</id>
@@ -274,22 +290,6 @@
         <id>https://www.folin.co/story/2079</id>
         <link href="https://www.folin.co/story/2079"/>
         <updated>2022-02-27T18:21:05.728Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버가 글로벌 B2B 도전자로 '협업 툴' 택한 이유]]></title>
-        <id>https://www.folin.co/story/2078</id>
-        <link href="https://www.folin.co/story/2078"/>
-        <updated>2022-02-27T18:21:05.731Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힙마비가 뽑은 영감의 문장들]]></title>
-        <id>https://www.folin.co/story/2074</id>
-        <link href="https://www.folin.co/story/2074"/>
-        <updated>2022-02-27T18:21:05.733Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
     </entry>
