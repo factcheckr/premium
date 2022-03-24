@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 07:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 08:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -757,12 +757,88 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Thu, 24 Mar 2022 01:43:21 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[윤석열 당선인은 대출 규제를 완화하겠다고 한다. 벌써 시중 은행들은 곳간 문을 열었다. 잔치의 시간인가, 폭탄의 시간인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49778</link>
+            <guid>https://www.bookjournalism.com/books/49778</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[부채가 부실이 되지 않으려면]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해외 입국자의 자가 격리 의무가 해제됐다. 숙박 및 여행 업계의 전쟁이 시작됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49767</link>
+            <guid>https://www.bookjournalism.com/books/49767</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[야놀자 스테이트 오브 마인드]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡 새벽배송 지역이 전국 국토의 11.8퍼센트에 불과하다. 지역의 격차가 서비스의 격차로 드러나고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49748</link>
+            <guid>https://www.bookjournalism.com/books/49748</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[쿠세권이 바꾼 세상]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 아홉 번째 - 청와대는 정말 웨스트윙이 될 수 있을까요? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49740</link>
+            <guid>https://www.bookjournalism.com/books/49740</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[대통령실]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #28에선, SM엔터테인먼트 인수를 위한 막판 협상을 벌이고 있는 카카오의 미래, 16년만에 돌아와 빵 터져버린 포켓몬빵 현상, 변혁의 기로에 선 넷플릭스와 콘텐츠 구독시장에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49708</link>
+            <guid>https://www.bookjournalism.com/audio/49708</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[제빵왕 피카츄와 춘식이의 핑크제국 입성]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스가 이용자간 계정 공유를 막는다고 밝혔다. 정체된 콘텐츠 구독 시장은 새로운 과금 모델을 찾을 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49684</link>
+            <guid>https://www.bookjournalism.com/books/49684</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[구독의 미래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장애인의 직업은 왜 단순·반복 노동에 한정되어 왔나. 핸디캡을 넘어 좋아하는 일에 도전하는 일곱 명이 모였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49573</link>
+            <guid>https://www.bookjournalism.com/books/49573</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[비욘드 핸디캡]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대는 역사상 가장 가난한 세대다. 무엇이 이들을 부채로 내몰았나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49671</link>
+            <guid>https://www.bookjournalism.com/books/49671</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[빚쟁이가 되어버린 MZ를 아시오?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[16년 만에 돌아온 포켓몬빵이 빵터졌다. 띠부씰의 혁신은 무엇인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49624</link>
+            <guid>https://www.bookjournalism.com/books/49624</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:42 GMT</pubDate>
+            <content:encoded><![CDATA[너로 정했다! 제빵왕 피카츄]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[춘식이가 핑크제국을 노린다. 카카오는 어떻게 SM인수전에서 앞섰나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49548</link>
+            <guid>https://www.bookjournalism.com/books/49548</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:42 GMT</pubDate>
+            <content:encoded><![CDATA[카카오와 SM의 라춘댄스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 여덟 번째 - 바야흐로 한국 자본주의에는 건강한 시장이 필요합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49520</link>
+            <guid>https://www.bookjournalism.com/books/49520</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:42 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 시장]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도심에서 백화점이 사라지고 있다. 그 자리를 무엇으로 메꿔야 할까? 도시가 고민할 차례다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49492</link>
+            <guid>https://www.bookjournalism.com/books/49492</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:42 GMT</pubDate>
+            <content:encoded><![CDATA[백화점 멸종의 시대]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[혹시 내게 무슨 일이 생기면 (2020) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -773,12 +849,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTdfMjc0/MDAxNjQ1MDkzOTU2Njk1.J5L3m38jiFkojl86GuRkxJ3b1HA_vELkGB5Liw4tAekg.cxMj-T3g8Joo7nHgdq-AzHgsuLgAllbgx0yGqXsLMrIg.JPEG/%ED%98%B9%EC%8B%9C%EB%82%B4%EA%B2%8C%EB%AC%B4%EC%8A%A8%EC%9D%BC%EC%9D%B4%EC%83%9D%EA%B8%B0%EB%A9%B4_2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[법인사업자 전환은 늘 유리할까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220315155205863BU</link>
-            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220315155205863BU</guid>
-            <pubDate>Wed, 23 Mar 2022 15:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[지난주 세세하게에서는 법인사업자가 뭔지, 개인사업자와의 차이는 뭔지 등에 대해 세세하게 다뤘었는데요. (지난주 세세하게 법인사업자? 개인사업자? 보기 링크: https://bit.ly/3vYdEue) 많은 개인사업자들이 법인전환에 대한 고민을 하게 되는 순간이 올 거예요. 아무래도 법인이 개인보다 대외신인도가 높아서 금융기관으로부터 사업자금융통을 받기 쉽고 세제지원 등 정책적 지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfNDgg/MDAxNjQ3MzI3MDExMTEx.0LvOsSidYdxLB9TwUfrMpdV5uv2gTFkc032QroS-UCog.u19zzFWygA4GmPQKk1y3ZfcGyVhX_WihKJmzctd4Knsg.JPEG/%C3%AC%C2%A0%C2%88%C3%AC%C2%83%C2%88_%C3%AB%C2%B2%C2%95%C3%AC%C2%9D%C2%B8%C3%AC%C2%82%C2%AC%C3%AC%C2%97%C2%85%C3%AC%C2%9E%C2%90%C3%AA%C2%B0%C2%9C%C3%AC%C2%9D%C2%B8%C3%AC%C2%82%C2%AC%C3%AC%C2%97%C2%85%C3%AC%C2%9E%C2%90.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Thu, 24 Mar 2022 01:43:21 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[굿모닝러너 챌린지 [25일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -789,12 +865,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfNjkg/MDAxNjQ3NDY0NTY0NTIy.kiDkoHsOOLHGsedS2xD_FsCOneOmxaMXB3ddANR49Wsg.c6dGfvkk8-xuCIEfzorBk6_HiVLRC_cqo5XB-W6Kcl8g.JPEG/KakaoTalk_20220317_055727675.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산은이 점찍은 스톤브릿지, 5000억 펀드 조성 탄력 받았다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220316174633531Xu</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220316174633531Xu</guid>
+            <title><![CDATA[법인사업자 전환은 늘 유리할까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220315155205863BU</link>
+            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220315155205863BU</guid>
             <pubDate>Wed, 23 Mar 2022 15:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[사모투자펀드(PEF) 운용사 스톤브릿지캐피탈(이하 스톤브릿지)이 올 한 해 쾌조의 스타트를 끊었습니다. 대형 펀드를 만들 계획인데 아주 든든한 우군을 맞았기 때문입니다. 산업은행이 바로 그 귀인입니다. 스톤브릿지는 산은 뉴딜펀드 출자사업 운용사로 선정되면서 2호 블라인드펀드 조성에 탄력이 붙었습니다. ESG(환경·사회·지배구조) 관련 투자 활동과 함께 신속한 투자 행]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTZfMjI4/MDAxNjQ3NDA3NDI3OTEz.VOguCwbPzaUBRQboELQx8oxIi-g9K1_OK4Iz23cxt_8g.prSkP63txgeE3U7vwwp8JrDJLEwfiWc2Ih-633Gv30Qg.JPEG/Screenshot_2022-03-16_at_14.10.20.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[지난주 세세하게에서는 법인사업자가 뭔지, 개인사업자와의 차이는 뭔지 등에 대해 세세하게 다뤘었는데요. (지난주 세세하게 법인사업자? 개인사업자? 보기 링크: https://bit.ly/3vYdEue) 많은 개인사업자들이 법인전환에 대한 고민을 하게 되는 순간이 올 거예요. 아무래도 법인이 개인보다 대외신인도가 높아서 금융기관으로부터 사업자금융통을 받기 쉽고 세제지원 등 정책적 지]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfNDgg/MDAxNjQ3MzI3MDExMTEx.0LvOsSidYdxLB9TwUfrMpdV5uv2gTFkc032QroS-UCog.u19zzFWygA4GmPQKk1y3ZfcGyVhX_WihKJmzctd4Knsg.JPEG/%C3%AC%C2%A0%C2%88%C3%AC%C2%83%C2%88_%C3%AB%C2%B2%C2%95%C3%AC%C2%9D%C2%B8%C3%AC%C2%82%C2%AC%C3%AC%C2%97%C2%85%C3%AC%C2%9E%C2%90%C3%AA%C2%B0%C2%9C%C3%AC%C2%9D%C2%B8%C3%AC%C2%82%C2%AC%C3%AC%C2%97%C2%85%C3%AC%C2%9E%C2%90.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연차가 무제한이라고?! 직원만족도 1위 루닛이 일하는 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -805,12 +881,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMjA5/MDAxNjQ3NDk2OTM5MTg3.PH9NtIU1boD1WjYQ4LJxxFfF0orL8RmU-jIOVHn8BzEg.hgOCxDBpwzeLBMemzWNeR5wQ5_oo7G9krrJSQclmITUg.JPEG/%EB%A3%A8%EB%8B%9B0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[경제뉴스] 종이컵 차차 없애는 스타벅스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/ottguidebook/1776/contents/220317091047863mW</link>
-            <guid>https://contents.premium.naver.com/ottguidebook/1776/contents/220317091047863mW</guid>
+            <title><![CDATA[산은이 점찍은 스톤브릿지, 5000억 펀드 조성 탄력 받았다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220316174633531Xu</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220316174633531Xu</guid>
             <pubDate>Wed, 23 Mar 2022 15:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 산업통입니다. 앞으로 미국과 캐나다에선 스타벅스에 갈 때 머그잔을 반드시 챙겨가야 할 것으로 보입니다.  내년 말까지 미국과 캐나다의 스타벅스 고객들은 음료수에 재사용 가능한 개인 컵을 사용할 수 있게 될 것이라고 미국 현지시간 화요일 스타벅스가 발표했습니다. 이같은 변경 사항은 카페, 드라이브스루 및 모바일 주문 시 음료에 적용됩니다. 스타벅스는]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMTEz/MDAxNjQ3NDc1NzI1NzU5.CD4-IQNcrnLlD6bXK1CuFoLT_CL_GEPRwKITP8P-kVIg.Ry8lwGoXX-y3J8uBoAHJOr6QM_iPhRHBSRGkIEPUpjQg.JPEG/NLN6V3U4GVC5ZJZ32RQQWV6K7M.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[사모투자펀드(PEF) 운용사 스톤브릿지캐피탈(이하 스톤브릿지)이 올 한 해 쾌조의 스타트를 끊었습니다. 대형 펀드를 만들 계획인데 아주 든든한 우군을 맞았기 때문입니다. 산업은행이 바로 그 귀인입니다. 스톤브릿지는 산은 뉴딜펀드 출자사업 운용사로 선정되면서 2호 블라인드펀드 조성에 탄력이 붙었습니다. ESG(환경·사회·지배구조) 관련 투자 활동과 함께 신속한 투자 행]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTZfMjI4/MDAxNjQ3NDA3NDI3OTEz.VOguCwbPzaUBRQboELQx8oxIi-g9K1_OK4Iz23cxt_8g.prSkP63txgeE3U7vwwp8JrDJLEwfiWc2Ih-633Gv30Qg.JPEG/Screenshot_2022-03-16_at_14.10.20.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단 음식이 당기는 이유? OO 때문! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -821,12 +897,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMjU3/MDAxNjQ3NTAwNzcwMjY4.9oQ0C1pneCd6NMV2BpWJiWT7kJpvmR1hT92DBVn0vRwg.ug5LMOviVYU7GtHzbOF296RyAyF7ofmeAkggY1jKYSog.JPEG/GettyImages-1222516224.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영원한 실패란 없으니 다시 시작하라고 말하는 비긴 어게인 Begin Again , 2013 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/justmovie/romanceholic/contents/220317020338743RF</link>
-            <guid>https://contents.premium.naver.com/justmovie/romanceholic/contents/220317020338743RF</guid>
-            <pubDate>Thu, 24 Mar 2022 05:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[스토리와 음악을 조화롭게 만드는 탁월한 연출로 관객의 마음을 사로잡는 '존 카니 감독'은 영화&lt;원스&gt;로 선댄스 영화제 관객상을 시작으로 ‘올해의 영화’로 등극한 후 독립영화상을 수상하고 사운드트랙으로 그래미상 후보, 주제곡 ‘Falling Slowly’로 아카데미 주제가상을 수상했던 감독이다. &lt;비긴 어게인&gt;에서는 뉴욕 거리 곳곳을 배경으로 아름다운 선율 안에 인생과 사랑,]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTZfMTM4/MDAxNjQ3NDMwMDc5ODA0.2RjZRtAS1GsV6EHZC7zaPbhYHAhno9wIiczbK5V-OpIg.aQwSv3Xcxrgi9m27QoMR3kYBC3sVRcX3SRkvdP1Lr5Yg.JPEG/13.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[경제뉴스] 종이컵 차차 없애는 스타벅스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/ottguidebook/1776/contents/220317091047863mW</link>
+            <guid>https://contents.premium.naver.com/ottguidebook/1776/contents/220317091047863mW</guid>
+            <pubDate>Wed, 23 Mar 2022 15:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 산업통입니다. 앞으로 미국과 캐나다에선 스타벅스에 갈 때 머그잔을 반드시 챙겨가야 할 것으로 보입니다.  내년 말까지 미국과 캐나다의 스타벅스 고객들은 음료수에 재사용 가능한 개인 컵을 사용할 수 있게 될 것이라고 미국 현지시간 화요일 스타벅스가 발표했습니다. 이같은 변경 사항은 카페, 드라이브스루 및 모바일 주문 시 음료에 적용됩니다. 스타벅스는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMTEz/MDAxNjQ3NDc1NzI1NzU5.CD4-IQNcrnLlD6bXK1CuFoLT_CL_GEPRwKITP8P-kVIg.Ry8lwGoXX-y3J8uBoAHJOr6QM_iPhRHBSRGkIEPUpjQg.JPEG/NLN6V3U4GVC5ZJZ32RQQWV6K7M.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#10. 작아지지 말자. 웅크려들지 말자 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220317163910300cY</link>
+            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220317163910300cY</guid>
+            <pubDate>Thu, 24 Mar 2022 08:28:50 GMT</pubDate>
+            <content:encoded><![CDATA[눈을 감는다 하루에도 여러 번 눈을 감는다 눈을 떴을 때 마주할 감정들이 아프고 무겁고 감당하기 어려워서 억지로 잠을 청한다   그러다 문득 눈을 떴을 때 내가 받아들여야 하는 상황이 조금은 옅어지길 바라면서   눈을 뜬다 다시 눈을 감는다. 요즘은 SNS 상에서도 콘텐츠의 힘을 강조하고 있는 분위기라 그런지, 대학교에서 글쓰기 특강 요청이 많이 들어온다. 오늘도 서울의]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMjEw/MDAxNjQ3NTAxOTE1MDM3.1mIOdPVKMDuwARYNfbGrw7Sv_Kkpr6C9JoDTKEgRU14g.7XpLzGU5wI1ACj0aS-n7yGwdjarD4qy73WQFUy4gcpIg.JPEG/%EC%B0%BD%EA%B0%80-%EC%86%8C%EB%85%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
