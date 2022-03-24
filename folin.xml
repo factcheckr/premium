@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-24T21:22:22.714Z</updated>
+    <updated>2022-03-24T22:24:06.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금의 인스타그램 만든 '비상식적인' 3가지 선택]]></title>
+        <id>https://www.folin.co/story/2135</id>
+        <link href="https://www.folin.co/story/2135"/>
+        <updated>2022-03-24T22:23:49.173Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언맷피플 대표 "좋은 공간은 삶을 바꿔요"]]></title>
+        <id>https://www.folin.co/story/2134</id>
+        <link href="https://www.folin.co/story/2134"/>
+        <updated>2022-03-24T22:23:49.177Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중고거래 앱 번개장터가 'BGZT랩' 오픈한 이유]]></title>
         <id>https://www.folin.co/story/2131</id>
@@ -274,22 +290,6 @@
         <id>https://www.folin.co/story/2080</id>
         <link href="https://www.folin.co/story/2080"/>
         <updated>2022-02-27T18:21:05.726Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스몰브랜더, 25번이나 열어본 뉴스레터 만든 비결]]></title>
-        <id>https://www.folin.co/story/2084</id>
-        <link href="https://www.folin.co/story/2084"/>
-        <updated>2022-02-27T18:21:05.727Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버·IBM·KT 거친 전략가, 그가 일하는 법]]></title>
-        <id>https://www.folin.co/story/2079</id>
-        <link href="https://www.folin.co/story/2079"/>
-        <updated>2022-02-27T18:21:05.728Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
     </entry>
