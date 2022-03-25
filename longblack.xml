@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-03-25T14:21:33.920Z</updated>
+    <updated>2022-03-25T15:25:53.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[케일 : ‘산도, 삶도 사랑하는 만큼 오르자’는 마음으로 브랜드를 만들다]]></title>
-        <id>https://www.longblack.co/note/239</id>
-        <link href="https://www.longblack.co/note/239"/>
-        <updated>2022-03-24T15:25:07.337Z</updated>
-        <content type="html"><![CDATA[산에 가는 걸 좋아해요. 잘 살고 있는 걸까, 이 질문에 산은 늘 답을 줬거든요. 정상에 오르기까지 흘린 땀이 도장을 콱 찍어주는 것만 같아요. 너 잘 살고 있다, 하고요.저처럼 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[멘탈이 무기다 : 불가능을 가능으로 만드는 뇌과학의 기술]]></title>
+        <id>https://www.longblack.co/note/247</id>
+        <link href="https://www.longblack.co/note/247"/>
+        <updated>2022-03-25T15:24:30.595Z</updated>
+        <content type="html"><![CDATA[슬슬 날이 따뜻해지고 있잖아. 이맘 때가 되면 일이 잘 안 돼. 마음이 붕 뜨지. 점심 먹고 들어오면 나른하고, 창 밖 보고 있으면 놀러나가고 싶고. 그래, 한 마디로 멘탈이 약해<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
