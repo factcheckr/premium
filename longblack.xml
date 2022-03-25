@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-03-25T06:29:08.667Z</updated>
+    <updated>2022-03-25T07:22:28.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/239</id>
         <link href="https://www.longblack.co/note/239"/>
         <updated>2022-03-24T15:25:07.337Z</updated>
-        <content type="html"><![CDATA[산에 가는 걸 좋아해요. 잘 살고 있는 걸까, 이 질문에 산은 늘 답을 줬거든요. 정상에 오르기까지 흘린 땀이 도장을 콱 찍어주는 것만 같아요. 너 잘 살고 있다, 하고요.<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[산에 가는 걸 좋아해요. 잘 살고 있는 걸까, 이 질문에 산은 늘 답을 줬거든요. 정상에 오르기까지 흘린 땀이 도장을 콱 찍어주는 것만 같아요. 너 잘 살고 있다, 하고요.저처럼 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
