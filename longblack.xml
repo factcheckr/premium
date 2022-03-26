@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-03-26T14:21:14.041Z</updated>
+    <updated>2022-03-26T15:25:01.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[멘탈이 무기다 : 불가능을 가능으로 만드는 뇌과학의 기술]]></title>
-        <id>https://www.longblack.co/note/247</id>
-        <link href="https://www.longblack.co/note/247"/>
-        <updated>2022-03-25T15:24:30.595Z</updated>
-        <content type="html"><![CDATA[슬슬 날이 따뜻해지고 있잖아. 이맘 때가 되면 일이 잘 안 돼. 마음이 붕 뜨지. 점심 먹고 들어오면 나른하고, 창 밖 보고 있으면 놀러나가고 싶고. 그래, 한 마디로 멘탈이 약해<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2022-03-26T15:23:39.211Z</updated>
+        <content type="html"><![CDATA[L을 한 발짝 나아가게 만든 지난주 롱블랙의 문장
+
+"내 인생에 언젠가 한번 터닝 포인트turning point가 찾아올 거라는 믿음이 있었어요. 나라는 사람이 확 바뀌어서, 반드시 성공할 것 같다는 막연한 기대감이었죠. 하지만 인생의 터닝 포인트는 결코 알아서 찾<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
