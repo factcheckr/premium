@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 23:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 01:51:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이거 찾으셨죠? 만우절 마케팅 사례 모음.ZIP]]></title>
+            <link>https://www.careet.net/692</link>
+            <guid>https://www.careet.net/692</guid>
+            <pubDate>Mon, 28 Mar 2022 01:50:52 GMT</pubDate>
+            <content:encoded><![CDATA[만우절 마케팅 레퍼런스 모았습니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/fa0d22a1-61a8-43fb-8c2f-119167b6740f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 대세 AI 면접 어때? Z세대 솔직한 반응 모음.zip]]></title>
+            <link>https://www.careet.net/691</link>
+            <guid>https://www.careet.net/691</guid>
+            <pubDate>Mon, 28 Mar 2022 01:50:52 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 채용 트렌드 AI 면접, 이건 꼭 보완해줬으면 좋겠어요]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/f841c0c7-01b9-4981-907c-90acba479196_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 갑자기 전통 악기 소고를 찾는 이유는? 이주의 유행템 4]]></title>
             <link>https://www.careet.net/689</link>

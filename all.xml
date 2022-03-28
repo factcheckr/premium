@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 23:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 01:51:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,22 @@
             <guid>https://publy.co/content/6723?fr=category</guid>
             <pubDate>Tue, 15 Mar 2022 12:38:19 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이거 찾으셨죠? 만우절 마케팅 사례 모음.ZIP (캐릿)]]></title>
+            <link>https://www.careet.net/692</link>
+            <guid>https://www.careet.net/692</guid>
+            <pubDate>Mon, 28 Mar 2022 01:50:52 GMT</pubDate>
+            <content:encoded><![CDATA[만우절 마케팅 레퍼런스 모았습니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/fa0d22a1-61a8-43fb-8c2f-119167b6740f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 대세 AI 면접 어때? Z세대 솔직한 반응 모음.zip (캐릿)]]></title>
+            <link>https://www.careet.net/691</link>
+            <guid>https://www.careet.net/691</guid>
+            <pubDate>Mon, 28 Mar 2022 01:50:52 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 채용 트렌드 AI 면접, 이건 꼭 보완해줬으면 좋겠어요]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/f841c0c7-01b9-4981-907c-90acba479196_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대가 갑자기 전통 악기 소고를 찾는 이유는? 이주의 유행템 4 (캐릿)]]></title>
@@ -493,6 +509,22 @@
             <content:encoded><![CDATA[힘들게 일하는데 제일 듣기 싫은 말이 있지. “재미있고 즐겁게 일해라.” 아니, 어떻게 해야 일이 재밌단 거야?그런데 이 말을 회사의 사훈으로 내건 회사<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[현대차 'H-워크 스테이션' 기획 비하인드 (폴인)]]></title>
+            <link>https://www.folin.co/story/2136</link>
+            <guid>https://www.folin.co/story/2136</guid>
+            <pubDate>Mon, 28 Mar 2022 01:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[<li>공간</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7년간 '고기 시장'서 640배 컸다, 미트박스 성장기 (폴인)]]></title>
+            <link>https://www.folin.co/story/2126</link>
+            <guid>https://www.folin.co/story/2126</guid>
+            <pubDate>Mon, 28 Mar 2022 01:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>스타트업</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[지금의 인스타그램 만든 '비상식적인' 3가지 선택 (폴인)]]></title>
             <link>https://www.folin.co/story/2135</link>
             <guid>https://www.folin.co/story/2135</guid>
@@ -763,22 +795,6 @@
             <pubDate>Sun, 27 Feb 2022 22:22:16 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1시간에 5억원씩 판다, '장사의 신동' 제작 비하인드 (폴인)]]></title>
-            <link>https://www.folin.co/story/2088</link>
-            <guid>https://www.folin.co/story/2088</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스트레스, 초과근무, 회의 없이 성장하는 회사의 비밀 (폴인)]]></title>
-            <link>https://www.folin.co/story/2080</link>
-            <guid>https://www.folin.co/story/2080</guid>
-            <pubDate>Sun, 27 Feb 2022 18:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[혹시 내게 무슨 일이 생기면 (2020) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
