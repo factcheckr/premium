@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-03-28T04:30:40.583Z</updated>
+    <updated>2022-03-28T05:22:40.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
-        <title type="html"><![CDATA[개발 시간을 줄여주는 이름 짓기 노하우]]></title>
+        <title type="html"><![CDATA[개발 시간 줄여주는 노하우: 이름 짓기 편]]></title>
         <id>https://publy.co/content/6731?fr=category</id>
         <link href="https://publy.co/content/6731?fr=category"/>
         <updated>2022-03-25T08:26:58.714Z</updated>
