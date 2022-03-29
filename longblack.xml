@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-03-29T03:03:55.919Z</updated>
+    <updated>2022-03-29T04:30:51.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/242</id>
         <link href="https://www.longblack.co/note/242"/>
         <updated>2022-03-28T16:34:23.888Z</updated>
-        <content type="html"><![CDATA[한 분야의 최고인 사람들! 전 요즘 그런 사람들에게 관심이 많아요. 한 마디로 레전드들이요! 각계 각층의 레전드를 공부하다 보면, 꼭 내 분야가 아니더라도 배울 점이 있더라고요.<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[한 분야의 최고인 사람들! 전 요즘 그런 사람들에게 관심이 많아요. 한 마디로 레전드들이요! 각계 각층의 레전드를 공부하다 보면, 꼭 내 분야가 아니더라도 배울 점이 있더라고요.호<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

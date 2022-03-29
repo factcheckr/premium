@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 03:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 04:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -506,7 +506,7 @@
             <link>https://www.longblack.co/note/242</link>
             <guid>https://www.longblack.co/note/242</guid>
             <pubDate>Mon, 28 Mar 2022 16:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[한 분야의 최고인 사람들! 전 요즘 그런 사람들에게 관심이 많아요. 한 마디로 레전드들이요! 각계 각층의 레전드를 공부하다 보면, 꼭 내 분야가 아니더라도 배울 점이 있더라고요.<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[한 분야의 최고인 사람들! 전 요즘 그런 사람들에게 관심이 많아요. 한 마디로 레전드들이요! 각계 각층의 레전드를 공부하다 보면, 꼭 내 분야가 아니더라도 배울 점이 있더라고요.호<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[현대차 스마트오피스에 '파란색'이 없는 이유 (폴인)]]></title>
