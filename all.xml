@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 04:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 05:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,7 +147,7 @@
             <guid>https://www.careet.net/675</guid>
             <pubDate>Tue, 22 Mar 2022 01:43:21 GMT</pubDate>
             <content:encoded><![CDATA[“노션 소개팅에 이력서 올리는 사람은 왠지 불순한 의도가 없을 것 같아요.”]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/7c03ba2d-c7b2-4e8b-9d68-2e045121688e_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/3c26491e-8d32-459e-a921-a03c65491db4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[요즘 드라마의 신박한 홍보 방식! 주인공 방을 VR 쇼룸으로 만든다고? (캐릿)]]></title>
@@ -517,7 +517,7 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NEW·워너브라더스 거쳐 콘텐츠업계 10년, 변승민대표 (폴인)]]></title>
+            <title><![CDATA[<디피(D.P)>와 <지옥>만든 변승민 대표 (폴인)]]></title>
             <link>https://www.folin.co/story/2128</link>
             <guid>https://www.folin.co/story/2128</guid>
             <pubDate>Mon, 28 Mar 2022 23:23:12 GMT</pubDate>
@@ -881,6 +881,22 @@
             <content:encoded><![CDATA[너로 정했다! 제빵왕 피카츄]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[주식을 "편의점"에서 판다고..?! 📈🏪 편의점이 기업들의 전쟁터가 된 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220314163626592LJ</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220314163626592LJ</guid>
+            <pubDate>Tue, 29 Mar 2022 05:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[#2 마케팅 뒷담화🗣 👇🏻 4900원 편의점 도시락으로 나도 네이버, 삼전 주주가 되어보자! 작년 주식 열풍 속에서 혜성처럼 등장한 주식 증정 도시락이 있습니다. 이마트24, 하나금융투자가 콜라보한 4900원 주식도시락이 그 주인공이었죠. 당시 최고가 42만 원의 네이버부터 최저가 3470원의 대한해운 주식 중 1주를 무조건 증정하는 이벤트 도시락이었습니다. 저도 한번 구매해 봤었는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTRfMTk1/MDAxNjQ3MjM4MDEzODcy.FZZzbt8FazWG5YNa6hz_UqFbM2gMnxZadJxRq2oNZ8Ig.PpStTAQ3fMnOBZ5QJTKj899eBDvshVdHS7z7ajX2q5kg.PNG/%ED%8E%B8%EC%9D%98%EC%A0%90_%EC%A3%BC%EC%8B%9D.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Tue, 29 Mar 2022 05:22:51 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[김태경 교수 저, 『용서하지 않을 권리』 도서 증정 이벤트 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/bzup/ahopsi/contents/220321103157763Qh</link>
             <guid>https://contents.premium.naver.com/bzup/ahopsi/contents/220321103157763Qh</guid>
@@ -935,22 +951,6 @@
             <pubDate>Mon, 28 Mar 2022 16:35:44 GMT</pubDate>
             <content:encoded><![CDATA[영상제작을 하기로 하셨다면 우선적으로 촬영이 이루어져야 합니다. 촬영 진행하기 전에도 우선적으로 원고, 영화로 치면 시나리오, 드라마로 치면 대본이 있어야 합니다. 영상의 목적이나 시청을 할 대상에 따라 영상의 분위기가 결정되니 이를 참고하고 원고 및 시나리오를 작성합니다.  원고는 잘 쓸 필요 없고 완성될 영상을 머릿속으로 그려보면서 첫 장면은 이런 장면, 다]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjJfMTA2/MDAxNjQ3OTE5MjYxNTA5.5dWpCG_ceRyPRlAu8OX9i7KbKwaKDpowiH9pJ_KmaJIg.5DROY1jMuCfl-xbOpKuzWAxm4qsF90crw9Eg0yREBjwg.JPEG/04(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민연금, 삼성그룹 거수기에서 걸림돌로...주총 반대 표결에 담긴 의미는 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220321181253229Ae</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220321181253229Ae</guid>
-            <pubDate>Mon, 28 Mar 2022 16:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[국민연금이 삼성전자, 삼성SDI 주주총회 안건에 무더기 반대표를 던져 눈길을 끕니다. 그간 삼성 계열사의 주총 안건에 찬성표를 던지며 거수기 역할을 해왔던 것과는 반대되는 행보입니다. 최근 수탁자 책임활동 지침(스튜어드십코드)을 수정해 주주제안 범위를 확대한 가운데 향후 보다 적극적으로 주권개입을 하겠다는 '선전포고'로 비치고 있습니다. 국민연금기금운용본부]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjFfNjEg/MDAxNjQ3ODQ0ODM5MzYy.8diT1fhOsRfplzZzaOt5L6pk2goSrYiv4UqY2YpeU6Yg.Gun5We28d97svUqXHVdXZY0ImFTfFNE_0zo90XA_PNsg.JPEG/20220317115934684_n.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러-우크라 전쟁 장기화 우려... 뉴욕증시는? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220322140132044vH</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220322140132044vH</guid>
-            <pubDate>Tue, 29 Mar 2022 03:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[왓 이프(WHAT IF)...? 러-우크라 전쟁이 완화된다면? 지속된다면? 뉴욕증시는 어떻게 될까? #미국주식 #SP500  러시아와 우크라이나의 끝이 안보이는 전쟁으로  전세계 증시는 출렁이고 있습니다. 리스크가 더욱 높아진 상황에서 당분간 시장 변동성은 커질 것으로 전망됩니다. 하루 빨리 평화를 회복하고 세계가 안정되길 희망합니다. ※ 이 글은 당사가 신뢰할 수 있는 자료 및 정보]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjJfMTcw/MDAxNjQ3OTI0NDQ5MjU2.pMajSBP8f46OiFDePwmHhGTvLKTAQTWG4V1qHR8hxAgg.oowpUTDjRcsz-LkKT04WZSc90LpQjsM857-gxtt8Mxcg.PNG/1.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
