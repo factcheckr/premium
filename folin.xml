@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-29T21:21:28.480Z</updated>
+    <updated>2022-03-29T22:24:08.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폐타이어로 신발 만드는 트레드앤그루브]]></title>
+        <id>https://www.folin.co/story/2132</id>
+        <link href="https://www.folin.co/story/2132"/>
+        <updated>2022-03-29T22:23:50.934Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지옥', 'D.P', 클라이맥스 스튜디오가 일하는 법]]></title>
+        <id>https://www.folin.co/story/2129</id>
+        <link href="https://www.folin.co/story/2129"/>
+        <updated>2022-03-29T22:23:50.935Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현대차 스마트오피스에 '파란색'이 없는 이유]]></title>
         <id>https://www.folin.co/story/2137</id>
@@ -275,22 +291,6 @@
         <link href="https://www.folin.co/story/2087"/>
         <updated>2022-03-01T22:22:26.229Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 블로그와 스노우·웍스의 디자인, 뭐가 다를까]]></title>
-        <id>https://www.folin.co/story/2085</id>
-        <link href="https://www.folin.co/story/2085"/>
-        <updated>2022-03-01T22:22:26.229Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료] 퍼시스, 일하는 환경의 변화를 고민하다]]></title>
-        <id>https://www.folin.co/story/2090</id>
-        <link href="https://www.folin.co/story/2090"/>
-        <updated>2022-02-28T22:22:33.888Z</updated>
-        <content type="html"><![CDATA[<li>공간</li>
                                 <li>워크</li>]]></content>
     </entry>
 </feed>
