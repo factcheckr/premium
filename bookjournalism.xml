@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-03-29T14:22:50.109Z</updated>
+    <updated>2022-03-29T15:26:47.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[50조를 들여 소상공인·자영업자를 돕는다고 모든 문제가 해결되는 것은 아니다. 이들에 대한 인식 변화 없이는 우리 경제의 미래가 불투명하다.]]></title>
+        <id>https://www.bookjournalism.com/books/49865</id>
+        <link href="https://www.bookjournalism.com/books/49865"/>
+        <updated>2022-03-29T15:26:39.068Z</updated>
+        <content type="html"><![CDATA[왜 사장님만 울어야 하나요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[항공우주청 설립이 가시화했다. K-NASA의 탄생일까?]]></title>
         <id>https://www.bookjournalism.com/books/49854</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/49671"/>
         <updated>2022-03-29T14:22:41.832Z</updated>
         <content type="html"><![CDATA[빚쟁이가 되어버린 MZ를 아시오?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16년 만에 돌아온 포켓몬빵이 빵터졌다. 띠부씰의 혁신은 무엇인가?]]></title>
-        <id>https://www.bookjournalism.com/books/49624</id>
-        <link href="https://www.bookjournalism.com/books/49624"/>
-        <updated>2022-03-29T14:22:41.837Z</updated>
-        <content type="html"><![CDATA[너로 정했다! 제빵왕 피카츄]]></content>
     </entry>
 </feed>
