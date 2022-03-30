@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 23:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 01:50:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 핫플 특징=의자가 없음! 스탠딩바는 왜 트렌드가 됐을까?]]></title>
+            <link>https://www.careet.net/690</link>
+            <guid>https://www.careet.net/690</guid>
+            <pubDate>Wed, 30 Mar 2022 01:50:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022 오프라인 공간 트렌드 예언합니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/d2ce93f7-2a3c-4ec6-a9c9-49ab3a2b4fc7_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이거 찾으셨죠? 만우절 마케팅 사례 모음.ZIP]]></title>
             <link>https://www.careet.net/692</link>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-03-29T23:25:15.711Z</updated>
+    <updated>2022-03-30T01:50:31.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
                                 <li>라이프스타일</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['지옥', 'D.P', 클라이맥스 스튜디오가 일하는 법]]></title>
+        <title type="html"><![CDATA[클라이맥스스튜디오가 넷플릭스 킬러 콘텐츠를 만드는 법]]></title>
         <id>https://www.folin.co/story/2129</id>
         <link href="https://www.folin.co/story/2129"/>
         <updated>2022-03-29T22:23:50.935Z</updated>
