@@ -2,7 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-03-30T07:24:17.597Z</updated>
+    <updated>2022-03-30T08:28:53.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[50조를 들여 소상공인·자영업자를 돕는다고 모든 문제가 해결되는 것은 아니다. 이들에 대한 인식 변화 없이는 우리 경제의 미래가 불투명하다.]]></title>
+        <id>https://www.bookjournalism.com/books/49865</id>
+        <link href="https://www.bookjournalism.com/books/49865"/>
+        <updated>2022-03-30T08:28:45.468Z</updated>
+        <content type="html"><![CDATA[왜 사장님만 울어야 하나요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[항공우주청 설립이 가시화했다. K-NASA의 탄생일까?]]></title>
+        <id>https://www.bookjournalism.com/books/49854</id>
+        <link href="https://www.bookjournalism.com/books/49854"/>
+        <updated>2022-03-30T08:28:45.471Z</updated>
+        <content type="html"><![CDATA[제2의 나사가 될 수 있을까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 라디오 에피소드 #29에선, 오미크론이 꺾이기만을 기다리고 있는 여행업계와 야놀자의 미래, 쿠팡이 닿지 못하는 지역이 상징하는 수도권 과몰입 시대, 윤석열 정부의 시작과 함께 도래 할 대출과잉의 한국, 그리고 빚쟁이가 되어버린 MZ세대의 씁쓸한 미래를 짚어봅니다.]]></title>
+        <id>https://www.bookjournalism.com/audio/49840</id>
+        <link href="https://www.bookjournalism.com/audio/49840"/>
+        <updated>2022-03-30T08:28:45.471Z</updated>
+        <content type="html"><![CDATA[쿠팡이 만든 이상한 나라의 빚쟁이 MZ세대]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 비극적인 전쟁을 이해하려면 지난 몇 달의 시간은 물론 블라디미르 푸틴의 시간도 거슬러 올라가 볼 필요가 있다.]]></title>
+        <id>https://www.bookjournalism.com/books/49800</id>
+        <link href="https://www.bookjournalism.com/books/49800"/>
+        <updated>2022-03-30T08:28:45.472Z</updated>
+        <content type="html"><![CDATA[전쟁을 막을 수는 없었을까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올리브영이 역대 최고 실적을 올렸다. 성공 배경에는 오프라인과 온라인을 아우르는 옴니채널 전략이 있다.]]></title>
+        <id>https://www.bookjournalism.com/books/49809</id>
+        <link href="https://www.bookjournalism.com/books/49809"/>
+        <updated>2022-03-30T08:28:45.475Z</updated>
+        <content type="html"><![CDATA[이것은 화장품 가게가 아니다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 당선인은 대출 규제를 완화하겠다고 한다. 벌써 시중 은행들은 곳간 문을 열었다. 잔치의 시간인가, 폭탄의 시간인가.]]></title>
+        <id>https://www.bookjournalism.com/books/49778</id>
+        <link href="https://www.bookjournalism.com/books/49778"/>
+        <updated>2022-03-30T08:28:45.476Z</updated>
+        <content type="html"><![CDATA[부채가 부실이 되지 않으려면]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 입국자의 자가 격리 의무가 해제됐다. 숙박 및 여행 업계의 전쟁이 시작됐다.]]></title>
+        <id>https://www.bookjournalism.com/books/49767</id>
+        <link href="https://www.bookjournalism.com/books/49767"/>
+        <updated>2022-03-30T08:28:45.479Z</updated>
+        <content type="html"><![CDATA[야놀자 스테이트 오브 마인드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쿠팡 새벽배송 지역이 전국 국토의 11.8퍼센트에 불과하다. 지역의 격차가 서비스의 격차로 드러나고 있다.]]></title>
+        <id>https://www.bookjournalism.com/books/49748</id>
+        <link href="https://www.bookjournalism.com/books/49748"/>
+        <updated>2022-03-30T08:28:45.480Z</updated>
+        <content type="html"><![CDATA[쿠세권이 바꾼 세상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 라디오 에피소드 #28에선, SM엔터테인먼트 인수를 위한 막판 협상을 벌이고 있는 카카오의 미래, 16년만에 돌아와 빵 터져버린 포켓몬빵 현상, 변혁의 기로에 선 넷플릭스와 콘텐츠 구독시장에 대해 이야기합니다.]]></title>
+        <id>https://www.bookjournalism.com/audio/49708</id>
+        <link href="https://www.bookjournalism.com/audio/49708"/>
+        <updated>2022-03-30T08:28:45.481Z</updated>
+        <content type="html"><![CDATA[제빵왕 피카츄와 춘식이의 핑크제국 입성]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스가 이용자간 계정 공유를 막는다고 밝혔다. 정체된 콘텐츠 구독 시장은 새로운 과금 모델을 찾을 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/49684</id>
+        <link href="https://www.bookjournalism.com/books/49684"/>
+        <updated>2022-03-30T08:28:45.482Z</updated>
+        <content type="html"><![CDATA[구독의 미래]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장애인의 직업은 왜 단순·반복 노동에 한정되어 왔나. 핸디캡을 넘어 좋아하는 일에 도전하는 일곱 명이 모였다.]]></title>
+        <id>https://www.bookjournalism.com/books/49573</id>
+        <link href="https://www.bookjournalism.com/books/49573"/>
+        <updated>2022-03-30T08:28:45.488Z</updated>
+        <content type="html"><![CDATA[비욘드 핸디캡]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MZ세대는 역사상 가장 가난한 세대다. 무엇이 이들을 부채로 내몰았나?]]></title>
+        <id>https://www.bookjournalism.com/books/49671</id>
+        <link href="https://www.bookjournalism.com/books/49671"/>
+        <updated>2022-03-30T08:28:45.488Z</updated>
+        <content type="html"><![CDATA[빚쟁이가 되어버린 MZ를 아시오?]]></content>
+    </entry>
 </feed>
