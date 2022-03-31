@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 14:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 15:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,11 +526,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/8d8496da-2895-453a-a1f4-75363d01ff63_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[쿨레인 : 한국 1세대 토이 아티스트, 좋아하는 일을 직업으로 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/248</link>
-            <guid>https://www.longblack.co/note/248</guid>
-            <pubDate>Wed, 30 Mar 2022 15:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최초로 NBA 토이를 만든 토이 아티스트. NBA 슈퍼스타 코비 브라이언트가 그의 피규어Figure*를 들고 웃었죠. 축구선수 안드레스 이니에스타가 FC 바르셀로나 소속이던 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[시몬스 : 침대 없는 광고, 힙hip함이 매출까지 올렸을까 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/249</link>
+            <guid>https://www.longblack.co/note/249</guid>
+            <pubDate>Thu, 31 Mar 2022 15:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[청담동에 그로서리 스토어 다녀왔어. 뭐 샀냐고? 폰케이스랑 볼펜이랑 수세미. 이렇게 얘기하니까 어디 다녀왔는지 알겠지? 맞아, 2월에 오픈한 ‘시몬스 그로서리 스토어 청담’.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ가 사랑한 공룡, 조구만 스튜디오의 기획 비하인드 (폴인)]]></title>
@@ -821,6 +821,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[대기업들이 너나없이 로봇 산업에 뛰어들고 있다. 미래는 이미 와 있는 걸까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49896</link>
+            <guid>https://www.bookjournalism.com/books/49896</guid>
+            <pubDate>Thu, 31 Mar 2022 15:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[삐빅, 로봇입니다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대기업이 중고차 시장에 뛰어든다. 오토 금융도 요동친다. MZ의 선택은 어디로 향할까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/49889</link>
             <guid>https://www.bookjournalism.com/books/49889</guid>
@@ -898,83 +905,76 @@
             <content:encoded><![CDATA[구독의 미래]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[장애인의 직업은 왜 단순·반복 노동에 한정되어 왔나. 핸디캡을 넘어 좋아하는 일에 도전하는 일곱 명이 모였다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49573</link>
-            <guid>https://www.bookjournalism.com/books/49573</guid>
-            <pubDate>Thu, 31 Mar 2022 14:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[비욘드 핸디캡]]></content:encoded>
+            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 01.진정한 나를 찾고 싶었다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220119130643846Lr</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220119130643846Lr</guid>
+            <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ 01. &lt;진정한 나를 찾고 싶었다.&gt; ​ 허황한 욕망 속에서, ​ 살다 보니 그렇다. 인생은 언제나 편안할 수만은 없었다. 복잡하고 때론 아프고 혼란스럽기도 한 삶 속에서, 이제는 차분함을 유지하며 행복하게 살아가고 싶은 마음뿐이다. 어질어질 복잡함의 세계에 눈을 떴었던 과거의 시간. 자아를 찾기 위해 고민했던 시간. 나도 모르게 시끄러]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTlfMTcz/MDAxNjQyNTY0MzUzNTA2.ylaDuR8QM_QPh78oaADodJTGrGONsQ85SjO3KWiJCK0g.lkonS5NmmcVQ15NNP72hb9fztE4JLi7477OiXFcvt1Yg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[ 연세아이웰소아과 ] 우리 아이 비타민D 영양제를 꼭 먹여야 할까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/kidshabit/honeytip/contents/210922161249978wR</link>
-            <guid>https://contents.premium.naver.com/kidshabit/honeytip/contents/210922161249978wR</guid>
-            <pubDate>Wed, 30 Mar 2022 15:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[우선 환자 case를 확인해볼까요? 생후 5개월 된 아기가 지속적인 경련으로 응급실로 실려 왔다.  경련은 팔과 다리에 주로 발생하였다. 발열은 없었으나, 환아의 의식은 매우 혼미하였고 응급실에서도 경련이 지속되고 구루병의 징후들 (대천문 확장, 두개로, 해리슨 고랑, 구루병 염주, 손목과 발목 말단 부위 비후, 복부 돌출)이 관찰되어서, 일단 칼슘 주사를 를 투여해주었더니]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MjJfNDYg/MDAxNjMyMjk0MjAwMzIx.6UNrdBKpBKCe58ON7BF7DfhjvgrQMr-qqqOm5l0NFz0g.4W-JbE810u3VAs7p2X53hUUvxLES5V519vTf_y80I20g.PNG/%EB%B9%84%ED%83%80%EB%AF%BCD_%EB%B6%80%EC%A1%B7%E3%84%B1_001.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[빠르게 변화하는 세상. 나와 우리, 지구를 위한 '지속 가능한 삶'으로, 행복의 미래를 모색하는 <베드제드 플래닛> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220117032201312ws</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220117032201312ws</guid>
+            <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[빠르게 변화하는 세상. 나와 우리, 지구를 위한  '지속 가능한 삶'으로, 행복의 미래를 모색하는 &lt;베드제드 플래닛&gt; https://youtu.be/Nz5CoQJWcLk 비우면 비울수록 풍요로워지는 '미니멀리즘'으로 진정한 자유와 행복을 그려낸다. 이것이 빠르게 변화하는 세상 속 나와 우리. 지구, 미래를 위한, '지속 가능한 삶'의 세계였다. ​ 나와 우리를 위해,  건강한 지구, 미래를 위해, ​ Our Home,  초]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTZfMjUx/MDAxNjQyMjY2MjkzOTEy.NlB2SEOeBOQ13nq0J3w7RKEXoF7lCsPlpyAsQvyF2VMg.GbhYqHqzsKvzcrNSjJfjiu2mfmmSHElUr4-QdVvxrlYg.JPEG/vincent-ledvina-t_N2U9wjB8k-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["역대급 천지개벽!"…'9개 노선·신통기획' 청량리가 날아오른다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220127181915068Vi</link>
-            <guid>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220127181915068Vi</guid>
-            <pubDate>Wed, 30 Mar 2022 15:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[서울시가 신속통합기획 민간재개발 사업 1차 후보지로 21곳을 선정했습니다. 후보지들은 새해 초부터 정비계획수립을 추진해 2023년부터 순차적으로 구역지정합니다. 정비사업이 모두 끝나면 약 2만5000가구의 주택이 들어섭니다. 신속통합기획은 기존 재개발보다 3~5년 이상 사업기간이 줄어든다는 점에서 수요자 관심이 쏠립니다. 땅집고가 1차 신속통합기획 후보지를 집중 분석]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjdfMjcx/MDAxNjQzMjc0OTYxNDUy.fHIztbCl06pNWArd55ayzxeLAiACO4WogrlGXZc6ZYkg.LKyzJQI_6tULSjRwNxxfM5cOhlUFsiK6G3YiYa3sFhQg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 03. 내게 필요한 건, '비움'이었다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220202203954049GL</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220202203954049GL</guid>
+            <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ ​ 03. &lt;내게 필요한 건, '비움'이었다.&gt; ​ 음지의 꽃 ​ 칠흑 같던 어두운 밤, 짙고 캄캄했던 밤하늘. 지금 생각해 보면, 5년이란 시간은 너무나 길었다. 금쪽같은 시간은 흘러만 가고, 하루하루 조금씩 나이를 먹어 가는 속절없는 자동 흐름에, 시간의 소중함이 뼈저리게 느껴져 온다. 내가 보통 사람들과 다를 바 없는 아프지 않고 건강했던]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjdfOTYg/MDAxNjQzMjU2OTczMzEy.pjdKoM0ceoRst9_G5x8xOV7cw9g1OEJOBTGgAnDzSVcg.HCkZXl2FwuMQst07ZUN6dyCxUa821Ry0fsZqD87LV30g.JPEG/255.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하이닥 프리미엄, 선별된 건강의학 정보를 전합니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/hidoc/hidocpremium/contents/210930162610953GI</link>
-            <guid>https://contents.premium.naver.com/hidoc/hidocpremium/contents/210930162610953GI</guid>
-            <pubDate>Wed, 30 Mar 2022 15:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[건강이라는 가치가 얼마나 소중한 것인지를 깨닫는 요즘입니다. 보이지 않는 바이러스가 우리의 건강 감각과 공중보건적 인식 수준을 몇 배나 향상시킨 듯합니다. 하이닥은 ‘인류 건강 증진에 기여한다’라는 사명감으로 의학전문 미디어의 자리를 지켜왔습니다. 의사·약사·영양사·운동처방사 등 건강의학 전문가들과의 협업으로 의료 콘텐츠의 수준을 높였고, 낯선 메디컬]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MzBfNjUg/MDAxNjMyOTgyNjMyNjA1.JYfMsU6JealDlgRAJLyPFtpcEB9uJIy5ChKvH42bLX0g.A6_wTzsI6KKqU3tKMR1Q6BpWq1ehxuX13KNRDAkwCKYg.JPEG/%ED%95%98%EC%9D%B4%EB%8B%A5%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84_1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 02. 환청 / 영들과의 만남 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220127134324185mI</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220127134324185mI</guid>
+            <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ 02. &lt;환청&gt; ​ 영들과의 만남 ​ 그렇게 해서 시작하게 된 성경 공부. '성경 공부'를 시작한 지 2~3개월 정도 지나고, 어느 늦은 밤. 집에 들어와 침대에 누워 스르르 잠이 들었다. 나는 생전 처음으로 희미하게 펼쳐진 파아란 하늘 위에 떠다니는 커다란 십자가 꿈을 꾸게 되었다. 그 꿈을 꾼 다음 날. 뭔가 기분이 이상하게 묘했다. ‘정말 이런]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjdfMjAg/MDAxNjQzMjU3MzA5MDE1.a9X0tCSxZB9DCX4rtq1M1-k_9UEUzMfeIqAb6lWwMDcg.cnDV56u-iLDpm873ymc2H4IDfpX4BrGYMF5nxvHbKE0g.JPEG/261.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[저금리로 돈 못 번다…직접투자로 '대박' 노리는 우리은행 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/numbers/members/contents/220202111826154RV</link>
-            <guid>https://contents.premium.naver.com/numbers/members/contents/220202111826154RV</guid>
-            <pubDate>Wed, 30 Mar 2022 15:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계적으로 인플레이션을 억제하기 위한 기준금리 인상이 화두라지만 아직도 저금리 기조인 것은 분명합니다. 미국의 현재 기준금리는 0.00∼0.25%죠. 한국은행이 지난달 14일 기준금리를 1%에서 1.25%로 인상했다지만 여전히 1%대로 "저금리 시대 끝났다!"고 하긴 어렵습니다. 한국의 저출생, 저성장 국면이 급변하지 않는 이상 저금리는 상수입니다. 은행의 수익성지표인 순이자]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDJfMjgx/MDAxNjQzNzY4MjM5NDk3.Jj2YpQbHLsk-hwwSA5h8VCW8gkzRgsnt3ewDxRQWwZsg.q4QJJqd7oiHGbnIqaIruxsUnCS9rU9T3s_EQKFBbpIYg.PNG/wor1.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[혼자 사업자내기 홈텍스실전편2 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxjangsh/taxjangsh99/contents/220317214702307AH</link>
+            <guid>https://contents.premium.naver.com/taxjangsh/taxjangsh99/contents/220317214702307AH</guid>
+            <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[홈텍스 혼자(셀프)사업자 내기 (실전편-2편) 안녕하세요 ~기장하는 형입니다. 지난시간 홈텍스 혼자(셀프)사업자 내기(실전편-1편) 에 대하여 포스팅하였습니다. 혹시!!!~~ 못보신분 있다면 홈텍스 혼자(셀프)사업자 내기(실전편-1편) 을 보시기를 꼭 추천 드립니다. 출처 국세청 홈텍스 지난 시간 *사업명과 각종 인적사항 그리고 업종선택(주업종과 부업종)에 대하여 이야기 하였습]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMTE4/MDAxNjQ3NTIxMTkzMTYy.E9Kh7hsybd99UN085NJo9x6V6MC5ZrVC1CWGDn6ERoMg.5Vq7xPRKh125ykMK1iRQv1_4-KimM9xUNW0BuiSRkVIg.JPEG/pexels-rfstudio-3810792.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개인 창작자도 ‘유료 콘텐츠’ 팔아서 먹고 살 수 있나요?(feat. 네이버) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211206172224096Nl</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211206172224096Nl</guid>
-            <pubDate>Wed, 30 Mar 2022 15:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[[EVENT]  네이버 프리미엄 콘텐츠 경제/비즈니스 채널 중 구독자수 1위, 전체 입점 채널 중 재구독률 1위 커넥터스 멤버십  쿠폰 사용시 신규 가입 무료 (12월 17일까지) PROLOGUE 유료 콘텐츠, 가당한가 그래, 밝히고 시작한다. 나는 네이버 프리미엄 콘텐츠 파트너다. 지난 10월 1일 여러분이 보고 있는 이 채널 ‘커넥터스’를 오픈했고, 만 두 달째 혼자서 이 채널을 운영하고 있다. 잘]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDZfMTMz/MDAxNjM4Nzc4NjYxNTMw.KvX7tnJsMQCi19G6xiC34IJcScvdQotOZjA0XfVC5aIg.xq503AwCeAeoGZZ13K92_1c0jXKxQw1287Yy4z9G0d8g.JPEG/%EB%A9%94%EC%9D%B8%EC%BB%B7_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%BD%98%ED%85%90%EC%B8%A0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 04. 조금은 변화하고 싶다. / 마이 유니버스, <BedZED> 세계관을 그리다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220315172721743hY</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220315172721743hY</guid>
+            <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ 04. &lt;조금은 변화하고 싶다.  마이 유니버스, &lt;BedZED&gt; 세계관을 그리다.&gt; ​ 새로운 관심사 ​ 환청의 소리가 서서히 사라지게 되자, 나는 일단 무엇인가를 해야만 했다. 그래서 아빠가 소속되어 계시는 ‘환경기술인협회’ 일들을 조금씩 도와주게 되었다. 아빠는 환경공학을 전공하신 분이었고, 젊은 시절, 아빠는 환경분야 쪽에서 일을 해오]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfMjIg/MDAxNjQ3MzI5MDk1MDg4.6e6ok-GVhJXjZ71D95Dg8UtkTEm1y-DRBIxs3mtpqSIg.1N_DUyeWu-QDgFusmtriRWbbux8V-tlgfmvyzpZ2i_Yg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[간肝건강] #1. 내 간은 왜 뚱뚱해졌을까? 간에 쌓지 말아야 할 것 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/hidoc/hidocpremium/contents/220128113946383qP</link>
-            <guid>https://contents.premium.naver.com/hidoc/hidocpremium/contents/220128113946383qP</guid>
-            <pubDate>Wed, 30 Mar 2022 15:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[쌓지 말아야 할 것 ‘축적’이라는 단어를 사전에서는 ‘지식이나 경험, 자금 등이 모여서 쌓인 것’이라고 정의합니다. 신뢰와 지혜, 노하우, 에너지, 곳간에 쌀가마까지. 우리 삶에 무언가가 쌓여서 나쁠 일은 그리 많지 않아 보입니다. 쌓인 것은 곧 역량이 되고, 그렇게 축적된 역량은 개인과 집단의 파급력을 높이니까요. 아, 물론 다 그렇지는 않습니다. 쌓여서 좋지 못한 것]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjhfMiAg/MDAxNjQzMzM3MjY0NDgz.BSy9G5zaiLw5aE3rOJpJmutpLcF7OuUJgj3owJSTp5Qg.mG0AlaOZqZGkoqPNbQ38PuovA7DPfnQlXVAVvbKQz8gg.JPEG/SE-2c936292-9109-4136-b759-d8f03f0a4676.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[지속 가능한 삶은, 미니멀 라이프] 01. 나는 단순하게 살기로 했다. / 나에게도 좋고, 지구에게도 좋고, 소소한 생활의 행복. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220324002138564mZ</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220324002138564mZ</guid>
+            <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛 / 지속 가능한 삶은, 미니멀 라이프] 01. ​ 나는 단순하게 살기로 했다.  ​ &lt;나에게도 좋고, 지구에게도 좋고, 소소한 생활의 행복.&gt; ​ 시끄러운 고통의 생활을 접고, 제2의 인생을 시작해나가기 위해, 무엇인가 좋은 것을 채우기 위한 ‘비움’이 나에겐 꼭 필요했다. 무엇인가 복잡하고 혼란스러운 나의 머릿속을 비워내고, 매일매일 홀가분해지고 싶은 욕망이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjNfNDAg/MDAxNjQ4MDQ0NDI3MTQ4.NlMbu5XAb8Hlx4FyOkmxKAhLGurvM33CCfVfy38SIF8g.p_9GaGL6Yafx5vZmON8WXFa8UxHQhddEJP42rl_xnvMg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[퍼스트 카우] 이토록 평화롭고 귀여운 서부극! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/singenv/themovie/contents/211226191947150Lw</link>
-            <guid>https://contents.premium.naver.com/singenv/themovie/contents/211226191947150Lw</guid>
-            <pubDate>Thu, 31 Mar 2022 07:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[강아지 한 마리가 숲속에서 뭔가의 냄새를 맡은 것 같다. 이내 주인이 그곳으로 오더니 땅을 파헤치기 시작했다. 이윽고 모습을 드러낸 백골, 두 명 분의 백골이 사이좋게(?) 누워 있는 모습이다. 시간이  어느덧 거슬러 올라가 1820년대 서부 개척 시대다. 오티스 피고위츠 일명, 쿠키는 식량 조달 담당인데 뒤집힌 도마뱀을 바로 세워 줄 만큼 착하기에 일행에게 고기를 먹이지 못]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjZfMTg4/MDAxNjQwNTEzMDI0Mzg5.DCe3prpSZ87qSe4RPAg2fOLcOd-_tGui7-sxmcDKF7cg.AzfwMFzJIpzAgGexk1Z9adVzXqIYCABa143DE5RMU4kg.JPEG/%EC%98%81%ED%95%84%EB%8B%B9-%ED%8D%BC%EC%8A%A4%ED%8A%B8%EC%B9%B4%EC%9A%B0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[👩‍💻니혼게이자이신문 "시련투성이 「초보대통령」..혹독한 시련 기다리고 있다" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/newsporter/hyereeporter/contents/220323102239176Cs</link>
+            <guid>https://contents.premium.naver.com/newsporter/hyereeporter/contents/220323102239176Cs</guid>
+            <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[◇ 정치경험 전무한 대통령, 출범부터 혹독한 시련 기다리고 있다 5년만에 보수계야당 국민의 힘 윤석렬후보가 당선됐습니다. 단, 여야당후보 승패를 가른 득패률 차이는 1%미만에 지나지 않아 보수와 혁신의 첨예한 대립구도가 남아있는 상태입니다.1년전까지 검찰총장을 하고 정치경험이 전무한 차기대통령에게 출범부터 혹독한 시련이 기다리고 있습니다. ◇ 좌파계 야당후]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjNfMTIx/MDAxNjQ3OTk4MzM4Nzg3.JX5Rx_RpkrebxuZbGhe8PeGDLXvoloVKlLcKhwTsQp8g.wEQLDe6EUDc7pCClDefrjU26-zNG0oQ7dj9Lmi8rMFog.JPEG/sdsds.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[봄웜톤 스타일링 꿀팁 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/beyondbooks/beyondbook/contents/220203150843849qY</link>
-            <guid>https://contents.premium.naver.com/beyondbooks/beyondbook/contents/220203150843849qY</guid>
-            <pubDate>Thu, 31 Mar 2022 03:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[당신이 봄웜톤이라면? 그럼 이제 퀴즈로 봄 웜톤의 출근복 스타일링을 맞춰볼까 한다. 과연 당신의 스타일링 감각 점수는?                                                                                 2. 3.                                                                               4. 봄 웜톤에 어울리는 스타일링은 어떤 것일까? 정답은 3번이다.  물론 1~4 모든 스타일에서 색깔만 살짝 바꾸어 본다면 모두 연출]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDNfNjUg/MDAxNjQzODY0OTE5Mzgw.6GTW0UVrN56TbfrmFR15Tyr5mIj70iAlWkw13nsGd9Qg.6jWkFTF-sY6VlZBvtqSaK3-kOZwO9_8vAofEDNZ0zRog.JPEG/SE-a55775aa-0e99-4d06-a81d-093c800816fe.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별히 헤프게 쓰는 것도 아닌데 돈이 안 모여요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/financialcoaching/fcoaching/contents/220107191050408sw</link>
-            <guid>https://contents.premium.naver.com/financialcoaching/fcoaching/contents/220107191050408sw</guid>
-            <pubDate>Thu, 31 Mar 2022 14:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[참 많이 듣는 이야기입니다. 그럼 우리 냉철하게 이 문장을 분석해 볼까요? 그리고 나서 구체적 해결책을 알려드리겠습니다. 위의 말 중에서 어떤 것은 사실(fact)이고 어떤 것은 평가(judge)입니다. 조금 더 쉬운 예를 먼저 들어볼게요. 아이가 받아쓰기 시험에서 100점 만점에 60점을 받아왔습니다. 엄마가 이야기합니다. "너는 공부를 얼마나 대강했기에 60점밖에 못 받았니?" 아이가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDdfMjgg/MDAxNjQxNTQ2MjQxODY1.8CvOxnimmC5K83fQ8BK5HfZ-2UwoRWD53QK4fGUq1dgg.1KGX6Xpwj89PvDAEGEa4MlWu5l0MO-VArs0DiLlX7Xog.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[굿모닝러너 챌린지 [31일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220325052553182yG</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220325052553182yG</guid>
+            <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [31일차] 굿모닝러너님, 오늘 하루, 나에게 또는 누군가에게 훌륭한 질문을 해보세요. 질문을 통해 고민을 하는 과정에서 좋은 해답을 찾게 될거에요 :)  굿모닝러너_챌린지_31일차 #20220325 #AM06:00 아인슈타인은 "어제로부터 배우고 오늘에 충실하며, 내일에 희망을 가져라.  중요한 건 질문을 멈추지 않는 것이다." 라고 우리에게 조언했다. 질문은 우리 삶의 뿌리]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMjE4/MDAxNjQ4MTUzNTA2ODYy.rUcoCySZZF_6UWHgTbjmIpTxHOmYeaMZLLYjBjiF_qgg.T1NsLx2JEwgWs6rNilAvOKtl4kk6s2pX-FG2b6Q35Qsg.JPEG/KakaoTalk_20220325_052142664.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
