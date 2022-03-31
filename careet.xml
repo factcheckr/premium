@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 08:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 09:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 기념일마다 칭찬받는 이벤트 장인 <로오히>의 영업 비밀]]></title>
+            <link>https://www.careet.net/693</link>
+            <guid>https://www.careet.net/693</guid>
+            <pubDate>Thu, 31 Mar 2022 09:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[모바일 게임 &lt;로드 오브 히어로즈&gt;가 ‘겜알못’ Z세대까지 끌어모은 비법 4]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/c1289e3c-eaef-4566-a0cd-13340ab537fb_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[거래 경험 TOP2는 카카오뱅크, 토스? MZ세대의 주거래 은행은 따로 있다!]]></title>
             <link>https://www.careet.net/694</link>
