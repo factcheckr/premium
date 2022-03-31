@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 23:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 01:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -525,6 +525,14 @@
             <content:encoded><![CDATA[세계 최초로 NBA 토이를 만든 토이 아티스트. NBA 슈퍼스타 코비 브라이언트가 그의 피규어Figure*를 들고 웃었죠. 축구선수 안드레스 이니에스타가 FC 바르셀로나 소속이던 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[MZ가 사랑한 공룡, 조구만 스튜디오의 기획 비하인드 (폴인)]]></title>
+            <link>https://www.folin.co/story/2142</link>
+            <guid>https://www.folin.co/story/2142</guid>
+            <pubDate>Thu, 31 Mar 2022 01:46:16 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[폐타이어로 신발 만드는 트레드앤그루브 (폴인)]]></title>
             <link>https://www.folin.co/story/2132</link>
             <guid>https://www.folin.co/story/2132</guid>
@@ -801,14 +809,6 @@
             <link>https://www.folin.co/story/2086</link>
             <guid>https://www.folin.co/story/2086</guid>
             <pubDate>Wed, 02 Mar 2022 22:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케터의 기쁨과 슬픔, 7년 차가 깨달은 것 (폴인)]]></title>
-            <link>https://www.folin.co/story/2087</link>
-            <guid>https://www.folin.co/story/2087</guid>
-            <pubDate>Tue, 01 Mar 2022 22:22:26 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
         </item>
