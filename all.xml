@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 23:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 02:00:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,22 @@
             <guid>https://publy.co/content/6735?fr=category</guid>
             <pubDate>Tue, 22 Mar 2022 08:27:57 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[재입고 요청 쇄도한 화제의 콜라보 아이템은? (캐릿)]]></title>
+            <link>https://www.careet.net/697</link>
+            <guid>https://www.careet.net/697</guid>
+            <pubDate>Fri, 01 Apr 2022 01:59:20 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 재입고해달라고 사정한 이주의 떡상템!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/82271b49-6dcb-4f40-9ac2-344c9872d8aa_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] ‘스물다섯 스물하나’ 현실판? 김용명의 서울대 펜싱부 입단기 (캐릿)]]></title>
+            <link>https://www.careet.net/696</link>
+            <guid>https://www.careet.net/696</guid>
+            <pubDate>Fri, 01 Apr 2022 01:59:20 GMT</pubDate>
+            <content:encoded><![CDATA[마흔다섯 신입부원 용명이의 펜싱 도전기]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/ca1a5d3d-a255-4372-b098-4cf1c228e880_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 기념일마다 칭찬받는 이벤트 장인 <로오히>의 영업 비밀 (캐릿)]]></title>
@@ -332,198 +348,6 @@
             <pubDate>Wed, 02 Mar 2022 02:43:07 GMT</pubDate>
             <content:encoded><![CDATA[센스 있는 채널은 한 끗이 다름! 유튜브 채널 200% 활용법]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/88199642-5f4d-4ba8-9730-69ccc5b5dfb2_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[캐릿 자문단 조사] 제2의 성수동은 어디? 요즘 뜨는 서울 핫플 (캐릿)]]></title>
-            <link>https://www.careet.net/656</link>
-            <guid>https://www.careet.net/656</guid>
-            <pubDate>Mon, 28 Feb 2022 02:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 108명에게 물었습니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/5c3c7f2d-51a2-4856-b206-1dec44f6a307_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[내년에는 이렇게 준비해 보세요! 삼일절 관련 마케팅 레퍼런스 (캐릿)]]></title>
-            <link>https://www.careet.net/654</link>
-            <guid>https://www.careet.net/654</guid>
-            <pubDate>Mon, 28 Feb 2022 02:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대가 직접 꼽은 삼일절 관련 마케팅 승자는?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/78bcbfdf-ae97-4a24-8496-7da2e5fa6e6f_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[캐릿 유튜브] 밈킹 김용명의 Z세대 댄스 크루 체험기(영상 있음) (캐릿)]]></title>
-            <link>https://www.careet.net/655</link>
-            <guid>https://www.careet.net/655</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[78년생이 Z세대와 친구가 되려면?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/d5fb4c9b-d152-42fb-a672-7cef9978c20b_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘할미 취미’가 유행 중? 바느질에 빠진 Z세대 근황 (캐릿)]]></title>
-            <link>https://www.careet.net/649</link>
-            <guid>https://www.careet.net/649</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[양모펠트, 펀치니들, 뜨개질… 갑자기 힙한 취미로 떠오르는 바느질!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/217b2263-73c9-429c-b1f2-5d546e4c1ac1_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[식물 키우기는 왜 갑자기 힙한 취미가 됐을까? (캐릿)]]></title>
-            <link>https://www.careet.net/651</link>
-            <guid>https://www.careet.net/651</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[파·상추·바질 키워 요리해 먹고, 당근마켓에서 식물 거래하고, 반려식물에게 위로 받는 Z세대]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/01e68eb2-b6ea-43ef-8d9a-ac6adf0202dc_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 왜 입어? Z세대 옷장 속 애착템이 바뀌었다! (캐릿)]]></title>
-            <link>https://www.careet.net/652</link>
-            <guid>https://www.careet.net/652</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 입어본 사람의 인터뷰로 알아봄!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/749a48d5-1ded-430f-992f-308cd27ebd53_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴근 후 OO으로 공부 중? 요즘 신입사원의 자기계발.list (캐릿)]]></title>
-            <link>https://www.careet.net/650</link>
-            <guid>https://www.careet.net/650</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[취뽀 후에도 끊임 없이 전문 지식을 공부하는 Z세대]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/2a0eb49f-46c3-4b1a-a240-27663e4eb815_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[캐릿 자문단 조사] Z세대 90%,약속 있으면 회식 안 가도 된다! (캐릿)]]></title>
-            <link>https://www.careet.net/647</link>
-            <guid>https://www.careet.net/647</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[세대 갈등의 영원한 주범 ‘회식 논쟁’ Z세대의 찐의견을 들어봄]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/5373a7eb-47b5-4674-97f6-f8a5cf300c7f_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[여전히 진화 중인 비대면 마케팅, Z세대가 반응한 최신 사례는? (캐릿)]]></title>
-            <link>https://www.careet.net/644</link>
-            <guid>https://www.careet.net/644</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 Z세대 핫플 = 삼성전자 온라인 체험 공간?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/020a9a78-514a-4302-ae48-823e2c546910_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 주목한 2022 동계올림픽 스타·밈 모음.zip (캐릿)]]></title>
-            <link>https://www.careet.net/646</link>
-            <guid>https://www.careet.net/646</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[현생에 치여 이번 올림픽 트렌드를 놓치신 분들 꼭 보세요!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/2edfaeda-b941-49cd-9a79-215f0000206c_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 청담에 Z세대가 몰려들고 있는 이유는 바로 ‘이곳’ 때문! (캐릿)]]></title>
-            <link>https://www.careet.net/645</link>
-            <guid>https://www.careet.net/645</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[오픈런 기본인 Z세대 핫플부터 유행템까지 알려드림]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/9d37c710-fbed-4d89-a128-29d145b29ff7_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이 중에 몇 개나 아세요? 2022 뉴 힙 브랜드.list (캐릿)]]></title>
-            <link>https://www.careet.net/642</link>
-            <guid>https://www.careet.net/642</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[처음 들어보는 브랜드가 절반인데요…?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/0fe74157-84cb-43be-8a68-5e2f7fade8b8_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘배운 변태네!’ 우리 브랜드에 써먹을 수 있는 아이돌 세계관 총정리 (캐릿)]]></title>
-            <link>https://www.careet.net/637</link>
-            <guid>https://www.careet.net/637</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[5분만 공부하면 아이돌 잘알 소리 들을 수 있음]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/fecb6666-1b5e-4eb0-add4-d3db05c72027_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[언박싱만큼 박싱도 중요하다?! Z세대의 신박한 포장 문화 (캐릿)]]></title>
-            <link>https://www.careet.net/641</link>
-            <guid>https://www.careet.net/641</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[포용계? 총대? 캐릿에서만 확인 가능한 최신 포장법]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/05bf76a0-605c-4968-8479-b04387942677_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 밸런타인데이 마케팅 승자는 누굴까? 레퍼런스 모음.zip (캐릿)]]></title>
-            <link>https://www.careet.net/640</link>
-            <guid>https://www.careet.net/640</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대는 밸런타인데이에 초콜릿 대신 OO을 원한다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/4c71f453-8b0a-45b9-98c3-43ad9eb2780d_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다들 주목! Z세대의 새로운 음식 건배사가 생겼다고? (캐릿)]]></title>
-            <link>https://www.careet.net/639</link>
-            <guid>https://www.careet.net/639</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[힌트: #그만OO하겠습니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/14ab780f-0f35-47bd-9a97-2a75de125107_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 직접 추천해준 졸업 선물 핫 아이템 6 (캐릿)]]></title>
-            <link>https://www.careet.net/634</link>
-            <guid>https://www.careet.net/634</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[M문Z답: 밀레니얼의 고민, Z세대가 직접 답해드립니다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/392e3ff4-78cd-49a8-a8dd-8ca75c8be32f_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 찾으셨죠? Z세대 반응 좋은 브랜드 유튜브 레퍼런스.zip (캐릿)]]></title>
-            <link>https://www.careet.net/638</link>
-            <guid>https://www.careet.net/638</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[“요즘 브랜드 유튜브 채널 구독하는 사람이 있긴 한가?”]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/2fdaacc8-cfe4-414e-b256-73bdfe0f06ca_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<데못죽> 이제는 아셔야 합니다: Z세대 최애 세계관 완전 분석 (캐릿)]]></title>
-            <link>https://www.careet.net/635</link>
-            <guid>https://www.careet.net/635</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 셋이 모이면 몬베베 시즈니 그리고 러뷰어]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/3f7f9db7-deaf-4383-a27f-e08ed2cd16c7_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개인주의? 디지털 네이티브? Z세대가 직접 말하는 Z세대 찐이미지 7 (캐릿)]]></title>
-            <link>https://www.careet.net/636</link>
-            <guid>https://www.careet.net/636</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 오해와 진실, 어디까지 알고 계셨나요? GEN-Z의 셀프 캐릭터 해석은 이렇습니다.]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/06dc9112-439b-4e4d-934d-a34d656e0638_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스가 MZ세대에게 ‘팝업 스토어’ 맛집으로 소문난 이유 (캐릿)]]></title>
-            <link>https://www.careet.net/633</link>
-            <guid>https://www.careet.net/633</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[지우학, 오겜, 지옥… 열리는 팝업 스토어마다 다 잘 되네?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/4721204e-3028-41b6-bb5d-4bd2e7600b0d_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쉬다 오니까 트렌드를 못 따라가겠네...싶다면 클릭해 보세요 (캐릿)]]></title>
-            <link>https://www.careet.net/632</link>
-            <guid>https://www.careet.net/632</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 뜨는 게임, 유튜브, 팝업스토어까지 캐릿이 대신 정리해둠!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/898753d5-69f0-4abb-b41f-ca1923c668b0_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[당장 써먹는 짤줍] 케이팝에서 유래한 밈 모음 (캐릿)]]></title>
-            <link>https://www.careet.net/629</link>
-            <guid>https://www.careet.net/629</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[밈 유래가 이리 다채로웠다고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/0a5e5afb-6d3d-4935-b55d-5803f6563cb6_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[교복이 야구 점퍼? 격세지감 제대로 느껴지는 요즘 학교 풍경 8 (캐릿)]]></title>
-            <link>https://www.careet.net/631</link>
-            <guid>https://www.careet.net/631</guid>
-            <pubDate>Sun, 27 Feb 2022 18:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 학창 시절을 이해해야 → Z세대를 이해할 수 있다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/8d8496da-2895-453a-a1f4-75363d01ff63_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[시몬스 : 침대 없는 광고, 힙hip함이 매출까지 올렸을까 (롱블랙)]]></title>
@@ -905,14 +729,6 @@
             <content:encoded><![CDATA[구독의 미래]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빠르게 변화하는 세상. 나와 우리, 지구를 위한 '지속 가능한 삶'으로, 행복의 미래를 모색하는 <베드제드 플래닛> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220117032201312ws</link>
-            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220117032201312ws</guid>
-            <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[빠르게 변화하는 세상. 나와 우리, 지구를 위한  '지속 가능한 삶'으로, 행복의 미래를 모색하는 &lt;베드제드 플래닛&gt; https://youtu.be/Nz5CoQJWcLk 비우면 비울수록 풍요로워지는 '미니멀리즘'으로 진정한 자유와 행복을 그려낸다. 이것이 빠르게 변화하는 세상 속 나와 우리. 지구, 미래를 위한, '지속 가능한 삶'의 세계였다. ​ 나와 우리를 위해,  건강한 지구, 미래를 위해, ​ Our Home,  초]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTZfMjUx/MDAxNjQyMjY2MjkzOTEy.NlB2SEOeBOQ13nq0J3w7RKEXoF7lCsPlpyAsQvyF2VMg.GbhYqHqzsKvzcrNSjJfjiu2mfmmSHElUr4-QdVvxrlYg.JPEG/vincent-ledvina-t_N2U9wjB8k-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 01.진정한 나를 찾고 싶었다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220119130643846Lr</link>
             <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220119130643846Lr</guid>
@@ -921,12 +737,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTlfMTcz/MDAxNjQyNTY0MzUzNTA2.ylaDuR8QM_QPh78oaADodJTGrGONsQ85SjO3KWiJCK0g.lkonS5NmmcVQ15NNP72hb9fztE4JLi7477OiXFcvt1Yg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 02. 환청 / 영들과의 만남 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220127134324185mI</link>
-            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220127134324185mI</guid>
+            <title><![CDATA[빠르게 변화하는 세상. 나와 우리, 지구를 위한 '지속 가능한 삶'으로, 행복의 미래를 모색하는 <베드제드 플래닛> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220117032201312ws</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220117032201312ws</guid>
             <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ 02. &lt;환청&gt; ​ 영들과의 만남 ​ 그렇게 해서 시작하게 된 성경 공부. '성경 공부'를 시작한 지 2~3개월 정도 지나고, 어느 늦은 밤. 집에 들어와 침대에 누워 스르르 잠이 들었다. 나는 생전 처음으로 희미하게 펼쳐진 파아란 하늘 위에 떠다니는 커다란 십자가 꿈을 꾸게 되었다. 그 꿈을 꾼 다음 날. 뭔가 기분이 이상하게 묘했다. ‘정말 이런]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjdfMjAg/MDAxNjQzMjU3MzA5MDE1.a9X0tCSxZB9DCX4rtq1M1-k_9UEUzMfeIqAb6lWwMDcg.cnDV56u-iLDpm873ymc2H4IDfpX4BrGYMF5nxvHbKE0g.JPEG/261.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[빠르게 변화하는 세상. 나와 우리, 지구를 위한  '지속 가능한 삶'으로, 행복의 미래를 모색하는 &lt;베드제드 플래닛&gt; https://youtu.be/Nz5CoQJWcLk 비우면 비울수록 풍요로워지는 '미니멀리즘'으로 진정한 자유와 행복을 그려낸다. 이것이 빠르게 변화하는 세상 속 나와 우리. 지구, 미래를 위한, '지속 가능한 삶'의 세계였다. ​ 나와 우리를 위해,  건강한 지구, 미래를 위해, ​ Our Home,  초]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTZfMjUx/MDAxNjQyMjY2MjkzOTEy.NlB2SEOeBOQ13nq0J3w7RKEXoF7lCsPlpyAsQvyF2VMg.GbhYqHqzsKvzcrNSjJfjiu2mfmmSHElUr4-QdVvxrlYg.JPEG/vincent-ledvina-t_N2U9wjB8k-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 03. 내게 필요한 건, '비움'이었다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -937,12 +753,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjdfOTYg/MDAxNjQzMjU2OTczMzEy.pjdKoM0ceoRst9_G5x8xOV7cw9g1OEJOBTGgAnDzSVcg.HCkZXl2FwuMQst07ZUN6dyCxUa821Ry0fsZqD87LV30g.JPEG/255.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 04. 조금은 변화하고 싶다. / 마이 유니버스, <BedZED> 세계관을 그리다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220315172721743hY</link>
-            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220315172721743hY</guid>
+            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 02. 환청 / 영들과의 만남 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220127134324185mI</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220127134324185mI</guid>
             <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ 04. &lt;조금은 변화하고 싶다.  마이 유니버스, &lt;BedZED&gt; 세계관을 그리다.&gt; ​ 새로운 관심사 ​ 환청의 소리가 서서히 사라지게 되자, 나는 일단 무엇인가를 해야만 했다. 그래서 아빠가 소속되어 계시는 ‘환경기술인협회’ 일들을 조금씩 도와주게 되었다. 아빠는 환경공학을 전공하신 분이었고, 젊은 시절, 아빠는 환경분야 쪽에서 일을 해오]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfMjIg/MDAxNjQ3MzI5MDk1MDg4.6e6ok-GVhJXjZ71D95Dg8UtkTEm1y-DRBIxs3mtpqSIg.1N_DUyeWu-QDgFusmtriRWbbux8V-tlgfmvyzpZ2i_Yg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ 02. &lt;환청&gt; ​ 영들과의 만남 ​ 그렇게 해서 시작하게 된 성경 공부. '성경 공부'를 시작한 지 2~3개월 정도 지나고, 어느 늦은 밤. 집에 들어와 침대에 누워 스르르 잠이 들었다. 나는 생전 처음으로 희미하게 펼쳐진 파아란 하늘 위에 떠다니는 커다란 십자가 꿈을 꾸게 되었다. 그 꿈을 꾼 다음 날. 뭔가 기분이 이상하게 묘했다. ‘정말 이런]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjdfMjAg/MDAxNjQzMjU3MzA5MDE1.a9X0tCSxZB9DCX4rtq1M1-k_9UEUzMfeIqAb6lWwMDcg.cnDV56u-iLDpm873ymc2H4IDfpX4BrGYMF5nxvHbKE0g.JPEG/261.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -953,12 +769,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[👩‍💻니혼게이자이신문 "시련투성이 「초보대통령」..혹독한 시련 기다리고 있다" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/newsporter/hyereeporter/contents/220323102239176Cs</link>
-            <guid>https://contents.premium.naver.com/newsporter/hyereeporter/contents/220323102239176Cs</guid>
+            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 04. 조금은 변화하고 싶다. / 마이 유니버스, <BedZED> 세계관을 그리다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220315172721743hY</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220315172721743hY</guid>
             <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[◇ 정치경험 전무한 대통령, 출범부터 혹독한 시련 기다리고 있다 5년만에 보수계야당 국민의 힘 윤석렬후보가 당선됐습니다. 단, 여야당후보 승패를 가른 득패률 차이는 1%미만에 지나지 않아 보수와 혁신의 첨예한 대립구도가 남아있는 상태입니다.1년전까지 검찰총장을 하고 정치경험이 전무한 차기대통령에게 출범부터 혹독한 시련이 기다리고 있습니다. ◇ 좌파계 야당후]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjNfMTIx/MDAxNjQ3OTk4MzM4Nzg3.JX5Rx_RpkrebxuZbGhe8PeGDLXvoloVKlLcKhwTsQp8g.wEQLDe6EUDc7pCClDefrjU26-zNG0oQ7dj9Lmi8rMFog.JPEG/sdsds.JPG?type=nfs220_220" length="0" type="image/JPG"/>
+            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ 04. &lt;조금은 변화하고 싶다.  마이 유니버스, &lt;BedZED&gt; 세계관을 그리다.&gt; ​ 새로운 관심사 ​ 환청의 소리가 서서히 사라지게 되자, 나는 일단 무엇인가를 해야만 했다. 그래서 아빠가 소속되어 계시는 ‘환경기술인협회’ 일들을 조금씩 도와주게 되었다. 아빠는 환경공학을 전공하신 분이었고, 젊은 시절, 아빠는 환경분야 쪽에서 일을 해오]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfMjIg/MDAxNjQ3MzI5MDk1MDg4.6e6ok-GVhJXjZ71D95Dg8UtkTEm1y-DRBIxs3mtpqSIg.1N_DUyeWu-QDgFusmtriRWbbux8V-tlgfmvyzpZ2i_Yg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[혼자 사업자내기 홈텍스실전편2 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -969,12 +785,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMTE4/MDAxNjQ3NTIxMTkzMTYy.E9Kh7hsybd99UN085NJo9x6V6MC5ZrVC1CWGDn6ERoMg.5Vq7xPRKh125ykMK1iRQv1_4-KimM9xUNW0BuiSRkVIg.JPEG/pexels-rfstudio-3810792.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전국택배노조는 왜 파업 종료 후에도 ‘강원도’서 농성 중일까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/byline/commercebn/contents/220325092811453ER</link>
-            <guid>https://contents.premium.naver.com/byline/commercebn/contents/220325092811453ER</guid>
-            <pubDate>Thu, 31 Mar 2022 23:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2일 민주노총 전국택배노동조합(택배노조)의 파업이 장장 65일 만에 끝났다. 택배노조와 CJ대한통운 대리점연합은 ‘표준계약서 부속합의서 개선’을 합의했고, 절차를 거쳐 조합원들의 현장 복귀를 추진했다. 그러다 21일, 택배노조는 돌연 CJ대한통운 춘천 터미널과 강릉 터미널 두 곳을 대상으로 농성에 돌입한다. 어떤 이유에서일까. 왜 택배노조와 택배사 간의 갈등은]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMTQ1/MDAxNjQ4MTY4MDA4ODA0.-S3rAHkGpsBgbwkIJi4mR9XZN74oCt7xIYJFAHxkh4Yg.fBP-m4yKHJlwR_fuTj_9E5xXzUtNEI3F3eIVaxSET5gg.JPEG/%EA%B0%95%EC%9B%90%EB%A9%94%EC%9D%B8.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[👩‍💻니혼게이자이신문 "시련투성이 「초보대통령」..혹독한 시련 기다리고 있다" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/newsporter/hyereeporter/contents/220323102239176Cs</link>
+            <guid>https://contents.premium.naver.com/newsporter/hyereeporter/contents/220323102239176Cs</guid>
+            <pubDate>Thu, 31 Mar 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[◇ 정치경험 전무한 대통령, 출범부터 혹독한 시련 기다리고 있다 5년만에 보수계야당 국민의 힘 윤석렬후보가 당선됐습니다. 단, 여야당후보 승패를 가른 득패률 차이는 1%미만에 지나지 않아 보수와 혁신의 첨예한 대립구도가 남아있는 상태입니다.1년전까지 검찰총장을 하고 정치경험이 전무한 차기대통령에게 출범부터 혹독한 시련이 기다리고 있습니다. ◇ 좌파계 야당후]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjNfMTIx/MDAxNjQ3OTk4MzM4Nzg3.JX5Rx_RpkrebxuZbGhe8PeGDLXvoloVKlLcKhwTsQp8g.wEQLDe6EUDc7pCClDefrjU26-zNG0oQ7dj9Lmi8rMFog.JPEG/sdsds.JPG?type=nfs220_220" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[[지속 가능한 삶은, 미니멀 라이프] 01. 나는 단순하게 살기로 했다. / 나에게도 좋고, 지구에게도 좋고, 소소한 생활의 행복. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220324002138564mZ</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220324002138564mZ</guid>
+            <pubDate>Fri, 01 Apr 2022 02:00:52 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛 / 지속 가능한 삶은, 미니멀 라이프] 01. ​ 나는 단순하게 살기로 했다.  ​ &lt;나에게도 좋고, 지구에게도 좋고, 소소한 생활의 행복.&gt; ​ 시끄러운 고통의 생활을 접고, 제2의 인생을 시작해나가기 위해, 무엇인가 좋은 것을 채우기 위한 ‘비움’이 나에겐 꼭 필요했다. 무엇인가 복잡하고 혼란스러운 나의 머릿속을 비워내고, 매일매일 홀가분해지고 싶은 욕망이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjNfNDAg/MDAxNjQ4MDQ0NDI3MTQ4.NlMbu5XAb8Hlx4FyOkmxKAhLGurvM33CCfVfy38SIF8g.p_9GaGL6Yafx5vZmON8WXFa8UxHQhddEJP42rl_xnvMg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
