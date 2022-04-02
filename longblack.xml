@@ -2,14 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-04-02T14:21:43.963Z</updated>
+    <updated>2022-04-02T15:24:00.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[우리는 달에 가기로 했다 : 아폴로 프로젝트에서 배우는 마인드셋]]></title>
-        <id>https://www.longblack.co/note/255</id>
-        <link href="https://www.longblack.co/note/255"/>
-        <updated>2022-04-01T15:25:53.386Z</updated>
-        <content type="html"><![CDATA[가끔 맡은 일이 잘 풀리지 않을 때 찾아보는 책이 있습니다. 『우리는 달에 가기로 했다』입니다. 책 제목 그대로예요. 미국항공우주국NASA의 직원들이 1960년대, 아폴로 프로젝트<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2022-04-02T15:23:36.176Z</updated>
+        <content type="html"><![CDATA[B가 감명받은 지난주 롱블랙의 문장
+
+“좋아하는 걸 찾았다면, 그걸 잘하기 위한 노력을 들여야 합니다. 당연한 것 같지만 쉽지 않아요. 그 고통을 온전히 즐기는 것이 일이라고 생각합니다”
+3월 31일의 노트 &lt;쿨레인 : 한국 1세대 토이 아티스트, 좋아하는 일을 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
