@@ -2,17 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-04-03T14:21:41.009Z</updated>
+    <updated>2022-04-03T15:24:22.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2022-04-02T15:23:36.176Z</updated>
-        <content type="html"><![CDATA[B가 감명받은 지난주 롱블랙의 문장
-
-“좋아하는 걸 찾았다면, 그걸 잘하기 위한 노력을 들여야 합니다. 당연한 것 같지만 쉽지 않아요. 그 고통을 온전히 즐기는 것이 일이라고 생각합니다”
-3월 31일의 노트 &lt;쿨레인 : 한국 1세대 토이 아티스트, 좋아하는 일을 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[스누피 가든 : 제주의 정원에서 피너츠의 이야기를 전하는 이유]]></title>
+        <id>https://www.longblack.co/note/252</id>
+        <link href="https://www.longblack.co/note/252"/>
+        <updated>2022-04-03T15:23:57.614Z</updated>
+        <content type="html"><![CDATA[제주 구좌읍 송당리는 목장지로 유명해요. 무려 18개의 오름이 모여 있고 오름과 오름 사이에 드넓은 초원지대가 있거든요. 2020년 여름, 그 곳에 대뜸 새하얀 건물이 들어섰어요.<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
