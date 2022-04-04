@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 19:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 20:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -661,88 +661,12 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘서울의 30평대 아파트’라는 서민의 꿈이 점점 멀어져 간다. 새 정부가 들어서면, 우리는 집을 살 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49959</link>
-            <guid>https://www.bookjournalism.com/books/49959</guid>
-            <pubDate>Mon, 04 Apr 2022 15:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[포기하면 편할까요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 열 번째 - 우리는 새로운 형태의 불의와 직면했음을 인정해야 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49894</link>
-            <guid>https://www.bookjournalism.com/books/49894</guid>
-            <pubDate>Mon, 04 Apr 2022 14:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 불의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #30에선, 소상공인 손실 보상의 함의, 항공우주청 설립, 중고차 시장 구조 조정, 성큼 다가온 로봇 시대를 살펴봅니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/49924</link>
-            <guid>https://www.bookjournalism.com/audio/49924</guid>
-            <pubDate>Mon, 04 Apr 2022 14:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[우주로 향하는 한국, 소상공인 손실 보상은 저 너머에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대기업들이 너나없이 로봇 산업에 뛰어들고 있다. 미래는 이미 와 있는 걸까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49896</link>
-            <guid>https://www.bookjournalism.com/books/49896</guid>
-            <pubDate>Mon, 04 Apr 2022 14:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[삐빅, 로봇입니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대기업이 중고차 시장에 뛰어든다. 오토 금융도 요동친다. MZ의 선택은 어디로 향할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49889</link>
-            <guid>https://www.bookjournalism.com/books/49889</guid>
-            <pubDate>Mon, 04 Apr 2022 14:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[오토론 대전]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[50조를 들여 소상공인·자영업자를 돕는다고 모든 문제가 해결되는 것은 아니다. 이들에 대한 인식 변화 없이는 우리 경제의 미래가 불투명하다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49865</link>
-            <guid>https://www.bookjournalism.com/books/49865</guid>
-            <pubDate>Mon, 04 Apr 2022 14:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[왜 사장님만 울어야 하나요]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[항공우주청 설립이 가시화했다. K-NASA의 탄생일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49854</link>
-            <guid>https://www.bookjournalism.com/books/49854</guid>
-            <pubDate>Mon, 04 Apr 2022 14:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[제2의 나사가 될 수 있을까?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #29에선, 여행업계와 야놀자의 미래, 수도권 과몰입 시대, 대출 과잉의 한국, 빚쟁이가 되어버린 MZ세대의 씁쓸한 미래를 짚어봅니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/49840</link>
-            <guid>https://www.bookjournalism.com/audio/49840</guid>
-            <pubDate>Mon, 04 Apr 2022 14:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡이 만든 이상한 나라의 빚쟁이 MZ세대]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이 비극적인 전쟁을 이해하려면 지난 몇 달의 시간은 물론 블라디미르 푸틴의 시간도 거슬러 올라가 볼 필요가 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49800</link>
-            <guid>https://www.bookjournalism.com/books/49800</guid>
-            <pubDate>Mon, 04 Apr 2022 14:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[전쟁을 막을 수는 없었을까?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[올리브영이 역대 최고 실적을 올렸다. 성공 배경에는 오프라인과 온라인을 아우르는 옴니채널 전략이 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49809</link>
-            <guid>https://www.bookjournalism.com/books/49809</guid>
-            <pubDate>Mon, 04 Apr 2022 14:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[이것은 화장품 가게가 아니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 당선인은 대출 규제를 완화하겠다고 한다. 벌써 시중 은행들은 곳간 문을 열었다. 잔치의 시간인가, 폭탄의 시간인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49778</link>
-            <guid>https://www.bookjournalism.com/books/49778</guid>
-            <pubDate>Mon, 04 Apr 2022 14:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[부채가 부실이 되지 않으려면]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[해외 입국자의 자가 격리 의무가 해제됐다. 숙박 및 여행 업계의 전쟁이 시작됐다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49767</link>
-            <guid>https://www.bookjournalism.com/books/49767</guid>
-            <pubDate>Mon, 04 Apr 2022 14:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[야놀자 스테이트 오브 마인드]]></content:encoded>
+            <title><![CDATA[어린 소녀의 죄와 주변 어른의 모습은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220325130209125Wx</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220325130209125Wx</guid>
+            <pubDate>Mon, 04 Apr 2022 15:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[일본 드라마 ‘씨를 뿌리는 사람’ - 대하여    일본 드라마 &lt;씨를 뿌리는 사람(種をまく人)&gt;는 소녀가 저지른 죄와 주변 어른의 모습을 통해 인간의 마음에 숨어있는 어둠을 조명하여 세계 각국에서 호평을 받은 휴먼 드라마다. 한 집안의 고뇌와 갈등을 다룬 작품이라 할 수 있다.   해당 작품을 통해 메가폰을 잡은 타케우치 요스케 감독은 데살로니키 국제 드라마 어워드 최우]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMjkg/MDAxNjQ4MTgwODI1Mzc4.M2J7QjoOG-FOCpzEs3K7c3pGUrpSxXQlSKN_I6CV9iAg.Sp5tDbXowqI0NEVEIEPRowEscNmGqVI_ek6MjyRNZskg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(10)1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -753,12 +677,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[어린 소녀의 죄와 주변 어른의 모습은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220325130209125Wx</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220325130209125Wx</guid>
+            <title><![CDATA[[EXCL.] 금감원, 금융위의 ‘현대차 임원들 애플 사전정보 부정거래’ 공동조사 요청 수차례 묵살 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/infostockdaily/isd/contents/220329002632885IA</link>
+            <guid>https://contents.premium.naver.com/infostockdaily/isd/contents/220329002632885IA</guid>
             <pubDate>Mon, 04 Apr 2022 15:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[일본 드라마 ‘씨를 뿌리는 사람’ - 대하여    일본 드라마 &lt;씨를 뿌리는 사람(種をまく人)&gt;는 소녀가 저지른 죄와 주변 어른의 모습을 통해 인간의 마음에 숨어있는 어둠을 조명하여 세계 각국에서 호평을 받은 휴먼 드라마다. 한 집안의 고뇌와 갈등을 다룬 작품이라 할 수 있다.   해당 작품을 통해 메가폰을 잡은 타케우치 요스케 감독은 데살로니키 국제 드라마 어워드 최우]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMjkg/MDAxNjQ4MTgwODI1Mzc4.M2J7QjoOG-FOCpzEs3K7c3pGUrpSxXQlSKN_I6CV9iAg.Sp5tDbXowqI0NEVEIEPRowEscNmGqVI_ek6MjyRNZskg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(10)1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[금융감독원이 ‘현대차 임원들의 애플카 협약 사전정보’를 이용한 부정거래 의혹에 대한 금융위원회의 공동조사 요청에도 수차례 묵살했던 것으로 드러났다.  금융계의 저승사자로 불리는 금감원이 현대차 임원들의 내부 부정거래 의혹을 1년 이상 뭉개면서 ‘조직적으로 봐준 것 아니냐’는 비판이 쏟아지고 있다. &lt;인포스탁데일리 2022년 2월 11일자 [단독] 금감원, 현대차 임]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMjQ5/MDAxNjQ4NDgxMDYyNjgz.lUFa-LOJxohc-YUe7fQxxNFberqiMupfGMFpwP7mMG8g.gfWMUJ3k7oxSObibWXEYDb5ZWD43ucX-2HcCiKVHri0g.PNG/169551_133805_1927.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[자존감을 높이는 3가지 언어습관(좋은글) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -769,12 +693,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMTcg/MDAxNjQ3NTE0MzYxMzQ5.r9B51oszMfCkkzPQr5bj9bvzcx6VmtnfQfElBl0L1eAg.EW5m1pgcJUUbpJiOxC4IgYSGZUDGO19pPeu1oOys370g.JPEG/11.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[EXCL.] 금감원, 금융위의 ‘현대차 임원들 애플 사전정보 부정거래’ 공동조사 요청 수차례 묵살 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/infostockdaily/isd/contents/220329002632885IA</link>
-            <guid>https://contents.premium.naver.com/infostockdaily/isd/contents/220329002632885IA</guid>
+            <title><![CDATA[[주간 경제 이슈] #2  안랩의 주가는 왜 상승했다가 갑자기 떨어진건가요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/solution/center/contents/220327233400108vF</link>
+            <guid>https://contents.premium.naver.com/solution/center/contents/220327233400108vF</guid>
             <pubDate>Mon, 04 Apr 2022 15:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[금융감독원이 ‘현대차 임원들의 애플카 협약 사전정보’를 이용한 부정거래 의혹에 대한 금융위원회의 공동조사 요청에도 수차례 묵살했던 것으로 드러났다.  금융계의 저승사자로 불리는 금감원이 현대차 임원들의 내부 부정거래 의혹을 1년 이상 뭉개면서 ‘조직적으로 봐준 것 아니냐’는 비판이 쏟아지고 있다. &lt;인포스탁데일리 2022년 2월 11일자 [단독] 금감원, 현대차 임]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMjQ5/MDAxNjQ4NDgxMDYyNjgz.lUFa-LOJxohc-YUe7fQxxNFberqiMupfGMFpwP7mMG8g.gfWMUJ3k7oxSObibWXEYDb5ZWD43ucX-2HcCiKVHri0g.PNG/169551_133805_1927.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[안녕하세요. 경제 Solution Center 입니다! 지난 주는 경제 이슈로 곡물 가격 상승과 이에 따라 주목 받은 나라를 알아봤는데요. 지난 주가 세계적인 이슈였다면 이번 주는 대한민국과 관련된 이슈에 대해서 알아보도록 하겠습니다. 최근 새로운 대통령이 당선되면서 정치 테마주가 함께 주목받고 있습니다. 이재명 후보의 탈모 공약에 따른 TS트릴리온 주가 상승, 윤석열 당선인과 같]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjdfNjgg/MDAxNjQ4MzkxMTMzMjg0.R-rwBfLi4Le7J6jUbKhXG6uvWAN2HtQ3miEC-ieRbe4g.VDREbxKGU5FbL-v60ijDwjSJE4cPF_E3iojdiRetF6Ig.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[굿모닝러너 챌린지 [33일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -785,12 +709,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfNDIg/MDAxNjQ4NTAwMTkzNjUz.dmnOPTtUVKIZmg_oxh7lzoCYGV5AEq1YbSObBLk4DKgg.jnsnasBiKdvUoZxsBdxavq3VikiW9-1nVkreaxY3F3gg.JPEG/KakaoTalk_20220329_054020014.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 경제 이슈] #2  안랩의 주가는 왜 상승했다가 갑자기 떨어진건가요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/solution/center/contents/220327233400108vF</link>
-            <guid>https://contents.premium.naver.com/solution/center/contents/220327233400108vF</guid>
+            <title><![CDATA[[고등학생 르포] 이 판 제가 먹습니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/3091201/xmas/contents/220329004655834bX</link>
+            <guid>https://contents.premium.naver.com/3091201/xmas/contents/220329004655834bX</guid>
             <pubDate>Mon, 04 Apr 2022 15:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 경제 Solution Center 입니다! 지난 주는 경제 이슈로 곡물 가격 상승과 이에 따라 주목 받은 나라를 알아봤는데요. 지난 주가 세계적인 이슈였다면 이번 주는 대한민국과 관련된 이슈에 대해서 알아보도록 하겠습니다. 최근 새로운 대통령이 당선되면서 정치 테마주가 함께 주목받고 있습니다. 이재명 후보의 탈모 공약에 따른 TS트릴리온 주가 상승, 윤석열 당선인과 같]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjdfNjgg/MDAxNjQ4MzkxMTMzMjg0.R-rwBfLi4Le7J6jUbKhXG6uvWAN2HtQ3miEC-ieRbe4g.VDREbxKGU5FbL-v60ijDwjSJE4cPF_E3iojdiRetF6Ig.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[2000년대 초반, 남자 고등학교의 교실에서는 쉬는 시간마다 쾅, 쾅, 책상을 내려치는 소리가 울려 퍼졌다. 욕이 섞인 탄식이, 가끔은 환호가 일기도 했다. 그건 한 군데가 아니라 모든 교실에서 그리고 아주 여러 자리에서 벌어지는 일이었다. 싸움이 난 건 아니었다. 거기에 참여한 이들에겐 싸울 시간조차 부족했다.   국어 교과서처럼 조금 큰 책에 100원짜리 동전을 몇 개, 모두]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMjQ4/MDAxNjQ4NDgyMjg2Mzc0.phtGoJrsP_-oUrR05liFkP1KmrPEauRcbi7l1OYRrG4g.HYBQCikj_zJNgrMHAZ1QKWO2XnRZbnYvFBlaNz-fLSog.JPEG/2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['스우파' 인기몰이 노제의 오오코, 첫 투자 유치 나선다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -801,20 +725,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjhfMzgg/MDAxNjQ4NDUzNzMwOTEz.0cqCiWvUSOHiFnXP85u8kKIKBBfgbLb4C5NjIyLFVeQg.4-BAKvs9vpijBa6P945p-yLX5O6tsITYcf-jG_65GAAg.JPEG/20220325165110968.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[고등학생 르포] 이 판 제가 먹습니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/3091201/xmas/contents/220329004655834bX</link>
-            <guid>https://contents.premium.naver.com/3091201/xmas/contents/220329004655834bX</guid>
-            <pubDate>Mon, 04 Apr 2022 15:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[2000년대 초반, 남자 고등학교의 교실에서는 쉬는 시간마다 쾅, 쾅, 책상을 내려치는 소리가 울려 퍼졌다. 욕이 섞인 탄식이, 가끔은 환호가 일기도 했다. 그건 한 군데가 아니라 모든 교실에서 그리고 아주 여러 자리에서 벌어지는 일이었다. 싸움이 난 건 아니었다. 거기에 참여한 이들에겐 싸울 시간조차 부족했다.   국어 교과서처럼 조금 큰 책에 100원짜리 동전을 몇 개, 모두]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMjQ4/MDAxNjQ4NDgyMjg2Mzc0.phtGoJrsP_-oUrR05liFkP1KmrPEauRcbi7l1OYRrG4g.HYBQCikj_zJNgrMHAZ1QKWO2XnRZbnYvFBlaNz-fLSog.JPEG/2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검색어 '인생이 힘들다 살아가는 방법' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maumbam/surisee/contents/220328164335514EO</link>
-            <guid>https://contents.premium.naver.com/maumbam/surisee/contents/220328164335514EO</guid>
-            <pubDate>Mon, 04 Apr 2022 18:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[블로그의 통계 카테고리를 살펴보면 '유입키워드'라는 것이 있다. 유입키워드는 검색어를 말한다. 누군가 포털사이트에 검색어를 입력하고 모니터에 조르르 뜬 검색 결과 중 하나를 골라 들어가는데, 그게 하필 내 글이라는 말이다. 그야말로 우연한 검색으로 비롯된 우연한 유입, 우연한 글 읽기다. 나는 언제부턴가 유입키워드에 주목하게 되었다. 왜냐하면, 생각지도 못한 검]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjhfMjM3/MDAxNjQ4NDUyOTMwMzM5.azanKbRwNLPFk1h8WB8XDsa9OgbOioLkNYgIM8yDF7og.tJUEDxR0rKrz02zhr9EZSQH7dd33giLgSGtUoh22ifcg.JPEG/KakaoTalk_20220328_162946765_02.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[경제뉴스] 美 주식선물 '제자리' 유가 하락 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/ottguidebook/1776/contents/220329082638668HF</link>
+            <guid>https://contents.premium.naver.com/ottguidebook/1776/contents/220329082638668HF</guid>
+            <pubDate>Mon, 04 Apr 2022 20:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 경제통입니다. 소비자 신뢰지표와 경제지표 발표 주간을 앞두고 미국 주식선물 시장은 제자리걸음을 했습니다. 다우존스 산업평균지수와 S&amp;P 500선물은 보합세를 보였고 나스닥 100선물은 0.1% 하락했습니다. 미국 현지시간 월요일 정기 거래에서 다우존스 산업평균지수는 94.65포인트(0.27%) 상승했습니다. S&amp;P 500지수는 0.7% 올랐고 나스닥 종합지수는 1.31% 올랐습니다. 이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMjE5/MDAxNjQ4NTA5ODczOTY3.KJjrdWaDhTJbtKcU6hCLkszoXF4-BIkA7e22lop027kg.YpA040PvIPN6jKR8Z22DoLO2Qj6J2obnnqV6eu7XS6Eg.JPEG/wallstreet-be6e21ad26e546dd8b015d7be5d71528.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
