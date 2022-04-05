@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 07:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 08:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가전 업계 큰손? MZ세대 지갑 열게 만든 힙한 가전 제품 LIST]]></title>
+            <link>https://www.careet.net/702</link>
+            <guid>https://www.careet.net/702</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[식기세척기, 건조기, 로봇청소기는 리스트에 없습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/19e7f315-6c98-430c-8961-f0e1fbe0e67d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이게 왜 유행이야?] MZ세대가 체감하는 박재범 소주 ‘원소주’ 인기 비결]]></title>
             <link>https://www.careet.net/700</link>

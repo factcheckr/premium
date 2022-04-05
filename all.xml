@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 07:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 08:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리도 할 수 있어! CBO가 알려주는 실전 개발자 채용법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6756?fr=category</link>
+            <guid>https://publy.co/content/6756?fr=category</guid>
+            <pubDate>Tue, 05 Apr 2022 08:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[구매를 부르는 뷰티 커머스 상세페이지 작성법 (퍼블리)]]></title>
             <link>https://publy.co/content/6758?fr=category</link>
@@ -71,11 +78,12 @@
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[입문자를 위한 프로그래밍 학습의 핵심 요소 (퍼블리)]]></title>
-            <link>https://publy.co/content/6720?fr=category</link>
-            <guid>https://publy.co/content/6720?fr=category</guid>
-            <pubDate>Wed, 23 Mar 2022 08:29:11 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+            <title><![CDATA[가전 업계 큰손? MZ세대 지갑 열게 만든 힙한 가전 제품 LIST (캐릿)]]></title>
+            <link>https://www.careet.net/702</link>
+            <guid>https://www.careet.net/702</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[식기세척기, 건조기, 로봇청소기는 리스트에 없습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/19e7f315-6c98-430c-8961-f0e1fbe0e67d_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[이게 왜 유행이야?] MZ세대가 체감하는 박재범 소주 ‘원소주’ 인기 비결 (캐릿)]]></title>
@@ -659,6 +667,90 @@
             <pubDate>Sun, 06 Mar 2022 23:22:51 GMT</pubDate>
             <content:encoded><![CDATA[<li>공간</li>
                                 <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘서울의 30평대 아파트’라는 중산층의 꿈이 점점 멀어져 간다. 새 정부가 들어서면, 우리는 집을 살 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49959</link>
+            <guid>https://www.bookjournalism.com/books/49959</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[포기하면 편할까요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 열 번째 - 우리는 새로운 형태의 불의와 직면했음을 인정해야 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49894</link>
+            <guid>https://www.bookjournalism.com/books/49894</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 불의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #30에선, 소상공인 손실 보상의 함의, 항공우주청 설립, 중고차 시장 구조 조정, 성큼 다가온 로봇 시대를 살펴봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49924</link>
+            <guid>https://www.bookjournalism.com/audio/49924</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[우주로 향하는 한국, 소상공인 손실 보상은 저 너머에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대기업들이 너나없이 로봇 산업에 뛰어들고 있다. 미래는 이미 와 있는 걸까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49896</link>
+            <guid>https://www.bookjournalism.com/books/49896</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[삐빅, 로봇입니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대기업이 중고차 시장에 뛰어든다. 오토 금융도 요동친다. MZ의 선택은 어디로 향할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49889</link>
+            <guid>https://www.bookjournalism.com/books/49889</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[오토론 대전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[50조를 들여 소상공인·자영업자를 돕는다고 모든 문제가 해결되는 것은 아니다. 이들에 대한 인식 변화 없이는 우리 경제의 미래가 불투명하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49865</link>
+            <guid>https://www.bookjournalism.com/books/49865</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[왜 사장님만 울어야 하나요]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[항공우주청 설립이 가시화했다. K-NASA의 탄생일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49854</link>
+            <guid>https://www.bookjournalism.com/books/49854</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[제2의 나사가 될 수 있을까?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #29에선, 여행업계와 야놀자의 미래, 수도권 과몰입 시대, 대출 과잉의 한국, 빚쟁이가 되어버린 MZ세대의 씁쓸한 미래를 짚어봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49840</link>
+            <guid>https://www.bookjournalism.com/audio/49840</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡이 만든 이상한 나라의 빚쟁이 MZ세대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이 비극적인 전쟁을 이해하려면 지난 몇 달의 시간은 물론 블라디미르 푸틴의 시간도 거슬러 올라가 볼 필요가 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49800</link>
+            <guid>https://www.bookjournalism.com/books/49800</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[전쟁을 막을 수는 없었을까?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[올리브영이 역대 최고 실적을 올렸다. 성공 배경에는 오프라인과 온라인을 아우르는 옴니채널 전략이 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49809</link>
+            <guid>https://www.bookjournalism.com/books/49809</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[이것은 화장품 가게가 아니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 당선인은 대출 규제를 완화하겠다고 한다. 벌써 시중 은행들은 곳간 문을 열었다. 잔치의 시간인가, 폭탄의 시간인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49778</link>
+            <guid>https://www.bookjournalism.com/books/49778</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[부채가 부실이 되지 않으려면]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해외 입국자의 자가 격리 의무가 해제됐다. 숙박 및 여행 업계의 전쟁이 시작됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49767</link>
+            <guid>https://www.bookjournalism.com/books/49767</guid>
+            <pubDate>Tue, 05 Apr 2022 08:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[야놀자 스테이트 오브 마인드]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>

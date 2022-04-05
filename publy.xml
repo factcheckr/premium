@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-04-05T07:23:39.940Z</updated>
+    <updated>2022-04-05T08:28:36.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우리도 할 수 있어! CBO가 알려주는 실전 개발자 채용법]]></title>
+        <id>https://publy.co/content/6756?fr=category</id>
+        <link href="https://publy.co/content/6756?fr=category"/>
+        <updated>2022-04-05T08:27:56.348Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구매를 부르는 뷰티 커머스 상세페이지 작성법]]></title>
         <id>https://publy.co/content/6758?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6694?fr=category"/>
         <updated>2022-03-24T09:22:56.348Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입문자를 위한 프로그래밍 학습의 핵심 요소]]></title>
-        <id>https://publy.co/content/6720?fr=category</id>
-        <link href="https://publy.co/content/6720?fr=category"/>
-        <updated>2022-03-23T08:29:11.502Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
     </entry>
 </feed>
