@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-04-04T23:26:16.518Z</updated>
+    <updated>2022-04-05T01:46:19.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
-        <title type="html"><![CDATA[‘서울의 30평대 아파트’라는 서민의 꿈이 점점 멀어져 간다. 새 정부가 들어서면, 우리는 집을 살 수 있을까?]]></title>
+        <title type="html"><![CDATA[‘서울의 30평대 아파트’라는 중산층의 꿈이 점점 멀어져 간다. 새 정부가 들어서면, 우리는 집을 살 수 있을까?]]></title>
         <id>https://www.bookjournalism.com/books/49959</id>
         <link href="https://www.bookjournalism.com/books/49959"/>
         <updated>2022-04-04T21:21:45.887Z</updated>

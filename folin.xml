@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-04-04T23:26:16.428Z</updated>
+    <updated>2022-04-05T01:46:19.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[XXBLUE가 미술품 NFT 시장을 키우는 법]]></title>
+        <id>https://www.folin.co/story/2146</id>
+        <link href="https://www.folin.co/story/2146"/>
+        <updated>2022-04-05T01:45:58.842Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K고기, 해외서 통할 수 있을까? 미트박스 대표의 답은]]></title>
         <id>https://www.folin.co/story/2127</id>
@@ -284,13 +292,5 @@
         <updated>2022-03-06T23:22:51.020Z</updated>
         <content type="html"><![CDATA[<li>공간</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외식업 브랜드를 시작하게 만드는 질문들]]></title>
-        <id>https://www.folin.co/story/2097</id>
-        <link href="https://www.folin.co/story/2097"/>
-        <updated>2022-03-03T22:22:51.069Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>조직문화</li>]]></content>
     </entry>
 </feed>
