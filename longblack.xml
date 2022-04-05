@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-04-05T14:23:18.512Z</updated>
+    <updated>2022-04-05T15:26:48.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[어글리어스 : 얼룩덜룩 울퉁불퉁, 힘차게 살아낸 채소만 팝니다]]></title>
-        <id>https://www.longblack.co/note/251</id>
-        <link href="https://www.longblack.co/note/251"/>
-        <updated>2022-04-04T15:25:42.645Z</updated>
-        <content type="html"><![CDATA[금요일이면 설렙니다. 어글리어스Uglyus가 랜덤 채소 박스를 보내주는 날이거든요! 지난주엔 다리가 세 개인 당근, 혹 달린 감자, 구멍 난 케일이 왔어요.<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[슬로우파마씨 : 비커와 약봉지에 넣은 잎, 식물로 하는 힐링 비즈니스]]></title>
+        <id>https://www.longblack.co/note/250</id>
+        <link href="https://www.longblack.co/note/250"/>
+        <updated>2022-04-05T15:25:25.505Z</updated>
+        <content type="html"><![CDATA[친구에게 이끼를 선물 받았습니다. “가끔 멍하니 보고 있으면 마음이 편해져.” 친구 말대로 가만히 이끼를 바라봅니다. 지름 75mm, 높이 150mm 유리병 안에 작은 이끼 숲이 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

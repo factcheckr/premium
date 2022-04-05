@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 14:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 15:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,11 +374,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/88199642-5f4d-4ba8-9730-69ccc5b5dfb2_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[어글리어스 : 얼룩덜룩 울퉁불퉁, 힘차게 살아낸 채소만 팝니다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/251</link>
-            <guid>https://www.longblack.co/note/251</guid>
-            <pubDate>Mon, 04 Apr 2022 15:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[금요일이면 설렙니다. 어글리어스Uglyus가 랜덤 채소 박스를 보내주는 날이거든요! 지난주엔 다리가 세 개인 당근, 혹 달린 감자, 구멍 난 케일이 왔어요.<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[슬로우파마씨 : 비커와 약봉지에 넣은 잎, 식물로 하는 힐링 비즈니스 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/250</link>
+            <guid>https://www.longblack.co/note/250</guid>
+            <pubDate>Tue, 05 Apr 2022 15:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[친구에게 이끼를 선물 받았습니다. “가끔 멍하니 보고 있으면 마음이 편해져.” 친구 말대로 가만히 이끼를 바라봅니다. 지름 75mm, 높이 150mm 유리병 안에 작은 이끼 숲이 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[XXBLUE가 미술품 NFT 시장을 키우는 법 (폴인)]]></title>
@@ -669,6 +669,20 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[명품 브랜드가 F&B 사업에 뛰어든다. F&B는 왜 유용한 브랜딩 전략인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49984</link>
+            <guid>https://www.bookjournalism.com/books/49984</guid>
+            <pubDate>Tue, 05 Apr 2022 15:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[테이스트 오브 브랜드]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나 바이러스는 사람들을 차별하지 않는다. 그러나 팬데믹을 겪고 있는 사회의 차별은 다른 문제였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49886</link>
+            <guid>https://www.bookjournalism.com/books/49886</guid>
+            <pubDate>Tue, 05 Apr 2022 15:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 시대의 인종차별]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘서울의 30평대 아파트’라는 중산층의 꿈이 점점 멀어져 간다. 새 정부가 들어서면, 우리는 집을 살 수 있을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/49959</link>
             <guid>https://www.bookjournalism.com/books/49959</guid>
@@ -739,90 +753,76 @@
             <content:encoded><![CDATA[이것은 화장품 가게가 아니다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤석열 당선인은 대출 규제를 완화하겠다고 한다. 벌써 시중 은행들은 곳간 문을 열었다. 잔치의 시간인가, 폭탄의 시간인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49778</link>
-            <guid>https://www.bookjournalism.com/books/49778</guid>
-            <pubDate>Tue, 05 Apr 2022 14:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[부채가 부실이 되지 않으려면]]></content:encoded>
+            <title><![CDATA[기장하는형의 콘텐츠의 필요성(980만원의비밀) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxjangsh/taxjangsh99/contents/220310224538075wY</link>
+            <guid>https://contents.premium.naver.com/taxjangsh/taxjangsh99/contents/220310224538075wY</guid>
+            <pubDate>Tue, 05 Apr 2022 15:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[by 기장하는형 (첫번째 포스팅) 안녕하세요. 기장하는 형 입니다.  요즘 많은 분들이 하나의 직장에 만족하지 않고 여러가지 직업 또는 돈이 되는 일들을 찾고 있습니다. 소위 "대한민국 투잡열풍, 부업열풍 " 입니다. 그 배경에는 내 급여를 제외하곤 무섭게 오르는 물가, 집값 이 있을 것이고, 대한민국 특성상 주위에 뒤쳐지게 살고 싶지  않으려는 마음이 투잡과 부업을 찾는 원]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfMjUg/MDAxNjQ2OTEzNTQ5NDM0.eADo3mLPDF7QKOOMHxOzy8LXXsBp3rB1NV7q2jZihUAg.t-o7JLVFHnE3MjyUYnrSvWt-cV2pMHhjva7DdUBF1ZEg.JPEG/coins-400252_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해외 입국자의 자가 격리 의무가 해제됐다. 숙박 및 여행 업계의 전쟁이 시작됐다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49767</link>
-            <guid>https://www.bookjournalism.com/books/49767</guid>
-            <pubDate>Tue, 05 Apr 2022 14:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[야놀자 스테이트 오브 마인드]]></content:encoded>
+            <title><![CDATA[회사경영 최선 다하도록…CEO에 '스톡옵션’ (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220203160709944gz</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220203160709944gz</guid>
+            <pubDate>Tue, 05 Apr 2022 15:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[어렸을 적 한 번쯤은 어머니로부터 성과에 따른 보상을 받은 적이 있을 것이다. 집안일을 도와 드리거나 시험 성적을 올리면 용돈을 받아 갖고 싶은 물건을 사는 보상을 받는 것이다. 사람들은 공부든 일이든 각자의 동기에 맞게 노력을 투입해 성과를 낸다. 물론 일을 하는 사람 입장에서는 적은 노력을 투입하기를 원한다. 그렇기 때문에 최대한의 성과를 낼 수 있음에도 불구]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDNfMTAw/MDAxNjQzODcxNzAxMjY2.yMcPpTsN71x4BlT0KKcXQF_PIzaXz9ohLp6A0Va3PJsg.O_4dc_Gj8AOAMFng9zkulT9pDzdP5lE5zRIzhyFiwfwg.JPEG/KakaoTalk_20220203_160110384.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어린 소녀의 죄와 주변 어른의 모습은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220325130209125Wx</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220325130209125Wx</guid>
-            <pubDate>Mon, 04 Apr 2022 15:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[일본 드라마 ‘씨를 뿌리는 사람’ - 대하여    일본 드라마 &lt;씨를 뿌리는 사람(種をまく人)&gt;는 소녀가 저지른 죄와 주변 어른의 모습을 통해 인간의 마음에 숨어있는 어둠을 조명하여 세계 각국에서 호평을 받은 휴먼 드라마다. 한 집안의 고뇌와 갈등을 다룬 작품이라 할 수 있다.   해당 작품을 통해 메가폰을 잡은 타케우치 요스케 감독은 데살로니키 국제 드라마 어워드 최우]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMjkg/MDAxNjQ4MTgwODI1Mzc4.M2J7QjoOG-FOCpzEs3K7c3pGUrpSxXQlSKN_I6CV9iAg.Sp5tDbXowqI0NEVEIEPRowEscNmGqVI_ek6MjyRNZskg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(10)1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[영문뉴스번역]  윤석열 대통령 당선인 5월까지 집무실 용산으로 이전 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/koreaherald/englishcafe/contents/220323175238846Id</link>
+            <guid>https://contents.premium.naver.com/koreaherald/englishcafe/contents/220323175238846Id</guid>
+            <pubDate>Tue, 05 Apr 2022 15:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[아래 기사는 2022년 3월 21일 자 코리아헤럴드 지면에 개제된 기사입니다. 윤석열 대통령 당선인, 제왕적 대통령제를 끝내고 청와대를 국민에게 돌려주겠다고 다짐 　 윤석열 대통령 당선인이 3월 20일 청와대 청사를 서울 용산구 국방부 청사로 이전하는 방안을 확정하며 제왕적 대통령직 종식을 선언했다. 윤 당선인은 인수위 사무실에서 열린 기자 브리핑에서 국민과 소통하고]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjNfMTYy/MDAxNjQ4MDI1MTU5NTc1.pmx1POI5kWOYv2pjOokdpD8SrjmTFOwVhzgaIoNmdpog.wUdci39IblMiLPhevCJBfr8H0ssmAcoRZ5-fkiNfqmUg.JPEG/20220320000135_0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Mon, 04 Apr 2022 16:35:49 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[1강 유튜버 편집자들은 무슨 편집프로그램을 쓸까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/drugpdstudio/drugstudio/contents/220329230318380XC</link>
+            <guid>https://contents.premium.naver.com/drugpdstudio/drugstudio/contents/220329230318380XC</guid>
+            <pubDate>Tue, 05 Apr 2022 15:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[제가 처음 시작하면서 제일 먼저 찾아봤던 부분은 편집 프로그램입니다. 편집을 시작하시려면 당연히 편집 프로그램을 아셔야하는 부분입니다. 인터넷에 보면 많은 편집 프로그램들이 있지만, 하지만 유튜버 편집자들이 쓰는 프로그램은 몇 가지가 정해져있고 이 프로그램들로 설명을 드리겠습니다 편집프로그램으로 가장 많이쓰는 TOP.3는 베가스, 파이널컷 프로, 프리미어 프]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMTU1/MDAxNjQ4NTYxODY3NTEw.teOkYnLJHnpE9PqRUA-4vvf2kq3clnldYiymckdNXgog.psRz17Rxx-BkXTL6fzLNp4UsaVJ7NNGtdj8wYLS35M4g.JPEG/%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[EXCL.] 금감원, 금융위의 ‘현대차 임원들 애플 사전정보 부정거래’ 공동조사 요청 수차례 묵살 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/infostockdaily/isd/contents/220329002632885IA</link>
-            <guid>https://contents.premium.naver.com/infostockdaily/isd/contents/220329002632885IA</guid>
-            <pubDate>Mon, 04 Apr 2022 15:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[금융감독원이 ‘현대차 임원들의 애플카 협약 사전정보’를 이용한 부정거래 의혹에 대한 금융위원회의 공동조사 요청에도 수차례 묵살했던 것으로 드러났다.  금융계의 저승사자로 불리는 금감원이 현대차 임원들의 내부 부정거래 의혹을 1년 이상 뭉개면서 ‘조직적으로 봐준 것 아니냐’는 비판이 쏟아지고 있다. &lt;인포스탁데일리 2022년 2월 11일자 [단독] 금감원, 현대차 임]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMjQ5/MDAxNjQ4NDgxMDYyNjgz.lUFa-LOJxohc-YUe7fQxxNFberqiMupfGMFpwP7mMG8g.gfWMUJ3k7oxSObibWXEYDb5ZWD43ucX-2HcCiKVHri0g.PNG/169551_133805_1927.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[[영문뉴스번역] 완성차 중고차 시장 진출 내부 준비 마쳐 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/koreaherald/englishcafe/contents/220324142816251Gz</link>
+            <guid>https://contents.premium.naver.com/koreaherald/englishcafe/contents/220324142816251Gz</guid>
+            <pubDate>Tue, 05 Apr 2022 15:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[아래 기사는 2022년 3월 21일자 코리아헤럴드 지면에 개제된 기사입니다. 중고차 판매 20조 원 규모로 급증, 신차 시장의 약 2배 중소벤처기업부가 대형 자동차 회사의 중고차 시장 진출을 승인한 후 국내 자동차 회사들은 연내 중고차 서비스를 시작하겠다는 계획을 최근 연이어 발표했다. 이들의 중고차 사업 진출은 최근까지 소규모 기업을 위해 정부에 의해 보호되어 온 국내 중]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjRfMjM2/MDAxNjQ4MDk4NzA2MTky.-NoPoGiX8F151BP2pJrR_EhYunFdVGEjDIjJEE1Whyog.vNLAsOEKwPiUjrojV6rladh9TjhLunTGR9xe7vcGmIIg.JPEG/20220320000112_0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자존감을 높이는 3가지 언어습관(좋은글) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/leedongyoung/dy/contents/220317195455612HJ</link>
-            <guid>https://contents.premium.naver.com/leedongyoung/dy/contents/220317195455612HJ</guid>
-            <pubDate>Mon, 04 Apr 2022 15:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[원문 읽으러 가기 &gt;&gt; https://brunch.co.kr/@dong02/1372]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMTcg/MDAxNjQ3NTE0MzYxMzQ5.r9B51oszMfCkkzPQr5bj9bvzcx6VmtnfQfElBl0L1eAg.EW5m1pgcJUUbpJiOxC4IgYSGZUDGO19pPeu1oOys370g.JPEG/11.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[주주행동주의 바람, 의결권 자문기관 입김도 '주목' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220330065602900me</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220330065602900me</guid>
+            <pubDate>Tue, 05 Apr 2022 15:26:47 GMT</pubDate>
+            <content:encoded><![CDATA['행동주의 헤지펀드' 바람이 일면서 의결권 자문기관의 입김이 세지고 있습니다. 표 대결 양상이 이어지는 가운데 굵직한 지분을 쥔 공모펀드 운용사는 자문사 판단에 의결권 행사를 의존하는 경향이 커지는 분위기입니다. 자산관리(WM)업계에 따르면 행동주의 전략을 벌이는 헤지펀드 운용사마다 국내 주요 의결권 자문기관인 한국기업지배구조원, 대신경제연구소, 서스틴베스]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMTky/MDAxNjQ4NTQxODMyNzE3.oT4091Iifp20QIPiuaiR5WmamKROPV1srPwMtkxn_Lkg.OOLp4F5mTkmtMr4XXlZewLNssL122RahmoxWpJ0fo2sg.PNG/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[주간 경제 이슈] #2  안랩의 주가는 왜 상승했다가 갑자기 떨어진건가요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/solution/center/contents/220327233400108vF</link>
-            <guid>https://contents.premium.naver.com/solution/center/contents/220327233400108vF</guid>
-            <pubDate>Mon, 04 Apr 2022 15:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 경제 Solution Center 입니다! 지난 주는 경제 이슈로 곡물 가격 상승과 이에 따라 주목 받은 나라를 알아봤는데요. 지난 주가 세계적인 이슈였다면 이번 주는 대한민국과 관련된 이슈에 대해서 알아보도록 하겠습니다. 최근 새로운 대통령이 당선되면서 정치 테마주가 함께 주목받고 있습니다. 이재명 후보의 탈모 공약에 따른 TS트릴리온 주가 상승, 윤석열 당선인과 같]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjdfNjgg/MDAxNjQ4MzkxMTMzMjg0.R-rwBfLi4Le7J6jUbKhXG6uvWAN2HtQ3miEC-ieRbe4g.VDREbxKGU5FbL-v60ijDwjSJE4cPF_E3iojdiRetF6Ig.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[2강. 프리미어프로 시작해보기! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/drugpdstudio/drugstudio/contents/220330020100308we</link>
+            <guid>https://contents.premium.naver.com/drugpdstudio/drugstudio/contents/220330020100308we</guid>
+            <pubDate>Tue, 05 Apr 2022 15:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[자, 이번 시간부터 본격적으로 프리미어 프로에 대해 강의를 시작하려고 합니다. 첫번째 강의로 프리미어 프로를 시작하면서 세팅 하는 방법부터해서 영상 내보내기(렌더링)을 하는 방법을 알아보겠습니다 일단 프리미어 프로를 다운받는 것은 빼고 시작하겠습니다. 혹시나 다운을 못받으시거나 다운받는 방법이 궁금하신 분들은 댓글로 남겨주시면 번외편으로 다운받는 방법]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfODgg/MDAxNjQ4NTcyOTU1MDU5.we9KvxU1hEKtxnvTgyJqAXXDT_w6JoW6sUDCyJitvdog.25gpj7baZBgzMO3CICUb-kGRbkYn_t15iC8rLyL11zQg.JPEG/%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [33일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220329054404536QZ</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220329054404536QZ</guid>
-            <pubDate>Mon, 04 Apr 2022 15:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [33일차] 굿모닝러너님, 오늘하루, 소중한 경험을 쌓아보세요.  지금은 지루하고 아무것도 아닌 경험같아도 그 경험이 쌓이고 쌓여 간절히 원하는 것을 성취하게 될거에요 :)  굿모닝러너_챌린지_33일차 #20220329 #AM06:00 사람이기에 매일 기분이 좋을 순 없지만, 명랑함을 유지하려는 마음을 우선순위에 두는 것 명랑한 사람은 대체로 긍정의 회로로 상황을 바라보]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfNDIg/MDAxNjQ4NTAwMTkzNjUz.dmnOPTtUVKIZmg_oxh7lzoCYGV5AEq1YbSObBLk4DKgg.jnsnasBiKdvUoZxsBdxavq3VikiW9-1nVkreaxY3F3gg.JPEG/KakaoTalk_20220329_054020014.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[아무 문장이나 한 문장씩 익힌다고 영어가 늘까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330155617418TA</link>
+            <guid>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330155617418TA</guid>
+            <pubDate>Tue, 05 Apr 2022 15:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[어느 날 새로운 표현을 익히게 되면  이런 생각을 하지 않으셨나요? “그래, 이렇게 하루 한 문장씩  새로운 문장을 익히면  몇 년 후엔 영어를 잘 할 수 있을거야.” 이런 생각을 하시는 분들은 많지만, 실제로 한 문장씩 익혀서  영어를 잘 하게 되었다는 분들을  만나기는 쉽지 않습니다. 일단 꾸준히 한 문장씩 익히는 분들을  만나기가 쉽지 않습니다.  (제 주변에만 없는걸까요]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjk5/MDAxNjQ4NjEzMTcyODYy.Ocjuhb4WS1TYHr_wvXym7xTnYDAy2O_g3ohBR7O6PRAg.489rU7g2GBUt5YyrkrqfCNgd5HXI1mr22mmeY2FooVwg.JPEG/n2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[고등학생 르포] 이 판 제가 먹습니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/3091201/xmas/contents/220329004655834bX</link>
-            <guid>https://contents.premium.naver.com/3091201/xmas/contents/220329004655834bX</guid>
-            <pubDate>Mon, 04 Apr 2022 15:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[2000년대 초반, 남자 고등학교의 교실에서는 쉬는 시간마다 쾅, 쾅, 책상을 내려치는 소리가 울려 퍼졌다. 욕이 섞인 탄식이, 가끔은 환호가 일기도 했다. 그건 한 군데가 아니라 모든 교실에서 그리고 아주 여러 자리에서 벌어지는 일이었다. 싸움이 난 건 아니었다. 거기에 참여한 이들에겐 싸울 시간조차 부족했다.   국어 교과서처럼 조금 큰 책에 100원짜리 동전을 몇 개, 모두]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMjQ4/MDAxNjQ4NDgyMjg2Mzc0.phtGoJrsP_-oUrR05liFkP1KmrPEauRcbi7l1OYRrG4g.HYBQCikj_zJNgrMHAZ1QKWO2XnRZbnYvFBlaNz-fLSog.JPEG/2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 인기몰이 노제의 오오코, 첫 투자 유치 나선다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220328190152492jK</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220328190152492jK</guid>
-            <pubDate>Mon, 04 Apr 2022 15:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[스트릿 댄스. 얼마 전 방영된 예능방송 '스트릿 우먼 파이터(스우파)' 이후 젊은 층을 중심으로 패션업계의 핫 아이템으로 떠오르고 있습니다. 스우파는 많은 셀럽을 만들어냈는데 '노제'도 이 중 한명입니다. 이 노제를 뮤즈로 내세운 주얼리 브랜드 오오코(OOCO)가 첫 투자 유치를 추진합니다. 해외에서 이미 브랜드에 대한 수요가 있는 만큼 투자 유치를 통해 해외 판로 개척에]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjhfMzgg/MDAxNjQ4NDUzNzMwOTEz.0cqCiWvUSOHiFnXP85u8kKIKBBfgbLb4C5NjIyLFVeQg.4-BAKvs9vpijBa6P945p-yLX5O6tsITYcf-jG_65GAAg.JPEG/20220325165110968.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[경제뉴스] 美 주식선물 '제자리' 유가 하락 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/ottguidebook/1776/contents/220329082638668HF</link>
-            <guid>https://contents.premium.naver.com/ottguidebook/1776/contents/220329082638668HF</guid>
-            <pubDate>Tue, 05 Apr 2022 14:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 경제통입니다. 소비자 신뢰지표와 경제지표 발표 주간을 앞두고 미국 주식선물 시장은 제자리걸음을 했습니다. 다우존스 산업평균지수와 S&amp;P 500선물은 보합세를 보였고 나스닥 100선물은 0.1% 하락했습니다. 미국 현지시간 월요일 정기 거래에서 다우존스 산업평균지수는 94.65포인트(0.27%) 상승했습니다. S&amp;P 500지수는 0.7% 올랐고 나스닥 종합지수는 1.31% 올랐습니다. 이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMjE5/MDAxNjQ4NTA5ODczOTY3.KJjrdWaDhTJbtKcU6hCLkszoXF4-BIkA7e22lop027kg.YpA040PvIPN6jKR8Z22DoLO2Qj6J2obnnqV6eu7XS6Eg.JPEG/wallstreet-be6e21ad26e546dd8b015d7be5d71528.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[굿모닝러너 챌린지 [34일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220330050426234dj</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220330050426234dj</guid>
+            <pubDate>Tue, 05 Apr 2022 15:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [34일차] 굿모닝러너님, 오늘하루, 나쁜 습관을 불러일으키는 건 안 보이게 숨겨두고 좋은 습관을 불러일으키는 건 잘 보이게 주변을 바꿔보세요~ 생각했던 것 보다 어렵지 않게 좋은 행동이 습관이 되어있을거에요 :) 굿모닝러너_챌린지_34일차 #20220330 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMTE5/MDAxNjQ4NTg0MjE1MjYw.qc_HaCOebsKXhYj6csgDQhhV0vhvW4r8AEQGhobwWKEg.1XG2uBHlFVKQGdLo18F9HX-TASxu_fkjjl5vbvjeLC0g.JPEG/KakaoTalk_20220330_050258290.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
