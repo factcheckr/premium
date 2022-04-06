@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[의도적 휴식 만들기: 나에게 딱 맞는 잘 쉬는 법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6757?fr=category</link>
+            <guid>https://publy.co/content/6757?fr=category</guid>
+            <pubDate>Wed, 06 Apr 2022 09:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[우리도 할 수 있어! CBO가 알려주는 실전 개발자 채용법 (퍼블리)]]></title>
             <link>https://publy.co/content/6756?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6731?fr=category</guid>
             <pubDate>Fri, 25 Mar 2022 08:26:58 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사용성 테스트, 지금 당장 해야 하는 이유와 방법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6694?fr=category</link>
-            <guid>https://publy.co/content/6694?fr=category</guid>
-            <pubDate>Thu, 24 Mar 2022 09:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 1020이 좋아하는 캐릭터 없을까요? 여기 있습니다! (캐릿)]]></title>
