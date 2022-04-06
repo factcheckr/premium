@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 23:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 01:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 1020이 좋아하는 캐릭터 없을까요? 여기 있습니다!]]></title>
+            <link>https://www.careet.net/704</link>
+            <guid>https://www.careet.net/704</guid>
+            <pubDate>Wed, 06 Apr 2022 01:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[콜라보 각! Z세대 픽 분야별 캐릭터 리스트업.zip]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/a5c8c50b-91f9-4c02-8ecd-223eaaba1cca_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가전 업계 큰손? MZ세대 지갑 열게 만든 힙한 가전 제품 LIST]]></title>
             <link>https://www.careet.net/702</link>
