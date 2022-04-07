@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 21:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 22:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -397,6 +397,14 @@
             <content:encoded><![CDATA[새싹이 돋아난 나무를 보고 봄이 온 걸 알았습니다. 문득 그런 생각이 들더군요. 지구의 주인은 어쩌면 인간이 아니라 나무인지도 모르겠다고. 100년도 채 살지 못하는 인간이 수백 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[1인 경영자의 시간 관리법 (폴인)]]></title>
+            <link>https://www.folin.co/story/2151</link>
+            <guid>https://www.folin.co/story/2151</guid>
+            <pubDate>Thu, 07 Apr 2022 22:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[창작자 vs. 경영자, 조구만 스튜디오가 일하는 방식 (폴인)]]></title>
             <link>https://www.folin.co/story/2148</link>
             <guid>https://www.folin.co/story/2148</guid>
@@ -677,14 +685,6 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디자이너에서 그로스 해커를 거쳐 CMO까지, 원동력은? (폴인)]]></title>
-            <link>https://www.folin.co/story/2092</link>
-            <guid>https://www.folin.co/story/2092</guid>
-            <pubDate>Tue, 08 Mar 2022 22:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아마존 최초의 노조가 만들어졌다. 글로벌 기업의 노조 설립은 회사-노동자 구도의 변화를 가져올 수 있을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/50015</link>
             <guid>https://www.bookjournalism.com/books/50015</guid>
@@ -769,14 +769,6 @@
             <content:encoded><![CDATA[쿠팡이 만든 이상한 나라의 빚쟁이 MZ세대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['당근마켓' 이용한 범죄 1위는 선입금 사기, 2위는 의외로… (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/lawtalknews/premium/contents/220311111725342bj</link>
-            <guid>https://contents.premium.naver.com/lawtalknews/premium/contents/220311111725342bj</guid>
-            <pubDate>Thu, 07 Apr 2022 15:23:47 GMT</pubDate>
-            <content:encoded><![CDATA["혹시⋯당근이세요?"  누적 회원 수 2200만명(2021년 12월 기준)을 돌파한 국내 대표 중고거래 플랫폼 당근마켓. 이웃 간 신뢰를 토대로 건강한 중고거래 문화를 이끌고 있지만, 이곳에도 어두운 면은 존재한다.  대다수의 선량한 회원들과 달리 범죄를 저지르는 일부 회원들이 있기 때문. 실제 지난달엔 한 20대가 당근마켓을 통해 2000만원이 넘는 명품시계를 구매하는 척하다가, 판]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTFfMjk0/MDAxNjQ2OTY0MjY5NTk0.30vIG6o0Am9zU6hHPtBdgFGmZy8vnBVXDdW9SZn3Ossg.pbruLpuXfCS1Oh6CObHzObtNAcWoRh6zXfj-_XEMvosg.JPEG/%EB%8B%B9%EA%B7%BC-%EC%82%AC%EA%B8%B0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
             <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
@@ -785,12 +777,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[기적의 바람이 분 순간 (하) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/littlemiracle/littlemiracle13/contents/220331192850536tE</link>
-            <guid>https://contents.premium.naver.com/littlemiracle/littlemiracle13/contents/220331192850536tE</guid>
+            <title><![CDATA['당근마켓' 이용한 범죄 1위는 선입금 사기, 2위는 의외로… (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/lawtalknews/premium/contents/220311111725342bj</link>
+            <guid>https://contents.premium.naver.com/lawtalknews/premium/contents/220311111725342bj</guid>
             <pubDate>Thu, 07 Apr 2022 15:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[나는 그 부부가 가는 길을 따라 걸었다. 그렇게 5분쯤 걸었을까. 갑자기 말이다... 내 눈앞에 무언가 숲속의 궁전 같은 곳이 보였다. 아뿔싸... 거기에는, 거기에는!   400년 먹은 전설의 느티나무가 있었다.  느티나무는 거대하고 신성했다. 느티나무 근처를 밝혀주고 있는 조명은 느티나무를 더 거룩하게 보이게 만들었다. 뭔가 보기만 해도 꿈속에 와 있는 느낌이었다. 이런 공터]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzFfMTMx/MDAxNjQ4NzE3ODkwNjg3.IL-afRyhngTpCrjdixfmhPdxFAwxO8cnRSIlIuEelgEg.pkvZkIRz5ENFU4wUNuO9gyk73O-9DhzYcHWC2xoL9kQg.JPEG/KakaoTalk_20220326_124645485_01.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA["혹시⋯당근이세요?"  누적 회원 수 2200만명(2021년 12월 기준)을 돌파한 국내 대표 중고거래 플랫폼 당근마켓. 이웃 간 신뢰를 토대로 건강한 중고거래 문화를 이끌고 있지만, 이곳에도 어두운 면은 존재한다.  대다수의 선량한 회원들과 달리 범죄를 저지르는 일부 회원들이 있기 때문. 실제 지난달엔 한 20대가 당근마켓을 통해 2000만원이 넘는 명품시계를 구매하는 척하다가, 판]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTFfMjk0/MDAxNjQ2OTY0MjY5NTk0.30vIG6o0Am9zU6hHPtBdgFGmZy8vnBVXDdW9SZn3Ossg.pbruLpuXfCS1Oh6CObHzObtNAcWoRh6zXfj-_XEMvosg.JPEG/%EB%8B%B9%EA%B7%BC-%EC%82%AC%EA%B8%B0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 세상에 오직 하나뿐인 이야기, 지금 시작합니다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -801,12 +793,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfMTUg/MDAxNjQ1Nzc0Nzk3OTgz.zydozbai0kp5O59GXrj_YLoHHApIBuKyXglkRKNVshIg.zUEKgXtooJO8Q3u2oMgfmfzhEeG5OtgBT5jF__zzft0g.JPEG/%ED%9D%A5%EB%AF%BC.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [36일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220401053157096we</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220401053157096we</guid>
+            <title><![CDATA[기적의 바람이 분 순간 (하) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/littlemiracle/littlemiracle13/contents/220331192850536tE</link>
+            <guid>https://contents.premium.naver.com/littlemiracle/littlemiracle13/contents/220331192850536tE</guid>
             <pubDate>Thu, 07 Apr 2022 15:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [36일차] 굿모닝러너님, 3월이 끝나고 꽃피는 4월이 왔네요.  오늘 하루, 새로운 결심을 시작해보세요!  행동의 변화로 찾아오는 행복한 감정을 느끼실 수 있을거에요 :) 굿모닝러너_챌린지_36일차 #20220401 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDFfMjc5/MDAxNjQ4NzU4Njc3MzEx.1pr5hIl95CkUC1JuSbhKx8S2fTbg3TuNsqyb_LJM030g.3aQH_tGkvXiLZdv9orYrruOKRZ1eua8sdzT3WeHxi-cg.JPEG/KakaoTalk_20220401_052928770.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[나는 그 부부가 가는 길을 따라 걸었다. 그렇게 5분쯤 걸었을까. 갑자기 말이다... 내 눈앞에 무언가 숲속의 궁전 같은 곳이 보였다. 아뿔싸... 거기에는, 거기에는!   400년 먹은 전설의 느티나무가 있었다.  느티나무는 거대하고 신성했다. 느티나무 근처를 밝혀주고 있는 조명은 느티나무를 더 거룩하게 보이게 만들었다. 뭔가 보기만 해도 꿈속에 와 있는 느낌이었다. 이런 공터]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzFfMTMx/MDAxNjQ4NzE3ODkwNjg3.IL-afRyhngTpCrjdixfmhPdxFAwxO8cnRSIlIuEelgEg.pkvZkIRz5ENFU4wUNuO9gyk73O-9DhzYcHWC2xoL9kQg.JPEG/KakaoTalk_20220326_124645485_01.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[09. 창업박람회보다 중요한 것은 'OOOO'이다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -817,12 +809,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDFfMjI0/MDAxNjQ4NzYzNTY2Mzcw.5hFcRK0D_7rgkpI5OTCUcqKSlyqyiE0F3JqoODXUBf0g.dAE_rYtgPSNq0ujjFutx9wRuclh6gQMx0d9i_ap1qyQg.PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%BD%98%ED%85%90%EC%B8%A0_%EB%B0%B0%EA%B2%BD_%EC%9D%B4%EB%AF%B8%EC%A7%80_(%EC%A0%95%EC%82%AC%EA%B0%81)_(1).png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[경제상식] 보험이란? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/ottguidebook/1776/contents/220401123559783YH</link>
-            <guid>https://contents.premium.naver.com/ottguidebook/1776/contents/220401123559783YH</guid>
+            <title><![CDATA[굿모닝러너 챌린지 [36일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220401053157096we</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220401053157096we</guid>
             <pubDate>Thu, 07 Apr 2022 15:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[1. 보험이란? 보험계약은 보험계약자가 위험을 관리하고 예상치 못한 금전적 손실로부터 보호하는 것을 돕는 보험계약자와 보험자 사이의 계약입니다. 보험계약자는 개인이나 회사일 수 있으며, 보험계약자는 보험을 구입한 개인이나 제3자가 될 수 있습니다. 보험계약자가 납부하는 보험료의 대가로, 보험자는 자동차 사고나 응급 수술과 같이 보험계약이 적용되는 상황에서]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDFfMTc5/MDAxNjQ4Nzg0MTIyMDE1.DMUAgzy39LRbmATZNXLZ6YVNLoAToduQbRwPbTIX3QQg.I1yoowbv8C5gMjSkN5eaDN5Q_mpk-U4_BAnex56OcFkg.JPEG/How_Insurance_Works_How_MicroInsurance_Helps_maxwell_investments_group_maxwe.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [36일차] 굿모닝러너님, 3월이 끝나고 꽃피는 4월이 왔네요.  오늘 하루, 새로운 결심을 시작해보세요!  행동의 변화로 찾아오는 행복한 감정을 느끼실 수 있을거에요 :) 굿모닝러너_챌린지_36일차 #20220401 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDFfMjc5/MDAxNjQ4NzU4Njc3MzEx.1pr5hIl95CkUC1JuSbhKx8S2fTbg3TuNsqyb_LJM030g.3aQH_tGkvXiLZdv9orYrruOKRZ1eua8sdzT3WeHxi-cg.JPEG/KakaoTalk_20220401_052928770.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전쟁 석학 로런스 프리드먼 단독 인터뷰: 우크라이나 전쟁 이후 푸틴은... (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -833,12 +825,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzFfMjIx/MDAxNjQ4NjkzMzkwMTE5.Hs2PViHAJSjQ442KHa-SzBMc7TTQ6bjFkvCEP7G_i9og.tSh27eP8OMQzi9j9DYPWGwSKxKqpKxJ7OGATOG6XaVgg.JPEG/%EB%A1%9C%EB%9F%B0%EC%8A%A4_%ED%94%84%EB%A6%AC%EB%93%9C%EB%A8%BC1.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[#12. 기적은 늘 있어요(2편) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220401164614767Xg</link>
-            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220401164614767Xg</guid>
-            <pubDate>Thu, 07 Apr 2022 20:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[여행 오늘 취하면 고스란히 내일을 책임져야 하는 삶을 살다   오늘 취하고 내일 취해도 책임지지 않아도 되는 일상을 산다   어떻게 살지 얘기하던 하루에서 얼마나 이쁜지 얘기하는 하루를 보낸다   단지 비행기를 타고 내가 살던 곳에서 다른 곳으로 넘어왔을 뿐이지만   여기선 문득, 행복해진다. 유영은 지유에게 어깨동무를 했다. 누구든 갈 수 있는 정상이고, 누구와 함께]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDFfMjM5/MDAxNjQ4Nzk4MjQ4NDI2.Vz_tji9FJcsGRwklT30kG8AsBdWwIxDMpcL6K9RCICMg.rTkEwQuFCYBTMZWVQGkg2sRszw6YzKYLwtxDyjNKSp4g.JPEG/%EB%93%B1%EC%82%B0-%EA%B8%B0%EC%9A%B4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[경제상식] 보험이란? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/ottguidebook/1776/contents/220401123559783YH</link>
+            <guid>https://contents.premium.naver.com/ottguidebook/1776/contents/220401123559783YH</guid>
+            <pubDate>Thu, 07 Apr 2022 15:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[1. 보험이란? 보험계약은 보험계약자가 위험을 관리하고 예상치 못한 금전적 손실로부터 보호하는 것을 돕는 보험계약자와 보험자 사이의 계약입니다. 보험계약자는 개인이나 회사일 수 있으며, 보험계약자는 보험을 구입한 개인이나 제3자가 될 수 있습니다. 보험계약자가 납부하는 보험료의 대가로, 보험자는 자동차 사고나 응급 수술과 같이 보험계약이 적용되는 상황에서]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDFfMTc5/MDAxNjQ4Nzg0MTIyMDE1.DMUAgzy39LRbmATZNXLZ6YVNLoAToduQbRwPbTIX3QQg.I1yoowbv8C5gMjSkN5eaDN5Q_mpk-U4_BAnex56OcFkg.JPEG/How_Insurance_Works_How_MicroInsurance_Helps_maxwell_investments_group_maxwe.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 역대급 금융사고 삼성증권 직원들, '유령주식 사태' 대법서 유죄 확정 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/infostockdaily/isd/contents/220401083556172tp</link>
+            <guid>https://contents.premium.naver.com/infostockdaily/isd/contents/220401083556172tp</guid>
+            <pubDate>Thu, 07 Apr 2022 22:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2018년 잘못 입고된 주식을 매도한 혐의로 재판에 넘겨진 삼성증권 전·현직 직원들이 대법원에서도 유죄를 확정 받았습니다. 대법원 3부(주심 노정희 대법관)는 자본시장과 금융투자업에 관한 법률 위반 등 혐의로 기소된 구 모씨 등 8명의 상고심에서 모두 유죄를 선고한 원심을 확정했는데요. 이들 삼성증권 전·현직 직원 8명에게는 징역 1년에 집행유예 2~3년, 벌금 1000~2000]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDFfODQg/MDAxNjQ4NzY5NjQ1OTEz.Xvy2j1i9dPHFvK6grK3UuZ2_U1jX9OOico9EQ1DO2iUg.-zDtf_RTbYEEUrO0mejUR1RJGWL3sLfWa_ViDTSQ5Fwg.JPEG/169804_134308_539.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-04-07T21:21:23.794Z</updated>
+    <updated>2022-04-07T22:23:47.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1인 경영자의 시간 관리법]]></title>
+        <id>https://www.folin.co/story/2151</id>
+        <link href="https://www.folin.co/story/2151"/>
+        <updated>2022-04-07T22:23:28.489Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[창작자 vs. 경영자, 조구만 스튜디오가 일하는 방식]]></title>
         <id>https://www.folin.co/story/2148</id>
@@ -282,14 +290,6 @@
         <id>https://www.folin.co/story/2104</id>
         <link href="https://www.folin.co/story/2104"/>
         <updated>2022-03-09T22:22:51.302Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디자이너에서 그로스 해커를 거쳐 CMO까지, 원동력은?]]></title>
-        <id>https://www.folin.co/story/2092</id>
-        <link href="https://www.folin.co/story/2092"/>
-        <updated>2022-03-08T22:23:05.977Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
     </entry>
