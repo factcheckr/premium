@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-04-08T07:24:47.278Z</updated>
+    <updated>2022-04-08T08:28:10.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[달라도 너무 달라! 케바케 팀원에 따른 팀장의 평가 피드백 방법은?]]></title>
+        <id>https://publy.co/content/6743?fr=category</id>
+        <link href="https://publy.co/content/6743?fr=category"/>
+        <updated>2022-04-08T08:27:26.449Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마켓컬리 PM은 고객경험을 위해 어떤 고민을 할까?]]></title>
         <id>https://publy.co/content/6709?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6745?fr=category"/>
         <updated>2022-03-29T08:27:47.601Z</updated>
         <content type="html"><![CDATA[아티클 · 16분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 피드백 ‘받는 것'에 진심인 팀장입니다. (feat. 대학내일)]]></title>
-        <id>https://publy.co/content/6734?fr=category</id>
-        <link href="https://publy.co/content/6734?fr=category"/>
-        <updated>2022-03-28T08:29:28.598Z</updated>
-        <content type="html"><![CDATA[아티클 · 17분 분량]]></content>
     </entry>
 </feed>
