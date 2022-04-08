@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-04-07T23:23:56.084Z</updated>
+    <updated>2022-04-08T01:50:48.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[1인 경영자의 시간 관리법]]></title>
+        <title type="html"><![CDATA[“1인 경영에 필요한 건 스승, 책, 세미나 뿐”]]></title>
         <id>https://www.folin.co/story/2151</id>
         <link href="https://www.folin.co/story/2151"/>
         <updated>2022-04-07T22:23:28.489Z</updated>

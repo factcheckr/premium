@@ -4,9 +4,33 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 23:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 01:50:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이게 이 사람이 만든 밈이었어?(feat. 박재범, BTS 정국, NCT 천러)]]></title>
+            <link>https://www.careet.net/712</link>
+            <guid>https://www.careet.net/712</guid>
+            <pubDate>Fri, 08 Apr 2022 01:50:15 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 SNS, 블로그에 자주 쓰는 표현 모아왔어요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/a9c4ea95-f0ab-427a-aa05-4e2ad61c7468_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[50만 명이 몰려든 인증샷 성지가 있다고? 이주의 떡상템.zip]]></title>
+            <link>https://www.careet.net/711</link>
+            <guid>https://www.careet.net/711</guid>
+            <pubDate>Fri, 08 Apr 2022 01:50:15 GMT</pubDate>
+            <content:encoded><![CDATA[1분 만에 보는 Z세대 최신 트렌드]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/0c650e37-4b85-419a-98c1-0a549dac45dc_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] 회사생활 밸런스 게임! Z세대 신입과 용명의 가치관 차이?]]></title>
+            <link>https://www.careet.net/708</link>
+            <guid>https://www.careet.net/708</guid>
+            <pubDate>Fri, 08 Apr 2022 01:50:15 GMT</pubDate>
+            <content:encoded><![CDATA[주 3일 월 150 vs 주 6일 월 500 받기]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/ce76e03d-d0b5-443b-8e67-5d3557302784_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 대이직의 시대! MZ세대에게 선택받는 기업 되는 법]]></title>
             <link>https://www.careet.net/698</link>
