@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 12:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 13:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -793,14 +793,6 @@
             <content:encoded><![CDATA[제2의 나사가 될 수 있을까?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[경제 기초교양] #2 중앙은행 금융정책이 어떻게 경기 살릴까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/solution/center/contents/220331162619286bm</link>
-            <guid>https://contents.premium.naver.com/solution/center/contents/220331162619286bm</guid>
-            <pubDate>Fri, 08 Apr 2022 15:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 경제 Solution Center입니다! 오늘은 중앙은행의 금융정책이 우리의 경기에 미치는 영향에 대해 알아보겠습니다. 은행 등 금융회사는 흔히 기업과 가계를 상대로 예금이나 대출 등 자금거래를 해요. 이럴 때 금융회사가 매기는 금리는 자금시장에서 실제로 통용되는 금리이므로 시장금리(市場金利, market rate)라 해요. 시장을 시중(中)이라고도 하므로 시장금리 대신 시중]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzFfNTcg/MDAxNjQ4NzExNDEwMDg5.I13VJW3OwFXbNrWD-EyuYevA4OKpjgP39XihPOKSMScg.cZjCwUp5jmGX_E78W8K15UcPT5yxBqwl3APhwOSfX8sg.JPEG/building-ge281fce5b_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
             <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
@@ -809,12 +801,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[친구를 잘 만나야 한다는 말…과학적일까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/hozytamtam/hozytam/contents/220406152258615yf</link>
-            <guid>https://contents.premium.naver.com/hozytamtam/hozytam/contents/220406152258615yf</guid>
+            <title><![CDATA[[경제 기초교양] #2 중앙은행 금융정책이 어떻게 경기 살릴까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/solution/center/contents/220331162619286bm</link>
+            <guid>https://contents.premium.naver.com/solution/center/contents/220331162619286bm</guid>
             <pubDate>Fri, 08 Apr 2022 15:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[혹시 지금 사람들과 함께 있다면 주변을 한 번 둘러보시기 바랍니다. 내 옆에 어떤 사람들이 있는지 말입니다. 지금은 옆에 없어도 가깝게 지내는 사람들도 있을 텐데 그들도 한 번 떠올려 보시기 바랍니다. 뜬금없겠다 싶으실 텐데 그럴 만한 이유가 있습니다. 기나 긴 코로나19 사태를 통과하면서 우리는 옆에 있는 사람들이 대단히 중요하다는 걸 알게 됐습니다. 전염 가능성]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTY1/MDAxNjQ5MjIzNDI1NTAz.-J31KEcmnHgJSaHcr4RIkCWzNoQ4QCGhMSuaANul9I8g.Tz3Fa6s6ARP9jEQgD0wjGZ7Iad1ustLtL4kaPGPJCmIg.JPEG/%EA%B7%B8%EB%A6%BC3.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[안녕하세요. 경제 Solution Center입니다! 오늘은 중앙은행의 금융정책이 우리의 경기에 미치는 영향에 대해 알아보겠습니다. 은행 등 금융회사는 흔히 기업과 가계를 상대로 예금이나 대출 등 자금거래를 해요. 이럴 때 금융회사가 매기는 금리는 자금시장에서 실제로 통용되는 금리이므로 시장금리(市場金利, market rate)라 해요. 시장을 시중(中)이라고도 하므로 시장금리 대신 시중]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzFfNTcg/MDAxNjQ4NzExNDEwMDg5.I13VJW3OwFXbNrWD-EyuYevA4OKpjgP39XihPOKSMScg.cZjCwUp5jmGX_E78W8K15UcPT5yxBqwl3APhwOSfX8sg.JPEG/building-ge281fce5b_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LA 배경의 사랑과 전쟁? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -825,12 +817,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfNSAg/MDAxNjQ4NTMzMDEwODU0.OUGhCjJADxF-XcoF2Nc6Du5OJIxlXr7Sn5A8F84FNP4g.cdvUO_nx4HA7wFlHBp4wcu2y6kYTNTEqNLpaaHrOmUEg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-03-29T144629.041.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[돈 되는 IT] 코스피 데뷔 앞둔 '마켓컬리', 성적표 미리 예상해 보니... (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/techdigest/tdigest/contents/220407144640676cw</link>
-            <guid>https://contents.premium.naver.com/techdigest/tdigest/contents/220407144640676cw</guid>
+            <title><![CDATA[친구를 잘 만나야 한다는 말…과학적일까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/hozytamtam/hozytam/contents/220406152258615yf</link>
+            <guid>https://contents.premium.naver.com/hozytamtam/hozytam/contents/220406152258615yf</guid>
             <pubDate>Fri, 08 Apr 2022 15:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[올해 초 상장이 예정된 기업을 소개한 적이 있습니다. 이때 처음 언급한 기업이 바로 마켓컬리(Market Kurly)였는데요. 당시 상장 예비 심사를 준비 중이라고 했지만, 증시 상황이 좋지 않다는 이유로 상장이 지연됐음을 알렸죠. 그렇게 한동안 소식이 없더니 다시 심사 신청서를 제출했다는 소식이 들리고 있어요.  3월 28일, 마켓컬리는 한국거래소에 코스피 상장을 위한 예비심사]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDdfMTc4/MDAxNjQ5MzA5NDQ5OTk5.DM_39UPMLBoURfWDZwVh-LN90oceieLeZ6Wk7TY2NfQg.cJsYI70ZUyuHSmhISBNHPoInFyGq4Daeq42QV9mn7zgg.PNG/SE-a39d4ebf-7f19-4801-868e-b9404d1456e9.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[혹시 지금 사람들과 함께 있다면 주변을 한 번 둘러보시기 바랍니다. 내 옆에 어떤 사람들이 있는지 말입니다. 지금은 옆에 없어도 가깝게 지내는 사람들도 있을 텐데 그들도 한 번 떠올려 보시기 바랍니다. 뜬금없겠다 싶으실 텐데 그럴 만한 이유가 있습니다. 기나 긴 코로나19 사태를 통과하면서 우리는 옆에 있는 사람들이 대단히 중요하다는 걸 알게 됐습니다. 전염 가능성]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTY1/MDAxNjQ5MjIzNDI1NTAz.-J31KEcmnHgJSaHcr4RIkCWzNoQ4QCGhMSuaANul9I8g.Tz3Fa6s6ARP9jEQgD0wjGZ7Iad1ustLtL4kaPGPJCmIg.JPEG/%EA%B7%B8%EB%A6%BC3.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 재벌가…출생의 비밀과 정략결혼 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -841,12 +833,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMTA4/MDAxNjQ4NTMzMzcxNDQy.ylo7ZMxa2GA0Wsv4upFRvimPxkhaC2zjAn4cHhaqySYg.CSbhzBbSph5OaOAz1bU7qU04bs4nzosE5kyeuj38EzMg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-03-29T145157.405.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스마트한 투자자인 당신이 꼭 알아야 할 철학 문제 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bookstaurant/bookstaurant01/contents/220321204540922Gu</link>
-            <guid>https://contents.premium.naver.com/bookstaurant/bookstaurant01/contents/220321204540922Gu</guid>
+            <title><![CDATA[[돈 되는 IT] 코스피 데뷔 앞둔 '마켓컬리', 성적표 미리 예상해 보니... (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/techdigest/tdigest/contents/220407144640676cw</link>
+            <guid>https://contents.premium.naver.com/techdigest/tdigest/contents/220407144640676cw</guid>
             <pubDate>Fri, 08 Apr 2022 15:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 8월 금융투자협회에 따르면 주식거래 활동계좌는 5,002만 개로 나타났다. 계좌를 중복으로 가지고 있는 투자자의 수까지 고려해도 국내 주식 투자 인구는 이미 1,000만 명을 넘겼다. 주식뿐만 아니라 부동산에 대한 관심 역시 세대를 초월하고 있다. 한국부동산원에 따르면 2021년 서울 아파트의 10채 중 4 채는 2030세대가 사들였다.  투자에 대한 전 국민적 관심은 주식, 부동산,]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjFfNTIg/MDAxNjQ3ODQ2MjQzMDkz.tSAvBKjzqWhu8kOX6q5Fa7w4cBH68mOq6xtLR56kr18g.6kOR7WfA6WzIQbs6xg0uEEc2Pg5mrk0nDzT1sM7jaP8g.JPEG/mathieu-stern-1zO4O3Z0UJA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[올해 초 상장이 예정된 기업을 소개한 적이 있습니다. 이때 처음 언급한 기업이 바로 마켓컬리(Market Kurly)였는데요. 당시 상장 예비 심사를 준비 중이라고 했지만, 증시 상황이 좋지 않다는 이유로 상장이 지연됐음을 알렸죠. 그렇게 한동안 소식이 없더니 다시 심사 신청서를 제출했다는 소식이 들리고 있어요.  3월 28일, 마켓컬리는 한국거래소에 코스피 상장을 위한 예비심사]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDdfMTc4/MDAxNjQ5MzA5NDQ5OTk5.DM_39UPMLBoURfWDZwVh-LN90oceieLeZ6Wk7TY2NfQg.cJsYI70ZUyuHSmhISBNHPoInFyGq4Daeq42QV9mn7zgg.PNG/SE-a39d4ebf-7f19-4801-868e-b9404d1456e9.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[현실감을 추구했던 드라마의 아쉬운 진행… (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -857,12 +849,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMjAw/MDAxNjQ4NTMzOTg4NTk2.6XkH1ADBq94qQLXranZCidc-zXAihNipWWA5w6uTI1kg.aIx1Twpt0lRD00Sz_RPrF9zdhA1wlmj3IxE3PazJYacg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-03-29T150622.002.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사는 어쩌다 짝퉁을 팔게 됐나 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/byline/commercebn/contents/220408100955194lw</link>
-            <guid>https://contents.premium.naver.com/byline/commercebn/contents/220408100955194lw</guid>
-            <pubDate>Sat, 09 Apr 2022 09:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[무신사와 크림의 가품 논쟁이 끝을 맺었다. 크림은 지난1일 피어오브갓 측에 의뢰한 결과, 무신사가 판매한 에센셜 티셔츠가 가품임을 판정 받았다고 밝혔다. 관련기사: 크림, 무신사 피어오브갓 상품 본사에서 가품으로 확인 그렇다면 무신사는 어쩌다 가품을 유통하게 됐을까? 이번 논란에서 무신사는 속아서 가품을 판매한 피해자일까, 아니면 가품 유통을 방조한 가해자일까]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMjY2/MDAxNjQ5Mzc4NTEzNTUx.w4DY04uhoHtODuw6n4_3laJV44tvB_Q4Jr4lR39-AZUg.a_sk943nt8Jbcxh92L0eTCuY-d5SfoCovHCkfzFV7FEg.JPEG/%EB%AC%B4%EC%8B%A0%EC%82%AC_.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[스마트한 투자자인 당신이 꼭 알아야 할 철학 문제 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bookstaurant/bookstaurant01/contents/220321204540922Gu</link>
+            <guid>https://contents.premium.naver.com/bookstaurant/bookstaurant01/contents/220321204540922Gu</guid>
+            <pubDate>Fri, 08 Apr 2022 15:26:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 8월 금융투자협회에 따르면 주식거래 활동계좌는 5,002만 개로 나타났다. 계좌를 중복으로 가지고 있는 투자자의 수까지 고려해도 국내 주식 투자 인구는 이미 1,000만 명을 넘겼다. 주식뿐만 아니라 부동산에 대한 관심 역시 세대를 초월하고 있다. 한국부동산원에 따르면 2021년 서울 아파트의 10채 중 4 채는 2030세대가 사들였다.  투자에 대한 전 국민적 관심은 주식, 부동산,]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjFfNTIg/MDAxNjQ3ODQ2MjQzMDkz.tSAvBKjzqWhu8kOX6q5Fa7w4cBH68mOq6xtLR56kr18g.6kOR7WfA6WzIQbs6xg0uEEc2Pg5mrk0nDzT1sM7jaP8g.JPEG/mathieu-stern-1zO4O3Z0UJA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스웨덴 드라마 속 벨소리와 긴장한 외침, 총소리 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220325124315736YP</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220325124315736YP</guid>
+            <pubDate>Sat, 09 Apr 2022 13:28:43 GMT</pubDate>
+            <content:encoded><![CDATA[스웨덴 드라마 ‘퀵 샌드 : 나의 다정한 마야’ – 에 대하여  &lt;퀵 샌드 : 나의 다정한 마야&gt;는 스웨덴의 웹 TV 범죄 드라마 시리즈이다. 총 6개의 에피소드로 이루어져 있으며, 우리나라에선 생소한 배우인 한나 아르덴과 펠릭스 산드만이 주연을 맡았다. &lt;퀵 샌드 : 나의 다정한 마야&gt;는 스웨덴 작가 말린 페르손 졸리토 동명의 소설 &lt;Quicksand&gt;을 기반으로 제작되었다. 넷플릭스에서]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMTIy/MDAxNjQ4MTc5NzQ2NjAy.8mVZqLLgvVKVJCJ2PkaNuDLVjv-XheXWlYit1FOUg40g.swrUIcUuxMvt6Cq9ficXPPt59T6JnqWBnbCRrcTvNwAg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(5).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
