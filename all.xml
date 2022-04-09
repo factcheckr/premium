@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 07:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 08:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -709,88 +709,12 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #31에선, 새 정부의 부동산 정책, 트위터 대주주가 된 일론 머스크, 미국에서 시작된 빅테크 노조 물결, 세계관 마케팅 전쟁에 돌입한 명품 브랜드의 전략을 살펴봅니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/50042</link>
-            <guid>https://www.bookjournalism.com/audio/50042</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[구찌는 식당을 열고, 일론 머스크는 트위터를 사고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아마존 최초의 노조가 만들어졌다. 글로벌 기업의 노조 설립은 회사-노동자 구도의 변화를 가져올 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50015</link>
-            <guid>https://www.bookjournalism.com/books/50015</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[빅테크의 노동권]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크가 트위터 최대 주주가 되었다. 트위터의 미래에는 어떤 변화가 예고되어 있는가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50002</link>
-            <guid>https://www.bookjournalism.com/books/50002</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[플랫폼이 필요해서 트위터 좀 샀어]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[명품 브랜드가 F&B 사업에 뛰어든다. F&B는 왜 유용한 브랜딩 전략인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49984</link>
-            <guid>https://www.bookjournalism.com/books/49984</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[테이스트 오브 브랜드]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나 바이러스는 사람들을 차별하지 않는다. 그러나 팬데믹을 겪고 있는 사회의 차별은 다른 문제였다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49886</link>
-            <guid>https://www.bookjournalism.com/books/49886</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹 시대의 인종차별]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘서울의 30평대 아파트’라는 중산층의 꿈이 점점 멀어져 간다. 새 정부가 들어서면, 우리는 집을 살 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49959</link>
-            <guid>https://www.bookjournalism.com/books/49959</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[포기하면 편할까요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 열 번째 - 우리는 새로운 형태의 불의와 직면했음을 인정해야 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49894</link>
-            <guid>https://www.bookjournalism.com/books/49894</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 불의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #30에선, 소상공인 손실 보상의 함의, 항공우주청 설립, 중고차 시장 구조 조정, 성큼 다가온 로봇 시대를 살펴봅니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/49924</link>
-            <guid>https://www.bookjournalism.com/audio/49924</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[우주로 향하는 한국, 소상공인 손실 보상은 저 너머에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대기업들이 너나없이 로봇 산업에 뛰어들고 있다. 미래는 이미 와 있는 걸까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49896</link>
-            <guid>https://www.bookjournalism.com/books/49896</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[삐빅, 로봇입니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대기업이 중고차 시장에 뛰어든다. 오토 금융도 요동친다. MZ의 선택은 어디로 향할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49889</link>
-            <guid>https://www.bookjournalism.com/books/49889</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[오토론 대전]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[50조를 들여 소상공인·자영업자를 돕는다고 모든 문제가 해결되는 것은 아니다. 이들에 대한 인식 변화 없이는 우리 경제의 미래가 불투명하다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49865</link>
-            <guid>https://www.bookjournalism.com/books/49865</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[왜 사장님만 울어야 하나요]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[항공우주청 설립이 가시화했다. K-NASA의 탄생일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/49854</link>
-            <guid>https://www.bookjournalism.com/books/49854</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[제2의 나사가 될 수 있을까?]]></content:encoded>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Fri, 08 Apr 2022 16:34:51 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[경제 기초교양] #2 중앙은행 금융정책이 어떻게 경기 살릴까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -801,12 +725,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzFfNTcg/MDAxNjQ4NzExNDEwMDg5.I13VJW3OwFXbNrWD-EyuYevA4OKpjgP39XihPOKSMScg.cZjCwUp5jmGX_E78W8K15UcPT5yxBqwl3APhwOSfX8sg.JPEG/building-ge281fce5b_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Fri, 08 Apr 2022 16:34:51 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[LA 배경의 사랑과 전쟁? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220329145130693Th</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220329145130693Th</guid>
+            <pubDate>Fri, 08 Apr 2022 15:26:22 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 시리즈 ‘사운드트랙’ - 에 대하여  뮤지컬에서 가장 중요한 것은 역시 음악일 것이다. 극의 주제나 흐름을 꿰뚫는 의미와 관객에게 좋은 호응도 끌어내야 한다. 어찌보면 뮤지컬은 상당히 어려운 장르가 아닐 수 없다. 극을 꾸리고 극과 어울리는 음악과 배우들의 춤, 무대 등등 상당히 신경 써야 할 것이 많아 보인다.    문제는 가끔 스토리가 너무 간단하고 무미건조]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfNSAg/MDAxNjQ4NTMzMDEwODU0.OUGhCjJADxF-XcoF2Nc6Du5OJIxlXr7Sn5A8F84FNP4g.cdvUO_nx4HA7wFlHBp4wcu2y6kYTNTEqNLpaaHrOmUEg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-03-29T144629.041.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[친구를 잘 만나야 한다는 말…과학적일까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -817,12 +741,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTY1/MDAxNjQ5MjIzNDI1NTAz.-J31KEcmnHgJSaHcr4RIkCWzNoQ4QCGhMSuaANul9I8g.Tz3Fa6s6ARP9jEQgD0wjGZ7Iad1ustLtL4kaPGPJCmIg.JPEG/%EA%B7%B8%EB%A6%BC3.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LA 배경의 사랑과 전쟁? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220329145130693Th</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220329145130693Th</guid>
+            <title><![CDATA[일본 재벌가…출생의 비밀과 정략결혼 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220329145743065Af</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220329145743065Af</guid>
             <pubDate>Fri, 08 Apr 2022 15:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 ‘사운드트랙’ - 에 대하여  뮤지컬에서 가장 중요한 것은 역시 음악일 것이다. 극의 주제나 흐름을 꿰뚫는 의미와 관객에게 좋은 호응도 끌어내야 한다. 어찌보면 뮤지컬은 상당히 어려운 장르가 아닐 수 없다. 극을 꾸리고 극과 어울리는 음악과 배우들의 춤, 무대 등등 상당히 신경 써야 할 것이 많아 보인다.    문제는 가끔 스토리가 너무 간단하고 무미건조]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfNSAg/MDAxNjQ4NTMzMDEwODU0.OUGhCjJADxF-XcoF2Nc6Du5OJIxlXr7Sn5A8F84FNP4g.cdvUO_nx4HA7wFlHBp4wcu2y6kYTNTEqNLpaaHrOmUEg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-03-29T144629.041.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[일본 TV 드라마 ‘일족’ - 에 대하여  배우 기무라 타쿠야(木村拓哉) 주연의 일본 TV 드라마 &lt;일족(一族)&gt;은 원작 및 기존 영화 등의 주연인 만표 다이스케(万俵大介)의 장남이자 만표 재벌의 주력 기업인 한신 특수 제강 전무인 텟페이(鉄平) 주연의 드라마로, 1960년대 고베를 배경으로 만표 재벌이 고베의 오카자키 재벌, 한신 은행은 오카자키 재벌의 중추 기업인 구 고베 은행,]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMTA4/MDAxNjQ4NTMzMzcxNDQy.ylo7ZMxa2GA0Wsv4upFRvimPxkhaC2zjAn4cHhaqySYg.CSbhzBbSph5OaOAz1bU7qU04bs4nzosE5kyeuj38EzMg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-03-29T145157.405.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[돈 되는 IT] 코스피 데뷔 앞둔 '마켓컬리', 성적표 미리 예상해 보니... (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -833,12 +757,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDdfMTc4/MDAxNjQ5MzA5NDQ5OTk5.DM_39UPMLBoURfWDZwVh-LN90oceieLeZ6Wk7TY2NfQg.cJsYI70ZUyuHSmhISBNHPoInFyGq4Daeq42QV9mn7zgg.PNG/SE-a39d4ebf-7f19-4801-868e-b9404d1456e9.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[일본 재벌가…출생의 비밀과 정략결혼 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220329145743065Af</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220329145743065Af</guid>
+            <title><![CDATA[현실감을 추구했던 드라마의 아쉬운 진행… (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220329150825507hS</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220329150825507hS</guid>
             <pubDate>Fri, 08 Apr 2022 15:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[일본 TV 드라마 ‘일족’ - 에 대하여  배우 기무라 타쿠야(木村拓哉) 주연의 일본 TV 드라마 &lt;일족(一族)&gt;은 원작 및 기존 영화 등의 주연인 만표 다이스케(万俵大介)의 장남이자 만표 재벌의 주력 기업인 한신 특수 제강 전무인 텟페이(鉄平) 주연의 드라마로, 1960년대 고베를 배경으로 만표 재벌이 고베의 오카자키 재벌, 한신 은행은 오카자키 재벌의 중추 기업인 구 고베 은행,]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMTA4/MDAxNjQ4NTMzMzcxNDQy.ylo7ZMxa2GA0Wsv4upFRvimPxkhaC2zjAn4cHhaqySYg.CSbhzBbSph5OaOAz1bU7qU04bs4nzosE5kyeuj38EzMg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-03-29T145157.405.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[드라마 ‘혼술남녀’ - 에 대하여  드라마 [혼술남녀]는 tvN에서 2016년 9월 5일~10월 25일 방영했던 드라마다.   명수현‧백선우‧최보림 작가가 집필을 맡았고, 최규식 PD가 연출을 맡았다. 배우 하석진‧박하선‧공명 등이 출연했다.   이 드라마는 서로 다른 이유로 혼술하는 노량진 강사들과 공시생들의 알코올충전 혼술 라이프를 담은 이야기다.   [혼술남녀]는 당시 줄 서서 듣는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMjAw/MDAxNjQ4NTMzOTg4NTk2.6XkH1ADBq94qQLXranZCidc-zXAihNipWWA5w6uTI1kg.aIx1Twpt0lRD00Sz_RPrF9zdhA1wlmj3IxE3PazJYacg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-03-29T150622.002.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마트한 투자자인 당신이 꼭 알아야 할 철학 문제 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -849,20 +773,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjFfNTIg/MDAxNjQ3ODQ2MjQzMDkz.tSAvBKjzqWhu8kOX6q5Fa7w4cBH68mOq6xtLR56kr18g.6kOR7WfA6WzIQbs6xg0uEEc2Pg5mrk0nDzT1sM7jaP8g.JPEG/mathieu-stern-1zO4O3Z0UJA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현실감을 추구했던 드라마의 아쉬운 진행… (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220329150825507hS</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220329150825507hS</guid>
-            <pubDate>Fri, 08 Apr 2022 15:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 ‘혼술남녀’ - 에 대하여  드라마 [혼술남녀]는 tvN에서 2016년 9월 5일~10월 25일 방영했던 드라마다.   명수현‧백선우‧최보림 작가가 집필을 맡았고, 최규식 PD가 연출을 맡았다. 배우 하석진‧박하선‧공명 등이 출연했다.   이 드라마는 서로 다른 이유로 혼술하는 노량진 강사들과 공시생들의 알코올충전 혼술 라이프를 담은 이야기다.   [혼술남녀]는 당시 줄 서서 듣는]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMjAw/MDAxNjQ4NTMzOTg4NTk2.6XkH1ADBq94qQLXranZCidc-zXAihNipWWA5w6uTI1kg.aIx1Twpt0lRD00Sz_RPrF9zdhA1wlmj3IxE3PazJYacg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-03-29T150622.002.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사는 어쩌다 짝퉁을 팔게 됐나 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/byline/commercebn/contents/220408100955194lw</link>
-            <guid>https://contents.premium.naver.com/byline/commercebn/contents/220408100955194lw</guid>
-            <pubDate>Sat, 09 Apr 2022 06:29:40 GMT</pubDate>
-            <content:encoded><![CDATA[무신사와 크림의 가품 논쟁이 끝을 맺었다. 크림은 지난1일 피어오브갓 측에 의뢰한 결과, 무신사가 판매한 에센셜 티셔츠가 가품임을 판정 받았다고 밝혔다. 관련기사: 크림, 무신사 피어오브갓 상품 본사에서 가품으로 확인 그렇다면 무신사는 어쩌다 가품을 유통하게 됐을까? 이번 논란에서 무신사는 속아서 가품을 판매한 피해자일까, 아니면 가품 유통을 방조한 가해자일까]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMjY2/MDAxNjQ5Mzc4NTEzNTUx.w4DY04uhoHtODuw6n4_3laJV44tvB_Q4Jr4lR39-AZUg.a_sk943nt8Jbcxh92L0eTCuY-d5SfoCovHCkfzFV7FEg.JPEG/%EB%AC%B4%EC%8B%A0%EC%82%AC_.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[스웨덴 드라마 속 벨소리와 긴장한 외침, 총소리 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220325124315736YP</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220325124315736YP</guid>
+            <pubDate>Sat, 09 Apr 2022 08:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[스웨덴 드라마 ‘퀵 샌드 : 나의 다정한 마야’ – 에 대하여  &lt;퀵 샌드 : 나의 다정한 마야&gt;는 스웨덴의 웹 TV 범죄 드라마 시리즈이다. 총 6개의 에피소드로 이루어져 있으며, 우리나라에선 생소한 배우인 한나 아르덴과 펠릭스 산드만이 주연을 맡았다. &lt;퀵 샌드 : 나의 다정한 마야&gt;는 스웨덴 작가 말린 페르손 졸리토 동명의 소설 &lt;Quicksand&gt;을 기반으로 제작되었다. 넷플릭스에서]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMTIy/MDAxNjQ4MTc5NzQ2NjAy.8mVZqLLgvVKVJCJ2PkaNuDLVjv-XheXWlYit1FOUg40g.swrUIcUuxMvt6Cq9ficXPPt59T6JnqWBnbCRrcTvNwAg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(5).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
