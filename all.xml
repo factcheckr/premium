@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 21:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 22:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -421,6 +421,22 @@
             <content:encoded><![CDATA[계향각. 문 연지 4개월밖에 안 됐는데 연일 만석인 중식당이야. 오너 셰프는 신계숙 배화여대 교수. 맞아, 할리 데이비슨 타는 그 중년 여성 셰프야.계향<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[8년 넘은 '동대문 카카오톡', 신상마켓 성장 비하인드 (폴인)]]></title>
+            <link>https://www.folin.co/story/2152</link>
+            <guid>https://www.folin.co/story/2152</guid>
+            <pubDate>Sun, 10 Apr 2022 22:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>스타트업</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버→쿠팡→마리트 거친 장홍석 딜리셔스 대표 인터뷰 (폴인)]]></title>
+            <link>https://www.folin.co/story/2153</link>
+            <guid>https://www.folin.co/story/2153</guid>
+            <pubDate>Sun, 10 Apr 2022 22:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<li>스타트업</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[“1인 경영에 필요한 건 스승, 책, 세미나 뿐” (폴인)]]></title>
             <link>https://www.folin.co/story/2151</link>
             <guid>https://www.folin.co/story/2151</guid>
@@ -690,22 +706,6 @@
             <guid>https://www.folin.co/story/2103</guid>
             <pubDate>Tue, 15 Mar 2022 12:38:45 GMT</pubDate>
             <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[까탈로그, 유튜브 이어 패션브랜드 뛰어든 '디에디트' (폴인)]]></title>
-            <link>https://www.folin.co/story/2111</link>
-            <guid>https://www.folin.co/story/2111</guid>
-            <pubDate>Wed, 09 Mar 2022 22:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법 (폴인)]]></title>
-            <link>https://www.folin.co/story/2104</link>
-            <guid>https://www.folin.co/story/2104</guid>
-            <pubDate>Wed, 09 Mar 2022 22:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
