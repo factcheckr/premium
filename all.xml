@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 07:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 08:29:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느 날 팀원이 퇴사하겠다고 말했다 (feat. 팀장의 대처법) (퍼블리)]]></title>
+            <link>https://publy.co/content/6751?fr=category</link>
+            <guid>https://publy.co/content/6751?fr=category</guid>
+            <pubDate>Mon, 11 Apr 2022 08:28:12 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[달라도 너무 달라! 케바케 팀원에 따른 팀장의 평가 피드백 방법은? (퍼블리)]]></title>
             <link>https://publy.co/content/6743?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6754?fr=category</guid>
             <pubDate>Tue, 29 Mar 2022 08:27:47 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 6분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임팩트를 만드는 UX리서치 노하우 (퍼블리)]]></title>
-            <link>https://publy.co/content/6745?fr=category</link>
-            <guid>https://publy.co/content/6745?fr=category</guid>
-            <pubDate>Tue, 29 Mar 2022 08:27:47 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 16분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[참여 허들 높은데도 1만 명 참여한 이벤트가 있다? Z세대가 칭찬한 브랜드 3 (캐릿)]]></title>
@@ -801,12 +801,12 @@
             <content:encoded><![CDATA[왜 사장님만 울어야 하나요]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Q. 신·구축 관계없이 25평 전후 4억~5억 원대 아파트를 찾아주세요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/booding/home/contents/220328011009019em</link>
-            <guid>https://contents.premium.naver.com/booding/home/contents/220328011009019em</guid>
+            <title><![CDATA[길 찾는 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/brightening/ddazi/contents/220402171827078sz</link>
+            <guid>https://contents.premium.naver.com/brightening/ddazi/contents/220402171827078sz</guid>
             <pubDate>Sun, 10 Apr 2022 15:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[Q. 신·구축 관계없이 25평 전후 4억~5억 원대 아파트를 찾아주세요  1. 가족구성원: 38세 남편, 33세 아내(맞벌이 신혼부부)  2. 현 거주지: 서울시 중구 신당동 소재 빌라(전세 2억5000만 원)  3. 순자본 / 대출: 1억4000만 원(현금 9000만 원+전세금 여분 5000만 원) / 서울시 신혼부부 전세대출 2억 원  4. 월수입: 720만 원  5. 허용 가능한 월 원리금 상환액: 400만 원  6. 현 주택 소유 여부: 무주]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MjlfMjIx/MDAxNjIyMjc2MzA3ODQy.yvnHGeqkq-RhTNHFJ5RdMBsq7rebRZp93kLUQQqR2PAg.bACHFGcyTNFKTgT4jpfHu6wK5KxoIFM-yVKWIFKCh5og.JPEG/KakaoTalk_20210529_170740114.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[지하철 방향 잘 찾아오는것도 헷갈리는건 따찌 뿐인가요?  공감의 하트 눌러주세요🧡]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDJfMjkw/MDAxNjQ4ODg3MzAyNDg2.rTjWA9gzE11-eLPD75Vvplo-KavN94Am0hXr95bu2P0g.hD5537vHI7ZJCE1M9ihgQMQH96SQCgTRrUzE78NXoLcg.JPEG/220402_%EA%B8%B8%EC%B0%BE%EB%8A%94%EB%B2%950.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -817,12 +817,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[길 찾는 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/brightening/ddazi/contents/220402171827078sz</link>
-            <guid>https://contents.premium.naver.com/brightening/ddazi/contents/220402171827078sz</guid>
+            <title><![CDATA[굿모닝러너 챌린지 [37일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220404052538268ZW</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220404052538268ZW</guid>
             <pubDate>Sun, 10 Apr 2022 15:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[지하철 방향 잘 찾아오는것도 헷갈리는건 따찌 뿐인가요?  공감의 하트 눌러주세요🧡]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDJfMjkw/MDAxNjQ4ODg3MzAyNDg2.rTjWA9gzE11-eLPD75Vvplo-KavN94Am0hXr95bu2P0g.hD5537vHI7ZJCE1M9ihgQMQH96SQCgTRrUzE78NXoLcg.JPEG/220402_%EA%B8%B8%EC%B0%BE%EB%8A%94%EB%B2%950.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [37일차] 굿모닝러너님, 오늘 하루, 목표로 세운게 있었다면 그 목표의 3분의 1만 시작해보세요!  전체 목표를 이룬 건 아니지만 목표를 이뤘다는 성취감을 느낄 수 있고 생각보다 어렵지 않게 전체 목표를 달성할 수 있을거에요  :) 4월의 첫 월요일도 행복한 시작되세요 !  굿모닝러너_챌린지_37일차 #20220404 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDRfMjY1/MDAxNjQ5MDE3MzYyMjky.Zpa0KqCtFOo7KTzCRqxNzVk792FPMOQgNX6C7eCycYwg.vXRMbuflQgqIW3EySMUJebGAPB2pY__qptKx1FiLSh0g.JPEG/KakaoTalk_20220404_051954033.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[낡은 벽돌 빌라 '쇼룸 상가'로 바꾸니 건물 가치 쑥쑥 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -833,12 +833,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfODMg/MDAxNjQ3MzM1NjAxNDcw.1vnHigp4moncnNO_GToKzPRZtwZPPiQbHUXpl5lco9Ug.FRG5FOXbbaTqeiCTjpiw877szGqcJ6-xoxZAns7T5m4g.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [37일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220404052538268ZW</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220404052538268ZW</guid>
+            <title><![CDATA[피카소와 쇼팽의 사랑을 떠올리며 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220314201053154pV</link>
+            <guid>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220314201053154pV</guid>
             <pubDate>Sun, 10 Apr 2022 15:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [37일차] 굿모닝러너님, 오늘 하루, 목표로 세운게 있었다면 그 목표의 3분의 1만 시작해보세요!  전체 목표를 이룬 건 아니지만 목표를 이뤘다는 성취감을 느낄 수 있고 생각보다 어렵지 않게 전체 목표를 달성할 수 있을거에요  :) 4월의 첫 월요일도 행복한 시작되세요 !  굿모닝러너_챌린지_37일차 #20220404 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDRfMjY1/MDAxNjQ5MDE3MzYyMjky.Zpa0KqCtFOo7KTzCRqxNzVk792FPMOQgNX6C7eCycYwg.vXRMbuflQgqIW3EySMUJebGAPB2pY__qptKx1FiLSh0g.JPEG/KakaoTalk_20220404_051954033.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[안녕하세요 be my classic, 정은주입니다. 오늘은 화이트 데이라고 불리는 달콤한 날이죠? 이 글을 읽고 계신 분들 모두 오늘 하루 더 재미있고 건강하게 보내시길 바라요. 사실 사랑하는 사람에게는 언제 어디서라도 맛있는 걸 나눠주고 싶지요. 그런데 특별히 한 날짜를 정해 지금처럼 마음을 전하는 일이 된 것은 그래도 그럼에도 이런 날이 한 번쯤 필요하기 때문이 아닐까 생각]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTRfOTUg/MDAxNjQ3MjU2MTk2Nzcy.j5CHHcMBo1MJKw8wyFk7E8Pnz0jIdUwq-Tj6LbRqwccg.UzryOJTySrrtt_-cxduvTcTJoqMigeowpVr93XQWn1Eg.JPEG/%EC%A1%B0%EB%A5%B4%EC%A3%BC%EC%83%81%EB%93%9C%EC%99%80%EC%87%BC%ED%8C%BD.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🏆실패가 거의 없는, 유행을 타지 않는 ㅇㅇ메타 심층분석! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -849,12 +849,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjAz/MDAxNjQ4NjI0MDgzNDcy.8IUmOzYvbHVtSe3iMzZRG5aCJS3TrehoDHUyx7iNTXwg.A2dAzygcHC4ar6QKTfjy4l9mpTJJbSIpQoYtG4bJ8zgg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-03-30_%EC%98%A4%ED%9B%84_4.07.42.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[피카소와 쇼팽의 사랑을 떠올리며 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220314201053154pV</link>
-            <guid>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220314201053154pV</guid>
-            <pubDate>Sun, 10 Apr 2022 15:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 be my classic, 정은주입니다. 오늘은 화이트 데이라고 불리는 달콤한 날이죠? 이 글을 읽고 계신 분들 모두 오늘 하루 더 재미있고 건강하게 보내시길 바라요. 사실 사랑하는 사람에게는 언제 어디서라도 맛있는 걸 나눠주고 싶지요. 그런데 특별히 한 날짜를 정해 지금처럼 마음을 전하는 일이 된 것은 그래도 그럼에도 이런 날이 한 번쯤 필요하기 때문이 아닐까 생각]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTRfOTUg/MDAxNjQ3MjU2MTk2Nzcy.j5CHHcMBo1MJKw8wyFk7E8Pnz0jIdUwq-Tj6LbRqwccg.UzryOJTySrrtt_-cxduvTcTJoqMigeowpVr93XQWn1Eg.JPEG/%EC%A1%B0%EB%A5%B4%EC%A3%BC%EC%83%81%EB%93%9C%EC%99%80%EC%87%BC%ED%8C%BD.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[닻올린 PEF 출자사업, 큰손 '국민연금'이 움직였다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220401174857519Uj</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220401174857519Uj</guid>
+            <pubDate>Mon, 11 Apr 2022 05:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[투자업계에서 국내 최대 큰손은 단연 국민연금입니다. 국민연금이 올해 출자사업의 닻을 올리면서 사모투자펀드(PEF) 운용사들의 움직임도 분주해졌습니다. 올해 정기 출자사업에 참여하는 운용사들의 경쟁은 한층 치열해질 전망입니다. 출자 규모가 줄어들면서 위탁운용사 단 3곳만 출자를 받을 수 있기 때문입니다. 2020년과 2021년 각각 5곳, 4곳을 선정한 데 이어 올해 그 수가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDFfMTEz/MDAxNjQ4NzkzMTcyNjc3.KLAHg5ReCiYvU8fIXB3Ek5_Kta-6SDyOZ-ldWuAB7-Ig.u8XcE8AxRjbUTy_5rVWliKcUc8kfl5USB7GIEyrFO3Yg.JPEG/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88_02.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄날, 처음으로 강의를 엽니다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -865,12 +865,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjRfNzgg/MDAxNjQ4MTI0NDM4NTI2.h3ZgUn2d_QC2Lun09pU4YiAr1qiHK3Y4bzHrTY2i9LEg.MsBWe2mBthXN8lKH_nS-99Pr8cPSlDu2hK3j40c9wz8g.PNG/2022-03-24_(5).png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[닻올린 PEF 출자사업, 큰손 '국민연금'이 움직였다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220401174857519Uj</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220401174857519Uj</guid>
-            <pubDate>Mon, 11 Apr 2022 05:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[투자업계에서 국내 최대 큰손은 단연 국민연금입니다. 국민연금이 올해 출자사업의 닻을 올리면서 사모투자펀드(PEF) 운용사들의 움직임도 분주해졌습니다. 올해 정기 출자사업에 참여하는 운용사들의 경쟁은 한층 치열해질 전망입니다. 출자 규모가 줄어들면서 위탁운용사 단 3곳만 출자를 받을 수 있기 때문입니다. 2020년과 2021년 각각 5곳, 4곳을 선정한 데 이어 올해 그 수가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDFfMTEz/MDAxNjQ4NzkzMTcyNjc3.KLAHg5ReCiYvU8fIXB3Ek5_Kta-6SDyOZ-ldWuAB7-Ig.u8XcE8AxRjbUTy_5rVWliKcUc8kfl5USB7GIEyrFO3Yg.JPEG/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88_02.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[CEO의 지식] ②YS의 단순성 vs DJ의 복잡성 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220404133613460Aq</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220404133613460Aq</guid>
+            <pubDate>Mon, 11 Apr 2022 08:29:54 GMT</pubDate>
+            <content:encoded><![CDATA[단순성의 출발점은 버리는 것이다. 늙은 스님이 젊은 스님과 물을 건너던 때 이야기다.  마침 물 앞에서 여인이 동동거리고 있었다. 늙은 스님이 여인을 업고 건넜다.  한 시간, 두 시간, 세 시간··· 젊은 스님이 참다 참다 더 이상 참지 못하고 침묵을 깼다.  “승려는 여성과 접촉하면 안 됩니다. 어찌 그 여자를 업으셨습니까.”   늙은 스님은 전혀 당황하지 않고 말하셨다.  “]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDRfMjUx/MDAxNjQ5MDQ2NTc1Nzkw.Tso3pm3fHfZVoUSDbqHVBR08qaSwla19r1qjME46XUwg.6u7YnKleTbK878YhcCPpu1xnZW3a0jqf1kLNHP29X8wg.JPEG/1980.3.6._%EB%82%A8%EC%82%B0_%EC%99%B8%EA%B5%90%EA%B5%AC%EB%9D%BD%EB%B6%80,_%EC%96%91%EA%B9%80_%EC%98%A4%EC%B0%AC_%ED%9A%8C%EB%8F%99_resized.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
