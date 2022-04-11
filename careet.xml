@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 23:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 01:55:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[참여 허들 높은데도 1만 명 참여한 이벤트가 있다? Z세대가 칭찬한 브랜드 3]]></title>
+            <link>https://www.careet.net/709</link>
+            <guid>https://www.careet.net/709</guid>
+            <pubDate>Mon, 11 Apr 2022 01:54:18 GMT</pubDate>
+            <content:encoded><![CDATA[배스킨라빈스, SK온, 동대문엽기떡볶이 일 잘하네!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/6aa9c16e-ccb0-437f-920b-45f7fb935eff_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이게 이 사람이 만든 밈이었어?(feat. 박재범, BTS 정국, NCT 천러)]]></title>
             <link>https://www.careet.net/712</link>

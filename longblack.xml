@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-04-10T23:25:29.237Z</updated>
+    <updated>2022-04-11T01:55:50.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/257</id>
         <link href="https://www.longblack.co/note/257"/>
         <updated>2022-04-10T15:24:21.300Z</updated>
-        <content type="html"><![CDATA[계향각. 문 연지 4개월밖에 안 됐는데 연일 만석인 중식당이야. 오너 셰프는 신계숙 배화여대 교수. 맞아, 할리 데이비슨 타는 그 중년 여성 셰프야.계향<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[계향각. 문 연 지 4개월밖에 안 됐는데 연일 만석인 중식당이야. 오너 셰프는 신계숙 배화여대 교수. 맞아, 할리 데이비슨 타는 그 중년 여성 셰프야.계<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

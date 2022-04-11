@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 23:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 01:55:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6745?fr=category</guid>
             <pubDate>Tue, 29 Mar 2022 08:27:47 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 16분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[참여 허들 높은데도 1만 명 참여한 이벤트가 있다? Z세대가 칭찬한 브랜드 3 (캐릿)]]></title>
+            <link>https://www.careet.net/709</link>
+            <guid>https://www.careet.net/709</guid>
+            <pubDate>Mon, 11 Apr 2022 01:54:18 GMT</pubDate>
+            <content:encoded><![CDATA[배스킨라빈스, SK온, 동대문엽기떡볶이 일 잘하네!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/6aa9c16e-ccb0-437f-920b-45f7fb935eff_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이게 이 사람이 만든 밈이었어?(feat. 박재범, BTS 정국, NCT 천러) (캐릿)]]></title>
@@ -418,7 +426,7 @@
             <link>https://www.longblack.co/note/257</link>
             <guid>https://www.longblack.co/note/257</guid>
             <pubDate>Sun, 10 Apr 2022 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[계향각. 문 연지 4개월밖에 안 됐는데 연일 만석인 중식당이야. 오너 셰프는 신계숙 배화여대 교수. 맞아, 할리 데이비슨 타는 그 중년 여성 셰프야.계향<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[계향각. 문 연 지 4개월밖에 안 됐는데 연일 만석인 중식당이야. 오너 셰프는 신계숙 배화여대 교수. 맞아, 할리 데이비슨 타는 그 중년 여성 셰프야.계<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8년 넘은 '동대문 카카오톡', 신상마켓 성장 비하인드 (폴인)]]></title>
