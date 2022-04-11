@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 21:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 22:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -429,6 +429,14 @@
             <content:encoded><![CDATA[제가 캠핑에 도전하겠다고 말씀드린 적 있죠. 스노우피크<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[파인아트 김남표 작가가 본 미술 NFT 시장의 미래 (폴인)]]></title>
+            <link>https://www.folin.co/story/2155</link>
+            <guid>https://www.folin.co/story/2155</guid>
+            <pubDate>Mon, 11 Apr 2022 22:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[8년 넘은 '동대문 카카오톡', 신상마켓 성장 비하인드 (폴인)]]></title>
             <link>https://www.folin.co/story/2152</link>
             <guid>https://www.folin.co/story/2152</guid>
@@ -706,14 +714,6 @@
             <guid>https://www.folin.co/story/2107</guid>
             <pubDate>Tue, 15 Mar 2022 12:38:45 GMT</pubDate>
             <content:encoded><![CDATA[<li>공간</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에어비앤비가 발견한 '워케이션' 트렌드 3 (폴인)]]></title>
-            <link>https://www.folin.co/story/2103</link>
-            <guid>https://www.folin.co/story/2103</guid>
-            <pubDate>Tue, 15 Mar 2022 12:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>

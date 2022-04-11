@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-04-11T21:23:07.637Z</updated>
+    <updated>2022-04-11T22:23:39.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파인아트 김남표 작가가 본 미술 NFT 시장의 미래]]></title>
+        <id>https://www.folin.co/story/2155</id>
+        <link href="https://www.folin.co/story/2155"/>
+        <updated>2022-04-11T22:23:21.687Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8년 넘은 '동대문 카카오톡', 신상마켓 성장 비하인드]]></title>
         <id>https://www.folin.co/story/2152</id>
@@ -283,14 +291,6 @@
         <link href="https://www.folin.co/story/2107"/>
         <updated>2022-03-15T12:38:45.326Z</updated>
         <content type="html"><![CDATA[<li>공간</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어비앤비가 발견한 '워케이션' 트렌드 3]]></title>
-        <id>https://www.folin.co/story/2103</id>
-        <link href="https://www.folin.co/story/2103"/>
-        <updated>2022-03-15T12:38:45.327Z</updated>
-        <content type="html"><![CDATA[<li>라이프스타일</li>
                                 <li>워크</li>]]></content>
     </entry>
 </feed>
