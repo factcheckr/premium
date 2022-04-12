@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 03:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 04:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -725,12 +725,88 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Tue, 12 Apr 2022 01:50:37 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[곡물 가격 급등으로 식량 위기가 오고 있다. 푸드 테크는 식량난을 해결할 구원자가 될 것인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50068</link>
+            <guid>https://www.bookjournalism.com/books/50068</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[식량 안보의 딜레마]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 열한 번째 - MZ세대를 이해하고자 하는 시도부터 모순입니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50052</link>
+            <guid>https://www.bookjournalism.com/books/50052</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[세대 말고 시대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #31에선, 새 정부의 부동산 정책, 트위터 대주주가 된 일론 머스크, 미국에서 시작된 빅테크 노조 물결, 세계관 마케팅 전쟁에 돌입한 명품 브랜드의 전략을 살펴봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50042</link>
+            <guid>https://www.bookjournalism.com/audio/50042</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[구찌는 식당을 열고, 일론 머스크는 트위터를 사고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아마존 최초의 노조가 만들어졌다. 글로벌 기업의 노조 설립은 회사-노동자 구도의 변화를 가져올 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50015</link>
+            <guid>https://www.bookjournalism.com/books/50015</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[빅테크의 노동권]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일론 머스크가 트위터 최대 주주가 되었다. 트위터의 미래에는 어떤 변화가 예고되어 있는가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50002</link>
+            <guid>https://www.bookjournalism.com/books/50002</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[플랫폼이 필요해서 트위터 좀 샀어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[명품 브랜드가 F&B 사업에 뛰어든다. F&B는 왜 유용한 브랜딩 전략인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49984</link>
+            <guid>https://www.bookjournalism.com/books/49984</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[테이스트 오브 브랜드]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나 바이러스는 사람들을 차별하지 않는다. 그러나 팬데믹을 겪고 있는 사회의 차별은 다른 문제였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49886</link>
+            <guid>https://www.bookjournalism.com/books/49886</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 시대의 인종차별]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘서울의 30평대 아파트’라는 중산층의 꿈이 점점 멀어져 간다. 새 정부가 들어서면, 우리는 집을 살 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49959</link>
+            <guid>https://www.bookjournalism.com/books/49959</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[포기하면 편할까요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 열 번째 - 우리는 새로운 형태의 불의와 직면했음을 인정해야 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49894</link>
+            <guid>https://www.bookjournalism.com/books/49894</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 불의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #30에선, 소상공인 손실 보상의 함의, 항공우주청 설립, 중고차 시장 구조 조정, 성큼 다가온 로봇 시대를 살펴봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49924</link>
+            <guid>https://www.bookjournalism.com/audio/49924</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[우주로 향하는 한국, 소상공인 손실 보상은 저 너머에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대기업들이 너나없이 로봇 산업에 뛰어들고 있다. 미래는 이미 와 있는 걸까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49896</link>
+            <guid>https://www.bookjournalism.com/books/49896</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[삐빅, 로봇입니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대기업이 중고차 시장에 뛰어든다. 오토 금융도 요동친다. MZ의 선택은 어디로 향할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49889</link>
+            <guid>https://www.bookjournalism.com/books/49889</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[오토론 대전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일본 전국(戰國)시대 여성 성주의 생애 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -741,12 +817,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMTM1/MDAxNjQ4MTgxMDM5MDEy.L3gSrODF9tcCLQfyf8xIJCNxHfZLuwkRBO0V-o3WQWog.Lkt6SSlpCnnyRlRAzdbygyKnTphDJU58BR0vlkeMERIg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(11).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이 길이 끝나는 곳에 희망이 있다. ─ 영화, <노매드랜드> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220403181616591zX</link>
-            <guid>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220403181616591zX</guid>
-            <pubDate>Mon, 11 Apr 2022 15:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[모두가 예상했듯이, 2021년 아카데미 작품상은 &lt;노매드랜드&gt;가 수상했다. 작품상 뿐만아니라, 감독상과 여우조연상 등을 수상하며 이 작품이 다방면으로 훌륭한 작품임을 입증하기도 했다. 아카데미 삼관왕에 빛나는 &lt;노매드랜드&gt;는 미국사회의 현실을 고발하는 제시카 브루더가 쓴 동명의 르포 &lt;노매드랜드&gt;를 재해석한 작품인데, 이 영화의 탁월함은 르포를 재해석한 그 방식에]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDNfMTE3/MDAxNjQ4OTc2NjI1MzIx.IFml2sawQPyeRUjKs0-7xFKPMu5p3Nhnp5HJCSFvLEgg.RTVe3WCPdyLcowWczgBcCzRTO0KoFzmk8mxhADYC-Twg.JPEG/common_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Tue, 12 Apr 2022 01:50:37 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[경제뉴스] 월요일 개장에 맞춰 알아야 할 5가지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -757,12 +833,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDRfMjMg/MDAxNjQ5MDg0MTQ3NDI5.nWhJnylfeKh9jf__cVoIcGdB8gS0Z2iEw8QmZwq_xg0g.rhcWcU2Jx_ttc3QUncV_yoIuE5zOo7aHTAkQxVseR34g.JPEG/LXPC7SPZABOYRMPIOLHKJRKY3A.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [38일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220405052717474TW</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220405052717474TW</guid>
+            <title><![CDATA[이 길이 끝나는 곳에 희망이 있다. ─ 영화, <노매드랜드> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220403181616591zX</link>
+            <guid>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220403181616591zX</guid>
             <pubDate>Mon, 11 Apr 2022 15:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [38일차] 굿모닝러너님, 아무것도 하지 않는 것보다 작은 행동이라도 시작하면 어느새 내가 원하는 사람이 될 수 있어요. 오늘 하루, 책 1장 읽기, 5분 걷기 등 작은 도전을 성공해보세요 :)  굿모닝러너_챌린지_38일차 #20220405 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDVfMTYz/MDAxNjQ5MTAzOTk2OTA0.ybdPQCsx2T8sw6GDXelR1amEFZ5N-AGctqGdpMHveTog.lXTwgzMlY75y_CNOdAKv1-w-y46Y0CCTmS6KlpgQLHog.JPEG/KakaoTalk_20220405_052142625.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[모두가 예상했듯이, 2021년 아카데미 작품상은 &lt;노매드랜드&gt;가 수상했다. 작품상 뿐만아니라, 감독상과 여우조연상 등을 수상하며 이 작품이 다방면으로 훌륭한 작품임을 입증하기도 했다. 아카데미 삼관왕에 빛나는 &lt;노매드랜드&gt;는 미국사회의 현실을 고발하는 제시카 브루더가 쓴 동명의 르포 &lt;노매드랜드&gt;를 재해석한 작품인데, 이 영화의 탁월함은 르포를 재해석한 그 방식에]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDNfMTE3/MDAxNjQ4OTc2NjI1MzIx.IFml2sawQPyeRUjKs0-7xFKPMu5p3Nhnp5HJCSFvLEgg.RTVe3WCPdyLcowWczgBcCzRTO0KoFzmk8mxhADYC-Twg.JPEG/common_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["세계는 지금 3차 오일쇼크로 가는 길 위에 서 있다!" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -773,12 +849,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDRfMTk1/MDAxNjQ5MDQxNDA4MzIx.F1e1ZulM4OqJ0wyjnUKmOnqP7D553M57NYDc4OI3P4sg.JJKOlCEBBmmkwMI29B3HGpBYMhO_nMNCQljlbF1FpNsg.JPEG/%EB%A1%9C%EB%B2%84%ED%8A%B8_%EB%A7%A5%EB%84%90%EB%A6%AC.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3년 동안...머선일이고? 미국 시가총액 TOP10 순위 변화는? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220405105303464oN</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220405105303464oN</guid>
+            <title><![CDATA[굿모닝러너 챌린지 [38일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220405052717474TW</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220405052717474TW</guid>
             <pubDate>Mon, 11 Apr 2022 15:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[시총의 순위변화를 보면 주가 흐름을 알 수 있다? 애플은 시가총액 3조달러가 눈앞! 테슬라는 다시 천슬라! 미국주식은? 이제 시작! *데이터 수정하여 재업로드합니다. #현재미국주식흐름 #시가총액순위  현재 시가총액 TOP5 1위, 애플(AAPL)의 진단점수는? ☞ 클릭 2위, 마이크로소프트(MSFT)의 진단점수는? ☞ 클릭 3위, 구글(GOOGL)의 진단점수는? ☞ 클릭 4위, 아마존(AMZN)의 진단점수는?]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfNzIg/MDAxNjQ5MjI4NjA5ODMy.mkE-slySkT0DBAkvGvaHxnXowLnfN0ZCBNHRviIAStYg.Cgs14jHh_BR4HiGSvf2xj22BM0znyCs9cwRQ5Jee2w0g.PNG/2.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [38일차] 굿모닝러너님, 아무것도 하지 않는 것보다 작은 행동이라도 시작하면 어느새 내가 원하는 사람이 될 수 있어요. 오늘 하루, 책 1장 읽기, 5분 걷기 등 작은 도전을 성공해보세요 :)  굿모닝러너_챌린지_38일차 #20220405 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDVfMTYz/MDAxNjQ5MTAzOTk2OTA0.ybdPQCsx2T8sw6GDXelR1amEFZ5N-AGctqGdpMHveTog.lXTwgzMlY75y_CNOdAKv1-w-y46Y0CCTmS6KlpgQLHog.JPEG/KakaoTalk_20220405_052142625.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당재투유무만 기억하세요~ 기업의 재무상태표 쉽게 읽기~ (feat. 애플) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -789,12 +865,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDVfMTc2/MDAxNjQ5MTE1ODc1MTA5.GadzQsy7X5fQ0iiLZs6o5SwIIdqxG0vH8fDvHQ3iWPQg.MdJgz1EpjVa6RJxsXFA7zmjpggOWfIGXZ01ENFiTD-kg.JPEG/headway-5QgIuuBxKwM-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다빈치 리졸브 필터 (모자이크, 블러) 적용 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/videocoach/videocoach80/contents/220405163210245Ua</link>
-            <guid>https://contents.premium.naver.com/videocoach/videocoach80/contents/220405163210245Ua</guid>
+            <title><![CDATA[3년 동안...머선일이고? 미국 시가총액 TOP10 순위 변화는? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220405105303464oN</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220405105303464oN</guid>
             <pubDate>Mon, 11 Apr 2022 15:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[다빈치 리졸브에서 모자이크나 블러 같은 필터를 적용하는 방법입니다. 필터는 effect library에서 filters를 선택하면 여러 필터 종류가 나오는데 역시 마우스를 가져다 대면 미리보기가 가능합니다.  만일, 모자이크 필터를 적용하고 싶으면 필터 선택 후에 드래그 하여 적용하고 싶은 비디오 클립에 위치시킵니다.  그러면 이렇게 모자이크 필터가 화면에 적용이 되고 우측 상단에]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDVfMjIz/MDAxNjQ5MTQzNjkyNTA0.LdGz8fM9B-niS6yToNluxDohtyUODrhU__t4l_s6Mhgg.Hp5LDLz2JDHIvwgFjrFDWP4-m8UotNMoWQJQgb4miE4g.JPEG/%ED%95%84%ED%84%B0_01_1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[시총의 순위변화를 보면 주가 흐름을 알 수 있다? 애플은 시가총액 3조달러가 눈앞! 테슬라는 다시 천슬라! 미국주식은? 이제 시작! *데이터 수정하여 재업로드합니다. #현재미국주식흐름 #시가총액순위  현재 시가총액 TOP5 1위, 애플(AAPL)의 진단점수는? ☞ 클릭 2위, 마이크로소프트(MSFT)의 진단점수는? ☞ 클릭 3위, 구글(GOOGL)의 진단점수는? ☞ 클릭 4위, 아마존(AMZN)의 진단점수는?]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfNzIg/MDAxNjQ5MjI4NjA5ODMy.mkE-slySkT0DBAkvGvaHxnXowLnfN0ZCBNHRviIAStYg.Cgs14jHh_BR4HiGSvf2xj22BM0znyCs9cwRQ5Jee2w0g.PNG/2.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공연장에서 악보 꺼내 읽는 여성, 누굴까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220405100700111Vd</link>
+            <guid>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220405100700111Vd</guid>
+            <pubDate>Tue, 12 Apr 2022 04:29:53 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 제가 톱클래스 '토프'에 연재 중인 칼럼 &lt;정은주의 클래식 디저트&gt;에 글을 올렸습니다. 이번 칼럼이 32번째 칼럼인데요. 언젠가 칼럼을 모두 엮어 책으로 만들면 어떨까 하는 바람도 있어요. 일단 열심히 쓰면 언젠가 결실을 볼 수도 있겠죠.!  올해 탄생 200주년을 맞은 프랑스의 오르가니스트이자 음악가인 세자르 프랑크에 대한 이야기를 썼는데요. 저는 음악가들의 음악]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDVfMzcg/MDAxNjQ5MTE5ODk4MTI1.WDzVoAojA8SWhE-aIRffOFyuzYq9ZTG-yLJh5-b1mN4g.YRvZppaemdxoNSpgvQKxmdrasU5q6veo_kZoQmdWSuQg.JPEG/la-musique-de.chambre-de-cesar-franck.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
