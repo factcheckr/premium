@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-04-12T07:24:28.750Z</updated>
+    <updated>2022-04-12T08:30:26.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[웹툰] 대퇴사의 시대, 출근길에 오르는 마음]]></title>
+        <id>https://publy.co/content/6780?fr=category</id>
+        <link href="https://publy.co/content/6780?fr=category"/>
+        <updated>2022-04-12T08:28:34.571Z</updated>
+        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어느 날 팀원이 퇴사하겠다고 말했다 (feat. 팀장의 대처법)]]></title>
         <id>https://publy.co/content/6751?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6753?fr=category"/>
         <updated>2022-03-30T08:28:12.901Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발 시간 줄여주는 노하우: 주석 쓰기 편]]></title>
-        <id>https://publy.co/content/6754?fr=category</id>
-        <link href="https://publy.co/content/6754?fr=category"/>
-        <updated>2022-03-29T08:27:47.601Z</updated>
-        <content type="html"><![CDATA[아티클 · 6분 분량]]></content>
     </entry>
 </feed>

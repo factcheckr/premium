@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 07:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 08:30:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰] 대퇴사의 시대, 출근길에 오르는 마음 (퍼블리)]]></title>
+            <link>https://publy.co/content/6780?fr=category</link>
+            <guid>https://publy.co/content/6780?fr=category</guid>
+            <pubDate>Tue, 12 Apr 2022 08:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[어느 날 팀원이 퇴사하겠다고 말했다 (feat. 팀장의 대처법) (퍼블리)]]></title>
             <link>https://publy.co/content/6751?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6753?fr=category</guid>
             <pubDate>Wed, 30 Mar 2022 08:28:12 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[개발 시간 줄여주는 노하우: 주석 쓰기 편 (퍼블리)]]></title>
-            <link>https://publy.co/content/6754?fr=category</link>
-            <guid>https://publy.co/content/6754?fr=category</guid>
-            <pubDate>Tue, 29 Mar 2022 08:27:47 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 6분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대 73% “코로나 이후, 지출에서 가장 큰 부분 차지하던 품목이 달라졌다” (캐릿)]]></title>
