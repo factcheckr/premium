@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 05:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 06:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 73% “코로나 이후, 지출에서 가장 큰 부분 차지하던 품목이 달라졌다”]]></title>
+            <link>https://www.careet.net/714</link>
+            <guid>https://www.careet.net/714</guid>
+            <pubDate>Tue, 12 Apr 2022 06:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[미래 소비 주역! Z세대 500인 설문조사한 데이터 공개합니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/8ded7275-f3d8-43cd-8ea0-b5f08248cccf_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이력서에 MBTI 적어서 내는 거 어떻게 생각해? Z세대 500명에게 물었습니다.]]></title>
             <link>https://www.careet.net/713</link>
