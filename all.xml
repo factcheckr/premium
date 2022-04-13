@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 11:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 12:40:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -825,14 +825,6 @@
             <content:encoded><![CDATA[우주로 향하는 한국, 소상공인 손실 보상은 저 너머에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기업의 미래 재정능력을 보여주는 '현금흐름' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220211162401489PY</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220211162401489PY</guid>
-            <pubDate>Tue, 12 Apr 2022 15:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[사람의 혈관에 콜레스테롤이 과도하게 쌓이면 혈액의 순환이 막혀 사망에 이르기도 한다. 이처럼 회사도 현금이 돌지 않으면 영업을 지속할 수 없어 결국엔 파산할 수밖에 없다. 회사가 현금을 소중히 여기는 것은 당연하다. 은행에서 돈을 빌리거나 회사채 발행을 통해 확보한 자금은 만기가 되면 상환해야 하고 불확실한 상황에 대비해 어느 정도의 현금을 보유하고 있어야 한]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTFfMjE3/MDAxNjQ0NTY0MTE4MTM2.vJ8DH2YdkIgzTWP5fLvXfV_LPMoD7IaEpQ3gG-hdeRog.UXVWrXK7vPXp0qlnsQ3153nHeOvdpQE93DVgJhQBdT4g.JPEG/GettyImages-528492252.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[잠깐의 위로] 머릿 속 과부하가 걸렸을 때 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/littlemiracle/littlemiracle13/contents/220406010405824pM</link>
             <guid>https://contents.premium.naver.com/littlemiracle/littlemiracle13/contents/220406010405824pM</guid>
@@ -841,12 +833,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTE0/MDAxNjQ5MTczMjUzMDc0.jNIjgeHWNk8k8havvJuio1AcW73kQXh4HnRQt-kyd8Qg.e_5mmVXVCkEMhzb4KXQLwrlhkpf_qX9aacOlTwKQSKgg.JPEG/%EC%82%AC%EC%A7%84.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Tue, 12 Apr 2022 01:50:37 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[기업의 미래 재정능력을 보여주는 '현금흐름' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220211162401489PY</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220211162401489PY</guid>
+            <pubDate>Tue, 12 Apr 2022 15:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[사람의 혈관에 콜레스테롤이 과도하게 쌓이면 혈액의 순환이 막혀 사망에 이르기도 한다. 이처럼 회사도 현금이 돌지 않으면 영업을 지속할 수 없어 결국엔 파산할 수밖에 없다. 회사가 현금을 소중히 여기는 것은 당연하다. 은행에서 돈을 빌리거나 회사채 발행을 통해 확보한 자금은 만기가 되면 상환해야 하고 불확실한 상황에 대비해 어느 정도의 현금을 보유하고 있어야 한]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTFfMjE3/MDAxNjQ0NTY0MTE4MTM2.vJ8DH2YdkIgzTWP5fLvXfV_LPMoD7IaEpQ3gG-hdeRog.UXVWrXK7vPXp0qlnsQ3153nHeOvdpQE93DVgJhQBdT4g.JPEG/GettyImages-528492252.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[👁[외신이 보는 한국] 왜 이렇게 많은 한국 아이들이 외국에 입양되었을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -857,12 +849,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMjE3/MDAxNjQ5MjA0MzEzMjcz.PbIs7KbJ-bCJPNzOyIywy_Z66XZXNTlpuZ66HGvCAFog.M7fetpJocTmr4Cd0MoS1Qc1s_oM4DoRI-18sG3RWPYwg.JPEG/dfdfdfdfd.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[거닐고 사유하고: 한국 첫 개인전을 여는 해외 작가들 그리고 유럽 현대 미술과 마주하다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220302185902376oH</link>
-            <guid>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220302185902376oH</guid>
-            <pubDate>Tue, 12 Apr 2022 15:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022. 2. 24 - 4. 16 수렴 Convergence  타데우스 로팍 서울 포트힐 | 서울 용산구 독서당로 122-1 2층 (한남동) 영국 현대미술가 제이슨 마틴Jason Martin 개인전 &lt;수렴 Convergence&gt;이 4월 16일까지 한남동 타데우스 로팍 서울에서 열린다. 마틴은 1997년 ‘젊은 영국 아티스트(YBAs, Young British Artists)’를 탄생시킨 전설적인 전시 &lt;센세이션 Sensation: Young British Artists from Saatchi Collection&gt;에 참여하며 작가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDJfMTIy/MDAxNjQ2MjEyODgyMjU5.nYZGkk9TI3PN4JOZ4bSRg7yIrDLjGP63qV159jYDhWog.gpngwYtgCM_dU8gBql_BXOFJNrGI20sCYH8bhtk2pCcg.JPEG/LP_portrait_2022_by_Brian_Guido_04_hr.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Tue, 12 Apr 2022 01:50:37 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[금융투자소득, 넌 누규? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -873,12 +865,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTcz/MDAxNjQ5MjA4OTE1OTA1.xcyUlZG2W8NpdEDMbiuBjPkeVpaxtRCgxmHwRgptQpYg.FlOswmwAyUjXO184nDDaOCGo1FzGHgJAKYg9pX691Gog.PNG/post_210722_1.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [39일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220406054143820YD</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220406054143820YD</guid>
+            <title><![CDATA[거닐고 사유하고: 한국 첫 개인전을 여는 해외 작가들 그리고 유럽 현대 미술과 마주하다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220302185902376oH</link>
+            <guid>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220302185902376oH</guid>
             <pubDate>Tue, 12 Apr 2022 15:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [39일차] 굿모닝러너님, 어제의 나쁜 기억이 있었다면 금방 사라져 버릴 일이니 훌훌 털어버리시고, 꾸준히 자신을 관리하면서  새로운 오늘을 시작해보세요 ~ 더 멋진 일이 나에게 다가올거에요 :)  굿모닝러너_챌린지_39일차 #20220406 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMjc5/MDAxNjQ5MTkxMjY1OTIz.okJFUZFoz7BtMtvzHOEb0_KKTsNJ4k7Eo2lhGgo-I4Qg.E7q79AR_fc5Q90M1QEZ-E_yZRkiMKVcafemJSidY5vYg.JPEG/KakaoTalk_20220406_053632496.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022. 2. 24 - 4. 16 수렴 Convergence  타데우스 로팍 서울 포트힐 | 서울 용산구 독서당로 122-1 2층 (한남동) 영국 현대미술가 제이슨 마틴Jason Martin 개인전 &lt;수렴 Convergence&gt;이 4월 16일까지 한남동 타데우스 로팍 서울에서 열린다. 마틴은 1997년 ‘젊은 영국 아티스트(YBAs, Young British Artists)’를 탄생시킨 전설적인 전시 &lt;센세이션 Sensation: Young British Artists from Saatchi Collection&gt;에 참여하며 작가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDJfMTIy/MDAxNjQ2MjEyODgyMjU5.nYZGkk9TI3PN4JOZ4bSRg7yIrDLjGP63qV159jYDhWog.gpngwYtgCM_dU8gBql_BXOFJNrGI20sCYH8bhtk2pCcg.JPEG/LP_portrait_2022_by_Brian_Guido_04_hr.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[전통 금융권도 워라밸 실현이 가능하다고? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -889,12 +881,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMjky/MDAxNjQ5MjEwMDMyNTg2.cSKcbeJ_F8VJCWo1nXDduHbLu8CkKAwhIlJUj4m-8W4g.P62NMzHysAYJ6t8IBFcEQ9QS4P2cxAyOVXKIq0nh_nQg.JPEG/bacard_camp.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[차용증을 활용한 절세법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxnet/taxnetpremium/contents/220406102442371JA</link>
-            <guid>https://contents.premium.naver.com/taxnet/taxnetpremium/contents/220406102442371JA</guid>
-            <pubDate>Wed, 13 Apr 2022 10:28:01 GMT</pubDate>
-            <content:encoded><![CDATA[최근 부동산가격이 끝을 모르고 오르고 있습니다. 내 집을 갖고 있는 사람은 그나마 안심이지만, 이제 막 취업한 자녀, 결혼을 앞두고 있는 자녀를 둔 부모는 걱정이 많습니다. 자녀들이 직장에서 받는 월급만으로는 내 집을 만들 수 없는 세상이 되었기 때문입니다. 이런 어려운 현실 속에서 자녀들에게 집을 마련해주고 싶은 부모가 합법적인 방법으로 도움을 줄 수 있는 방법]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfNzgg/MDAxNjQ5MjA3MzY3ODAz.emtBMlgH8mPv8GMNi8smppho4eogpEcoc3_sqPztJBIg.jG-_wEXeZYBHHRoJJlzXMgWwR6l0uATVHm6UHg-Vw9wg.JPEG/post_210927_1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[굿모닝러너 챌린지 [39일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220406054143820YD</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220406054143820YD</guid>
+            <pubDate>Tue, 12 Apr 2022 15:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [39일차] 굿모닝러너님, 어제의 나쁜 기억이 있었다면 금방 사라져 버릴 일이니 훌훌 털어버리시고, 꾸준히 자신을 관리하면서  새로운 오늘을 시작해보세요 ~ 더 멋진 일이 나에게 다가올거에요 :)  굿모닝러너_챌린지_39일차 #20220406 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMjc5/MDAxNjQ5MTkxMjY1OTIz.okJFUZFoz7BtMtvzHOEb0_KKTsNJ4k7Eo2lhGgo-I4Qg.E7q79AR_fc5Q90M1QEZ-E_yZRkiMKVcafemJSidY5vYg.JPEG/KakaoTalk_20220406_053632496.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 상원, 헌터 바이든 금융기록 공개...中 공산당 밀접 기업서 거액 수취 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220407052128167hz</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220407052128167hz</guid>
+            <pubDate>Wed, 13 Apr 2022 12:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[Senators Release Bank Records Showing Payments to Hunter Biden From China 美 상원, 헌터 바이든 금융기록 공개...中 공산당 밀접 기업서 거액 수취 Newly released bank records show that payments were made to President Joe Biden’s son from a Chinese Communist Party-linked company. 미국 조 바이든 대통령의 차남 헌터 바이든이 중국 공산당과 연계된 기업으로부터 거액을 송금받았다는 은행 기록이 새롭게 공개됐다. Sens. Chuck Gra]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDdfMTkw/MDAxNjQ5Mjc2MTk2NTEy.Gm0AjP3s9yDLxSvkzF4ytM2vuYZfMOPgCfrBOhdIiI0g.of9se7apRXOJHG3ogYX3-MSzGUjPMBbTeoOlO26VOWYg.JPEG/hunter-biden-1200x800-795x447.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
