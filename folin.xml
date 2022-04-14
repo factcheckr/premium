@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-04-14T04:29:13.818Z</updated>
+    <updated>2022-04-14T05:23:15.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SK 이동훈 부사장이 말하는 '진정한 경제적 자유'란]]></title>
+        <id>https://www.folin.co/story/2158</id>
+        <link href="https://www.folin.co/story/2158"/>
+        <updated>2022-04-14T05:22:56.526Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대형 로펌 12년 차 변호사, 싱가포르로 떠난 이유는?]]></title>
+        <id>https://www.folin.co/story/2157</id>
+        <link href="https://www.folin.co/story/2157"/>
+        <updated>2022-04-14T05:22:56.527Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치과의사->창업가 닥터노아 박근우 대표 인터뷰]]></title>
         <id>https://www.folin.co/story/2149</id>
@@ -276,21 +292,5 @@
         <updated>2022-03-15T12:38:45.321Z</updated>
         <content type="html"><![CDATA[<li>공간</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강력한 마켓 파워 지닌 요즘 5060의 영수증]]></title>
-        <id>https://www.folin.co/story/2101</id>
-        <link href="https://www.folin.co/story/2101"/>
-        <updated>2022-03-15T12:38:45.322Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컬리·야놀자 주식 거래를 가능케 한 '서울거래 비상장']]></title>
-        <id>https://www.folin.co/story/2109</id>
-        <link href="https://www.folin.co/story/2109"/>
-        <updated>2022-03-15T12:38:45.325Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>스타트업</li>]]></content>
     </entry>
 </feed>
