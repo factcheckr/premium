@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 07:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 08:31:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1:1 어떻게 잘할까? 가이드와 상황별 질문 FAQ 다 드림 (퍼블리)]]></title>
+            <link>https://publy.co/content/6744?fr=category</link>
+            <guid>https://publy.co/content/6744?fr=category</guid>
+            <pubDate>Thu, 14 Apr 2022 08:30:34 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[모나미 & 공부왕 찐천재 협업 비하인드: 윈윈하는 콜라보의 시작과 끝은 '고객' (퍼블리)]]></title>
             <link>https://publy.co/content/6759?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6738?fr=category</guid>
             <pubDate>Fri, 01 Apr 2022 08:28:38 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다름을 충돌로 만들지 않는 서비스 기획자의 노하우 (퍼블리)]]></title>
-            <link>https://publy.co/content/6752?fr=category</link>
-            <guid>https://publy.co/content/6752?fr=category</guid>
-            <pubDate>Thu, 31 Mar 2022 08:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이렇게 만들면 Z세대가 봐준다고? 요즘 뜨는 숏폼 장인.zip (캐릿)]]></title>
@@ -477,7 +477,7 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[치과의사->창업가 닥터노아 박근우 대표 인터뷰 (폴인)]]></title>
+            <title><![CDATA[치과의사→ 창업가 닥터노아 박근우 대표 인터뷰 (폴인)]]></title>
             <link>https://www.folin.co/story/2149</link>
             <guid>https://www.folin.co/story/2149</guid>
             <pubDate>Wed, 13 Apr 2022 07:23:21 GMT</pubDate>
@@ -749,14 +749,6 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Thu, 14 Apr 2022 04:29:13 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[메리 크리스마스 미스터 모 (2017) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220224175732701Nw</link>
             <guid>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220224175732701Nw</guid>
@@ -765,12 +757,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjRfMjAg/MDAxNjQ1NjkyMTc3NTQx.0S7rkIxcnHQHA7c5ZxjrqM9w1bYAsFDQdpyon7smE60g.kC1j5Tqm-pOpImVot3zjvsJFnfGrCu5MCPNhkb3fhXAg.JPEG/%EB%A9%94%EB%A6%AC_%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4_%EB%AF%B8%EC%8A%A4%ED%84%B0_%EB%AA%A8_1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[중3-1] 실수와 그 연산 문제 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/spring/springhascome/contents/220404210723351PE</link>
-            <guid>https://contents.premium.naver.com/spring/springhascome/contents/220404210723351PE</guid>
-            <pubDate>Wed, 13 Apr 2022 20:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요? Spring입니다. 오랜만에 업로드를 하게 되었습니다. 그동안 너무 많은 일들을 겪게 되어 한동안 글을 쓰지 못하고 있었습니다. 오늘은 무료로 문제를 제공해드리려고 합니다. 답지가 필요하신 분은 비밀댓글로 메일 주소를 남겨주시면 보내드리겠습니다.]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTNfMjY0/MDAxNjQ5ODUzOTI4MDQ5.2FN4a0OeunKr8QctCWgPYNXfXqZMIv3roZnOTMB5AdEg.c6r6oVDXpz-OqNFvxwxMRzQfMJOflX-D90flpxHFQ5wg.PNG/%EC%A4%913-1_%EC%A7%80%ED%95%84%ED%8F%89%EA%B0%80_1%EB%8B%A8%EC%9B%90.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Thu, 14 Apr 2022 04:29:13 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쇼핑몰 아닙니다, 병원입니다…의사가 직접 지었어요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -781,12 +773,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMjU2/MDAxNjQ4MTk3NDQ4Mzc4.NoF1iNfIFIOrh-r0VzLmijLlEIOxPLEyk6brz93o-ukg.mjZgLTfd92aTPX1jggFCjHGW_27skvao_oSmk25_c50g.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자금출처조사, 딱 걸린 신혼부부들의 사례는 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220406162842366uc</link>
-            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220406162842366uc</guid>
-            <pubDate>Wed, 13 Apr 2022 15:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[내 집 마련을 하는 신혼부부라면 집을 사는 데 마련한 자금 출처를 밝히는 '자금조달계획서'를 작성해야 하는데요. 이 정도면 자금조달계획서를 잘 썼으니까 문제가 없을 거라 생각했지만 국세청의 자금출처조사 대상으로 선정돼 예상치 못한 상황에 맞닥뜨리는 일이 벌어지기도 합니다. 국세청의 레이더에 포착된 신혼부부의 자금출처조사 사례에는 어떤 것들이 있을까요. 세]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfNzkg/MDAxNjQ5MjI5OTUxOTc3.8ZSQsWo84mTw6FhLFjfp2sZfYMEItQIt97SD77Zit4Ug.Kh9nU9CslJEQHQNImZv1CdkP_Sy0uVGW2vxhNswvfUwg.JPEG/25f7a8fc8926a85bac9873b22b0ceba0.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[[중3-1] 실수와 그 연산 문제 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/spring/springhascome/contents/220404210723351PE</link>
+            <guid>https://contents.premium.naver.com/spring/springhascome/contents/220404210723351PE</guid>
+            <pubDate>Wed, 13 Apr 2022 20:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요? Spring입니다. 오랜만에 업로드를 하게 되었습니다. 그동안 너무 많은 일들을 겪게 되어 한동안 글을 쓰지 못하고 있었습니다. 오늘은 무료로 문제를 제공해드리려고 합니다. 답지가 필요하신 분은 비밀댓글로 메일 주소를 남겨주시면 보내드리겠습니다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTNfMjY0/MDAxNjQ5ODUzOTI4MDQ5.2FN4a0OeunKr8QctCWgPYNXfXqZMIv3roZnOTMB5AdEg.c6r6oVDXpz-OqNFvxwxMRzQfMJOflX-D90flpxHFQ5wg.PNG/%EC%A4%913-1_%EC%A7%80%ED%95%84%ED%8F%89%EA%B0%80_1%EB%8B%A8%EC%9B%90.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[신혼집 마련 자금, 증여받을까 빌릴까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -797,12 +789,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMTE5/MDAxNjQ4NjExMDU5Nzc3.iXmmFfiYnvr5sV7rRFUbhzOQ3rccGi_nPCf0qXw7re0g.VRSPC2qikqr3QV4HIHOzRQypfL6cz2d7nT1C7Y86mj4g.JPEG/%C3%AB%C2%9D%C2%BC%C3%AB%C2%B0%C2%A9_2%C3%AD%C2%83%C2%84_%C3%AC%C2%8B%C2%A0%C3%AD%C2%98%C2%BC%C3%AB%C2%B6%C2%80%C3%AB%C2%B6%C2%80%C3%AC%C2%A6%C2%9D%C3%AC%C2%97%C2%AC%C3%AC%C2%84%C2%B8_1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [40일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220407052659693zJ</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220407052659693zJ</guid>
+            <title><![CDATA[자금출처조사, 딱 걸린 신혼부부들의 사례는 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220406162842366uc</link>
+            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220406162842366uc</guid>
             <pubDate>Wed, 13 Apr 2022 15:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [40일차] 굿모닝러너님, 혹시 잊고 있었던 꿈이 있으신가요? 오늘 하루, 그 꿈을 향한 다시 여정을 시작해보세요. 언젠가 꼭 이루어질거에요 :)   굿모닝러너_챌린지_40일차 #20220407 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록 예시) 닉]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDdfOTIg/MDAxNjQ5Mjc2Nzc4Mzcz.S2-1WKFaDn-yfU_La_WYHgUBXQz93AN1yojATdz4DxQg.GZUHa9SMJ6c_oUkb5y34G5RYf8yPOsJYvVXboXqnDCkg.JPEG/KakaoTalk_20220407_052506886.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[내 집 마련을 하는 신혼부부라면 집을 사는 데 마련한 자금 출처를 밝히는 '자금조달계획서'를 작성해야 하는데요. 이 정도면 자금조달계획서를 잘 썼으니까 문제가 없을 거라 생각했지만 국세청의 자금출처조사 대상으로 선정돼 예상치 못한 상황에 맞닥뜨리는 일이 벌어지기도 합니다. 국세청의 레이더에 포착된 신혼부부의 자금출처조사 사례에는 어떤 것들이 있을까요. 세]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfNzkg/MDAxNjQ5MjI5OTUxOTc3.8ZSQsWo84mTw6FhLFjfp2sZfYMEItQIt97SD77Zit4Ug.Kh9nU9CslJEQHQNImZv1CdkP_Sy0uVGW2vxhNswvfUwg.JPEG/25f7a8fc8926a85bac9873b22b0ceba0.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[과일을 누구에게 팔것인가? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -813,12 +805,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMjE0/MDAxNjQ3NTA3NDcwMjAy.N9TNnlsi5thD8SyTejRLpHs4hOkWWgn0VwlzsSqi3e8g.9VwJGqNz637046VQIe--KqfoipOZS2QeQugA5Cpujnog.PNG/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94____%EB%B3%B5%EC%82%AC%EB%B3%B8-001_(5).png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[배당주 실험] 별거 다 만드는 회사! 배당과 성장, 두마리 토끼를 잡은 배당킹? - 3M (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220407083033889Iv</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220407083033889Iv</guid>
-            <pubDate>Thu, 14 Apr 2022 07:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[배당공격수, 미드필더, 골키퍼 등 투자 성향에 맞는 배당주를~ 매월 어떤 배당주를 사야할지 고민했다면? 지금 영상을 주목하세요! 미식가가 선정한 4월 배당매력주 ● 배당 골키퍼 : 3M (MMM) 배당주 골키퍼의 특징 보수적인 투자자나 매월 안정적인 현금 수입이 필요한 은퇴자에게 적합 배당률 3% ~ 8% 주가 변동성이 낮아 투자자가 편안하게 장기 투자가 가능하도록 함 부동산 임대]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMjE1/MDAxNjQ5MjEwMTQxNTEz.P1c0j1w9oWGqTxBWsf6s8rsegb9sb3ga4566oYzhCfgg.EGVeJazGaodY7why7hZ432UHKaSwdCI5O7yEPkr-6_gg.JPEG/cetteup-IC5sX-7PRN8-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[굿모닝러너 챌린지 [40일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220407052659693zJ</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220407052659693zJ</guid>
+            <pubDate>Wed, 13 Apr 2022 15:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [40일차] 굿모닝러너님, 혹시 잊고 있었던 꿈이 있으신가요? 오늘 하루, 그 꿈을 향한 다시 여정을 시작해보세요. 언젠가 꼭 이루어질거에요 :)   굿모닝러너_챌린지_40일차 #20220407 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록 예시) 닉]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDdfOTIg/MDAxNjQ5Mjc2Nzc4Mzcz.S2-1WKFaDn-yfU_La_WYHgUBXQz93AN1yojATdz4DxQg.GZUHa9SMJ6c_oUkb5y34G5RYf8yPOsJYvVXboXqnDCkg.JPEG/KakaoTalk_20220407_052506886.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료 20팀 모집] 창업 마인드셋 챌린지 2기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/fruitmaketer/fruit/contents/220310200613622sB</link>
+            <guid>https://contents.premium.naver.com/fruitmaketer/fruit/contents/220310200613622sB</guid>
+            <pubDate>Thu, 14 Apr 2022 08:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[쪽지, 댓글, 메일을 통해 정말 많은 예비 사장님들께서 연락을 주셨습니다. ​ 간단한 문의 부터 창업에 관한 컨설팅까지도, 정말 많은 문의를 주셨습니다. ​​ 저는 아무것도 아닙니다. 다만, 저의 조언으로 인해 헤메이실 수 있는 길 한 걸음이나마, 줄이시길 바라며, 이렇게  창업 마인드셋 챌린지를 진행하게 되었습니다. ​ 이 챌린지는 100만원 이상의 가치를 가지고 있습니]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTBfNTIg/MDAxNjQ2OTA5NTUyODkx._P8gCzhMfWi3yMmhdn71yqhF3wWU6Iw8YhS6DStJI_0g.dPPqvHN18h6x-hSjyuA4JM4ehFYrXcWvCdkQk206mEkg.PNG/SE-ba593f9f-7988-48da-89ec-d64ac5bdb609.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
