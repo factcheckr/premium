@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 21:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 22:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -461,6 +461,14 @@
             <content:encoded><![CDATA[최근에 뉴발란스와 협업한 국내 편집샵이 있어요. 슬로우스테디클럽<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SNS 100만번 언급된 ‘더현대 서울’ 무엇이 달랐나 (폴인)]]></title>
+            <link>https://www.folin.co/story/2161</link>
+            <guid>https://www.folin.co/story/2161</guid>
+            <pubDate>Thu, 14 Apr 2022 22:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>공간</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[SK 이동훈 부사장이 말하는 '진정한 경제적 자유'란 (폴인)]]></title>
             <link>https://www.folin.co/story/2158</link>
             <guid>https://www.folin.co/story/2158</guid>
@@ -738,14 +746,6 @@
             <guid>https://www.folin.co/story/2105</guid>
             <pubDate>Tue, 15 Mar 2022 23:23:24 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우아한형제들 '더큰집' 기획 비하인드 (폴인)]]></title>
-            <link>https://www.folin.co/story/2108</link>
-            <guid>https://www.folin.co/story/2108</guid>
-            <pubDate>Tue, 15 Mar 2022 12:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[<li>공간</li>
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
