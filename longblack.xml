@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-04-15T14:23:08.052Z</updated>
+    <updated>2022-04-15T15:26:15.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[원덕현 : 슬로우스테디클럽, 포기하지 않으면 실패는 과정일 뿐이다]]></title>
-        <id>https://www.longblack.co/note/246</id>
-        <link href="https://www.longblack.co/note/246"/>
-        <updated>2022-04-14T15:27:22.370Z</updated>
-        <content type="html"><![CDATA[최근에 뉴발란스와 협업한 국내 편집샵이 있어요. 슬로우스테디클럽<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[싱크 어게인 : 생각을 바꾸려면 왜 과학자의 태도가 필요할까]]></title>
+        <id>https://www.longblack.co/note/263</id>
+        <link href="https://www.longblack.co/note/263"/>
+        <updated>2022-04-15T15:24:54.564Z</updated>
+        <content type="html"><![CDATA[점점 다양한 의견과 지식을 받아들이기 힘들어지는 것 같습니다. 제가 좋아하는, 그리고 제가 생각해왔던 방향의 콘텐츠만 접하다 보니 시야가 좁아지는 것 같기도 하고요. 알고리즘 탓으<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

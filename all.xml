@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 14:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 15:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -462,11 +462,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/88199642-5f4d-4ba8-9730-69ccc5b5dfb2_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[원덕현 : 슬로우스테디클럽, 포기하지 않으면 실패는 과정일 뿐이다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/246</link>
-            <guid>https://www.longblack.co/note/246</guid>
-            <pubDate>Thu, 14 Apr 2022 15:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[최근에 뉴발란스와 협업한 국내 편집샵이 있어요. 슬로우스테디클럽<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[싱크 어게인 : 생각을 바꾸려면 왜 과학자의 태도가 필요할까 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/263</link>
+            <guid>https://www.longblack.co/note/263</guid>
+            <pubDate>Fri, 15 Apr 2022 15:24:54 GMT</pubDate>
+            <content:encoded><![CDATA[점점 다양한 의견과 지식을 받아들이기 힘들어지는 것 같습니다. 제가 좋아하는, 그리고 제가 생각해왔던 방향의 콘텐츠만 접하다 보니 시야가 좁아지는 것 같기도 하고요. 알고리즘 탓으<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SNS 100만번 언급된 '더현대 서울' 무엇이 달랐나 (폴인)]]></title>
@@ -757,75 +757,76 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Thu, 14 Apr 2022 04:29:13 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[3월 월간마켓포인트 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/realbigdata/realbig/contents/220402100222249zW</link>
+            <guid>https://contents.premium.naver.com/realbigdata/realbig/contents/220402100222249zW</guid>
+            <pubDate>Fri, 15 Apr 2022 15:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[리얼빅의 새로운 카테고리인 ‘월간마켓포인트’는 매월 전국도시의 동향을 데이터중심으로 살펴봅니다. 전국 '시.도단위' 집값데이터와 그 하위지역인 '시군구'의 집값데이터, 그리고 '시군구 주요아파트'의 시세추이까지 Top-down 해석을 제공하고, 미래 집값의 중요한 단서인 입주예정물량 데이터도 살펴보며 향후전망을 제공합니다.  매월마다 전국시장 흐름을 데이터로 균형]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDJfMjAy/MDAxNjQ4ODYwNDY5NDQ0.THbeyT85OMD66plEbr7hAJNQwZO9MwqMBuArzHZa6Dsg.kQknDhTVEOYH2PEtyWSg7Z28oWjDPJ8VNJGxfdSeUTwg.PNG/%EB%B9%85%EB%A6%AC%EC%96%BC-%EC%8D%B8%EB%84%A4%EC%9D%BC-003.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[이슈 언박싱] 3월 넷째 주, 한강 치맥! 이제 사라질지도 모른다고? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/saramin/waytowork/contents/220322094028024cB</link>
-            <guid>https://contents.premium.naver.com/saramin/waytowork/contents/220322094028024cB</guid>
-            <pubDate>Thu, 14 Apr 2022 15:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[📦 오늘의 이슈 언박싱 📦 한강 치맥 이제 사라질지도 모른다고? 서울시가 공공기관 청사와 도시공원, 하천시설, 버스정류장 등을 금주구역으로 지정하는 방안을 추진하고 있어요. 금주구역에서 술을 마시는 사람에게는 10만 원의 과태료를 부과, 징수할 수 있다고. 이 개정안은 3월 24일께 입법 예고될 예정이라고 해요. 한강공원을 포함해 구체적으로 어느 지역을 금주구역으로]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjJfMjUz/MDAxNjQ3OTA5MjkyNjYz.k7nFXRD4NU__vT0WNiTmoRWXdRAQiMzmVxOhXH7bWwcg.RRA4ZawARjR2gJY_P0vn01vD2C-UGPUY5byJeLIs4FUg.JPEG/%EB%A9%94%EC%9D%B8_%EB%B0%B0%EB%84%88.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[브롬톤과 대중교통 4종 타보기(버스, 지하철, 택시, 기차) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/romanticgrey/todaybromping/contents/220129185737568bT</link>
+            <guid>https://contents.premium.naver.com/romanticgrey/todaybromping/contents/220129185737568bT</guid>
+            <pubDate>Fri, 15 Apr 2022 15:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[궁금했다. 브롬톤은 대중교통을 (정말) 무리 없이 이용할 수 있을까? 브롬톤이 아무리 컴팩트하게 접힌다고 해도, 일상생활에서도 무리 없이 쓸 수 있을지 궁금해졌다. '브롬톤은 대중교통 호환이 아주 뛰어나요!'라는 말이 진짜인지, 약간의 플러스를 더한 마케팅 카피는 아닐지,  실제 생활에선 부족함이 없을지 말이다.   자동차가 없이 대중교통을 활용하는 도시 생활자인 내]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjlfMjc1/MDAxNjQzNDU0Mjc5Mjkx.x6JsB1YZrzj1iFF3aNrk85D-R0_IRmt48X6mv2xaW-Mg.EZ_xHSxyRMeMWLtuzbN-JtU5TEo0xaptCYgCGhJcjREg.JPEG/SE-a7685de1-7268-4507-b286-428988a0e2f9.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스 시리즈 ‘러브, 데스 + 로봇 中 목격자’ - 에 대하여 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220226125110457ku</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220226125110457ku</guid>
-            <pubDate>Thu, 14 Apr 2022 15:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 &lt;러브, 데스 + 로봇&gt;의 세 번째 에피소드 &lt;목격자&gt;는 출근을 준비하던 스트리퍼가 건너편 호텔의 살인을 목격하고, 살인마와 눈이 마주치며 시작된다.    여자는 공포에 휩싸여 도망치게 된다. 하지만 살인마는 자신이 죽인 여자와 똑같이 생긴 여자를 집요하게 여자를 추격한다. 미래적이고 기괴한 중국 도시를 배경으로 두 남녀는 달리기 시작한다.    여자는 자]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjZfNzYg/MDAxNjQ1ODQ3MzIzNDg3.Cu1LzBdkJZ6O1m1c2iLG_J96KliLH_gm8P9X5ApG8gMg.ADhddQJJOnXZcKvOwlSlEC04D93lXp_pww0cc9TVLQog.PNG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(66).png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[선택 받은 ' 너드 백인 '이  수도승 1000명의 힘을 얻으면? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220402145120318pB</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220402145120318pB</guid>
+            <pubDate>Fri, 15 Apr 2022 15:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 오리지널 시리즈 '오행자객' - 대하여  일부 서양 팬덤에서는 동양 무술과 신비에 대한 특유의 환상이 있는 것으로 보인다. 이러한 팬덤을 노린 작품인지 서양을 배경으로 펼쳐지는 무술 이야기가 자주 보인다. 보통 쿵후나 가라데를 중심으로 이야기를 만들어나갈 때, 아서 신화처럼 선택받은 자를 주인공으로 내세운다.    문제는 이러한 ‘선택받은 자’가 너드 백인]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDJfMjUy/MDAxNjQ4ODc4NTc5NzA2.moGR0_aV9rj_90f1XPC-TkdciAhBnXEj8p7isLmNhJog.sGnEfLzU8Ckt07QcWI_YX5VesiASgK9CSe1kzeRkRpQg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-04-02T144506.584.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["묻지마 폭행, 사회적 위험성이 작지 않다" 지적했지만, 10명 중 9명은 징역 2년 이하 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/lawtalknews/premium/contents/220331153926748qW</link>
-            <guid>https://contents.premium.naver.com/lawtalknews/premium/contents/220331153926748qW</guid>
-            <pubDate>Thu, 14 Apr 2022 15:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2020년 여름, 자정을 갓 넘긴 시간. 서울 강남구 한복판에서 A씨는 처음 보는 여성들에게 주먹을 휘두르거나 발로 걷어찼다. 15분간 여성 7명이 A씨에게 폭행을 당했다. 피해 여성들은 A씨의 갑작스러운 공격에 속수무책이었다. 사건 당일 여자친구와 함께 가게에서 술을 마시며 일상을 보내고 있던 A씨. 대체 왜 이런 일을 벌인 걸까. 경찰 조사 결과, 아무런 이유가 없었다. 일]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzFfMTIy/MDAxNjQ4NzA2MzYyMzc2.qBUJKg37IGQW18DdEiX6bgGT1MdPEqwYVZnK1RC0_80g.Yq1h0UAX0_6-_XHNlMSGAObWm5Ehg9vWCZ4pmVgy6mMg.JPEG/%EB%AC%BB%EC%A7%80%EB%A7%88-%EB%B2%94%EC%A3%84.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[Q. 신·구축 관계없이 25평 전후 4억~5억 원대 아파트를 찾아주세요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/booding/home/contents/220328011009019em</link>
+            <guid>https://contents.premium.naver.com/booding/home/contents/220328011009019em</guid>
+            <pubDate>Fri, 15 Apr 2022 15:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[Q. 신·구축 관계없이 25평 전후 4억~5억 원대 아파트를 찾아주세요  1. 가족구성원: 38세 남편, 33세 아내(맞벌이 신혼부부)  2. 현 거주지: 서울시 중구 신당동 소재 빌라(전세 2억5000만 원)  3. 순자본 / 대출: 1억4000만 원(현금 9000만 원+전세금 여분 5000만 원) / 서울시 신혼부부 전세대출 2억 원  4. 월수입: 720만 원  5. 허용 가능한 월 원리금 상환액: 400만 원  6. 현 주택 소유 여부: 무주]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MjlfMjIx/MDAxNjIyMjc2MzA3ODQy.yvnHGeqkq-RhTNHFJ5RdMBsq7rebRZp93kLUQQqR2PAg.bACHFGcyTNFKTgT4jpfHu6wK5KxoIFM-yVKWIFKCh5og.JPEG/KakaoTalk_20210529_170740114.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘조각투자’는 부자도 한다…큰손들의 '미술품 공동구매' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/edaily/artmoney/contents/220406092530451tU</link>
-            <guid>https://contents.premium.naver.com/edaily/artmoney/contents/220406092530451tU</guid>
-            <pubDate>Thu, 14 Apr 2022 15:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[거래하는 은행에서 그림을 산다. 그런데 우리집으로 가져갈 순 없는 그림이다. 어째서? 그 그림을 다른 이들과 함께 사는 거니까. 어차피 내 통장 잔고로는 덥석 잡아채기에 부담스러운 그림이니까. 그러면 그 그림은 어디로 가게 되는 건데? 은행이 보관해준단다. 원할 때는 언제든 보여준다고 했다.  자, 여기까지 들었으면 여러 질문이 나올 법하다. ‘은행에서 그림전시를 한]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTQx/MDAxNjQ5MjA0NTI2MzQw.yoFBW8ej6DkHpzx7ZlFlDp3PC-B57eJTjEvo1AGcezEg.HkKjofQOM3K0idXoK0ql0d3jLLR5hhbESX2bgsC-k0Yg.JPEG/%EB%A6%AC%ED%84%B0%EC%B9%98_%EC%95%84%EB%A0%88%ED%85%8C%ED%81%90%EB%B8%8C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[아름답지만 잔인하고 쓸쓸했던 도시, 파리-<파리의 딜릴리>, <미드나잇 인 파리> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/moku/mokumoku/contents/220404124505878GA</link>
+            <guid>https://contents.premium.naver.com/moku/mokumoku/contents/220404124505878GA</guid>
+            <pubDate>Fri, 15 Apr 2022 15:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[작은 소녀가 파리 곳곳을 누빈다. 화려한 광장에서 빈민촌과 하수구까지. 소녀에게 파리는 아름답지만 무섭고, 빛나지만 어두운 곳이다. 소녀는 많은 사람들을 만나 질문을 던진다. 하고 싶은 것도, 궁금한 것도 많은 그 소녀는 딜릴리.  1890년대 파리, 여자 아이들이 갑자기 사라지는 사건이 일어난다. 딜릴리는 끔찍한 유괴 사건을 해결하기 위해 파리 곳곳을 돌아 다닌다. 르누]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfMTQ0/MDAxNjQ5NTAxMjY3MzU5.YVg0uE3rQMeqlrMLAnwE10WdQd46gunJOjcoWAhPygkg.zZd9dilSAXUWUvLOd8W89QzQI5jyZHGuImmLHNu9_4wg.JPEG/rr.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [41일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220408052155828sJ</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220408052155828sJ</guid>
-            <pubDate>Thu, 14 Apr 2022 15:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [41일차] 굿모닝러너님, 오늘 하루, 새로운 일, 해보지 않았던 일 하나를 시작해보세요. 나는 할 수 없었다고 생각했던 일이  쉽게 할 수 있는 일로 변화를 가져다 줄 거에요 :) 굿모닝러너_챌린지_41일차 #20220408 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMjg2/MDAxNjQ5MzYyNTcyNjAx.ovy7TYFMOQSix-g4aP3qfDjWbEocGUIGLaHUcbQzTREg.-YMLwYeF_Yn2HnRJyLBYjdheehr4Mq3lmg71A3cDV0kg.JPEG/KakaoTalk_20220408_051426734.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[자신의 선택에 확신이 없는 당신에게 해주고 싶은 말 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/yoonseol/writer/contents/220301221430206wI</link>
+            <guid>https://contents.premium.naver.com/yoonseol/writer/contents/220301221430206wI</guid>
+            <pubDate>Fri, 15 Apr 2022 15:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[남들이 아무리 뭐라 하든 당신은 당신이 원하는 길을 묵묵히 걸어가면 된다. 당신이 걸어가는 길이 곧 정답이다. 누군가의 뒤를 따라가려 하지 않아도 된다. 당신이 걸어가는 길에서 당신이 만들어낸 발자국은 결국 누군가의 이정표가 될 것이다. 조급해하지 않아도 된다. 눈앞에 펼쳐진 여러 갈래의 길들 중에서 당신이 걸어가는 길이 비록 울퉁불퉁하고 가장 형편없는 모난 길]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDFfNTEg/MDAxNjQ2MTM5NjY2NDEz.rFdjS5nAd-eSDXaxEkJOM2Wfn7dnWs3s9PWHgAzIedwg.0dj4e7_hDFH0S8ylCUYdR3skaTtjzlZ4XC8JkNqdZUwg.JPEG/KakaoTalk_20220225_195946089_05.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[10. 주방 직원을 잘 채용해야 하는 의외의 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/franchise/franchise1004/contents/220408083715503Zi</link>
-            <guid>https://contents.premium.naver.com/franchise/franchise1004/contents/220408083715503Zi</guid>
-            <pubDate>Thu, 14 Apr 2022 15:27:51 GMT</pubDate>
-            <content:encoded><![CDATA['레시피'라고 불리는 그것. 불과 10여 년 전만 하더라도 레시피 북을 사거나 강좌 클래스에 등록해야만 접할 수 있었던 그것. 하지만 이제 우리는 새벽 배송으로 재료를 받으며, 유튜브와 인터넷을 열어 놓고 백종원 표 메뉴에 도전하고 있다. 요리에 초보인 사람일수록 더 잘 알고 있다. 레시피에 맞게 메뉴를 만들어야 함을 본능적으로 알기에 계량컵과 저울이 깨질 듯이 매의 눈]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMjMg/MDAxNjQ5Mzc0NDk4MzM0.i9fU2bm6JKO1_uHTxdO4XA3CdhlYActCfv3UGPTL0s4g.xALyttGOlmudEHPt7lyjlFw8Xmr8Mz3kynzxABO99zMg.PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%BD%98%ED%85%90%EC%B8%A0_%EB%B0%B0%EA%B2%BD_%EC%9D%B4%EB%AF%B8%EC%A7%80_(%EC%A0%95%EC%82%AC%EA%B0%81)_(1).png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[화이자 2차문서 공개 ”화이자와 FDA, 자연면역의 우수성 이미 알고 있었다” [팩트매터] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220409230221213Ha</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220409230221213Ha</guid>
+            <pubDate>Fri, 15 Apr 2022 15:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 FDA가 가장 최근 공개한 화이자 문서에 대한 얘기로 시작합니다. FDA 문서 공개는 사실 이번이 두 번째로, 연방 판사는 공개에 수십 년을 질질 끄는 대신 올 연말까지 모든 문서를 공개하라고 명령했습니다. 화이자는 FDA에 33만 페이지 분량의 데이터를 백신의 긴급 승인과 정식 승인을 위해 제출한 바 있습니다. 스케줄에 따라 3월 1일 FDA는 약 1만 페이지를 공개했는데, 그]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfMTA2/MDAxNjQ5NTEyNzU1NDY0.J010z8ubrOvxmdMTBYGFKzIzITFP4StqK3iszJRrs-og.zArANQ35RHg1ESKWuaBiVnNeqyPTwhQil8njC_YlaMYg.JPEG/original.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[후발급세금계산서의 세무처리 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxnet/taxnetpremium/contents/220408134424329nB</link>
-            <guid>https://contents.premium.naver.com/taxnet/taxnetpremium/contents/220408134424329nB</guid>
-            <pubDate>Thu, 14 Apr 2022 15:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[위 질문에 대한 대답으로 ‘확정신고기한’, ‘1월 25일’ 혹은 ‘7월 25일’을 마음속으로 외치셨다면 무조건 이 글로 들어오십시오. 몇 년 전 개정이 되었기 때문입니다. 얼마 전 아침 출근길에 가깝게 지내는 동기와 서로 안부를 묻다가 후발급세금계산서에 대한 대화를 나눴습니다. ‘세금계산서 발급시기 놓쳤다고 하는데 언제까지 발급받아야 하더라?’라는 질문에 당연하]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMTM0/MDAxNjQ5MzkyOTYzNjk3._LeOiC9COxV9mDHcrtqEdCVbvAb788OQTD1xth4CQysg.3kENfsQIITfjZczGF0wMqiLmasQo0O2CU09gtWtnBIEg.PNG/post_210616_01.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[자신감이 부족한 당신에게 해주고 싶은 말 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/yoonseol/writer/contents/220226141051301cw</link>
+            <guid>https://contents.premium.naver.com/yoonseol/writer/contents/220226141051301cw</guid>
+            <pubDate>Fri, 15 Apr 2022 15:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[나는 '그럼에도 불구하고'라는 문장을 참 좋아한다. 어떤 좋지 못한 상황으로 인해 행하지 못하는 일임에도, 결과에 개의치 않고 노력했다는 느낌이 들기 때문이다. 별것 아닌 듯한 이 문장에서 누군가의 엄청난 용기가 느껴진다. 불가능을 가능케하려는 누군가의 진정성 있는 용기가 느껴진다. 친구 중 한 명은 '그래봤자'라는 문장을 입에 달고 다니곤 했다. 자신감을 떨어트리]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjZfMTU5/MDAxNjQ1ODUwNDk3NDY2.GUB48iDd7ul6HIa1no1sf4haB8JB69T7jZhfInGNuAcg.SCtAAIBEAm1wgGYTxSmUFBeGEUtQF2u1T9lpfecFYxcg.JPEG/KakaoTalk_20220225_195946089_08.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["원유 수퍼 사이클이 곧 시작된다!" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220408132601737uR</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220408132601737uR</guid>
-            <pubDate>Fri, 15 Apr 2022 12:39:22 GMT</pubDate>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMTg3/MDAxNjQ5Mzk1NjcxMTM1.ScgDut34mCjsExezjNQf1LL1zP13Y3rGewLCDYPENOQg.Mg6pjwHhma0a72biUOocl0dngVzqCohAm6dPWBS0d4Mg.JPEG/%EB%A1%9C%EB%B2%84%ED%8A%B8_%EB%A7%A5%EB%84%90%EB%A6%AC.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[고속버스에서 만난 할머니와의 대화 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/romanticgrey/todaybromping/contents/220319182552101EP</link>
+            <guid>https://contents.premium.naver.com/romanticgrey/todaybromping/contents/220319182552101EP</guid>
+            <pubDate>Fri, 15 Apr 2022 15:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[* 해당 글은 코로나가 없던, 2013년의 이야기입니다. 춘천서 대구로 가는 고속버스였다. 옆자리엔 새하얀 머리를 단정하게 빗은 할머니가 앉았다. 대구행 고속버스는 항상 다 차는 법이 없어 편하게 두 자리씩 차지하고 가곤 했는데, 할머니는 굳이 내 옆에 자리를 예매하셨나 보다. 그날따라 빈자리도 많았는데.  먼저 말을 건건 할머니 쪽이었다.   - 대구엔 왜 가요? 고향이에요? -]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTlfMjI4/MDAxNjQ3NjgyMDI0ODgy.iTTsSaFrxW8Ltfhq_XEgbbHo_TOTDB_pNKmhyknS8Qkg.Xp3FGcHfn9-JQPhbnGbIroySU2GGgAB1fsA1UojTIgYg.JPEG/chan-young-lee-TeotD4SvSLo-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
