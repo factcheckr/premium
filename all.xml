@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 06:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 07:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -757,12 +757,88 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Thu, 14 Apr 2022 04:29:13 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[헬스케어, 트레이닝 업계에 콘텐츠가 들어온다. 코로나 종식 이후에도 살아남기 위한 전략이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50175</link>
+            <guid>https://www.bookjournalism.com/books/50175</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[메타버스에서 운동하는 세상]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인수위가 반도체 초격차 대책을 발표했다. 쌀보다 반도체가 더 중요한 시대이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50114</link>
+            <guid>https://www.bookjournalism.com/books/50114</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[규석기 시대의 생존 전략]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[암호 화폐 세계에는 당신이 상상하는 투기꾼들만 있는 것이 아니다. 평범한 사람들이 공평한 기회를 찾아 뛰어들고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50086</link>
+            <guid>https://www.bookjournalism.com/books/50086</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[카지노는 언제나 우리를 유혹한다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국의 오피스 공실률이 17퍼센트에 달한다. 건물주와 회사의 고민이 깊다. 공실률의 난제는 무엇이며, 미래의 오피스는 어떤 모습일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50091</link>
+            <guid>https://www.bookjournalism.com/books/50091</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[오피스 탈출의 미래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[곡물 가격 급등으로 식량 위기가 오고 있다. 푸드 테크는 식량난을 해결할 구원자가 될 것인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50068</link>
+            <guid>https://www.bookjournalism.com/books/50068</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[식량 안보의 딜레마]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 열한 번째 - MZ세대를 이해하고자 하는 시도부터 모순입니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50052</link>
+            <guid>https://www.bookjournalism.com/books/50052</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[세대 말고 시대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #31에선, 새 정부의 부동산 정책, 트위터 대주주가 된 일론 머스크, 미국에서 시작된 빅테크 노조 물결, 세계관 마케팅 전쟁에 돌입한 명품 브랜드의 전략을 살펴봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50042</link>
+            <guid>https://www.bookjournalism.com/audio/50042</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[구찌는 식당을 열고, 일론 머스크는 트위터를 사고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아마존 최초의 노조가 만들어졌다. 글로벌 기업의 노조 설립은 회사-노동자 구도의 변화를 가져올 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50015</link>
+            <guid>https://www.bookjournalism.com/books/50015</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[빅테크의 노동권]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일론 머스크가 트위터 최대 주주가 되었다. 트위터의 미래에는 어떤 변화가 예고되어 있는가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50002</link>
+            <guid>https://www.bookjournalism.com/books/50002</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[플랫폼이 필요해서 트위터 좀 샀어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[명품 브랜드가 F&B 사업에 뛰어든다. F&B는 왜 유용한 브랜딩 전략인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49984</link>
+            <guid>https://www.bookjournalism.com/books/49984</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[테이스트 오브 브랜드]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나 바이러스는 사람들을 차별하지 않는다. 그러나 팬데믹을 겪고 있는 사회의 차별은 다른 문제였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49886</link>
+            <guid>https://www.bookjournalism.com/books/49886</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 시대의 인종차별]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘서울의 30평대 아파트’라는 중산층의 꿈이 점점 멀어져 간다. 새 정부가 들어서면, 우리는 집을 살 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49959</link>
+            <guid>https://www.bookjournalism.com/books/49959</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[포기하면 편할까요?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이슈 언박싱] 3월 넷째 주, 한강 치맥! 이제 사라질지도 모른다고? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -773,12 +849,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjJfMjUz/MDAxNjQ3OTA5MjkyNjYz.k7nFXRD4NU__vT0WNiTmoRWXdRAQiMzmVxOhXH7bWwcg.RRA4ZawARjR2gJY_P0vn01vD2C-UGPUY5byJeLIs4FUg.JPEG/%EB%A9%94%EC%9D%B8_%EB%B0%B0%EB%84%88.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스 시리즈 ‘러브, 데스 + 로봇 中 목격자’ - 에 대하여 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220226125110457ku</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220226125110457ku</guid>
-            <pubDate>Thu, 14 Apr 2022 15:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 &lt;러브, 데스 + 로봇&gt;의 세 번째 에피소드 &lt;목격자&gt;는 출근을 준비하던 스트리퍼가 건너편 호텔의 살인을 목격하고, 살인마와 눈이 마주치며 시작된다.    여자는 공포에 휩싸여 도망치게 된다. 하지만 살인마는 자신이 죽인 여자와 똑같이 생긴 여자를 집요하게 여자를 추격한다. 미래적이고 기괴한 중국 도시를 배경으로 두 남녀는 달리기 시작한다.    여자는 자]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjZfNzYg/MDAxNjQ1ODQ3MzIzNDg3.Cu1LzBdkJZ6O1m1c2iLG_J96KliLH_gm8P9X5ApG8gMg.ADhddQJJOnXZcKvOwlSlEC04D93lXp_pww0cc9TVLQog.PNG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(66).png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Thu, 14 Apr 2022 04:29:13 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["묻지마 폭행, 사회적 위험성이 작지 않다" 지적했지만, 10명 중 9명은 징역 2년 이하 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -789,12 +865,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzFfMTIy/MDAxNjQ4NzA2MzYyMzc2.qBUJKg37IGQW18DdEiX6bgGT1MdPEqwYVZnK1RC0_80g.Yq1h0UAX0_6-_XHNlMSGAObWm5Ehg9vWCZ4pmVgy6mMg.JPEG/%EB%AC%BB%EC%A7%80%EB%A7%88-%EB%B2%94%EC%A3%84.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘조각투자’는 부자도 한다…큰손들의 '미술품 공동구매' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/edaily/artmoney/contents/220406092530451tU</link>
-            <guid>https://contents.premium.naver.com/edaily/artmoney/contents/220406092530451tU</guid>
+            <title><![CDATA[넷플릭스 시리즈 ‘러브, 데스 + 로봇 中 목격자’ - 에 대하여 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220226125110457ku</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220226125110457ku</guid>
             <pubDate>Thu, 14 Apr 2022 15:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[거래하는 은행에서 그림을 산다. 그런데 우리집으로 가져갈 순 없는 그림이다. 어째서? 그 그림을 다른 이들과 함께 사는 거니까. 어차피 내 통장 잔고로는 덥석 잡아채기에 부담스러운 그림이니까. 그러면 그 그림은 어디로 가게 되는 건데? 은행이 보관해준단다. 원할 때는 언제든 보여준다고 했다.  자, 여기까지 들었으면 여러 질문이 나올 법하다. ‘은행에서 그림전시를 한]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTQx/MDAxNjQ5MjA0NTI2MzQw.yoFBW8ej6DkHpzx7ZlFlDp3PC-B57eJTjEvo1AGcezEg.HkKjofQOM3K0idXoK0ql0d3jLLR5hhbESX2bgsC-k0Yg.JPEG/%EB%A6%AC%ED%84%B0%EC%B9%98_%EC%95%84%EB%A0%88%ED%85%8C%ED%81%90%EB%B8%8C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[넷플릭스 시리즈 &lt;러브, 데스 + 로봇&gt;의 세 번째 에피소드 &lt;목격자&gt;는 출근을 준비하던 스트리퍼가 건너편 호텔의 살인을 목격하고, 살인마와 눈이 마주치며 시작된다.    여자는 공포에 휩싸여 도망치게 된다. 하지만 살인마는 자신이 죽인 여자와 똑같이 생긴 여자를 집요하게 여자를 추격한다. 미래적이고 기괴한 중국 도시를 배경으로 두 남녀는 달리기 시작한다.    여자는 자]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjZfNzYg/MDAxNjQ1ODQ3MzIzNDg3.Cu1LzBdkJZ6O1m1c2iLG_J96KliLH_gm8P9X5ApG8gMg.ADhddQJJOnXZcKvOwlSlEC04D93lXp_pww0cc9TVLQog.PNG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(66).png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[굿모닝러너 챌린지 [41일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -805,12 +881,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMjg2/MDAxNjQ5MzYyNTcyNjAx.ovy7TYFMOQSix-g4aP3qfDjWbEocGUIGLaHUcbQzTREg.-YMLwYeF_Yn2HnRJyLBYjdheehr4Mq3lmg71A3cDV0kg.JPEG/KakaoTalk_20220408_051426734.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[10. 주방 직원을 잘 채용해야 하는 의외의 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/franchise/franchise1004/contents/220408083715503Zi</link>
-            <guid>https://contents.premium.naver.com/franchise/franchise1004/contents/220408083715503Zi</guid>
+            <title><![CDATA[‘조각투자’는 부자도 한다…큰손들의 '미술품 공동구매' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/edaily/artmoney/contents/220406092530451tU</link>
+            <guid>https://contents.premium.naver.com/edaily/artmoney/contents/220406092530451tU</guid>
             <pubDate>Thu, 14 Apr 2022 15:27:51 GMT</pubDate>
-            <content:encoded><![CDATA['레시피'라고 불리는 그것. 불과 10여 년 전만 하더라도 레시피 북을 사거나 강좌 클래스에 등록해야만 접할 수 있었던 그것. 하지만 이제 우리는 새벽 배송으로 재료를 받으며, 유튜브와 인터넷을 열어 놓고 백종원 표 메뉴에 도전하고 있다. 요리에 초보인 사람일수록 더 잘 알고 있다. 레시피에 맞게 메뉴를 만들어야 함을 본능적으로 알기에 계량컵과 저울이 깨질 듯이 매의 눈]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMjMg/MDAxNjQ5Mzc0NDk4MzM0.i9fU2bm6JKO1_uHTxdO4XA3CdhlYActCfv3UGPTL0s4g.xALyttGOlmudEHPt7lyjlFw8Xmr8Mz3kynzxABO99zMg.PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%BD%98%ED%85%90%EC%B8%A0_%EB%B0%B0%EA%B2%BD_%EC%9D%B4%EB%AF%B8%EC%A7%80_(%EC%A0%95%EC%82%AC%EA%B0%81)_(1).png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[거래하는 은행에서 그림을 산다. 그런데 우리집으로 가져갈 순 없는 그림이다. 어째서? 그 그림을 다른 이들과 함께 사는 거니까. 어차피 내 통장 잔고로는 덥석 잡아채기에 부담스러운 그림이니까. 그러면 그 그림은 어디로 가게 되는 건데? 은행이 보관해준단다. 원할 때는 언제든 보여준다고 했다.  자, 여기까지 들었으면 여러 질문이 나올 법하다. ‘은행에서 그림전시를 한]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTQx/MDAxNjQ5MjA0NTI2MzQw.yoFBW8ej6DkHpzx7ZlFlDp3PC-B57eJTjEvo1AGcezEg.HkKjofQOM3K0idXoK0ql0d3jLLR5hhbESX2bgsC-k0Yg.JPEG/%EB%A6%AC%ED%84%B0%EC%B9%98_%EC%95%84%EB%A0%88%ED%85%8C%ED%81%90%EB%B8%8C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후발급세금계산서의 세무처리 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -821,11 +897,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMTM0/MDAxNjQ5MzkyOTYzNjk3._LeOiC9COxV9mDHcrtqEdCVbvAb788OQTD1xth4CQysg.3kENfsQIITfjZczGF0wMqiLmasQo0O2CU09gtWtnBIEg.PNG/post_210616_01.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["원유 수퍼 사이클이 곧 시작된다!" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220408132601737uR</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220408132601737uR</guid>
-            <pubDate>Fri, 15 Apr 2022 05:28:13 GMT</pubDate>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMTg3/MDAxNjQ5Mzk1NjcxMTM1.ScgDut34mCjsExezjNQf1LL1zP13Y3rGewLCDYPENOQg.Mg6pjwHhma0a72biUOocl0dngVzqCohAm6dPWBS0d4Mg.JPEG/%EB%A1%9C%EB%B2%84%ED%8A%B8_%EB%A7%A5%EB%84%90%EB%A6%AC.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[10. 주방 직원을 잘 채용해야 하는 의외의 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/franchise/franchise1004/contents/220408083715503Zi</link>
+            <guid>https://contents.premium.naver.com/franchise/franchise1004/contents/220408083715503Zi</guid>
+            <pubDate>Thu, 14 Apr 2022 15:27:51 GMT</pubDate>
+            <content:encoded><![CDATA['레시피'라고 불리는 그것. 불과 10여 년 전만 하더라도 레시피 북을 사거나 강좌 클래스에 등록해야만 접할 수 있었던 그것. 하지만 이제 우리는 새벽 배송으로 재료를 받으며, 유튜브와 인터넷을 열어 놓고 백종원 표 메뉴에 도전하고 있다. 요리에 초보인 사람일수록 더 잘 알고 있다. 레시피에 맞게 메뉴를 만들어야 함을 본능적으로 알기에 계량컵과 저울이 깨질 듯이 매의 눈]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMjMg/MDAxNjQ5Mzc0NDk4MzM0.i9fU2bm6JKO1_uHTxdO4XA3CdhlYActCfv3UGPTL0s4g.xALyttGOlmudEHPt7lyjlFw8Xmr8Mz3kynzxABO99zMg.PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%BD%98%ED%85%90%EC%B8%A0_%EB%B0%B0%EA%B2%BD_%EC%9D%B4%EB%AF%B8%EC%A7%80_(%EC%A0%95%EC%82%AC%EA%B0%81)_(1).png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[#14. 모두에게 좋은 사람일 수는 없어요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220408164140777gD</link>
+            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220408164140777gD</guid>
+            <pubDate>Fri, 15 Apr 2022 07:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[사람으로 섰어요   사랑을 주고  사랑을 받으려 했던 지난날에는 사람이 없었어요   홀로 사람으로 서고 사랑을 정의하지 않을 때가 되어서야 사람이 있었고, 연이 닿았어요   모두에게 좋은 사람이고 싶던  때 지난 이야기들은 저 뒤에 묻어 두었어요   천천히 알아가도 좋으니 사랑의 고마움을 알고 사람의 온기를 아는 사람에게 사람으로 섰어요   창문 틈으로 노을은 자주 잔향]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMTUw/MDAxNjQ5NDAzMTU1ODcw.2Ta0w1Hlre8tHzRlodW42hlYe1_CU_PJG43Tb8nK5y0g.9ee6QqF1F60OSQycADSUCfRbu0jeN83WOd1wtA3iQpAg.JPEG/%EC%B0%BD%EB%AC%B8-%EC%97%AC%EC%9E%90.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
