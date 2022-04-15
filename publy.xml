@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-04-15T07:24:09.734Z</updated>
+    <updated>2022-04-15T08:29:57.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[프로덕트 매니저는 어떻게 아이디어를 모으고 관리할까?]]></title>
+        <id>https://publy.co/content/6740?fr=category</id>
+        <link href="https://publy.co/content/6740?fr=category"/>
+        <updated>2022-04-15T08:29:11.760Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1:1 어떻게 잘할까? 가이드와 상황별 질문 FAQ 다 드림]]></title>
         <id>https://publy.co/content/6744?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6758?fr=category"/>
         <updated>2022-04-04T09:23:17.628Z</updated>
         <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업에서 말하는 '실험'과 '가설'은 무엇일까? (템플릿 제공)]]></title>
-        <id>https://publy.co/content/6738?fr=category</id>
-        <link href="https://publy.co/content/6738?fr=category"/>
-        <updated>2022-04-01T08:28:38.912Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
 </feed>
