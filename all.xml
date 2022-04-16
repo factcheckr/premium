@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 01:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 02:58:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -757,12 +757,88 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Sat, 16 Apr 2022 01:46:02 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #32에선, 전 세계의 화두로 떠오른 식량 문제와 이를 둘러싼 기술의 도약, 규석기 시대 현명한 반도체 전략, 사무실 공실률 증가로 본 오피스의 미래, 헬스케어 시장도 피해갈 수 없는 메타버스와 플랫폼의 시대를 짚어봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50190</link>
+            <guid>https://www.bookjournalism.com/audio/50190</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[먹고, 일하고, 운동하라]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[헬스케어, 트레이닝 업계에 콘텐츠가 들어온다. 코로나 종식 이후에도 살아남기 위한 전략이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50175</link>
+            <guid>https://www.bookjournalism.com/books/50175</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[메타버스에서 운동하는 세상]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인수위가 반도체 초격차 대책을 발표했다. 쌀보다 반도체가 더 중요한 시대이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50114</link>
+            <guid>https://www.bookjournalism.com/books/50114</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[규석기 시대의 생존 전략]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[암호 화폐 세계에는 당신이 상상하는 투기꾼들만 있는 것이 아니다. 평범한 사람들이 공평한 기회를 찾아 뛰어들고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50086</link>
+            <guid>https://www.bookjournalism.com/books/50086</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[카지노는 언제나 우리를 유혹한다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국의 오피스 공실률이 17퍼센트에 달한다. 건물주와 회사의 고민이 깊다. 공실률의 난제는 무엇이며, 미래의 오피스는 어떤 모습일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50091</link>
+            <guid>https://www.bookjournalism.com/books/50091</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[오피스 탈출의 미래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[곡물 가격 급등으로 식량 위기가 오고 있다. 푸드 테크는 식량난을 해결할 구원자가 될 것인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50068</link>
+            <guid>https://www.bookjournalism.com/books/50068</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[식량 안보의 딜레마]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 열한 번째 - MZ세대를 이해하고자 하는 시도부터 모순입니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50052</link>
+            <guid>https://www.bookjournalism.com/books/50052</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[세대 말고 시대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #31에선, 새 정부의 부동산 정책, 트위터 대주주가 된 일론 머스크, 미국에서 시작된 빅테크 노조 물결, 세계관 마케팅 전쟁에 돌입한 명품 브랜드의 전략을 살펴봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50042</link>
+            <guid>https://www.bookjournalism.com/audio/50042</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[구찌는 식당을 열고, 일론 머스크는 트위터를 사고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아마존 최초의 노조가 만들어졌다. 글로벌 기업의 노조 설립은 회사-노동자 구도의 변화를 가져올 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50015</link>
+            <guid>https://www.bookjournalism.com/books/50015</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[빅테크의 노동권]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일론 머스크가 트위터 최대 주주가 되었다. 트위터의 미래에는 어떤 변화가 예고되어 있는가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50002</link>
+            <guid>https://www.bookjournalism.com/books/50002</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[플랫폼이 필요해서 트위터 좀 샀어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[명품 브랜드가 F&B 사업에 뛰어든다. F&B는 왜 유용한 브랜딩 전략인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49984</link>
+            <guid>https://www.bookjournalism.com/books/49984</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[테이스트 오브 브랜드]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나 바이러스는 사람들을 차별하지 않는다. 그러나 팬데믹을 겪고 있는 사회의 차별은 다른 문제였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49886</link>
+            <guid>https://www.bookjournalism.com/books/49886</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 시대의 인종차별]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[브롬톤과 대중교통 4종 타보기(버스, 지하철, 택시, 기차) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -773,12 +849,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjlfMjc1/MDAxNjQzNDU0Mjc5Mjkx.x6JsB1YZrzj1iFF3aNrk85D-R0_IRmt48X6mv2xaW-Mg.EZ_xHSxyRMeMWLtuzbN-JtU5TEo0xaptCYgCGhJcjREg.JPEG/SE-a7685de1-7268-4507-b286-428988a0e2f9.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[ 싱싱한 주간 이슈🎣]  한국에 나타난 수십 대 탱크 🚘🚘  // 우크라이나 전쟁을 대하는 광고, 마케팅 업계의 적극적 행보 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220316211330828Rd</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220316211330828Rd</guid>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
             <pubDate>Sat, 16 Apr 2022 01:46:02 GMT</pubDate>
-            <content:encoded><![CDATA[#1 싱싱한 주간 이슈🎣 👇🏻 한국 재래시장, 마트, ATM, 주유소에 줄지은 수십 대 탱크들 우크라이나 전쟁 뉴스에서나 보던 탱크가 한국에 줄지어 있습니다. 탱크 옆에는 한 문구가 적혀있네요. "전쟁의 여파는 우리 가계에도 찾아옵니다. 우크라이나 사태 종식을 위해 함께 싸워주세요" 이 탱크 떼들의 정체는 '광고 천재' 이제석 대표가 있는 이제석광고연구소가 만든 우크라이나 사]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfMTE5/MDAxNjQ3MzExNzQ5NzI1.8capKce1wUkZWY9O6ZVhy-t0PhoiMTLcdlZCVm4H87Qg.zs3WactwXqgmzewaXSXyA-NIlq39pN995LFRr2LU_H0g.JPEG/%EC%9D%B4%EC%A0%9C%EC%84%9D-1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Q. 신·구축 관계없이 25평 전후 4억~5억 원대 아파트를 찾아주세요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -789,12 +865,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MjlfMjIx/MDAxNjIyMjc2MzA3ODQy.yvnHGeqkq-RhTNHFJ5RdMBsq7rebRZp93kLUQQqR2PAg.bACHFGcyTNFKTgT4jpfHu6wK5KxoIFM-yVKWIFKCh5og.JPEG/KakaoTalk_20210529_170740114.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3월 월간마켓포인트 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/realbigdata/realbig/contents/220402100222249zW</link>
-            <guid>https://contents.premium.naver.com/realbigdata/realbig/contents/220402100222249zW</guid>
-            <pubDate>Fri, 15 Apr 2022 15:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[리얼빅의 새로운 카테고리인 ‘월간마켓포인트’는 매월 전국도시의 동향을 데이터중심으로 살펴봅니다. 전국 '시.도단위' 집값데이터와 그 하위지역인 '시군구'의 집값데이터, 그리고 '시군구 주요아파트'의 시세추이까지 Top-down 해석을 제공하고, 미래 집값의 중요한 단서인 입주예정물량 데이터도 살펴보며 향후전망을 제공합니다.  매월마다 전국시장 흐름을 데이터로 균형]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDJfMjAy/MDAxNjQ4ODYwNDY5NDQ0.THbeyT85OMD66plEbr7hAJNQwZO9MwqMBuArzHZa6Dsg.kQknDhTVEOYH2PEtyWSg7Z28oWjDPJ8VNJGxfdSeUTwg.PNG/%EB%B9%85%EB%A6%AC%EC%96%BC-%EC%8D%B8%EB%84%A4%EC%9D%BC-003.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[[ 싱싱한 주간 이슈🎣]  한국에 나타난 수십 대 탱크 🚘🚘  // 우크라이나 전쟁을 대하는 광고, 마케팅 업계의 적극적 행보 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220316211330828Rd</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220316211330828Rd</guid>
+            <pubDate>Sat, 16 Apr 2022 01:46:02 GMT</pubDate>
+            <content:encoded><![CDATA[#1 싱싱한 주간 이슈🎣 👇🏻 한국 재래시장, 마트, ATM, 주유소에 줄지은 수십 대 탱크들 우크라이나 전쟁 뉴스에서나 보던 탱크가 한국에 줄지어 있습니다. 탱크 옆에는 한 문구가 적혀있네요. "전쟁의 여파는 우리 가계에도 찾아옵니다. 우크라이나 사태 종식을 위해 함께 싸워주세요" 이 탱크 떼들의 정체는 '광고 천재' 이제석 대표가 있는 이제석광고연구소가 만든 우크라이나 사]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfMTE5/MDAxNjQ3MzExNzQ5NzI1.8capKce1wUkZWY9O6ZVhy-t0PhoiMTLcdlZCVm4H87Qg.zs3WactwXqgmzewaXSXyA-NIlq39pN995LFRr2LU_H0g.JPEG/%EC%9D%B4%EC%A0%9C%EC%84%9D-1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자신의 선택에 확신이 없는 당신에게 해주고 싶은 말 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -805,12 +881,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDFfNTEg/MDAxNjQ2MTM5NjY2NDEz.rFdjS5nAd-eSDXaxEkJOM2Wfn7dnWs3s9PWHgAzIedwg.0dj4e7_hDFH0S8ylCUYdR3skaTtjzlZ4XC8JkNqdZUwg.JPEG/KakaoTalk_20220225_195946089_05.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[선택 받은 ' 너드 백인 '이  수도승 1000명의 힘을 얻으면? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220402145120318pB</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220402145120318pB</guid>
+            <title><![CDATA[3월 월간마켓포인트 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/realbigdata/realbig/contents/220402100222249zW</link>
+            <guid>https://contents.premium.naver.com/realbigdata/realbig/contents/220402100222249zW</guid>
             <pubDate>Fri, 15 Apr 2022 15:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 오리지널 시리즈 '오행자객' - 대하여  일부 서양 팬덤에서는 동양 무술과 신비에 대한 특유의 환상이 있는 것으로 보인다. 이러한 팬덤을 노린 작품인지 서양을 배경으로 펼쳐지는 무술 이야기가 자주 보인다. 보통 쿵후나 가라데를 중심으로 이야기를 만들어나갈 때, 아서 신화처럼 선택받은 자를 주인공으로 내세운다.    문제는 이러한 ‘선택받은 자’가 너드 백인]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDJfMjUy/MDAxNjQ4ODc4NTc5NzA2.moGR0_aV9rj_90f1XPC-TkdciAhBnXEj8p7isLmNhJog.sGnEfLzU8Ckt07QcWI_YX5VesiASgK9CSe1kzeRkRpQg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-04-02T144506.584.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[리얼빅의 새로운 카테고리인 ‘월간마켓포인트’는 매월 전국도시의 동향을 데이터중심으로 살펴봅니다. 전국 '시.도단위' 집값데이터와 그 하위지역인 '시군구'의 집값데이터, 그리고 '시군구 주요아파트'의 시세추이까지 Top-down 해석을 제공하고, 미래 집값의 중요한 단서인 입주예정물량 데이터도 살펴보며 향후전망을 제공합니다.  매월마다 전국시장 흐름을 데이터로 균형]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDJfMjAy/MDAxNjQ4ODYwNDY5NDQ0.THbeyT85OMD66plEbr7hAJNQwZO9MwqMBuArzHZa6Dsg.kQknDhTVEOYH2PEtyWSg7Z28oWjDPJ8VNJGxfdSeUTwg.PNG/%EB%B9%85%EB%A6%AC%EC%96%BC-%EC%8D%B8%EB%84%A4%EC%9D%BC-003.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[자신감이 부족한 당신에게 해주고 싶은 말 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -821,12 +897,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjZfMTU5/MDAxNjQ1ODUwNDk3NDY2.GUB48iDd7ul6HIa1no1sf4haB8JB69T7jZhfInGNuAcg.SCtAAIBEAm1wgGYTxSmUFBeGEUtQF2u1T9lpfecFYxcg.JPEG/KakaoTalk_20220225_195946089_08.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아름답지만 잔인하고 쓸쓸했던 도시, 파리-<파리의 딜릴리>, <미드나잇 인 파리> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/moku/mokumoku/contents/220404124505878GA</link>
-            <guid>https://contents.premium.naver.com/moku/mokumoku/contents/220404124505878GA</guid>
+            <title><![CDATA[선택 받은 ' 너드 백인 '이  수도승 1000명의 힘을 얻으면? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220402145120318pB</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220402145120318pB</guid>
             <pubDate>Fri, 15 Apr 2022 15:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[작은 소녀가 파리 곳곳을 누빈다. 화려한 광장에서 빈민촌과 하수구까지. 소녀에게 파리는 아름답지만 무섭고, 빛나지만 어두운 곳이다. 소녀는 많은 사람들을 만나 질문을 던진다. 하고 싶은 것도, 궁금한 것도 많은 그 소녀는 딜릴리.  1890년대 파리, 여자 아이들이 갑자기 사라지는 사건이 일어난다. 딜릴리는 끔찍한 유괴 사건을 해결하기 위해 파리 곳곳을 돌아 다닌다. 르누]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfMTQ0/MDAxNjQ5NTAxMjY3MzU5.YVg0uE3rQMeqlrMLAnwE10WdQd46gunJOjcoWAhPygkg.zZd9dilSAXUWUvLOd8W89QzQI5jyZHGuImmLHNu9_4wg.JPEG/rr.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[넷플릭스 오리지널 시리즈 '오행자객' - 대하여  일부 서양 팬덤에서는 동양 무술과 신비에 대한 특유의 환상이 있는 것으로 보인다. 이러한 팬덤을 노린 작품인지 서양을 배경으로 펼쳐지는 무술 이야기가 자주 보인다. 보통 쿵후나 가라데를 중심으로 이야기를 만들어나갈 때, 아서 신화처럼 선택받은 자를 주인공으로 내세운다.    문제는 이러한 ‘선택받은 자’가 너드 백인]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDJfMjUy/MDAxNjQ4ODc4NTc5NzA2.moGR0_aV9rj_90f1XPC-TkdciAhBnXEj8p7isLmNhJog.sGnEfLzU8Ckt07QcWI_YX5VesiASgK9CSe1kzeRkRpQg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-04-02T144506.584.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포기하지 않는 당신에게 해주고 싶은 말 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/yoonseol/writer/contents/220225013350582YR</link>
+            <guid>https://contents.premium.naver.com/yoonseol/writer/contents/220225013350582YR</guid>
+            <pubDate>Sat, 16 Apr 2022 02:58:54 GMT</pubDate>
+            <content:encoded><![CDATA[당신은 조금 특별하다. 당신이 세상에서 단 한 사람이기 때문이라는 뻔한 이야기를 하려는 것이 아니다. 당신의 생김새, 목소리, 성격이 다른 사람과는 다르기 때문이라는 뻔한 이야기를 하려는 것이 아니다. 나는 당신이 삶에 맞서 싸우는 모습을 보았다. 셀 수도 없이 많은 고난과 역경 속에서 또다시 일어나려는 당신의 모습을 보았다. 누구나 넘어지면 힘들기 마련이겠지. 누]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjVfNDQg/MDAxNjQ1NzE5MTI4MDgy.NkaXi7PklZRiYzHtRyHHzUrFFxcHACUOMNB9-nGdcBQg.OAS7rwgueYCOYMV0pp_E2Mw8hWWnKeHCIa6DLIWTHH8g.JPEG/IMG_20220203_223842_670.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
