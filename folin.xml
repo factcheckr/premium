@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-04-17T21:20:46.075Z</updated>
+    <updated>2022-04-17T22:24:08.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퓨처플레이는 대기업 사내 벤처를 어떻게 바꾸나]]></title>
+        <id>https://www.folin.co/story/2123</id>
+        <link href="https://www.folin.co/story/2123"/>
+        <updated>2022-04-17T22:23:20.573Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SNS 100만번 언급된 '더현대 서울' 무엇이 달랐나]]></title>
         <id>https://www.folin.co/story/2161</id>
@@ -284,13 +292,5 @@
         <updated>2022-03-15T23:23:24.939Z</updated>
         <content type="html"><![CDATA[<li>공간</li>
                                 <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중견기업·스타트업 거친 네이버웍스 기획자의 커리어 조언]]></title>
-        <id>https://www.folin.co/story/2105</id>
-        <link href="https://www.folin.co/story/2105"/>
-        <updated>2022-03-15T23:23:24.941Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
     </entry>
 </feed>

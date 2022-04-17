@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 21:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 22:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -469,6 +469,14 @@
             <content:encoded><![CDATA[김포시 월곶면은 김포 시내보다 강화도에 더 가깝습니다. 가끔 군용 트럭이 지나다니는 한적한 국도 변. 이런 곳에 찻집이 있을까 싶은 곳에 카페 진정성이 운영하는 다실茶室, 진정성 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[퓨처플레이는 대기업 사내 벤처를 어떻게 바꾸나 (폴인)]]></title>
+            <link>https://www.folin.co/story/2123</link>
+            <guid>https://www.folin.co/story/2123</guid>
+            <pubDate>Sun, 17 Apr 2022 22:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[SNS 100만번 언급된 '더현대 서울' 무엇이 달랐나 (폴인)]]></title>
             <link>https://www.folin.co/story/2161</link>
             <guid>https://www.folin.co/story/2161</guid>
@@ -747,14 +755,6 @@
             <pubDate>Tue, 15 Mar 2022 23:23:24 GMT</pubDate>
             <content:encoded><![CDATA[<li>공간</li>
                                 <li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중견기업·스타트업 거친 네이버웍스 기획자의 커리어 조언 (폴인)]]></title>
-            <link>https://www.folin.co/story/2105</link>
-            <guid>https://www.folin.co/story/2105</guid>
-            <pubDate>Tue, 15 Mar 2022 23:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 열두 번째 -코로나19는 '우리'라는 단어에 관한 질문을 남겼습니다. (북저널리즘)]]></title>
