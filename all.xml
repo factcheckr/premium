@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 08:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 09:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -849,14 +849,6 @@
             <content:encoded><![CDATA[테이스트 오브 브랜드]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Sat, 16 Apr 2022 01:46:02 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[무엇인가 시작하기 좋은 봄 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/crsh/ilgan/contents/220411080955850dA</link>
             <guid>https://contents.premium.naver.com/crsh/ilgan/contents/220411080955850dA</guid>
@@ -865,12 +857,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTFfMjcw/MDAxNjQ5NjMyMTUzODU4.GakOsS5SRFiRvy3RrsHTpWom8cUWFROw4FO08bUKULAg.dPBK-wCDa7ECeA4a8tiwuGzkqLPfIhUC7ldStS5cIOwg.PNG/%EC%9D%BC%EA%B0%84%EC%A0%95%EC%9E%AC%EA%B2%BD_(22).png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[싱싱한 주간 이슈 🎣] 안녕? 난 수세미야. 먹을 수 있지 🧼😋 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220331170721381vZ</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220331170721381vZ</guid>
-            <pubDate>Sat, 16 Apr 2022 15:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[#3 싱싱한 주간 이슈🎣 👇 입에 양보하세요. 수세미 쑥설기 🧼😋 이것은 수세미인가 쑥설기인가. 안녕하세요 쿠캣 쑥설기입니다.🧼 쿠캣이 만우절을 맞아 장난감.. 아니 장난음식을 만들었어요. 주인공은 수세미랑 똑같이 생긴 쑥설기입니다. 포장지에서 3M 수세미 향이 짙게 나는데 포장지에 "절대 먹으시오"라는 멘트가 매우 요상하네요😬 쿠캣의 쑥설기 빌드업은 무려 2년 전으로]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjE4/MDAxNjQ4NjE1OTQzMjk3.czVFKepKvM9kDAomY6EYMs76EWL3wTHRm1Icq3r2x_wg.u57t-EHowOrm1vP5yTejO1fb2LiJURFGObly8qYuWYIg.JPEG/0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Sat, 16 Apr 2022 01:46:02 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[미국 사상 첫 흑인 여성 대법관 후보, 상원 인준 통과 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -881,12 +873,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTJfMTcg/MDAxNjQ5NzEyNTA1NTYx.UmMxblzcQg_6b9I6GoOiUqrtaeQOR-AxtlHsK0aRuOUg.-7HdQ5_XHIyrLsH8d3K2kSgZ76EURVccfyBXx1y3qVIg.JPEG/Ketanji-Jackson-1200x675-795x447.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[서른 아홉의 라흐마니노프 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220411131106406Dj</link>
-            <guid>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220411131106406Dj</guid>
-            <pubDate>Sun, 17 Apr 2022 15:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[얼마 전 종영했던 드라마 &lt;서른, 아홉&gt; 속 라흐마니노프에 대한 이야기를 써보았습니다.  네이버 연애결혼에 연재 중인 '정은주의 발칙한 클래식']]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTFfMjY3/MDAxNjQ5NjUwMTkzMDEx.AdXjbgwArNuuPudVLzfDy4-az6U19rrsjB5NEl99h2Ug.KQVTKBvk_t0bdJHdPinyGEQBGYh318dQvm4qXBHOhPAg.JPEG/%EC%84%9C%EB%A5%B8%EC%95%84%ED%99%89.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[싱싱한 주간 이슈 🎣] 안녕? 난 수세미야. 먹을 수 있지 🧼😋 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220331170721381vZ</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220331170721381vZ</guid>
+            <pubDate>Sat, 16 Apr 2022 15:25:23 GMT</pubDate>
+            <content:encoded><![CDATA[#3 싱싱한 주간 이슈🎣 👇 입에 양보하세요. 수세미 쑥설기 🧼😋 이것은 수세미인가 쑥설기인가. 안녕하세요 쿠캣 쑥설기입니다.🧼 쿠캣이 만우절을 맞아 장난감.. 아니 장난음식을 만들었어요. 주인공은 수세미랑 똑같이 생긴 쑥설기입니다. 포장지에서 3M 수세미 향이 짙게 나는데 포장지에 "절대 먹으시오"라는 멘트가 매우 요상하네요😬 쿠캣의 쑥설기 빌드업은 무려 2년 전으로]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjE4/MDAxNjQ4NjE1OTQzMjk3.czVFKepKvM9kDAomY6EYMs76EWL3wTHRm1Icq3r2x_wg.u57t-EHowOrm1vP5yTejO1fb2LiJURFGObly8qYuWYIg.JPEG/0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[업비트] 질리카(ZIL) 차트 분석 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -897,12 +889,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzFfMTQg/MDAxNjQ4NzMyNDAxMzg2.KO96HyBqrmO6d0TzPHlmkFGrzTJmqeVhpn8QfsPQxksg.SQt0j5uzJy1VF0pcJ4hfGaUn_En9jY-1mIxb78f6OwYg.PNG/SE-35666133-dadc-4877-9d02-b91e066d75b9.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[비록 이 길이 순탄치는 않더라도. ─ 영화, <드라이브 마이 카> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220411205642003Vb</link>
-            <guid>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220411205642003Vb</guid>
+            <title><![CDATA[서른 아홉의 라흐마니노프 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220411131106406Dj</link>
+            <guid>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220411131106406Dj</guid>
             <pubDate>Sun, 17 Apr 2022 15:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[“지금도 누군가는 자신의 직종에 종사하면서 더 나은 내일을 위해 노력하고, 자신의 꿈을 위해 학업에 전념하고있을 것이다. 그들의 투쟁에 조용한 존경과 박수를 보내며, 나 역시 나의 청새치를 낚아볼것이라고 다짐한다. 난 아직 젊고, 욕심이 많아서 노인처럼 뼈만 남겨서 항구로 돌아오진 않을것이다. 고스란히 끌고 오리라.” 자그마치 6년 전에 &lt;노인과 바다&gt;를 읽고 썼던]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTFfMzcg/MDAxNjQ5NjQ5NjIzODY5.2fGVT3DrkiUyFEQ_WlZSvf7fjuCPO24nS6lhPZdL1iwg.G_9HUDmi2QSO5L_IRUloFIRLk7Y_7_G66wrUGyC4uN8g.JPEG/drive.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[얼마 전 종영했던 드라마 &lt;서른, 아홉&gt; 속 라흐마니노프에 대한 이야기를 써보았습니다.  네이버 연애결혼에 연재 중인 '정은주의 발칙한 클래식']]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTFfMjY3/MDAxNjQ5NjUwMTkzMDEx.AdXjbgwArNuuPudVLzfDy4-az6U19rrsjB5NEl99h2Ug.KQVTKBvk_t0bdJHdPinyGEQBGYh318dQvm4qXBHOhPAg.JPEG/%EC%84%9C%EB%A5%B8%EC%95%84%ED%99%89.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[▶꾸준한 수익을 낼 수 있는 사고의 전환 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -913,12 +905,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTRfMjg1/MDAxNjQ5OTE1ODc4NjIw.nhqkmquXLJjRPqOYLlxQpRbqzoMWNHwczsgKoIAGV2gg.nz9RonzNCku3p2aqzrGkXhd55k70mWczZb5OCTGN9uUg.JPEG/SE-81b95f61-7eeb-4851-bb2f-35d8f48ffd78.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성물산 면접 질문 다 모았다.zip (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/220413162757796XK</link>
-            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/220413162757796XK</guid>
-            <pubDate>Mon, 18 Apr 2022 08:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[[JP요원 취업tip] 대기업은 면접에서 뭘 물어볼까? feat.삼성물산 삼성전자 등 18개 삼성 관계사들의 2022년 상반기 신입사원 공채 지원이 지난 3월 21일 마감됐다. 서류 발표는 4월 셋째주로 예상되는 가운데, 5월에는 서류 합격자를 대상으로 한 삼성직무적성검사(GSAT)가, 6월에는 원데이 면접이 진행될 예정이다. 삼성과 같은 대기업은 면접에서 어떤 걸 물어볼까? 궁금한 분들과, 면]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTVfNjMg/MDAxNjQ5OTk1NTM3NjU4.HkCbfVFVLsVGgexLzpuBJ_MXOyNRuri8VuNC44akoksg.gD838jEmW0xZwNfYjSzAbx3aSoErQlQQ-gpBznY0LXcg.JPEG/JP%EC%9A%94%EC%9B%90%EC%9D%98-%EC%B7%A8%EC%97%85-%ED%8C%81.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[비록 이 길이 순탄치는 않더라도. ─ 영화, <드라이브 마이 카> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220411205642003Vb</link>
+            <guid>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220411205642003Vb</guid>
+            <pubDate>Sun, 17 Apr 2022 15:25:23 GMT</pubDate>
+            <content:encoded><![CDATA[“지금도 누군가는 자신의 직종에 종사하면서 더 나은 내일을 위해 노력하고, 자신의 꿈을 위해 학업에 전념하고있을 것이다. 그들의 투쟁에 조용한 존경과 박수를 보내며, 나 역시 나의 청새치를 낚아볼것이라고 다짐한다. 난 아직 젊고, 욕심이 많아서 노인처럼 뼈만 남겨서 항구로 돌아오진 않을것이다. 고스란히 끌고 오리라.” 자그마치 6년 전에 &lt;노인과 바다&gt;를 읽고 썼던]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTFfMzcg/MDAxNjQ5NjQ5NjIzODY5.2fGVT3DrkiUyFEQ_WlZSvf7fjuCPO24nS6lhPZdL1iwg.G_9HUDmi2QSO5L_IRUloFIRLk7Y_7_G66wrUGyC4uN8g.JPEG/drive.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 주의 급등락 코인 TOP 5 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/coindesk/nextmoney/contents/220417101349532oY</link>
+            <guid>https://contents.premium.naver.com/coindesk/nextmoney/contents/220417101349532oY</guid>
+            <pubDate>Mon, 18 Apr 2022 09:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[주간 급등 코인 1. XDB(디지털비츠) 17일 오전 9시40분 기준 0.3889달러 지난주 대비 55.14% 상승 시가총액 3억6896만1755달러 최근 뉴스 - 아스트라엑스(AstraX) 지갑이 이제 디지털비츠를 지원합니다 2. PRO(프로피) 17일 오전 9시40분 기준 2.03달러 지난주 대비 43.91% 상승 시가총액 1억4849만9088달러 최근 뉴스 - 프로피 프로젝트가 발행한 '탬파 콘도(Tampa Condo)' NFT가 21만5000달러에 팔렸습니다.  3]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTdfMTk0/MDAxNjUwMTU4MDUwNjQ3.kv7mjeHx7SL7r_dIcqeoHa-Zv64ybcFhpqgtiCG-gIQg.qtJAslFD61AFKaK1iBeaIsK-d8EOW81rfnKzWh4qwbog.PNG/%ED%95%9C_%EC%A3%BC%EC%9D%98_%EA%B8%89%EB%93%B1%EB%9D%BD.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
