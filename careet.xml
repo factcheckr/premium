@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 23:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 02:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ세대 커뮤니티 눈팅은 이렇게 하는 겁니다]]></title>
+            <link>https://www.careet.net/721</link>
+            <guid>https://www.careet.net/721</guid>
+            <pubDate>Mon, 18 Apr 2022 02:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[‘마케터 일 잘한다’는 칭찬 게시물이 커뮤니티에 올라왔다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/8d92a69a-a8b1-4b5f-91f2-7e2d7b60e0c1_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[#제2의포켓몬빵 #치인트외전 #지브리카페 나만 몰랐던 이번 주 유행템]]></title>
             <link>https://www.careet.net/720</link>
