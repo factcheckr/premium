@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-04-18T14:23:14.235Z</updated>
+    <updated>2022-04-18T15:24:57.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19로 임시 허용됐던 비대면 진료의 합법화가 검토 중이다. 팬데믹은 사실상 끝났으나, 비대면 진료는 이제 시작이다.]]></title>
+        <id>https://www.bookjournalism.com/books/50255</id>
+        <link href="https://www.bookjournalism.com/books/50255"/>
+        <updated>2022-04-18T15:24:48.681Z</updated>
+        <content type="html"><![CDATA[슬기로운 환자생활]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 열두 번째 -코로나19는 '우리'라는 단어에 관한 질문을 남겼습니다.]]></title>
         <id>https://www.bookjournalism.com/books/50230</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/50002"/>
         <updated>2022-04-18T14:23:06.029Z</updated>
         <content type="html"><![CDATA[플랫폼이 필요해서 트위터 좀 샀어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품 브랜드가 F&B 사업에 뛰어든다. F&B는 왜 유용한 브랜딩 전략인가?]]></title>
-        <id>https://www.bookjournalism.com/books/49984</id>
-        <link href="https://www.bookjournalism.com/books/49984"/>
-        <updated>2022-04-18T14:23:06.031Z</updated>
-        <content type="html"><![CDATA[테이스트 오브 브랜드]]></content>
     </entry>
 </feed>
