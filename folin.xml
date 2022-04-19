@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-04-19T02:04:50.189Z</updated>
+    <updated>2022-04-19T03:56:49.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[출시 두 달만에 천만 병 판매한 진로, 리브랜딩 비결은]]></title>
+        <id>https://www.folin.co/story/2145</id>
+        <link href="https://www.folin.co/story/2145"/>
+        <updated>2022-04-19T03:56:31.017Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퓨처플레이는 대기업 사내 벤처를 어떻게 바꾸나]]></title>
         <id>https://www.folin.co/story/2123</id>
@@ -284,13 +292,5 @@
         <updated>2022-03-16T22:21:46.037Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['에피소드'가 신규 지점 4곳을 동시오픈한 이유]]></title>
-        <id>https://www.folin.co/story/2118</id>
-        <link href="https://www.folin.co/story/2118"/>
-        <updated>2022-03-15T23:23:24.939Z</updated>
-        <content type="html"><![CDATA[<li>공간</li>
-                                <li>라이프스타일</li>]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 02:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 03:56:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -493,6 +493,14 @@
             <content:encoded><![CDATA[새벽배송 어디에서 주문해? 컬리나 쿠팡, 아니면 이마트 쓱SSG닷컴? 혹시 오아시스OASIS라고 들<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[출시 두 달만에 천만 병 판매한 진로, 리브랜딩 비결은 (폴인)]]></title>
+            <link>https://www.folin.co/story/2145</link>
+            <guid>https://www.folin.co/story/2145</guid>
+            <pubDate>Tue, 19 Apr 2022 03:56:31 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[퓨처플레이는 대기업 사내 벤처를 어떻게 바꾸나 (폴인)]]></title>
             <link>https://www.folin.co/story/2123</link>
             <guid>https://www.folin.co/story/2123</guid>
@@ -771,14 +779,6 @@
             <pubDate>Wed, 16 Mar 2022 22:21:46 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['에피소드'가 신규 지점 4곳을 동시오픈한 이유 (폴인)]]></title>
-            <link>https://www.folin.co/story/2118</link>
-            <guid>https://www.folin.co/story/2118</guid>
-            <pubDate>Tue, 15 Mar 2022 23:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[<li>공간</li>
-                                <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19로 임시 허용됐던 비대면 진료의 합법화가 검토 중이다. 팬데믹은 사실상 끝났으나, 비대면 진료는 이제 시작이다. (북저널리즘)]]></title>
