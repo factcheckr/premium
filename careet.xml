@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 23:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 02:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내년엔 반드시 챙겨야 할 기념일! 지구의 날 레퍼런스 모음.zip]]></title>
+            <link>https://www.careet.net/367</link>
+            <guid>https://www.careet.net/367</guid>
+            <pubDate>Tue, 19 Apr 2022 02:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[올해 다른 브랜드들은 지구의 날 이렇게 챙겼대요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202104/d1f306e0-7db5-48aa-9ef1-444b50845ddc_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MZ세대 커뮤니티 눈팅은 이렇게 하는 겁니다]]></title>
             <link>https://www.careet.net/721</link>
@@ -46,6 +54,14 @@
             <pubDate>Tue, 12 Apr 2022 06:28:46 GMT</pubDate>
             <content:encoded><![CDATA[미래 소비 주역! Z세대 500인 설문조사한 데이터 공개합니다]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/8ded7275-f3d8-43cd-8ea0-b5f08248cccf_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[월간 해외 트렌드]  그린피스부터 맥도날드까지, Z세대가 칭찬한 해외 브랜드 레퍼런스]]></title>
+            <link>https://www.careet.net/715</link>
+            <guid>https://www.careet.net/715</guid>
+            <pubDate>Tue, 19 Apr 2022 02:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[단 5분, 콘텐츠 하나로 글로벌 트렌드 공부하세요]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/cdf6213f-13b9-4ac0-963b-ad254b7725ca_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이력서에 MBTI 적어서 내는 거 어떻게 생각해? Z세대 500명에게 물었습니다.]]></title>
