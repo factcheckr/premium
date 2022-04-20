@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 14:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 15:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -494,11 +494,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/88199642-5f4d-4ba8-9730-69ccc5b5dfb2_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[스톤아일랜드 : 40년 이탈리아 브랜드, 글로벌 MZ픽이 된 전략 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/265</link>
-            <guid>https://www.longblack.co/note/265</guid>
-            <pubDate>Tue, 19 Apr 2022 15:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[스톤아일랜드Stone Island라고 들어봤어? 요즘 명품 쇼핑몰 구경하다 보면 늘 판매 순위 상위권에 그 브랜드가 있더라고. 궁금해 찾아봤더니, 1983년<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[바마셀 : 1세대 스타 바리스타, 6평 에스프레소 바에서 혼자 일하는 이유 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/269</link>
+            <guid>https://www.longblack.co/note/269</guid>
+            <pubDate>Wed, 20 Apr 2022 15:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[에스프레소, 사실 좀 어렵잖아요. 그래서 우리는 물을 탄 아메리카노, 우유를 탄 라떼를 마시곤 했죠. 그런데 언제부터인가 에스프레소espresso* 인기가 뜨거워졌어요. 깜찍한 사<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연간 100만 개 '팔리는' 대나무 칫솔 만들기까지 (폴인)]]></title>
@@ -873,12 +873,36 @@
             <content:encoded><![CDATA[구찌는 식당을 열고, 일론 머스크는 트위터를 사고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기업의 미래수익성, 재무제표 속에 답있다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220217171413977Me</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220217171413977Me</guid>
-            <pubDate>Tue, 19 Apr 2022 15:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[미래를 대비하기 위해서는 과거를 공부하고 현재를 분석하는 과정이 필요하다. 회사도 분기별, 반기별 또는 연말 보고서를 통해 회사들의 성과와 현재 자산상태를 공시한다. 재무제표는 '현재'를 기준으로 작성하고 현재의 재무제표는 작년 말 기준의 수치를 비교해서 보여준다. 투자자들은 재무제표에 나타난 숫자를 분석해 그 기업의 수익성, 안정성, 성장성을 파악하고 투자]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTdfOTgg/MDAxNjQ1MDg1NDI1NDE1.7TTRst-S2jPuFMD7ZvudYdvfER4Emg-VoeEARng_04Mg.mIxHPKxabLlG8ybWKGtKlA9er5KKFxQSXfBmo2dRgqog.JPEG/%EB%84%88%EB%82%98%ED%9A%8C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 01.진정한 나를 찾고 싶었다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220119130643846Lr</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220119130643846Lr</guid>
+            <pubDate>Wed, 20 Apr 2022 15:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ 01. &lt;진정한 나를 찾고 싶었다.&gt; ​ 허황한 욕망 속에서, ​ 살다 보니 그렇다. 인생은 언제나 편안할 수만은 없었다. 복잡하고 때론 아프고 혼란스럽기도 한 삶 속에서, 이제는 차분함을 유지하며 행복하게 살아가고 싶은 마음뿐이다. 어질어질 복잡함의 세계에 눈을 떴었던 과거의 시간. 자아를 찾기 위해 고민했던 시간. 나도 모르게 시끄러]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTlfMTcz/MDAxNjQyNTY0MzUzNTA2.ylaDuR8QM_QPh78oaADodJTGrGONsQ85SjO3KWiJCK0g.lkonS5NmmcVQ15NNP72hb9fztE4JLi7477OiXFcvt1Yg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빠르게 변화하는 세상. 나와 우리, 지구를 위한 '지속 가능한 삶'으로, 행복의 미래를 모색하는 <베드제드 플래닛> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220117032201312ws</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220117032201312ws</guid>
+            <pubDate>Wed, 20 Apr 2022 15:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[빠르게 변화하는 세상. 나와 우리, 지구를 위한  '지속 가능한 삶'으로, 행복의 미래를 모색하는 &lt;베드제드 플래닛&gt; https://youtu.be/Nz5CoQJWcLk 비우면 비울수록 풍요로워지는 '미니멀리즘'으로 진정한 자유와 행복을 그려낸다. 이것이 빠르게 변화하는 세상 속 나와 우리. 지구, 미래를 위한, '지속 가능한 삶'의 세계였다. ​ 나와 우리를 위해,  건강한 지구, 미래를 위해, ​ Our Home,  초]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTZfMjUx/MDAxNjQyMjY2MjkzOTEy.NlB2SEOeBOQ13nq0J3w7RKEXoF7lCsPlpyAsQvyF2VMg.GbhYqHqzsKvzcrNSjJfjiu2mfmmSHElUr4-QdVvxrlYg.JPEG/vincent-ledvina-t_N2U9wjB8k-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 03. 내게 필요한 건, '비움'이었다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220202203954049GL</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220202203954049GL</guid>
+            <pubDate>Wed, 20 Apr 2022 15:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ ​ 03. &lt;내게 필요한 건, '비움'이었다.&gt; ​ 음지의 꽃 ​ 칠흑 같던 어두운 밤, 짙고 캄캄했던 밤하늘. 지금 생각해 보면, 5년이란 시간은 너무나 길었다. 금쪽같은 시간은 흘러만 가고, 하루하루 조금씩 나이를 먹어 가는 속절없는 자동 흐름에, 시간의 소중함이 뼈저리게 느껴져 온다. 내가 보통 사람들과 다를 바 없는 아프지 않고 건강했던]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjdfOTYg/MDAxNjQzMjU2OTczMzEy.pjdKoM0ceoRst9_G5x8xOV7cw9g1OEJOBTGgAnDzSVcg.HCkZXl2FwuMQst07ZUN6dyCxUa821Ry0fsZqD87LV30g.JPEG/255.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 02. 환청 / 영들과의 만남 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220127134324185mI</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220127134324185mI</guid>
+            <pubDate>Wed, 20 Apr 2022 15:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ 02. &lt;환청&gt; ​ 영들과의 만남 ​ 그렇게 해서 시작하게 된 성경 공부. '성경 공부'를 시작한 지 2~3개월 정도 지나고, 어느 늦은 밤. 집에 들어와 침대에 누워 스르르 잠이 들었다. 나는 생전 처음으로 희미하게 펼쳐진 파아란 하늘 위에 떠다니는 커다란 십자가 꿈을 꾸게 되었다. 그 꿈을 꾼 다음 날. 뭔가 기분이 이상하게 묘했다. ‘정말 이런]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjdfMjAg/MDAxNjQzMjU3MzA5MDE1.a9X0tCSxZB9DCX4rtq1M1-k_9UEUzMfeIqAb6lWwMDcg.cnDV56u-iLDpm873ymc2H4IDfpX4BrGYMF5nxvHbKE0g.JPEG/261.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -889,12 +913,28 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[혹시 내게 무슨 일이 생기면 (2020) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220217192706143mJ</link>
-            <guid>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220217192706143mJ</guid>
-            <pubDate>Tue, 19 Apr 2022 15:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[**어바웃 무비의 모든 글은 스포일러를 포함하고 있습니다. **이 작품 &lt;혹시 내게 무슨 일이 생기면&gt;은 현재 넷플릭스를 통해 관람할 수 있습니다. 서로 닿을 수 없을 만큼 가로로 긴 식탁에서 한 부모가 식사를 하고 있다. 식탁의 양 끝 쪽에 앉은 두 사람은 서로 눈을 마주치지도 않고 대화도 한 마디 나누지 않는다. 그저 식사를 할 뿐. 그마저도 엄마는 제대로 하지 못한다. 두 사]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTdfMjc0/MDAxNjQ1MDkzOTU2Njk1.J5L3m38jiFkojl86GuRkxJ3b1HA_vELkGB5Liw4tAekg.cxMj-T3g8Joo7nHgdq-AzHgsuLgAllbgx0yGqXsLMrIg.JPEG/%ED%98%B9%EC%8B%9C%EB%82%B4%EA%B2%8C%EB%AC%B4%EC%8A%A8%EC%9D%BC%EC%9D%B4%EC%83%9D%EA%B8%B0%EB%A9%B4_2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 04. 조금은 변화하고 싶다. / 마이 유니버스, <BedZED> 세계관을 그리다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220315172721743hY</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220315172721743hY</guid>
+            <pubDate>Wed, 20 Apr 2022 15:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ 04. &lt;조금은 변화하고 싶다.  마이 유니버스, &lt;BedZED&gt; 세계관을 그리다.&gt; ​ 새로운 관심사 ​ 환청의 소리가 서서히 사라지게 되자, 나는 일단 무엇인가를 해야만 했다. 그래서 아빠가 소속되어 계시는 ‘환경기술인협회’ 일들을 조금씩 도와주게 되었다. 아빠는 환경공학을 전공하신 분이었고, 젊은 시절, 아빠는 환경분야 쪽에서 일을 해오]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfMjIg/MDAxNjQ3MzI5MDk1MDg4.6e6ok-GVhJXjZ71D95Dg8UtkTEm1y-DRBIxs3mtpqSIg.1N_DUyeWu-QDgFusmtriRWbbux8V-tlgfmvyzpZ2i_Yg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[지속 가능한 삶은, 미니멀 라이프] 01. 나는 단순하게 살기로 했다. / 나에게도 좋고, 지구에게도 좋고, 소소한 생활의 행복. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220324002138564mZ</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220324002138564mZ</guid>
+            <pubDate>Wed, 20 Apr 2022 15:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛 / 지속 가능한 삶은, 미니멀 라이프] 01. ​ 나는 단순하게 살기로 했다.  ​ &lt;나에게도 좋고, 지구에게도 좋고, 소소한 생활의 행복.&gt; ​ 시끄러운 고통의 생활을 접고, 제2의 인생을 시작해나가기 위해, 무엇인가 좋은 것을 채우기 위한 ‘비움’이 나에겐 꼭 필요했다. 무엇인가 복잡하고 혼란스러운 나의 머릿속을 비워내고, 매일매일 홀가분해지고 싶은 욕망이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjNfNDAg/MDAxNjQ4MDQ0NDI3MTQ4.NlMbu5XAb8Hlx4FyOkmxKAhLGurvM33CCfVfy38SIF8g.p_9GaGL6Yafx5vZmON8WXFa8UxHQhddEJP42rl_xnvMg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽃길만 걷게 되는 순천 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bkdc/workntrip/contents/220405111428023ef</link>
+            <guid>https://contents.premium.naver.com/bkdc/workntrip/contents/220405111428023ef</guid>
+            <pubDate>Wed, 20 Apr 2022 15:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[과거 먹고 살기 힘든 시절에는 "밥은 먹었니"라는 것이 안부를 묻는 인사였다. 밥 먹고 사는 것이 어느 정도 해소된 이후에는 "부자 되세요"라는 광고문구가 유행했었는데, 그 당시 사회상을 상징적으로 나타내는 것이었다. 그렇다면 현재 사회상을 가장 잘 나타내는 키워드는 무엇일까? 인공지능? 모바일? 워라밸? 개인적인 생각엔 "꽃길만 걸으세요"가 아닐까 싶다.  굶주림의 문]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDVfMTMy/MDAxNjQ5MTI0MzA1NzM5.4UQXiCCFpnrEf5WXo786xOIU9rYC4jS6h_cZPKXVoH0g.DCKeimL5m6xb8p-oDn1pYoyVRbJkOviLOxbS4C9iWQUg.JPEG/DA01-A01.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[싱싱한 주간 이슈 🎣] 안녕? 난 수세미야. 먹을 수 있지 🧼😋 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -903,46 +943,6 @@
             <pubDate>Tue, 19 Apr 2022 16:39:46 GMT</pubDate>
             <content:encoded><![CDATA[#3 싱싱한 주간 이슈🎣 👇 입에 양보하세요. 수세미 쑥설기 🧼😋 이것은 수세미인가 쑥설기인가. 안녕하세요 쿠캣 쑥설기입니다.🧼 쿠캣이 만우절을 맞아 장난감.. 아니 장난음식을 만들었어요. 주인공은 수세미랑 똑같이 생긴 쑥설기입니다. 포장지에서 3M 수세미 향이 짙게 나는데 포장지에 "절대 먹으시오"라는 멘트가 매우 요상하네요😬 쿠캣의 쑥설기 빌드업은 무려 2년 전으로]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjE4/MDAxNjQ4NjE1OTQzMjk3.czVFKepKvM9kDAomY6EYMs76EWL3wTHRm1Icq3r2x_wg.u57t-EHowOrm1vP5yTejO1fb2LiJURFGObly8qYuWYIg.JPEG/0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미분양, 그것이 알고싶다 (미분양 뽀개기_#1) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/realbigdata/realbig/contents/220321142519358fm</link>
-            <guid>https://contents.premium.naver.com/realbigdata/realbig/contents/220321142519358fm</guid>
-            <pubDate>Tue, 19 Apr 2022 15:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[데이터로 경제를 분석하고 주식시장을 예측하는 이코노미스트처럼, 빅데이터로 부동산 시장을 예측하는 ‘하우스 노미스트(House + Nomist)’의 업역을 개척해온지 어느덧 10년이 넘었습니다. 운이 좋아 ‘빅데이터로 예측하는 대한민국 부동산의 미래(미지biz, 2018년)’ 라는 책을 집필하였고, 주간지(주간동아)에 부동산 빅데이터 칼럼을 연재하고 있습니다. 올해부터는 리얼빅 (Rea]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjFfODYg/MDAxNjQ3ODY0ODY2ODQ3.sLXnffS8Xt26tii7ReXhiNySj-eQUp4T6dTxZlU6u_cg.tU71DJEvxBdhYhJ9NVukbbUpX80BnYfO2h2hKmjBrIUg.PNG/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_(1).png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[투자자금의 성격이 투자의 성패를 좌우한다!!!! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/cityrichman/cityrichman1/contents/220413005444906wx</link>
-            <guid>https://contents.premium.naver.com/cityrichman/cityrichman1/contents/220413005444906wx</guid>
-            <pubDate>Tue, 19 Apr 2022 15:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[우리의 계절은 늘 봄, 여름, 가을, 겨울을 순환하며 바뀝니다. 계절과 마찬가지로 부동산시장 역시 상승, 하락, 후퇴, 회복기를 거치면서 순환합니다. 그래서 부동산을 구입한 목적과 관계없이 가격상승과 하락에 따라 희비가 교차하는 것은 지극히 자연스러운 현상이라 할 수 있습니다.  부동산시장이 상승과 하락을 거듭하면서 자연스럽게 순환하기는 하지만 항상 일정한 패턴]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTNfMjg0/MDAxNjQ5Nzc4MzcyMjM3.gq70uCzF8CPdXOTVLWWCp_9_c32R45J4iwS-3GWzPFUg.-eMXR6FGhMwFKuAaFMfTQH2pcDJnLo9mdU_4qd7eLv8g.JPEG/15%EB%B2%88%EC%A7%B8_%EA%B7%B8%EB%A6%BC%EC%9E%90%EB%A3%8C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[익명성을 악용한 범죄…지울 수 없는 디지털 상처 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220409101810000Qj</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220409101810000Qj</guid>
-            <pubDate>Tue, 19 Apr 2022 15:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[일본 드라마 ‘디지털 타투’ - 에 대하여    배우 타카하시 카츠미(高橋克実)와 세토 코지(瀬戸康史) 주연의 NHK 연속 드라마 &lt;디지털 타투(デジタル・タトゥー)&gt;는 컴퓨터를 잘 다루지 못하는 50대 ‘검사 출신 변호사(타카하시 카츠미 분)’와 동영상 사이트에서 수단을 가리지 않고 돈을 벌고 속사정이 있는 유튜버(세토 코지 분)가 팀을 이뤄서 디지털 타투로 인해 괴로워하는]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfMjA0/MDAxNjQ5NDY2OTkyMDg3.HsaZyz1HNb4XLxiKlEn9KBhgljTVKIUNLpbMfkTkiT4g.ot6pO34_atjYvvVhrLpQ8tRDfHP2Z07aQN_IdMjTDCEg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(13).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿모닝러너 챌린지 [44일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220413060636221gD</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220413060636221gD</guid>
-            <pubDate>Tue, 19 Apr 2022 15:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [44일차] 굿모닝러너님, 오늘 하루, 목표를 달성하기 위해 하나의 일만 시작해보세요. 크게 보이는 목표라도 작게 시작한다면 반드시 이루어질거에요~ :) 굿모닝러너_챌린지_44일차 #20220413 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTNfMjUy/MDAxNjQ5Nzk3NTQ3NjMy.AoEotcj7EgzEcs1innWMJjuALhHQoMqJN9pRsed-tfQg.bOIuYPAFTTDgYbEcFEUABpaNtetyANgzBGQD7qoxBmkg.JPEG/KakaoTalk_20220413_060224968.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말문트기(5)  운전 경력은 얼마나 되세요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330160037731hV</link>
-            <guid>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330160037731hV</guid>
-            <pubDate>Wed, 20 Apr 2022 08:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[위닝스토리 하루한문장 영어쉐도잉 오늘 연습할 문장은 운전 경력은 얼마나 되세요? 입니다. 이 질문을 활용할 맥락과 영어 의문문을 다양한 상황에서 익혀보고 싶은 분들은 위의 영상을 활용해 보세요~ 오늘 연습할 문장은 다음과 같습니다.  have been ing  같은 시제 나오면 덜컥 겁부터 나세요? 어렵게 생각하지 말고, 오늘 질문과 같은 상황에서  일단 이 표현을 쓸 수 있다는 것]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjEw/MDAxNjQ4NjM1MjY1MDMx.aufMnQlw9E1xLjlasqMJD65ghodOP7meJO4S1TzrUp8g.dc460tm0iyWiGHE17CHOtKc6i5Kd7gjAhMvlAoW5nfgg.JPEG/sa5.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
