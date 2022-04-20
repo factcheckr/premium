@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-04-20T07:23:37.325Z</updated>
+    <updated>2022-04-20T08:32:45.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[90년대생도 팀장이 된다 : <문명특급> 밍키 PD가 말하는 요즘 리더십]]></title>
+        <id>https://publy.co/content/6765?fr=category</id>
+        <link href="https://publy.co/content/6765?fr=category"/>
+        <updated>2022-04-20T08:30:54.619Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 시대에도 살아남은 380만 여행 커뮤니티 ‘여미’의 전략]]></title>
         <id>https://publy.co/content/6764?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6709?fr=category"/>
         <updated>2022-04-07T09:22:50.441Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의도적 휴식 만들기: 나에게 딱 맞는 잘 쉬는 법]]></title>
-        <id>https://publy.co/content/6757?fr=category</id>
-        <link href="https://publy.co/content/6757?fr=category"/>
-        <updated>2022-04-06T09:23:17.672Z</updated>
-        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
     </entry>
 </feed>

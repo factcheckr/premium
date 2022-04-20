@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 08:32:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포켓몬빵, 넷플릭스 팝업, 아이돌 포토 카드! 성공한 마케팅의 공통점 = 랜덤 뽑기?]]></title>
+            <link>https://www.careet.net/723</link>
+            <guid>https://www.careet.net/723</guid>
+            <pubDate>Wed, 20 Apr 2022 08:31:04 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 열광하는 이벤트 기획 레시피]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/e68c52cd-763f-4b68-a7a4-ec73050f7d00_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[월간 해외 트렌드]  그린피스부터 맥도날드까지, Z세대가 칭찬한 해외 브랜드 레퍼런스]]></title>
             <link>https://www.careet.net/715</link>
