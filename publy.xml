@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-04-21T07:23:56.892Z</updated>
+    <updated>2022-04-21T08:31:56.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이제는 피할 수 없다: 전면 교체되는 GA4 포인트 핵심정리]]></title>
+        <id>https://publy.co/content/6778?fr=category</id>
+        <link href="https://publy.co/content/6778?fr=category"/>
+        <updated>2022-04-21T08:30:18.733Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 마케터가 꼭 알아야 할 NFT 사용법]]></title>
+        <id>https://publy.co/content/6781?fr=category</id>
+        <link href="https://publy.co/content/6781?fr=category"/>
+        <updated>2022-04-21T08:30:18.734Z</updated>
+        <content type="html"><![CDATA[아티클 · 17분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[90년대생도 팀장이 된다 : <문명특급> 밍키 PD가 말하는 요즘 리더십]]></title>
         <id>https://publy.co/content/6765?fr=category</id>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/6751?fr=category"/>
         <updated>2022-04-11T08:28:12.457Z</updated>
         <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달라도 너무 달라! 케바케 팀원에 따른 팀장의 평가 피드백 방법은?]]></title>
-        <id>https://publy.co/content/6743?fr=category</id>
-        <link href="https://publy.co/content/6743?fr=category"/>
-        <updated>2022-04-08T08:27:26.449Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마켓컬리 PM은 고객경험을 위해 어떤 고민을 할까?]]></title>
-        <id>https://publy.co/content/6709?fr=category</id>
-        <link href="https://publy.co/content/6709?fr=category"/>
-        <updated>2022-04-07T09:22:50.441Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
