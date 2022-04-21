@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-04-21T14:23:32.088Z</updated>
+    <updated>2022-04-21T15:27:31.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[바마셀 : 1세대 스타 바리스타, 6평 에스프레소 바에서 혼자 일하는 이유]]></title>
-        <id>https://www.longblack.co/note/269</id>
-        <link href="https://www.longblack.co/note/269"/>
-        <updated>2022-04-20T15:27:55.101Z</updated>
-        <content type="html"><![CDATA[에스프레소, 사실 좀 어렵잖아요. 그래서 우리는 물을 탄 아메리카노, 우유를 탄 라떼를 마시곤 했죠. 그런데 언제부터인가 에스프레소espresso* 인기가 뜨거워졌어요. 깜찍한 사<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[어웨이 : 캐리어계의 애플, 캐리어를 감추고 브랜드를 만들다]]></title>
+        <id>https://www.longblack.co/note/268</id>
+        <link href="https://www.longblack.co/note/268"/>
+        <updated>2022-04-21T15:27:05.268Z</updated>
+        <content type="html"><![CDATA[‘어웨이Away’라는 캐리어 브랜드 아세요? 이제 해외여행이 슬슬 풀리니까 캐리어부터 장만했거든요. 그런데 맘에 드는 건 너무 비싸고 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
