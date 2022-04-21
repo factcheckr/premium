@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 23:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 02:00:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -501,6 +501,14 @@
             <content:encoded><![CDATA[에스프레소, 사실 좀 어렵잖아요. 그래서 우리는 물을 탄 아메리카노, 우유를 탄 라떼를 마시곤 했죠. 그런데 언제부터인가 에스프레소espresso* 인기가 뜨거워졌어요. 깜찍한 사<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[12년차 데이터 사이언티스트의 3개국 커리어 패스 (폴인)]]></title>
+            <link>https://www.folin.co/story/2163</link>
+            <guid>https://www.folin.co/story/2163</guid>
+            <pubDate>Thu, 21 Apr 2022 02:00:23 GMT</pubDate>
+            <content:encoded><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연간 100만 개 '팔리는' 대나무 칫솔 만들기까지 (폴인)]]></title>
             <link>https://www.folin.co/story/2150</link>
             <guid>https://www.folin.co/story/2150</guid>
@@ -778,14 +786,6 @@
             <guid>https://www.folin.co/story/2119</guid>
             <pubDate>Thu, 17 Mar 2022 22:23:31 GMT</pubDate>
             <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[멘탈케어‧VR‧스마트홈‧업사이클링…글로벌 트렌드 4가지 (폴인)]]></title>
-            <link>https://www.folin.co/story/2120</link>
-            <guid>https://www.folin.co/story/2120</guid>
-            <pubDate>Thu, 17 Mar 2022 22:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
