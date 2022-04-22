@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 15:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 16:37:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -905,14 +905,6 @@
             <content:encoded><![CDATA[오피스 탈출의 미래]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Tue, 19 Apr 2022 16:39:46 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[속상한 거는 생각도 하지 말고 밖에 꽃 봐라 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/maumbam/surisee/contents/220411155651999LY</link>
             <guid>https://contents.premium.naver.com/maumbam/surisee/contents/220411155651999LY</guid>
@@ -921,12 +913,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTFfMjIg/MDAxNjQ5NjYwMDg3MTEz.SEWRa5kn3LNSqsckVWDFgBfTV792Zc2uogVFC_PztI8g.hw7tt3-vxiEQN75W-n2XCQqiV8FW7fhgbylTMh9QJeQg.JPEG/KakaoTalk_20220221_165521788_06.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[싱싱한 주간 이슈 🎣] 안녕? 난 수세미야. 먹을 수 있지 🧼😋 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220331170721381vZ</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220331170721381vZ</guid>
-            <pubDate>Thu, 21 Apr 2022 10:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[#3 싱싱한 주간 이슈🎣 👇 입에 양보하세요. 수세미 쑥설기 🧼😋 이것은 수세미인가 쑥설기인가. 안녕하세요 쿠캣 쑥설기입니다.🧼 쿠캣이 만우절을 맞아 장난감.. 아니 장난음식을 만들었어요. 주인공은 수세미랑 똑같이 생긴 쑥설기입니다. 포장지에서 3M 수세미 향이 짙게 나는데 포장지에 "절대 먹으시오"라는 멘트가 매우 요상하네요😬 쿠캣의 쑥설기 빌드업은 무려 2년 전으로]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjE4/MDAxNjQ4NjE1OTQzMjk3.czVFKepKvM9kDAomY6EYMs76EWL3wTHRm1Icq3r2x_wg.u57t-EHowOrm1vP5yTejO1fb2LiJURFGObly8qYuWYIg.JPEG/0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Tue, 19 Apr 2022 16:39:46 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[연준 기준금리 인상이 경제, 증시, 장기금리, 달러환율에 미치는 영향 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -937,12 +929,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjZfMTM0/MDAxNjQ4Mjc2OTkzNDE3.Le9IpfuOqDktsjcgJDvNrhy0eXIAGxAmnNDEFNeguEEg.X7eTJWWcZABPwkQMmFNczJitOpqRnfDbMzmLSEe22wgg.JPEG/%EC%97%B0%EC%A4%80_%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC_%EC%9D%B8%EC%83%81_%EC%82%AC%EC%9D%B4%ED%81%B4_%EB%B0%B0%EA%B2%BD.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[결국 다시 아침에 일찍 일어나야하는 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/paterson/dragonhorse/contents/220409235703458OB</link>
-            <guid>https://contents.premium.naver.com/paterson/dragonhorse/contents/220409235703458OB</guid>
-            <pubDate>Fri, 22 Apr 2022 15:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[재작년 겨울에 지금 살고 있는 집으로 이사하면서 회사와 집이 무척 가까워졌다. 덕분에(?) 책 읽는 양이 확 줄었다. 더 이상 안되겠다 싶어 점심을 먹고 읽어보기도 하고, 퇴근 후 시간을 활용해 읽어보기도 했지만 별 일이 없을 땐 읽었지만 무슨 일이 있을 때는 밀려나기 일쑤였다. 그래서 모닝루틴을 시작했다. 작년 새해부터 시작된 모닝루틴은 8월까지 이어졌다. 출근하는 날]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfMTg0/MDAxNjQ5NTE2MTk4OTE1.T-8LM1pJm4PwlX7W68C9amTgiQygh_orUwvQHvghiRsg.J295Ud73LiO6niUevyiHAio1SeauDhn2DJlhB9ZdgHcg.JPEG/david-mao-m0l5J8Lqnzo-unsplash.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[[싱싱한 주간 이슈 🎣] 안녕? 난 수세미야. 먹을 수 있지 🧼😋 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220331170721381vZ</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220331170721381vZ</guid>
+            <pubDate>Thu, 21 Apr 2022 10:29:03 GMT</pubDate>
+            <content:encoded><![CDATA[#3 싱싱한 주간 이슈🎣 👇 입에 양보하세요. 수세미 쑥설기 🧼😋 이것은 수세미인가 쑥설기인가. 안녕하세요 쿠캣 쑥설기입니다.🧼 쿠캣이 만우절을 맞아 장난감.. 아니 장난음식을 만들었어요. 주인공은 수세미랑 똑같이 생긴 쑥설기입니다. 포장지에서 3M 수세미 향이 짙게 나는데 포장지에 "절대 먹으시오"라는 멘트가 매우 요상하네요😬 쿠캣의 쑥설기 빌드업은 무려 2년 전으로]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjE4/MDAxNjQ4NjE1OTQzMjk3.czVFKepKvM9kDAomY6EYMs76EWL3wTHRm1Icq3r2x_wg.u57t-EHowOrm1vP5yTejO1fb2LiJURFGObly8qYuWYIg.JPEG/0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[난로 없이 겨울 브롬핑을 떠날 때, 꼭 챙겨야 할 것들 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -953,12 +945,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTJfMjc5/MDAxNjQ0NjU4OTEwNDI5.BzDTdW4vB8liECc9x7aEQps8oJ6QYrLN3wta1ixu3BAg.k_AEtVhko4XJmD82bi3lHn3rQksWGgxQIlmTwJRqMXYg.JPEG/KakaoTalk_20220212_183639474_09.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11. 길게 줄 서 있는 창업 광고를 보면 어떻게 해야 할까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/franchise/franchise1004/contents/220416070030618px</link>
-            <guid>https://contents.premium.naver.com/franchise/franchise1004/contents/220416070030618px</guid>
+            <title><![CDATA[결국 다시 아침에 일찍 일어나야하는 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/paterson/dragonhorse/contents/220409235703458OB</link>
+            <guid>https://contents.premium.naver.com/paterson/dragonhorse/contents/220409235703458OB</guid>
             <pubDate>Fri, 22 Apr 2022 15:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[흔하게 볼 수 있는 창업 광고. 하지만 주석이 달리지 않는 이상 그 줄이 매일 그렇게 만들어지는 줄인지, 인위적으로 촬영을 위해 만들어진 줄인지 알기 어렵다. (아쉽게도 그런 유형의 대부분 광고가 주석 표기가 되어 있지 않다.) 하지만 눈에 쉽게 들어오기 때문에 순간적으로 '잘 되는 브랜드'라는 이미지를 심어줄 수 있다. 그래서 가맹본부에서는 자극적이거나 화려한 문구]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTZfOTkg/MDAxNjUwMDU5ODU1NTU5.a4iwUIKpo9CF-xnhYNHajIVbH6vWBRHujDkR58NOnBog.xFlgHct8Gv_UhXeWFvyrVPbggSSC7UNu6x5PAOfvo-cg.PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%BD%98%ED%85%90%EC%B8%A0_%EB%B0%B0%EA%B2%BD_%EC%9D%B4%EB%AF%B8%EC%A7%80_(%EC%A0%95%EC%82%AC%EA%B0%81)_(1).png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[재작년 겨울에 지금 살고 있는 집으로 이사하면서 회사와 집이 무척 가까워졌다. 덕분에(?) 책 읽는 양이 확 줄었다. 더 이상 안되겠다 싶어 점심을 먹고 읽어보기도 하고, 퇴근 후 시간을 활용해 읽어보기도 했지만 별 일이 없을 땐 읽었지만 무슨 일이 있을 때는 밀려나기 일쑤였다. 그래서 모닝루틴을 시작했다. 작년 새해부터 시작된 모닝루틴은 8월까지 이어졌다. 출근하는 날]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfMTg0/MDAxNjQ5NTE2MTk4OTE1.T-8LM1pJm4PwlX7W68C9amTgiQygh_orUwvQHvghiRsg.J295Ud73LiO6niUevyiHAio1SeauDhn2DJlhB9ZdgHcg.JPEG/david-mao-m0l5J8Lqnzo-unsplash.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[10.  바람 따라 그대에게 갔으면 좋겠습니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -969,12 +961,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTZfMTU4/MDAxNjUwMTA5MTU5OTk0.Rz2n4_RYMiuXGT5gEppPE4sGgReHsbCX0YXU4VKml24g.bv5gFl-oZmRPTMflcoPHj_Sz_PKWJGdoy31aiItWMCcg.PNG/K-005.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[🔐일론 머스크 "트위터 인수 거절하면, 플랜 B" vs 트위터 "포이즌 필 도입" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/newsporter/hyereeporter/contents/220416091144883bM</link>
-            <guid>https://contents.premium.naver.com/newsporter/hyereeporter/contents/220416091144883bM</guid>
+            <title><![CDATA[11. 길게 줄 서 있는 창업 광고를 보면 어떻게 해야 할까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/franchise/franchise1004/contents/220416070030618px</link>
+            <guid>https://contents.premium.naver.com/franchise/franchise1004/contents/220416070030618px</guid>
             <pubDate>Fri, 22 Apr 2022 15:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근  월가에서 가장 화제가 되고 있는 뉴스는 일론 머스크의 트위터 인수 제안입니다. 괴짜이자 천재로 알려진 머스크의 이런 제안의 끝이 어디로 갈지 주목되고 있는데요. 일론 머스크가 트위터 이사회 합류 제안을 거절했다고 발표하면서 CEO Parag Agrawal은 직원들에게 "distractions ahead.”이라고 경고했습니다.  앞으로 주의가  산만해질것이니 조심하라는 겁니다.  그러면서 직원]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTZfMTg5/MDAxNjUwMDY3NjgyNjk2.zheA4bGyWvaVXDcaVYchGycZB7nfuGvVo4jxTpB92hQg.Qil2UA-ieI-pCPj8EH2wYzEvh1IqycnVyCDYjAV_Ut0g.JPEG/skynews-elon-musk-twitter_5740206.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[흔하게 볼 수 있는 창업 광고. 하지만 주석이 달리지 않는 이상 그 줄이 매일 그렇게 만들어지는 줄인지, 인위적으로 촬영을 위해 만들어진 줄인지 알기 어렵다. (아쉽게도 그런 유형의 대부분 광고가 주석 표기가 되어 있지 않다.) 하지만 눈에 쉽게 들어오기 때문에 순간적으로 '잘 되는 브랜드'라는 이미지를 심어줄 수 있다. 그래서 가맹본부에서는 자극적이거나 화려한 문구]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTZfOTkg/MDAxNjUwMDU5ODU1NTU5.a4iwUIKpo9CF-xnhYNHajIVbH6vWBRHujDkR58NOnBog.xFlgHct8Gv_UhXeWFvyrVPbggSSC7UNu6x5PAOfvo-cg.PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%BD%98%ED%85%90%EC%B8%A0_%EB%B0%B0%EA%B2%BD_%EC%9D%B4%EB%AF%B8%EC%A7%80_(%EC%A0%95%EC%82%AC%EA%B0%81)_(1).png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[경제뉴스]  S&P 500 선물 주간 실적 보고 앞두고 하락 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/ottguidebook/1776/contents/220418081503414Ht</link>
+            <guid>https://contents.premium.naver.com/ottguidebook/1776/contents/220418081503414Ht</guid>
+            <pubDate>Fri, 22 Apr 2022 16:37:55 GMT</pubDate>
+            <content:encoded><![CDATA[투자자들이 1분기 주요 실적 발표를 앞두고 일주일간 대비하면서 일요일 저녁 주식 선물은 하락했습니다. 다우존스 산업평균지수 선물은 약 90포인트, 즉 0.3% 하락했다. S&amp;P 500 선물은 0.4% 하락했습니다. 나스닥 선물은 0.6% 떨어졌습니다. 뱅크오브아메리카는 월요일 종이 울리기 전에 분기별 실적을 보고합니다. IBM, 프록터 앤드 갬블, 트래블러즈, 다우 Inc, 존슨 앤 존슨, 아메리칸]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MThfMjUw/MDAxNjUwMjM3MTc1Nzg3.bQ6L2aDYBvN9Kc1irU0JQl8CYo1x_wKovhy6dmgEFRQg.96tvOk861qgshTuMTpCYA_ALYgttSxdOEijyZlFrUR0g.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
