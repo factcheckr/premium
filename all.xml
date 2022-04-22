@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 02:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 04:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -533,6 +533,14 @@
             <content:encoded><![CDATA[‘어웨이Away’라는 캐리어 브랜드 아세요? 이제 해외여행이 슬슬 풀리니까 캐리어부터 장만했거든요. 그런데 맘에 드는 건 너무 비싸고 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[카카오TV 오리지널스튜디오 오윤환 총괄의 '새로운 판' (폴인)]]></title>
+            <link>https://www.folin.co/story/2164</link>
+            <guid>https://www.folin.co/story/2164</guid>
+            <pubDate>Fri, 22 Apr 2022 04:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[12년차 데이터 사이언티스트의 3개국 커리어 패스 (폴인)]]></title>
             <link>https://www.folin.co/story/2163</link>
             <guid>https://www.folin.co/story/2163</guid>
@@ -813,14 +821,6 @@
                                 <li>스타트업</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코사이어티가 정의하는 '워(Work)케이션' (폴인)]]></title>
-            <link>https://www.folin.co/story/2119</link>
-            <guid>https://www.folin.co/story/2119</guid>
-            <pubDate>Thu, 17 Mar 2022 22:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[교육계에도 리오프닝이 찾아왔다. 코로나로 인해 자취를 감춘 학생 자치 문화는 부활할 수 있을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/50459</link>
             <guid>https://www.bookjournalism.com/books/50459</guid>
@@ -905,14 +905,6 @@
             <content:encoded><![CDATA[식량 안보의 딜레마]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Tue, 19 Apr 2022 16:39:46 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[나에게도 팀이 생기다니 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/song/mustseed/contents/220406020430254Vh</link>
             <guid>https://contents.premium.naver.com/song/mustseed/contents/220406020430254Vh</guid>
@@ -921,12 +913,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTc1/MDAxNjQ5MTc3MTkyNDI0.mvat-dWv8P1G9yBqffI_LyR0KsEu3u2DHVQ05sBS9hIg.XmwfQdXIPdMz0HyvWziW9tojx3_RCHgnx8KH-eXoFqsg.JPEG/%EC%86%8C%EC%84%A4_%EC%A7%91_%EB%A1%9C%EA%B3%A0.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[- [지속 가능한 삶은, 미니멀 라이프] 02. Less Is More! 적을수록 풍요로워지니까. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220330065550487Lg</link>
-            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220330065550487Lg</guid>
-            <pubDate>Thu, 21 Apr 2022 15:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[[베드제드 플래닛 / 지속 가능한 삶은, 미니멀 라이프] 02. ​ Less Is More!  적을수록 풍요로워지니까. ​ 대부분의 옛날 사람들에게, 상상조차 힘든 사치품이라 여겨졌던 자동차나 집, 가구 따위는 이제 현대사회의 필수품으로 자리 잡았고, 우리는 각종 스마트 기기와, TV, 냉장고, 세탁기, 청소기 등을 일상생활에서 당연한 것으로 받아들이게 되었다. 지금의 우리들은, 기본적인 생]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMTcw/MDAxNjQ4NTQxODA3MTQy.kYAPIDqp07yqHy7yX4R9uq-Jvv1DvA366CySFJV0aBEg.HfYohCODlT6ygjyj_JeJxQa5kRE4snbC6ZBuhqQwxBkg.JPEG/4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Tue, 19 Apr 2022 16:39:46 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[EXCL.] 삼성전자, 협력사 원재료 인상분 현실화…“다소 늦었지만 환영할 일” (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -937,12 +929,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTVfMTY1/MDAxNjQ5OTQ5NzExMzYy.TeC-pOks2AxYMxrpKCuRbLO7PzUzf1cmJV3hq5AO60og.FESFYMOiwhNcjvpBibi0C7ov4zx0XwK4u8mdLfWm-Msg.PNG/KakaoTalk_20220414_181639697_01.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[싱싱한 주간 이슈 🎣] 안녕? 난 수세미야. 먹을 수 있지 🧼😋 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220331170721381vZ</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220331170721381vZ</guid>
-            <pubDate>Thu, 21 Apr 2022 10:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[#3 싱싱한 주간 이슈🎣 👇 입에 양보하세요. 수세미 쑥설기 🧼😋 이것은 수세미인가 쑥설기인가. 안녕하세요 쿠캣 쑥설기입니다.🧼 쿠캣이 만우절을 맞아 장난감.. 아니 장난음식을 만들었어요. 주인공은 수세미랑 똑같이 생긴 쑥설기입니다. 포장지에서 3M 수세미 향이 짙게 나는데 포장지에 "절대 먹으시오"라는 멘트가 매우 요상하네요😬 쿠캣의 쑥설기 빌드업은 무려 2년 전으로]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjE4/MDAxNjQ4NjE1OTQzMjk3.czVFKepKvM9kDAomY6EYMs76EWL3wTHRm1Icq3r2x_wg.u57t-EHowOrm1vP5yTejO1fb2LiJURFGObly8qYuWYIg.JPEG/0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[- [지속 가능한 삶은, 미니멀 라이프] 02. Less Is More! 적을수록 풍요로워지니까. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220330065550487Lg</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220330065550487Lg</guid>
+            <pubDate>Thu, 21 Apr 2022 15:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛 / 지속 가능한 삶은, 미니멀 라이프] 02. ​ Less Is More!  적을수록 풍요로워지니까. ​ 대부분의 옛날 사람들에게, 상상조차 힘든 사치품이라 여겨졌던 자동차나 집, 가구 따위는 이제 현대사회의 필수품으로 자리 잡았고, 우리는 각종 스마트 기기와, TV, 냉장고, 세탁기, 청소기 등을 일상생활에서 당연한 것으로 받아들이게 되었다. 지금의 우리들은, 기본적인 생]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMTcw/MDAxNjQ4NTQxODA3MTQy.kYAPIDqp07yqHy7yX4R9uq-Jvv1DvA366CySFJV0aBEg.HfYohCODlT6ygjyj_JeJxQa5kRE4snbC6ZBuhqQwxBkg.JPEG/4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경기 침체? TSMC는 끄떡없다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -953,12 +945,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTVfMjY4/MDAxNjQ5OTc4NDYwNTU3.5dD9AqNMJ3l3HJBV1Z_xjv8k__IlLqlemXgnF_on_aQg.z2So3A_vJBnI36PS62njzUqXuRciVOKl_xGGWNV5D8cg.JPEG/Fab2outr001_66.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [46일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220415050445068pL</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220415050445068pL</guid>
-            <pubDate>Thu, 21 Apr 2022 15:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [46일차] 굿모닝러너님, 오늘 부터 3개월 동안 원하는 것을 100번씩 말해보세요! 3개월 뒤에는 원하는 목표에 아주 가까워져 있을거에요 :) 나 자신을 지속적으로 단련시키는 사람은 무엇이든 이룰 수 있어요 ~ 굿모닝러너_챌린지_46일차 #20220415 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTVfMTg4/MDAxNjQ5OTY2NjI2MTI3.J4j1lgccfsKVF5TEPuBEIQx5QxKK2WTA0j9GzYuKKtwg.SKMHeR6uZq6uaazkYwqdfH0xWlO1R7GJR_v7lgTWstIg.JPEG/KakaoTalk_20220415_050028305.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[싱싱한 주간 이슈 🎣] 안녕? 난 수세미야. 먹을 수 있지 🧼😋 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220331170721381vZ</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220331170721381vZ</guid>
+            <pubDate>Thu, 21 Apr 2022 10:29:03 GMT</pubDate>
+            <content:encoded><![CDATA[#3 싱싱한 주간 이슈🎣 👇 입에 양보하세요. 수세미 쑥설기 🧼😋 이것은 수세미인가 쑥설기인가. 안녕하세요 쿠캣 쑥설기입니다.🧼 쿠캣이 만우절을 맞아 장난감.. 아니 장난음식을 만들었어요. 주인공은 수세미랑 똑같이 생긴 쑥설기입니다. 포장지에서 3M 수세미 향이 짙게 나는데 포장지에 "절대 먹으시오"라는 멘트가 매우 요상하네요😬 쿠캣의 쑥설기 빌드업은 무려 2년 전으로]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjE4/MDAxNjQ4NjE1OTQzMjk3.czVFKepKvM9kDAomY6EYMs76EWL3wTHRm1Icq3r2x_wg.u57t-EHowOrm1vP5yTejO1fb2LiJURFGObly8qYuWYIg.JPEG/0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MG손보 부실 지정에 KDB생명도 매각도 '무산'…산업은행, 새 주인 찾는다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -969,12 +961,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTRfMjgw/MDAxNjQ5OTI3NDA0NjQy.5CF5NJdY9QOo7iSWZVREQ8-CSc8toRl4GIavroidK2gg.skRDKr8RdyVB9YN4uGHCJAdoAwNfmoW8gmAu7nSCec0g.JPEG/KDB%EC%83%9D%EB%AA%85_2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["Welcome to 식스티 코딩" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/60coding/pythoncoding/contents/220415064149923JV</link>
-            <guid>https://contents.premium.naver.com/60coding/pythoncoding/contents/220415064149923JV</guid>
-            <pubDate>Fri, 22 Apr 2022 02:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 네이버 프리미엄 콘텐츠에 처음 인사드리는 '식스티 코딩'입니다. 저희 채널은 비전공자를 위한 코딩 교육 채널(🐶초보 분들을 위한 채널)이고요. '포기하지 않은 코딩 공부', 실무에 적용할 수 있는 '실전 코딩', 미래 준비를 위한 '데이터, Ai 코딩'을 추구하고 있어요.  아직 첫 콘텐츠이니 만큼 당분간은 초보자만을 위한 채널이 될 듯해요.  저희 '식스티 코딩'은 작]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTRfMjk1/MDAxNjQ5OTMwODExNzM2.brCtwstrerOLZjYzyE27D5V1zMFD40cz-UHZTYx5WeIg.K84AH0Tbwj6mkix2ONGPv3PNzHkYoqNSrTSWn8oSq5gg.JPEG/BAND_%ED%8C%8C%EC%9D%B4%EC%8D%AC_60Coding_2022-03-04-20-41-25.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[굿모닝러너 챌린지 [46일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220415050445068pL</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220415050445068pL</guid>
+            <pubDate>Thu, 21 Apr 2022 15:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [46일차] 굿모닝러너님, 오늘 부터 3개월 동안 원하는 것을 100번씩 말해보세요! 3개월 뒤에는 원하는 목표에 아주 가까워져 있을거에요 :) 나 자신을 지속적으로 단련시키는 사람은 무엇이든 이룰 수 있어요 ~ 굿모닝러너_챌린지_46일차 #20220415 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTVfMTg4/MDAxNjQ5OTY2NjI2MTI3.J4j1lgccfsKVF5TEPuBEIQx5QxKK2WTA0j9GzYuKKtwg.SKMHeR6uZq6uaazkYwqdfH0xWlO1R7GJR_v7lgTWstIg.JPEG/KakaoTalk_20220415_050028305.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머스크는 정말 트위터를 인수할 수 있을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220415083132618fl</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220415083132618fl</guid>
+            <pubDate>Fri, 22 Apr 2022 04:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[트위터와 일론 머스크가 연일 부딪치고 있습니다. 머스크가 트위터의 최대주주가 된 이후부터 인데요. 머스크는 트위터의 문제와 서비스 개선 방안과 관련해 자신의 의견을 적극적으로 내놓고 있고, 트위터는 불편한 기색을 감추지 못하고 있고요.  머스크의 경영 간섭을 우려했던 걸까요? 트위터는 머스크에게 이사회 멤버 자리를 전격 제안합니다. 머스크가 이사회에 가입하]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTVfMzQg/MDAxNjQ5OTc4NzU1Njc0.TrW4Nk6zDrzu5VEjY9Dw2V6HKPxoS3_pn_np8-8UIxwg.IhWxS_73rhgDz_B_US9dRYjHYHxdEJFtUWAMwQ3EPbEg.JPEG/3.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
