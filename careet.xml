@@ -4,9 +4,33 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 23:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 02:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대는 지금 소주 논쟁 참여하고, 대면 수업 브이로그 올리는 중?]]></title>
+            <link>https://www.careet.net/727</link>
+            <guid>https://www.careet.net/727</guid>
+            <pubDate>Fri, 22 Apr 2022 02:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[에버랜드 튤립 축제가 올해 인기가 더 많은 이유]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/b0525452-09e9-450b-ae19-7bb1ec43781f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] 78년생 김용명의 요즘 덕질 체험기]]></title>
+            <link>https://www.careet.net/726</link>
+            <guid>https://www.careet.net/726</guid>
+            <pubDate>Fri, 22 Apr 2022 02:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 덕질 핫템: 러브 패트 윙/금손 장갑/앨범깡 부적]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/f278d505-6a40-462e-a955-236093fff376_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[비대면으로 힙해진 마라톤 대회에 Z세대가 모이기 시작했다!]]></title>
+            <link>https://www.careet.net/725</link>
+            <guid>https://www.careet.net/725</guid>
+            <pubDate>Fri, 22 Apr 2022 02:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[빵을 주는 대회부터 힙한 브랜드 콜라보 대회까지!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/0dfa2d3a-9a27-4cb9-97a6-cae10453921b_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[버추얼 아이돌 ‘이세돌’ 모르면, 메타버스 트렌드 반만 아는 것입니다]]></title>
             <link>https://www.careet.net/722</link>
