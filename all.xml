@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 16:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 17:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -823,12 +823,88 @@
                                 <li>스타트업</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[리처드 링클레이터 : 꿈의 연대기 (2016) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220228202207967ko</link>
-            <guid>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220228202207967ko</guid>
-            <pubDate>Sat, 23 Apr 2022 15:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[**어바웃무비 채널의 모든 글은 스포일러를 포함하고 있습니다. **이 작품 &lt;시네마 파미르&gt;는 EIDF 공식 사이트인 https://dbox.ebs.co.kr/dbox 와 왓챠(Watcha)를 통해 유료로 시청 가능합니다. "이 순간이 우리를 붙잡는 거야."   영화 &lt;보이후드&gt;(2014)1)의 마지막 장면에서 주인공 메이슨(엘라 콜트레인 역)은 이렇게 말했다. 좋아하는 감독의 작품이기에 영화의 다른 장면 앞에서도 흡족한 마]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjhfMjkg/MDAxNjQ2MDQ1NDU1NDcz.FAQUDMSNxLYKE_hkgHMn--niG_MtK3Z7gqGj7qOAu1sg.UU-btZYIzMjv0_Jb-jWRtOOMqV_OECjN_pSut0nu1p0g.JPEG/%EB%B3%B4%EC%9D%B4%ED%9B%84%EB%93%9C_1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #33에선, 팬데믹이 남긴 새로운 진료 경험 비대면 진료, 주류 소비 트렌드를 통해 살펴 본 리오프닝의 키워드, SNS를 부정하는 SNS BeReal의 심상치 않은 인기와 그 함의, 코로나로 인해 자취를 감춘 학생 자치 문화의 미래를 짚어봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50500</link>
+            <guid>https://www.bookjournalism.com/audio/50500</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[다시 일상이다. 전혀 다른 일상이다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[교육계에도 리오프닝이 찾아왔다. 코로나로 인해 자취를 감춘 학생 자치 문화는 부활할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50459</link>
+            <guid>https://www.bookjournalism.com/books/50459</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[소멸된 학생 자치에도 꽃이 필까요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안티 소셜 미디어를 표방하는 비리얼의 인기가 심상치 않다. 우리가 알던 소셜 미디어의 판도가 바뀔지도 모른다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50438</link>
+            <guid>https://www.bookjournalism.com/books/50438</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[소셜 미디어의 조건]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[의류 브랜드 GAP은 시대를 풍미했지만, 몰락의 길을 걷고 있다. 카니예 웨스트와의 콜라보는 부활의 열쇠가 될 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50420</link>
+            <guid>https://www.bookjournalism.com/books/50420</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[GAP의 몰락]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일상이다. 주류업계는 리오프닝을 꿈꾸고 전국의 부장님들은 회식을 꿈꾸지만, 지난 2년 동안 주류 소비의 트렌드는 급격히 변화했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50312</link>
+            <guid>https://www.bookjournalism.com/books/50312</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[소맥의 시대는 끝났다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19로 임시 허용됐던 비대면 진료의 합법화가 검토 중이다. 팬데믹은 저물었으나, 비대면 진료는 이제 시작이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50255</link>
+            <guid>https://www.bookjournalism.com/books/50255</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[슬기로운 환자생활]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 열두 번째 -코로나19는 '우리'라는 단어에 관한 질문을 남겼습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50230</link>
+            <guid>https://www.bookjournalism.com/books/50230</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[일상 전야]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #32에선, 전 세계의 화두로 떠오른 식량 문제와 이를 둘러싼 기술의 도약, 규석기 시대 현명한 반도체 전략, 사무실 공실률 증가로 본 오피스의 미래, 헬스케어 시장도 피해갈 수 없는 메타버스와 플랫폼의 시대를 짚어봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50190</link>
+            <guid>https://www.bookjournalism.com/audio/50190</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[먹고, 일하고, 운동하라]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[헬스케어, 트레이닝 업계에 콘텐츠가 들어온다. 코로나 종식 이후에도 살아남기 위한 전략이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50175</link>
+            <guid>https://www.bookjournalism.com/books/50175</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[메타버스에서 운동하는 세상]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인수위가 반도체 초격차 대책을 발표했다. 쌀보다 반도체가 더 중요한 시대이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50114</link>
+            <guid>https://www.bookjournalism.com/books/50114</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[규석기 시대의 생존 전략]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[암호 화폐 세계에는 당신이 상상하는 투기꾼들만 있는 것이 아니다. 평범한 사람들이 공평한 기회를 찾아 뛰어들고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50086</link>
+            <guid>https://www.bookjournalism.com/books/50086</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[카지노는 언제나 우리를 유혹한다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국의 오피스 공실률이 17퍼센트에 달한다. 건물주와 회사의 고민이 깊다. 공실률의 난제는 무엇이며, 미래의 오피스는 어떤 모습일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50091</link>
+            <guid>https://www.bookjournalism.com/books/50091</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[오피스 탈출의 미래]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아무것도 두려워하지 말라, let it go-국보 119호 연가 7년명 금동여래입상 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -839,12 +915,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTdfMTAw/MDAxNjUwMTY0OTE2OTU4.C25Aflb6MkD0VQB68MqS6Tw7JoCouVtImY2ATuzOWg4g.U1J7F0nU8tS4mnIxtxq85ho-j-FowkbkbUqeJ1gnV2og.JPEG/SE-d5bbd71e-a9b5-4ba1-a023-7e194f3949b6.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 ‘나홀로족’의 연애…정말 연애 약자? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220409102538216No</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220409102538216No</guid>
+            <title><![CDATA[리처드 링클레이터 : 꿈의 연대기 (2016) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220228202207967ko</link>
+            <guid>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220228202207967ko</guid>
             <pubDate>Sat, 23 Apr 2022 15:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[일본 드라마 ‘#리모러브 ~보통의 사랑은 사도~’ - 에 대하여   배우 하루(波瑠) 주연의 연속 드라마 &lt;#리모러브 ~보통의 사랑은 사도~(#リモラブ ～普通の恋は邪道～)&gt;는 하루가 연기하는 연애를 미뤄온 ‘나홀로족’ 오오자쿠라 미미(大桜美々)가 오랜만에 사랑에 빠진 모습을 그린 작품이다.    해당 작품은 &lt;세상에서 가장 어려운 사랑(世界一難しい恋)&gt; 제작진이 참여한 ‘연]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfNzgg/MDAxNjQ5NDY3NDU3NDYy.wOgbHA8je31Ix8wTJ6qS_K76e8bwKHyf8_Bp6pHUPvEg.rboSJlBhwcPFlICicQaGvNFVw3At5SqtTTc754bVSxsg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(16).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[**어바웃무비 채널의 모든 글은 스포일러를 포함하고 있습니다. **이 작품 &lt;시네마 파미르&gt;는 EIDF 공식 사이트인 https://dbox.ebs.co.kr/dbox 와 왓챠(Watcha)를 통해 유료로 시청 가능합니다. "이 순간이 우리를 붙잡는 거야."   영화 &lt;보이후드&gt;(2014)1)의 마지막 장면에서 주인공 메이슨(엘라 콜트레인 역)은 이렇게 말했다. 좋아하는 감독의 작품이기에 영화의 다른 장면 앞에서도 흡족한 마]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjhfMjkg/MDAxNjQ2MDQ1NDU1NDcz.FAQUDMSNxLYKE_hkgHMn--niG_MtK3Z7gqGj7qOAu1sg.UU-btZYIzMjv0_Jb-jWRtOOMqV_OECjN_pSut0nu1p0g.JPEG/%EB%B3%B4%EC%9D%B4%ED%9B%84%EB%93%9C_1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<일상의 작은 기적들, 한민규>를 소개합니다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -855,12 +931,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjhfMTAw/MDAxNjQ4NDQ3OTIzNDY1.WN81qeNfMxoaKg-aZTkyGH44x0mzaR_RqVk9RauGI1sg.1S429a99AwcpBkJCpE00S_LZ_TDt8xSK1L8Vc0Hslg4g.JPEG/%ED%94%84%EB%A1%9C%ED%95%841.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리도시를 먹여살리는 산업은? (경제로 부동산 선넘기#1) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/realbigdata/realbig/contents/220411132142260rY</link>
-            <guid>https://contents.premium.naver.com/realbigdata/realbig/contents/220411132142260rY</guid>
+            <title><![CDATA[일본 ‘나홀로족’의 연애…정말 연애 약자? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220409102538216No</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220409102538216No</guid>
             <pubDate>Sat, 23 Apr 2022 15:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[‘경제가 좋아지면 부동산경기도 좋아진다’  우리에게 익숙한 경제와 부동산의 상관성에 관한 담론입니다. 경제가 좋아지면 일자리도 늘어날 것이고 가계수입도 증가하여 부동산 구매여건도 좋아지는 건 자연스러운 논리입니다. 그러나 우리나라 경제흐름을 대변하는데 주로 언급되는 GDP성장률 추이를 살펴보면, 2017년 3.2%의 성장률을 기록한 이후 줄곧 2%의 성장률을 기록하]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMTE4/MDAxNjQ5NDEyMjY2OTk1.eAWxDmINFnhqFITBYylPdsKp7Eh1aQJnacl22l4WsDEg.3QDTURW-v77Coe1AQW1Mb1SzW_GjcxmBnqDRItzsgogg.PNG/%EB%B9%85%EB%A6%AC%EC%96%BC-%EC%8D%B8%EB%84%A4%EC%9D%BC-009_(1).png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[일본 드라마 ‘#리모러브 ~보통의 사랑은 사도~’ - 에 대하여   배우 하루(波瑠) 주연의 연속 드라마 &lt;#리모러브 ~보통의 사랑은 사도~(#リモラブ ～普通の恋は邪道～)&gt;는 하루가 연기하는 연애를 미뤄온 ‘나홀로족’ 오오자쿠라 미미(大桜美々)가 오랜만에 사랑에 빠진 모습을 그린 작품이다.    해당 작품은 &lt;세상에서 가장 어려운 사랑(世界一難しい恋)&gt; 제작진이 참여한 ‘연]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfNzgg/MDAxNjQ5NDY3NDU3NDYy.wOgbHA8je31Ix8wTJ6qS_K76e8bwKHyf8_Bp6pHUPvEg.rboSJlBhwcPFlICicQaGvNFVw3At5SqtTTc754bVSxsg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(16).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[간肝건강] #7. UDCA와 비타민 B, 함께 했을 때 우린 피로가 두렵지 않았다 '1+1=3' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -871,12 +947,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTFfMjk5/MDAxNjQ2OTY0MzAxMDcy.Qi1aYKm1d8ng_7fyw7x80gK7W9GfUIkWFpTBLRQObZQg.NGSEZxPgrKhxPR9b5lhyiBg1HZfJ3ftTCQElz7Vqpygg.JPEG/SE-17a24428-8c9c-4822-94bc-0c8aed09cfd4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이번 주말 아트 가이드 - 북촌 편 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/whyart/media/contents/220414230253498aa</link>
-            <guid>https://contents.premium.naver.com/whyart/media/contents/220414230253498aa</guid>
+            <title><![CDATA[우리도시를 먹여살리는 산업은? (경제로 부동산 선넘기#1) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/realbigdata/realbig/contents/220411132142260rY</link>
+            <guid>https://contents.premium.naver.com/realbigdata/realbig/contents/220411132142260rY</guid>
             <pubDate>Sat, 23 Apr 2022 15:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[🌼 요즘 봄 날씨 너무 좋죠? 벚꽃 구경은 다녀오셨는지요. 주말 나들이 계획하시는 구독자님들을 위해 오늘은 제가 아트 가이드를 자청해보려 해요. 국내 갤러리들이 가장 많이 모여 있는 북촌으로 함께 가보시죠.  표시한 미술관과 갤러리는 모두 걸어서 갈 수 있는 거리예요. 제가 너무 많이 표시했나요? 여러분들이 어떤 전시를 좋아하실지 몰라서 여러 곳을 준비해봤어요. 하]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTRfMjE4/MDAxNjQ5OTM5MDI3MTU3.wyUO5EENdsuFOScQgT_mKjIRbzMTLu9VMaYODqIoUKEg.24jdvjA20wEDiPb5ltbT2BD-yHeUs6vmf1GTk3FXvlIg.JPEG/KakaoTalk_Photo_2022-04-14-21-21-53.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[‘경제가 좋아지면 부동산경기도 좋아진다’  우리에게 익숙한 경제와 부동산의 상관성에 관한 담론입니다. 경제가 좋아지면 일자리도 늘어날 것이고 가계수입도 증가하여 부동산 구매여건도 좋아지는 건 자연스러운 논리입니다. 그러나 우리나라 경제흐름을 대변하는데 주로 언급되는 GDP성장률 추이를 살펴보면, 2017년 3.2%의 성장률을 기록한 이후 줄곧 2%의 성장률을 기록하]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMTE4/MDAxNjQ5NDEyMjY2OTk1.eAWxDmINFnhqFITBYylPdsKp7Eh1aQJnacl22l4WsDEg.3QDTURW-v77Coe1AQW1Mb1SzW_GjcxmBnqDRItzsgogg.PNG/%EB%B9%85%EB%A6%AC%EC%96%BC-%EC%8D%B8%EB%84%A4%EC%9D%BC-009_(1).png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서울 길은 복잡해 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -887,12 +963,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfODUg/MDAxNjQ5NTA5MTQ5MDg4.8-KiJRa0Qp5moLyxBIgWmIsiiDxMzmaXr3nQeQPqJEsg.arLXdjJIRfOF-YT9nt_4VyIPv17_0pNlrPtREH6CqR8g.JPEG/220409_%EC%84%9C%EC%9A%B8%EA%B8%B8%EC%9D%80%EC%96%B4%EB%A0%A4%EC%9B%8C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[글이 돈이 되는 시대 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/contents/money/contents/220417081558675rJ</link>
-            <guid>https://contents.premium.naver.com/contents/money/contents/220417081558675rJ</guid>
-            <pubDate>Sat, 23 Apr 2022 16:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[글쓰기를 좋아하십니까? 혹은 글 읽는걸 좋아하십니까? 축하합니다. 이제 글쟁이들이 시대가 도래했습니다. 과거 수많은 예술가들이 귀족들로부터 지원을 받았다는 사실을 알고 계십니까? 적절한 수익은 더 좋은 콘텐츠를 만드는데 도움을 줍니다.  유튜브의 시대, OTT의 시대에 글이 돈이 될까요? 정답은 YES입니다.  여러분이 이 글을 읽고 계시다면, 여러분은 유료 구독 모델인]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTdfMTY1/MDAxNjUwMTUwNzM4NzEw.PBfluSvsEV3G6Fc8CClJH_1WygK03OxDYgL2OEWkufUg.3C2_d7ax5TLQGAJLz447IPM7YITbOWJluF7-U_hD_34g.JPEG/writing-gc87e3e631_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[이번 주말 아트 가이드 - 북촌 편 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/whyart/media/contents/220414230253498aa</link>
+            <guid>https://contents.premium.naver.com/whyart/media/contents/220414230253498aa</guid>
+            <pubDate>Sat, 23 Apr 2022 15:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[🌼 요즘 봄 날씨 너무 좋죠? 벚꽃 구경은 다녀오셨는지요. 주말 나들이 계획하시는 구독자님들을 위해 오늘은 제가 아트 가이드를 자청해보려 해요. 국내 갤러리들이 가장 많이 모여 있는 북촌으로 함께 가보시죠.  표시한 미술관과 갤러리는 모두 걸어서 갈 수 있는 거리예요. 제가 너무 많이 표시했나요? 여러분들이 어떤 전시를 좋아하실지 몰라서 여러 곳을 준비해봤어요. 하]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTRfMjE4/MDAxNjQ5OTM5MDI3MTU3.wyUO5EENdsuFOScQgT_mKjIRbzMTLu9VMaYODqIoUKEg.24jdvjA20wEDiPb5ltbT2BD-yHeUs6vmf1GTk3FXvlIg.JPEG/KakaoTalk_Photo_2022-04-14-21-21-53.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['예민'하다는 말 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220417150940920tQ</link>
+            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220417150940920tQ</guid>
+            <pubDate>Sat, 23 Apr 2022 17:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[동갑내기 친구로부터 오랜만에 연락이 왔다. 오래전, 같은 꿈을 꾸며 알게 된 사이였다. 언제부턴가 서로 사는 게 바빠 SNS를 통해서만 안부를 물었었는데, 최근 이직과 관련된 고민을 털어놓았다. 나는 이 친구를 세심하고 센스 있는 사람으로 기억하고 있었다. 같은 상황에 있더라도 항상 한 걸음 더 나아가 생각하는 느낌이었다. 오랜만에 주고받는 문자 속에도 그때 그 시절의]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTZfMTY0/MDAxNjUwMDM5OTM0ODM2.YezHfGwPWqXrTHcUbpfjQrBqJW3TRYnt0zPC-gc0Iisg.XBavnQ_ZaCIBITrarN0h_4Kq2_W8puLMAYKuTUJswSMg.JPEG/photo-1617440169032-c3582e03efc0.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
