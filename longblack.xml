@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-04-24T14:22:50.097Z</updated>
+    <updated>2022-04-24T15:25:48.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2022-04-23T15:25:55.968Z</updated>
-        <content type="html"><![CDATA[B의 마음을 다잡게 만든 지난주 롱블랙의 문장
-
-“아까 이루고 싶은 걸 다 이뤘다고 말씀드렸죠. 진심이에요. 지금 저는 궁극적으로 매달리는 목표가 없습니다. 그러고 나니 더 자유로운 마음으로 일에 몰입하게 됩니다. 지금부터 제가 하는 일들은 모두 하고 싶어서 하는 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[에코마케팅 : 광고회사에서 비즈니스 부스터로, 퍼포먼스의 비결을 장부로 읽다]]></title>
+        <id>https://www.longblack.co/note/272</id>
+        <link href="https://www.longblack.co/note/272"/>
+        <updated>2022-04-24T15:24:23.981Z</updated>
+        <content type="html"><![CDATA[어느새 완연한 봄이네. 봄 기분을 제대로 내고 싶을 땐 뭘 해야 하지? 맞아, 쇼핑이지! 오호라에서 코랄색 젤 네일 스티커 사 붙이고, 안다르의 민트색 레깅스를 신고 한강에 나가 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
