@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 03:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 04:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,7 +43,7 @@
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[프로덕트 매니저는 어떻게 아이디어를 모으고 관리할까? (퍼블리)]]></title>
+            <title><![CDATA[프로덕트 매니저는 어떻게 아이디어를 모으고 관리할까?(노션 템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/6740?fr=category</link>
             <guid>https://publy.co/content/6740?fr=category</guid>
             <pubDate>Sat, 23 Apr 2022 10:26:16 GMT</pubDate>
@@ -541,6 +541,14 @@
             <content:encoded><![CDATA[어느새 완연한 봄이네. 봄 기분을 제대로 내고 싶을 땐 뭘 해야 하지? 맞아, 쇼핑이지! 오호라에서 코랄색 젤 네일 스티커 사 붙이고, 안다르의 민트색 레깅스를 신고 한강에 나가 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['환승연애', '술도녀'... 티빙의 콘텐츠 기획 비결 (폴인)]]></title>
+            <link>https://www.folin.co/story/2166</link>
+            <guid>https://www.folin.co/story/2166</guid>
+            <pubDate>Mon, 25 Apr 2022 04:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[카카오TV 오리지널스튜디오 오윤환 총괄의 '새로운 판' (폴인)]]></title>
             <link>https://www.folin.co/story/2164</link>
             <guid>https://www.folin.co/story/2164</guid>
@@ -819,14 +827,6 @@
             <pubDate>Sun, 20 Mar 2022 22:25:18 GMT</pubDate>
             <content:encoded><![CDATA[<li>공간</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["실패는 안고가는 거죠" 서울거래 비상장 대표의 깨달음 (폴인)]]></title>
-            <link>https://www.folin.co/story/2110</link>
-            <guid>https://www.folin.co/story/2110</guid>
-            <pubDate>Sun, 20 Mar 2022 22:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>스타트업</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아마존을 끌어들인 11번가..상장에 성공할 수 있을까요? 2023년 상장이 기대되는 SK그룹의 이커머스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
