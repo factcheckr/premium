@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 07:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 08:32:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[100세 커리어, 우리에겐 아직 충분한 시간이 남아 있다 (퍼블리)]]></title>
+            <link>https://publy.co/content/6768?fr=category</link>
+            <guid>https://publy.co/content/6768?fr=category</guid>
+            <pubDate>Mon, 25 Apr 2022 08:30:47 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이제는 피할 수 없다: 전면 교체되는 GA4 포인트 핵심정리 (퍼블리)]]></title>
             <link>https://publy.co/content/6778?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6780?fr=category</guid>
             <pubDate>Sat, 23 Apr 2022 10:26:16 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어느 날 팀원이 퇴사하겠다고 말했다 (feat. 팀장의 대처법) (퍼블리)]]></title>
-            <link>https://publy.co/content/6751?fr=category</link>
-            <guid>https://publy.co/content/6751?fr=category</guid>
-            <pubDate>Sat, 23 Apr 2022 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어떤 브랜드가 시험 기간 이벤트 잘 했을까? (캐릿)]]></title>

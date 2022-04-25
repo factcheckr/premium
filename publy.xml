@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-04-25T07:25:29.358Z</updated>
+    <updated>2022-04-25T08:32:23.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[100세 커리어, 우리에겐 아직 충분한 시간이 남아 있다]]></title>
+        <id>https://publy.co/content/6768?fr=category</id>
+        <link href="https://publy.co/content/6768?fr=category"/>
+        <updated>2022-04-25T08:30:47.586Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제는 피할 수 없다: 전면 교체되는 GA4 포인트 핵심정리]]></title>
         <id>https://publy.co/content/6778?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6780?fr=category"/>
         <updated>2022-04-12T09:22:37.438Z</updated>
         <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어느 날 팀원이 퇴사하겠다고 말했다 (feat. 팀장의 대처법)]]></title>
-        <id>https://publy.co/content/6751?fr=category</id>
-        <link href="https://publy.co/content/6751?fr=category"/>
-        <updated>2022-04-11T08:28:12.457Z</updated>
-        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
     </entry>
 </feed>
