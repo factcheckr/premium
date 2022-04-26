@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 08:31:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더현대 서울 인사이트: 확고한 취향의 시대에 살아남는 공간 (퍼블리)]]></title>
+            <link>https://publy.co/content/6774?fr=category</link>
+            <guid>https://publy.co/content/6774?fr=category</guid>
+            <pubDate>Tue, 26 Apr 2022 08:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 18분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[100세 커리어, 우리에겐 아직 충분한 시간이 남아 있다 (퍼블리)]]></title>
             <link>https://publy.co/content/6768?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6759?fr=category</guid>
             <pubDate>Sat, 23 Apr 2022 10:26:16 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰] 대퇴사의 시대, 출근길에 오르는 마음 (퍼블리)]]></title>
-            <link>https://publy.co/content/6780?fr=category</link>
-            <guid>https://publy.co/content/6780?fr=category</guid>
-            <pubDate>Sat, 23 Apr 2022 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이모티콘 먹방, 랜덤 플레이 댄스! 요즘 초·중학생 유행 모음.zip (캐릿)]]></title>
