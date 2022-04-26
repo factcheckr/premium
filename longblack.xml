@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-04-26T14:23:27.376Z</updated>
+    <updated>2022-04-26T15:27:18.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[하이브로우 : 가구 만들던 형제, 밀크박스로 라이프스타일 브랜드를 꿈꾸다]]></title>
-        <id>https://www.longblack.co/note/273</id>
-        <link href="https://www.longblack.co/note/273"/>
-        <updated>2022-04-25T15:27:17.393Z</updated>
-        <content type="html"><![CDATA[하이브로우, 요즘 여기서 만든 밀크 박스가 자주 보입니다. 이태원 카페의 야외 테라스, 음악 페스티벌, 심지어 오늘의집 자취방 인테리어에도 등장하죠. 캠핑용 의자에서 휴대용 책장까<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[스트라바 : 사이클 기록 앱으로 출발, 세계 9500만명의 운동 커뮤니티가 되다]]></title>
+        <id>https://www.longblack.co/note/274</id>
+        <link href="https://www.longblack.co/note/274"/>
+        <updated>2022-04-26T15:25:55.393Z</updated>
+        <content type="html"><![CDATA[나 요즘 다시 달리기 시작했어. 회사 일 스트레스가 심할수록, 머리 비우고 땀 흘리는 게 중요한 거 같애. 친구가 달리기 시작했으면 스트라바Strava 쓰라고 하더라고. 그게<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
