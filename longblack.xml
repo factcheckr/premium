@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-04-27T14:23:52.294Z</updated>
+    <updated>2022-04-27T15:28:39.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[스트라바 : 사이클 기록 앱으로 출발, 세계 9500만명의 운동 커뮤니티가 되다]]></title>
-        <id>https://www.longblack.co/note/274</id>
-        <link href="https://www.longblack.co/note/274"/>
-        <updated>2022-04-26T15:25:55.393Z</updated>
-        <content type="html"><![CDATA[나 요즘 다시 달리기 시작했어. 회사 일 스트레스가 심할수록, 머리 비우고 땀 흘리는 게 중요한 거 같애. 친구가 달리기 시작했으면 스트라바Strava 쓰라고 하더라고. 그게<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[워크워크 : 노티드부터 탬버린즈까지, 일이 자랑스러워지는 워크웨어를 만들다]]></title>
+        <id>https://www.longblack.co/note/275</id>
+        <link href="https://www.longblack.co/note/275"/>
+        <updated>2022-04-27T15:27:19.724Z</updated>
+        <content type="html"><![CDATA[워크워크WORKWORK. 인력사무소인가, 싶은 이름이지만 워크웨어workwear 브랜드입니다. 요즘<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
