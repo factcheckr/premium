@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 09:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 10:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -565,6 +565,14 @@
             <content:encoded><![CDATA[나 요즘 다시 달리기 시작했어. 회사 일 스트레스가 심할수록, 머리 비우고 땀 흘리는 게 중요한 거 같애. 친구가 달리기 시작했으면 스트라바Strava 쓰라고 하더라고. 그게<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2000억 투자 받은 리멤버의 성장은 무엇이 달랐나 (폴인)]]></title>
+            <link>https://www.folin.co/story/2154</link>
+            <guid>https://www.folin.co/story/2154</guid>
+            <pubDate>Wed, 27 Apr 2022 10:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[참이슬 백팩 기획한 15년 차 하이트진로 브랜드 매니저 (폴인)]]></title>
             <link>https://www.folin.co/story/2147</link>
             <guid>https://www.folin.co/story/2147</guid>
@@ -843,14 +851,6 @@
             <pubDate>Tue, 22 Mar 2022 22:22:18 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대기업 업무지원팀이 '힙한 공간' 기획한 비결 (폴인)]]></title>
-            <link>https://www.folin.co/story/2125</link>
-            <guid>https://www.folin.co/story/2125</guid>
-            <pubDate>Mon, 21 Mar 2022 23:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[<li>공간</li>
-                                <li>워크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미국과 중국이라는 초강대국들이 서로를 향해 돌진하고 있다. 비극을 막기 위한 방법론이 필요하다. (북저널리즘)]]></title>

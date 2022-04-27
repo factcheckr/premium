@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-04-27T09:26:21.188Z</updated>
+    <updated>2022-04-27T10:28:00.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2000억 투자 받은 리멤버의 성장은 무엇이 달랐나]]></title>
+        <id>https://www.folin.co/story/2154</id>
+        <link href="https://www.folin.co/story/2154"/>
+        <updated>2022-04-27T10:27:39.958Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[참이슬 백팩 기획한 15년 차 하이트진로 브랜드 매니저]]></title>
         <id>https://www.folin.co/story/2147</id>
@@ -284,13 +292,5 @@
         <updated>2022-03-22T22:22:18.819Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대기업 업무지원팀이 '힙한 공간' 기획한 비결]]></title>
-        <id>https://www.folin.co/story/2125</id>
-        <link href="https://www.folin.co/story/2125"/>
-        <updated>2022-03-21T23:22:56.549Z</updated>
-        <content type="html"><![CDATA[<li>공간</li>
-                                <li>워크</li>]]></content>
     </entry>
 </feed>
