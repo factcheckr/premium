@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-04-27T21:23:35.832Z</updated>
+    <updated>2022-04-27T22:24:56.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건축→씨티뱅크→블록체인, '경험'으로 쌓은 커리어]]></title>
+        <id>https://www.folin.co/story/2168</id>
+        <link href="https://www.folin.co/story/2168"/>
+        <updated>2022-04-27T22:24:38.216Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2000억 투자 받은 리멤버의 성장은 무엇이 달랐나]]></title>
         <id>https://www.folin.co/story/2154</id>
@@ -284,13 +292,5 @@
         <updated>2022-03-22T22:22:18.812Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매출40배, 일회용품 200만개 줄인 트래쉬버스터즈]]></title>
-        <id>https://www.folin.co/story/2115</id>
-        <link href="https://www.folin.co/story/2115"/>
-        <updated>2022-03-22T22:22:18.819Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content>
     </entry>
 </feed>
