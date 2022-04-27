@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 07:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 08:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누적 50만 뷰 <멋있으면 다 언니> 기획자가 생각하는 스페셜리스트 (퍼블리)]]></title>
+            <link>https://publy.co/content/6763?fr=category</link>
+            <guid>https://publy.co/content/6763?fr=category</guid>
+            <pubDate>Wed, 27 Apr 2022 08:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[계획을 방해하는 보틀넥에 PM이 대처하는 방법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6785?fr=category</link>
+            <guid>https://publy.co/content/6785?fr=category</guid>
+            <pubDate>Wed, 27 Apr 2022 08:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[더현대 서울 인사이트: 확고한 취향의 시대에 살아남는 공간 (퍼블리)]]></title>
             <link>https://publy.co/content/6774?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6740?fr=category</guid>
             <pubDate>Sat, 23 Apr 2022 10:26:16 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1:1 어떻게 잘할까? 가이드와 상황별 질문 FAQ 다 드림 (퍼블리)]]></title>
-            <link>https://publy.co/content/6744?fr=category</link>
-            <guid>https://publy.co/content/6744?fr=category</guid>
-            <pubDate>Sat, 23 Apr 2022 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모나미 & 공부왕 찐천재 협업 비하인드: 윈윈하는 콜라보의 시작과 끝은 '고객' (퍼블리)]]></title>
-            <link>https://publy.co/content/6759?fr=category</link>
-            <guid>https://publy.co/content/6759?fr=category</guid>
-            <pubDate>Sat, 23 Apr 2022 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대 62.3%는 거리두기 해제 이후에도 매장에서 OOOO가 되길 바란다고? (캐릿)]]></title>
@@ -853,12 +853,88 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Q. 할아버지·할머니를 위한 선택은 무엇인가요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/booding/home/contents/220404211953849Aq</link>
-            <guid>https://contents.premium.naver.com/booding/home/contents/220404211953849Aq</guid>
-            <pubDate>Tue, 26 Apr 2022 15:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[Q. 할아버지·할머니를 위한 선택은 무엇인가요? 1. 가족구성원: 87세 남성, 88세 여성(노부부 2인가구)  2. 현 거주지: 서울시 영등포구 신길동 소재 주택  3. 순자본 / 대출: 현금 5000만 원 / 대출 없음  4. 월수입: 없음  5. 허용 가능한 월 원리금 상환액: 소득이 없어 대출 불가능  6. 현 주택 소유 여부: 유주택  7. 내 집 마련 선호 지역: 서울  8. 내 집 마련 우선순위: 교통&gt;투자&gt;상권&gt;학]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MjlfMjIx/MDAxNjIyMjc2MzA3ODQy.yvnHGeqkq-RhTNHFJ5RdMBsq7rebRZp93kLUQQqR2PAg.bACHFGcyTNFKTgT4jpfHu6wK5KxoIFM-yVKWIFKCh5og.JPEG/KakaoTalk_20210529_170740114.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[미국과 중국이라는 초강대국들이 서로를 향해 돌진하고 있다. 비극을 막기 위한 방법론이 필요하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50569</link>
+            <guid>https://www.bookjournalism.com/books/50569</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[미·중 전쟁을 막아라]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가습기 살균제 피해자 단체가 시위에 돌입했다. 피해자가 속출했던 사건은 왜 11년째 해결되지 않았나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50546</link>
+            <guid>https://www.bookjournalism.com/books/50546</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[해결된 적 없는 미래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프랑스 국민은 다시 한 번 마크롱을 지지했다. 그러나 싸움은 지금부터 시작이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50540</link>
+            <guid>https://www.bookjournalism.com/books/50540</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[톨레랑스는 죽었다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4월 넷째 주 - 맛있게 먹기 참 좋은 시대입니다. 그런데 왜 입맛은 쓸까요? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50511</link>
+            <guid>https://www.bookjournalism.com/books/50511</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[맛있는 시대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #33에선, 팬데믹이 남긴 새로운 진료 경험 비대면 진료, 주류 소비 트렌드를 통해 살펴 본 리오프닝의 키워드, SNS를 부정하는 SNS BeReal의 심상치 않은 인기와 그 함의, 코로나로 인해 자취를 감춘 학생 자치 문화의 미래를 짚어봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50500</link>
+            <guid>https://www.bookjournalism.com/audio/50500</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[다시 일상이다. 전혀 다른 일상이다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[교육계에도 리오프닝이 찾아왔다. 코로나로 인해 자취를 감춘 학생 자치 문화는 부활할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50459</link>
+            <guid>https://www.bookjournalism.com/books/50459</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[소멸된 학생 자치에도 꽃이 필까요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안티 소셜 미디어를 표방하는 비리얼의 인기가 심상치 않다. 우리가 알던 소셜 미디어의 판도가 바뀔지도 모른다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50438</link>
+            <guid>https://www.bookjournalism.com/books/50438</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[소셜 미디어의 조건]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[의류 브랜드 GAP은 시대를 풍미했지만, 몰락의 길을 걷고 있다. 카니예 웨스트와의 콜라보는 부활의 열쇠가 될 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50420</link>
+            <guid>https://www.bookjournalism.com/books/50420</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[GAP의 몰락]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일상이다. 주류업계는 리오프닝을 꿈꾸고 전국의 부장님들은 회식을 꿈꾸지만, 지난 2년 동안 주류 소비의 트렌드는 급격히 변화했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50312</link>
+            <guid>https://www.bookjournalism.com/books/50312</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[소맥의 시대는 끝났다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19로 임시 허용됐던 비대면 진료의 합법화가 검토 중이다. 팬데믹은 저물었으나, 비대면 진료는 이제 시작이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50255</link>
+            <guid>https://www.bookjournalism.com/books/50255</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[슬기로운 환자생활]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 열두 번째 -코로나19는 '우리'라는 단어에 관한 질문을 남겼습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50230</link>
+            <guid>https://www.bookjournalism.com/books/50230</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[일상 전야]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #32에선, 전 세계의 화두로 떠오른 식량 문제와 이를 둘러싼 기술의 도약, 규석기 시대 현명한 반도체 전략, 사무실 공실률 증가로 본 오피스의 미래, 헬스케어 시장도 피해갈 수 없는 메타버스와 플랫폼의 시대를 짚어봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50190</link>
+            <guid>https://www.bookjournalism.com/audio/50190</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[먹고, 일하고, 운동하라]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정해진 가격에 신주발행을 요구할 수 있는 신주인수권부사채(BW) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -869,12 +945,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjRfMTk4/MDAxNjQ1NjY0OTA2NzEx.cLoHLE7aBDE0mvohLr5peMzBS0BtUOTU838Havnw4Fwg.Vcw7G_Dptma-I9en7J_WGN31oWnchueUSL3562d5ESog.PNG/image01.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[빠르고 편하게 세무서 이용하는 법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220420082011130RL</link>
-            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220420082011130RL</guid>
+            <title><![CDATA[Q. 할아버지·할머니를 위한 선택은 무엇인가요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/booding/home/contents/220404211953849Aq</link>
+            <guid>https://contents.premium.naver.com/booding/home/contents/220404211953849Aq</guid>
             <pubDate>Tue, 26 Apr 2022 15:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[각종 세금 신고기한이 임박해지면 전국의 세무서에는 사람들이 몰려드는데요. 이에 따라 세무서에서 일처리를 위해 기다리게 되는 대기시간도 길어집니다. 세무서가 거주지나 사업장에서 멀리 떨어져 있는 납세자라면 왕복해서 길위에 허비하는 시간까지 고려해야 하겠죠. 그런데 요즘은 이런 시간낭비를 크게 줄일 수 있는 방법이 있습니다. 일선 세무서에서 납세자 대기시간]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMTUz/MDAxNjUwNDEwMjY0NTkz.m-0MBVpvByE5-o72oK6-yDb8eS9GmIzci-qBIxIVldog.A6awrLXsHJgxlq8spfZZGIDOOTE930ocLx4AgM3RAIcg.JPEG/%EC%84%B8%EB%AC%B4%EC%84%9C%EC%B0%BE%EA%B8%B01.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[Q. 할아버지·할머니를 위한 선택은 무엇인가요? 1. 가족구성원: 87세 남성, 88세 여성(노부부 2인가구)  2. 현 거주지: 서울시 영등포구 신길동 소재 주택  3. 순자본 / 대출: 현금 5000만 원 / 대출 없음  4. 월수입: 없음  5. 허용 가능한 월 원리금 상환액: 소득이 없어 대출 불가능  6. 현 주택 소유 여부: 유주택  7. 내 집 마련 선호 지역: 서울  8. 내 집 마련 우선순위: 교통&gt;투자&gt;상권&gt;학]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MjlfMjIx/MDAxNjIyMjc2MzA3ODQy.yvnHGeqkq-RhTNHFJ5RdMBsq7rebRZp93kLUQQqR2PAg.bACHFGcyTNFKTgT4jpfHu6wK5KxoIFM-yVKWIFKCh5og.JPEG/KakaoTalk_20210529_170740114.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3월 11일 : 인디스페이스 & 소피의 세계 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -885,12 +961,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMThfMjI0/MDAxNjQ3NTk5NzM4Mjg0.HfToIw47y-qMbvbWNMf4H8yYaCBNc1GDw645k4jubVMg.UHOt7AAaz3_Tav0Fp8AogmIYJOpPvlFje0MbMhDsPDkg.JPEG/87287cba3d026af0a703b05d2d6726c6ea59e9a7.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[경제뉴스]  광고 넣고 싼 가격 내놓는 넷플릭스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/ottguidebook/1776/contents/220420083048891cq</link>
-            <guid>https://contents.premium.naver.com/ottguidebook/1776/contents/220420083048891cq</guid>
+            <title><![CDATA[빠르고 편하게 세무서 이용하는 법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220420082011130RL</link>
+            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220420082011130RL</guid>
             <pubDate>Tue, 26 Apr 2022 15:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 수년간 스트리밍 서비스에 대한 광고에 저항한 끝에 이제 광고로 저렴한 계층을 제공할 수 있게 됐다고 리드 헤이스팅스 공동 최고경영자(CEO)가 8일(현지시간) 밝혔다. 헤이스팅스는 오랫동안 플랫폼에 광고나 다른 프로모션을 추가하는 것에 반대해 왔다. 회사가 미리 기록한 수익 컨퍼런스 콜에서 고객들에게 더 저렴한 옵션을 제공하는 것이 "상당히 이치에 맞다"]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMyAg/MDAxNjUwNDExMDgxMTk4.mUezk39EzjHdrbnFsGqXZA_mp9s3vjPKuMUpKzOZkUQg.scNkuex9NmRrmRWTYLF89rz1v4a1lLZRJvSxx4s8VB0g.JPEG/Netflix-launches-website-Tudum-main-3402edc0-22ef-4394-804e-c4ce28015507.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[각종 세금 신고기한이 임박해지면 전국의 세무서에는 사람들이 몰려드는데요. 이에 따라 세무서에서 일처리를 위해 기다리게 되는 대기시간도 길어집니다. 세무서가 거주지나 사업장에서 멀리 떨어져 있는 납세자라면 왕복해서 길위에 허비하는 시간까지 고려해야 하겠죠. 그런데 요즘은 이런 시간낭비를 크게 줄일 수 있는 방법이 있습니다. 일선 세무서에서 납세자 대기시간]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMTUz/MDAxNjUwNDEwMjY0NTkz.m-0MBVpvByE5-o72oK6-yDb8eS9GmIzci-qBIxIVldog.A6awrLXsHJgxlq8spfZZGIDOOTE930ocLx4AgM3RAIcg.JPEG/%EC%84%B8%EB%AC%B4%EC%84%9C%EC%B0%BE%EA%B8%B01.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이영철의 색다른 제주여행] 제주에 유배 온 유일한 왕…회한과 고독의 흔적 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -901,12 +977,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfMjEz/MDAxNjUwMzI5Njg1NDQ4.rfiaSZb7t9bl7v9PqpHtLLCMqx1PgwBJjMShwCBFGtwg.rz3jaIlZYOuc0al0buA_odezezWb-90E85Zea07JNVwg.JPEG/17.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[금융소득 세금! 2023.01.01.이후 주식을 양도하는 경우 과세 핵심정리 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxnet/taxnetpremium/contents/220420104549423hT</link>
-            <guid>https://contents.premium.naver.com/taxnet/taxnetpremium/contents/220420104549423hT</guid>
+            <title><![CDATA[[경제뉴스]  광고 넣고 싼 가격 내놓는 넷플릭스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/ottguidebook/1776/contents/220420083048891cq</link>
+            <guid>https://contents.premium.naver.com/ottguidebook/1776/contents/220420083048891cq</guid>
             <pubDate>Tue, 26 Apr 2022 15:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[지난 번에 2022.12.31.까지 주식을 양도하는 경우 세금 부과에 대하여 알아보았죠? “2022.12.31.과 2023.1.1.”, 이 하루 차이로 금융소득에 대한 세금 부과 체계에 큰 변화가 생깁니다. 2023.1.1.부터는 상장주식을 양도하는 경우 소액주주인지 대주주인지 관계없이 5천만원 이상의 수익이 발생하면 과세가 됩니다. 소득세의 종류는 금융투자소득세가 됩니다. 금융투자소득은 이렇게 2023.1.]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMTY5/MDAxNjUwNDE4MDUyODMz.EjzR0czkSOq7vvEwitO9liQp94EXgC4LYwJ5z55lhiMg.YKYuCH4Lw-va6Xs1SguyN2CRsoWgHqmEtKjwkww8GaUg.GIF/post_211129_1.gif?type=nfs220_220" length="0" type="image/gif"/>
+            <content:encoded><![CDATA[넷플릭스가 수년간 스트리밍 서비스에 대한 광고에 저항한 끝에 이제 광고로 저렴한 계층을 제공할 수 있게 됐다고 리드 헤이스팅스 공동 최고경영자(CEO)가 8일(현지시간) 밝혔다. 헤이스팅스는 오랫동안 플랫폼에 광고나 다른 프로모션을 추가하는 것에 반대해 왔다. 회사가 미리 기록한 수익 컨퍼런스 콜에서 고객들에게 더 저렴한 옵션을 제공하는 것이 "상당히 이치에 맞다"]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMyAg/MDAxNjUwNDExMDgxMTk4.mUezk39EzjHdrbnFsGqXZA_mp9s3vjPKuMUpKzOZkUQg.scNkuex9NmRrmRWTYLF89rz1v4a1lLZRJvSxx4s8VB0g.JPEG/Netflix-launches-website-Tudum-main-3402edc0-22ef-4394-804e-c4ce28015507.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EXCL.] 거래소, 오스템 새 회계시스템 제3자 검증결과 받았다.."이변없는 한 상장유지" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -917,12 +993,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMjEw/MDAxNjUwMzgzODE0ODc5.v6qVPQtjwL-BsS8ATdSlH7Ff4SbxN0yqOi8vK5zSQNgg.sacyrkXKv2Ld9Z-FTe39MpQOLf9noR7DQI-PPt5Lja4g.JPEG/171071_136725_387.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["최저임금도 못 받는데 취업조차 힘들어요" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/220420160256232nK</link>
-            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/220420160256232nK</guid>
-            <pubDate>Wed, 27 Apr 2022 07:25:06 GMT</pubDate>
-            <content:encoded><![CDATA["발달장애인도 잡플래닛이나 다른 채용플랫폼에서 쉽게 지원하고 채용할 수 있는 세상이 빨리 왔으면 좋겠습니다." 2020년 11월, 동구밭 노순호 대표가 &lt;컴퍼니 타임스&gt;와의 인터뷰에서 한 말입니다. 인터뷰로부터 벌써 1년이 훌쩍 흘렀는데요. 그동안 무엇이 바뀌었는가에 대해서는 물음표가 앞서는 것 같습니다. 변화가 없었다는 게 아닙니다. 여기서 물음표는 "알지 못한다"의]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMzUg/MDAxNjUwNDM3NjQ1MzE1.D0WVnBbpdaScWO5cEG5EXCoJlY6OtJqLevlsZAw1Kmog.n9ap3zo4Gz5_59mnkME84VNImeYYBq4hVvvILlsx8SMg.JPEG/main.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[금융소득 세금! 2023.01.01.이후 주식을 양도하는 경우 과세 핵심정리 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxnet/taxnetpremium/contents/220420104549423hT</link>
+            <guid>https://contents.premium.naver.com/taxnet/taxnetpremium/contents/220420104549423hT</guid>
+            <pubDate>Tue, 26 Apr 2022 15:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[지난 번에 2022.12.31.까지 주식을 양도하는 경우 세금 부과에 대하여 알아보았죠? “2022.12.31.과 2023.1.1.”, 이 하루 차이로 금융소득에 대한 세금 부과 체계에 큰 변화가 생깁니다. 2023.1.1.부터는 상장주식을 양도하는 경우 소액주주인지 대주주인지 관계없이 5천만원 이상의 수익이 발생하면 과세가 됩니다. 소득세의 종류는 금융투자소득세가 됩니다. 금융투자소득은 이렇게 2023.1.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMTY5/MDAxNjUwNDE4MDUyODMz.EjzR0czkSOq7vvEwitO9liQp94EXgC4LYwJ5z55lhiMg.YKYuCH4Lw-va6Xs1SguyN2CRsoWgHqmEtKjwkww8GaUg.GIF/post_211129_1.gif?type=nfs220_220" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[굿모닝러너 챌린지 [49일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220420061353163yp</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220420061353163yp</guid>
+            <pubDate>Wed, 27 Apr 2022 08:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [49일차] 굿모닝러너님, 어려운 들이 나를 힘들게 하는 상황은 언제나 있지만 그 과정들에서 배우는 것들이 분명 있을거에요. 긍정적인 생각을 선물해주는 오늘 하루를 시작하세요~  굿모닝러너_챌린지_49일차 #20220420 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMjcg/MDAxNjUwNDAyNzk0NTUz.4lpE2sPqeRznTnwxLww_K3L3u3REURDpHHOUcZkzzBkg.KhkT9jQuP1Rl-7RgsHCD2gDryoAlBWvEuk3LZnDHMgog.JPEG/KakaoTalk_20220420_061243399.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
