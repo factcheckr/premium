@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 23:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 02:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혼토이즘? 혼놀로그? 혼자 노는 Z세대 문화, 마케팅에 활용하는 법]]></title>
+            <link>https://www.careet.net/733</link>
+            <guid>https://www.careet.net/733</guid>
+            <pubDate>Thu, 28 Apr 2022 02:45:50 GMT</pubDate>
+            <content:encoded><![CDATA[혼자 있을 때 라방하는 게 일상이 됐다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/2b726eab-2f36-46a3-b28c-eec61df5d6bf_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 62.3%는 거리두기 해제 이후에도 매장에서 OOOO가 되길 바란다고?]]></title>
             <link>https://www.careet.net/730</link>
