@@ -4,9 +4,33 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 23:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 02:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔데믹 시작? 예약 대기만 2,000명인 팝업스토어]]></title>
+            <link>https://www.careet.net/735</link>
+            <guid>https://www.careet.net/735</guid>
+            <pubDate>Fri, 29 Apr 2022 02:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대는 오프라인에서 ‘자랑할 거’ 만드는 중]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/5a8bbf1f-1937-438c-822a-4f0b744fb344_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[포즈에 진심인 Z세대! 갸루브이 따라 하는 진짜 이유]]></title>
+            <link>https://www.careet.net/732</link>
+            <guid>https://www.careet.net/732</guid>
+            <pubDate>Fri, 29 Apr 2022 02:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[콩순이 포즈도 유행 중이라고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/bd7c67a6-028d-4185-9cc4-3269e023c484_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] Z세대 최애 캐릭터, ‘잔망 루피 커버 메이크업’ 후기(Feat. 이사배)]]></title>
+            <link>https://www.careet.net/729</link>
+            <guid>https://www.careet.net/729</guid>
+            <pubDate>Fri, 29 Apr 2022 02:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 유행 메이크업과 커버 메이크업에 도전!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/f6dc92bc-7af9-4062-8741-a325a7adf644_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[혼토이즘? 혼놀로그? 혼자 노는 Z세대 문화, 마케팅에 활용하는 법]]></title>
             <link>https://www.careet.net/733</link>
