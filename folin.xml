@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-05-01T21:23:08.208Z</updated>
+    <updated>2022-05-01T22:23:57.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MZ 어른이 사로잡은 딩동댕 대학교 제작 비하인드]]></title>
+        <id>https://www.folin.co/story/2159</id>
+        <link href="https://www.folin.co/story/2159"/>
+        <updated>2022-05-01T22:23:39.378Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워너브러더스·아마존이 '구독 모델' 창출에 목매는 이유]]></title>
         <id>https://www.folin.co/story/2167</id>
@@ -282,14 +290,6 @@
         <id>https://www.folin.co/story/2131</id>
         <link href="https://www.folin.co/story/2131"/>
         <updated>2022-03-24T01:42:35.270Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>조직문화</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번개장터가 발견한 요즘 중고시장 키워드 3]]></title>
-        <id>https://www.folin.co/story/2130</id>
-        <link href="https://www.folin.co/story/2130"/>
-        <updated>2022-03-24T01:42:35.281Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>조직문화</li>]]></content>
     </entry>
