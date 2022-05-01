@@ -4,9 +4,17 @@
         <title>네이버 프리미엄콘텐츠 ─ 무료 프로모션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 16:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 17:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!]]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Sun, 01 May 2022 17:26:17 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[굿모닝러너 챌린지 [52일차]]]></title>
             <link>https://contents.premium.naver.com/gmrc/runner/contents/220425055043067ZN</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 01 May 2022 15:25:41 GMT</pubDate>
             <content:encoded><![CDATA[무슨 일이지? 지난주(4월 18일~22일) 미국 자산운용사 아크인베스트의 수장 캐서린 우드가 공격적인 주식 매수 행보를 보였습니다. 넷플릭스 실적 충격과 금리 인상 이슈로 뉴욕증시가 일제히 하락한 가운데 이뤄진 예상밖 행보입니다.  그녀가 운용하는 주요 ETF 중에는 'ARK Innovation ETF'가 있습니다. 지난주 이 펀드가 대거 매수한 종목은 쇼피파이(1만 642주), 줌(32만 9073주), 로블록]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfMTQx/MDAxNjUwODQyNzA4MjAw.qVKvraM8nXkJczUDowuPaRA1LxZcZ6WIjhHcZRWzB68g.CFPD_5zpAdzDNNS5y4CYRp_nS6TBmYhytHfh-nOPcvAg.JPEG/20220425_%EB%A1%9C%EC%BF%A0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9. 삽살개 짖는 마을]]></title>
-            <link>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220216164517065ns</link>
-            <guid>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220216164517065ns</guid>
-            <pubDate>Sun, 01 May 2022 16:34:21 GMT</pubDate>
-            <content:encoded><![CDATA[1981년 어린이 문학가 김원석씨 집을 처음 방문했다. 안에 들어서니 자그마한 방에 3m는 족히 되어 보이는 기다란 책상과 책이 빼곡히 꽂힌 책장이 있었다. 짐작했던 바였다. 그리고 그 위에 족자 하나. 거기에 쓰인 글이 내 눈길을 사로잡았다. 紫槿房자근방.   아! 탄성이 절로 새어나왔다. ‘작은 방’이면서 ‘보랏빛 무궁화를 좋아하는 사람 서재’! 내 또래인 그가 이렇게 멋진]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTZfMjAg/MDAxNjQ0OTg5ODkzNjI1.DBg-IXq1nuEZEYOZf7KRlY56HkNcrH6r_SbpCiLP7bcg.xrx7xa5WFBvoVHk_AOgzACIuEgRco0bgfXCXu6gHh8og.JPEG/pr_wh_rec_bnr_mint.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
