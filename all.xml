@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 06:30:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 07:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -721,14 +721,6 @@
             <content:encoded><![CDATA[GAP의 몰락]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Sun, 01 May 2022 17:26:17 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[굿모닝러너 챌린지 [52일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/gmrc/runner/contents/220425055043067ZN</link>
             <guid>https://contents.premium.naver.com/gmrc/runner/contents/220425055043067ZN</guid>
@@ -737,12 +729,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfMjYz/MDAxNjUwODMzNDIxMDc5.aZ7jHRv2LhblW3e3DcN40C-qHHcCg09NSMJtA53ck-Ag.vysg0N2Kfq4EwXc9oUY77tN8G0A4AsCIXNDjXjeKeq8g.JPEG/KakaoTalk_20220425_054644691.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[스낵에세이] 후회할지도 모를 일 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220425013144877rv</link>
-            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220425013144877rv</guid>
-            <pubDate>Sun, 01 May 2022 15:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[사람마다 전보다 나이가 든 것 같다고 느끼는 순간은 언제일까. 몰랐던 주름을 발견할 때일까. 눈에 띄게 떨어진 체력을 실감할 때일까. 나 같은 경우, 결정을 내리는 시간이 전보다 오래 걸릴 때인 것 같다. '일단 해보자'라고 마음먹기까지 전보다 두려움은 커지고, 고민의 시간은 길어진다. 그렇게 겁 많은 어른이 되어버린 것만 같은 기분이 들면, 10년 뒤의 내가 이때를 돌아보]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfNjkg/MDAxNjUwODE3MTQzODg5.4bJDnhI5Fn3sbqZd_m-Rz53LWipxIFnVeWJi89UkH1cg.FkwGxhG0SP-wwspV8YCIhoFlKn6bVKzunQOgKypYTWgg.JPEG/photo-1585543253202-04d3d9f11961.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Sun, 01 May 2022 17:26:17 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[주요이슈] 머스크 인수전에 주목하는 트위터 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -753,12 +745,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfMjAw/MDAxNjUwODQzNDMwNzU1.2CrftFsEJVYfw8dDd9mf41YC9RHvSnnRQliM4eyNuxwg.k4AixBo1PCpxZmojXYOdRGhv6uiAXDTyWXBKA4NzGlwg.PNG/Musk-Twitter-stake.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[금융지주 샀어야…1분기에 조단위 실적 낸 금융지주들, 500억에 1위 갈렸다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220422185336196eg</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220422185336196eg</guid>
+            <title><![CDATA[[스낵에세이] 후회할지도 모를 일 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220425013144877rv</link>
+            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220425013144877rv</guid>
             <pubDate>Sun, 01 May 2022 15:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[올 들어 주식 시장은 횡보장을 보이고 있습니다. 2700선에 갇혀 오르지도 못하고 내리지도 못합니다. 그래도 눈에 띄는 종목은 있겠죠. 단연 금융업종은 횡보장 속에서 두각을 나타내고 있습니다. 우리금융지주가 26% 넘는 주가 상승률을 보였고 하나금융(13%) 신한지주(11%) KB금융(9%)의 상승률을 각각 보였습니다. 이런 주가 상승률엔 이유가 있었습니다. 금융지주들이 1분기에도 역]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfMjkg/MDAxNjUwNjIwNzM2MjEx.LIhzKCwr_5pKa4OO78-wENMtdOroD-mrfMg9Y49Yn-sg.R97eZYENeiiD0r9EZBUTvADZJdFFtfqBFqgL75oNau8g.JPEG/KB%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[사람마다 전보다 나이가 든 것 같다고 느끼는 순간은 언제일까. 몰랐던 주름을 발견할 때일까. 눈에 띄게 떨어진 체력을 실감할 때일까. 나 같은 경우, 결정을 내리는 시간이 전보다 오래 걸릴 때인 것 같다. '일단 해보자'라고 마음먹기까지 전보다 두려움은 커지고, 고민의 시간은 길어진다. 그렇게 겁 많은 어른이 되어버린 것만 같은 기분이 들면, 10년 뒤의 내가 이때를 돌아보]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfNjkg/MDAxNjUwODE3MTQzODg5.4bJDnhI5Fn3sbqZd_m-Rz53LWipxIFnVeWJi89UkH1cg.FkwGxhG0SP-wwspV8YCIhoFlKn6bVKzunQOgKypYTWgg.JPEG/photo-1585543253202-04d3d9f11961.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[일본 ‘나홀로족’의 연애…정말 연애 약자? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -769,12 +761,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfNzgg/MDAxNjQ5NDY3NDU3NDYy.wOgbHA8je31Ix8wTJ6qS_K76e8bwKHyf8_Bp6pHUPvEg.rboSJlBhwcPFlICicQaGvNFVw3At5SqtTTc754bVSxsg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(16).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MBK, 롯데카드 인수 3년만에 60% 높여 받겠다는데…희망 몸값 3조 평가 가능할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220422064303646Ed</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220422064303646Ed</guid>
+            <title><![CDATA[금융지주 샀어야…1분기에 조단위 실적 낸 금융지주들, 500억에 1위 갈렸다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220422185336196eg</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220422185336196eg</guid>
             <pubDate>Sun, 01 May 2022 15:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[몇년간 잠잠했던 금융 산업 M&amp;A 소식이 연이어 들려오고 있습니다. 부실금융기관에 지정된 MG손해보험은 조만간 예금보험공사 중심의 매각 작업이 진행될 겁니다. 산업은행이 주식매매계약 해제를 통보한 KDB생명보험 매각작업도 다시 진행됩니다. 롯데카드 매각 전도 빠르면 연내, 늦어도 내년 초엔 진행될 것으로 보입니다. 벌써부터 원매 후보와 매각가에 대한 다양한 해석이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjFfMTk4/MDAxNjUwNTI2NjYzODc1.lTPZK1QmdftcdQa5-uQO4ytlbY2xgdhBTZ1sbRdd5V4g.OGHAOkbx9fW1xBcff25q1cy1rFVYcdOd_w_K2g7OQ5kg.PNG/%EB%A1%AF%EB%8D%B0%EC%B9%B4%EB%93%9C.PNG?type=nfs220_220" length="0" type="image/PNG"/>
+            <content:encoded><![CDATA[올 들어 주식 시장은 횡보장을 보이고 있습니다. 2700선에 갇혀 오르지도 못하고 내리지도 못합니다. 그래도 눈에 띄는 종목은 있겠죠. 단연 금융업종은 횡보장 속에서 두각을 나타내고 있습니다. 우리금융지주가 26% 넘는 주가 상승률을 보였고 하나금융(13%) 신한지주(11%) KB금융(9%)의 상승률을 각각 보였습니다. 이런 주가 상승률엔 이유가 있었습니다. 금융지주들이 1분기에도 역]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfMjkg/MDAxNjUwNjIwNzM2MjEx.LIhzKCwr_5pKa4OO78-wENMtdOroD-mrfMg9Y49Yn-sg.R97eZYENeiiD0r9EZBUTvADZJdFFtfqBFqgL75oNau8g.JPEG/KB%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[익명성을 악용한 범죄…지울 수 없는 디지털 상처 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -785,12 +777,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfMjA0/MDAxNjQ5NDY2OTkyMDg3.HsaZyz1HNb4XLxiKlEn9KBhgljTVKIUNLpbMfkTkiT4g.ot6pO34_atjYvvVhrLpQ8tRDfHP2Z07aQN_IdMjTDCEg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(13).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캐시 우드, 하락장에 또 '베팅' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220425082718406eh</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220425082718406eh</guid>
-            <pubDate>Mon, 02 May 2022 05:34:18 GMT</pubDate>
-            <content:encoded><![CDATA[무슨 일이지? 지난주(4월 18일~22일) 미국 자산운용사 아크인베스트의 수장 캐서린 우드가 공격적인 주식 매수 행보를 보였습니다. 넷플릭스 실적 충격과 금리 인상 이슈로 뉴욕증시가 일제히 하락한 가운데 이뤄진 예상밖 행보입니다.  그녀가 운용하는 주요 ETF 중에는 'ARK Innovation ETF'가 있습니다. 지난주 이 펀드가 대거 매수한 종목은 쇼피파이(1만 642주), 줌(32만 9073주), 로블록]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfMTQx/MDAxNjUwODQyNzA4MjAw.qVKvraM8nXkJczUDowuPaRA1LxZcZ6WIjhHcZRWzB68g.CFPD_5zpAdzDNNS5y4CYRp_nS6TBmYhytHfh-nOPcvAg.JPEG/20220425_%EB%A1%9C%EC%BF%A0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[MBK, 롯데카드 인수 3년만에 60% 높여 받겠다는데…희망 몸값 3조 평가 가능할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220422064303646Ed</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220422064303646Ed</guid>
+            <pubDate>Sun, 01 May 2022 15:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[몇년간 잠잠했던 금융 산업 M&amp;A 소식이 연이어 들려오고 있습니다. 부실금융기관에 지정된 MG손해보험은 조만간 예금보험공사 중심의 매각 작업이 진행될 겁니다. 산업은행이 주식매매계약 해제를 통보한 KDB생명보험 매각작업도 다시 진행됩니다. 롯데카드 매각 전도 빠르면 연내, 늦어도 내년 초엔 진행될 것으로 보입니다. 벌써부터 원매 후보와 매각가에 대한 다양한 해석이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjFfMTk4/MDAxNjUwNTI2NjYzODc1.lTPZK1QmdftcdQa5-uQO4ytlbY2xgdhBTZ1sbRdd5V4g.OGHAOkbx9fW1xBcff25q1cy1rFVYcdOd_w_K2g7OQ5kg.PNG/%EB%A1%AF%EB%8D%B0%EC%B9%B4%EB%93%9C.PNG?type=nfs220_220" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[9. 삽살개 짖는 마을 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220216164517065ns</link>
+            <guid>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220216164517065ns</guid>
+            <pubDate>Mon, 02 May 2022 07:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[1981년 어린이 문학가 김원석씨 집을 처음 방문했다. 안에 들어서니 자그마한 방에 3m는 족히 되어 보이는 기다란 책상과 책이 빼곡히 꽂힌 책장이 있었다. 짐작했던 바였다. 그리고 그 위에 족자 하나. 거기에 쓰인 글이 내 눈길을 사로잡았다. 紫槿房자근방.   아! 탄성이 절로 새어나왔다. ‘작은 방’이면서 ‘보랏빛 무궁화를 좋아하는 사람 서재’! 내 또래인 그가 이렇게 멋진]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTZfMjAg/MDAxNjQ0OTg5ODkzNjI1.DBg-IXq1nuEZEYOZf7KRlY56HkNcrH6r_SbpCiLP7bcg.xrx7xa5WFBvoVHk_AOgzACIuEgRco0bgfXCXu6gHh8og.JPEG/pr_wh_rec_bnr_mint.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
