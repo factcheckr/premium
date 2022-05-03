@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-05-03T21:23:07.686Z</updated>
+    <updated>2022-05-03T22:24:47.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤넬코리아 최초 법무팀장 "실패는 필연, 도전은 필수"]]></title>
+        <id>https://www.folin.co/story/2173</id>
+        <link href="https://www.folin.co/story/2173"/>
+        <updated>2022-05-03T22:24:29.488Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["'카톡' 기획하며 배운 것, 그레이프랩에 담았죠"]]></title>
+        <id>https://www.folin.co/story/2165</id>
+        <link href="https://www.folin.co/story/2165"/>
+        <updated>2022-05-03T22:24:29.488Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마초의사춘기, 더현대서울·젠틀몬스터 사로잡은 비결]]></title>
         <id>https://www.folin.co/story/2174</id>
@@ -275,22 +291,6 @@
         <link href="https://www.folin.co/story/2136"/>
         <updated>2022-03-28T01:51:06.466Z</updated>
         <content type="html"><![CDATA[<li>공간</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7년간 '고기 시장'서 640배 컸다, 미트박스 성장기]]></title>
-        <id>https://www.folin.co/story/2126</id>
-        <link href="https://www.folin.co/story/2126"/>
-        <updated>2022-03-28T01:51:06.467Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>스타트업</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금의 인스타그램 만든 '비상식적인' 3가지 선택]]></title>
-        <id>https://www.folin.co/story/2135</id>
-        <link href="https://www.folin.co/story/2135"/>
-        <updated>2022-03-24T22:23:49.173Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
     </entry>
 </feed>
