@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 07:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 08:31:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[떠나는 고객을 붙잡는 법, OTT 플랫폼 별 오프보딩 설계 전략 (퍼블리)]]></title>
+            <link>https://publy.co/content/6746?fr=category</link>
+            <guid>https://publy.co/content/6746?fr=category</guid>
+            <pubDate>Wed, 04 May 2022 08:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[사용자 경험을 설계하는 UX라이팅, 이것만은 조심하자 (퍼블리)]]></title>
             <link>https://publy.co/content/6794?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6768?fr=category</guid>
             <pubDate>Mon, 25 Apr 2022 08:30:47 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이제는 피할 수 없다: 전면 교체되는 GA4 포인트 핵심정리 (퍼블리)]]></title>
-            <link>https://publy.co/content/6778?fr=category</link>
-            <guid>https://publy.co/content/6778?fr=category</guid>
-            <pubDate>Sat, 23 Apr 2022 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ세대가 넷플릭스 대신 철학 구몬 구독한다고? 갓생 마케팅 사례 9 (캐릿)]]></title>
@@ -653,6 +653,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[현대의 바다는 인간이 만들어내는 각종 소음이 뒤섞여 해양 생명체들을 위협하고있다. 우리는 이 사태를 해결할 수 있다. 그런데 왜 행동하지 않는가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50631</link>
+            <guid>https://www.bookjournalism.com/books/50631</guid>
+            <pubDate>Wed, 04 May 2022 08:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[소음의 바다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[전 세계가 배양육 시장을 주목한다. 대체 단백질은 어떤 미래를 그리려 하나? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/50656</link>
             <guid>https://www.bookjournalism.com/books/50656</guid>
@@ -730,11 +737,12 @@
             <content:encoded><![CDATA[다시 일상이다. 전혀 다른 일상이다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[교육계에도 리오프닝이 찾아왔다. 코로나로 인해 자취를 감춘 학생 자치 문화는 부활할 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50459</link>
-            <guid>https://www.bookjournalism.com/books/50459</guid>
-            <pubDate>Tue, 03 May 2022 22:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[소멸된 학생 자치에도 꽃이 필까요?]]></content:encoded>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Tue, 03 May 2022 07:25:11 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[세상에서 제일 빠른 주린이 탈출법🙊 [리치톡 프리미엄 콘텐츠 OPEN] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -745,12 +753,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfNDMg/MDAxNjUwMzM1Mjk5Njky.lZGpdrBmTeXqnaAQQfWbMsU-m7rqFz5APw628ZmGumYg.6ko1l4hLioa8WP6Q9H6Y9kr8PPJazFEFjBLNWGYvEdsg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-19_%EC%98%A4%EC%A0%84_11.28.04.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Tue, 03 May 2022 07:25:11 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[금융 플랫폼 뱅크샐러드, 예고된 손실? 매년 커지는 적자폭 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220427063947501ek</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220427063947501ek</guid>
+            <pubDate>Tue, 03 May 2022 15:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[금융산업은 변화가 더딥니다. IT와 만나 금융에도 변화가 생기고 있지요. 핀테크 기업 뱅크샐러드는 이런 변화를 주도하는 스타트업입니다. 스타트업 기업들의 숙명은 초기 손실이 불가피하다는 점일 겁니다. 죽음의 계곡이라고도 불리지요. 뱅크샐러드도 이런 숙명을 어떻게 넘어가느냐가 고민꺼리일겁니다. 최근 공개된 사업보고서를 보니 아직은 실적 호전의 기미가 보이지]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjZfMTgy/MDAxNjUwOTc0NTY4ODc3.O669xXNDwGKbk5kIRy99jt-rF85zj6ubr3sT-Mnu0uog.pliy6i2de3tf3A8_0GkYSX4Pn7xT62FC1PWw3VwUh2Ig.PNG/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-04-26_210144.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[형이 요즘 관심 있는 금 투자 방법 알려준다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -761,12 +769,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMTM0/MDAxNjUwNDM2NzUwMDI5.4gDPpKdbYe88eIeR9ta-Xkj5YfZ9SQcvJlWGWbpfKvsg.q3-e0le_vvacceshfUfi8RWLxVJrOU0Nu8IEO1lstH4g.PNG/%ED%98%95%EC%9D%B4%EB%8B%A4_(%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95).png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[금융 플랫폼 뱅크샐러드, 예고된 손실? 매년 커지는 적자폭 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220427063947501ek</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220427063947501ek</guid>
+            <title><![CDATA[알뜰폰 사업자 '아이즈비전', 100억 CB 활용법은 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220425170615558Al</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220425170615558Al</guid>
             <pubDate>Tue, 03 May 2022 15:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[금융산업은 변화가 더딥니다. IT와 만나 금융에도 변화가 생기고 있지요. 핀테크 기업 뱅크샐러드는 이런 변화를 주도하는 스타트업입니다. 스타트업 기업들의 숙명은 초기 손실이 불가피하다는 점일 겁니다. 죽음의 계곡이라고도 불리지요. 뱅크샐러드도 이런 숙명을 어떻게 넘어가느냐가 고민꺼리일겁니다. 최근 공개된 사업보고서를 보니 아직은 실적 호전의 기미가 보이지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjZfMTgy/MDAxNjUwOTc0NTY4ODc3.O669xXNDwGKbk5kIRy99jt-rF85zj6ubr3sT-Mnu0uog.pliy6i2de3tf3A8_0GkYSX4Pn7xT62FC1PWw3VwUh2Ig.PNG/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-04-26_210144.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[알뜰폰(MVNO)은 이동통신 재판매 서비스로 일반 통신망보다 저렴하게 이용할 수 있습니다. 흔히 알고 있는 SKT, KT, LG U+ 등 기존 이동통신사 통신망을 빌려 통신서비스를 제공해 저렴한 요금으로 사용할 수 있습니다. 멤버십 혜택이 거의 없고 고객센터 등 고객지원이 미흡하지만 저렴한 요금이 장점입니다. 아이즈비전(브랜드명 아이즈모바일)은 대표 알뜰폰 서비스 업체입니다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfMjAz/MDAxNjUwODczMjA0NDA0.xOWUeZbSr6jswqZ34ia8QMKvWpna9ms52x3aTJMYI84g.Z4drRmqQxHIW5XLhUG54m3ghgixU5CxNRg-0hpEHudYg.JPEG/compant_title2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 이상 시간 낭비를 하고 싶지 않은 당신에게 해주고 싶은 말 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -777,12 +785,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTdfMTgg/MDAxNjUwMjA3MjgyNTI5.29xr8TgzRfDFUmXTCuroPfaxdJEfS8o_IawuLaOdlT4g.qRSbBcW5FoQWMiYUAaspp60IvoJTko3IYcInHOo6aj4g.JPEG/%EC%9C%A4%EC%84%A4_220418_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[알뜰폰 사업자 '아이즈비전', 100억 CB 활용법은 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220425170615558Al</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220425170615558Al</guid>
+            <title><![CDATA[미 법원, 텍사스 '낙태금지법' 막아달라는 소송 기각 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220428051804973vJ</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220428051804973vJ</guid>
             <pubDate>Tue, 03 May 2022 15:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[알뜰폰(MVNO)은 이동통신 재판매 서비스로 일반 통신망보다 저렴하게 이용할 수 있습니다. 흔히 알고 있는 SKT, KT, LG U+ 등 기존 이동통신사 통신망을 빌려 통신서비스를 제공해 저렴한 요금으로 사용할 수 있습니다. 멤버십 혜택이 거의 없고 고객센터 등 고객지원이 미흡하지만 저렴한 요금이 장점입니다. 아이즈비전(브랜드명 아이즈모바일)은 대표 알뜰폰 서비스 업체입니다.]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfMjAz/MDAxNjUwODczMjA0NDA0.xOWUeZbSr6jswqZ34ia8QMKvWpna9ms52x3aTJMYI84g.Z4drRmqQxHIW5XLhUG54m3ghgixU5CxNRg-0hpEHudYg.JPEG/compant_title2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[Federal Court Dismisses Challenges to Texas Anti-Abortion Law 미 법원, 텍사스 '낙태금지법' 막아달라는 소송 기각 A federal court on Tuesday dismissed a lawsuit challenging a provision of the Texas anti-abortion law that was signed last year. 미국 텍사스의 낙태 금지법에 이의를 제기한 소송이 최근 기각됐다. “Having received the ruling of the Texas Supreme Court that named official defendants may not enforce the provisions of the Texas Heartbeat Act]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjhfMTMw/MDAxNjUxMDkwNTgwNzA0.9JWhXg3VW3U9UzsZLio1CdXyWY8t9mFrff3Pt0WY90kg.FM-cX_lMrl5JiVNpfDXnomnwBlfakUohOY5Oz6P-oX4g.JPEG/GettyImages-1233171923-1200x798-795x447.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[굿모닝러너 챌린지 [54일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -793,20 +801,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjdfMjky/MDAxNjUxMDA2MTMzMTM1.tvq9hG0eGIqCz0S6YhvHHLXNGQ-eg5ruslaJOcCw58kg.A4VZ9sR_i2_4O2EhRUBesJQG_Rgf641Xu0uSba8t8qEg.JPEG/KakaoTalk_20220427_054813766.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미 법원, 텍사스 '낙태금지법' 막아달라는 소송 기각 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220428051804973vJ</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220428051804973vJ</guid>
-            <pubDate>Tue, 03 May 2022 15:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[Federal Court Dismisses Challenges to Texas Anti-Abortion Law 미 법원, 텍사스 '낙태금지법' 막아달라는 소송 기각 A federal court on Tuesday dismissed a lawsuit challenging a provision of the Texas anti-abortion law that was signed last year. 미국 텍사스의 낙태 금지법에 이의를 제기한 소송이 최근 기각됐다. “Having received the ruling of the Texas Supreme Court that named official defendants may not enforce the provisions of the Texas Heartbeat Act]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjhfMTMw/MDAxNjUxMDkwNTgwNzA0.9JWhXg3VW3U9UzsZLio1CdXyWY8t9mFrff3Pt0WY90kg.FM-cX_lMrl5JiVNpfDXnomnwBlfakUohOY5Oz6P-oX4g.JPEG/GettyImages-1233171923-1200x798-795x447.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 인수 후폭풍, 테슬라 주가 급락 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220427082652579wR</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220427082652579wR</guid>
-            <pubDate>Wed, 04 May 2022 07:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[무슨 일이지? 26일(현지시간) 테슬라의 주가는 876.42달러로 전일 대비 무려 12.18%나 급락했습니다. 장 마감 후 애프터마켓에서도 하락세는 멈추지 않고 이어졌어요. 테슬라의 주가 급락은 일론 머스크 CEO의 트위터 인수 딜이 확정된 후 바로 다음날 벌어진 일입니다. 하루새 증발한 테슬라의 시가총액은 무려 1260억 달러, 우리 돈으로 158조 원에 달합니다. 이는 트위터 인수액인 440]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjdfNzUg/MDAxNjUxMDE1NTQyNjE0.GbOdvbKpt88eQibGPjuCOqhjTRAiNj1VZWD5LEE9Uz8g.oBgT16OqE1kNYov90aHFN8qkAod1mdW_DNpMHPRUdJ4g.JPEG/20220427_%ED%85%8C%EC%8A%AC%EB%9D%BC.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[美 선거감시단, 유권자 명부… "6만명 이상이 사망자 또는 복수 등록자" [팩트매터] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220428052433091vt</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220428052433091vt</guid>
+            <pubDate>Wed, 04 May 2022 08:31:29 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하십니까! 보시는 화면은 무덤 사진입니다. 반면 이 사진은 표 수거함이고요. 겉보기에 이 둘은 공통점이 거의 없습니다. 하지만 한 선거 감시단에 따르면 노스캐롤라이나의 유권자 명부에 있는 사람들 가운데 6만 명 이상이 사망했거나, 복수로 등록됐거나 다른 주에 등록이 되어 있다고 합니다. 물론 이는 노스캐롤라이나에서 중간선거 1차 경선을 3주밖에 안 남겨두고 벌]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjhfMTM0/MDAxNjUxMDkwODc2MjQy.P_XR2m_4BzZbn8ikm0HmRVkubgWiX-p8LbZ8SiDC5_Ag.YA_TL5CjGUg5om8Rrd3HSYK3loGdST7OpfJ9a1XXgusg.JPEG/original.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

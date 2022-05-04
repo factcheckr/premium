@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-05-04T07:23:50.764Z</updated>
+    <updated>2022-05-04T08:31:29.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[현대의 바다는 인간이 만들어내는 각종 소음이 뒤섞여 해양 생명체들을 위협하고있다. 우리는 이 사태를 해결할 수 있다. 그런데 왜 행동하지 않는가?]]></title>
+        <id>https://www.bookjournalism.com/books/50631</id>
+        <link href="https://www.bookjournalism.com/books/50631"/>
+        <updated>2022-05-04T08:31:19.896Z</updated>
+        <content type="html"><![CDATA[소음의 바다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 세계가 배양육 시장을 주목한다. 대체 단백질은 어떤 미래를 그리려 하나?]]></title>
         <id>https://www.bookjournalism.com/books/50656</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/50500"/>
         <updated>2022-05-03T22:24:39.109Z</updated>
         <content type="html"><![CDATA[다시 일상이다. 전혀 다른 일상이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교육계에도 리오프닝이 찾아왔다. 코로나로 인해 자취를 감춘 학생 자치 문화는 부활할 수 있을까?]]></title>
-        <id>https://www.bookjournalism.com/books/50459</id>
-        <link href="https://www.bookjournalism.com/books/50459"/>
-        <updated>2022-05-03T22:24:39.111Z</updated>
-        <content type="html"><![CDATA[소멸된 학생 자치에도 꽃이 필까요?]]></content>
     </entry>
 </feed>
