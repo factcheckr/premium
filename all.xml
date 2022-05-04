@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 23:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 02:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6778?fr=category</guid>
             <pubDate>Sat, 23 Apr 2022 10:26:16 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대가 넷플릭스 대신 철학 구몬 구독한다고? 갓생 마케팅 사례 9 (캐릿)]]></title>
+            <link>https://www.careet.net/738</link>
+            <guid>https://www.careet.net/738</guid>
+            <pubDate>Wed, 04 May 2022 02:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대 핫 키워드 ‘갓생’, 마케팅에 똑똑하게 활용하는 법]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/fe7aecb7-25d4-46bb-9c13-7b3c7b9c0502_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[요즘 Z세대는 인스타 스토리 활용 잘하는 브랜드 팔로우한다고? 인스스 트렌드 AtoZ (캐릿)]]></title>
