@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 20:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 21:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -653,12 +653,88 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Tue, 03 May 2022 07:25:11 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[김포국제공항에 시각 장애인용 무인 항공권 발급기가 도입됐다. 편의를 증진하는 에이블테크에선 어떤 미래를 엿볼 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50690</link>
+            <guid>https://www.bookjournalism.com/books/50690</guid>
+            <pubDate>Wed, 04 May 2022 21:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[초연결 사회의 에이블테크]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현대의 바다는 인간이 만들어내는 각종 소음이 뒤섞여 해양 생명체들을 위협하고있다. 우리는 이 사태를 해결할 수 있다. 그런데 왜 행동하지 않는가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50631</link>
+            <guid>https://www.bookjournalism.com/books/50631</guid>
+            <pubDate>Wed, 04 May 2022 21:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[소음의 바다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전 세계가 배양육 시장을 주목한다. 대체 단백질은 어떤 미래를 그리려 하나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50656</link>
+            <guid>https://www.bookjournalism.com/books/50656</guid>
+            <pubDate>Wed, 04 May 2022 21:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[도축 없는 미래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에듀테크 앱 ‘콴다’의 글로벌 가입자 수가 6000만 명을 돌파했다. 인공지능은 교육 격차를 해결할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50623</link>
+            <guid>https://www.bookjournalism.com/books/50623</guid>
+            <pubDate>Wed, 04 May 2022 21:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[사교육 아닌 사교육]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5월 첫째 주 - 문재인 대통령은 광장이 탄생시켰습니다. 광장의 5년이었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50609</link>
+            <guid>https://www.bookjournalism.com/books/50609</guid>
+            <pubDate>Wed, 04 May 2022 21:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[선량한 광장]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #34에선, 프랑스 대선 결과와 유럽의 우경화 상황, 11년이 지나도록 해결되지 못한 가습기 살균제 참사, 약한 고리부터 끊어내고 있는 고물가, 그리고 토종 OTT의 미래에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50600</link>
+            <guid>https://www.bookjournalism.com/audio/50600</guid>
+            <pubDate>Wed, 04 May 2022 21:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[밥값이 치솟는 가운데 유럽은 우회전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[S의 공포가 현실이 되고 있다. 물가는 치솟는데 월급은 그대로인 시대다. 고통의 크기는 공정하지 않다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50591</link>
+            <guid>https://www.bookjournalism.com/books/50591</guid>
+            <pubDate>Wed, 04 May 2022 21:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[잔인한 S의 계절]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부가 토종 OTT를 키우기 위해 시동을 건다. 글로벌 시장에 막 발을 들인 토종 OTT의 미래는 밝을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50578</link>
+            <guid>https://www.bookjournalism.com/books/50578</guid>
+            <pubDate>Wed, 04 May 2022 21:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[토종 OTT 살리기 프로젝트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국과 중국이라는 초강대국들이 서로를 향해 돌진하고 있다. 비극을 막기 위한 방법론이 필요하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50569</link>
+            <guid>https://www.bookjournalism.com/books/50569</guid>
+            <pubDate>Wed, 04 May 2022 21:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[미·중 전쟁을 막아라]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가습기 살균제 피해자 단체가 시위에 돌입했다. 피해자가 속출했던 사건은 왜 11년째 해결되지 않았나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50546</link>
+            <guid>https://www.bookjournalism.com/books/50546</guid>
+            <pubDate>Wed, 04 May 2022 21:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[해결된 적 없는 미래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프랑스 국민은 다시 한 번 마크롱을 지지했다. 그러나 싸움은 지금부터 시작이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50540</link>
+            <guid>https://www.bookjournalism.com/books/50540</guid>
+            <pubDate>Wed, 04 May 2022 21:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[톨레랑스는 죽었다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4월 넷째 주 - 맛있게 먹기 참 좋은 시대입니다. 그런데 왜 입맛은 쓸까요? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50511</link>
+            <guid>https://www.bookjournalism.com/books/50511</guid>
+            <pubDate>Wed, 04 May 2022 21:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[맛있는 시대]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메리 크리스마스 미스터 모 (2017) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -669,12 +745,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjRfMjAg/MDAxNjQ1NjkyMTc3NTQx.0S7rkIxcnHQHA7c5ZxjrqM9w1bYAsFDQdpyon7smE60g.kC1j5Tqm-pOpImVot3zjvsJFnfGrCu5MCPNhkb3fhXAg.JPEG/%EB%A9%94%EB%A6%AC_%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4_%EB%AF%B8%EC%8A%A4%ED%84%B0_%EB%AA%A8_1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[1화]  갑자기 t검정을 해오라구요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/eostatistics/ilovestatistics/contents/220407104536956Cp</link>
-            <guid>https://contents.premium.naver.com/eostatistics/ilovestatistics/contents/220407104536956Cp</guid>
-            <pubDate>Wed, 04 May 2022 15:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[어느날 팀장님이 엑셀 파일 하나를 메신저로 보내시더니 '내일까지 t검정 해서 줘' 라고 하셨습니다.  t검정은 태어나 처음 듣는 단어였습니다. 구글링을 하며 t검정이 무엇인지 공부하려 했지만 내일 까지 이해할 수 있을 것 같지 않았습니다.  t검정은 두 집단의 평균을 비교해주는 검정이라는 것이라는 정도만 이해했습니다. t검정의 예시는 아래와 같았습니다.  A 빵집 단팥빵]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDdfMTYz/MDAxNjQ5Mjk2MTI0OTk5.bEJdWYc2bp50klxiM1hExesPCkHVCJEJ7q1e63crTdkg.SyfGKBmYNgn7zLGFn24dGq8781OuLIFr-uelfHsMCgUg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Tue, 03 May 2022 07:25:11 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[5월 증시전망] 미국 연준의 초강경 긴축이 기다리는 증시 속 긴장감 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -685,12 +761,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjdfMTMx/MDAxNjUxMDQ0MTY0OTMz.lDWgikjFtbFx1ehBk2EFVmzWh_faXnA9_6Z8s8oRkMkg.TjC-uhQ2LpDg1zIC7gZfOgVwST7HMC5LI8zTNYJRBasg.JPEG/GettyImages-1207244640.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[갤러리 전시]  은은한 빛이 깃드는 시공간으로 | 공근혜갤러리 PKM갤러리 바라캇 컨템포러리 페이스서울 리만머핀서울 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220324100000083RJ</link>
-            <guid>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220324100000083RJ</guid>
+            <title><![CDATA[[1화]  갑자기 t검정을 해오라구요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/eostatistics/ilovestatistics/contents/220407104536956Cp</link>
+            <guid>https://contents.premium.naver.com/eostatistics/ilovestatistics/contents/220407104536956Cp</guid>
             <pubDate>Wed, 04 May 2022 15:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022. 3. 3 - 3. 27 Into the Void 공근혜 갤러리 | 서울 종로구 삼청로7길 38 (삼청동) 뉴욕에서 활동하는 작가 젠 박 개인전 &lt;Into the Void&gt;가 3월27일까지 삼청동 공근혜 갤러리에서 열린다. 서울·싱가포르·뉴욕에서 산 젠 박Jen Pak(b. 1985)은 각 도시의 특성에 따라 이루어지는 자신과 조형적 공간과의 관계를 회화로 선보여 왔다. 이번 전시는 팬데믹 상황에서 심리적으로 갈등하고 희망찬 미]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjNfMTAg/MDAxNjQ4MDIzNjk4NTg0.XrMeZosvs426-hue1Y-CHfk1kxDMNV_9DQP2IbEtvxkg.sNQzIyLXkG6bxn_ZFTqrFawmhjPvOn0psR-OIz3Ry-Ug.JPEG/9._Installation_view-Sang_Nam_Lee-The_Fortress_of_Sense-4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[어느날 팀장님이 엑셀 파일 하나를 메신저로 보내시더니 '내일까지 t검정 해서 줘' 라고 하셨습니다.  t검정은 태어나 처음 듣는 단어였습니다. 구글링을 하며 t검정이 무엇인지 공부하려 했지만 내일 까지 이해할 수 있을 것 같지 않았습니다.  t검정은 두 집단의 평균을 비교해주는 검정이라는 것이라는 정도만 이해했습니다. t검정의 예시는 아래와 같았습니다.  A 빵집 단팥빵]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDdfMTYz/MDAxNjQ5Mjk2MTI0OTk5.bEJdWYc2bp50klxiM1hExesPCkHVCJEJ7q1e63crTdkg.SyfGKBmYNgn7zLGFn24dGq8781OuLIFr-uelfHsMCgUg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[메타 실적 선방, 시간외 주가 ‘급등’ (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -701,12 +777,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjhfMTI0/MDAxNjUxMTAxMjExODc3.z_h00QOtTde4aceRbZvXkfIvVctWEkfos48frKDBd9gg.LKBuHFWqiuNVyOmXVak7wDATK-QUReVYAFHwjgwPA_0g.PNG/20220428_%EB%A9%94%ED%83%80.PNG?type=nfs220_220" length="0" type="image/PNG"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [55일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220428054343168LO</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220428054343168LO</guid>
+            <title><![CDATA[[갤러리 전시]  은은한 빛이 깃드는 시공간으로 | 공근혜갤러리 PKM갤러리 바라캇 컨템포러리 페이스서울 리만머핀서울 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220324100000083RJ</link>
+            <guid>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220324100000083RJ</guid>
             <pubDate>Wed, 04 May 2022 15:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [55일차] 굿모닝러너님, 오늘 하루, 어제보다 더 나아지는 것에 초점을 맞춰보세요. 두려움과 부정적인 생각들이 조금씩 긍정적으로 바뀌어 갈거에요 :)  굿모닝러너_챌린지_55일차 #20220428 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjhfMjg3/MDAxNjUxMDkyMTUzNjEy.EJH--_Q6F26PElm4Pp3lTbJpL8TJUvaopzp1w5GteJsg.ixp9LOXSdMwlc3pEXTW02GrSUXWGogMX0llzqLq1ay0g.JPEG/KakaoTalk_20220428_053851964.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022. 3. 3 - 3. 27 Into the Void 공근혜 갤러리 | 서울 종로구 삼청로7길 38 (삼청동) 뉴욕에서 활동하는 작가 젠 박 개인전 &lt;Into the Void&gt;가 3월27일까지 삼청동 공근혜 갤러리에서 열린다. 서울·싱가포르·뉴욕에서 산 젠 박Jen Pak(b. 1985)은 각 도시의 특성에 따라 이루어지는 자신과 조형적 공간과의 관계를 회화로 선보여 왔다. 이번 전시는 팬데믹 상황에서 심리적으로 갈등하고 희망찬 미]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjNfMTAg/MDAxNjQ4MDIzNjk4NTg0.XrMeZosvs426-hue1Y-CHfk1kxDMNV_9DQP2IbEtvxkg.sNQzIyLXkG6bxn_ZFTqrFawmhjPvOn0psR-OIz3Ry-Ug.JPEG/9._Installation_view-Sang_Nam_Lee-The_Fortress_of_Sense-4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[커넥트레터] 서울시 ‘공동배송센터’ 사업이 넘어설 숙제 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -717,12 +793,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjhfMTM2/MDAxNjUxMTMzOTIwMzA5.Qaa0srTBKl2BKRtS82f8C-i4HfB1YZbnkCnJYL2Tg20g._IXHP3eCvmI5ZQYJkCptGEyttEmVUaJB59uuUs46Nokg.JPEG/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C_%EA%B3%B5%EB%8F%99%EB%B0%B0%EC%86%A1%EC%84%BC%ED%84%B0_%EA%B0%9C%EB%85%90%EB%8F%84.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주요이슈]  페이스북 매출 둔화..사용자 증가·주가 상승 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/ottguidebook/1776/contents/220428084321083jz</link>
-            <guid>https://contents.premium.naver.com/ottguidebook/1776/contents/220428084321083jz</guid>
-            <pubDate>Wed, 04 May 2022 19:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북 모기업 메타플랫폼 주식회사는 예상보다 많은 사용자를 추가했지만 회사가 광고 사업에 점점 더 치열해지는 경쟁과 개인 정보 보호 역풍을 헤쳐나가면서 10년 전 상장 이후 가장 낮은 수익 성장을 기록했습니다. 이번 주 초 다른 디지털 광고 업체들의 실적 부진으로 투자자들은 최악의 상황을 우려했지만 메타는 수요일 결과가 발표된 후 주가를 18% 이상 끌어올렸습니]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjhfNjgg/MDAxNjUxMTAyODg5NTM5.I0d8gsNg6xMsZB6MFyenTYmeKAyEocKqcD6r47At0-wg.hpmIYvZXZGErS_adpZKAAnZi3wWGlp1p9fWW-uDibDUg.JPEG/0x0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[굿모닝러너 챌린지 [55일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220428054343168LO</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220428054343168LO</guid>
+            <pubDate>Wed, 04 May 2022 15:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [55일차] 굿모닝러너님, 오늘 하루, 어제보다 더 나아지는 것에 초점을 맞춰보세요. 두려움과 부정적인 생각들이 조금씩 긍정적으로 바뀌어 갈거에요 :)  굿모닝러너_챌린지_55일차 #20220428 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjhfMjg3/MDAxNjUxMDkyMTUzNjEy.EJH--_Q6F26PElm4Pp3lTbJpL8TJUvaopzp1w5GteJsg.ixp9LOXSdMwlc3pEXTW02GrSUXWGogMX0llzqLq1ay0g.JPEG/KakaoTalk_20220428_053851964.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[직장인이 콘텐츠로 세컨잡 만들어야하는 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/contents/money/contents/220428195814303CA</link>
+            <guid>https://contents.premium.naver.com/contents/money/contents/220428195814303CA</guid>
+            <pubDate>Wed, 04 May 2022 21:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[저는 책을 8권 출간한 베스트셀러 작가입니다. 주로 제가 하는 일과 관련된 실용서 위주로 출간하였고 운좋게 시장에서 나름 괜찮은 평가를 얻게 되었습니다. 책쓰기는 가장 전통적이면서도 오래된 콘텐츠 제작 방식이고 직장인도 얼마든지 도전해볼만한 목표입니다. 요즘 출간 작가가 되는 일은, 과거처럼 어디에서 등단해야할 필요도 없고, 무슨무슨 공모전에서 최우수상을]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjhfMTA2/MDAxNjUxMTQzNDQ4NDUz.83MkpU1QB26ezi8PEe1HAVr4Rp95fLazf_9y1-AJ2QAg.xeFgn8lC_B4gfXY-5L9vk9lFdJGqSn9PDcPRyv4lyKAg.JPEG/coffee-2425303_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
