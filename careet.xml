@@ -4,9 +4,24 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 23:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 01:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 유행어 또 생겼어? 누구나 쉽게 응용 가능한 드립 3]]></title>
+            <link>https://www.careet.net/741</link>
+            <guid>https://www.careet.net/741</guid>
+            <pubDate>Fri, 06 May 2022 01:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[그치 아무래도 유행어는 자주 바뀌니까... 라고 할 뻔!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/13ff058c-e1c2-4ab6-8faf-3d0f26a3fb9d_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[잔망 루피의 뒤를 이을 대세 캐릭터가 등장했다고?]]></title>
+            <link>https://www.careet.net/740</link>
+            <guid>https://www.careet.net/740</guid>
+            <pubDate>Fri, 06 May 2022 01:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 뜨는 핫플, 음식, 캐릭터 총정리함]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[MZ세대가 넷플릭스 대신 철학 구몬 구독한다고? 갓생 마케팅 사례 9]]></title>
             <link>https://www.careet.net/738</link>
