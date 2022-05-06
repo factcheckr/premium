@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 01:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 03:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,7 @@
             <guid>https://www.careet.net/740</guid>
             <pubDate>Fri, 06 May 2022 01:53:00 GMT</pubDate>
             <content:encoded><![CDATA[요즘 뜨는 핫플, 음식, 캐릭터 총정리함]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/ebd7716e-99f5-4f84-a376-88aae885593e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[MZ세대가 넷플릭스 대신 철학 구몬 구독한다고? 갓생 마케팅 사례 9]]></title>
@@ -45,6 +46,14 @@
             <pubDate>Mon, 02 May 2022 02:11:14 GMT</pubDate>
             <content:encoded><![CDATA[어린이날부터 성년의 날까지!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/834515c4-a816-4c88-b78a-b4c4b9e6de7e_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿유튜브] K고딩이 된 용명이 들어본 요즘 학교 이슈]]></title>
+            <link>https://www.careet.net/737</link>
+            <guid>https://www.careet.net/737</guid>
+            <pubDate>Fri, 06 May 2022 03:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[고교학점제가 뭐야? 고등학생도 중학생 보며 세대차이 느낀다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/8e8bdadd-a2f3-4058-8e59-b8dd6398676a_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엔데믹 시작? 예약 대기만 2,000명인 팝업스토어]]></title>
