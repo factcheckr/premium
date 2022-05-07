@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-05-07T14:22:36.948Z</updated>
+    <updated>2022-05-07T15:26:46.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[잇다제과 : 선물 주는 마음, 만드는 사람이 행복할 때 빵은 맛있게 구워진다]]></title>
-        <id>https://www.longblack.co/note/282</id>
-        <link href="https://www.longblack.co/note/282"/>
-        <updated>2022-05-06T15:26:36.637Z</updated>
-        <content type="html"><![CDATA[요즘 달달한 디저트 땡기지 않아요? 전 특히 마카롱을 좋아해요. 마카롱 맛집 찾아보다가, 국내에서 처음으로 ‘마블 마카롱’을 만든 곳을 알아냈어요! 알록달록한 색의 코크*로 ‘예쁜<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2022-05-07T15:25:23.934Z</updated>
+        <content type="html"><![CDATA[K에게 힘을 불어 넣어준 지난주 롱블랙의 문장
+
+“우리 두 사람은 지금 최대치로 일하고 있어요. 이른바 워크앤라이프밸런스work&amp;life balance가 없죠. 이 단계까지 왔는데, 지금 우리에게 워라밸이란 건 말도 안 된다고 생각해요. 결과를 만들어낼 능력이 있고<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
