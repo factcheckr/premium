@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-05-08T15:26:13.022Z</updated>
+    <updated>2022-05-08T16:34:01.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/285</id>
         <link href="https://www.longblack.co/note/285"/>
         <updated>2022-05-08T15:24:50.194Z</updated>
-        <content type="html"><![CDATA[5월 7일 저녁 7시, 양양 현북면의 하조대 옆 해변에서 디제잉이 시작됩니다. 노래는 이광조의 「즐거운 인생」, 한 손에 맥주병 또는 하이볼 잔을 든 사람들이 맨발로 모래 위에서 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[5월 7일 저녁 7시, 노을이 깔린 양양 현북면 하조대 해변에서 디제잉이 시작됩니다. 음악은 이광조의 「즐거운 인생」. 한 손에 맥주병이나 하이볼 잔을 든 사람들이 맨발로 모래 위<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
