@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-05-08T14:23:09.890Z</updated>
+    <updated>2022-05-08T15:26:13.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2022-05-07T15:25:23.934Z</updated>
-        <content type="html"><![CDATA[K에게 힘을 불어 넣어준 지난주 롱블랙의 문장
-
-“우리 두 사람은 지금 최대치로 일하고 있어요. 이른바 워크앤라이프밸런스work&amp;life balance가 없죠. 이 단계까지 왔는데, 지금 우리에게 워라밸이란 건 말도 안 된다고 생각해요. 결과를 만들어낼 능력이 있고<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[서피비치 : 서퍼의 성지 양양 하조대, 다시 선셋 파티가 시작됐다]]></title>
+        <id>https://www.longblack.co/note/285</id>
+        <link href="https://www.longblack.co/note/285"/>
+        <updated>2022-05-08T15:24:50.194Z</updated>
+        <content type="html"><![CDATA[5월 7일 저녁 7시, 양양 현북면의 하조대 옆 해변에서 디제잉이 시작됩니다. 노래는 이광조의 「즐거운 인생」, 한 손에 맥주병 또는 하이볼 잔을 든 사람들이 맨발로 모래 위에서 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
