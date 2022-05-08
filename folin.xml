@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-05-08T21:21:45.644Z</updated>
+    <updated>2022-05-08T22:24:13.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[증권가의 분석가들이 '산업계 인플루언서'인 이유]]></title>
+        <id>https://www.folin.co/story/2181</id>
+        <link href="https://www.folin.co/story/2181"/>
+        <updated>2022-05-08T22:23:26.227Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘텐츠에 이토록 진심인 우아한형제들]]></title>
+        <id>https://www.folin.co/story/2176</id>
+        <link href="https://www.folin.co/story/2176"/>
+        <updated>2022-05-08T22:23:26.227Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['디자이너의 욕구'와 '사업가의 전략'이 공존하는 법]]></title>
         <id>https://www.folin.co/story/2180</id>
@@ -274,22 +290,6 @@
         <id>https://www.folin.co/story/2129</id>
         <link href="https://www.folin.co/story/2129"/>
         <updated>2022-03-29T22:23:50.935Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대차 스마트오피스에 '파란색'이 없는 이유]]></title>
-        <id>https://www.folin.co/story/2137</id>
-        <link href="https://www.folin.co/story/2137"/>
-        <updated>2022-03-28T23:23:12.637Z</updated>
-        <content type="html"><![CDATA[<li>공간</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<D.P.>와 <지옥> 만든 변승민 대표 인터뷰]]></title>
-        <id>https://www.folin.co/story/2128</id>
-        <link href="https://www.folin.co/story/2128"/>
-        <updated>2022-03-28T23:23:12.638Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>커리어</li>]]></content>
     </entry>
