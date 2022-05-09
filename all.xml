@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 13:44:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 14:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -693,12 +693,88 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🍎 Apple(애플) : 앱스토어 가이드라인 업데이트요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220213132957831yx</link>
-            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220213132957831yx</guid>
-            <pubDate>Sun, 08 May 2022 15:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[Input(인풋)이 있으면 Output(아웃풋)이 있는 법. 규제 압력이라는 인풋에 반응하는 아웃풋을 내놓고 있는 빅테크들.  그 중에서도 Apple(애플)과 Google(구글)의 아웃풋을 다룬 🚧 1,560 글자 4분30초 길이 오늘의 Story : - 🍎 Apple(애플) : 앱스토어 가이드라인 업데이트! - 💲 Google(구글) : 플레이스토어 수수료 15%로 인하함! - 🤐 마이크로소프트 : 링크드인 중국에서 철수요! 1. Update : 🍎 Apple(애플]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTNfOTIg/MDAxNjQ0NzI3MDU3OTU4.5_XKU0q8InyRAEbFhJeNyqYRcM4VQeU1vJJWwET5MO0g.inl33T6leFXUxO4nMpbTJj51NkP2cmsZFRgiPKfax10g.JPEG/%EC%95%A0%ED%94%8C%E3%85%8B.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[5월 둘째 주 - 사람은 먹는 존재입니다. 먹어서 사람도 살리고 전쟁도 막을 수 있는, 그런 존재 말입니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50740</link>
+            <guid>https://www.bookjournalism.com/books/50740</guid>
+            <pubDate>Mon, 09 May 2022 14:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[잘 먹는 삶]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #35에선, 에듀테크 앱 ‘콴다’가 그리는 평등한 교육의 시대, 장애를 비장애로 바꾸는 에이블테크의 세계, 전 세계가 주목하고 있는 배양육 시장과 대체 단백질의 미래에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50711</link>
+            <guid>https://www.bookjournalism.com/audio/50711</guid>
+            <pubDate>Mon, 09 May 2022 14:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[기술의 진보는 격차를 좁힐 수 있을까?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김포국제공항에 시각 장애인용 무인 항공권 발급기가 도입됐다. 편의를 증진하는 에이블테크에선 어떤 미래를 엿볼 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50690</link>
+            <guid>https://www.bookjournalism.com/books/50690</guid>
+            <pubDate>Mon, 09 May 2022 14:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[초연결 사회의 에이블테크]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장애인에 대한 차별이 존재한다는 것은 착각입니다. 차별이 만들어 낸 장애인이 존재합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50647</link>
+            <guid>https://www.bookjournalism.com/books/50647</guid>
+            <pubDate>Mon, 09 May 2022 14:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[지하철을 타는 장애인]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현대의 바다는 인간이 만들어내는 각종 소음이 뒤섞여 해양 생명체들을 위협하고있다. 우리는 이 사태를 해결할 수 있다. 그런데 왜 행동하지 않는가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50631</link>
+            <guid>https://www.bookjournalism.com/books/50631</guid>
+            <pubDate>Mon, 09 May 2022 14:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[소음의 바다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전 세계가 배양육 시장을 주목한다. 대체 단백질은 어떤 미래를 그리려 하나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50656</link>
+            <guid>https://www.bookjournalism.com/books/50656</guid>
+            <pubDate>Mon, 09 May 2022 14:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[도축 없는 미래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에듀테크 앱 ‘콴다’의 글로벌 가입자 수가 6000만 명을 돌파했다. 인공지능은 교육 격차를 해결할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50623</link>
+            <guid>https://www.bookjournalism.com/books/50623</guid>
+            <pubDate>Mon, 09 May 2022 14:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[사교육 아닌 사교육]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5월 첫째 주 - 문재인 대통령은 광장이 탄생시켰습니다. 광장의 5년이었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50609</link>
+            <guid>https://www.bookjournalism.com/books/50609</guid>
+            <pubDate>Mon, 09 May 2022 14:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[선량한 광장]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #34에선, 프랑스 대선 결과와 유럽의 우경화 상황, 11년이 지나도록 해결되지 못한 가습기 살균제 참사, 약한 고리부터 끊어내고 있는 고물가, 그리고 토종 OTT의 미래에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50600</link>
+            <guid>https://www.bookjournalism.com/audio/50600</guid>
+            <pubDate>Mon, 09 May 2022 14:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[밥값이 치솟는 가운데 유럽은 우회전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[S의 공포가 현실이 되고 있다. 물가는 치솟는데 월급은 그대로인 시대다. 고통의 크기는 공정하지 않다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50591</link>
+            <guid>https://www.bookjournalism.com/books/50591</guid>
+            <pubDate>Mon, 09 May 2022 14:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[잔인한 S의 계절]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부가 토종 OTT를 키우기 위해 시동을 건다. 글로벌 시장에 막 발을 들인 토종 OTT의 미래는 밝을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50578</link>
+            <guid>https://www.bookjournalism.com/books/50578</guid>
+            <pubDate>Mon, 09 May 2022 14:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[토종 OTT 살리기 프로젝트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국과 중국이라는 초강대국들이 서로를 향해 돌진하고 있다. 비극을 막기 위한 방법론이 필요하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50569</link>
+            <guid>https://www.bookjournalism.com/books/50569</guid>
+            <pubDate>Mon, 09 May 2022 14:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[미·중 전쟁을 막아라]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🚕 웨이모 : 로보택시 뉴욕 공부중! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -709,12 +785,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTNfMTgx/MDAxNjQ0NzI5NzM0NDMy.DtcbYxKOkuTSwYxzGtXnyj_2m3Tw1srUsc7LKfRDFskg.0jAHs1ioN9mAE0HCr20o-UzOR7NsLTeOm703L8mUJfog.JPEG/%EC%9B%A8%EC%9D%B4%EB%AA%A8_%EB%89%B4%EC%9A%95_%EB%A7%A4%ED%95%91.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🎢 미국 OTT(스트리밍) & B2B 디지털 광고 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220214135123590Gu</link>
-            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220214135123590Gu</guid>
+            <title><![CDATA[🍎 Apple(애플) : 앱스토어 가이드라인 업데이트요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220213132957831yx</link>
+            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220213132957831yx</guid>
             <pubDate>Sun, 08 May 2022 15:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 OTT 시장과 B2B 디지털 광고 시장은 어떻게 성장 하고 있을까? 자체 스마트폰을 출시한 Google(구글)은 잘 하고 있겠지?! 1,235글자 2분30초 길이 오늘의 💌 Edition:   1. There : 🎢 빠르게 보는 미국 : VOD, OTT(스트리밍) 그리고 B2B 광고 빠르게 보는 미국의 VOD, OTT(스트리밍) 그리고 디지털 B2B 광고 지출 관련 몇 가지 포인트 짚어보기.  핵심부터 빠르게 요약해 보자면 :  Growing AVOD:  2024년]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTRfMjc1/MDAxNjQ0ODE0MjQzMzI2.4EUuaKEDCogwiYfMmCAL9Iux5x1Lf-dG7XhzvRsAaZwg.6RyLtA3ClytflYBwCkZAkSmQnbxmNQ360ziPTlTmc6cg.PNG/netflix_thumb.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[Input(인풋)이 있으면 Output(아웃풋)이 있는 법. 규제 압력이라는 인풋에 반응하는 아웃풋을 내놓고 있는 빅테크들.  그 중에서도 Apple(애플)과 Google(구글)의 아웃풋을 다룬 🚧 1,560 글자 4분30초 길이 오늘의 Story : - 🍎 Apple(애플) : 앱스토어 가이드라인 업데이트! - 💲 Google(구글) : 플레이스토어 수수료 15%로 인하함! - 🤐 마이크로소프트 : 링크드인 중국에서 철수요! 1. Update : 🍎 Apple(애플]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTNfOTIg/MDAxNjQ0NzI3MDU3OTU4.5_XKU0q8InyRAEbFhJeNyqYRcM4VQeU1vJJWwET5MO0g.inl33T6leFXUxO4nMpbTJj51NkP2cmsZFRgiPKfax10g.JPEG/%EC%95%A0%ED%94%8C%E3%85%8B.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🍎 Apple(애플) : C타입 충전기를 무조건 써야한다구요?! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -725,12 +801,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTlfMTE5/MDAxNjM0NjI1NTc1MjA1.cbe1IAyYECRXVpMPcwH_u7Auv1KJps4qD6AFQJX6sM8g.Dx3Z3Xuey6PJjh9zB9pSe_AxoRIeF7z0IiQvk6qhTYwg.JPEG/%EC%95%A0%ED%94%8C_eu.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🚕 자율주행의 '거의' 모든 것 1탄 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220214143816392ZM</link>
-            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220214143816392ZM</guid>
+            <title><![CDATA[🎢 미국 OTT(스트리밍) & B2B 디지털 광고 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220214135123590Gu</link>
+            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220214135123590Gu</guid>
             <pubDate>Sun, 08 May 2022 15:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[자율주행! 자율주행!! 자율주행!!! 곧 우리 일상의 일부가 될 것만 같은, 이제는 너무 익숙해진 단어. But 최첨단 기술의 집약체 정도라는 것은 알지만, 실제로 어떤 기술들이 어떻게  적용되는 것인지 감이 확 오지 않는 것이 사실.  그래서 준비한 3,523글자 8분 길이 자율주행의 '거의' 모든 것 1탄 : 1. Let me know : 자율주행, 너 어떻게 작동하니?!  🛹 일단 시작은 '레벨' 자율주행 자동]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTRfMjE1/MDAxNjQ0ODE3MTE0MzAy.JetkHGeGXlF_XDu0Bhb03YrRotVHnnth0sef5ci9jLQg.x9PEK4ZluZSjFNtPgiCyNIad7Jnf20yp0Rmv-NJPIrkg.JPEG/%EC%9B%A8%EC%9D%B4%EB%AA%A8_%EB%9D%BC%EC%9D%B4%EB%8B%A4.JPG?type=nfs220_220" length="0" type="image/JPG"/>
+            <content:encoded><![CDATA[미국의 OTT 시장과 B2B 디지털 광고 시장은 어떻게 성장 하고 있을까? 자체 스마트폰을 출시한 Google(구글)은 잘 하고 있겠지?! 1,235글자 2분30초 길이 오늘의 💌 Edition:   1. There : 🎢 빠르게 보는 미국 : VOD, OTT(스트리밍) 그리고 B2B 광고 빠르게 보는 미국의 VOD, OTT(스트리밍) 그리고 디지털 B2B 광고 지출 관련 몇 가지 포인트 짚어보기.  핵심부터 빠르게 요약해 보자면 :  Growing AVOD:  2024년]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTRfMjc1/MDAxNjQ0ODE0MjQzMzI2.4EUuaKEDCogwiYfMmCAL9Iux5x1Lf-dG7XhzvRsAaZwg.6RyLtA3ClytflYBwCkZAkSmQnbxmNQ360ziPTlTmc6cg.PNG/netflix_thumb.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[🚎 아마존/월마트, 배송이 전쟁이래요. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -741,12 +817,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTNfMTE3/MDAxNjQ0NzMyNjkzMjAz.NcE4_u-zUmo_tyF_a3Tl6I3dyStyU76V6cW562ZuVGMg.SQ6tVQE-fTjjn2-0THMkVn1HxUcUpzclpO80S0YbX2Mg.PNG/%EC%9B%94%EB%A7%88%ED%8A%B8_%EA%B3%A0%EB%A1%9C%EC%BB%AC.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[🍎Apple(애플) : 게임회사랑 경쟁하는데요?! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220216143547019DP</link>
-            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220216143547019DP</guid>
+            <title><![CDATA[🚕 자율주행의 '거의' 모든 것 1탄 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220214143816392ZM</link>
+            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220214143816392ZM</guid>
             <pubDate>Sun, 08 May 2022 15:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[게임 회사들과 경쟁하고 있다는 Apple(애플). 물류 영역에서도 두각을 나타내며 자율주행에도 속도를 내고있는 Amazon(아마존). 안보인다고 해서 없는 것이 아닌  💘1,092 글자, 3분 길이 오늘의 Story :  - 🍎 Apple(애플) : 플레이스테이션, Xbox(엑스박스)랑 경쟁 함 - 🚚 Amazon(아마존), FedEx(페덱스) 보다 많이 날랐어요! - 🚗 Zoox(죽스) : 시애틀로 확장 고고 1. Competition :🍎 Apple(애플) : 플레이스테]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTZfNzEg/MDAxNjQ0OTg5Njk1NDYx.sBBGIyLIOZeEpVUGB8jdDbKkzcWudwczdRFzlT_LlOsg.jIoCM5KC4TCUN3-vILriaw9kTJoAC_Jjp_4W8pRLxaQg.JPEG/%EC%95%A0%ED%94%8C_%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98_%EC%97%91%EC%8A%A4%EB%B0%95%EC%8A%A4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[자율주행! 자율주행!! 자율주행!!! 곧 우리 일상의 일부가 될 것만 같은, 이제는 너무 익숙해진 단어. But 최첨단 기술의 집약체 정도라는 것은 알지만, 실제로 어떤 기술들이 어떻게  적용되는 것인지 감이 확 오지 않는 것이 사실.  그래서 준비한 3,523글자 8분 길이 자율주행의 '거의' 모든 것 1탄 : 1. Let me know : 자율주행, 너 어떻게 작동하니?!  🛹 일단 시작은 '레벨' 자율주행 자동]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTRfMjE1/MDAxNjQ0ODE3MTE0MzAy.JetkHGeGXlF_XDu0Bhb03YrRotVHnnth0sef5ci9jLQg.x9PEK4ZluZSjFNtPgiCyNIad7Jnf20yp0Rmv-NJPIrkg.JPEG/%EC%9B%A8%EC%9D%B4%EB%AA%A8_%EB%9D%BC%EC%9D%B4%EB%8B%A4.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[🍎 팀쿡이 이끈 애플의 10년 성적표! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -757,12 +833,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTNfMTEy/MDAxNjQ0NzM1NzY3Mjk1.CZH2GyuCbXvLFJWxW6-k9WNtFmEYwnnA6v4QJ4xxtlMg.Zf8EduQTV5Hf2mNbWx3FtkTzGsQDnbFy2vUAhjjUqngg.JPEG/%EC%95%A0%ED%94%8C_%ED%8C%80%EC%BF%A1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[😎 Amazon(아마존) : 오프라인도 혁신한다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220220143307076Xr</link>
-            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220220143307076Xr</guid>
-            <pubDate>Mon, 09 May 2022 13:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 첫 번째 뉴스레터. 이미 잘 하고 있는 것이 '신뢰'라면 미래에 잘 하기 위한 움직임은 '기대' 라고 할 수 있음.  But,but 특별한 존재만이 그런 기대감을 느끼게 할 수 있는데,  Amazon(아마존)은 당연히 그런 특별한 존재. 아마존의 미래를 간단하게 다룬 🤞2,092 글자 5분20초 길이의 오늘의 Edition : - 🤳 Amazon(아마존) : 스타벅스랑 무인 매장 오픈이요! - 🛒 Amazon(아마존) : 무인 결제 시]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjBfMjM2/MDAxNjQ1MzM0OTQ4NDAx.yFLPiyUD_hSXdBcN6Kl3qqpyAEQ6jf65SJwwX4Nq0Uog.VIf9oRifTAenMnMenLvNwtvsCiYp_-f5Lpbvt9h0fUIg.JPEG/%EC%95%84%EB%A7%88%EC%A1%B4_%EC%86%90%EB%B0%94%EB%8B%A5%EA%B2%B0%EC%A0%9C2.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[🍎Apple(애플) : 게임회사랑 경쟁하는데요?! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220216143547019DP</link>
+            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220216143547019DP</guid>
+            <pubDate>Sun, 08 May 2022 15:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[게임 회사들과 경쟁하고 있다는 Apple(애플). 물류 영역에서도 두각을 나타내며 자율주행에도 속도를 내고있는 Amazon(아마존). 안보인다고 해서 없는 것이 아닌  💘1,092 글자, 3분 길이 오늘의 Story :  - 🍎 Apple(애플) : 플레이스테이션, Xbox(엑스박스)랑 경쟁 함 - 🚚 Amazon(아마존), FedEx(페덱스) 보다 많이 날랐어요! - 🚗 Zoox(죽스) : 시애틀로 확장 고고 1. Competition :🍎 Apple(애플) : 플레이스테]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTZfNzEg/MDAxNjQ0OTg5Njk1NDYx.sBBGIyLIOZeEpVUGB8jdDbKkzcWudwczdRFzlT_LlOsg.jIoCM5KC4TCUN3-vILriaw9kTJoAC_Jjp_4W8pRLxaQg.JPEG/%EC%95%A0%ED%94%8C_%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98_%EC%97%91%EC%8A%A4%EB%B0%95%EC%8A%A4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🚛 우버로 자율주행트럭 쓸수 있습니다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220217154645976Um</link>
+            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220217154645976Um</guid>
+            <pubDate>Mon, 09 May 2022 14:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[현재 상황을 획기적으로 개선 시킬 수 있다는 확신이 새로운 기술의 보편적인 도입에 필수적이라고 할 수 있음. 2G폰을 대체한 스마트폰 처럼. '현 상황의 개선'이라는 측면에서, 과연 로보택시가 빠를까 자율주행 트럭이 빠를까. 자율주행은 -Ing를 다룬 🤞1,392 글자 3분20초 길이의 오늘의 Edition : - 🚚 Aurora(오로라) : Uber(우버)로 자율주행 트럭 쓰실분! - 💨 엔비디아(Nvidia) : 2024년에]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTdfMjI4/MDAxNjQ1MDgwMzg3ODc2.CVec64nmZkJCfo_Sd7nG603-anMaPQ5jloy_CkY-xeEg.NIkaqMEAN-q4n0ajgpNYxc9i53xsktb8EfPlBTs_jH0g.JPEG/%EC%98%A4%EB%A1%9C%EB%9D%BC_%EC%9A%B0%EB%B2%84%ED%94%84%EB%A0%88%EC%9D%B4%ED%8A%B8.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
