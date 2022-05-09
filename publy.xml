@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-05-09T07:26:06.640Z</updated>
+    <updated>2022-05-09T08:33:02.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[팀을 리드하는 팀장의 보고서 (by. 월간 보고서 템플릿)]]></title>
+        <id>https://publy.co/content/6767?fr=category</id>
+        <link href="https://publy.co/content/6767?fr=category"/>
+        <updated>2022-05-09T08:31:25.887Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틱톡 개발자가 실리콘밸리에서 면접 기회를 얻은 방법(템플릿 제공)]]></title>
         <id>https://publy.co/content/6736?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6763?fr=category"/>
         <updated>2022-04-27T08:28:46.921Z</updated>
         <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계획을 방해하는 보틀넥에 PM이 대처하는 방법]]></title>
-        <id>https://publy.co/content/6785?fr=category</id>
-        <link href="https://publy.co/content/6785?fr=category"/>
-        <updated>2022-04-27T08:28:46.921Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>
