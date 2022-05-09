@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 23:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 02:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 5명 중 3명, 연봉 800만 원 덜 받아도 전면 재택근무가 좋다]]></title>
+            <link>https://www.careet.net/743</link>
+            <guid>https://www.careet.net/743</guid>
+            <pubDate>Mon, 09 May 2022 02:06:01 GMT</pubDate>
+            <content:encoded><![CDATA[재택근무 논쟁, Z세대 400명에게 물었습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/bfeaf00f-b4ae-4ab7-87bc-2e9cd89ceae4_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대가 반응하는 콜라보 포인트가 궁금하다면? 당장 클릭해야 할 레퍼런스 3]]></title>
+            <link>https://www.careet.net/742</link>
+            <guid>https://www.careet.net/742</guid>
+            <pubDate>Mon, 09 May 2022 02:06:01 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 콜라보 잘한 브랜드 TOP3]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/efb1b988-e484-42b0-8b15-1903755af261_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 유행어 또 생겼어? 누구나 쉽게 응용 가능한 드립 3]]></title>
             <link>https://www.careet.net/741</link>
