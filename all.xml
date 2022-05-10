@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 01:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 02:54:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6763?fr=category</guid>
             <pubDate>Wed, 27 Apr 2022 08:28:46 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[앱 갈아타기가 일상인 Z세대에게 인정받은 UI/UX 6 (캐릿)]]></title>
+            <link>https://www.careet.net/744</link>
+            <guid>https://www.careet.net/744</guid>
+            <pubDate>Tue, 10 May 2022 02:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[UI/UX 디자이너를 위한 필수 가이드]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/63403f17-0abb-4449-bdae-25ac9f230d7c_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 5명 중 3명, 연봉 800만 원 덜 받아도 전면 재택근무가 좋다 (캐릿)]]></title>
@@ -405,6 +413,22 @@
             <content:encoded><![CDATA[<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA["직접 하면 보인다" 애널리스트가 쿠팡 체험서 배운 것 (폴인)]]></title>
+            <link>https://www.folin.co/story/2182</link>
+            <guid>https://www.folin.co/story/2182</guid>
+            <pubDate>Tue, 10 May 2022 02:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[주간배짱이X우아한형제들 컨퍼런스 기획 비하인드 (폴인)]]></title>
+            <link>https://www.folin.co/story/2177</link>
+            <guid>https://www.folin.co/story/2177</guid>
+            <pubDate>Tue, 10 May 2022 02:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[증권가의 분석가들이 '산업계 인플루언서'인 이유 (폴인)]]></title>
             <link>https://www.folin.co/story/2181</link>
             <guid>https://www.folin.co/story/2181</guid>
@@ -675,22 +699,6 @@
             <pubDate>Thu, 31 Mar 2022 01:46:16 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폐타이어로 신발 만드는 트레드앤그루브 (폴인)]]></title>
-            <link>https://www.folin.co/story/2132</link>
-            <guid>https://www.folin.co/story/2132</guid>
-            <pubDate>Tue, 29 Mar 2022 22:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[클라이맥스스튜디오가 넷플릭스 킬러 콘텐츠를 만드는 법 (폴인)]]></title>
-            <link>https://www.folin.co/story/2129</link>
-            <guid>https://www.folin.co/story/2129</guid>
-            <pubDate>Tue, 29 Mar 2022 22:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국내 미술 시장이 MZ세대를 중심으로 재편된다. 이 흐름은 지속가능할까? (북저널리즘)]]></title>
