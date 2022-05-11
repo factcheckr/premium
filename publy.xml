@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-05-11T07:25:46.032Z</updated>
+    <updated>2022-05-11T08:33:59.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<멋있으면 다 언니> 기획자를 스페셜리스트로 만들어 준 네 가지 무기]]></title>
+        <id>https://publy.co/content/6793?fr=category</id>
+        <link href="https://publy.co/content/6793?fr=category"/>
+        <updated>2022-05-11T08:32:22.349Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이터로 기획하는 콘텐츠 마케팅 노하우]]></title>
+        <id>https://publy.co/content/6789?fr=category</id>
+        <link href="https://publy.co/content/6789?fr=category"/>
+        <updated>2022-05-11T08:32:22.350Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다른 서비스는 온보딩 UX를 어떻게 구성하지? (feat. 팁스터)]]></title>
+        <id>https://publy.co/content/6801?fr=category</id>
+        <link href="https://publy.co/content/6801?fr=category"/>
+        <updated>2022-05-11T08:32:22.352Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제품 문서의 기본: 제품 사양, 요구사항 정의서 작성법(노션 템플릿 제공)]]></title>
         <id>https://publy.co/content/6779?fr=category</id>
@@ -53,26 +74,5 @@
         <link href="https://publy.co/content/6791?fr=category"/>
         <updated>2022-05-03T08:29:33.437Z</updated>
         <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직무를 옮기기 위한 4가지 팁: 인사팀 출신 마케터로 12년 간 살아남은 비결]]></title>
-        <id>https://publy.co/content/6788?fr=category</id>
-        <link href="https://publy.co/content/6788?fr=category"/>
-        <updated>2022-05-02T08:30:46.332Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제품의 모든 것을 한 장에 담는 원 페이저 작성법 (노션 템플릿 제공)]]></title>
-        <id>https://publy.co/content/6787?fr=category</id>
-        <link href="https://publy.co/content/6787?fr=category"/>
-        <updated>2022-04-29T08:31:33.585Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답장받고 싶은 마케터를 위한 콜드 메일 작성법 (feat. 스티비 이루리)]]></title>
-        <id>https://publy.co/content/6775?fr=category</id>
-        <link href="https://publy.co/content/6775?fr=category"/>
-        <updated>2022-04-28T08:29:34.501Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>

@@ -4,9 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 07:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 08:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<멋있으면 다 언니> 기획자를 스페셜리스트로 만들어 준 네 가지 무기 (퍼블리)]]></title>
+            <link>https://publy.co/content/6793?fr=category</link>
+            <guid>https://publy.co/content/6793?fr=category</guid>
+            <pubDate>Wed, 11 May 2022 08:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[데이터로 기획하는 콘텐츠 마케팅 노하우 (퍼블리)]]></title>
+            <link>https://publy.co/content/6789?fr=category</link>
+            <guid>https://publy.co/content/6789?fr=category</guid>
+            <pubDate>Wed, 11 May 2022 08:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다른 서비스는 온보딩 UX를 어떻게 구성하지? (feat. 팁스터) (퍼블리)]]></title>
+            <link>https://publy.co/content/6801?fr=category</link>
+            <guid>https://publy.co/content/6801?fr=category</guid>
+            <pubDate>Wed, 11 May 2022 08:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[제품 문서의 기본: 제품 사양, 요구사항 정의서 작성법(노션 템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/6779?fr=category</link>
@@ -55,27 +76,6 @@
             <guid>https://publy.co/content/6791?fr=category</guid>
             <pubDate>Tue, 03 May 2022 08:29:33 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[직무를 옮기기 위한 4가지 팁: 인사팀 출신 마케터로 12년 간 살아남은 비결 (퍼블리)]]></title>
-            <link>https://publy.co/content/6788?fr=category</link>
-            <guid>https://publy.co/content/6788?fr=category</guid>
-            <pubDate>Mon, 02 May 2022 08:30:46 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제품의 모든 것을 한 장에 담는 원 페이저 작성법 (노션 템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/6787?fr=category</link>
-            <guid>https://publy.co/content/6787?fr=category</guid>
-            <pubDate>Fri, 29 Apr 2022 08:31:33 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[답장받고 싶은 마케터를 위한 콜드 메일 작성법 (feat. 스티비 이루리) (퍼블리)]]></title>
-            <link>https://publy.co/content/6775?fr=category</link>
-            <guid>https://publy.co/content/6775?fr=category</guid>
-            <pubDate>Thu, 28 Apr 2022 08:29:34 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잘 되는 팝업 스토어의 비밀! Z세대 입소문 포인트.zip (캐릿)]]></title>
