@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 15:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 16:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -809,14 +809,6 @@
             <content:encoded><![CDATA[사교육 아닌 사교육]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오늘의 시사상식 문제 #1 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210503155134835Go</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210503155134835Go</guid>
-            <pubDate>Thu, 12 May 2022 15:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[아래 기사에서 (A)에 들어갈 용어는? ① 신용거래    ② 반대매매  ③ 공매도  ④ 서킷브레이크  ⑤ 사이드카   정답 ③  공매도에 대한 설명이다. 사이드카(Sidecar)는 선물시장이 급변할 경우 현물시장에 대한 영향을 최소화함으로써 현물시장을 안정적으로 운용하기 위해 도입한 프로그램 매매호가 관리제도이다. 서킷브레이크는 주식시장에서 주가가 급등 또는 급락하는 경우 주]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDRfMTg4/MDAxNjIwMDg4NTIyMTQy.ixnfK_hylhlegKCwKhsj9CL0xzJuxqB9KzhaAwLO3mcg.5SluGDSfOSsj5htm_JxElu8qgNhuwajiJLF9Y8jGvNYg.JPEG/SE-6019042c-7c6b-423e-8524-646c052b8921.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오늘의 시사상식 문제 #3 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210503160013465Ol</link>
             <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210503160013465Ol</guid>
@@ -825,12 +817,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDRfNDgg/MDAxNjIwMDkwNTk4ODcx.2LqcPvoTebjjG8SiIKKDZIxYUiKUdZPXp9UJ_-4KcHgg.5X94evLtQboe_8_Ua-13cC6b4vsN9Dswww3_6ndn9Ucg.JPEG/SE-cbd89f85-d3b3-4276-939f-64933e220b59.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘의 시사상식 문제 #2 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210503155531680xX</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210503155531680xX</guid>
+            <title><![CDATA[오늘의 시사상식 문제 #1 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210503155134835Go</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210503155134835Go</guid>
             <pubDate>Thu, 12 May 2022 15:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[아래 기사에서 (A)에 들어갈 용어는? ① 제로페이  ② QR코드  ③ 전자지갑  ④ 오픈뱅킹  ⑤ 스마트뱅킹 정답:  ④   오픈뱅킹에 대한 설명. 제로페이는 소비자가 이미 출시된 간편결제 앱을 켜 매장 단말기의 QR리더기에 대면 은행 계좌에 있던 현금이 바로 판매자에게 이체되는 시스템.  스마트뱅킹은 스마트폰 따위의 모바일 기기를 이용하여 각종 조회, 자금 이체 등 은행 업무를]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDRfMjAw/MDAxNjIwMDkwMDYzODIz.c4oT1MjeJ7htIaa3VgqLdHc3HQVdRD9CxYMAFsENmdUg.nIWHTcGLDRVKABHtaC0LqIqYzaLGhIE_6ouYMi2NIbkg.JPEG/SE-14cc645a-3f65-4263-9dbe-9ea4fad96768.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[아래 기사에서 (A)에 들어갈 용어는? ① 신용거래    ② 반대매매  ③ 공매도  ④ 서킷브레이크  ⑤ 사이드카   정답 ③  공매도에 대한 설명이다. 사이드카(Sidecar)는 선물시장이 급변할 경우 현물시장에 대한 영향을 최소화함으로써 현물시장을 안정적으로 운용하기 위해 도입한 프로그램 매매호가 관리제도이다. 서킷브레이크는 주식시장에서 주가가 급등 또는 급락하는 경우 주]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDRfMTg4/MDAxNjIwMDg4NTIyMTQy.ixnfK_hylhlegKCwKhsj9CL0xzJuxqB9KzhaAwLO3mcg.5SluGDSfOSsj5htm_JxElu8qgNhuwajiJLF9Y8jGvNYg.JPEG/SE-6019042c-7c6b-423e-8524-646c052b8921.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘의 시사상식 문제 #6 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -841,12 +833,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDRfMTM5/MDAxNjIwMDkxNTE2NzQ1.WidQZv7WIhV6aGw3dPWRQtBjfLqUqqqagIS0PgSg34kg.AbYO8Pq0OygLU8kZGnaLB_yzyRlHZDBmjfF4AsgBwnog.JPEG/SE-2f23adb6-902f-4f16-801e-96bf22b62c87.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘의 시사상식 문제 #4 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210503160743210Wp</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210503160743210Wp</guid>
+            <title><![CDATA[오늘의 시사상식 문제 #2 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210503155531680xX</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210503155531680xX</guid>
             <pubDate>Thu, 12 May 2022 15:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[아래 기사에서 (A)에 들어갈 가장 적당한 용어는? ① TRS  ② CBO  ③ CLN  ④ MBS  ⑤ ETF    정답: ①   TRS에 대한 설명. CBO(Collateralized Bond Obligation)는 회사채를 담보로 발행된 채권담보부증권. 금융기관이 가지고 있는 채권의 투기성 등급물을 모아 이를 담보로 발행하는 유동화증권이다. CLN(Credit Linked Note)은 은행이 특정한 기업의 Credit Performance에 연동시켜 발행한 어음을 의미한다. MBS(m]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDRfMjMy/MDAxNjIwMDkwNzg1NTA0.6f6YPc3NKn8wgg_QZdbv5MpZP-vn5QwIfS_iG_34IEog.vvFmsoi23CxWA2xsCPlSX9i8jxrM7mIFt4lrTNPW_uYg.JPEG/SE-cdaf601f-bc85-4e48-b4e8-091a97721505.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[아래 기사에서 (A)에 들어갈 용어는? ① 제로페이  ② QR코드  ③ 전자지갑  ④ 오픈뱅킹  ⑤ 스마트뱅킹 정답:  ④   오픈뱅킹에 대한 설명. 제로페이는 소비자가 이미 출시된 간편결제 앱을 켜 매장 단말기의 QR리더기에 대면 은행 계좌에 있던 현금이 바로 판매자에게 이체되는 시스템.  스마트뱅킹은 스마트폰 따위의 모바일 기기를 이용하여 각종 조회, 자금 이체 등 은행 업무를]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDRfMjAw/MDAxNjIwMDkwMDYzODIz.c4oT1MjeJ7htIaa3VgqLdHc3HQVdRD9CxYMAFsENmdUg.nIWHTcGLDRVKABHtaC0LqIqYzaLGhIE_6ouYMi2NIbkg.JPEG/SE-14cc645a-3f65-4263-9dbe-9ea4fad96768.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘의 시사상식 문제 #8 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -857,12 +849,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDRfMTk2/MDAxNjIwMDkxOTUzMDgx.psAE_fmNIQQSq25ekpg_ietLzMP7fbvwvxG52nmyeAUg.uPSYf8UCPN0yQShEeEfNFw0tmWzYLNdCi50Y7Q-jkm0g.JPEG/SE-43a635c1-0a22-4e23-aa42-7ab93cc09b15.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘의 시사상식 문제 #5 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210503161045147XR</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210503161045147XR</guid>
+            <title><![CDATA[오늘의 시사상식 문제 #4 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210503160743210Wp</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210503160743210Wp</guid>
             <pubDate>Thu, 12 May 2022 15:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[다음은 어느 나라에 대한 설명인가?   ① 크로아티아  ② 아이슬란드  ③ 아일랜드  ④ 에스토니아  정답: ④   에스토니아에 대한 설명이다. 에스토니아는 세계 최초로 블록체인을 국가 시스템에 도입한 나라다. &lt;용어&gt;  전자영주권(e-Residency)  에스토니아가 세계 최초로 고안한 블록체인 시대 기본 신분증이자 100유로만 내면 심사를 거쳐 주는 가상 영주권이다. 이를 받으면 몇 시]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDRfMjUz/MDAxNjIwMDkwOTkyMzU4.zCT4pEM6fxw5efso0GxZAngCC326hQA8rIuqziS_X-Yg.qTwBTB2qM1nwohrryiT32i4wCaCcA8oojINBazvT08Yg.JPEG/SE-9063a561-26d0-4536-a630-34e5a552ad42.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[아래 기사에서 (A)에 들어갈 가장 적당한 용어는? ① TRS  ② CBO  ③ CLN  ④ MBS  ⑤ ETF    정답: ①   TRS에 대한 설명. CBO(Collateralized Bond Obligation)는 회사채를 담보로 발행된 채권담보부증권. 금융기관이 가지고 있는 채권의 투기성 등급물을 모아 이를 담보로 발행하는 유동화증권이다. CLN(Credit Linked Note)은 은행이 특정한 기업의 Credit Performance에 연동시켜 발행한 어음을 의미한다. MBS(m]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDRfMjMy/MDAxNjIwMDkwNzg1NTA0.6f6YPc3NKn8wgg_QZdbv5MpZP-vn5QwIfS_iG_34IEog.vvFmsoi23CxWA2xsCPlSX9i8jxrM7mIFt4lrTNPW_uYg.JPEG/SE-cdaf601f-bc85-4e48-b4e8-091a97721505.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국가채무와 국가부채, 어떻게 다른가 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -873,12 +865,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDNfNTUg/MDAxNjIwMDI4MjI4MTcw.DP5HPqty_mEOezV1bqW7dp5IFic8IA-N6hYjaPBXfbEg.-v2vGUR1wWJfF3deinSA5LQNygO30_vyUZEh-LfUEvkg.JPEG/GettyImagesBank_Editor_Cut_4208522_(10).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘의 시사상식 문제 #7 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210503161809072qN</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210503161809072qN</guid>
+            <title><![CDATA[오늘의 시사상식 문제 #5 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210503161045147XR</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210503161045147XR</guid>
             <pubDate>Thu, 12 May 2022 15:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[아래 기사에서 (A)에 들어갈 용어는? ①쿼드러플위칭데이  ②슈퍼화요일  ③블랙프라이데이  ④블랙먼데이  ⑤사이버먼데이 정답 ⑤  ①‘쿼드러플위칭데이’는 ‘네마녀의 날’이라고도 하며, 지수 선물·옵션, 개별주식 선물·옵션이 동시 만기되는 날이다. 지수 선물·옵션, 개별주식 옵션 만기가 겹치는 ‘트리플(Triple) 위칭데이’에 개별주식 선물을 포함하여 숫자 ‘4’를]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDRfMTQ0/MDAxNjIwMDkxNjg5ODk0.1GEc8dPiBD7U4R9sS9G0YAasq4_t_MOeZrNSiVATZIwg.wZCtNDrGsyo0vj4gOFF_kW4f06gpueg1JdabZX3IUIcg.JPEG/GettyImages-1275754376.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[다음은 어느 나라에 대한 설명인가?   ① 크로아티아  ② 아이슬란드  ③ 아일랜드  ④ 에스토니아  정답: ④   에스토니아에 대한 설명이다. 에스토니아는 세계 최초로 블록체인을 국가 시스템에 도입한 나라다. &lt;용어&gt;  전자영주권(e-Residency)  에스토니아가 세계 최초로 고안한 블록체인 시대 기본 신분증이자 100유로만 내면 심사를 거쳐 주는 가상 영주권이다. 이를 받으면 몇 시]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDRfMjUz/MDAxNjIwMDkwOTkyMzU4.zCT4pEM6fxw5efso0GxZAngCC326hQA8rIuqziS_X-Yg.qTwBTB2qM1nwohrryiT32i4wCaCcA8oojINBazvT08Yg.JPEG/SE-9063a561-26d0-4536-a630-34e5a552ad42.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼예산, 이유와 부작용 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210503104724573qG</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210503104724573qG</guid>
+            <pubDate>Thu, 12 May 2022 16:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[정부는 2020년도 예산안으로 513조5000억원을 편성했다. 2019년 예산 대비 9.3%가 늘어난 초대형 예산이다. 문재인정부 출범 전이었던 2017년 400조5000억원이었던 정부 예산은 3년 만에 500조원을 돌파하게 됐다. 예산(budget)이란 한 해 동안 국가의 수입과 지출을 미리 정해놓은 것을 말한다. 정부가 `슈퍼예산`을 편성하면서 내세운 가장 큰 목표는 경기 활성화다. 글로벌 경제 불확실성과]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDNfMjYg/MDAxNjIwMDI3ODgwMTk3.vBgbRSkmNN53nrNm7VEAGDceXt2mwm08uEr8q3d_5Vcg.louYE6hu50keqSi_SraB2XQMQEDYSohy47NkoDHE4_Qg.JPEG/GettyImagesBank_Editor_Cut_4208522_(8).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
