@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 07:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 08:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로젝트 단위로 일한다면? 빠르게 성과내는 팀 세팅법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6776?fr=category</link>
+            <guid>https://publy.co/content/6776?fr=category</guid>
+            <pubDate>Thu, 12 May 2022 08:31:18 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[문제와 가설을 제대로 정의하는 PM의 노하우 (퍼블리)]]></title>
+            <link>https://publy.co/content/6762?fr=category</link>
+            <guid>https://publy.co/content/6762?fr=category</guid>
+            <pubDate>Thu, 12 May 2022 08:31:18 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[<멋있으면 다 언니> 기획자를 스페셜리스트로 만들어 준 네 가지 무기 (퍼블리)]]></title>
             <link>https://publy.co/content/6793?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6746?fr=category</guid>
             <pubDate>Wed, 04 May 2022 08:29:49 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사용자 경험을 설계하는 UX라이팅, 이것만은 조심하자 (퍼블리)]]></title>
-            <link>https://publy.co/content/6794?fr=category</link>
-            <guid>https://publy.co/content/6794?fr=category</guid>
-            <pubDate>Tue, 03 May 2022 08:29:33 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국내외 300개 서비스 브랜드 인스타 콘텐츠 뜯어보니 (퍼블리)]]></title>
-            <link>https://publy.co/content/6791?fr=category</link>
-            <guid>https://publy.co/content/6791?fr=category</guid>
-            <pubDate>Tue, 03 May 2022 08:29:33 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 본방사수한다는 유튜브 콘텐츠 편성표.jpg (캐릿)]]></title>
