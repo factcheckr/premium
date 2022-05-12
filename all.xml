@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 23:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 02:06:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6791?fr=category</guid>
             <pubDate>Tue, 03 May 2022 08:29:33 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대가 본방사수한다는 유튜브 콘텐츠 편성표.jpg (캐릿)]]></title>
+            <link>https://www.careet.net/746</link>
+            <guid>https://www.careet.net/746</guid>
+            <pubDate>Thu, 12 May 2022 02:04:28 GMT</pubDate>
+            <content:encoded><![CDATA[캐릿에만 있는 Z세대 유튜브 편성표 놓치지 마세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/7a59d193-3f2b-41aa-bf77-823559ad59ab_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[잘 되는 팝업 스토어의 비밀! Z세대 입소문 포인트.zip (캐릿)]]></title>
@@ -709,12 +717,88 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[딱 이틀간! 할인이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</guid>
-            <pubDate>Wed, 11 May 2022 03:56:07 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 경제활동 인구 2800만명 중, 무려 절반가량이 주식투자를 하고 있는데요 어느날 고개를 들어 주위를 둘러보니 엄마 친구 아들부터 내 옆자리 직장동료, 심지어는 십년지기 친구까지 알고보니 나만 빼고 다~ 주식을 하고 있어요🤔 "뒤쳐지긴 싫다, 나도 불로소득 좀 땡겨볼까?" 급한 마음에 일단 시작은 했는데 아무래도 막막...한 투자😱 지금 여러분의 투자는 안녕하신가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfNDMg/MDAxNjUwMzM1Mjk5Njky.lZGpdrBmTeXqnaAQQfWbMsU-m7rqFz5APw628ZmGumYg.6ko1l4hLioa8WP6Q9H6Y9kr8PPJazFEFjBLNWGYvEdsg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-19_%EC%98%A4%EC%A0%84_11.28.04.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[틱톡의 모회사 바이트댄스가 ‘더우인’으로 사명을 변경했다. 드디어 상장에 성공할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50793</link>
+            <guid>https://www.bookjournalism.com/books/50793</guid>
+            <pubDate>Thu, 12 May 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[바이트댄스 ‘IPO 챌린지’]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영국에서는 지금도 매년 500만 통의 통화가 공중전화로 이루어진다. 누가 공중전화박스를 찾는 것일까? 그 이유는 무엇일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50766</link>
+            <guid>https://www.bookjournalism.com/books/50766</guid>
+            <pubDate>Thu, 12 May 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[공중전화는 통화중]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘의집이 AR 서비스를 도입한다. 증강 현실은 쇼핑의 방식과 재미를 어떻게 바꿔 놓을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50784</link>
+            <guid>https://www.bookjournalism.com/books/50784</guid>
+            <pubDate>Thu, 12 May 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[증강 쇼핑]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국내 미술 시장이 MZ세대를 중심으로 재편된다. 이 흐름은 지속가능할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50759</link>
+            <guid>https://www.bookjournalism.com/books/50759</guid>
+            <pubDate>Thu, 12 May 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[미술품 사면 기분이 좋거든요]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5월 둘째 주 - 사람은 먹는 존재입니다. 먹어서 사람도 살리고 전쟁도 막을 수 있는, 그런 존재 말입니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50740</link>
+            <guid>https://www.bookjournalism.com/books/50740</guid>
+            <pubDate>Thu, 12 May 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[잘 먹는 삶]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #35에선, 에듀테크 앱 ‘콴다’가 그리는 평등한 교육의 시대, 장애를 비장애로 바꾸는 에이블테크의 세계, 전 세계가 주목하고 있는 배양육 시장과 대체 단백질의 미래에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50711</link>
+            <guid>https://www.bookjournalism.com/audio/50711</guid>
+            <pubDate>Thu, 12 May 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[기술의 진보는 격차를 좁힐 수 있을까?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김포국제공항에 시각 장애인용 무인 항공권 발급기가 도입됐다. 편의를 증진하는 에이블테크에선 어떤 미래를 엿볼 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50690</link>
+            <guid>https://www.bookjournalism.com/books/50690</guid>
+            <pubDate>Thu, 12 May 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[초연결 사회의 에이블테크]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장애인에 대한 차별이 존재한다는 것은 착각입니다. 차별이 만들어 낸 장애인이 존재합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50647</link>
+            <guid>https://www.bookjournalism.com/books/50647</guid>
+            <pubDate>Thu, 12 May 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[지하철을 타는 장애인]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현대의 바다는 인간이 만들어내는 각종 소음이 뒤섞여 해양 생명체들을 위협하고있다. 우리는 이 사태를 해결할 수 있다. 그런데 왜 행동하지 않는가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50631</link>
+            <guid>https://www.bookjournalism.com/books/50631</guid>
+            <pubDate>Thu, 12 May 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[소음의 바다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전 세계가 배양육 시장을 주목한다. 대체 단백질은 어떤 미래를 그리려 하나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50656</link>
+            <guid>https://www.bookjournalism.com/books/50656</guid>
+            <pubDate>Thu, 12 May 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[도축 없는 미래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에듀테크 앱 ‘콴다’의 글로벌 가입자 수가 6000만 명을 돌파했다. 인공지능은 교육 격차를 해결할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50623</link>
+            <guid>https://www.bookjournalism.com/books/50623</guid>
+            <pubDate>Thu, 12 May 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[사교육 아닌 사교육]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5월 첫째 주 - 문재인 대통령은 광장이 탄생시켰습니다. 광장의 5년이었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50609</link>
+            <guid>https://www.bookjournalism.com/books/50609</guid>
+            <pubDate>Thu, 12 May 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[선량한 광장]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공매도의 모든 것...알파에서 오메가까지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -723,6 +807,22 @@
             <pubDate>Wed, 11 May 2022 15:28:20 GMT</pubDate>
             <content:encoded><![CDATA[공매도에 대해 알아보기 전에 `매수`와 `매도`라는 표현에 대해 알아보겠습니다. 매수는 `물건을 사들이다`, 매도는 `물건을 팔아넘기다`라고 정의됩니다. 주식시장에서 물건은 주식이므로 매수, 매도는 주식을 사고파는 행위에 대한 용어라고 할 수 있습니다. 공매도(空賣渡·Short Selling)는 소유하지 않은 증권을 매도하는 것을 말합니다. 쉽게 말해 투자자들이 주권을 실제로 갖]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDNfMTQw/MDAxNjIwMDI3NjA0NDcz.jmX5b1M1YhpcONTw4xX7tNXpAeJQqM28c6GYf_Bszt8g.WeBL73gbg4h4UD0oqPTUrnaBswlu2YQowjJqu6f65iIg.JPEG/GettyImagesBank_Editor_Cut_4208522_(5).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[딱 이틀간! 할인이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</link>
+            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</guid>
+            <pubDate>Wed, 11 May 2022 03:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 경제활동 인구 2800만명 중, 무려 절반가량이 주식투자를 하고 있는데요 어느날 고개를 들어 주위를 둘러보니 엄마 친구 아들부터 내 옆자리 직장동료, 심지어는 십년지기 친구까지 알고보니 나만 빼고 다~ 주식을 하고 있어요🤔 "뒤쳐지긴 싫다, 나도 불로소득 좀 땡겨볼까?" 급한 마음에 일단 시작은 했는데 아무래도 막막...한 투자😱 지금 여러분의 투자는 안녕하신가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfNDMg/MDAxNjUwMzM1Mjk5Njky.lZGpdrBmTeXqnaAQQfWbMsU-m7rqFz5APw628ZmGumYg.6ko1l4hLioa8WP6Q9H6Y9kr8PPJazFEFjBLNWGYvEdsg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-19_%EC%98%A4%EC%A0%84_11.28.04.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Thu, 12 May 2022 02:06:01 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[형이 요즘 관심 있는 금 투자 방법 알려준다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -771,14 +871,6 @@
             <pubDate>Wed, 11 May 2022 15:28:20 GMT</pubDate>
             <content:encoded><![CDATA[이제는 비건 아이템이 대세! 친환경 소비를 실천하는 소비자가 점점 늘고 있다. 지난해에 발표된 한 보고서에 따르면, 설문 응답자의 3분의 1이 ‘제품 구매 시 기업의 친환경·비건 활동 여부’를 고려한다고 답했고, 10명 중 9명은 앞으로 친환경·비건 제품을 구매할 생각을 하고 있다고 한다. 최근에는 ‘비건’의 의미도 점점 확장되고 있다. 흔히 비건이라고 하면 육류를 비롯]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDJfMTMw/MDAxNjQ2MjAzNTcyNDE5.EOwfJFhLmRorxkO5KBo84sBsDShjGD5JI7rKe80tL4Yg.FrJCtYMZD4x5nq5NsAcg_k--2KLXSQuA2CkvKcMtmcwg.JPEG/SE-70825387-298b-478a-9538-837090fcedc8.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동해안에 거대 식인 상어가 나타났다, 4월에.. (2) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/science2005/science/contents/220505122003517ZJ</link>
-            <guid>https://contents.premium.naver.com/science2005/science/contents/220505122003517ZJ</guid>
-            <pubDate>Wed, 11 May 2022 23:28:31 GMT</pubDate>
-            <content:encoded><![CDATA["가장 큰 놈으로 잡겠소. 우리 바다를 지키겠소. 왔노라 싸웠노라 이겼노라~" 조회 수는 1천만 뷰에 달할 무렵 기자들도 이 희대의 실험을 보도하기 시작했다. 해경도 가만있지 않았다. 제보를 받은 해경이 '진격의 낚시'의 위치를 추적하기 시작한 것은 오후 5시, 위치 확인 후 출항 명령이 떨어졌다. 동해 해경의 순양함이 유튜버를 향해 출발했다. 저녁 6시, 그런데 해가 지고 있]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDVfMjYy/MDAxNjUxNzIwNTA1NzE4.6v0ks8l_Dx2sQ572gbzapnxmS2Kh6h5ygtG_g9SPBLAg.pPpE3x9Vz2eW8YsOX78vYrGwFpFRH_T2TlNrYlnGj7wg.JPEG/7_454Ud018svc11cb7h7lokcsf_f6maon.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

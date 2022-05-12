@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 23:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 02:06:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 본방사수한다는 유튜브 콘텐츠 편성표.jpg]]></title>
+            <link>https://www.careet.net/746</link>
+            <guid>https://www.careet.net/746</guid>
+            <pubDate>Thu, 12 May 2022 02:04:28 GMT</pubDate>
+            <content:encoded><![CDATA[캐릿에만 있는 Z세대 유튜브 편성표 놓치지 마세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/7a59d193-3f2b-41aa-bf77-823559ad59ab_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[잘 되는 팝업 스토어의 비밀! Z세대 입소문 포인트.zip]]></title>
             <link>https://www.careet.net/748</link>
