@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 04:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 05:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -429,6 +429,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;오, 그 소식 들으셨어요? 10월 1일에 열리는 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[AI 다루던 엔지니어의 카카오모빌리티 CTO 성장기 (폴인)]]></title>
+            <link>https://www.folin.co/story/2184</link>
+            <guid>https://www.folin.co/story/2184</guid>
+            <pubDate>Thu, 12 May 2022 05:30:12 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[카카오모빌리티 유승일 CTO가 주목하는 '넥스트 테크' (폴인)]]></title>
             <link>https://www.folin.co/story/2183</link>
             <guid>https://www.folin.co/story/2183</guid>
@@ -707,14 +715,6 @@
             <pubDate>Mon, 04 Apr 2022 03:09:06 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콘텐츠 전문가 노가영 "다음은 K예능의 시대 올 것" (폴인)]]></title>
-            <link>https://www.folin.co/story/2140</link>
-            <guid>https://www.folin.co/story/2140</guid>
-            <pubDate>Thu, 31 Mar 2022 22:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[틱톡의 모회사 바이트댄스가 ‘더우인’으로 사명을 변경했다. 드디어 상장에 성공할 수 있을까? (북저널리즘)]]></title>
