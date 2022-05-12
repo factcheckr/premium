@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 14:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 15:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 유튜브, 게임, 패션, 음악 트렌드.zip]]></title>
+            <link>https://www.careet.net/751</link>
+            <guid>https://www.careet.net/751</guid>
+            <pubDate>Thu, 12 May 2022 15:26:17 GMT</pubDate>
+            <content:encoded><![CDATA[너덜트, 숏박스를 잇는 뜨는 유튜브 공감 채널은?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/97098c87-6f44-4948-bbb7-a2e950ed8898_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 본방사수한다는 유튜브 콘텐츠 편성표.jpg]]></title>
             <link>https://www.careet.net/746</link>
