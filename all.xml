@@ -4,22 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 02:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 03:56:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제품의 변화를 싫어하는 사용자들의 거부감을 낮추는 방법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6755?fr=category</link>
-            <guid>https://publy.co/content/6755?fr=category</guid>
-            <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[엔비디아(NVIDIA)처럼 일하는 4가지 방법, 그거 어떻게 하는 건데? (퍼블리)]]></title>
             <link>https://publy.co/content/6813?fr=category</link>
             <guid>https://publy.co/content/6813?fr=category</guid>
             <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제품 업데이트 하기 전 PM이 반드시 체크해야 하는 것들 (퍼블리)]]></title>
+            <link>https://publy.co/content/6755?fr=category</link>
+            <guid>https://publy.co/content/6755?fr=category</guid>
+            <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[완판을 부르는 푸드 상세페이지 작성법 (퍼블리)]]></title>
