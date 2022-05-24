@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-05-24T02:06:27.346Z</updated>
+    <updated>2022-05-24T02:06:36.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
         <title type="html"><![CDATA[제품의 변화를 싫어하는 사용자들의 거부감을 낮추는 방법]]></title>
         <id>https://publy.co/content/6755?fr=category</id>
         <link href="https://publy.co/content/6755?fr=category"/>
-        <updated>2022-05-24T02:05:38.358Z</updated>
+        <updated>2022-05-24T02:04:52.790Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔비디아(NVIDIA)처럼 일하는 4가지 방법, 그거 어떻게 하는 건데?]]></title>
         <id>https://publy.co/content/6813?fr=category</id>
         <link href="https://publy.co/content/6813?fr=category"/>
-        <updated>2022-05-24T02:05:38.390Z</updated>
+        <updated>2022-05-24T02:04:52.792Z</updated>
         <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[완판을 부르는 푸드 상세페이지 작성법]]></title>
         <id>https://publy.co/content/6824?fr=category</id>
         <link href="https://publy.co/content/6824?fr=category"/>
-        <updated>2022-05-24T02:05:38.392Z</updated>
+        <updated>2022-05-24T02:04:52.792Z</updated>
         <content type="html"><![CDATA[아티클 · 17분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서비스별 전략이 녹아있는 패션 커머스 UX/UI 비교]]></title>
         <id>https://publy.co/content/6818?fr=category</id>
         <link href="https://publy.co/content/6818?fr=category"/>
-        <updated>2022-05-24T02:05:38.395Z</updated>
+        <updated>2022-05-24T02:04:52.793Z</updated>
         <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팀 효율을 높이는 팀장은 매뉴얼을 '이렇게' 만든다]]></title>
         <id>https://publy.co/content/6795?fr=category</id>
         <link href="https://publy.co/content/6795?fr=category"/>
-        <updated>2022-05-24T02:05:38.398Z</updated>
+        <updated>2022-05-24T02:04:52.793Z</updated>
         <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사례로 보는 검색과 탐색 UX/UI 비교 분석]]></title>
         <id>https://publy.co/content/6760?fr=category</id>
         <link href="https://publy.co/content/6760?fr=category"/>
-        <updated>2022-05-24T02:05:38.403Z</updated>
+        <updated>2022-05-24T02:04:52.794Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사례로 보는 서비스 별 A/B 테스트: 온보딩 단계]]></title>
         <id>https://publy.co/content/6761?fr=category</id>
         <link href="https://publy.co/content/6761?fr=category"/>
-        <updated>2022-05-24T02:05:38.403Z</updated>
+        <updated>2022-05-24T02:04:52.797Z</updated>
         <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만만한 사람이 되지 않는 멘탈 관리법]]></title>
         <id>https://publy.co/content/6796?fr=category</id>
         <link href="https://publy.co/content/6796?fr=category"/>
-        <updated>2022-05-24T02:05:38.404Z</updated>
+        <updated>2022-05-24T02:04:52.800Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요즘 서비스들의 추천 UX, 정리해드림]]></title>
         <id>https://publy.co/content/6807?fr=category</id>
         <link href="https://publy.co/content/6807?fr=category"/>
-        <updated>2022-05-24T02:05:38.406Z</updated>
+        <updated>2022-05-24T02:04:52.800Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고객은 가격이 아니라 이야기에 지갑을 엽니다]]></title>
         <id>https://publy.co/content/6804?fr=category</id>
         <link href="https://publy.co/content/6804?fr=category"/>
-        <updated>2022-05-24T02:05:38.408Z</updated>
+        <updated>2022-05-24T02:04:52.801Z</updated>
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>
