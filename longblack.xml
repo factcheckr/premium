@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.longblack.co/</id>
-    <title>롱블랙</title>
-    <updated>2022-05-12T22:28:20.782Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.longblack.co/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[언리미티드 에디션 : 독립 출판계 최대 축제, 작가와 관람객의 만남을 본질로 삼다]]></title>
-        <id>https://www.longblack.co/note/289</id>
-        <link href="https://www.longblack.co/note/289"/>
-        <updated>2022-05-12T15:26:25.310Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;지난주에 반가운 문자를 받았습니다. 오래 쉬었던 독서 모임이 다시 시작된다고요. 책을 좋아하지만, 책을 놓고 이야기를 나<span class="circle-punctuation"></span>]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>롱블랙</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 24 May 2022 02:06:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칙필레 : 테이블 4개의 치킨 샌드위치 식당, 매출 21조 프랜차이즈 체인이 되다]]></title>
+            <link>https://www.longblack.co/note/300</link>
+            <guid>https://www.longblack.co/note/300</guid>
+            <pubDate>Tue, 24 May 2022 02:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;지난주 버거킹코리아 재무제표 분석 봤어? 재미있게 읽었다는 롱블랙 피플이 아주 많았어. 왠지 신이 나더라고. 그래서 내친김에 미국 버거 시장도 좀 뒤져봤지. 그러<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220519/1652966272a3cfcd43c2c0795fc66748ef730134a4.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
