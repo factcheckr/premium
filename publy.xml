@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-05-24T07:25:08.412Z</updated>
+    <updated>2022-05-24T08:33:23.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[MZ 세대가 선택한 성수 모나미 스토어, 팬을 만드는 오프라인 공간]]></title>
+        <id>https://publy.co/content/6823?fr=category</id>
+        <link href="https://publy.co/content/6823?fr=category"/>
+        <updated>2022-05-24T08:31:42.685Z</updated>
+        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔비디아(NVIDIA)처럼 일하는 4가지 방법, 그거 어떻게 하는 건데?]]></title>
         <id>https://publy.co/content/6813?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6807?fr=category"/>
         <updated>2022-05-24T02:04:52.800Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고객은 가격이 아니라 이야기에 지갑을 엽니다]]></title>
-        <id>https://publy.co/content/6804?fr=category</id>
-        <link href="https://publy.co/content/6804?fr=category"/>
-        <updated>2022-05-24T02:04:52.801Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>

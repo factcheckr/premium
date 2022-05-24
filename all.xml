@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 07:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 08:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ 세대가 선택한 성수 모나미 스토어, 팬을 만드는 오프라인 공간 (퍼블리)]]></title>
+            <link>https://publy.co/content/6823?fr=category</link>
+            <guid>https://publy.co/content/6823?fr=category</guid>
+            <pubDate>Tue, 24 May 2022 08:31:42 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[엔비디아(NVIDIA)처럼 일하는 4가지 방법, 그거 어떻게 하는 건데? (퍼블리)]]></title>
             <link>https://publy.co/content/6813?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6807?fr=category</guid>
             <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고객은 가격이 아니라 이야기에 지갑을 엽니다 (퍼블리)]]></title>
-            <link>https://publy.co/content/6804?fr=category</link>
-            <guid>https://publy.co/content/6804?fr=category</guid>
-            <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ESG, 친환경(E)만 신경쓰세요? 이젠 사회적 책임(S)에도 주목해야 합니다! (캐릿)]]></title>
