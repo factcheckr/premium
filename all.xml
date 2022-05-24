@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 09:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -882,14 +882,6 @@
             <content:encoded><![CDATA[우리 은행들이 달라졌어요]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[배당주 리뷰] 미국주식 추천 배당주의 6개월 수익률 공개! (feat. 최고 36.09%) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220218104518041vl</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220218104518041vl</guid>
-            <pubDate>Tue, 24 May 2022 02:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[미증시 하락장을 기회로 만드는 방법! 바로 미국 배당주 입니다! 매월 3가지 유형으로 추천해드린 배당주 종목 기억하시나요?  ①공격적인 투자 성향이라면? 배당 공격수! ②꾸준한 소득이 있고, 매월 정기적인 투자를 하고 싶다면? 배당 미드필더! ③보수적인 투자 및 안정적인 현금 수입이 필요하다면? 배당 골키퍼! 그동안 추천했던 배당주들의 6개월 수익률을 기록해보았습니]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMThfMTA5/MDAxNjQ1MTQ4NjA2NDMx._PHSs5zn12jecPphpvgiRiGuAsnyUlzfJgEWOVqeWs4g.IaT4Rb0IwO7yCnE6i4zNaDINDzHefMg_0EJOxHaa5Qcg.PNG/shutterstock_1909361299.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[긴급점검] 시총 상위기업의 투자 전략은? (feat. 메타플랫폼스, 엔비디아, ASML, 테슬라 등) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220210121625364BU</link>
             <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220210121625364BU</guid>
@@ -898,12 +890,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTBfMTI0/MDAxNjQ0NDUxNTkwNDIw.rogBCyfyQPlqPjzmDjbLrLP1uZNQrVkLkG9FI4rarxsg.BEqyIZEhRhhvr2aMcWdzA6VWGzEL6AP7MyD1Nl_k6fog.JPEG/shutterstock_1605890221_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[치솟는 곡물가격에 '쑥쑥' 성장 할 농업 관련 주식은? (feat. 디어앤컴퍼니, 뉴트리언, 모자이크컴퍼니 등) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220412083018508lN</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220412083018508lN</guid>
+            <title><![CDATA[[배당주 리뷰] 미국주식 추천 배당주의 6개월 수익률 공개! (feat. 최고 36.09%) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220218104518041vl</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220218104518041vl</guid>
             <pubDate>Tue, 24 May 2022 02:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[연초부터 원자재 랠리 이번엔 농산물까지! 더군다나 전쟁이라는 변수가 생기면서 곡물 가격은 사상 최고 수준으로 오르고 있습니다. 그렇다면 이제  농업 관련 주식을 눈여겨 볼 차례! 주목 할 만한 농업 관련 주식은? 1) 디어앤컴퍼니 (DE) - 농기계의 테슬라 2) 뉴트리언 (NTR) - 캐나다의 비료 제조사 3) 모자이크 컴퍼니 (MOS) - 세계 최대의 비료 제조사 4) CF인더스트리즈 (CF) - 미국]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTg5/MDAxNjQ5MjE1NTYwNzg1.nj9fcBmWafwjMSY2BBZ8AbcxiK526WeyicVGmmTjgeUg.0AULctJyRsEU6HgcJ0W0Z0jF5_jk1pKfyeJ14M4TrIQg.JPEG/jan-kopriva-LTMaAwxanGk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[미증시 하락장을 기회로 만드는 방법! 바로 미국 배당주 입니다! 매월 3가지 유형으로 추천해드린 배당주 종목 기억하시나요?  ①공격적인 투자 성향이라면? 배당 공격수! ②꾸준한 소득이 있고, 매월 정기적인 투자를 하고 싶다면? 배당 미드필더! ③보수적인 투자 및 안정적인 현금 수입이 필요하다면? 배당 골키퍼! 그동안 추천했던 배당주들의 6개월 수익률을 기록해보았습니]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMThfMTA5/MDAxNjQ1MTQ4NjA2NDMx._PHSs5zn12jecPphpvgiRiGuAsnyUlzfJgEWOVqeWs4g.IaT4Rb0IwO7yCnE6i4zNaDINDzHefMg_0EJOxHaa5Qcg.PNG/shutterstock_1909361299.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[나의 투자성향에 맞는 미국주식은 어떻게 찾나요? 성장주, 가치주, 경기변동주 찾기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -914,12 +906,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjlfMTYw/MDAxNjQ4NTE0MTgwMTQy.bbvunEHnGQbz5Ct-QiY4qAHkK9lD_yNE4FAka9VkyL8g.BSqQEN1jY9-nyDZe3IECo-OgybVQosViwBl6pgFC0XYg.JPEG/austin-distel-nGc5RT2HmF0-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</guid>
+            <title><![CDATA[치솟는 곡물가격에 '쑥쑥' 성장 할 농업 관련 주식은? (feat. 디어앤컴퍼니, 뉴트리언, 모자이크컴퍼니 등) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220412083018508lN</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220412083018508lN</guid>
             <pubDate>Tue, 24 May 2022 02:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 경제활동 인구 2800만명 중, 무려 절반가량이 주식투자를 하고 있는데요 어느날 고개를 들어 주위를 둘러보니 엄마 친구 아들부터 내 옆자리 직장동료, 심지어는 십년지기 친구까지 알고보니 나만 빼고 다~ 주식을 하고 있어요🤔 "뒤쳐지긴 싫다, 나도 불로소득 좀 땡겨볼까?" 급한 마음에 일단 시작은 했는데 아무래도 막막...한 투자😱 지금 여러분의 투자는 안녕하신가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfNDMg/MDAxNjUwMzM1Mjk5Njky.lZGpdrBmTeXqnaAQQfWbMsU-m7rqFz5APw628ZmGumYg.6ko1l4hLioa8WP6Q9H6Y9kr8PPJazFEFjBLNWGYvEdsg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-19_%EC%98%A4%EC%A0%84_11.28.04.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[연초부터 원자재 랠리 이번엔 농산물까지! 더군다나 전쟁이라는 변수가 생기면서 곡물 가격은 사상 최고 수준으로 오르고 있습니다. 그렇다면 이제  농업 관련 주식을 눈여겨 볼 차례! 주목 할 만한 농업 관련 주식은? 1) 디어앤컴퍼니 (DE) - 농기계의 테슬라 2) 뉴트리언 (NTR) - 캐나다의 비료 제조사 3) 모자이크 컴퍼니 (MOS) - 세계 최대의 비료 제조사 4) CF인더스트리즈 (CF) - 미국]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTg5/MDAxNjQ5MjE1NTYwNzg1.nj9fcBmWafwjMSY2BBZ8AbcxiK526WeyicVGmmTjgeUg.0AULctJyRsEU6HgcJ0W0Z0jF5_jk1pKfyeJ14M4TrIQg.JPEG/jan-kopriva-LTMaAwxanGk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타트업 스톡옵션 규정, 바뀌었다고요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -930,12 +922,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfMjMz/MDAxNjUwODkwNTg3MzUy.sPb35XY4faQtX1L6gOjAKQu-RljenrJp73vXAr05OXkg.vskq8UIH04AEqdeObNKRFoOcG7DWV74td4zFuAlklMMg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-25_%EC%98%A4%ED%9B%84_9.41.29.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[워런 버핏이 비트코인에 관심 없는 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220420092638076FP</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220420092638076FP</guid>
+            <title><![CDATA[[이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</link>
+            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</guid>
             <pubDate>Tue, 24 May 2022 02:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[워런 버핏이 비트코인에 관심 없는 이유 a. 이미 부자여서 b. 매년 엄청난 배당수익이 있어서 c. 가치투자자여서 정답은? a,b,c 모두! 작년 워런버핏의 5종목의 배당금은 20억짜리 강남아파트를 1,755채 살 수 있을 정도? 돈이 돈을 부르는 배당주! 워런버핏 포트폴리오 구경하러 갈 사람~~~ #미국배당주 #미국주식 배당금 많이 준 TOP5 1위, 애플(AAPL)의 진단점수는? ☞ 클릭 2위, 뱅크오브]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfNzAg/MDAxNjUwNDE0MDMyMjgx.222jGfBsEXKuC13-lembYv-ACVVCKemqqMKAnL1Oc3Qg.iyOkP-m3N8kVTa09J17eefVHyFSME3lbwa9pDosCsrsg.PNG/1.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[우리나라 경제활동 인구 2800만명 중, 무려 절반가량이 주식투자를 하고 있는데요 어느날 고개를 들어 주위를 둘러보니 엄마 친구 아들부터 내 옆자리 직장동료, 심지어는 십년지기 친구까지 알고보니 나만 빼고 다~ 주식을 하고 있어요🤔 "뒤쳐지긴 싫다, 나도 불로소득 좀 땡겨볼까?" 급한 마음에 일단 시작은 했는데 아무래도 막막...한 투자😱 지금 여러분의 투자는 안녕하신가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfNDMg/MDAxNjUwMzM1Mjk5Njky.lZGpdrBmTeXqnaAQQfWbMsU-m7rqFz5APw628ZmGumYg.6ko1l4hLioa8WP6Q9H6Y9kr8PPJazFEFjBLNWGYvEdsg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-19_%EC%98%A4%EC%A0%84_11.28.04.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[척박한 환경속에서도 깊고, 곧게 뿌리내릴 수 있도록  ─ 영화, <킹 리차드> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -946,12 +938,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTZfMjY3/MDAxNjUyNjI5MzUyNDYw.cCYFMh4769Bz0m8ao5UQYbWoAykITUKT86H84Hh2efUg.BfoSMNaQb0gmgFmWGqWh9Ttut72USMA8M2wEpTxDNy4g.JPEG/common_(12).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[형이 요즘 관심 있는 금 투자 방법 알려준다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220420154148762pH</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220420154148762pH</guid>
-            <pubDate>Tue, 24 May 2022 07:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[형이다. 형이 최근 감명받은 짤로 시작한다. 형도 저런 날을 꿈꾸며 열심히 운동하고 있다. 부스터 먹으면 몸이 찌릿찌릿한게 금방이라도 동석이 형처럼 될 것만 같다. 아직도 윤석이 형에 더 가까운건 함정이다. 오늘은 형이 최근 관심 갖고 있는 금 투자에 대해 알려주려고 한다. 왜 금 투자냐고? 주식하기 가장 위험한 달은 1월부터 12월까지 있다. 근데 실제로 5월부터 10월까지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMTM0/MDAxNjUwNDM2NzUwMDI5.4gDPpKdbYe88eIeR9ta-Xkj5YfZ9SQcvJlWGWbpfKvsg.q3-e0le_vvacceshfUfi8RWLxVJrOU0Nu8IEO1lstH4g.PNG/%ED%98%95%EC%9D%B4%EB%8B%A4_(%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95).png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[워런 버핏이 비트코인에 관심 없는 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220420092638076FP</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220420092638076FP</guid>
+            <pubDate>Tue, 24 May 2022 02:06:35 GMT</pubDate>
+            <content:encoded><![CDATA[워런 버핏이 비트코인에 관심 없는 이유 a. 이미 부자여서 b. 매년 엄청난 배당수익이 있어서 c. 가치투자자여서 정답은? a,b,c 모두! 작년 워런버핏의 5종목의 배당금은 20억짜리 강남아파트를 1,755채 살 수 있을 정도? 돈이 돈을 부르는 배당주! 워런버핏 포트폴리오 구경하러 갈 사람~~~ #미국배당주 #미국주식 배당금 많이 준 TOP5 1위, 애플(AAPL)의 진단점수는? ☞ 클릭 2위, 뱅크오브]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfNzAg/MDAxNjUwNDE0MDMyMjgx.222jGfBsEXKuC13-lembYv-ACVVCKemqqMKAnL1Oc3Qg.iyOkP-m3N8kVTa09J17eefVHyFSME3lbwa9pDosCsrsg.PNG/1.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[굿모닝러너 챌린지 [68일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220517052741351jq</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220517052741351jq</guid>
+            <pubDate>Tue, 24 May 2022 09:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [68일차] 굿모닝러너님, 오늘 하루, 지겹다고 생각했던 일을 신나게 해보세요. 어려웠던 일도 쉽게 해낼 수 있을 거에요 ~ :) 굿모닝러너_챌린지_68일차 #20220517 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록 예시) 닉네임  / 목표: 월,수,]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTdfMjg2/MDAxNjUyNzMyODI4MTg0.E7wZhZ4NqRxaMfWynRV5vw6c623gK-__TE8gB_e_R1wg.xCrEvsJaKAFpRcy2o1rqPeOvRRfxe1EVmi6oVczndYIg.JPEG/KakaoTalk_20220517_052647422.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
