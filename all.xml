@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 14:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 15:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,12 +518,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/ca1a5d3d-a255-4372-b098-4cf1c228e880_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[찰스바버샵 : 조선호텔 출신 73세 이발사, 홍대 앞에 바버샵을 낸 이유 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/299</link>
-            <guid>https://www.longblack.co/note/299</guid>
-            <pubDate>Tue, 24 May 2022 15:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;빳빳하게 다림질한 하늘색 셔츠와 갈색 정장 바지, 볼펜으로 고정된 넥타이, 가지런히 빗질한 백발의 머리… 정철수 원장은 73세의 나이에도 흐트러짐 없는 옷차림으로<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220519/165296559618431d5486d779d244de66f393682201.png" length="0" type="image/png"/>
+            <title><![CDATA[노스페이스 : 19년 연속 한국 아웃도어 1위의 비결, 장부로 파헤치다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/298</link>
+            <guid>https://www.longblack.co/note/298</guid>
+            <pubDate>Wed, 25 May 2022 15:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;나 요즘 주말에 등산 다녀. 아니, 등산은 부모님 취미 아니냐고? 그렇게 물어보면 뭘 모르는 말씀! 요즘 등산이 얼마나 뜨거운 트렌드인데! 산 정상에서 찍은 사진<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220525/1653440858eba1226a2d468c3720782a4900bf93fd.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[시몬스 그로서리 스토어에 '화살표'가 없는 이유 (폴인)]]></title>
@@ -814,6 +814,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[샤오미와 라이카가 합작 휴대폰을 출시한다고 밝혔다. 스마트폰의 사용성이 다양해진 요즘, 돌아온 디카폰은 샤오미의 실적을 끌어올릴 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51066</link>
+            <guid>https://www.bookjournalism.com/books/51066</guid>
+            <pubDate>Wed, 25 May 2022 15:29:34 GMT</pubDate>
+            <content:encoded><![CDATA[디카폰의 부활]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[유형의 비용을 줄이고 무형의 가치를 추구하는 명품 마케팅이 지속되는 한 짝퉁은 언제까지나 무적의 비즈니스이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/51055</link>
             <guid>https://www.bookjournalism.com/books/51055</guid>
@@ -891,83 +898,76 @@
             <content:encoded><![CDATA[반지성주의 주의보]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기후 위기, 불평등을 타개할 시대적 의제로 왜 기본소득이 거론되는가. 기본소득의 기본서가 답한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50726</link>
-            <guid>https://www.bookjournalism.com/books/50726</guid>
-            <pubDate>Wed, 25 May 2022 14:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[기본소득 101]]></content:encoded>
+            <title><![CDATA[굿모닝러너 챌린지 [70일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220519053318591fZ</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220519053318591fZ</guid>
+            <pubDate>Wed, 25 May 2022 15:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [70일차] 굿모닝러너님, 오늘 하루, 작은 노력으로 시작해보세요. 멀게만 느껴졌던 목표 달성이 더 빨라질 거에요 ~ :) 굿모닝러너_챌린지_70일차 #20220519 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록 예시) 닉네임  / 목표: 월,수,금 주 3]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTlfMjgz/MDAxNjUyOTA1OTY2OTE2.rHViB7I7Qk3oOjxJexrlR5vi0KAMJol-Rq8TQaI0TkQg.IxnbdhMmG-NoAEbi0sTIw7y_JA7IkzWFO2-1h6owM9Mg.JPEG/KakaoTalk_20220519_053106953.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Tue, 24 May 2022 10:28:05 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[[ 싱싱한 주간 이슈🎣] 구글 실적부진, 광고시장 급변을 예고하다😱 // 단돈 4000원으로 다이슨 청소기를 쓸 수 있다❓❗ (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220428012201949yi</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220428012201949yi</guid>
+            <pubDate>Wed, 25 May 2022 15:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[#6 싱싱한 주간 이슈🎣 4/27일 새벽, 구글(알파벳)의 주가가 무려 9%넘게 폭락했어요..😱 이유는 바로 22년 1분기 실적발표에서 드러난 예상보다 저조한 구글의 실적이었습니다. 저조한 실적의 배경에는 "유튜브 광고매출 실적 저조"가 가장 큰 영향을 미쳤어요. 시장 전망치인 75억 달러에 비해 실제 실적은 68억으로 크게 밑돌았고 수익 증가폭도 시장 전망치인 25%에 비해 실제로는 14%]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjhfODIg/MDAxNjUxMDc2MTQ1OTMx.JXbq-nrQw9HxUwBAdGUH4azfYJbztoeqvycNylBe3VUg.YpRhhmfOPoi7PdXV3x58trwgNKxn0tjPP2WE5KrVCSog.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</guid>
-            <pubDate>Tue, 24 May 2022 02:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 경제활동 인구 2800만명 중, 무려 절반가량이 주식투자를 하고 있는데요 어느날 고개를 들어 주위를 둘러보니 엄마 친구 아들부터 내 옆자리 직장동료, 심지어는 십년지기 친구까지 알고보니 나만 빼고 다~ 주식을 하고 있어요🤔 "뒤쳐지긴 싫다, 나도 불로소득 좀 땡겨볼까?" 급한 마음에 일단 시작은 했는데 아무래도 막막...한 투자😱 지금 여러분의 투자는 안녕하신가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfNDMg/MDAxNjUwMzM1Mjk5Njky.lZGpdrBmTeXqnaAQQfWbMsU-m7rqFz5APw628ZmGumYg.6ko1l4hLioa8WP6Q9H6Y9kr8PPJazFEFjBLNWGYvEdsg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-19_%EC%98%A4%EC%A0%84_11.28.04.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[예보, 우리금융 잔여지분 2.3% 매각…13조 상환에 24년 걸렸다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220518183732043da</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220518183732043da</guid>
+            <pubDate>Wed, 25 May 2022 15:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[무려 24년이 걸렸습니다. 우리금융지주가 공적자금 13조원을 모두 갚기까지 걸린 시간입니다. 말도 많고 탈도 많은 세월이었습니다. 한일은행, 상업은행이 합쳐졌고 자회사를 팔아야 했습니다. 금융지주 체제를 출범했다가 지분 매각이 어렵다며 이를 해체하기도 했고 다시 금융지주 체제를 출범시켰습니다. 오랜 세월이 걸려 공적자금은 모두 되갚았습니다. 이미 1000억원 이상]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfOTcg/MDAxNjUyODY2MjgzMDY0.4NN2Vxg_NJr8tYz4cw6_jN3cqxv0lwgL33qHpJvhKhsg.a7RZDhTyG0d7Ta1Xjq0KZI51xv0eqVAEkOJAqxm1Kp8g.JPEG/%EC%9A%B0%EB%A6%AC%EA%B8%88%EC%9C%B5%EC%A7%80%EC%A3%BC_%ED%9A%8C%EC%9E%A5_%EA%B8%B0%EC%9E%90%EA%B0%84%EB%8B%B4%ED%9A%8C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [69일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220518053625112dn</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220518053625112dn</guid>
-            <pubDate>Tue, 24 May 2022 15:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [69일차] 굿모닝러너님, 오늘 하루, 가치있는 목표를 향해 한걸음만 걸어보세요. 에너지 넘치는 하루가 될거에요 ~ :) 굿모닝러너_챌린지_69일차 #20220518 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록 예시) 닉네임  / 목표: 월,수,금 주 3]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMTQg/MDAxNjUyODE5NzU3NDU3.Jh6FrJiOtAHbXpZKJWR0G5aV32yewT113j5gWFQfDBAg.BZRoOIqm4LI_02qYOd3Z2CINI03q8F1dk2fwec2aXu0g.JPEG/KakaoTalk_20220518_053347785.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[타깃 어닝쇼크, 주가 25% 급락 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220519080618638zE</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220519080618638zE</guid>
+            <pubDate>Wed, 25 May 2022 15:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[무슨 일이지? 18일(현지시간) 미국 유통업체 타깃의 종가 기준 주가는 161.61달러로 전일 대비 무려 24.93%나 급락했습니다. 타깃의 주가는 52주 최저치를 기록했고요. 998억 달러에 달했던 시가총액은 750억 달러로 크게 떨어졌습니다. 타깃의 주가 급락은 1분기 실적 탓에 벌어졌습니다. 매출은 251억 7000만 달러로 시장 예상치(244억 9000만 달러)를 상회했지만, 순이익은 10억 1000만 달러]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTlfODUg/MDAxNjUyOTE1MTIwNzc5.9mqpxFrHNo6Chh_trp3JAQ-qnGOUUYfJiktn1T-PR0Qg.XCmueqj9ODeOo4PIPIvS1MQMlXUMoOBsGaILCjHj6-Ig.JPEG/20220519_%ED%83%80%EA%B9%83.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[형이 요즘 관심 있는 금 투자 방법 알려준다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220420154148762pH</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220420154148762pH</guid>
-            <pubDate>Tue, 24 May 2022 14:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[형이다. 형이 최근 감명받은 짤로 시작한다. 형도 저런 날을 꿈꾸며 열심히 운동하고 있다. 부스터 먹으면 몸이 찌릿찌릿한게 금방이라도 동석이 형처럼 될 것만 같다. 아직도 윤석이 형에 더 가까운건 함정이다. 오늘은 형이 최근 관심 갖고 있는 금 투자에 대해 알려주려고 한다. 왜 금 투자냐고? 주식하기 가장 위험한 달은 1월부터 12월까지 있다. 근데 실제로 5월부터 10월까지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMTM0/MDAxNjUwNDM2NzUwMDI5.4gDPpKdbYe88eIeR9ta-Xkj5YfZ9SQcvJlWGWbpfKvsg.q3-e0le_vvacceshfUfi8RWLxVJrOU0Nu8IEO1lstH4g.PNG/%ED%98%95%EC%9D%B4%EB%8B%A4_(%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95).png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[누가 스리랑카를 부도로 내몰았나 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/khan/noon/contents/220426193911802aD</link>
+            <guid>https://contents.premium.naver.com/khan/noon/contents/220426193911802aD</guid>
+            <pubDate>Wed, 25 May 2022 15:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[일시적 디폴트(채무불이행)을 선언한 스리랑카가 국제통화기금(IMF)과 구제금융 지원을 위한 협상에 들어갔습니다. 4월24일(현지시간) 노자키 마사히로 IMF 스리랑카 지사장은 성명을 통해 “IMF와 스리랑카 대표단이 생산적임 전문적인 논의를 벌였다”고 밝혔습니다. 스리랑카는 IMF로부터 40억달러(약 5조원)가랑의 구제금융 지원을 요청하고 있습니다. 　우리도 1998년 외환위]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjZfMjIy/MDAxNjUwOTY4MTM2MDE1.RNrrRn_dGyBLtJyg9BJfIqqvXRtCIQzAardV9LmWTF4g.2p8LOF3KbRKqCGa4pFoqTzuxqUMB793Y2amRJowOxkgg.PNG/sri-lanka-162429_1280.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[새벽을 밝히던 홍대 앞 청춘들의 열정, 왜 낯설었을까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/khan/geul/contents/220302102930438Ca</link>
-            <guid>https://contents.premium.naver.com/khan/geul/contents/220302102930438Ca</guid>
-            <pubDate>Tue, 24 May 2022 15:27:23 GMT</pubDate>
-            <content:encoded><![CDATA['유O준' 여러모로 ‘비범한’ 친구였다. 고운 뽀얀 피부에 볼록한 단발머리의 헤어 스타일이 당시 촌스럽고 평범한 스타일이 대부분이었던 또래 친구들과 많이 달랐다. 귀여운 생김새에 말투도 다정다감해서 눈길이 갔다. 나는 이때까지만 해도 ‘돼지’로 불리던 퉁퉁한 외양이었으니 '저런 외모도 가능하구나' 생각했더랬다. 어떤 일이 계기가 됐는지 모르지만 둘은 '합(合)'이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDJfMjMy/MDAxNjQ2MTg0MzkyMDAx.b1ga0yCM4wFsptPQJkU_w0Nv_dylkYpzMgNqs9greXgg.TihM9yuQaZoH3bXZKEuJodN3V9iMoWgoEu8HP6QP3xYg.JPEG/20061121000185.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[부동산플랫폼 직방, 유니콘되고 어떻게 일할까…면접은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/220519100754711Fg</link>
+            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/220519100754711Fg</guid>
+            <pubDate>Wed, 25 May 2022 15:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[부동산을 찾으려면 무조건 발품부터 팔아야하던 시대가 있었는데요. 지금은 앱부터 켜서 살펴보고 매물을 보러 가죠. 부동산 플랫폼 직방이 등장한 이후부터 생긴 변화인데요. 잡플래닛 총 만족도 3.1점을 기록 중인 직방은 새롭게 떠오르고 있는 유니콘 기업이에요. 대규모 인력 채용에 나서는 등 직방에서 일할 기회도 늘고 있는데요. 그래서 잡플래닛에 2022년 5월 현재까지 쌓]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTlfMjY2/MDAxNjUyOTIyMjY1Nzk5.JjejlhKdBUXFStIvVz-zChSF4Xq8767L07IYof3_Gisg.5zu1f4OEBp3eaKt6obVk842nMqVQNX8NVSGGcUXideAg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[📉월마트도 결국 인플레가 발목 잡았다..앞으로는? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/newsporter/hyereeporter/contents/220518075655408xc</link>
-            <guid>https://contents.premium.naver.com/newsporter/hyereeporter/contents/220518075655408xc</guid>
-            <pubDate>Tue, 24 May 2022 15:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[Walmart가 2022년 1분기 실적을 발표했다. 실적은 컨센서스를 크게 하회했고, 주가는 8-9% 급락하고 있다. Walmart가 하루에 10% 가까이 빠지는건 나도 처음 보는 것 같다. Walmart 주가는 이제 52주 최저가 부근까지 내려왔다. 실적도 실적인데, 실적 악화의 원인에 대한 CEO의 코멘트가 부담스럽다. 향후 실적 전망을 더욱 어둡게 만들었다. CEO는 실적 악화의 원인으로 미국의 높은 인플레이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMTk3/MDAxNjUyODI3NDU3ODk1.PzzfyCGkwxnxdsLOLiCVzTpm0m1yl8O9Fv5cuMTFyDog.BYZaXg-oBAb30TcopNMf6-op8MWea6LPIqtmufXEZJkg.JPEG/282157782_2077682599080234_77558537036056978_n.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[이용균의 머니볼] 야구에만 없는 샐러리캡의 비밀 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/khan/noon/contents/220307073221981pg</link>
+            <guid>https://contents.premium.naver.com/khan/noon/contents/220307073221981pg</guid>
+            <pubDate>Wed, 25 May 2022 15:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[결국 메이저리그 개막은 제때 이뤄질 수 없게 됐습니다. 원래 개막 예정일은 3월31일이었지만 메이저리그 노사협상이 타결되지 못하면서 메이저리그 롭 맨프레드 커미셔너는 2022시즌 첫 두 시리즈(6경기)의 취소를 발표했습니다. 협상 타결이 이뤄지지 않으면 취소 경기는 더 늘어날 수 있습니다. 물론, 취소된 경기 만큼 연봉도 지급되지 않습니다. 구단과 선수노조는 조금씩 의]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDdfNTYg/MDAxNjQ2NjA1ODM1MDc3.dVUhWpZyEiku6n2ig6allEOLW6RPPfWDNHbKZtVzNvMg.z0urG4-Aeh609mXGY64fy4TxVuSgQtGgyUGqUaV9jVkg.JPEG/0307_%EB%AC%B8%EB%8B%AB%ED%9E%8C_%EC%95%BC%EA%B5%AC%EC%9E%A5.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[혼돈 속의 유니콘 빗썸코리아…숙제는? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/220518102725482Gp</link>
-            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/220518102725482Gp</guid>
-            <pubDate>Tue, 24 May 2022 15:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[코인 투자 바람을 타고 가상자산 거래소인 '빗썸'을 운영하는 빗썸코리아(▶리뷰 보러 가기)는 지난해 유니콘에 이름을 올렸습니다. 미국 경제지 포브스가 매긴 글로벌 가상자산거래소 순위에서 13위를 차지하기도 했고요. 무엇보다 직장인들 사이에서는 고연봉 직장으로 소문난 이곳, 빗썸코리아는 어떤 회사일까요? 구성원들의 목소리로 알아봤어요.  빗썸코리아는 2014년 1월,]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMTk4/MDAxNjUyODM2Nzc5Nzk2.xHWaddQERnHq4wtLwJYV1W6trytaZP_ceFQowp2wkocg.3tvJ-LlRyTXl24WUIpBiuF-S01JGM7tcDBXdXag6Hc0g.JPEG/%EB%B9%97%EC%8D%B8%EC%BD%94%EB%A6%AC%EC%95%84-%EC%8D%B8%EB%84%AC.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[Story] 아침? 저녁? 운동은 언제 하는 게 좋을까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220519101415381Bg</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220519101415381Bg</guid>
+            <pubDate>Wed, 25 May 2022 15:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[달리기는 어떤 시간에 하는 것이 가장 좋을까요?     취미로 러닝을 하는 우리가 러닝을 할 수 있는 시간은 사실 제한적입니다. 출근 전, 아니면 퇴근 후이죠. 다시 말해 아침과 저녁입니다. 둘 모두 장단점이 있을 것입니다.  다만 여기서 단점이라고 해서 특정 시간대의 운동이 몸을 해치는 것은 아니예요. 운동을 하는 것 자체가 내 삶에 어마어마한 장점이죠. 하지만 시간대별로]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTlfMjQx/MDAxNjUyOTIyODIxNTk4.3fYPZUQGXdBR6jwOi6hSOM5ujIvzfy3Ssrun-KFM86Eg.XFVETU-IpYQy21UbBBZz5xsPCLMxSRuXk_MEU-3o8Mog.JPEG/running-4782722_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[워런 버핏, 파라마운트 담았다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220518081351510rQ</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220518081351510rQ</guid>
-            <pubDate>Tue, 24 May 2022 15:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[무슨 일이지?  17일(현지시간) 파라마운트 글로벌(이하 파라마운트)의 종가 기준 주가는 32.32달러를 기록했습니다. 전일 대비 무려 15.35%나 주가가 급등했습니다. 파라마운트는 앞서 5월 3일 1분기 실적을 발표했었는데요. 시장의 기대를 밑도는 분기 실적 탓에 이후 주가는 하락세를 보였습니다.  이날 반전은 워런 버핏이 파라마운트의 주식을 매수했다는 소식이 전해지면서 벌어]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMjk1/MDAxNjUyODI5MTY1NjI0.-g8NlbZOTCLvOv8rCJnfDuSkEHL18m_LwUaqiZQNiakg.r2uSSQpiN1YZIZtashTaDLR578dFJglrXnYyVFCXnfgg.JPEG/20220518_%ED%8C%8C%EB%9D%BC%EB%A7%88%EC%9A%B4%ED%8A%B8.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배당주 실험] 공수 누비는 골키퍼 김병지 선수 같은 마지막 종목! 천연가스는 상승 랠리중? - 코테라에너지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220518125105120XW</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220518125105120XW</guid>
-            <pubDate>Wed, 25 May 2022 14:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[배당공격수, 미드필더, 골키퍼 등 투자 성향에 맞는 배당주를~ 매월 어떤 배당주를 사야할지 고민했다면? 지금 영상을 주목하세요! 미식가가 선정한 5월 배당매력주 ● 배당 골키퍼 : 코테라에너지 (CTRA) 배당주 골키퍼의 특징 보수적인 투자자나 매월 안정적인 현금 수입이 필요한 은퇴자에게 적합 배당률 3% ~ 8% 주가 변동성이 낮아 투자자가 편안하게 장기 투자가 가능하도록 함]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMTM4/MDAxNjUyODQ0MjY1MjY5.yYGCFz3Xqot1UPOj-LkHGbKWDGy_ksdPxYWKcSUBYfEg.Ml-lsw9q6SkaGEt801unEtcxVHKA3932ifJ87ECZYqEg.JPEG/american-public-power-association-bv2pvCGMtzg-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[EXCL.] 동진쎄미켐, 노스볼트 공급용 유럽공장 완공.."연 매출 최대 7000억" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/infostockdaily/isd/contents/220519134224734rs</link>
+            <guid>https://contents.premium.naver.com/infostockdaily/isd/contents/220519134224734rs</guid>
+            <pubDate>Wed, 25 May 2022 15:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[동진쎄미켐이 최근 스웨덴 탄소나노튜브 슬러리 공장을 완공하고, 노스볼트(Northvolt)에 CNT 도전재와 독자 개발한 음극재를 본격적으로 공급한다. 19일 인포스탁데일리 취재를 종합해보면 동진쎄미켐의 스웨덴 자회사 동진스웨덴AB(Dongjin Sweden AB)가 최근 이차전지 소재 공급용 공장을 완공했다. 이 공장은 스웨덴 북동쪽 베스테르보텐주 셸레프테오(Skellefteå)에 있으며, 유럽 최대]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTlfMTcw/MDAxNjUyOTM1MjMyNTQ3.Hzdzju8ZMNpiVFv08AHEB6zy8VU989elGRoJOx1zQAgg.ZAGQE5OcTdJ9BA6mRruBYK4WLKl0MXct1nmenRhwwecg.PNG/%EC%9D%B4%EB%B6%80%EC%84%AD_%ED%9A%8C%EC%9E%A5.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
