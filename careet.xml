@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 23:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 02:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 초등학생은 학교에서 OOO 배운다? 알파세대 최신 유행어는?]]></title>
+            <link>https://www.careet.net/759</link>
+            <guid>https://www.careet.net/759</guid>
+            <pubDate>Wed, 25 May 2022 02:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[용어부터 낯선 알파세대 문화를 밀레니얼 시각에서 쉽게 해석해드립니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/5f30ff43-f72d-422a-9d59-371eb71f6663_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ESG, 친환경(E)만 신경쓰세요? 이젠 사회적 책임(S)에도 주목해야 합니다!]]></title>
             <link>https://www.careet.net/757</link>

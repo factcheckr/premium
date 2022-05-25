@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-05-24T23:26:45.721Z</updated>
+    <updated>2022-05-25T02:04:52.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시몬스 그로서리 스토어에 '화살표'가 없는 이유]]></title>
+        <id>https://www.folin.co/story/2178</id>
+        <link href="https://www.folin.co/story/2178"/>
+        <updated>2022-05-25T02:04:33.292Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가방, 란제리 디자이너는 왜 '가드너'가 됐을까]]></title>
         <id>https://www.folin.co/story/2201</id>
@@ -284,13 +292,5 @@
         <updated>2022-04-17T22:23:20.573Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNS 100만번 언급된 '더현대 서울' 무엇이 달랐나]]></title>
-        <id>https://www.folin.co/story/2161</id>
-        <link href="https://www.folin.co/story/2161"/>
-        <updated>2022-04-14T22:25:27.399Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>공간</li>]]></content>
     </entry>
 </feed>
