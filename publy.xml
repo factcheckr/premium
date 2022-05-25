@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-05-25T07:24:08.769Z</updated>
+    <updated>2022-05-25T08:32:01.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[팀워크는 친해지는 것만으로 해결되지 않는다 (feat. 팀장의 빌드업 노하우)]]></title>
+        <id>https://publy.co/content/6812?fr=category</id>
+        <link href="https://publy.co/content/6812?fr=category"/>
+        <updated>2022-05-25T08:31:14.662Z</updated>
+        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MZ 세대가 선택한 성수 모나미 스토어, 팬을 만드는 오프라인 공간]]></title>
         <id>https://publy.co/content/6823?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6796?fr=category"/>
         <updated>2022-05-24T02:04:52.800Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 서비스들의 추천 UX, 정리해드림]]></title>
-        <id>https://publy.co/content/6807?fr=category</id>
-        <link href="https://publy.co/content/6807?fr=category"/>
-        <updated>2022-05-24T02:04:52.800Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
 </feed>
