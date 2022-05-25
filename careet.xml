@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 06:32:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 OO%는 해외여행 계획 중? 엔데믹 시대, 달라진 여름휴가 트렌드]]></title>
+            <link>https://www.careet.net/761</link>
+            <guid>https://www.careet.net/761</guid>
+            <pubDate>Wed, 25 May 2022 06:30:57 GMT</pubDate>
+            <content:encoded><![CDATA[#교환학생 #다도 #테캉스가 트렌드라고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/274fab8b-2d26-46fb-a436-cb05b3672099_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 초등학생은 학교에서 OOO 배운다? 알파세대 최신 유행어는?]]></title>
             <link>https://www.careet.net/759</link>
