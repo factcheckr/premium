@@ -4,16 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 14:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 15:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[노스페이스 : 19년 연속 한국 아웃도어 1위의 비결, 장부로 파헤치다]]></title>
-            <link>https://www.longblack.co/note/298</link>
-            <guid>https://www.longblack.co/note/298</guid>
-            <pubDate>Wed, 25 May 2022 15:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;나 요즘 주말에 등산 다녀. 아니, 등산은 부모님 취미 아니냐고? 그렇게 물어보면 뭘 모르는 말씀! 요즘 등산이 얼마나 뜨거운 트렌드인데! 산 정상에서 찍은 사진<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220525/1653440858eba1226a2d468c3720782a4900bf93fd.png" length="0" type="image/png"/>
+            <title><![CDATA[왈츠 : 도쿄의 작은 카세트 테이프 가게, 구찌가 인정한 트렌드 세터가 되다]]></title>
+            <link>https://www.longblack.co/note/306</link>
+            <guid>https://www.longblack.co/note/306</guid>
+            <pubDate>Thu, 26 May 2022 15:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;요즘 성수동에 가보셨나요? 거리 전체가 하나의 팝업스토어 같아요. 명품 브랜드 디올Dior&nbsp;콘셉트스토어부터 가나초콜릿 하우스, 무신사가 연 패션브랜드 예일YALE<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220523/1653301648e209e883a4675d0fb2e8ec9b1335244e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
