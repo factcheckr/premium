@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 22:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 23:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -542,6 +542,14 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220523/1653301648e209e883a4675d0fb2e8ec9b1335244e.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[mtl, 디자이너가 F&B 브랜드를 확장하는 방법 (폴인)]]></title>
+            <link>https://www.folin.co/story/2206</link>
+            <guid>https://www.folin.co/story/2206</guid>
+            <pubDate>Thu, 26 May 2022 23:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[시몬스 디자인 스튜디오가 일하는 법 (폴인)]]></title>
             <link>https://www.folin.co/story/2202</link>
             <guid>https://www.folin.co/story/2202</guid>
@@ -822,14 +830,6 @@
                                 <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[출시 두 달만에 천만 병 판매한 진로, 리브랜딩 비결은 (폴인)]]></title>
-            <link>https://www.folin.co/story/2145</link>
-            <guid>https://www.folin.co/story/2145</guid>
-            <pubDate>Tue, 19 Apr 2022 03:56:31 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스냅발 쇼크로 기술주의 주가가 요동친다. 잠시의 흔들림인가 빅테크 신화 붕괴의 전조인가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/51078</link>
             <guid>https://www.bookjournalism.com/books/51078</guid>
@@ -914,14 +914,6 @@
             <content:encoded><![CDATA[사라지는 중립국들]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[퇴직 예정자의 궁금증 10가지 -  연금수령과 세금, 건보료도 골칫거리 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/geumgo/geumgo1/contents/220119095925130Qg</link>
-            <guid>https://contents.premium.naver.com/geumgo/geumgo1/contents/220119095925130Qg</guid>
-            <pubDate>Thu, 26 May 2022 15:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[퇴직 예정자는 생각이 많아진다. 인생의 새로운 출발선이 다가오기 때문이다. 일, 건강, 관계, 재무 면에서 큰 문제는 없는지 돌아보고 내다본다. 특히 재무적으로 괜찮은 건지, 어떤 선택을 하는 것이 나을지 고민이 깊다. 각종 연금 관련 이슈부터 세금, 건강보험료, 대출과 보험 등 퇴직 예정자가 기본적으로 꼭 알아두어야 할 내용을 10가지로 정리해본다. 1. 국민연금은 언제부]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTlfMjc2/MDAxNjQyNTUzMjY5NTcw.DdLkI0ZtUbHYUNqeod4NJ9isuDnT-BxvHx3cwrquB-8g.Mg5AbB3AC24orwS8SPH5PHx5zBZ-F7CpAi5XvQ9OiOUg.PNG/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[이어령 선생님, 한국인은 어디로 가야 할까요-<축소지향의 일본인>, <흙 속에 저 바람 속에> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/moku/mokumoku/contents/220308213104713YU</link>
             <guid>https://contents.premium.naver.com/moku/mokumoku/contents/220308213104713YU</guid>
@@ -930,12 +922,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfOTUg/MDAxNjQ2NzQyMzkzMjU3.w-cjR0DGKVYzJgIciFGAu1jKT6OMP6IiCF5LOKvTLREg.m6l04rX8ZdLEKoVVKsQI6-cvoVAUCe69Q6dCUfUDI4og.JPEG/6456747.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기업이익 배당받는 주식…이자만 챙기는 채권 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220324154741814Ux</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220324154741814Ux</guid>
+            <title><![CDATA[퇴직 예정자의 궁금증 10가지 -  연금수령과 세금, 건보료도 골칫거리 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/geumgo/geumgo1/contents/220119095925130Qg</link>
+            <guid>https://contents.premium.naver.com/geumgo/geumgo1/contents/220119095925130Qg</guid>
             <pubDate>Thu, 26 May 2022 15:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[자동차 정비회사를 만들려는 허 모 사장은 회사 설립 자금을 마련하느라 고민이 많습니다. 자본금이 최소한 10억원은 필요한데 허 사장은 3억원이 전부입니다. 부족한 7억원을 어떻게 마련할 수 있을까요? 우선 은행이나 주변 지인들에게 돈을 빌릴 수 있습니다. 언제까지 갚겠다는 약속을 하고 매달 일정 금액의 이자를 꼬박꼬박 지급해야 합니다. 다른 방법으로 투자자를 모집]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjRfMTQy/MDAxNjQ4MTA3NDY1ODQz.9R1Pyz5gdo4BJj_CocR92U4-czCPGhhbSd15fU0Fhrwg.CWriJ5BqFa5MeIJ34b74yDrrYZPR9hBVJvae4CVN2_Yg.JPEG/GettyImages-488690711.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[퇴직 예정자는 생각이 많아진다. 인생의 새로운 출발선이 다가오기 때문이다. 일, 건강, 관계, 재무 면에서 큰 문제는 없는지 돌아보고 내다본다. 특히 재무적으로 괜찮은 건지, 어떤 선택을 하는 것이 나을지 고민이 깊다. 각종 연금 관련 이슈부터 세금, 건강보험료, 대출과 보험 등 퇴직 예정자가 기본적으로 꼭 알아두어야 할 내용을 10가지로 정리해본다. 1. 국민연금은 언제부]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTlfMjc2/MDAxNjQyNTUzMjY5NTcw.DdLkI0ZtUbHYUNqeod4NJ9isuDnT-BxvHx3cwrquB-8g.Mg5AbB3AC24orwS8SPH5PHx5zBZ-F7CpAi5XvQ9OiOUg.PNG/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[3월 11일 : 인디스페이스 & 소피의 세계 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -946,12 +938,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMThfMjI0/MDAxNjQ3NTk5NzM4Mjg0.HfToIw47y-qMbvbWNMf4H8yYaCBNc1GDw645k4jubVMg.UHOt7AAaz3_Tav0Fp8AogmIYJOpPvlFje0MbMhDsPDkg.JPEG/87287cba3d026af0a703b05d2d6726c6ea59e9a7.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올 여름 휴가! 크루즈 여행 어떠세요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220511113643051zx</link>
-            <guid>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220511113643051zx</guid>
+            <title><![CDATA[기업이익 배당받는 주식…이자만 챙기는 채권 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220324154741814Ux</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220324154741814Ux</guid>
             <pubDate>Thu, 26 May 2022 15:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 정은주입니다. 엔데믹이다 하는 이야기와 함께 슬슬 해외여행 다녀온 지인들의 소식이 들려오는 요즘이지요. 그러나 여전히 확진으로 고통받고 치료받는 분들이 많은 시기라는 것도 잊지 않으시면 좋겠네요. 그러다 저는 크루즈 여행을 떠올렸어요. 아직 한 번도 제대로 된 크루즈 여행을 다녀온 일은 없는데요.  영화 &lt;타이태닉&gt;같은 혹은 제가 지금 제목이 정확히]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTFfOSAg/MDAxNjUyMjM2MjI2MTM1.xg51buOKk9WlTeUXkUr8jy4coq8cAYuC0oOCp89mGvYg.CgHeeb9cp-lXlc_lhzVpzdEflxCx0FlvCVtQZxnPlMYg.JPEG/05.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[자동차 정비회사를 만들려는 허 모 사장은 회사 설립 자금을 마련하느라 고민이 많습니다. 자본금이 최소한 10억원은 필요한데 허 사장은 3억원이 전부입니다. 부족한 7억원을 어떻게 마련할 수 있을까요? 우선 은행이나 주변 지인들에게 돈을 빌릴 수 있습니다. 언제까지 갚겠다는 약속을 하고 매달 일정 금액의 이자를 꼬박꼬박 지급해야 합니다. 다른 방법으로 투자자를 모집]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjRfMTQy/MDAxNjQ4MTA3NDY1ODQz.9R1Pyz5gdo4BJj_CocR92U4-czCPGhhbSd15fU0Fhrwg.CWriJ5BqFa5MeIJ34b74yDrrYZPR9hBVJvae4CVN2_Yg.JPEG/GettyImages-488690711.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랩소디 인 블루 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -962,12 +954,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTg5/MDAxNjQ5MjE4NDgxMDYx.tPnEosJwj5JTf6ZIibcHmV1btP3HZHRP1YiHj_1q0X0g.pM6FJ4PRwk2-uUMRaGxWvWzY7HgbbST8FKQvJQOeL5Eg.JPEG/e6cbe18ea75a7baeed8cfd275a66d625.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이영철의 제주여행] 폭풍우 몰아칠 때 웅장한 모습 드러내는 폭포 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jejunews/jj/contents/220517095343366hb</link>
-            <guid>https://contents.premium.naver.com/jejunews/jj/contents/220517095343366hb</guid>
+            <title><![CDATA[올 여름 휴가! 크루즈 여행 어떠세요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220511113643051zx</link>
+            <guid>https://contents.premium.naver.com/bemyclassic/bemyclassics/contents/220511113643051zx</guid>
             <pubDate>Thu, 26 May 2022 15:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[서귀포시 엉또폭포…평상 시엔 늘 말라있는 건천 폭우 내린 뒤 물줄기 쏟아내…‘특이한 폭포’로 소개돼 인기 세계 3대 폭포라면? 남미의 이과수, 북미의 나이아가라, 아프리카의 빅토리아 폭포 정도를 꼽을 수 있겠다. 그러면 대한민국 3대 폭포는? 쉽게 떠오르지가 않을 것이다. 좀처럼 그럴 듯한 폭포 이름을 생각해내기가 쉽지 않다. 우리나라에도 여기저기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTdfMTQ2/MDAxNjUyNzQ4NjU2NTMx.km16nB1qUvKQf4utI29s3EOe3QonSVW0fwQ3u1Jo5Dcg.P6X7gsW1mG5bIBpnDY0yQXjk3EXyk_WSZ2LFndIyrIMg.JPEG/11.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[안녕하세요 정은주입니다. 엔데믹이다 하는 이야기와 함께 슬슬 해외여행 다녀온 지인들의 소식이 들려오는 요즘이지요. 그러나 여전히 확진으로 고통받고 치료받는 분들이 많은 시기라는 것도 잊지 않으시면 좋겠네요. 그러다 저는 크루즈 여행을 떠올렸어요. 아직 한 번도 제대로 된 크루즈 여행을 다녀온 일은 없는데요.  영화 &lt;타이태닉&gt;같은 혹은 제가 지금 제목이 정확히]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTFfOSAg/MDAxNjUyMjM2MjI2MTM1.xg51buOKk9WlTeUXkUr8jy4coq8cAYuC0oOCp89mGvYg.CgHeeb9cp-lXlc_lhzVpzdEflxCx0FlvCVtQZxnPlMYg.JPEG/05.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['임대차 3법' 2년…갱신청구권 때문에 법정 간 집주인과 세입자들 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -978,12 +970,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTJfODIg/MDAxNjUyMzM1NjIyMTgy.t2PMbz5uvHIGkwwN_8h4kvVa_KlOIVmnEaBoEFCpKkMg.GK_WFdgdVhYb1-BMtHKWA36JIvu8HaMyjTC3UIiB4Iwg.JPEG/%EC%9E%84%EB%8C%80%EC%B0%A8.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[14. 좋은 가맹본사가 가지고 있는 4가지 비밀 - 상 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/franchise/franchise1004/contents/220520072614704mu</link>
-            <guid>https://contents.premium.naver.com/franchise/franchise1004/contents/220520072614704mu</guid>
-            <pubDate>Thu, 26 May 2022 22:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[프랜차이즈 사업을 처음 하는 사람도, 다시 새롭게 하려는 자영업자조차도 반복하는 실수가 있다. '프랜차이즈 브랜드' 그 자체에만 집중해서 가맹 계약을 결정하는 것.  소비자들의 입장에서는 그 브랜드의 본사가 어떤 회사인지 알고 싶지도, 알 필요도 없다.  그 공간에서의 경험만 중요할 뿐. 하지만 창업자 입장이라면 더 넓은 각도로 살펴보아야 한다. 여러분의 생각보다 훨]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjBfMTY3/MDAxNjUyOTk4NzQ5MzY3.CFw6g1zNBfm48LS1ojEKX_bBWXdl6mq9MX9xnHAUbgkg.Rb_fRtjqgl5zBR56Pe9ngsYdlY1_qdmW6HgBOWf-ZZQg.PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%BD%98%ED%85%90%EC%B8%A0_%EB%B0%B0%EA%B2%BD_%EC%9D%B4%EB%AF%B8%EC%A7%80_(%EC%A0%95%EC%82%AC%EA%B0%81)_(1).png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[[이영철의 제주여행] 폭풍우 몰아칠 때 웅장한 모습 드러내는 폭포 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/jejunews/jj/contents/220517095343366hb</link>
+            <guid>https://contents.premium.naver.com/jejunews/jj/contents/220517095343366hb</guid>
+            <pubDate>Thu, 26 May 2022 15:29:31 GMT</pubDate>
+            <content:encoded><![CDATA[서귀포시 엉또폭포…평상 시엔 늘 말라있는 건천 폭우 내린 뒤 물줄기 쏟아내…‘특이한 폭포’로 소개돼 인기 세계 3대 폭포라면? 남미의 이과수, 북미의 나이아가라, 아프리카의 빅토리아 폭포 정도를 꼽을 수 있겠다. 그러면 대한민국 3대 폭포는? 쉽게 떠오르지가 않을 것이다. 좀처럼 그럴 듯한 폭포 이름을 생각해내기가 쉽지 않다. 우리나라에도 여기저기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTdfMTQ2/MDAxNjUyNzQ4NjU2NTMx.km16nB1qUvKQf4utI29s3EOe3QonSVW0fwQ3u1Jo5Dcg.P6X7gsW1mG5bIBpnDY0yQXjk3EXyk_WSZ2LFndIyrIMg.JPEG/11.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Q. 신혼집 마련을 위해 셋 중 어떤 전략을 써야 할까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/booding/home/contents/220509223352978Yf</link>
+            <guid>https://contents.premium.naver.com/booding/home/contents/220509223352978Yf</guid>
+            <pubDate>Thu, 26 May 2022 23:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[Q. 신혼집 마련을 위해 셋 중 어떤 전략을 써야 할까요? 1. 가족구성원: 34세 남성, 29세 여성(예비 맞벌이 신혼부부)  2. 현 거주지: 경기도 하남시 미사강변도시 소재 원룸(전세 1억4000만 원)  3. 총자산 / 대출: 3억5000만 원(현금화 가능한 돈) / 1억4000만 원(전세대출 1억2000만 원+신용대출 2000만 원)  4. 월수입: 800만 원(두 사람 합계)  5. 허용 가능한 월 원리금 상환액: 400만 원  6. 현 주]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MjlfMjIx/MDAxNjIyMjc2MzA3ODQy.yvnHGeqkq-RhTNHFJ5RdMBsq7rebRZp93kLUQQqR2PAg.bACHFGcyTNFKTgT4jpfHu6wK5KxoIFM-yVKWIFKCh5og.JPEG/KakaoTalk_20210529_170740114.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
