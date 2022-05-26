@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 06:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 07:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,18 +50,18 @@
             <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팀 효율을 높이는 팀장은 매뉴얼을 '이렇게' 만든다 (퍼블리)]]></title>
-            <link>https://publy.co/content/6795?fr=category</link>
-            <guid>https://publy.co/content/6795?fr=category</guid>
-            <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[사례로 보는 검색과 탐색 UX/UI 비교 분석 (퍼블리)]]></title>
             <link>https://publy.co/content/6760?fr=category</link>
             <guid>https://publy.co/content/6760?fr=category</guid>
             <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[팀 효율을 높이는 팀장은 매뉴얼을 '이렇게' 만든다 (템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/6795?fr=category</link>
+            <guid>https://publy.co/content/6795?fr=category</guid>
+            <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사례로 보는 서비스 별 A/B 테스트: 온보딩 단계 (퍼블리)]]></title>
