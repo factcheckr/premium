@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-05-26T04:40:59.949Z</updated>
+    <updated>2022-05-26T05:27:37.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시몬스 디자인 스튜디오가 일하는 법]]></title>
+        <id>https://www.folin.co/story/2202</id>
+        <link href="https://www.folin.co/story/2202"/>
+        <updated>2022-05-26T05:27:16.000Z</updated>
+        <content type="html"><![CDATA[<li>공간</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시몬스 그로서리 스토어에 '화살표'가 없는 이유]]></title>
         <id>https://www.folin.co/story/2178</id>
@@ -282,14 +290,6 @@
         <id>https://www.folin.co/story/2145</id>
         <link href="https://www.folin.co/story/2145"/>
         <updated>2022-04-19T03:56:31.017Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퓨처플레이는 대기업 사내 벤처를 어떻게 바꾸나]]></title>
-        <id>https://www.folin.co/story/2123</id>
-        <link href="https://www.folin.co/story/2123"/>
-        <updated>2022-04-17T22:23:20.573Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
     </entry>

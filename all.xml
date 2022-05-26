@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 04:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 05:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6796?fr=category</guid>
             <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최신 데이터로 알아보는 MZ세대 가전·전자 제품 위시리스트 (캐릿)]]></title>
+            <link>https://www.careet.net/769</link>
+            <guid>https://www.careet.net/769</guid>
+            <pubDate>Thu, 26 May 2022 05:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[빔프로젝터를 구매하고 싶은 Z세대 비율은 OO%!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/ceeb308e-f7ed-4286-8156-b93ed6f040c5_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[커피 기프티콘 말고 신박한 이벤트 경품 없을까? 여기 있습니다 (캐릿)]]></title>
@@ -534,6 +542,14 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220525/1653440858eba1226a2d468c3720782a4900bf93fd.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[시몬스 디자인 스튜디오가 일하는 법 (폴인)]]></title>
+            <link>https://www.folin.co/story/2202</link>
+            <guid>https://www.folin.co/story/2202</guid>
+            <pubDate>Thu, 26 May 2022 05:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[<li>공간</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[시몬스 그로서리 스토어에 '화살표'가 없는 이유 (폴인)]]></title>
             <link>https://www.folin.co/story/2178</link>
             <guid>https://www.folin.co/story/2178</guid>
@@ -810,14 +826,6 @@
             <link>https://www.folin.co/story/2145</link>
             <guid>https://www.folin.co/story/2145</guid>
             <pubDate>Tue, 19 Apr 2022 03:56:31 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[퓨처플레이는 대기업 사내 벤처를 어떻게 바꾸나 (폴인)]]></title>
-            <link>https://www.folin.co/story/2123</link>
-            <guid>https://www.folin.co/story/2123</guid>
-            <pubDate>Sun, 17 Apr 2022 22:23:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
         </item>

@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 04:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 05:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최신 데이터로 알아보는 MZ세대 가전·전자 제품 위시리스트]]></title>
+            <link>https://www.careet.net/769</link>
+            <guid>https://www.careet.net/769</guid>
+            <pubDate>Thu, 26 May 2022 05:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[빔프로젝터를 구매하고 싶은 Z세대 비율은 OO%!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/ceeb308e-f7ed-4286-8156-b93ed6f040c5_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[커피 기프티콘 말고 신박한 이벤트 경품 없을까? 여기 있습니다]]></title>
             <link>https://www.careet.net/762</link>
