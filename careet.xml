@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 23:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 02:29:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타 가오픈 성지 탄생? 이주의 떡상템4]]></title>
+            <link>https://www.careet.net/768</link>
+            <guid>https://www.careet.net/768</guid>
+            <pubDate>Fri, 27 May 2022 02:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 유행하는 포즈 또 바뀌었다! 루피피스가 뭐야?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/f6ecb42e-af13-4043-b180-7c95d0f2e2bd_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] 78년생 김용명의 Z세대 핫플 에스프레소바 체험기]]></title>
+            <link>https://www.careet.net/767</link>
+            <guid>https://www.careet.net/767</guid>
+            <pubDate>Fri, 27 May 2022 02:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[에스프레소바가 유행이라는데 왠지 직접 가보긴 뻘쭘하시다고요? 영상으로 간접 체험하세요.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/127f563a-9ad3-4d46-b9a1-f01631abf26e_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[최신 데이터로 알아보는 MZ세대 가전·전자 제품 위시리스트]]></title>
             <link>https://www.careet.net/769</link>
