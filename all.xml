@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 05:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 06:31:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -854,12 +854,88 @@
                                 <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이 남자가 악마계약을 하는 이유(1화) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/stargazer/flame/contents/220517214056110sD</link>
-            <guid>https://contents.premium.naver.com/stargazer/flame/contents/220517214056110sD</guid>
-            <pubDate>Fri, 27 May 2022 15:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[1. 운수 좋은 날 또 아침에 지각이었다. 일부러 30분 일찍 자명종을 맞춰놨는데, 그 때문에 잠이 부족한 건지 한 달에 두세 번은 꼭 늦게 일어났다. 영준은 아픈 아내를 깨우지 않기 위해 까치발을 들고 급히 화장실로 들어갔다. 샴푸를 쓸 시간도 없었다. 머리에 비누칠을 하고 그 거품으로 세수까지 했다.   “푸하아아……!”   숨도 안 쉬고 비누거품을 씻어낸 후 거울을 바라봤]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTZfMjk3/MDAxNjUyNzA2NDY3NzIx.kYCmgnHu1cpAZKWFkDeRwIsxssmDFbCwMfGtgXaMAQ0g.YNYoTS0vGG5cNv0HS1vp20B7Zmnv7dBJG7l4y90mJhUg.PNG/%EC%95%85%EB%A7%88%EA%B3%84%EC%95%BD2.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[인류는 새로운 시대에 서 있다. 지구와의 관계를 재설정하는 내러티브가 필요하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50880</link>
+            <guid>https://www.bookjournalism.com/books/50880</guid>
+            <pubDate>Sat, 28 May 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[인류세 시나리오]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #38에선, 스냅발 쇼크로 요동치고 있는 빅테크 주가, 라이카와 샤오미의 콜라보로 짚어보는 클래식 브랜드 전략, 정치적 올바름을 이야기하는 게임 회사, 그리고 조 바이든 미국 대통령의 방한이 남긴 것들에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51091</link>
+            <guid>https://www.bookjournalism.com/audio/51091</guid>
+            <pubDate>Sat, 28 May 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 게임과 빅테크의 버블버블]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스냅발 쇼크로 기술주의 주가가 요동친다. 잠시의 흔들림인가 빅테크 신화 붕괴의 전조인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51078</link>
+            <guid>https://www.bookjournalism.com/books/51078</guid>
+            <pubDate>Sat, 28 May 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[롤러코스터 위의 빅테크]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[샤오미와 라이카가 합작 휴대폰을 출시한다고 밝혔다. 돌아온 디카폰은 스마트폰 업계의 새로운 경쟁력이 될 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51066</link>
+            <guid>https://www.bookjournalism.com/books/51066</guid>
+            <pubDate>Sat, 28 May 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[디카폰의 부활]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유형의 비용을 줄이고 무형의 가치를 추구하는 명품 마케팅이 지속되는 한 짝퉁은 언제까지나 무적의 비즈니스이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51055</link>
+            <guid>https://www.bookjournalism.com/books/51055</guid>
+            <pubDate>Sat, 28 May 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[짝퉁 경제학]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[게임 회사가 정치적 목소리를 낸다. 이들의 선택은 무엇을 향하며 어디에 닿을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51028</link>
+            <guid>https://www.bookjournalism.com/books/51028</guid>
+            <pubDate>Sat, 28 May 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 게임으로 번지 점프]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조 바이든 미국 대통령의 방문이 많은 것을 남겼다. 언론은 손익 계산서를 쏟아내고 있지만, 어차피 어음만 받은 거래에서 중요한 것은 전략이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51014</link>
+            <guid>https://www.bookjournalism.com/books/51014</guid>
+            <pubDate>Sat, 28 May 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[깐부라고? 우리 다 죽어!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5월 넷째 주 - 그들만의 리그에 속한 자만이 위대한 유산을 상속할 수 있습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50967</link>
+            <guid>https://www.bookjournalism.com/books/50967</guid>
+            <pubDate>Sat, 28 May 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[위대한 유산]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #37에선, 마스크를 쓰고 지낸 2년 동안 완전히 달라진 뷰티 업계, 인류의 보조자를 넘어 절친이 되고자 하는 AI 기반 대화형 챗봇, 그리고 핀란드와 스웨덴의 나토가입을 통해 분석해 보는 우리 외교의 슬기로운 전략을 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50956</link>
+            <guid>https://www.bookjournalism.com/audio/50956</guid>
+            <pubDate>Sat, 28 May 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[달라졌다, 화장도 관계도 외교도]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전기 자전거 플랫폼 일레클이 서비스 범위를 전국으로 확장하겠다고 밝혔다. 한국형 PM 시장은 어디까지 확장할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50945</link>
+            <guid>https://www.bookjournalism.com/books/50945</guid>
+            <pubDate>Sat, 28 May 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[제3의 이동 세계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[리오프닝 수혜주인 줄 알았던 뷰티 업계가 심상치 않다. 마스크를 쓰고 지낸 2년 동안 모든 것이 변했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50894</link>
+            <guid>https://www.bookjournalism.com/books/50894</guid>
+            <pubDate>Sat, 28 May 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[어느새 '후'는 안멋져]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아의 우크라이나 침공으로 나토의 존재감이 급부상하고 있다. NATO의 실체는 무엇인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50863</link>
+            <guid>https://www.bookjournalism.com/books/50863</guid>
+            <pubDate>Sat, 28 May 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[NATO, 주인공이 되다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -870,12 +946,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이 남자가 악마계약을 하는 이유(3화) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/stargazer/flame/contents/220519181504304lo</link>
-            <guid>https://contents.premium.naver.com/stargazer/flame/contents/220519181504304lo</guid>
+            <title><![CDATA[이 남자가 악마계약을 하는 이유(1화) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/stargazer/flame/contents/220517214056110sD</link>
+            <guid>https://contents.premium.naver.com/stargazer/flame/contents/220517214056110sD</guid>
             <pubDate>Fri, 27 May 2022 15:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[이윽고 레인지로버 차량이 성북동 저택 안으로 들어갔다. 마 회장은 나날이 증세가 악화되면서 하루의 대부분을 진통제에 취해 누워 지냈다. P&amp;D그룹에서는 마 회장의 죽음을 기정사실화하고 상속을 준비하는 분위기였다. 마 회장은 유언장을 남기지도 않았다. 악마계약을 한 데다 친자식도 없는 위인이 사회에 기부를 할 일도 없었고, 유언 같은 인간적인 행위에 관심도 없었던]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTlfNzgg/MDAxNjUyOTUxNTE0Mjg5.7a3c-xBbjysuXm8v8Xb4WEvouswP2S9I9ydErmZqrKkg.0GlLXe8WNg4PWTLZSbjxmjOcXli71lPGHGJdP2naNiAg.PNG/%EC%95%85%EB%A7%88%EA%B3%84%EC%95%BD2.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[1. 운수 좋은 날 또 아침에 지각이었다. 일부러 30분 일찍 자명종을 맞춰놨는데, 그 때문에 잠이 부족한 건지 한 달에 두세 번은 꼭 늦게 일어났다. 영준은 아픈 아내를 깨우지 않기 위해 까치발을 들고 급히 화장실로 들어갔다. 샴푸를 쓸 시간도 없었다. 머리에 비누칠을 하고 그 거품으로 세수까지 했다.   “푸하아아……!”   숨도 안 쉬고 비누거품을 씻어낸 후 거울을 바라봤]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTZfMjk3/MDAxNjUyNzA2NDY3NzIx.kYCmgnHu1cpAZKWFkDeRwIsxssmDFbCwMfGtgXaMAQ0g.YNYoTS0vGG5cNv0HS1vp20B7Zmnv7dBJG7l4y90mJhUg.PNG/%EC%95%85%EB%A7%88%EA%B3%84%EC%95%BD2.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이 남자가 악마계약을 하는 이유(2화) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -886,12 +962,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTlfMTU3/MDAxNjUyOTQyMjIyMDE0.lczzBtNc6S0NI2z81GZ8J2RTF0WGQnYHx4yzCdc1fcsg.zmBuKezxteY-iW9vBkt3vKIGypQ8yuOwzkV3dyh6w-4g.PNG/%EC%95%85%EB%A7%88%EA%B3%84%EC%95%BD2.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[맨즈 플레인의 원형, 졸업 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/writerinseoul/readingtheworld/contents/220521151634145dd</link>
-            <guid>https://contents.premium.naver.com/writerinseoul/readingtheworld/contents/220521151634145dd</guid>
+            <title><![CDATA[이 남자가 악마계약을 하는 이유(3화) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/stargazer/flame/contents/220519181504304lo</link>
+            <guid>https://contents.premium.naver.com/stargazer/flame/contents/220519181504304lo</guid>
             <pubDate>Fri, 27 May 2022 15:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;졸업&gt;은 1967년 작품이다. 유럽에서는 모더니즘 시네마, 미국에서는 아메리칸 뉴시네마가 만들어졌던 시대였다. 영화사에서 &lt;졸업&gt;은 커다란 위치를 차지한다. 그 이유는 금수저 엄친아인 벤자민(더스틴 호프만)의 일탈을 다루었기 때문이다. 벤자민은 명문대를 우수한 성적으로 졸업한 후에 공황 상태에 빠진다. 장차 무엇을 할지 몰라 하루하루 공허하게 표류하는 젊은이다. 그]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjFfMTE5/MDAxNjUzMTEzNjA0NzQx.eBRN4ZOGJq-_KSGGXzeyL9kSpsmbFkzJ2Rqo2znQ0Tsg.l8A0PFWEYkH3wIVc9cHOqXad_ptL-oNzMJJjGNXGb1wg.JPEG/common_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[이윽고 레인지로버 차량이 성북동 저택 안으로 들어갔다. 마 회장은 나날이 증세가 악화되면서 하루의 대부분을 진통제에 취해 누워 지냈다. P&amp;D그룹에서는 마 회장의 죽음을 기정사실화하고 상속을 준비하는 분위기였다. 마 회장은 유언장을 남기지도 않았다. 악마계약을 한 데다 친자식도 없는 위인이 사회에 기부를 할 일도 없었고, 유언 같은 인간적인 행위에 관심도 없었던]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTlfNzgg/MDAxNjUyOTUxNTE0Mjg5.7a3c-xBbjysuXm8v8Xb4WEvouswP2S9I9ydErmZqrKkg.0GlLXe8WNg4PWTLZSbjxmjOcXli71lPGHGJdP2naNiAg.PNG/%EC%95%85%EB%A7%88%EA%B3%84%EC%95%BD2.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이 남자가 악마계약을 하는 이유(4화) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -902,12 +978,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjFfMTgw/MDAxNjUzMTAxODA1Mjc1.BG6wysDKue4cCDqlM2c2vaLa_vgABlUBXZhMDwxc8Icg.e8Ym7rAR6p4pKXSC4XEMpYkD3wBBihJECmcCPNEJRjcg.PNG/%EC%95%85%EB%A7%88%EA%B3%84%EC%95%BD2.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이 남자가 악마계약을 하는 이유(5화) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/stargazer/flame/contents/220522190531961gs</link>
-            <guid>https://contents.premium.naver.com/stargazer/flame/contents/220522190531961gs</guid>
+            <title><![CDATA[맨즈 플레인의 원형, 졸업 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/writerinseoul/readingtheworld/contents/220521151634145dd</link>
+            <guid>https://contents.premium.naver.com/writerinseoul/readingtheworld/contents/220521151634145dd</guid>
             <pubDate>Fri, 27 May 2022 15:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[인화아파트 606호! 오전 10시경. 문이 덜컥 열리고 수연이 들어왔다. 찬바람이 일 만큼 드센 걸음걸이로 뚜벅뚜벅 들어서다 고개를 홱 돌려 뒤를 바라보았다. 뒤에서는 침구사집 며느리 오사카댁이 고개를 빼고 집안을 둘러보고 있었다. 조심스런 눈초리였다. 수연이 빨리 들어오라는 눈짓을 보냈다. 오사카댁은 옆구리에 낀 침통상자를 한 번 추스르며 신발을 벗고 마루에 올랐다]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjJfMjMx/MDAxNjUzMjEzODMyNDE4.jnrhtaJNvOR8TAuXVe0uKPjuhwu1ExN2_XiJo5Zl7mIg.Y6DCdo3UmVLad0cgmqWc5J4LAlkVthiT-QhVjpdAPhMg.PNG/%EC%95%85%EB%A7%88%EA%B3%84%EC%95%BD2.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[&lt;졸업&gt;은 1967년 작품이다. 유럽에서는 모더니즘 시네마, 미국에서는 아메리칸 뉴시네마가 만들어졌던 시대였다. 영화사에서 &lt;졸업&gt;은 커다란 위치를 차지한다. 그 이유는 금수저 엄친아인 벤자민(더스틴 호프만)의 일탈을 다루었기 때문이다. 벤자민은 명문대를 우수한 성적으로 졸업한 후에 공황 상태에 빠진다. 장차 무엇을 할지 몰라 하루하루 공허하게 표류하는 젊은이다. 그]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjFfMTE5/MDAxNjUzMTEzNjA0NzQx.eBRN4ZOGJq-_KSGGXzeyL9kSpsmbFkzJ2Rqo2znQ0Tsg.l8A0PFWEYkH3wIVc9cHOqXad_ptL-oNzMJJjGNXGb1wg.JPEG/common_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사람들에게 영향을 주고 싶다면 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -918,12 +994,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjFfMjYy/MDAxNjUzMTEzNzU4MTYz.b-AU-ro4gUAgMhk1viAMlecBJ7rBjP5_FlgYz1-Ogscg.EaWzKejxCLH0fS6YcEzJ2JInQJvQDBa1oOg3iRebLZgg.PNG/6%ED%99%94_001.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이 남자가 악마계약을 하는 이유(6화) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/stargazer/flame/contents/220525084808731pq</link>
-            <guid>https://contents.premium.naver.com/stargazer/flame/contents/220525084808731pq</guid>
-            <pubDate>Sat, 28 May 2022 05:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[다음 날도 영준은 악몽에 시달리다 눈을 떴다. 끝도 없이 추락하는 그 느낌은 가위에 눌린 상태로 심장이 멎을 것만 같은 고통이었다.   - 계약을 완성하라!   이번에도 그 소리가 꿈속에서 송곳으로 골을 찌르듯이 파고들었다.   ‘몸이 허해서 그래!’   최근에 자신과 연관된 계약이라면 최 부장 대신 감옥에 들어가는 것밖에 없었다. 착수금 1억! 3년 수감 생활 후 잔금 2억!   그]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjVfMTgg/MDAxNjUzNDM1OTY4Mjcy.9RvmrIjg0opBDB5gtnUvesWufnz2iSvi36JSjfEKZpog.BuBed6hyQm1pLfqzmdEfkdhfTElbNksPg1fotjAew3Ig.PNG/%EC%95%85%EB%A7%88%EA%B3%84%EC%95%BD2.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[이 남자가 악마계약을 하는 이유(5화) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/stargazer/flame/contents/220522190531961gs</link>
+            <guid>https://contents.premium.naver.com/stargazer/flame/contents/220522190531961gs</guid>
+            <pubDate>Fri, 27 May 2022 15:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[인화아파트 606호! 오전 10시경. 문이 덜컥 열리고 수연이 들어왔다. 찬바람이 일 만큼 드센 걸음걸이로 뚜벅뚜벅 들어서다 고개를 홱 돌려 뒤를 바라보았다. 뒤에서는 침구사집 며느리 오사카댁이 고개를 빼고 집안을 둘러보고 있었다. 조심스런 눈초리였다. 수연이 빨리 들어오라는 눈짓을 보냈다. 오사카댁은 옆구리에 낀 침통상자를 한 번 추스르며 신발을 벗고 마루에 올랐다]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjJfMjMx/MDAxNjUzMjEzODMyNDE4.jnrhtaJNvOR8TAuXVe0uKPjuhwu1ExN2_XiJo5Zl7mIg.Y6DCdo3UmVLad0cgmqWc5J4LAlkVthiT-QhVjpdAPhMg.PNG/%EC%95%85%EB%A7%88%EA%B3%84%EC%95%BD2.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이 남자가 악마계약을 하는 이유(7화) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/stargazer/flame/contents/220525085327655mn</link>
+            <guid>https://contents.premium.naver.com/stargazer/flame/contents/220525085327655mn</guid>
+            <pubDate>Sat, 28 May 2022 06:31:41 GMT</pubDate>
+            <content:encoded><![CDATA[집에 돌아온 영준은 환청에 시달리느라 아침과 점심을 모두 거르고 녹초가 되어 있었다. 그 와중에도 인터넷으로 수두 바이러스에 관한 정보를 검색했다. 6개월 시한부 선고를 받은 아내의 여생이 얼마나 줄어드는지를 알아내기 위해서였다. 그러나 극심한 불안증세 때문에 자신도 모르는 새 잠에 빠지고 말았다. 다시 눈을 떴을 땐 캄캄한 밤이었다. 무심코 모니터에서 뉴스 화]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjVfMjQ3/MDAxNjUzNDM2MjY5NDc1.3-4tYlwM9mvnIJiCgmTMuX3axkjQTcvjaQiBYSQw7eEg.q2DEyZ46NFrNhYuBeRhrUDPMdpknE_f2Rachen6b3Rsg.PNG/%EC%95%85%EB%A7%88%EA%B3%84%EC%95%BD2.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
