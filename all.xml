@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 15:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 16:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -938,14 +938,6 @@
             <content:encoded><![CDATA[NATO, 주인공이 되다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Fri, 27 May 2022 18:33:14 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[희미해지는 '세계화'…미국과 천연가스 관련주 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/bucksnews/dreamerstock/contents/220328183157788nt</link>
             <guid>https://contents.premium.naver.com/bucksnews/dreamerstock/contents/220328183157788nt</guid>
@@ -954,12 +946,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjhfMjA1/MDAxNjQ4NDU4MDE0NTIw.-oBI9S6a68SBYwFzKIYdJnBlWnyFoqFLPFpTVDX88JEg.fXrZhu3DU3xN6c1YRjtI0FBdjxKdZUiGIHfS7FYelK4g.PNG/ESCP%EA%B2%BD%EC%98%81%EB%8C%80%ED%95%99%EC%9B%90%EC%84%B8%EA%B3%84%ED%99%94.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[중국, 가상세계 메타버스 기술 군사분야 응용 연구 개시 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220517091234880SI</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220517091234880SI</guid>
-            <pubDate>Sun, 29 May 2022 15:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[메타버스 기술과 응용은 아직 초기 단계에 있지만, 중국은 이미 국가안보에 미치는 영향이나 전쟁에 활용하는 방안에 관한 연구에 돌입했다. 민간기업의 관련 투자도 지난해 말 급증했다. 미국 공군 중국항공우주연구소(CASI) 분석가 조시 바우먼에 따르면, 작년 11월 이후 중국 공산당 산하 인민해방군 기관지 &lt;해방군보&gt;는 메타버스에 관한 기사를 3편 이상 게재했다. 이들 기사]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTdfMjMy/MDAxNjUyNzQ2MTY0Nzkz.40HIba4r8Bg2J0tJ399WkMoGbnDXA0pS5ma2Qqu5lPEg.K0BfMwpgarILga0O1Exq74mKLIbWBF9Ay6T7Ea1KHw0g.JPEG/GettyImages-1238364167-600x360.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Fri, 27 May 2022 18:33:14 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오늘의 휴식을 내일로 미루지 말자 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -970,12 +962,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTVfMjQ0/MDAxNjUwMDA1Njg1ODky.PqZLSJQ8WA3cZKpFAMe4QGZqumU4T715nXn8gn4jh5og.2ElpKXkWyrUiMHfXTHCIyoUobhDgfDPzKlbxdvCjNRkg.JPEG/%ED%9C%B4%EC%8B%9D2_%EC%A0%95%EA%B2%BD%EC%88%98%EC%9D%98%EB%8D%94%EB%8D%94%EB%8D%94.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[차이나 머니, 중국이 건넨 독사과-<슈퍼차이나>, <나는 세계일주로 자본주의를 만났다> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/moku/mokumoku/contents/220501133546283FL</link>
-            <guid>https://contents.premium.naver.com/moku/mokumoku/contents/220501133546283FL</guid>
+            <title><![CDATA[중국, 가상세계 메타버스 기술 군사분야 응용 연구 개시 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220517091234880SI</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220517091234880SI</guid>
             <pubDate>Sun, 29 May 2022 15:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[“중국이 공짜로 지어줬어요. 중국은 우리의 친구니까요. 우호의 상징이죠” 아직도 이 말을 믿고 있나? 중국이 정말 단순한 호의로, 약소국의 처지를 공감해서 공짜로 극장과 체육관을 지어주고, 항구와 철도 같은 인프라 개발을 지원했다고 생각하나? 아직도 중국을 친구로 생각하고 있다면 고개를 들어 다른 나라들의 처지를 보라.    스리랑카는 지난 10년간 중국에서 50억 달]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDFfNzkg/MDAxNjUxMzc5NDk4MDQw.dFd9wCzGxTBlCoTXTQI6qdGwVCVlsr7mmqeoL6KAZFUg.B4QHROyVMrAOABdtzQtmZjq4oicgeZC5RFyJ_Zr2g8Ig.JPEG/49015926.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[메타버스 기술과 응용은 아직 초기 단계에 있지만, 중국은 이미 국가안보에 미치는 영향이나 전쟁에 활용하는 방안에 관한 연구에 돌입했다. 민간기업의 관련 투자도 지난해 말 급증했다. 미국 공군 중국항공우주연구소(CASI) 분석가 조시 바우먼에 따르면, 작년 11월 이후 중국 공산당 산하 인민해방군 기관지 &lt;해방군보&gt;는 메타버스에 관한 기사를 3편 이상 게재했다. 이들 기사]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTdfMjMy/MDAxNjUyNzQ2MTY0Nzkz.40HIba4r8Bg2J0tJ399WkMoGbnDXA0pS5ma2Qqu5lPEg.K0BfMwpgarILga0O1Exq74mKLIbWBF9Ay6T7Ea1KHw0g.JPEG/GettyImages-1238364167-600x360.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[벚꽃 구경 제대로 못하고 끝났네 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -985,12 +977,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjNfMjQ4/MDAxNjUwNzE5NzI2NDkw.Nxay_mWcQEQXoGZw_eeZcwR7aQcVHaQ-nr5gcgQFHt4g.mWN6F3jv8lkC0mnEtA8eP1a80FJynfwddWNBsNTs1Gwg.JPEG/220423_%EB%B2%9A%EA%BD%83%EC%9D%B4%EC%88%9C%EC%8B%9D%EA%B0%84_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[5월의 제주 포토뉴스 모아보기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jejunews/jj/contents/220522114728796yp</link>
-            <guid>https://contents.premium.naver.com/jejunews/jj/contents/220522114728796yp</guid>
+            <title><![CDATA[차이나 머니, 중국이 건넨 독사과-<슈퍼차이나>, <나는 세계일주로 자본주의를 만났다> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/moku/mokumoku/contents/220501133546283FL</link>
+            <guid>https://contents.premium.naver.com/moku/mokumoku/contents/220501133546283FL</guid>
             <pubDate>Sun, 29 May 2022 15:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[3년 만에 야간 관람객 맞는 제주목 관아 초여름 날씨에 물놀이하는 아이들 그림 같은 무지개로 산책 손에 잡힐 듯 선명한 여서도 바다수영을 즐기는 사람들 여유로운 녹차밭 산책 싱싱한 해산물 드세요 자전거로 즐기는 수학여행 카이트 서핑을 즐기며 서퍼들 높은 파도와 추억 쌓기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjJfMjI4/MDAxNjUzMTg2ODE0Mzg1.UPnbIN_2XzXjyLcUyvYFlvSJtPMH3gv5R8K_Q1NWZ4Ug.afrVBc9YWuIUFqIR6ob6rhdM5UQxNR0ogiSdR3Sjc2Qg.PNG/11.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[“중국이 공짜로 지어줬어요. 중국은 우리의 친구니까요. 우호의 상징이죠” 아직도 이 말을 믿고 있나? 중국이 정말 단순한 호의로, 약소국의 처지를 공감해서 공짜로 극장과 체육관을 지어주고, 항구와 철도 같은 인프라 개발을 지원했다고 생각하나? 아직도 중국을 친구로 생각하고 있다면 고개를 들어 다른 나라들의 처지를 보라.    스리랑카는 지난 10년간 중국에서 50억 달]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDFfNzkg/MDAxNjUxMzc5NDk4MDQw.dFd9wCzGxTBlCoTXTQI6qdGwVCVlsr7mmqeoL6KAZFUg.B4QHROyVMrAOABdtzQtmZjq4oicgeZC5RFyJ_Zr2g8Ig.JPEG/49015926.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국제 학술단체, 논문 300여편 한꺼번에 철회...전원 중국인 저자 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -1001,12 +993,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTdfMzcg/MDAxNjUyNzQ2ODQ3OTA4.T4ccrg_myU7Gx1SsiUAfxP1Wh1FyZkrczTEm9lLD3eEg.XvHrYDZ01JmlKVciBq-tHGKh88hNalgGYhrgQnd_mGkg.JPEG/id13734986-000_9UB6PT-600x400.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[페허에서부터 다시 피어나는 부활의 불꽃 ─ 영화, <피닉스> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220522233928652pj</link>
-            <guid>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220522233928652pj</guid>
+            <title><![CDATA[5월의 제주 포토뉴스 모아보기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/jejunews/jj/contents/220522114728796yp</link>
+            <guid>https://contents.premium.naver.com/jejunews/jj/contents/220522114728796yp</guid>
             <pubDate>Sun, 29 May 2022 15:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[아이러니하게도 토지의 지력을 충전하는 자연적인 방법중 하나는 산불이다. 새로운 생명들이 자라지 못할 정도로 지나치게 커버린 울창한 삼림과 숲의 초목들을 불이 모두 태워버린 후 사그라들면, 야생초목들의 재로 뒤덮인 이 땅은 울창했던 초목들이 남겨놓은 재를 집어 삼킨다. 재를 집어삼킨 토지는 그안에 생명력을 한가득 머금고, 새로운 씨앗들이 뿌리내리기만을 기다]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjJfMTY5/MDAxNjUzMjMwMTI1ODE4.l9A8DStyF2ZEg92lTP2hb54ICRlY2nnKAkBugDFCoY4g.Q-OgXhgIbaxJVRUV2Kmnac2SyCUnmSwai1FMtXTJhHYg.PNG/2021-08-05_00.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[3년 만에 야간 관람객 맞는 제주목 관아 초여름 날씨에 물놀이하는 아이들 그림 같은 무지개로 산책 손에 잡힐 듯 선명한 여서도 바다수영을 즐기는 사람들 여유로운 녹차밭 산책 싱싱한 해산물 드세요 자전거로 즐기는 수학여행 카이트 서핑을 즐기며 서퍼들 높은 파도와 추억 쌓기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjJfMjI4/MDAxNjUzMTg2ODE0Mzg1.UPnbIN_2XzXjyLcUyvYFlvSJtPMH3gv5R8K_Q1NWZ4Ug.afrVBc9YWuIUFqIR6ob6rhdM5UQxNR0ogiSdR3Sjc2Qg.PNG/11.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[굿모닝러너 챌린지 [72일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220523080650737qu</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220523080650737qu</guid>
+            <pubDate>Sun, 29 May 2022 16:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [72일차] 굿모닝러너님, 오늘 하루, 마음 먹었던 일을 포기하지 않고 다시 시작해보세요!  시작들이 쌓여 성공적인 내일을 가져다 줄거에요 ~ :) 굿모닝러너_챌린지_72일차 #20220523 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록 예시) 닉]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjNfMTgx/MDAxNjUzMjYwNzgxOTU1.KpsEQEi9kfE-DETU_HgCZjYSuxjvP_0pQUWc1DX_f7Yg.2AKZRBxsWKIC6J5LErmxfW34fc0Bet839uFVxr0gSLcg.JPEG/KakaoTalk_20220523_080425780.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
