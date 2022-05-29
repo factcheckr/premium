@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 22:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 23:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -854,6 +854,13 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[6월 첫째 주 - 우리에게 잡지가 필요하지 않았던 시대는 없었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51102</link>
+            <guid>https://www.bookjournalism.com/books/51102</guid>
+            <pubDate>Sun, 29 May 2022 23:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[잡지의 탄생]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[인류는 새로운 시대에 서 있다. 지구와의 관계를 재설정하는 내러티브가 필요하다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/50880</link>
             <guid>https://www.bookjournalism.com/books/50880</guid>
@@ -929,13 +936,6 @@
             <guid>https://www.bookjournalism.com/books/50894</guid>
             <pubDate>Sun, 29 May 2022 22:25:09 GMT</pubDate>
             <content:encoded><![CDATA[어느새 '후'는 안멋져]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아의 우크라이나 침공으로 나토의 존재감이 급부상하고 있다. NATO의 실체는 무엇인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50863</link>
-            <guid>https://www.bookjournalism.com/books/50863</guid>
-            <pubDate>Sun, 29 May 2022 22:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[NATO, 주인공이 되다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[희미해지는 '세계화'…미국과 천연가스 관련주 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
