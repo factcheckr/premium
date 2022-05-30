@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 14:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 15:30:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -566,12 +566,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/ca1a5d3d-a255-4372-b098-4cf1c228e880_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[바늘이야기 : 엄마의 뜨개 사업을 MZ 트렌드로 만든 김대리의 전략 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/304</link>
-            <guid>https://www.longblack.co/note/304</guid>
-            <pubDate>Sun, 29 May 2022 15:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;저 깜짝 놀랐어요. 친구가 뜨개질을 좋아한다고 해서 무슨 할머니 같은 취미냐고 놀렸거든요? 그랬더니 인스타그램에 ‘#뜨개질’ ‘#손뜨개’ 해시태그를 검색해서 보여<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220527/16536162607ae99e843d1d5fa9e16f99e7dcc49356.png" length="0" type="image/png"/>
+            <title><![CDATA[베이브 : 벌거벗은 1000만 인플루언서, 더팻쥬가 만든 캔 와인 브랜드 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/307</link>
+            <guid>https://www.longblack.co/note/307</guid>
+            <pubDate>Mon, 30 May 2022 15:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;롱블랙 피플, 가끔 그런 생각 안 해요? 인플루언서가 되고 싶다는 생각이요. 저는 패션이나 뷰티 쪽이면 누구보다 잘할 자신 있어요!행동력하면 저잖아요! 말이 나온<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220525/165346970182348bd11496a35ddfea110dd77d6165.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[매거진 B의 '관점'을 만드는 사람들 (폴인)]]></title>
@@ -862,6 +862,146 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[디지털 치료제 시장이 뜨겁다. 게임사까지 이곳에 뛰어드는 이유는 무엇인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51127</link>
+            <guid>https://www.bookjournalism.com/books/51127</guid>
+            <pubDate>Mon, 30 May 2022 15:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[기적의 치료제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6월 첫째 주 - 우리에게 잡지가 필요하지 않았던 시대는 없었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51102</link>
+            <guid>https://www.bookjournalism.com/books/51102</guid>
+            <pubDate>Mon, 30 May 2022 15:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[잡지의 탄생]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인류는 새로운 시대에 서 있다. 지구와의 관계를 재설정하는 내러티브가 필요하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50880</link>
+            <guid>https://www.bookjournalism.com/books/50880</guid>
+            <pubDate>Mon, 30 May 2022 15:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[인류세 시나리오]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #38에선, 스냅발 쇼크로 요동치고 있는 빅테크 주가, 라이카와 샤오미의 콜라보로 짚어보는 클래식 브랜드 전략, 정치적 올바름을 이야기하는 게임 회사, 그리고 조 바이든 미국 대통령의 방한이 남긴 것들에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51091</link>
+            <guid>https://www.bookjournalism.com/audio/51091</guid>
+            <pubDate>Mon, 30 May 2022 15:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 게임과 빅테크의 버블버블]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스냅발 쇼크로 기술주의 주가가 요동친다. 잠시의 흔들림인가 빅테크 신화 붕괴의 전조인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51078</link>
+            <guid>https://www.bookjournalism.com/books/51078</guid>
+            <pubDate>Mon, 30 May 2022 15:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[롤러코스터 위의 빅테크]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[샤오미와 라이카가 합작 휴대폰을 출시한다고 밝혔다. 돌아온 디카폰은 스마트폰 업계의 새로운 경쟁력이 될 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51066</link>
+            <guid>https://www.bookjournalism.com/books/51066</guid>
+            <pubDate>Mon, 30 May 2022 15:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[디카폰의 부활]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유형의 비용을 줄이고 무형의 가치를 추구하는 명품 마케팅이 지속되는 한 짝퉁은 언제까지나 무적의 비즈니스이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51055</link>
+            <guid>https://www.bookjournalism.com/books/51055</guid>
+            <pubDate>Mon, 30 May 2022 15:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[짝퉁 경제학]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[게임 회사가 정치적 목소리를 낸다. 이들의 선택은 무엇을 향하며 어디에 닿을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51028</link>
+            <guid>https://www.bookjournalism.com/books/51028</guid>
+            <pubDate>Mon, 30 May 2022 15:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 게임으로 번지 점프]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조 바이든 미국 대통령의 방문이 많은 것을 남겼다. 언론은 손익 계산서를 쏟아내고 있지만, 어차피 어음만 받은 거래에서 중요한 것은 전략이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51014</link>
+            <guid>https://www.bookjournalism.com/books/51014</guid>
+            <pubDate>Mon, 30 May 2022 15:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[깐부라고? 우리 다 죽어!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5월 넷째 주 - 그들만의 리그에 속한 자만이 위대한 유산을 상속할 수 있습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50967</link>
+            <guid>https://www.bookjournalism.com/books/50967</guid>
+            <pubDate>Mon, 30 May 2022 15:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[위대한 유산]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #37에선, 마스크를 쓰고 지낸 2년 동안 완전히 달라진 뷰티 업계, 인류의 보조자를 넘어 절친이 되고자 하는 AI 기반 대화형 챗봇, 그리고 핀란드와 스웨덴의 나토가입을 통해 분석해 보는 우리 외교의 슬기로운 전략을 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50956</link>
+            <guid>https://www.bookjournalism.com/audio/50956</guid>
+            <pubDate>Mon, 30 May 2022 15:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[달라졌다, 화장도 관계도 외교도]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전기 자전거 플랫폼 일레클이 서비스 범위를 전국으로 확장하겠다고 밝혔다. 한국형 PM 시장은 어디까지 확장할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50945</link>
+            <guid>https://www.bookjournalism.com/books/50945</guid>
+            <pubDate>Mon, 30 May 2022 15:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[제3의 이동 세계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[자기소개서 강의 #1강] 합격률을 2배로 올려줄 간단한 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bongbong/essay/contents/211009015432284ky</link>
+            <guid>https://contents.premium.naver.com/bongbong/essay/contents/211009015432284ky</guid>
+            <pubDate>Mon, 30 May 2022 15:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 이번에 새로 네이버 프리미엄 콘텐츠를 진행하게 된 봉봉입니다. 간략하게 제 설명을 드리면, 삼성전자에서 근무를 하다 퇴직하고, 현재는 로스쿨에 재학하고 있습니다. 공학계열을 졸업하였지만, 대기업 전략 직무, 기획직무 등 다양한 문과직무 및 공대직무 그리고 공기업에 지원하였고 서류전형에서 모두 합격하였습니다. 또한 이 자기소개서를 바탕으로 다양한]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTZfNjQg/MDAxNjM3MDY4MjIwNDg3.t553076i0FtQyZjtQNR_shF2br87IqVHMlf0rRgrdC8g.GBl0YprpBw21ZT4lulXyaAan6Hs6xwZg56T0VIRNKP4g.JPEG/sunset-1807524_1280.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 삼성 '네온' 만든 CEO 사임... 향후 방향은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/themiilk/business/contents/210621051444738vl</link>
+            <guid>https://contents.premium.naver.com/themiilk/business/contents/210621051444738vl</guid>
+            <pubDate>Mon, 30 May 2022 15:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[‘천재 과학자’로 불렸던 프라나브 미스트리(Pranav Mistry) 스타랩스(STAR Labs) CEO가 삼성전자를 떠난다. 프라나브 미스트리 CEO는 최근까지 스타랩스에서 ‘인공인간(Artificial Human)’ 프로젝트 ‘네온(NEON)’을 진두지휘했던 인물이다. 스타랩스는 삼성전자의 미래 기술 사업화 벤처 조직이다. 삼성리서치아메리카(SRA) 산하 연구소에서 시작돼 지난해 미국 라스베이거스에서 열린 ‘]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA2MjFfMjEx/MDAxNjI0MjE5NzAwMTgw.81fWfLuToKZSqQLwfvwrn118jVe4nTVMO57Cb-ivO-kg.4jDmj8ClI6b56HCwZkuPqRAy3qGIFIa3tn_5MLyqjh8g.PNG/Screenshot_2021-06-20_at_21.08.13.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이 그래프 지켜보다 딱 이 타이밍 되면 집 사라 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220131090714395Ka</link>
+            <guid>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220131090714395Ka</guid>
+            <pubDate>Mon, 30 May 2022 15:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[투자에서 가장 중요한 것은 ‘손실을 입지 않는 것’이지만 투자 위험을 낮추는 방법을 택하는 만큼 수익도 떨어지기 마련이다. 하지만 몇 가지 기준으로 지역과 아파트를 선정한다면 최대한 손실 위험을 줄이면서 최대 이익을 보는 투자를 할 수 있다. 책 ‘나는 1000만원으로 아파트 산다’ 저자 시크릿 브라더(필명)는 책에서 적어도 2~3년 간 무조건 성공할 수 있는 부동산 7가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMzFfMTIy/MDAxNjQzNTg3NDYzOTEy.phWRfFRT4pk7IoiLuBpHWaFhzP9nAeJMQJMY_NwMm00g.48c6Lknegr1_pbYDCf_WgJRa2I0IevBwrPvhQYQqVOEg.JPEG/222.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[구독형 자기관리 콘텐츠] '정경수의 더더더'를 소개합니다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bigpicture/moreandmore/contents/220126132632784Ht</link>
+            <guid>https://contents.premium.naver.com/bigpicture/moreandmore/contents/220126132632784Ht</guid>
+            <pubDate>Mon, 30 May 2022 15:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[어제의 나보다 더 나은 내가 되기 위한 조언과 방법론과 실천적 지식.  정경수 작가가 일, 직장, 능력, 워라밸에 관한 이야기를 전합니다. 네이버 프리미엄 콘텐츠 채널 '정경수의 더더더'를 소개합니다. 안녕하세요. 지식전달자 정경수입니다. 저는 IT기업에서 시스템 엔지니어로, 그리고 IT 전문지 기자로 일했습니다. 전문지와 단행본 출간, 전자책 및 콘텐츠 제작 업무를 두루]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjZfMjk1/MDAxNjQzMTY2NjE1ODMw.w6fPkS0vRICv_GKbiJma5ND2i2X6LIs4wgZsUxcdJA4g.9bTMg73aAAfkcUEWat4HI7q9q5WDpELRrJHbU_S30Jgg.JPEG/%EC%A0%95%EA%B2%BD%EC%88%98%EC%9D%98%EB%8D%94%EB%8D%94%EB%8D%94_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%BD%98%ED%85%90%EC%B8%A0_750_440.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 환경청, 유전자 변형 모기 수백만 마리 방출 승인 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220314171539197YZ</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220314171539197YZ</guid>
+            <pubDate>Mon, 30 May 2022 15:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[英 생명공학회사 옥시텍 제안, 美 당국 승인 백신 전도사 '빌 앤 멀린다 게이츠' 재단 후원 유전자 변형 모기 수백만 마리를 방출하는 실험이 미국에서 허용됐다. 사상 최대 규모다. 모기 개체수 감소를 위해서라는 설명이 제시됐지만, 환경과 공중보건에 어떤 영향을 미칠지 알 수 없다는 우려 목소리도 나온다. 미국 환경보호청은 영국 스타트업 생명공학회사 옥시텍(Oxitec)에 유]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTRfMjcg/MDAxNjQ3MjU5MzU0MDE4.6mqK3bneYCUietIpSK5-yGWHtbPahpXcCrK7BxVA-8wg._A0N5Mbp1EIIqi1CdM6UUaAfx93mXm6UnSEL91wvsAIg.JPEG/OX513A-mosquito-created-by-Oxitec-1200x696-795x447.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[저는 커피를 싫... 아닙니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bookcrew/essaycat/contents/220301204703554UZ</link>
+            <guid>https://contents.premium.naver.com/bookcrew/essaycat/contents/220301204703554UZ</guid>
+            <pubDate>Mon, 30 May 2022 15:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[저는 커피를 싫... 아닙니다 작가라면 커피를 사랑해야 할 것 같다. 이전 세대의 작가들이 정갈하게 연필을 깎아 원고지에 사각사각, 그러면서 막걸리도 한 잔 하는, 그런 모습으로 상상된다면, 우리 동시대의 젊은 작가들은 노트북으로 MS워드에 타다다닥, 그러면서 시럽을 넣지 않은 원두커피를 마시는, 다른 모습으로 상상되곤 한다. 아침에 일어나 직접 원두를 내리고 그 향긋]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDFfMzIg/MDAxNjQ2MTM0NjY1MDU3.LMOrEsnH2L4JplIjkQsJVz62zZsHBcLAbbMh6G9Pf-wg.RJh01cnBE-tURsoMCVVG6jqO5MJ6J-DaexVoNP3Sd98g.JPEG/erik-mclean-aDLwjNG_09A-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[채널 소개] 남의 실패에서 배우는 부자 되는 법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/daypictreen/youngandrich/contents/220317095303777ZG</link>
+            <guid>https://contents.premium.naver.com/daypictreen/youngandrich/contents/220317095303777ZG</guid>
+            <pubDate>Mon, 30 May 2022 15:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. &lt;20대, 젊은 부자를 꿈꾸자&gt; 채널을 운영하고 있는 작가 김남우입니다. 저의 첫 글 &lt;명문대생 김군은 왜 대기업을 포기했나?&gt;가 채널 전반적인 스토리의 느낌을 소개했다면, 이번에는 채널 소개를 통해 여러분이 제 채널에서 앞으로 어떤 글을 볼 수 있을지 알려 드리고자 합니다. 먼저, 이렇게 제 채널까지 와주시고 채널 소개까지 읽어보고 계셔서 정말 감사드립니다]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMzUg/MDAxNjQ3NDc4NjU5MTk5.8Mav8E-p24AldoG-fmANGg159Kep04gXs2P1Nv-TWj8g.sng1fJTR24N9aqckjlknM3re2NQHDU1OGatwC97XtPsg.JPEG/mistake-g9983bf895_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
             <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
@@ -870,68 +1010,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[희미해지는 '세계화'…미국과 천연가스 관련주 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bucksnews/dreamerstock/contents/220328183157788nt</link>
-            <guid>https://contents.premium.naver.com/bucksnews/dreamerstock/contents/220328183157788nt</guid>
-            <pubDate>Sun, 29 May 2022 15:25:51 GMT</pubDate>
-            <content:encoded><![CDATA['세계화는 끝났다' 여러분은 동의하시나요?  이 말이 맞다면 우리는 언제, 어디에 투자해야할까요? 해외 뉴스를 자주 봐 온 분들이라면 이미 중국발 코로나19 대유행 이전부터 세계화의 시대가 희미해지고 있다는 걸 짐작할 수 있었을 거예요. 도널드 트럼프 전 미국 대통령 시절 떠오른 &lt;미·중 관세전쟁&gt;이 대표적인 사건이죠. 　'역사는 반복된다'는 말이 맞는 걸까요?  당장 불]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjhfMjA1/MDAxNjQ4NDU4MDE0NTIw.-oBI9S6a68SBYwFzKIYdJnBlWnyFoqFLPFpTVDX88JEg.fXrZhu3DU3xN6c1YRjtI0FBdjxKdZUiGIHfS7FYelK4g.PNG/ESCP%EA%B2%BD%EC%98%81%EB%8C%80%ED%95%99%EC%9B%90%EC%84%B8%EA%B3%84%ED%99%94.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["Welcome to 식스티 코딩" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/60coding/pythoncoding/contents/220415064149923JV</link>
-            <guid>https://contents.premium.naver.com/60coding/pythoncoding/contents/220415064149923JV</guid>
-            <pubDate>Mon, 30 May 2022 02:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 네이버 프리미엄 콘텐츠에 처음 인사드리는 '식스티 코딩'입니다. 저희 채널은 비전공자를 위한 코딩 교육 채널(🐶초보 분들을 위한 채널)이고요. '포기하지 않은 코딩 공부', 실무에 적용할 수 있는 '실전 코딩', 미래 준비를 위한 '데이터, Ai 코딩'을 추구하고 있어요.  아직 첫 콘텐츠이니 만큼 당분간은 초보자만을 위한 채널이 될 듯해요.  저희 '식스티 코딩'은 작]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTRfMjk1/MDAxNjQ5OTMwODExNzM2.brCtwstrerOLZjYzyE27D5V1zMFD40cz-UHZTYx5WeIg.K84AH0Tbwj6mkix2ONGPv3PNzHkYoqNSrTSWn8oSq5gg.JPEG/BAND_%ED%8C%8C%EC%9D%B4%EC%8D%AC_60Coding_2022-03-04-20-41-25.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 휴식을 내일로 미루지 말자 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bigpicture/moreandmore/contents/220415155746693Sn</link>
-            <guid>https://contents.premium.naver.com/bigpicture/moreandmore/contents/220415155746693Sn</guid>
-            <pubDate>Sun, 29 May 2022 15:25:51 GMT</pubDate>
-            <content:encoded><![CDATA['쉰다'라는 말을 문어체로 쓸 때 ‘휴식을 취한다’라고 쓴다. ‘취하다’는 조건에 맞는 것을 골라 가진다는 뜻으로 어떤 행동이나 태도를 가지는 것이다.  영어로 표현할 때는 ‘take’ 쓴다.  ‘취하다’에는 적극적으로 행동한다는 의미가 담겨있지만 적극적인 자세로 휴식을 '취하는' 사람은 그리 많지 않다. 나는 휴식(休息)이라는 한자 때문에 동양 문화권에서는 적극적인]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTVfMjQ0/MDAxNjUwMDA1Njg1ODky.PqZLSJQ8WA3cZKpFAMe4QGZqumU4T715nXn8gn4jh5og.2ElpKXkWyrUiMHfXTHCIyoUobhDgfDPzKlbxdvCjNRkg.JPEG/%ED%9C%B4%EC%8B%9D2_%EC%A0%95%EA%B2%BD%EC%88%98%EC%9D%98%EB%8D%94%EB%8D%94%EB%8D%94.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 가상세계 메타버스 기술 군사분야 응용 연구 개시 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220517091234880SI</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220517091234880SI</guid>
-            <pubDate>Sun, 29 May 2022 15:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[메타버스 기술과 응용은 아직 초기 단계에 있지만, 중국은 이미 국가안보에 미치는 영향이나 전쟁에 활용하는 방안에 관한 연구에 돌입했다. 민간기업의 관련 투자도 지난해 말 급증했다. 미국 공군 중국항공우주연구소(CASI) 분석가 조시 바우먼에 따르면, 작년 11월 이후 중국 공산당 산하 인민해방군 기관지 &lt;해방군보&gt;는 메타버스에 관한 기사를 3편 이상 게재했다. 이들 기사]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTdfMjMy/MDAxNjUyNzQ2MTY0Nzkz.40HIba4r8Bg2J0tJ399WkMoGbnDXA0pS5ma2Qqu5lPEg.K0BfMwpgarILga0O1Exq74mKLIbWBF9Ay6T7Ea1KHw0g.JPEG/GettyImages-1238364167-600x360.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</guid>
-            <pubDate>Mon, 30 May 2022 04:50:58 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 경제활동 인구 2800만명 중, 무려 절반가량이 주식투자를 하고 있는데요 어느날 고개를 들어 주위를 둘러보니 엄마 친구 아들부터 내 옆자리 직장동료, 심지어는 십년지기 친구까지 알고보니 나만 빼고 다~ 주식을 하고 있어요🤔 "뒤쳐지긴 싫다, 나도 불로소득 좀 땡겨볼까?" 급한 마음에 일단 시작은 했는데 아무래도 막막...한 투자😱 지금 여러분의 투자는 안녕하신가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfNDMg/MDAxNjUwMzM1Mjk5Njky.lZGpdrBmTeXqnaAQQfWbMsU-m7rqFz5APw628ZmGumYg.6ko1l4hLioa8WP6Q9H6Y9kr8PPJazFEFjBLNWGYvEdsg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-19_%EC%98%A4%EC%A0%84_11.28.04.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[차이나 머니, 중국이 건넨 독사과-<슈퍼차이나>, <나는 세계일주로 자본주의를 만났다> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/moku/mokumoku/contents/220501133546283FL</link>
-            <guid>https://contents.premium.naver.com/moku/mokumoku/contents/220501133546283FL</guid>
-            <pubDate>Sun, 29 May 2022 15:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[“중국이 공짜로 지어줬어요. 중국은 우리의 친구니까요. 우호의 상징이죠” 아직도 이 말을 믿고 있나? 중국이 정말 단순한 호의로, 약소국의 처지를 공감해서 공짜로 극장과 체육관을 지어주고, 항구와 철도 같은 인프라 개발을 지원했다고 생각하나? 아직도 중국을 친구로 생각하고 있다면 고개를 들어 다른 나라들의 처지를 보라.    스리랑카는 지난 10년간 중국에서 50억 달]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDFfNzkg/MDAxNjUxMzc5NDk4MDQw.dFd9wCzGxTBlCoTXTQI6qdGwVCVlsr7mmqeoL6KAZFUg.B4QHROyVMrAOABdtzQtmZjq4oicgeZC5RFyJ_Zr2g8Ig.JPEG/49015926.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형이 요즘 관심 있는 금 투자 방법 알려준다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220420154148762pH</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220420154148762pH</guid>
-            <pubDate>Mon, 30 May 2022 04:50:58 GMT</pubDate>
-            <content:encoded><![CDATA[형이다. 형이 최근 감명받은 짤로 시작한다. 형도 저런 날을 꿈꾸며 열심히 운동하고 있다. 부스터 먹으면 몸이 찌릿찌릿한게 금방이라도 동석이 형처럼 될 것만 같다. 아직도 윤석이 형에 더 가까운건 함정이다. 오늘은 형이 최근 관심 갖고 있는 금 투자에 대해 알려주려고 한다. 왜 금 투자냐고? 주식하기 가장 위험한 달은 1월부터 12월까지 있다. 근데 실제로 5월부터 10월까지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMTM0/MDAxNjUwNDM2NzUwMDI5.4gDPpKdbYe88eIeR9ta-Xkj5YfZ9SQcvJlWGWbpfKvsg.q3-e0le_vvacceshfUfi8RWLxVJrOU0Nu8IEO1lstH4g.PNG/%ED%98%95%EC%9D%B4%EB%8B%A4_(%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95).png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[5월의 제주 포토뉴스 모아보기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jejunews/jj/contents/220522114728796yp</link>
-            <guid>https://contents.premium.naver.com/jejunews/jj/contents/220522114728796yp</guid>
-            <pubDate>Mon, 30 May 2022 14:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[3년 만에 야간 관람객 맞는 제주목 관아 초여름 날씨에 물놀이하는 아이들 그림 같은 무지개로 산책 손에 잡힐 듯 선명한 여서도 바다수영을 즐기는 사람들 여유로운 녹차밭 산책 싱싱한 해산물 드세요 자전거로 즐기는 수학여행 카이트 서핑을 즐기며 서퍼들 높은 파도와 추억 쌓기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjJfMjI4/MDAxNjUzMTg2ODE0Mzg1.UPnbIN_2XzXjyLcUyvYFlvSJtPMH3gv5R8K_Q1NWZ4Ug.afrVBc9YWuIUFqIR6ob6rhdM5UQxNR0ogiSdR3Sjc2Qg.PNG/11.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[헌터 바이든 스캔들 뇌관, 결국 터지나?…NYT, 노트북 내용 인정 [팩트매터] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220324001105363PX</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220324001105363PX</guid>
+            <pubDate>Mon, 30 May 2022 15:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[https://youtu.be/w5GINP7i6Cc 매일 보내드리는 ‘Facts Matter’ 업데이트!! 저는 여러분의 진행자 ‘에포크타임스’의 로만입니다. 시작에 앞서, 저희 프로그램이 성장하면서 저를 도와 조사를 함께 해 주실 분을 구하고 있습니다. 관심이 있으신 분들께서는 FactsMatter@epochtimes.com으로 이력서와 함께 글쓰기 샘플을 보내주시기 바랍니다. FactsMatter@epochtimes.com 입니다. 오늘 첫 주제는 헌터 바]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjRfODkg/MDAxNjQ4MDQ4MjkyMTc4.FORiieGJIxk06msI4U5fVDfcKQhGX-nHEOApT9bDezQg.rgFUs4DrSxiwSEoRqiLQe2s0ecDRalNCdPkWkWrNpcAg.JPEG/original.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
