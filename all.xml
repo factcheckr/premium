@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 23:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 02:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6760?fr=category</guid>
             <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘예일’은 어떻게 론칭 1년 만에 1020 최애 브랜드가 되었을까 (캐릿)]]></title>
+            <link>https://www.careet.net/772</link>
+            <guid>https://www.careet.net/772</guid>
+            <pubDate>Mon, 30 May 2022 02:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[매출 100억 돌파! 무신사 랭킹 탑 패션 브랜드 ‘예일’의 영업 비밀]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/a4597a60-ca36-42b5-b702-764995d6fd5c_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SNS 바닥글에 쓸 드립이 바닥났다면? 당장 써 먹는 드립 3 (캐릿)]]></title>
@@ -938,6 +946,14 @@
             <content:encoded><![CDATA[어느새 '후'는 안멋져]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Fri, 27 May 2022 18:33:14 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[희미해지는 '세계화'…미국과 천연가스 관련주 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/bucksnews/dreamerstock/contents/220328183157788nt</link>
             <guid>https://contents.premium.naver.com/bucksnews/dreamerstock/contents/220328183157788nt</guid>
@@ -946,12 +962,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjhfMjA1/MDAxNjQ4NDU4MDE0NTIw.-oBI9S6a68SBYwFzKIYdJnBlWnyFoqFLPFpTVDX88JEg.fXrZhu3DU3xN6c1YRjtI0FBdjxKdZUiGIHfS7FYelK4g.PNG/ESCP%EA%B2%BD%EC%98%81%EB%8C%80%ED%95%99%EC%9B%90%EC%84%B8%EA%B3%84%ED%99%94.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Fri, 27 May 2022 18:33:14 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA["Welcome to 식스티 코딩" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/60coding/pythoncoding/contents/220415064149923JV</link>
+            <guid>https://contents.premium.naver.com/60coding/pythoncoding/contents/220415064149923JV</guid>
+            <pubDate>Mon, 30 May 2022 02:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 네이버 프리미엄 콘텐츠에 처음 인사드리는 '식스티 코딩'입니다. 저희 채널은 비전공자를 위한 코딩 교육 채널(🐶초보 분들을 위한 채널)이고요. '포기하지 않은 코딩 공부', 실무에 적용할 수 있는 '실전 코딩', 미래 준비를 위한 '데이터, Ai 코딩'을 추구하고 있어요.  아직 첫 콘텐츠이니 만큼 당분간은 초보자만을 위한 채널이 될 듯해요.  저희 '식스티 코딩'은 작]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTRfMjk1/MDAxNjQ5OTMwODExNzM2.brCtwstrerOLZjYzyE27D5V1zMFD40cz-UHZTYx5WeIg.K84AH0Tbwj6mkix2ONGPv3PNzHkYoqNSrTSWn8oSq5gg.JPEG/BAND_%ED%8C%8C%EC%9D%B4%EC%8D%AC_60Coding_2022-03-04-20-41-25.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘의 휴식을 내일로 미루지 말자 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -999,14 +1015,6 @@
             <pubDate>Sun, 29 May 2022 15:25:51 GMT</pubDate>
             <content:encoded><![CDATA[3년 만에 야간 관람객 맞는 제주목 관아 초여름 날씨에 물놀이하는 아이들 그림 같은 무지개로 산책 손에 잡힐 듯 선명한 여서도 바다수영을 즐기는 사람들 여유로운 녹차밭 산책 싱싱한 해산물 드세요 자전거로 즐기는 수학여행 카이트 서핑을 즐기며 서퍼들 높은 파도와 추억 쌓기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjJfMjI4/MDAxNjUzMTg2ODE0Mzg1.UPnbIN_2XzXjyLcUyvYFlvSJtPMH3gv5R8K_Q1NWZ4Ug.afrVBc9YWuIUFqIR6ob6rhdM5UQxNR0ogiSdR3Sjc2Qg.PNG/11.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[굿모닝러너 챌린지 [72일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220523080650737qu</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220523080650737qu</guid>
-            <pubDate>Sun, 29 May 2022 18:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [72일차] 굿모닝러너님, 오늘 하루, 마음 먹었던 일을 포기하지 않고 다시 시작해보세요!  시작들이 쌓여 성공적인 내일을 가져다 줄거에요 ~ :) 굿모닝러너_챌린지_72일차 #20220523 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록 예시) 닉]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjNfMTgx/MDAxNjUzMjYwNzgxOTU1.KpsEQEi9kfE-DETU_HgCZjYSuxjvP_0pQUWc1DX_f7Yg.2AKZRBxsWKIC6J5LErmxfW34fc0Bet839uFVxr0gSLcg.JPEG/KakaoTalk_20220523_080425780.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
