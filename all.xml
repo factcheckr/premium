@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 07:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 08:34:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터를 해석할 때 하기 쉬운 N가지 실수 (퍼블리)]]></title>
+            <link>https://publy.co/content/6766?fr=category</link>
+            <guid>https://publy.co/content/6766?fr=category</guid>
+            <pubDate>Mon, 30 May 2022 08:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일하는 판이 바뀐다 : 팬데믹 이후 변화된 일본의 워크 스타일 (퍼블리)]]></title>
+            <link>https://publy.co/content/6816?fr=category</link>
+            <guid>https://publy.co/content/6816?fr=category</guid>
+            <pubDate>Mon, 30 May 2022 08:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[쏘카 PM이 동료들과 함께 고객을 이해하는 방법 (퍼블리)]]></title>
             <link>https://publy.co/content/6830?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6824?fr=category</guid>
             <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서비스별 전략이 녹아있는 패션 커머스 UX/UI 비교 (퍼블리)]]></title>
-            <link>https://publy.co/content/6818?fr=category</link>
-            <guid>https://publy.co/content/6818?fr=category</guid>
-            <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사례로 보는 검색과 탐색 UX/UI 비교 분석 (퍼블리)]]></title>
-            <link>https://publy.co/content/6760?fr=category</link>
-            <guid>https://publy.co/content/6760?fr=category</guid>
-            <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘예일’은 어떻게 론칭 1년 만에 1020 최애 브랜드가 되었을까 (캐릿)]]></title>
