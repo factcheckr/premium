@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-05-30T21:22:54.138Z</updated>
+    <updated>2022-05-30T22:26:02.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10년 투자 실패 극복한 비결, SK 이동훈 부사장]]></title>
+        <id>https://www.folin.co/story/2207</id>
+        <link href="https://www.folin.co/story/2207"/>
+        <updated>2022-05-30T22:25:43.142Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하나의 장르가 된 매거진 B의 NEXT]]></title>
+        <id>https://www.folin.co/story/2205</id>
+        <link href="https://www.folin.co/story/2205"/>
+        <updated>2022-05-30T22:25:43.143Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매거진 B의 '관점'을 만드는 사람들]]></title>
         <id>https://www.folin.co/story/2204</id>
@@ -276,21 +292,5 @@
         <updated>2022-04-25T23:25:39.070Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환승연애', '술도녀'... 티빙의 콘텐츠 기획 비결]]></title>
-        <id>https://www.folin.co/story/2166</id>
-        <link href="https://www.folin.co/story/2166"/>
-        <updated>2022-04-25T04:34:08.417Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오TV 오리지널스튜디오 오윤환 총괄의 '새로운 판']]></title>
-        <id>https://www.folin.co/story/2164</id>
-        <link href="https://www.folin.co/story/2164"/>
-        <updated>2022-04-22T04:08:10.674Z</updated>
-        <content type="html"><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content>
     </entry>
 </feed>
