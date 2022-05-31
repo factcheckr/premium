@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 08:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 09:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔루션을 생각해내는 힘, 프로덕트 감각을 키우는 학습법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6827?fr=category</link>
+            <guid>https://publy.co/content/6827?fr=category</guid>
+            <pubDate>Tue, 31 May 2022 09:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[데이터를 해석할 때 하기 쉬운 N가지 실수 (퍼블리)]]></title>
             <link>https://publy.co/content/6766?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6755?fr=category</guid>
             <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[완판을 부르는 푸드 상세페이지 작성법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6824?fr=category</link>
-            <guid>https://publy.co/content/6824?fr=category</guid>
-            <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인스타그램 다음 SNS는 뭘까? 해외 Z세대 유행템으로 알아보는 글로벌 트렌드 (캐릿)]]></title>
@@ -870,88 +870,12 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디지털 치료제 시장이 뜨겁다. 게임사까지 이곳에 뛰어드는 이유는 무엇인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51127</link>
-            <guid>https://www.bookjournalism.com/books/51127</guid>
-            <pubDate>Tue, 31 May 2022 02:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[기적의 치료제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[6월 첫째 주 - 우리에게 잡지가 필요하지 않았던 시대는 없었습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51102</link>
-            <guid>https://www.bookjournalism.com/books/51102</guid>
-            <pubDate>Tue, 31 May 2022 02:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[잡지의 탄생]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인류는 새로운 시대에 서 있다. 지구와의 관계를 재설정하는 내러티브가 필요하다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50880</link>
-            <guid>https://www.bookjournalism.com/books/50880</guid>
-            <pubDate>Tue, 31 May 2022 02:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[인류세 시나리오]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #38에선, 스냅발 쇼크로 요동치고 있는 빅테크 주가, 라이카와 샤오미의 콜라보로 짚어보는 클래식 브랜드 전략, 정치적 올바름을 이야기하는 게임 회사, 그리고 조 바이든 미국 대통령의 방한이 남긴 것들에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51091</link>
-            <guid>https://www.bookjournalism.com/audio/51091</guid>
-            <pubDate>Tue, 31 May 2022 02:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 게임과 빅테크의 버블버블]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스냅발 쇼크로 기술주의 주가가 요동친다. 잠시의 흔들림인가 빅테크 신화 붕괴의 전조인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51078</link>
-            <guid>https://www.bookjournalism.com/books/51078</guid>
-            <pubDate>Tue, 31 May 2022 02:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[롤러코스터 위의 빅테크]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[샤오미와 라이카가 합작 휴대폰을 출시한다고 밝혔다. 돌아온 디카폰은 스마트폰 업계의 새로운 경쟁력이 될 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51066</link>
-            <guid>https://www.bookjournalism.com/books/51066</guid>
-            <pubDate>Tue, 31 May 2022 02:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[디카폰의 부활]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유형의 비용을 줄이고 무형의 가치를 추구하는 명품 마케팅이 지속되는 한 짝퉁은 언제까지나 무적의 비즈니스이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51055</link>
-            <guid>https://www.bookjournalism.com/books/51055</guid>
-            <pubDate>Tue, 31 May 2022 02:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[짝퉁 경제학]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[게임 회사가 정치적 목소리를 낸다. 이들의 선택은 무엇을 향하며 어디에 닿을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51028</link>
-            <guid>https://www.bookjournalism.com/books/51028</guid>
-            <pubDate>Tue, 31 May 2022 02:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 게임으로 번지 점프]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조 바이든 미국 대통령의 방문이 많은 것을 남겼다. 언론은 손익 계산서를 쏟아내고 있지만, 어차피 어음만 받은 거래에서 중요한 것은 전략이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51014</link>
-            <guid>https://www.bookjournalism.com/books/51014</guid>
-            <pubDate>Tue, 31 May 2022 02:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[깐부라고? 우리 다 죽어!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[5월 넷째 주 - 그들만의 리그에 속한 자만이 위대한 유산을 상속할 수 있습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50967</link>
-            <guid>https://www.bookjournalism.com/books/50967</guid>
-            <pubDate>Tue, 31 May 2022 02:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[위대한 유산]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #37에선, 마스크를 쓰고 지낸 2년 동안 완전히 달라진 뷰티 업계, 인류의 보조자를 넘어 절친이 되고자 하는 AI 기반 대화형 챗봇, 그리고 핀란드와 스웨덴의 나토가입을 통해 분석해 보는 우리 외교의 슬기로운 전략을 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/50956</link>
-            <guid>https://www.bookjournalism.com/audio/50956</guid>
-            <pubDate>Tue, 31 May 2022 02:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[달라졌다, 화장도 관계도 외교도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전기 자전거 플랫폼 일레클이 서비스 범위를 전국으로 확장하겠다고 밝혔다. 한국형 PM 시장은 어디까지 확장할 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50945</link>
-            <guid>https://www.bookjournalism.com/books/50945</guid>
-            <pubDate>Tue, 31 May 2022 02:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[제3의 이동 세계]]></content:encoded>
+            <title><![CDATA[[단독] 삼성 '네온' 만든 CEO 사임... 향후 방향은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/themiilk/business/contents/210621051444738vl</link>
+            <guid>https://contents.premium.naver.com/themiilk/business/contents/210621051444738vl</guid>
+            <pubDate>Mon, 30 May 2022 15:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[‘천재 과학자’로 불렸던 프라나브 미스트리(Pranav Mistry) 스타랩스(STAR Labs) CEO가 삼성전자를 떠난다. 프라나브 미스트리 CEO는 최근까지 스타랩스에서 ‘인공인간(Artificial Human)’ 프로젝트 ‘네온(NEON)’을 진두지휘했던 인물이다. 스타랩스는 삼성전자의 미래 기술 사업화 벤처 조직이다. 삼성리서치아메리카(SRA) 산하 연구소에서 시작돼 지난해 미국 라스베이거스에서 열린 ‘]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA2MjFfMjEx/MDAxNjI0MjE5NzAwMTgw.81fWfLuToKZSqQLwfvwrn118jVe4nTVMO57Cb-ivO-kg.4jDmj8ClI6b56HCwZkuPqRAy3qGIFIa3tn_5MLyqjh8g.PNG/Screenshot_2021-06-20_at_21.08.13.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[자기소개서 강의 #1강] 합격률을 2배로 올려줄 간단한 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -962,12 +886,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTZfNjQg/MDAxNjM3MDY4MjIwNDg3.t553076i0FtQyZjtQNR_shF2br87IqVHMlf0rRgrdC8g.GBl0YprpBw21ZT4lulXyaAan6Hs6xwZg56T0VIRNKP4g.JPEG/sunset-1807524_1280.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독] 삼성 '네온' 만든 CEO 사임... 향후 방향은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/themiilk/business/contents/210621051444738vl</link>
-            <guid>https://contents.premium.naver.com/themiilk/business/contents/210621051444738vl</guid>
+            <title><![CDATA[[구독형 자기관리 콘텐츠] '정경수의 더더더'를 소개합니다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bigpicture/moreandmore/contents/220126132632784Ht</link>
+            <guid>https://contents.premium.naver.com/bigpicture/moreandmore/contents/220126132632784Ht</guid>
             <pubDate>Mon, 30 May 2022 15:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[‘천재 과학자’로 불렸던 프라나브 미스트리(Pranav Mistry) 스타랩스(STAR Labs) CEO가 삼성전자를 떠난다. 프라나브 미스트리 CEO는 최근까지 스타랩스에서 ‘인공인간(Artificial Human)’ 프로젝트 ‘네온(NEON)’을 진두지휘했던 인물이다. 스타랩스는 삼성전자의 미래 기술 사업화 벤처 조직이다. 삼성리서치아메리카(SRA) 산하 연구소에서 시작돼 지난해 미국 라스베이거스에서 열린 ‘]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA2MjFfMjEx/MDAxNjI0MjE5NzAwMTgw.81fWfLuToKZSqQLwfvwrn118jVe4nTVMO57Cb-ivO-kg.4jDmj8ClI6b56HCwZkuPqRAy3qGIFIa3tn_5MLyqjh8g.PNG/Screenshot_2021-06-20_at_21.08.13.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[어제의 나보다 더 나은 내가 되기 위한 조언과 방법론과 실천적 지식.  정경수 작가가 일, 직장, 능력, 워라밸에 관한 이야기를 전합니다. 네이버 프리미엄 콘텐츠 채널 '정경수의 더더더'를 소개합니다. 안녕하세요. 지식전달자 정경수입니다. 저는 IT기업에서 시스템 엔지니어로, 그리고 IT 전문지 기자로 일했습니다. 전문지와 단행본 출간, 전자책 및 콘텐츠 제작 업무를 두루]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjZfMjk1/MDAxNjQzMTY2NjE1ODMw.w6fPkS0vRICv_GKbiJma5ND2i2X6LIs4wgZsUxcdJA4g.9bTMg73aAAfkcUEWat4HI7q9q5WDpELRrJHbU_S30Jgg.JPEG/%EC%A0%95%EA%B2%BD%EC%88%98%EC%9D%98%EB%8D%94%EB%8D%94%EB%8D%94_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%BD%98%ED%85%90%EC%B8%A0_750_440.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 그래프 지켜보다 딱 이 타이밍 되면 집 사라 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -978,12 +902,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMzFfMTIy/MDAxNjQzNTg3NDYzOTEy.phWRfFRT4pk7IoiLuBpHWaFhzP9nAeJMQJMY_NwMm00g.48c6Lknegr1_pbYDCf_WgJRa2I0IevBwrPvhQYQqVOEg.JPEG/222.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[구독형 자기관리 콘텐츠] '정경수의 더더더'를 소개합니다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bigpicture/moreandmore/contents/220126132632784Ht</link>
-            <guid>https://contents.premium.naver.com/bigpicture/moreandmore/contents/220126132632784Ht</guid>
+            <title><![CDATA[저는 커피를 싫... 아닙니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bookcrew/essaycat/contents/220301204703554UZ</link>
+            <guid>https://contents.premium.naver.com/bookcrew/essaycat/contents/220301204703554UZ</guid>
             <pubDate>Mon, 30 May 2022 15:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[어제의 나보다 더 나은 내가 되기 위한 조언과 방법론과 실천적 지식.  정경수 작가가 일, 직장, 능력, 워라밸에 관한 이야기를 전합니다. 네이버 프리미엄 콘텐츠 채널 '정경수의 더더더'를 소개합니다. 안녕하세요. 지식전달자 정경수입니다. 저는 IT기업에서 시스템 엔지니어로, 그리고 IT 전문지 기자로 일했습니다. 전문지와 단행본 출간, 전자책 및 콘텐츠 제작 업무를 두루]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjZfMjk1/MDAxNjQzMTY2NjE1ODMw.w6fPkS0vRICv_GKbiJma5ND2i2X6LIs4wgZsUxcdJA4g.9bTMg73aAAfkcUEWat4HI7q9q5WDpELRrJHbU_S30Jgg.JPEG/%EC%A0%95%EA%B2%BD%EC%88%98%EC%9D%98%EB%8D%94%EB%8D%94%EB%8D%94_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%BD%98%ED%85%90%EC%B8%A0_750_440.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[저는 커피를 싫... 아닙니다 작가라면 커피를 사랑해야 할 것 같다. 이전 세대의 작가들이 정갈하게 연필을 깎아 원고지에 사각사각, 그러면서 막걸리도 한 잔 하는, 그런 모습으로 상상된다면, 우리 동시대의 젊은 작가들은 노트북으로 MS워드에 타다다닥, 그러면서 시럽을 넣지 않은 원두커피를 마시는, 다른 모습으로 상상되곤 한다. 아침에 일어나 직접 원두를 내리고 그 향긋]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDFfMzIg/MDAxNjQ2MTM0NjY1MDU3.LMOrEsnH2L4JplIjkQsJVz62zZsHBcLAbbMh6G9Pf-wg.RJh01cnBE-tURsoMCVVG6jqO5MJ6J-DaexVoNP3Sd98g.JPEG/erik-mclean-aDLwjNG_09A-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 환경청, 유전자 변형 모기 수백만 마리 방출 승인 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -994,12 +918,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTRfMjcg/MDAxNjQ3MjU5MzU0MDE4.6mqK3bneYCUietIpSK5-yGWHtbPahpXcCrK7BxVA-8wg._A0N5Mbp1EIIqi1CdM6UUaAfx93mXm6UnSEL91wvsAIg.JPEG/OX513A-mosquito-created-by-Oxitec-1200x696-795x447.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[저는 커피를 싫... 아닙니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bookcrew/essaycat/contents/220301204703554UZ</link>
-            <guid>https://contents.premium.naver.com/bookcrew/essaycat/contents/220301204703554UZ</guid>
-            <pubDate>Mon, 30 May 2022 15:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[저는 커피를 싫... 아닙니다 작가라면 커피를 사랑해야 할 것 같다. 이전 세대의 작가들이 정갈하게 연필을 깎아 원고지에 사각사각, 그러면서 막걸리도 한 잔 하는, 그런 모습으로 상상된다면, 우리 동시대의 젊은 작가들은 노트북으로 MS워드에 타다다닥, 그러면서 시럽을 넣지 않은 원두커피를 마시는, 다른 모습으로 상상되곤 한다. 아침에 일어나 직접 원두를 내리고 그 향긋]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDFfMzIg/MDAxNjQ2MTM0NjY1MDU3.LMOrEsnH2L4JplIjkQsJVz62zZsHBcLAbbMh6G9Pf-wg.RJh01cnBE-tURsoMCVVG6jqO5MJ6J-DaexVoNP3Sd98g.JPEG/erik-mclean-aDLwjNG_09A-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Fri, 27 May 2022 18:33:14 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[채널 소개] 남의 실패에서 배우는 부자 되는 법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -1010,20 +934,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMzUg/MDAxNjQ3NDc4NjU5MTk5.8Mav8E-p24AldoG-fmANGg159Kep04gXs2P1Nv-TWj8g.sng1fJTR24N9aqckjlknM3re2NQHDU1OGatwC97XtPsg.JPEG/mistake-g9983bf895_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Fri, 27 May 2022 18:33:14 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[헌터 바이든 스캔들 뇌관, 결국 터지나?…NYT, 노트북 내용 인정 [팩트매터] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220324001105363PX</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220324001105363PX</guid>
-            <pubDate>Tue, 31 May 2022 05:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[https://youtu.be/w5GINP7i6Cc 매일 보내드리는 ‘Facts Matter’ 업데이트!! 저는 여러분의 진행자 ‘에포크타임스’의 로만입니다. 시작에 앞서, 저희 프로그램이 성장하면서 저를 도와 조사를 함께 해 주실 분을 구하고 있습니다. 관심이 있으신 분들께서는 FactsMatter@epochtimes.com으로 이력서와 함께 글쓰기 샘플을 보내주시기 바랍니다. FactsMatter@epochtimes.com 입니다. 오늘 첫 주제는 헌터 바]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjRfODkg/MDAxNjQ4MDQ4MjkyMTc4.FORiieGJIxk06msI4U5fVDfcKQhGX-nHEOApT9bDezQg.rgFUs4DrSxiwSEoRqiLQe2s0ecDRalNCdPkWkWrNpcAg.JPEG/original.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[美 FDA, 화이자 백신 승인문건 첫 공개...부작용 1200종 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220313215736317ec</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220313215736317ec</guid>
+            <pubDate>Tue, 31 May 2022 09:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[美 FDA, 화이자 백신 승인문건 첫 공개...부작용 1200종 미국 식품의약국(FDA)이 제약사 화이자의 중공 바이러스 감염증(코로나19) 백신 승인을 위해 검토한 심사자료를 처음 공개했다. FDA는 완전 공개를 위해 75년이 필요하다고 주장했으나, 법적 방어에 실패하면서 조기에 공개하게 됐다. 의료투명성 확대를 요구하는 수십 명의 대학교수와 의료전문가로 구성된 '공중위생·의료전문]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTNfMjQy/MDAxNjQ3MTc1OTkwNjcy.eNc3rlycjE8mO7TNB3groPRu-eSfqktke7405O3RfAYg.dBbtFzdiJbEWlNb3yFT7EfogAnpbov_DRODn6_7sIAEg.JPEG/t_yj6ftiksi4elqkp59bz9.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
