@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-06-01T14:31:37.016Z</updated>
+    <updated>2022-06-01T15:39:05.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[칸에서 들어올린 트로피 뒤에는 CJ의 미디어제국이 있다. 제국의 역사는 계속될 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/51203</id>
+        <link href="https://www.bookjournalism.com/books/51203"/>
+        <updated>2022-06-01T15:38:55.382Z</updated>
+        <content type="html"><![CDATA[CJ의 다음 미장센은?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《THREAD》가 만들어지기까지 어떤 사람들이, 어떤 마음으로, 어떻게 일했는지 소개합니다.]]></title>
         <id>https://www.bookjournalism.com/books/51171</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/51014"/>
         <updated>2022-06-01T13:54:59.097Z</updated>
         <content type="html"><![CDATA[깐부라고? 우리 다 죽어!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월 넷째 주 - 그들만의 리그에 속한 자만이 위대한 유산을 상속할 수 있습니다.]]></title>
-        <id>https://www.bookjournalism.com/books/50967</id>
-        <link href="https://www.bookjournalism.com/books/50967"/>
-        <updated>2022-06-01T13:54:59.099Z</updated>
-        <content type="html"><![CDATA[위대한 유산]]></content>
     </entry>
 </feed>
