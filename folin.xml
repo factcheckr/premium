@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-06-02T21:21:51.423Z</updated>
+    <updated>2022-06-02T22:23:45.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[mtl, 브랜딩 최종 목표는 한국의 바우하우스]]></title>
+        <id>https://www.folin.co/story/2210</id>
+        <link href="https://www.folin.co/story/2210"/>
+        <updated>2022-06-02T22:23:23.535Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단→르세라핌 비주얼 총괄, 김성현이 일하는 법]]></title>
+        <id>https://www.folin.co/story/2199</id>
+        <link href="https://www.folin.co/story/2199"/>
+        <updated>2022-06-02T22:23:23.554Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["일할 때도 신선함이 중요하다" 이소은의 커리어론]]></title>
         <id>https://www.folin.co/story/2200</id>
@@ -276,21 +292,5 @@
         <updated>2022-05-01T22:23:39.378Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워너브러더스·아마존이 '구독 모델' 창출에 목매는 이유]]></title>
-        <id>https://www.folin.co/story/2167</id>
-        <link href="https://www.folin.co/story/2167"/>
-        <updated>2022-04-28T22:24:17.304Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건축→씨티뱅크→블록체인, '경험'으로 쌓은 커리어]]></title>
-        <id>https://www.folin.co/story/2168</id>
-        <link href="https://www.folin.co/story/2168"/>
-        <updated>2022-04-27T22:24:38.216Z</updated>
-        <content type="html"><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content>
     </entry>
 </feed>

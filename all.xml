@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 21:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 22:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,6 +334,22 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220530/16538966432b04f70d32641f4673e9d7a2d4c410c9.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[mtl, 브랜딩 최종 목표는 한국의 바우하우스 (폴인)]]></title>
+            <link>https://www.folin.co/story/2210</link>
+            <guid>https://www.folin.co/story/2210</guid>
+            <pubDate>Thu, 02 Jun 2022 22:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단→르세라핌 비주얼 총괄, 김성현이 일하는 법 (폴인)]]></title>
+            <link>https://www.folin.co/story/2199</link>
+            <guid>https://www.folin.co/story/2199</guid>
+            <pubDate>Thu, 02 Jun 2022 22:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["일할 때도 신선함이 중요하다" 이소은의 커리어론 (폴인)]]></title>
             <link>https://www.folin.co/story/2200</link>
             <guid>https://www.folin.co/story/2200</guid>
@@ -604,22 +620,6 @@
             <pubDate>Sun, 01 May 2022 22:23:39 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[워너브러더스·아마존이 '구독 모델' 창출에 목매는 이유 (폴인)]]></title>
-            <link>https://www.folin.co/story/2167</link>
-            <guid>https://www.folin.co/story/2167</guid>
-            <pubDate>Thu, 28 Apr 2022 22:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[건축→씨티뱅크→블록체인, '경험'으로 쌓은 커리어 (폴인)]]></title>
-            <link>https://www.folin.co/story/2168</link>
-            <guid>https://www.folin.co/story/2168</guid>
-            <pubDate>Wed, 27 Apr 2022 22:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[강남언니에 홍보 수수료를 지급한 의사가 벌금형을 선고받았다. 미용과 의료의 불분명한 경계에 선 강남언니는 어떤 향방을 보일까. (북저널리즘)]]></title>
