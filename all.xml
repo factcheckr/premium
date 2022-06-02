@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 13:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 14:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -620,6 +620,90 @@
             <pubDate>Wed, 27 Apr 2022 22:24:38 GMT</pubDate>
             <content:encoded><![CDATA[<li>라이프스타일</li>
                                 <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[칸에서 들어올린 트로피 뒤에는 CJ의 미디어제국이 있다. 제국의 역사는 계속될 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51203</link>
+            <guid>https://www.bookjournalism.com/books/51203</guid>
+            <pubDate>Thu, 02 Jun 2022 14:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[CJ의 다음 미장센은?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[《THREAD》가 만들어지기까지 어떤 사람들이, 어떤 마음으로, 어떻게 일했는지 소개합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51171</link>
+            <guid>https://www.bookjournalism.com/books/51171</guid>
+            <pubDate>Thu, 02 Jun 2022 14:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[《THREAD》가 태어났습니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세계적인 작가이자 영화감독인 에마뉘엘 카레르에게 우울의 덫이 찾아왔다. 저자는 결국 살아남았지만, 그 과정에서 모든 것이 산산이 부서지고 말았다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51120</link>
+            <guid>https://www.bookjournalism.com/books/51120</guid>
+            <pubDate>Thu, 02 Jun 2022 14:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[그 공포를 설명할 방법이 없다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디지털 치료제 시장이 뜨겁다. 게임사까지 이곳에 뛰어드는 이유는 무엇인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51127</link>
+            <guid>https://www.bookjournalism.com/books/51127</guid>
+            <pubDate>Thu, 02 Jun 2022 14:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[기적의 치료제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6월 첫째 주 - 우리에게 잡지가 필요하지 않았던 시대는 없었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51102</link>
+            <guid>https://www.bookjournalism.com/books/51102</guid>
+            <pubDate>Thu, 02 Jun 2022 14:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[잡지의 탄생]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인류는 새로운 시대에 서 있다. 지구와의 관계를 재설정하는 내러티브가 필요하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50880</link>
+            <guid>https://www.bookjournalism.com/books/50880</guid>
+            <pubDate>Thu, 02 Jun 2022 14:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[인류세 시나리오]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #38에선, 스냅발 쇼크로 요동치고 있는 빅테크 주가, 라이카와 샤오미의 콜라보로 짚어보는 클래식 브랜드 전략, 정치적 올바름을 이야기하는 게임 회사, 그리고 조 바이든 미국 대통령의 방한이 남긴 것들에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51091</link>
+            <guid>https://www.bookjournalism.com/audio/51091</guid>
+            <pubDate>Thu, 02 Jun 2022 14:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 게임과 빅테크의 버블버블]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스냅발 쇼크로 기술주의 주가가 요동친다. 잠시의 흔들림인가 빅테크 신화 붕괴의 전조인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51078</link>
+            <guid>https://www.bookjournalism.com/books/51078</guid>
+            <pubDate>Thu, 02 Jun 2022 14:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[롤러코스터 위의 빅테크]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[샤오미와 라이카가 합작 휴대폰을 출시한다고 밝혔다. 돌아온 디카폰은 스마트폰 업계의 새로운 경쟁력이 될 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51066</link>
+            <guid>https://www.bookjournalism.com/books/51066</guid>
+            <pubDate>Thu, 02 Jun 2022 14:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[디카폰의 부활]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유형의 비용을 줄이고 무형의 가치를 추구하는 명품 마케팅이 지속되는 한 짝퉁은 언제까지나 무적의 비즈니스이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51055</link>
+            <guid>https://www.bookjournalism.com/books/51055</guid>
+            <pubDate>Thu, 02 Jun 2022 14:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[짝퉁 경제학]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[게임 회사가 정치적 목소리를 낸다. 이들의 선택은 무엇을 향하며 어디에 닿을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51028</link>
+            <guid>https://www.bookjournalism.com/books/51028</guid>
+            <pubDate>Thu, 02 Jun 2022 14:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 게임으로 번지 점프]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조 바이든 미국 대통령의 방문이 많은 것을 남겼다. 언론은 손익 계산서를 쏟아내고 있지만, 어차피 어음만 받은 거래에서 중요한 것은 전략이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51014</link>
+            <guid>https://www.bookjournalism.com/books/51014</guid>
+            <pubDate>Thu, 02 Jun 2022 14:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[깐부라고? 우리 다 죽어!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
