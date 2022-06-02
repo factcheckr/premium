@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 07:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 08:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어도비 CPO가 말하는 리더의 '불안'을 극복하는 몇 가지 방법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6815?fr=category</link>
+            <guid>https://publy.co/content/6815?fr=category</guid>
+            <pubDate>Thu, 02 Jun 2022 08:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[솔루션을 생각해내는 힘, 프로덕트 감각을 키우는 학습법 (퍼블리)]]></title>
             <link>https://publy.co/content/6827?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6813?fr=category</guid>
             <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제품 업데이트 하기 전 PM이 반드시 체크해야 하는 것들 (퍼블리)]]></title>
-            <link>https://publy.co/content/6755?fr=category</link>
-            <guid>https://publy.co/content/6755?fr=category</guid>
-            <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1초 만에 예약 마감! Z세대 구매 경쟁이 치열한 의외의 분야 3 (캐릿)]]></title>

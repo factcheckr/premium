@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-02T07:27:14.863Z</updated>
+    <updated>2022-06-02T08:33:33.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[어도비 CPO가 말하는 리더의 '불안'을 극복하는 몇 가지 방법]]></title>
+        <id>https://publy.co/content/6815?fr=category</id>
+        <link href="https://publy.co/content/6815?fr=category"/>
+        <updated>2022-06-02T08:31:48.797Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔루션을 생각해내는 힘, 프로덕트 감각을 키우는 학습법]]></title>
         <id>https://publy.co/content/6827?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6813?fr=category"/>
         <updated>2022-05-24T02:04:52.792Z</updated>
         <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제품 업데이트 하기 전 PM이 반드시 체크해야 하는 것들]]></title>
-        <id>https://publy.co/content/6755?fr=category</id>
-        <link href="https://publy.co/content/6755?fr=category"/>
-        <updated>2022-05-24T02:04:52.790Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
