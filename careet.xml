@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 23:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 01:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐릿이 일주일간 차곡차곡 모은 최신 트렌드, 1분 안에 확인하고 가세요!]]></title>
+            <link>https://www.careet.net/780</link>
+            <guid>https://www.careet.net/780</guid>
+            <pubDate>Fri, 03 Jun 2022 01:53:12 GMT</pubDate>
+            <content:encoded><![CDATA[팝업 스토어부터 F&amp;B 신제품 소식까지! 알차게 준비했습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/83d6bc86-adf8-4642-9311-01ac05c2d73a_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] 요즘 인싸들이 가는 성수 핫플은 어디?]]></title>
+            <link>https://www.careet.net/775</link>
+            <guid>https://www.careet.net/775</guid>
+            <pubDate>Fri, 03 Jun 2022 01:53:12 GMT</pubDate>
+            <content:encoded><![CDATA[#사무엘스몰즈 #오우드 #옵스큐라 #서울앵무새 모르면 클릭]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/8ad02e78-6762-45c6-a6db-d652a662dd9a_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1초 만에 예약 마감! Z세대 구매 경쟁이 치열한 의외의 분야 3]]></title>
             <link>https://www.careet.net/774</link>
