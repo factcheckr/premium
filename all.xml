@@ -4,9 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 07:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 08:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제품 팀이 바로 실행할 수 있는 우선순위 결정법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6797?fr=category</link>
+            <guid>https://publy.co/content/6797?fr=category</guid>
+            <pubDate>Fri, 03 Jun 2022 08:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하루 참석 회의만 3개? 팀장의 유형별 회의 컨트롤 방법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6814?fr=category</link>
+            <guid>https://publy.co/content/6814?fr=category</guid>
+            <pubDate>Fri, 03 Jun 2022 08:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[당근마켓 PM이 사용자의 정성적인 경험에 주목하는 이유 (퍼블리)]]></title>
+            <link>https://publy.co/content/6829?fr=category</link>
+            <guid>https://publy.co/content/6829?fr=category</guid>
+            <pubDate>Fri, 03 Jun 2022 08:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[어도비 CPO가 말하는 리더의 '불안'을 극복하는 몇 가지 방법 (퍼블리)]]></title>
             <link>https://publy.co/content/6815?fr=category</link>
@@ -55,27 +76,6 @@
             <guid>https://publy.co/content/6782?fr=category</guid>
             <pubDate>Thu, 26 May 2022 08:31:34 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팀워크는 친해지는 것만으로 해결되지 않는다 (feat. 팀장의 빌드업 노하우) (퍼블리)]]></title>
-            <link>https://publy.co/content/6812?fr=category</link>
-            <guid>https://publy.co/content/6812?fr=category</guid>
-            <pubDate>Wed, 25 May 2022 08:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MZ 세대가 선택한 성수 모나미 스토어, 팬을 만드는 오프라인 공간 (퍼블리)]]></title>
-            <link>https://publy.co/content/6823?fr=category</link>
-            <guid>https://publy.co/content/6823?fr=category</guid>
-            <pubDate>Tue, 24 May 2022 08:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아(NVIDIA)처럼 일하는 4가지 방법, 그거 어떻게 하는 건데? (퍼블리)]]></title>
-            <link>https://publy.co/content/6813?fr=category</link>
-            <guid>https://publy.co/content/6813?fr=category</guid>
-            <pubDate>Tue, 24 May 2022 02:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[H워얼V, 킹아? 진짜 10대 신조어인지 팩트체크 해봤습니다 (캐릿)]]></title>

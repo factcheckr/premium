@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-03T07:22:32.802Z</updated>
+    <updated>2022-06-03T08:29:22.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제품 팀이 바로 실행할 수 있는 우선순위 결정법]]></title>
+        <id>https://publy.co/content/6797?fr=category</id>
+        <link href="https://publy.co/content/6797?fr=category"/>
+        <updated>2022-06-03T08:27:43.677Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루 참석 회의만 3개? 팀장의 유형별 회의 컨트롤 방법]]></title>
+        <id>https://publy.co/content/6814?fr=category</id>
+        <link href="https://publy.co/content/6814?fr=category"/>
+        <updated>2022-06-03T08:27:43.678Z</updated>
+        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당근마켓 PM이 사용자의 정성적인 경험에 주목하는 이유]]></title>
+        <id>https://publy.co/content/6829?fr=category</id>
+        <link href="https://publy.co/content/6829?fr=category"/>
+        <updated>2022-06-03T08:27:43.678Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어도비 CPO가 말하는 리더의 '불안'을 극복하는 몇 가지 방법]]></title>
         <id>https://publy.co/content/6815?fr=category</id>
@@ -53,26 +74,5 @@
         <link href="https://publy.co/content/6782?fr=category"/>
         <updated>2022-05-26T08:31:34.266Z</updated>
         <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀워크는 친해지는 것만으로 해결되지 않는다 (feat. 팀장의 빌드업 노하우)]]></title>
-        <id>https://publy.co/content/6812?fr=category</id>
-        <link href="https://publy.co/content/6812?fr=category"/>
-        <updated>2022-05-25T08:31:14.662Z</updated>
-        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ 세대가 선택한 성수 모나미 스토어, 팬을 만드는 오프라인 공간]]></title>
-        <id>https://publy.co/content/6823?fr=category</id>
-        <link href="https://publy.co/content/6823?fr=category"/>
-        <updated>2022-05-24T08:31:42.685Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔비디아(NVIDIA)처럼 일하는 4가지 방법, 그거 어떻게 하는 건데?]]></title>
-        <id>https://publy.co/content/6813?fr=category</id>
-        <link href="https://publy.co/content/6813?fr=category"/>
-        <updated>2022-05-24T02:04:52.792Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
 </feed>
