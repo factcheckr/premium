@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 08:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 09:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -646,6 +646,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #39에선, 박찬욱 감독의 칸 수상 뒤의 진정한 승리자 CJ, 알약도 물약도 아닌 디지털 치료제의 미래, 그리고 의료 서비스 플랫폼 강남언니의 민낯에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51211</link>
+            <guid>https://www.bookjournalism.com/audio/51211</guid>
+            <pubDate>Fri, 03 Jun 2022 09:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[성형과 영화와 치유의 욕망]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[강남언니에 홍보 수수료를 지급한 의사가 벌금형을 선고받았다. 미용과 의료의 불분명한 경계에 선 강남언니는 어떤 향방을 보일까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/51221</link>
             <guid>https://www.bookjournalism.com/books/51221</guid>
@@ -721,13 +728,6 @@
             <guid>https://www.bookjournalism.com/books/51055</guid>
             <pubDate>Fri, 03 Jun 2022 04:30:53 GMT</pubDate>
             <content:encoded><![CDATA[짝퉁 경제학]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[게임 회사가 정치적 목소리를 낸다. 이들의 선택은 무엇을 향하며 어디에 닿을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51028</link>
-            <guid>https://www.bookjournalism.com/books/51028</guid>
-            <pubDate>Fri, 03 Jun 2022 04:30:53 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 게임으로 번지 점프]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>

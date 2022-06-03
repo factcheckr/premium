@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-06-03T08:29:22.230Z</updated>
+    <updated>2022-06-03T09:25:33.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 라디오 에피소드 #39에선, 박찬욱 감독의 칸 수상 뒤의 진정한 승리자 CJ, 알약도 물약도 아닌 디지털 치료제의 미래, 그리고 의료 서비스 플랫폼 강남언니의 민낯에 관해 이야기 합니다.]]></title>
+        <id>https://www.bookjournalism.com/audio/51211</id>
+        <link href="https://www.bookjournalism.com/audio/51211"/>
+        <updated>2022-06-03T09:25:24.626Z</updated>
+        <content type="html"><![CDATA[성형과 영화와 치유의 욕망]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남언니에 홍보 수수료를 지급한 의사가 벌금형을 선고받았다. 미용과 의료의 불분명한 경계에 선 강남언니는 어떤 향방을 보일까.]]></title>
         <id>https://www.bookjournalism.com/books/51221</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/51055"/>
         <updated>2022-06-03T04:30:53.667Z</updated>
         <content type="html"><![CDATA[짝퉁 경제학]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임 회사가 정치적 목소리를 낸다. 이들의 선택은 무엇을 향하며 어디에 닿을까?]]></title>
-        <id>https://www.bookjournalism.com/books/51028</id>
-        <link href="https://www.bookjournalism.com/books/51028"/>
-        <updated>2022-06-03T04:30:53.667Z</updated>
-        <content type="html"><![CDATA[새로운 게임으로 번지 점프]]></content>
     </entry>
 </feed>
