@@ -4,16 +4,18 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 14:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 15:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[다시, 책으로 : 읽는 뇌의 위기, 책이 필요한 이유를 환기시키다]]></title>
-            <link>https://www.longblack.co/note/312</link>
-            <guid>https://www.longblack.co/note/312</guid>
-            <pubDate>Fri, 03 Jun 2022 15:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;지난 수요일, 서울 삼성동 코엑스에 다녀왔습니다. 서울국제도서전이 열리고 있거든요. 코로나의 여파로 작년, 재작년엔 소규모로 열렸던 서울국제도서전이 3년 만에 코<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220531/1653959081b60c40ba46424f7f03c25f4586b268d6.png" length="0" type="image/png"/>
+            <title><![CDATA[롱블랙 선데이 에디션]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 04 Jun 2022 15:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[K에게 자신감을 불어넣어 준 지난주 롱블랙의 문장
+
+“할머니를 통해 ‘누구나 할 수 있다’는 메시지를 던지는 것 같아요. 아시아의 여성, 그것도 노인이라는 ‘가장 변방의 위치’에 선 사람도 130만 명의 팬덤을 만들 수 있단 걸요. 나이 들어도 세계 여행을 떠날 수<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220603/16542226680e77e920a237b09539d6577b0a37a5f6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
