@@ -4,18 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 14:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 15:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 04 Jun 2022 15:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[K에게 자신감을 불어넣어 준 지난주 롱블랙의 문장
-
-“할머니를 통해 ‘누구나 할 수 있다’는 메시지를 던지는 것 같아요. 아시아의 여성, 그것도 노인이라는 ‘가장 변방의 위치’에 선 사람도 130만 명의 팬덤을 만들 수 있단 걸요. 나이 들어도 세계 여행을 떠날 수<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220603/16542226680e77e920a237b09539d6577b0a37a5f6.png" length="0" type="image/png"/>
+            <title><![CDATA[내가 틀릴 수도 있습니다 : 불안의 폭풍우에서 삶을 건지는 힘]]></title>
+            <link>https://www.longblack.co/note/313</link>
+            <guid>https://www.longblack.co/note/313</guid>
+            <pubDate>Sun, 05 Jun 2022 15:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;현충일입니다. 벌써 한 해의 절반이 지나갑니다. 6개월 동안 바쁘게 달렸던 저도, 오늘만큼은 지나온 시간을 되돌아보려 합니다. 새로운 마음으로 남은 절반을 시작하<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220603/165425022944c13c33c98d49c70a70db93bae31fad.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
