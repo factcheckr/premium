@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 14:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 15:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재방문하고 싶은 무인매장의 디테일 포인트.zip]]></title>
+            <link>https://www.careet.net/778</link>
+            <guid>https://www.careet.net/778</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 무인 매장이 대세라고? 이 포인트만 기억하세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/de96b916-58a7-46c1-b9c9-fdc6ca68c9f0_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[H워얼V, 킹아? 진짜 10대 신조어인지 팩트체크 해봤습니다]]></title>
             <link>https://www.careet.net/779</link>

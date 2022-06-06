@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 14:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 15:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6782?fr=category</guid>
             <pubDate>Thu, 26 May 2022 08:31:34 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[재방문하고 싶은 무인매장의 디테일 포인트.zip (캐릿)]]></title>
+            <link>https://www.careet.net/778</link>
+            <guid>https://www.careet.net/778</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 무인 매장이 대세라고? 이 포인트만 기억하세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/de96b916-58a7-46c1-b9c9-fdc6ca68c9f0_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[H워얼V, 킹아? 진짜 10대 신조어인지 팩트체크 해봤습니다 (캐릿)]]></title>
@@ -350,12 +358,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/834515c4-a816-4c88-b78a-b4c4b9e6de7e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[내가 틀릴 수도 있습니다 : 불안의 폭풍우에서 삶을 건지는 힘 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/313</link>
-            <guid>https://www.longblack.co/note/313</guid>
-            <pubDate>Sun, 05 Jun 2022 15:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;현충일입니다. 벌써 한 해의 절반이 지나갑니다. 6개월 동안 바쁘게 달렸던 저도, 오늘만큼은 지나온 시간을 되돌아보려 합니다. 새로운 마음으로 남은 절반을 시작하<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220606/165447865172b6211bb148c33f6369576398199c05.png" length="0" type="image/png"/>
+            <title><![CDATA[골프존 : 스크린과 필드를 장악한 골프 왕국, 재무제표 뜯어보기 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/302</link>
+            <guid>https://www.longblack.co/note/302</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L요즘 골프 인기가 장난 아닌 거 알아? 주말이면 인스타그램에 골프장 사진이 왜 이렇게 올라와? 난 골프는 안 쳐. 하지만 골프 비즈니스에는 관심이 아주 많아. 그래<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220524/1653363649994a7602d2f8667b8649d8b4f7aff6a9.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[mtl, 브랜딩 최종 목표는 한국의 바우하우스 (폴인)]]></title>
@@ -646,75 +654,160 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [77일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220530052010741yy</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220530052010741yy</guid>
-            <pubDate>Sun, 05 Jun 2022 15:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [77일차] 굿모닝러너님, 오늘 하루, 평범한 결과를 만들어보세요~ 성공이든 실패든 중요하지 않아요.  풍부한 결과는 나를 이기는 습관으로 데려다 줄거에요 :) 굿모닝러너_챌린지_77일차 #20220530 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다.]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MzBfMjA0/MDAxNjUzODU1NTY5NDQ2.NlIIyglVYHjegYQeR8tQUQfKNRRlxAmjQR43BCmozHkg.F3BpRbbNU_XXNqDXlhrGSiZq_lSu5KvbY_SxmZn4Uokg.JPEG/KakaoTalk_20220530_051708329.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[새 옷을 입은 마트가 날고 있다. 이 날개는 어떤 모습일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51239</link>
+            <guid>https://www.bookjournalism.com/books/51239</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[마트, 다녀오셨어요?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[주식 창 열면 가장 먼저 확인해야 하는것! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/stock/stockup/contents/220530001715052rc</link>
-            <guid>https://contents.premium.naver.com/stock/stockup/contents/220530001715052rc</guid>
-            <pubDate>Sun, 05 Jun 2022 15:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 오늘은 주식 창 열면 가장 먼저 해야 할 일에 대해서 글을 써보도록 하겠습니다. 대다수의 분들이 주식 창을 열면 본인이 매수한 종목들이 어떻게 되는지 오늘 급등한 종목이 무엇인지를 찾는다고 정신이 없습니다. 물론 당연히 자기가 산 종목과 급등하는 종목이 무엇인지 체크하는 게 중요하지 않는 것은 아닙니다. 그러나 가장 기초적인 부분이고 가장 먼저 해야]]></content:encoded>
+            <title><![CDATA[북저널리즘 신간《기본소득 101》의 저자인 김찬휘 녹색당 공동대표에게 왜 기본소득이 시대적 의제인지 물었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51241</link>
+            <guid>https://www.bookjournalism.com/audio/51241</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜 북토크 ; 기본소득 101]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[브리핑] 골드먼삭스 "배터리 소재, 앞으로 2년간 하락한다!" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220530081244544is</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220530081244544is</guid>
-            <pubDate>Sun, 05 Jun 2022 15:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[골드먼삭스!  음모론을 믿는 시장 참여자의 눈엔 글로벌 원자재(상품) 시장을 쥐락펴락하는 세력으로 비칩니다. 1990년대 투자은행 가운데 상품(원자재) 투자를 개척해 본격적으로 한 기억 때문인 듯합니다. 물론 글로벌 상품시장 규모가 너무나 거대하고 다양해 개별 투자은행이 쥐락펴락한다는 가설 자체가 경제논리에 반합니다. 다만 골드먼삭스가 상품시장에서 오피니언 리]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MzBfMjEg/MDAxNjUzODY1ODgzMjg0.-YSPrtAMfs66KsUr70reqWDdbIDL5Gv-qTMhfBobzIkg.MUCHdBw4nL3-D0CmV9X4qSSUUl_PfZeu8oOA90nWCr8g.PNG/%EB%B0%B0%ED%84%B0%EB%A6%AC_3%EB%8C%80_%EC%86%8C%EC%9E%AC.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #39에선, 박찬욱 감독의 칸 수상 뒤의 진정한 승리자 CJ, 알약도 물약도 아닌 디지털 치료제의 미래, 그리고 의료 서비스 플랫폼 강남언니의 민낯에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51211</link>
+            <guid>https://www.bookjournalism.com/audio/51211</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[성형과 영화와 치유의 욕망]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국타이어 아시아 최대 테스트트랙 '테크노링'의 역할은 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220527165937860uf</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220527165937860uf</guid>
-            <pubDate>Sun, 05 Jun 2022 15:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[“테크노링은 한국타이어가 연구개발을 통해 확보한 기술들의 최종 테스트 관문입니다. 다양한 테스트 환경에서 얻은 데이터를 분석하고 이를 신성장동력으로 활용하겠습니다.” 한국타이어앤테크놀로지(한국타이어)가 충남 태안에 위치한 타이어 테스트트랙 ‘한국테크노링(테크노링)’을 5월25일 오픈했습니다. 현장에서 본 테크노링은 넓은 규모가 우선 인상적이었습니다]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjdfNjUg/MDAxNjUzNjM1ODg2MTMx.Bp2JRGTLCYCh1svWuUO7dOC3zZvcIVaKodifk2SdEgog.tP7pwPbyNmtF0WcfKPUyfD1jFZ0joC8LHi-j59-Ymowg.JPEG/img_airless_tire2x.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[강남언니에 홍보 수수료를 지급한 의사가 벌금형을 선고받았다. 미용과 의료의 불분명한 경계에 선 강남언니는 어떤 향방을 보일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51221</link>
+            <guid>https://www.bookjournalism.com/books/51221</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[언니를 만나도, 고민은 계속된다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[스낵에세이] 수월한 삶은 없어도 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220530103913729np</link>
-            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220530103913729np</guid>
-            <pubDate>Sun, 05 Jun 2022 15:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[윤성식 작가님의 '사막을 건너야 서른에 온다' 속엔 이런 문장이 등장한다. '나는 수월하게 사는 사람을 본 적이 없어. 다만 세상에 휘둘리는 사람과 휘둘리지 않는 사람이 있을 뿐이지.' 가수 이효리 씨의 인터뷰를 보며 후자에 해당하는 인물이 바로 그녀이지 않을까 싶었다. 쉽게 휘둘리지 않으니 다루는 말들이 담백해지고, 무거울 법한 고민들도 금세 가벼워진다. 유난히 인]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MzBfNzQg/MDAxNjUzODczODEyODc5.P7LEqlFT9-S5tzvHpj2iaICV774uPSoPCrtErVfO79wg.CI6Z5qnFHT9hcJKetUmrduKDOhFQuYUgDJi76dtalsgg.JPEG/photo-1599344941194-5eb5eaaaf73d.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[칸에서 들어올린 트로피 뒤에는 CJ의 미디어제국이 있다. 제국의 역사는 계속될 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51203</link>
+            <guid>https://www.bookjournalism.com/books/51203</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[CJ의 다음 미장센은?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[토요타, 생산 목표치 ‘또’ 감축 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220530083108013of</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220530083108013of</guid>
-            <pubDate>Sun, 05 Jun 2022 15:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[💬 무슨 일이지? 일본 완성차업체 토요타가 27일(현지시간) 기존 6월 글로벌 생산 목표치에서 약 5만 대를 줄이겠다고 발표했습니다. 토요타는 지난 화요일에도 글로벌 반도체 쇼크를 이유로 생산 목표치를 당초 발표한 95만 대에서 10만 대 낮춘 85만 대로 하향 조정했는데요. 중국 상하이 봉쇄로 인해 일본 공장이 일부 가동 중지되자 추가적인 계획 축소에 나선 겁니다. 이에 따라]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MzBfMTQ4/MDAxNjUzODY2OTAzMzQ2.hslDWbVsVNNhRal6xtcelvQge8KZ4Eh5i8n0jmAlpIAg.2P4_17OPWUup0XJ5e_MEfd8n-PG4EO8ZUmaYVO2Lid8g.JPEG/2._%ED%86%A0%EC%9A%94%ED%83%80_(%EC%B6%9C%EC%B2%98_=_%ED%86%A0%EC%9A%94%ED%83%80_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[《THREAD》가 만들어지기까지 어떤 사람들이, 어떤 마음으로, 어떻게 일했는지 소개합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51171</link>
+            <guid>https://www.bookjournalism.com/books/51171</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[《THREAD》가 태어났습니다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아무 문장이나 한 문장씩 익힌다고 영어가 늘까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330155617418TA</link>
-            <guid>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330155617418TA</guid>
-            <pubDate>Sun, 05 Jun 2022 15:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[어느 날 새로운 표현을 익히게 되면  이런 생각을 하지 않으셨나요? “그래, 이렇게 하루 한 문장씩  새로운 문장을 익히면  몇 년 후엔 영어를 잘 할 수 있을거야.” 이런 생각을 하시는 분들은 많지만, 실제로 한 문장씩 익혀서  영어를 잘 하게 되었다는 분들을  만나기는 쉽지 않습니다. 일단 꾸준히 한 문장씩 익히는 분들을  만나기가 쉽지 않습니다.  (제 주변에만 없는걸까요]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjk5/MDAxNjQ4NjEzMTcyODYy.Ocjuhb4WS1TYHr_wvXym7xTnYDAy2O_g3ohBR7O6PRAg.489rU7g2GBUt5YyrkrqfCNgd5HXI1mr22mmeY2FooVwg.JPEG/n2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[세계적인 작가이자 영화감독인 에마뉘엘 카레르에게 우울의 덫이 찾아왔다. 저자는 결국 살아남았지만, 그 과정에서 모든 것이 산산이 부서지고 말았다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51120</link>
+            <guid>https://www.bookjournalism.com/books/51120</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[그 공포를 설명할 방법이 없다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[넷플릭스도 '흔들', OTT 투자 괜찮을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220530083528391tx</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220530083528391tx</guid>
-            <pubDate>Sun, 05 Jun 2022 15:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[무슨 일이지? 29일(현지시간) 경제매체 CNBC는 온라인동영상스트리밍(OTT) 업체 전반의 위기를 진단했습니다. 넷플릭스의 '1강' 체제가 빠르게 무너지고 있는 상황을 조명한 것인데요. 디즈니+, HBO, 애플TV+, 파라마운트+ 등 후발주자들이 빠르게 가입자 수를 증가시키면서 시장 생태계가 재편되고 있다고 평가했습니다.  치열한 시장 경쟁 상황은 최근 1등 넷플릭스의 가입자 수 감소]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MzBfMTIx/MDAxNjUzODY3MjU0MDI0.YCpyEYT_B_KzNyiE6usxao3Wrb-vDCUbZVLRKHIe4H4g.eG6kz1KG37ZELSXc1M3RAqTuQGpWLCD1I9ZDS_A5Obwg.JPEG/1._OTT_(Photo_by_Sunder_Muthukumaran_on_Unsplash).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[디지털 치료제 시장이 뜨겁다. 게임사까지 이곳에 뛰어드는 이유는 무엇인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51127</link>
+            <guid>https://www.bookjournalism.com/books/51127</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[기적의 치료제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[테마주-부동산리츠 : 인플레 피난처 '리츠(REIT)'...미국 부동산은 고공행진 중! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220530142803990zq</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220530142803990zq</guid>
-            <pubDate>Mon, 06 Jun 2022 12:49:23 GMT</pubDate>
-            <content:encoded><![CDATA[치솟은 집값과  대출금리 상승으로 초봉보다 빠르게 오르는 월세! 미국서 젤 비싼 동네가 월세 약 490만원~!!?? 주가변동은 적고, 배당수익 쏠쏠 미국 부동산 리츠는 뭐가 있을까? #미국리츠 #미국배당주 #미국주식  미국 부동산 임대료가  엄청난 속도로 오르고 있단게 실화~? 애플과 구글의 힘인가요? 미국 샌프란시스코의 임대료가 한화로 490만원..ㄷㄷㄷ 미국은 10여년 만에  주택]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MzBfMjE2/MDAxNjUzODg3ODczNDkz.pbdyK3VzsgSqB1WMDpDfjemqrC-lW9NY7u9tRyLm2O8g.WnyiUHq7AcHwB_h8I5mca0KbTfC4iKWNu8UXVvKWuOAg.PNG/1.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[6월 첫째 주 - 우리에게 잡지가 필요하지 않았던 시대는 없었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51102</link>
+            <guid>https://www.bookjournalism.com/books/51102</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[잡지의 탄생]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인류는 새로운 시대에 서 있다. 지구와의 관계를 재설정하는 내러티브가 필요하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50880</link>
+            <guid>https://www.bookjournalism.com/books/50880</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[인류세 시나리오]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #38에선, 스냅발 쇼크로 요동치고 있는 빅테크 주가, 라이카와 샤오미의 콜라보로 짚어보는 클래식 브랜드 전략, 정치적 올바름을 이야기하는 게임 회사, 그리고 조 바이든 미국 대통령의 방한이 남긴 것들에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51091</link>
+            <guid>https://www.bookjournalism.com/audio/51091</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 게임과 빅테크의 버블버블]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스냅발 쇼크로 기술주의 주가가 요동친다. 잠시의 흔들림인가 빅테크 신화 붕괴의 전조인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51078</link>
+            <guid>https://www.bookjournalism.com/books/51078</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[롤러코스터 위의 빅테크]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2. 굶지도 말고 과식도 말고 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220104110414775MU</link>
+            <guid>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220104110414775MU</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 선비가 양식을 꾸어 달라는 편지를 보냈다. 그는 늘 하던 대로 초서草書로 썼다. 그런데 글을 받은 사람이 그 흘림체를 해독하지 못해 선비는 저녁을 굶었다. 예로부터 전해오는 이른바 ‘저녁 굶긴 초서’이다.                    세상에 참 우연한 일치가 많지만, 어쩌다 나도 저녁 굶긴 초서가 연상되는 일을 겪었다. 1983년 잡지를 편집할 때 어떤 분으로부터 받은 편지가 토씨]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMzFfMjQ1/MDAxNjQzNjAyODQ1NjU5.WiYwbZtPyPs1M47nwTP9gBuG2pFkTdh0Iof9nHDgti8g.mrILd0CVZqL7a52fDq7Z-65Su_Ti49K5S3-49S1t4-cg.JPEG/pr_wh_rec_bnr_pink.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언더아머 2022년 1분기 실적 발표 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoetalk/magazine/contents/220523162136781yo</link>
+            <guid>https://contents.premium.naver.com/shoetalk/magazine/contents/220523162136781yo</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 6일, 미국에 본사를 둔 언더아머 Under Armour가 2022년 1분기 결산 분기 실적 발표(Under Armour Financial Reports Q1 2022)를 공개했다. 언더아머는 2022년 3월 31일 마감 기준의 1분기 실적 보고(Under Armour Financial Reports Q1 2022)에서 전년도 대비 매출 3.42% 증가한 13억 달러(전년 12.6억 달러)라고 밝혔다. 주당 순이익(EPS)이 0.01달러로 시장 전망치 0.06달러보다 낮아 어닝 쇼크를 기록했다. 언]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjNfMjY4/MDAxNjUzMjkwNDc4Njcw.uBemYzoRaDk25Vb4bbvk_EXPF8DvKd_aEV-mnXeJnjQg.ZnJq9W9XsXMEUfCsvjLjsH-ID3Apaz-MsYGOCvM1Khog.JPEG/Under_Armour_Financial_Reports_Q1_2022.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키의 디지털 비즈니스 실험 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoetalk/magazine/contents/220523164347789ob</link>
+            <guid>https://contents.premium.naver.com/shoetalk/magazine/contents/220523164347789ob</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[Chapter 1. 나이키의 디지털 비즈니스 실험 Nike Digital Business Experiment 지난달 나이키 NIKE가 아티팩트 스튜디오와 함께 공개한 DUNK CRYPTOKICKS NFT를 시작으로, 글로벌 스포츠 브랜드 1위의 나이키가 디지털 비즈니스의 본격적인 실험(Nike Digital Business Experiment)이 시작되었다. 이미 나이키 NIKE의 디지털 비즈니스 행보는 작년부터 시작되었다. 아티팩트 RTFKT Studios를 인수하고 자사의 미래의]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjNfMzUg/MDAxNjUzMjkxNDk5MzY1.tcQVzNrr5yNheHb_vVXnby12N5uWXg6ydvbfGDTchOYg.2guGDXnHd88LkrnY9Mir2QYcBTb_35nAHE0fhBF08f8g.JPEG/220511_main-1-1080x1080.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arklyz 그룹, 아스팔트골드 스토어 인수 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoetalk/magazine/contents/220523152432854sp</link>
+            <guid>https://contents.premium.naver.com/shoetalk/magazine/contents/220523152432854sp</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[스위스에 본사를 두고 살로몬(Salomon), 헤드(HEAD), 애슬레틱 풋 스토어(The Athlete's Foot/TAF)를 소유한 Arklyz 그룹이 독일의 리테일 스토어 아스팔트골드 Asphaltgold를 인수했다. 독일 프랑크푸르트 근교 도시 다름슈타트(Darmstadt)에 위치한 아스팔트골드 스토어(Asphaltgold Sneaker Store)는 2008년부터 리테일 사업을 시작했다. 국내에서는 독일 직구 사이트 중 하나로 유명하다. 독일과 유럽 내]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjNfMjAz/MDAxNjUzMjg2OTUxMTU2.oOG0yLbBcEMj66Pnwks75-TnDovKWYmi6Y9mFewKtBsg.VPkaLikfIlY3CqQ59LwxmPsI7tiurXpmY9AYWtvP2NEg.JPEG/Arklyz_Acquires_Asphaltgold.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국신발기업정보망 Korea Shoes Map (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoetalk/magazine/contents/220523161722868mc</link>
+            <guid>https://contents.premium.naver.com/shoetalk/magazine/contents/220523161722868mc</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[신발산업진흥센터에서 운영하는 국내외 신발 산업 기업 정보를 제공하는 한국신발기업정보망 Korea Shoes Map(https://shoesmap.kr) 웹사이트가 있다. 한국신발기업정보망 Korea Shoes Map은 한국 신발 기업 정보 수요자와 공급자 상호 간의 필요한 정보를 구축, 양방향으로 제공함으로써 한국신발산업 공급사슬망 개선 및 경쟁력 있는 신발기업의 발굴, 성장 지원을 목표로 한다고 밝힌다. 현]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjNfMTE2/MDAxNjUzMjkwMTk0MTQw.RxmcVSkHuNMMhp3Uiy-N-LMvX56DzUBzC43ZDCB7Zbwg.oW_vQPBnzraCOD3sISIajcywSCw2iEcrT_OvroFCk_gg.JPEG/Korea-Shoes-Map.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Invisible KITH Friends NFT (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoetalk/magazine/contents/220523152049647vr</link>
+            <guid>https://contents.premium.naver.com/shoetalk/magazine/contents/220523152049647vr</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[언제나 매력적인 컬러링과 감각을 보여주는 로니 피그(Ronnie Fieg) 그리고 그가 이끄는 KITH 스토어가 Invisible Friends와 함께 Invisible KITH Friends NFT를 선보인다. 디자이너 Markus Magnusson가 제작한 애니메이션 NFT 프로젝트 Invisible Friends는 인상적인 귀여운 디자인과 GIF 움짤 요소로 큰 히트를 기록했다. 인비지블 프렌드프로젝트는 5천개의 NFT로 구성되었고, 현재(2022년 5월 18일 기준) 오픈]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjNfMTg3/MDAxNjUzMjg2NTc3MzA5.a5DJXBvdnWw2xiVSPI6KE8GVp10NebFbM8Ue9zrGudkg.2MpdWBHOc8VOYfpAdYAwwh0c2uMqnYtn5AivtL8qZtwg.JPEG/Invisible_Kith_Friends.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[책, 올해의 스니커즈 Sneaker of the Year (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoetalk/magazine/contents/220523153743369oz</link>
+            <guid>https://contents.premium.naver.com/shoetalk/magazine/contents/220523153743369oz</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[Chapter 1 책, 올해의 스니커즈 Sneaker of the Year 콤플렉스 네트웍스 그룹이 2020년 제작한 책 『Sneaker of the Year: The Best Since ’85』 이 『올해의 스니커즈』 Sneaker of the Year라는 제목으로 번역되어 워크룸프레스를 통해 발간된다. 5월 25일 정식 출간(하지만 이미 판매는 시작되었으니, 이 글을 읽고 바로 주문하시길)을 앞둔 책 『올해의 스니커즈』(Sneaker of the Year)는 정말 오랜만에 한글]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjNfMTg3/MDAxNjUzMjg3NjUyNzU4.08jNy0AuzfNxLw0sR7Ep-uQDK2r2g8cYqbAugFu3ocQg.YwWSJUPEp8USgq3euWuBcgTSVFjwyad0H3DEEw9VJEMg.JPEG/sneaker-of-the-year.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부실 세금계산서 수수 행위에 대한 부과제척기간 적용 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxnet/taxnetpremium/contents/220524135741218hd</link>
+            <guid>https://contents.premium.naver.com/taxnet/taxnetpremium/contents/220524135741218hd</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[세무조사시 쟁점이 될 수 있는 부가가치세 이슈 부실 세금계산서 수수 행위에 대한 부과제척기간 적용 재화 또는 용역을 공급받지 않고 세금계산서를 발급받거나, 재화 또는 용역을 공급하고 세금계산서상 공급가액을 과소하게 발급하는 등 부실 세금계산서 수수 사실이 세무조사 등을 통해 과세당국에 적발된 경우에는 해당 부가가치세뿐만 아니라 이에 관련된 법인세 또는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjRfOTMg/MDAxNjUzMzY2MzQ0MTY5.8Hb9kAi-puVdAlHScagPyQXWg7NWLvLhUGa2MhgzDtcg.XDU1uv22AItMbxgIk6HSjjHg8QDjMHP-mqz5G0sfovog.PNG/post_220502_1.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니 플러스 ‘신’데렐라, 스니커렐라 Sneakerella (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoetalk/magazine/contents/220523152914216wd</link>
+            <guid>https://contents.premium.naver.com/shoetalk/magazine/contents/220523152914216wd</guid>
+            <pubDate>Mon, 06 Jun 2022 15:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[국내에도 정식 진출한 월트디즈니의 OTT 서비스 디즈니 플러스의 오리지널 영화 『스니커렐라 Sneakerella(‘신’데렐라)』가 5월 13일 공개되었다. 디즈니 플러스가 제작한 오리지널 콘텐츠, 팝/힙합 뮤지컬 영화 『스니커렐라』는 아직 한국에서는 정식으로 서비스 되고 있지는 않다. 하지만 한국어 포스터가 제작된 것을 보면 곧 국내에도 볼 수 있을 것으로 기대된다. 한국 서비]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjNfMTYw/MDAxNjUzMjg3MTQ4MjQ1.Fe0IpGl9DW_VsSneiUZm695CX0w6MYizGxOD7o2ZFeQg.zg6objkYcdpfeKoKdA2oFXjFHGXRcBVSRKlF_e9sZOcg.JPEG/disneyplus-sneakerella-promo-1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
