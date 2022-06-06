@@ -4,7 +4,7 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 23:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 02:05:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.longblack.co/note/313</guid>
             <pubDate>Sun, 05 Jun 2022 15:22:28 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;현충일입니다. 벌써 한 해의 절반이 지나갑니다. 6개월 동안 바쁘게 달렸던 저도, 오늘만큼은 지나온 시간을 되돌아보려 합니다. 새로운 마음으로 남은 절반을 시작하<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220603/165425022944c13c33c98d49c70a70db93bae31fad.png" length="0" type="image/png"/>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220606/165447865172b6211bb148c33f6369576398199c05.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
