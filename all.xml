@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 07:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 08:31:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페북 출신 마케터가 알려주는 매체별 최적화와 미디어 플래닝 (퍼블리)]]></title>
+            <link>https://publy.co/content/6837?fr=category</link>
+            <guid>https://publy.co/content/6837?fr=category</guid>
+            <pubDate>Tue, 07 Jun 2022 08:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[팀장의 파워 게임 : 정치력이 필요한 순간 [ep.1] (퍼블리)]]></title>
+            <link>https://publy.co/content/6828?fr=category</link>
+            <guid>https://publy.co/content/6828?fr=category</guid>
+            <pubDate>Tue, 07 Jun 2022 08:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[제품 팀이 바로 실행할 수 있는 우선순위 결정법 (퍼블리)]]></title>
             <link>https://publy.co/content/6797?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6830?fr=category</guid>
             <pubDate>Fri, 27 May 2022 08:36:39 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[평범한 직장인이 글쓰기를 시작하는 방법(미션 시트 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/6819?fr=category</link>
-            <guid>https://publy.co/content/6819?fr=category</guid>
-            <pubDate>Fri, 27 May 2022 08:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비즈니스의 성장을 위한 지표 설정 및 관리법 (feat. 아마존의 '순서 파괴') (퍼블리)]]></title>
-            <link>https://publy.co/content/6782?fr=category</link>
-            <guid>https://publy.co/content/6782?fr=category</guid>
-            <pubDate>Thu, 26 May 2022 08:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[재방문하고 싶은 무인매장의 디테일 포인트.zip (캐릿)]]></title>
@@ -652,90 +652,6 @@
             <pubDate>Tue, 03 May 2022 11:22:43 GMT</pubDate>
             <content:encoded><![CDATA[<li>공간</li>
                                 <li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새 옷을 입은 마트가 날고 있다. 이 날개는 어떤 모습일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51239</link>
-            <guid>https://www.bookjournalism.com/books/51239</guid>
-            <pubDate>Tue, 07 Jun 2022 04:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[마트, 다녀오셨어요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 신간《기본소득 101》의 저자인 김찬휘 녹색당 공동대표에게 왜 기본소득이 시대적 의제인지 물었습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51241</link>
-            <guid>https://www.bookjournalism.com/audio/51241</guid>
-            <pubDate>Tue, 07 Jun 2022 04:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜 북토크 ; 기본소득 101]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #39에선, 박찬욱 감독의 칸 수상 뒤의 진정한 승리자 CJ, 알약도 물약도 아닌 디지털 치료제의 미래, 그리고 의료 서비스 플랫폼 강남언니의 민낯에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51211</link>
-            <guid>https://www.bookjournalism.com/audio/51211</guid>
-            <pubDate>Tue, 07 Jun 2022 04:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[성형과 영화와 치유의 욕망]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강남언니에 홍보 수수료를 지급한 의사가 벌금형을 선고받았다. 미용과 의료의 불분명한 경계에 선 강남언니는 어떤 향방을 보일까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51221</link>
-            <guid>https://www.bookjournalism.com/books/51221</guid>
-            <pubDate>Tue, 07 Jun 2022 04:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[언니를 만나도, 고민은 계속된다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[칸에서 들어올린 트로피 뒤에는 CJ의 미디어제국이 있다. 제국의 역사는 계속될 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51203</link>
-            <guid>https://www.bookjournalism.com/books/51203</guid>
-            <pubDate>Tue, 07 Jun 2022 04:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[CJ의 다음 미장센은?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[《THREAD》가 만들어지기까지 어떤 사람들이, 어떤 마음으로, 어떻게 일했는지 소개합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51171</link>
-            <guid>https://www.bookjournalism.com/books/51171</guid>
-            <pubDate>Tue, 07 Jun 2022 04:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[《THREAD》가 태어났습니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세계적인 작가이자 영화감독인 에마뉘엘 카레르에게 우울의 덫이 찾아왔다. 저자는 결국 살아남았지만, 그 과정에서 모든 것이 산산이 부서지고 말았다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51120</link>
-            <guid>https://www.bookjournalism.com/books/51120</guid>
-            <pubDate>Tue, 07 Jun 2022 04:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[그 공포를 설명할 방법이 없다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디지털 치료제 시장이 뜨겁다. 게임사까지 이곳에 뛰어드는 이유는 무엇인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51127</link>
-            <guid>https://www.bookjournalism.com/books/51127</guid>
-            <pubDate>Tue, 07 Jun 2022 04:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[기적의 치료제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[6월 첫째 주 - 우리에게 잡지가 필요하지 않았던 시대는 없었습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51102</link>
-            <guid>https://www.bookjournalism.com/books/51102</guid>
-            <pubDate>Tue, 07 Jun 2022 04:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[잡지의 탄생]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인류는 새로운 시대에 서 있다. 지구와의 관계를 재설정하는 내러티브가 필요하다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50880</link>
-            <guid>https://www.bookjournalism.com/books/50880</guid>
-            <pubDate>Tue, 07 Jun 2022 04:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[인류세 시나리오]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #38에선, 스냅발 쇼크로 요동치고 있는 빅테크 주가, 라이카와 샤오미의 콜라보로 짚어보는 클래식 브랜드 전략, 정치적 올바름을 이야기하는 게임 회사, 그리고 조 바이든 미국 대통령의 방한이 남긴 것들에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51091</link>
-            <guid>https://www.bookjournalism.com/audio/51091</guid>
-            <pubDate>Tue, 07 Jun 2022 04:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 게임과 빅테크의 버블버블]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스냅발 쇼크로 기술주의 주가가 요동친다. 잠시의 흔들림인가 빅테크 신화 붕괴의 전조인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51078</link>
-            <guid>https://www.bookjournalism.com/books/51078</guid>
-            <pubDate>Tue, 07 Jun 2022 04:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[롤러코스터 위의 빅테크]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
