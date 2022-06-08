@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-06-08T21:24:38.260Z</updated>
+    <updated>2022-06-08T22:23:59.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 고객 경험 설계로 M/S 40% 점유한 캐스퍼]]></title>
+        <id>https://www.folin.co/story/2225</id>
+        <link href="https://www.folin.co/story/2225"/>
+        <updated>2022-06-08T22:23:39.804Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[필립스헬스시스템 김동희 대표 "컴포트존에만 있지 말길"]]></title>
+        <id>https://www.folin.co/story/2219</id>
+        <link href="https://www.folin.co/story/2219"/>
+        <updated>2022-06-08T22:23:39.804Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뭐든지 다하는' 갓생기획팀 MD 인터뷰]]></title>
         <id>https://www.folin.co/story/2217</id>
@@ -276,21 +292,5 @@
         <updated>2022-05-08T22:23:26.227Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디자이너의 욕구'와 '사업가의 전략'이 공존하는 법]]></title>
-        <id>https://www.folin.co/story/2180</id>
-        <link href="https://www.folin.co/story/2180"/>
-        <updated>2022-05-06T01:53:17.302Z</updated>
-        <content type="html"><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤넬코리아 최초 법무팀장 "실패는 필연, 도전은 필수"]]></title>
-        <id>https://www.folin.co/story/2173</id>
-        <link href="https://www.folin.co/story/2173"/>
-        <updated>2022-05-03T22:24:29.488Z</updated>
-        <content type="html"><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content>
     </entry>
 </feed>
