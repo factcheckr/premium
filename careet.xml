@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 06:30:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 07:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누굴 섭외해야 할까? 바쁜 담당자를 위한 분야별 인플루언서 리스트업]]></title>
+            <link>https://www.careet.net/773</link>
+            <guid>https://www.careet.net/773</guid>
+            <pubDate>Wed, 08 Jun 2022 07:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[이런 거 누가 안 해주나? 캐릿이 다 해드림!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/1b489908-9dde-48e1-8cda-0bf99d645d31_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[재방문하고 싶은 무인매장의 디테일 포인트.zip]]></title>
             <link>https://www.careet.net/778</link>
