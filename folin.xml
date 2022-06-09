@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-06-09T08:33:58.839Z</updated>
+    <updated>2022-06-09T09:27:08.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
                                 <li>커리어</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[필립스헬스시스템 김동희 대표 "컴포트존에만 있지 말길"]]></title>
+        <title type="html"><![CDATA[필립스코리아 김동희 대표 "컴포트존에만 있지 말길"]]></title>
         <id>https://www.folin.co/story/2219</id>
         <link href="https://www.folin.co/story/2219"/>
         <updated>2022-06-08T22:23:39.804Z</updated>
