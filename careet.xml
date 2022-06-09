@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 07:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 08:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,13 @@
             <pubDate>Thu, 09 Jun 2022 03:54:22 GMT</pubDate>
             <content:encoded><![CDATA[온라인 쇼핑몰 29CM의 콘텐츠 마케팅 영업 비밀]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/405305a2-10ab-433e-a465-e19cfe64d40e_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] 코시국 이후에도 Z세대에게 주목받는 비대면 마라톤!?]]></title>
+            <link>https://www.careet.net/784</link>
+            <guid>https://www.careet.net/784</guid>
+            <pubDate>Thu, 09 Jun 2022 08:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 러닝크루와 함께 비대면 마라톤 대회 참가하기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[누굴 섭외해야 할까? 바쁜 담당자를 위한 분야별 인플루언서 리스트업]]></title>

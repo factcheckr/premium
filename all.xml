@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 07:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 08:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사용자가 원하는 걸 빨리 찾게 하려면? 검색 UX 총정리 (퍼블리)]]></title>
+            <link>https://publy.co/content/6842?fr=category</link>
+            <guid>https://publy.co/content/6842?fr=category</guid>
+            <pubDate>Thu, 09 Jun 2022 08:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[팀장의 의사결정, ‘쫓겨서’가 아니라 ‘제때’ 제대로 하려면 (퍼블리)]]></title>
+            <link>https://publy.co/content/6806?fr=category</link>
+            <guid>https://publy.co/content/6806?fr=category</guid>
+            <pubDate>Thu, 09 Jun 2022 08:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[동료가 인정하는 커뮤니케이션 잘하는 PM의 6가지 특징 (퍼블리)]]></title>
             <link>https://publy.co/content/6844?fr=category</link>
@@ -22,7 +36,7 @@
             <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팀장의 파워 게임 : 정치력이 필요한 순간 [ep.1] (퍼블리)]]></title>
+            <title><![CDATA[(웹소설) 팀장의 파워 게임 : 정치력이 필요한 순간 [ep.1] (퍼블리)]]></title>
             <link>https://publy.co/content/6828?fr=category</link>
             <guid>https://publy.co/content/6828?fr=category</guid>
             <pubDate>Tue, 07 Jun 2022 08:30:11 GMT</pubDate>
@@ -64,26 +78,19 @@
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데이터를 해석할 때 하기 쉬운 N가지 실수 (퍼블리)]]></title>
-            <link>https://publy.co/content/6766?fr=category</link>
-            <guid>https://publy.co/content/6766?fr=category</guid>
-            <pubDate>Mon, 30 May 2022 08:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일하는 판이 바뀐다 : 팬데믹 이후 변화된 일본의 워크 스타일 (퍼블리)]]></title>
-            <link>https://publy.co/content/6816?fr=category</link>
-            <guid>https://publy.co/content/6816?fr=category</guid>
-            <pubDate>Mon, 30 May 2022 08:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[인터뷰] 29CM가 콘텐츠 마케팅으로 MZ세대 소비자 지갑 여는 법 (캐릿)]]></title>
             <link>https://www.careet.net/781</link>
             <guid>https://www.careet.net/781</guid>
             <pubDate>Thu, 09 Jun 2022 03:54:22 GMT</pubDate>
             <content:encoded><![CDATA[온라인 쇼핑몰 29CM의 콘텐츠 마케팅 영업 비밀]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/405305a2-10ab-433e-a465-e19cfe64d40e_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] 코시국 이후에도 Z세대에게 주목받는 비대면 마라톤!? (캐릿)]]></title>
+            <link>https://www.careet.net/784</link>
+            <guid>https://www.careet.net/784</guid>
+            <pubDate>Thu, 09 Jun 2022 08:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 러닝크루와 함께 비대면 마라톤 대회 참가하기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[누굴 섭외해야 할까? 바쁜 담당자를 위한 분야별 인플루언서 리스트업 (캐릿)]]></title>
@@ -668,6 +675,90 @@
             <pubDate>Sun, 08 May 2022 22:23:26 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밀리의 서재에서 해킹으로 인해 개인 정보가 유출됐다. 스타트업에게 사이버 보안은 사치인가 필수인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51448</link>
+            <guid>https://www.bookjournalism.com/books/51448</guid>
+            <pubDate>Thu, 09 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[보안이라는 사치]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고대 이집트의 큐빗(cubit) 단위에서부터 현대의 건강 추적 앱에 이르기까지 인류는 수많은 방식들을 활용하여 세계와 우리 자신을 측정해왔다. 이러한 측정은 우리에게 어떤 의미인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51468</link>
+            <guid>https://www.bookjournalism.com/books/51468</guid>
+            <pubDate>Thu, 09 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[우리 삶을 측정하다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북한의 집중 도발과 핵실험 징후, 진짜 위기가 도래할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51396</link>
+            <guid>https://www.bookjournalism.com/books/51396</guid>
+            <pubDate>Thu, 09 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[별의 순간이 왔다, 북한에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새 옷을 입은 마트가 날고 있다. 이 날개는 어떤 모습일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51239</link>
+            <guid>https://www.bookjournalism.com/books/51239</guid>
+            <pubDate>Thu, 09 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[마트, 다녀오셨어요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 신간《기본소득 101》의 저자인 김찬휘 녹색당 공동대표에게 왜 기본소득이 시대적 의제인지 물었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51241</link>
+            <guid>https://www.bookjournalism.com/audio/51241</guid>
+            <pubDate>Thu, 09 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜 북토크 ; 기본소득 101]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #39에선, 박찬욱 감독의 칸 수상 뒤의 진정한 승리자 CJ, 알약도 물약도 아닌 디지털 치료제의 미래, 그리고 의료 서비스 플랫폼 강남언니의 민낯에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51211</link>
+            <guid>https://www.bookjournalism.com/audio/51211</guid>
+            <pubDate>Thu, 09 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[성형과 영화와 치유의 욕망]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강남언니에 홍보 수수료를 지급한 의사가 벌금형을 선고받았다. 미용과 의료의 불분명한 경계에 선 강남언니는 어떤 향방을 보일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51221</link>
+            <guid>https://www.bookjournalism.com/books/51221</guid>
+            <pubDate>Thu, 09 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[언니를 만나도, 고민은 계속된다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[칸에서 들어올린 트로피 뒤에는 CJ의 미디어제국이 있다. 제국의 역사는 계속될 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51203</link>
+            <guid>https://www.bookjournalism.com/books/51203</guid>
+            <pubDate>Thu, 09 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[CJ의 다음 미장센은?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[《THREAD》가 만들어지기까지 어떤 사람들이, 어떤 마음으로, 어떻게 일했는지 소개합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51171</link>
+            <guid>https://www.bookjournalism.com/books/51171</guid>
+            <pubDate>Thu, 09 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[《THREAD》가 태어났습니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세계적인 작가이자 영화감독인 에마뉘엘 카레르에게 우울의 덫이 찾아왔다. 저자는 결국 살아남았지만, 그 과정에서 모든 것이 산산이 부서지고 말았다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51120</link>
+            <guid>https://www.bookjournalism.com/books/51120</guid>
+            <pubDate>Thu, 09 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[그 공포를 설명할 방법이 없다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디지털 치료제 시장이 뜨겁다. 게임사까지 이곳에 뛰어드는 이유는 무엇인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51127</link>
+            <guid>https://www.bookjournalism.com/books/51127</guid>
+            <pubDate>Thu, 09 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[기적의 치료제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6월 첫째 주 - 우리에게 잡지가 필요하지 않았던 시대는 없었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51102</link>
+            <guid>https://www.bookjournalism.com/books/51102</guid>
+            <pubDate>Thu, 09 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[잡지의 탄생]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>

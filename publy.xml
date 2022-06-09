@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-09T07:22:57.250Z</updated>
+    <updated>2022-06-09T08:33:59.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[사용자가 원하는 걸 빨리 찾게 하려면? 검색 UX 총정리]]></title>
+        <id>https://publy.co/content/6842?fr=category</id>
+        <link href="https://publy.co/content/6842?fr=category"/>
+        <updated>2022-06-09T08:32:21.143Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팀장의 의사결정, ‘쫓겨서’가 아니라 ‘제때’ 제대로 하려면]]></title>
+        <id>https://publy.co/content/6806?fr=category</id>
+        <link href="https://publy.co/content/6806?fr=category"/>
+        <updated>2022-06-09T08:32:21.143Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동료가 인정하는 커뮤니케이션 잘하는 PM의 6가지 특징]]></title>
         <id>https://publy.co/content/6844?fr=category</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팀장의 파워 게임 : 정치력이 필요한 순간 [ep.1]]]></title>
+        <title type="html"><![CDATA[(웹소설) 팀장의 파워 게임 : 정치력이 필요한 순간 [ep.1]]]></title>
         <id>https://publy.co/content/6828?fr=category</id>
         <link href="https://publy.co/content/6828?fr=category"/>
         <updated>2022-06-07T08:30:11.913Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/6827?fr=category"/>
         <updated>2022-05-31T09:25:01.468Z</updated>
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터를 해석할 때 하기 쉬운 N가지 실수]]></title>
-        <id>https://publy.co/content/6766?fr=category</id>
-        <link href="https://publy.co/content/6766?fr=category"/>
-        <updated>2022-05-30T08:32:53.887Z</updated>
-        <content type="html"><![CDATA[아티클 · 17분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일하는 판이 바뀐다 : 팬데믹 이후 변화된 일본의 워크 스타일]]></title>
-        <id>https://publy.co/content/6816?fr=category</id>
-        <link href="https://publy.co/content/6816?fr=category"/>
-        <updated>2022-05-30T08:32:53.888Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
 </feed>
