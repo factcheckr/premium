@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 21:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 22:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,6 +390,22 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220603/16542511969ca917e5c7478210563d230bcfbc5963.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
+            <link>https://www.folin.co/story/2220</link>
+            <guid>https://www.folin.co/story/2220</guid>
+            <pubDate>Thu, 09 Jun 2022 22:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[펨테크 슈퍼 앱 꿈꾸는 '해피문데이' 성장기 (폴인)]]></title>
+            <link>https://www.folin.co/story/2218</link>
+            <guid>https://www.folin.co/story/2218</guid>
+            <pubDate>Thu, 09 Jun 2022 22:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[새로운 고객 경험 설계로 M/S 40% 점유한 캐스퍼 (폴인)]]></title>
             <link>https://www.folin.co/story/2225</link>
             <guid>https://www.folin.co/story/2225</guid>
@@ -658,22 +674,6 @@
             <link>https://www.folin.co/story/2177</link>
             <guid>https://www.folin.co/story/2177</guid>
             <pubDate>Tue, 10 May 2022 02:54:25 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[증권가의 분석가들이 '산업계 인플루언서'인 이유 (폴인)]]></title>
-            <link>https://www.folin.co/story/2181</link>
-            <guid>https://www.folin.co/story/2181</guid>
-            <pubDate>Sun, 08 May 2022 22:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콘텐츠에 이토록 진심인 우아한형제들 (폴인)]]></title>
-            <link>https://www.folin.co/story/2176</link>
-            <guid>https://www.folin.co/story/2176</guid>
-            <pubDate>Sun, 08 May 2022 22:23:26 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
         </item>

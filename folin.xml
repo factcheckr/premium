@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-06-09T21:19:36.343Z</updated>
+    <updated>2022-06-09T22:25:03.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표]]></title>
+        <id>https://www.folin.co/story/2220</id>
+        <link href="https://www.folin.co/story/2220"/>
+        <updated>2022-06-09T22:24:46.660Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펨테크 슈퍼 앱 꿈꾸는 '해피문데이' 성장기]]></title>
+        <id>https://www.folin.co/story/2218</id>
+        <link href="https://www.folin.co/story/2218"/>
+        <updated>2022-06-09T22:24:46.693Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 고객 경험 설계로 M/S 40% 점유한 캐스퍼]]></title>
         <id>https://www.folin.co/story/2225</id>
@@ -274,22 +290,6 @@
         <id>https://www.folin.co/story/2177</id>
         <link href="https://www.folin.co/story/2177"/>
         <updated>2022-05-10T02:54:25.678Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[증권가의 분석가들이 '산업계 인플루언서'인 이유]]></title>
-        <id>https://www.folin.co/story/2181</id>
-        <link href="https://www.folin.co/story/2181"/>
-        <updated>2022-05-08T22:23:26.227Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘텐츠에 이토록 진심인 우아한형제들]]></title>
-        <id>https://www.folin.co/story/2176</id>
-        <link href="https://www.folin.co/story/2176"/>
-        <updated>2022-05-08T22:23:26.227Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
     </entry>
