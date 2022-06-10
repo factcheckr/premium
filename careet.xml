@@ -4,9 +4,33 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 23:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 02:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] 코시국 이후에도 Z세대에게 주목받는 비대면 마라톤!?]]></title>
+            <link>https://www.careet.net/784</link>
+            <guid>https://www.careet.net/784</guid>
+            <pubDate>Fri, 10 Jun 2022 02:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 러닝크루와 함께 비대면 마라톤 대회 참가하기]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/86e9c28b-23f3-4adf-8757-d9a552ac108f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[갓생사는 Z세대는 너도나도 참여 중인 챌린지가 있다?]]></title>
+            <link>https://www.careet.net/783</link>
+            <guid>https://www.careet.net/783</guid>
+            <pubDate>Fri, 10 Jun 2022 02:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[각종 커뮤니티에서 화제였던 Z세대 떡상템 여기 모았음]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/7ea44393-60ff-4876-8097-df0d0c631cc2_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[커피 한 잔에 2만 원? Z세대가 명품 브랜드 카페에 가는 의외의 이유 5]]></title>
+            <link>https://www.careet.net/777</link>
+            <guid>https://www.careet.net/777</guid>
+            <pubDate>Thu, 09 Jun 2022 09:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[커틀러리, 라뗴 아트 구경하러 간다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/95c728b5-52f7-4560-8a00-05b21f5094aa_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 29CM가 콘텐츠 마케팅으로 MZ세대 소비자 지갑 여는 법]]></title>
             <link>https://www.careet.net/781</link>
@@ -46,14 +70,6 @@
             <pubDate>Fri, 03 Jun 2022 01:53:12 GMT</pubDate>
             <content:encoded><![CDATA[팝업 스토어부터 F&amp;B 신제품 소식까지! 알차게 준비했습니다]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/83d6bc86-adf8-4642-9311-01ac05c2d73a_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[커피 한 잔에 2만 원? Z세대가 명품 브랜드 카페에 가는 의외의 이유 5]]></title>
-            <link>https://www.careet.net/777</link>
-            <guid>https://www.careet.net/777</guid>
-            <pubDate>Thu, 09 Jun 2022 09:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[커틀러리, 라뗴 아트 구경하러 간다고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/95c728b5-52f7-4560-8a00-05b21f5094aa_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[캐릿 유튜브] 요즘 인싸들이 가는 성수 핫플은 어디?]]></title>
