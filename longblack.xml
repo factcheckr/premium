@@ -4,16 +4,20 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 14:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 15:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[미켈란젤로, 생의 마지막 도전 : 일흔 살에 바티칸 최고 건축가가 되다]]></title>
-            <link>https://www.longblack.co/note/323</link>
-            <guid>https://www.longblack.co/note/323</guid>
-            <pubDate>Fri, 10 Jun 2022 15:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;최근 ‘창조성’에 대해 깊이 생각하고 있습니다. 다음 주에 있을 롱블랙 디자이너스 위크를 위해 세계적 디자이너를 만난 덕분인 것 같습니다. 이들이 해결책을 찾는<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220607/1654576435d2fa33a8e498ee5cc71eae807ca3a876.png" length="0" type="image/png"/>
+            <title><![CDATA[롱블랙 선데이 에디션]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 11 Jun 2022 15:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[L이 한 번 더 읽고 싶은 지난주 롱블랙의 문장
+
+“반 발짝만 앞서 있어도 좋은 결과는 나옵니다. 발 반짝에서 한 발짝으로 나아가는 비결은 재미입니다. 내가 남들과 다르다는 사실에서 재미를 찾으세요. 그래야 다른 사람들도 내 결과물을 재밌어합니다.”
+
+&lt;a hr<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220611/16549277710ff6e3838edd06ad2f777b1358b5caf4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

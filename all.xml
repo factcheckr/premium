@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 14:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 15:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,12 +398,16 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/834515c4-a816-4c88-b78a-b4c4b9e6de7e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[미켈란젤로, 생의 마지막 도전 : 일흔 살에 바티칸 최고 건축가가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/323</link>
-            <guid>https://www.longblack.co/note/323</guid>
-            <pubDate>Fri, 10 Jun 2022 15:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;최근 ‘창조성’에 대해 깊이 생각하고 있습니다. 다음 주에 있을 롱블랙 디자이너스 위크를 위해 세계적 디자이너를 만난 덕분인 것 같습니다. 이들이 해결책을 찾는<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220607/1654576435d2fa33a8e498ee5cc71eae807ca3a876.png" length="0" type="image/png"/>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 11 Jun 2022 15:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[L이 한 번 더 읽고 싶은 지난주 롱블랙의 문장
+
+“반 발짝만 앞서 있어도 좋은 결과는 나옵니다. 발 반짝에서 한 발짝으로 나아가는 비결은 재미입니다. 내가 남들과 다르다는 사실에서 재미를 찾으세요. 그래야 다른 사람들도 내 결과물을 재밌어합니다.”
+
+&lt;a hr<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220611/16549277710ff6e3838edd06ad2f777b1358b5caf4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -778,75 +782,76 @@
             <content:encoded><![CDATA[《THREAD》가 태어났습니다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Fri, 10 Jun 2022 16:38:39 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[파리 박물관 추천해드립니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/milabo/parislogue/contents/220510175041809Wd</link>
+            <guid>https://contents.premium.naver.com/milabo/parislogue/contents/220510175041809Wd</guid>
+            <pubDate>Sat, 11 Jun 2022 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[돌고 돌아 다시 또 루브르를 추천하는 이유 부제: 스테디셀러에는 이유가 있습니다 언젠가부터 &lt;나만 아는&gt; 혹은 &lt;현지인만 아는&gt;이 여행의 핵심 키워드가 되었습니다. 포인트는 다수가 좋아할 만한 장소지만, 지금은 나만 아는 꿀정보였는데.. 어느 순간 단순히 볼 게 없어서 인기가 없는 장소들이 유행에 슬쩍 올라탄 것 같습니다. 정말 볼 게 없어서 인기가 없었을 뿐인 곳들이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTBfMjEy/MDAxNjUyMTY4NzQzODc3.W3IKdbJxFYaSdw1zmgyYXHwp9jWpWRFeFoltR7sZhcQg.m9bcBfvshnw4WYQ3oEPHcfhPO3q8UFftmo-nADlkLI8g.JPEG/_MG_2448.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[정부의 세금 인하, 무조건 좋은 걸까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220531101129166ci</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220531101129166ci</guid>
-            <pubDate>Fri, 10 Jun 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[마트에서 물건을 사면 돈을 지불한다. 시장경제에서 상거래를 할 때는 상품을 인계받으면 소비자는 바로 그에 상응하는 대가를 지불해야 하기 때문이다. 그런데 공공재의 경우 무임승차자 문제가 발생할 수 있어 정부가 대신 해당 서비스나 재화를 생산·공급한다. 공공재는 상품 거래와 달리 서비스 소비와 대금 결제가 동시에 진행되지도 않고, 소비와 대금 지불 사이에 직접]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MzFfMjU1/MDAxNjUzOTU5Mzg0MjYx.vO8cvHfX4J2S6D3tDXtpMoJiwvBIImtx9tlx-HElrRwg.Bt0ekuyCT4pmBSkINn8RcESev2nFSF0O5KINLLGyKCQg.JPEG/GettyImages-1386672474.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[박물관을 소비하는 안내서 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/milabo/parislogue/contents/220517185041764xO</link>
+            <guid>https://contents.premium.naver.com/milabo/parislogue/contents/220517185041764xO</guid>
+            <pubDate>Sat, 11 Jun 2022 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[앞선 포스팅에서 추천드린 오르세, 오랑주리, 루브르, 퐁피두 박물관은 모두 훌륭합니다. 그러나 관람이 취향이 아닌 분들께 관람을 강요할 수는 없는 법입니다.  오늘은 박물관을 관람하지 않고도 소비할 수 있는 안내서를 준비해 봤습니다. 01 박물관 기념품의 신세계 ​ 최근 국립중앙박물관도 탑 모형이나 불상 모형을 판매하고 있습니다. 미니어처라도 박물관에 있는 작품을]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTdfODAg/MDAxNjUyNzU1MzA4NDQz.ZmzwkL_Et1blg-nbPbpxEmkVhOni_5dlv6koKsI3QqUg.bsdF44HUKUIpYWwKNCIoRhtL8-KSHB1vU54QvZllt_Qg.JPEG/20161108_173208.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 신중년 등산 트렌드 모음 Zip. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/aful/trend4060/contents/220411165849640HU</link>
-            <guid>https://contents.premium.naver.com/aful/trend4060/contents/220411165849640HU</guid>
-            <pubDate>Fri, 10 Jun 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;PREVIEW&gt; 신중년 선호도 1위 산은 'OO산' 신중년 등산 시 'OO OO' 사용하는 이들 많다. '등산 OO OO' 기능 가장 잘 이용한다고! 신중년 등산용품 구매 시 선호 브랜드 1위는 역시 'OO'! Chapter 1 4060 신중년 등산 시 '설악산' 가장 선호한다 신중년 24.7%가 설악산에 가장 좋은 경험을 가지고 있다고 응답 4060 신중년이 등산 시 선호하는 산은 '설악산'으로 밝혀졌습니다. 먼저, 신중년 설문 참여]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDdfMjY5/MDAxNjQ5MjkzOTkxMzc1.L1gLvEw0yuohIJQP6kmvY69FmvLGSePk4APIDwxHS6Ig.XBoQSgxM-wWVhKmttAmfVZBM3NvxJARQsxgqquQvkJAg.JPEG/jerry-zhang-ePpaQC2c1xA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[카페학개론] 에스프레소를 위한 나라는 없다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/milabo/parislogue/contents/220501232712071rm</link>
+            <guid>https://contents.premium.naver.com/milabo/parislogue/contents/220501232712071rm</guid>
+            <pubDate>Sat, 11 Jun 2022 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[얼마나 달라진 세상에서 살아가고 있는지는 먹고 마시는 문화를 들여보면 실감이 납니다 21세기 파리에서 에스프레소와 20세기 카페 문화를 고집하는 것만큼 이색적인 여행법은 없습니다. 물론 이왕 파리까지 왔으니, 프레베르, 사르트르, 보부아르가 앉던 자리에 앉아보고 싶을 수도 있겠죠. 그런 이유라면 값을 지불해도 좋습니다. 전 세계인들에게 가장 잘 알려진 고전적인 프]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjdfMjgx/MDAxNjUxMDU1MDEwMzY2.5qQyTvEpFuoIQZ41BYs_g1f6HVU2midPSLIa4I5HItQg.hb3GasyAvBGhwkB-Hgoy0Tee9evsS0kGuDT4LtHMy6wg.JPEG/_MG_0594_2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현재 삼성에스디에스보다 저평가 주식이 있을까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/imgold/imim/contents/220601235016637pl</link>
-            <guid>https://contents.premium.naver.com/imgold/imim/contents/220601235016637pl</guid>
-            <pubDate>Fri, 10 Jun 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 배당주 주식 유튜버 황금 거북이입니다. 지금 같은 주식 시장에서 삼성에스디에스는 어떤 회사일까요? 제가 보기에는 저평가 주식이라고 보고 있습니다. 어떤 부분에서 저평가 주식이라고 생각하는지 확인해 보시죠. Fear &amp; Greed Index 극심한 공포에서 점점 벗어나려는 모습이 보입니다. 2주 전에는 공포 지수가 무려 6 1주 전에는 공포 지수가 9 주식 시장이 어디까지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDFfMTky/MDAxNjU0MDkyOTM3MTM2.Te-QgAwTnRL5IEJQzM1Y9GBGwCrgorMUKsKfSA0xSeQg.SUC9ahp1Wv8DLDv3DMi2gxyOWh-ZGmIusw9u98OG7PYg.JPEG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.JPG?type=nfs220_220" length="0" type="image/JPG"/>
+            <title><![CDATA[우량한 미국 주식에 천천히 투자해 볼까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/imgold/imim/contents/220601144605068kz</link>
+            <guid>https://contents.premium.naver.com/imgold/imim/contents/220601144605068kz</guid>
+            <pubDate>Sat, 11 Jun 2022 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 안녕하세요. 배당주 주식 유튜버 황금 거북이입니다. 처음 주식 유튜브를 시작한 이유는 친구들이 주식 분석을 많이 요청을 했기 때문인데요. 친구들을 위한 영상으로 만들기 시작한 주식 유튜브가 어느덧 3,500여 명이 넘는 구독자들이 좋아해 주는 유튜브가 되었습니다. 오랫동안 주식 투자를 하면서 많은 투자 실패 사례를 보았고, 저 역시 경험을 했었습니다. 하지만]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDFfMjI2/MDAxNjU0MDU4NTMyNzg4.kfNeKM8ukF9wyJr0HSQhnJLI13tlq7LO0SL5rYANLpog._jcbsh26t0ZV5k-VFdI61cocPOsH5ZBS_GjINxT_lmog.PNG/1628225682569.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[알고 먹으면 더 맛있다-<텐동의 사연과 나폴리탄의 비밀> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/moku/mokumoku/contents/220411130330178oP</link>
-            <guid>https://contents.premium.naver.com/moku/mokumoku/contents/220411130330178oP</guid>
-            <pubDate>Fri, 10 Jun 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[“여기 런치 텐동 진짜 괜찮아” 김보통은 남자친구인 이호기심을 이끌고 긴자 텐쿠니(天國)로 들어섰다. 런치 텐동을 먹으러 왔다고 하니 직원이 1층으로 안내했다.  “텐동은 텐푸라가 올라가서 텐동이라고 부르는 거야?” 역시 이호기심! 궁금한 건 바로바로 질문한다.  “응. 텐푸라가 올라간 돈부리라서 텐동. 그러니 부타동은 부타(돼지고기)가 올라간 거고, 규동은 규(소고]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTFfMTA4/MDAxNjQ5NjQ5MDEzMjc3.S1y6PNL1tEnxqrASsbsDWmVSm3jKpYNCGhb36P6IkIEg.BJdufROmrt7GbHmBmb348XkcPAhl5mYNfrEMDO6DrAEg.JPEG/XL_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[파리 지하철 정복하기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/milabo/parislogue/contents/220524183437879yp</link>
+            <guid>https://contents.premium.naver.com/milabo/parislogue/contents/220524183437879yp</guid>
+            <pubDate>Sat, 11 Jun 2022 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[여행은 명소가 아니라 여정에 있다 파리 대중교통 완전 정복! 21세기 파리에서 제일 편리하고 확실한 교통수단은 우버 (VTC)입니다.  그 다음 편할 교통수단은… 역시 우버입니다.  그 다음도…. 우버입니다. 우버가 아니라면 공유 킥보드를 타는 편이 낫습니다. 프랑스에서는 우버와 같은 개인 운송 서비스를 VTC (Véhicule de Tourisme avec Chauffeur 운전자가 동승하는 관광차량)라고 칭하]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjRfMTc4/MDAxNjUzMzgxMjk3NDYw.ApjLj0Ta0LsiPl_psz3FiJLNtqb_ZgTlIQF5lfRYC64g.MQKyb1jbrjR1p1tIzyMoOwT1uv_SE67Y98qSDeoEORQg.JPEG/SE-344aa8e8-2756-4d88-be04-fc9c70bf73b0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['스트레스 심하신가요?'  번아웃을 극복하는 7가지 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/economy/economywave/contents/220603102219206ra</link>
-            <guid>https://contents.premium.naver.com/economy/economywave/contents/220603102219206ra</guid>
-            <pubDate>Fri, 10 Jun 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[경제전파사 독자 여러분, 즐거운 금요일 입니다. 오늘은 치솟는 물가와 전망을 담은 거시경제 이야기, 그리고 우리를 힘들게 하는 번아웃(Burnout)을 극복하는 방법을 담아왔어요. 글로벌 기업과 근로자 사례를 모은 것인데요, 스트레스로 힘들어하는 분들께 꼭 도움이 되었으면 좋겠습니다. 즐거운 주말을 기다리며 힘내세요! -“너무 비싸다" 하루 두세 끼에서 한 끼로  -번아웃을]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDNfODkg/MDAxNjU0MjE5MjkxNTI5.wSmLP1fDUuYCdNqE0Dv-xjdlJvNfplSjJ6Y6mpWt1jgg.T1u3hVX_tSF_hDCowHktZJzTg2dPJGW63Kfts_ku81Ag.JPEG/christian-erfurt-sxQz2VfoFBE-unsplash.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[지분 투자 성적은 안 좋아도 본업이 좋다면 좋은 주식 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/imgold/imim/contents/220602003438808gs</link>
+            <guid>https://contents.premium.naver.com/imgold/imim/contents/220602003438808gs</guid>
+            <pubDate>Sat, 11 Jun 2022 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 배당주 주식 유튜버 황금 거북이입니다. 황금 거북이 프리미엄 콘텐츠를 읽어 주셔서 감사합니다. 오늘 확인해 볼 주식은 바로 서희건설입니다. 서희건설은 주가가 천 원짜리 지폐 2장으로 매수할 수 있는 저렴한 주식이지요. 하지만 배당도 지급하고, 시가총액도 낮지 않은 중형 주식입니다. 매출액이 매년 증가하는 회사는 어떤 회사라고 했지요? 좋은 회사일 가능]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDJfMjky/MDAxNjU0MDk2NzgzMTA3.tWiORGw_nB3ryfVkyvNjw5lLlW_ctBqfNEdNQYJd3tEg.HdNJD_fIn9cjFtsd816bRPld5cJxyb3J6DbccRBSXXEg.PNG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG?type=nfs220_220" length="0" type="image/PNG"/>
         </item>
         <item>
-            <title><![CDATA[[트윗시황] "전 세계 크립토 VC, 투자 확 줄었다" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/coindesk/nextmoney/contents/220610162729149fe</link>
-            <guid>https://contents.premium.naver.com/coindesk/nextmoney/contents/220610162729149fe</guid>
-            <pubDate>Fri, 10 Jun 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[1. 무브 투 언(M2E) 서비스 스테픈: 블루오션(무경쟁시장)이냐 레드오션(경쟁시장)이냐: 스테픈이 어떻게 규모가 큰 블루오션에 들어왔고 또 새로운 시장을 어떻게 개척했는지 읽어보세요. 2. 중국 코인 매체 우 블록체인: BTC(비트코인) 채굴 기업 마라톤 디지털은 6월1일 기준 9941BTC를 보유하고 있다고 말했습니다. 그리고 마라톤 디지털은 지난해 10월 이후로 지금까지 비트코인을]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTBfMjgw/MDAxNjU0ODM4Nzg3OTQ0.Lq1uQDALqk6CWX6T2pXCd6ZXn0i4-8mUSUjnpvhoXmUg.og2ObCGIzFXZAJh0tE-m0oX3d4WeRxXO1UBoaaaZCs8g.PNG/%ED%8A%B8%EC%9C%97%EC%8B%9C%ED%99%A9_%EC%9D%B4%EB%AF%B8%EC%A7%80.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[RM도 다녀간 이곳, ‘이우환 공간’ (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/whyart/media/contents/220524002024256no</link>
+            <guid>https://contents.premium.naver.com/whyart/media/contents/220524002024256no</guid>
+            <pubDate>Sat, 11 Jun 2022 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[📍 방탄소년단 RM이 인스타그램에 올리는 미술관 중 눈에 띄게 자주 보이는 공간이 있습니다. 바로 부산시립미술관인데요. 알려진 것만 이번이 네 번째 방문이네요.  현재 부산시립미술관에서는 기획 전시로 《한국현대미술작가조명 IV – 이형구》와 《나는 미술관에 OO하러 간다》가 진행 중인데요. 두 전시 모두 추천 드리고, 오늘은 별관인 ‘이우환 공간’을 소개해드리려 해]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjNfMTU4/MDAxNjUzMzE2NDUzNDg0.mnwawOKU_GankVuhrWDLRa1u1IU5DOmmzdgr5Qe3dDIg.rIupGTBP_92d8Qwmi1Bo5Z5HjgrSbrntdzO6z5n1bIUg.JPEG/ufan-portrait-_2_1000.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[니가 왜 거기 있어 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/5neuldodo/oneuldodo/contents/220604100625298nl</link>
-            <guid>https://contents.premium.naver.com/5neuldodo/oneuldodo/contents/220604100625298nl</guid>
-            <pubDate>Fri, 10 Jun 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[♥♥♥ 다음 화 한 줄 예고 조급해 하지 말자!! ♥♥♥ [낳으면 끝인 줄 알았지] 매주 화/토 주 2회 연재 구독과 좋아요는 큰 힘이 됩니다 :)]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDRfMjcx/MDAxNjU0MzAzOTg3Njkw.UFebhY7TuTIWd7BkZ_aTdvojVEeJf3hDbpe4EW1fZ-gg.27oZh9KyhV3K51kX0sGR7OVSESUmAt5uiacSRFJohmMg.JPEG/IMG_3666.JPG?type=nfs220_220" length="0" type="image/JPG"/>
+            <title><![CDATA[[파워포인트 기초 SKILL-1] 정렬 기능 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/kondaedocs/documents/contents/220518064545580DE</link>
+            <guid>https://contents.premium.naver.com/kondaedocs/documents/contents/220518064545580DE</guid>
+            <pubDate>Sat, 11 Jun 2022 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 꼰대행정병입니다. 한글/워드 기초부분은 어느정도 마무리 되었고, 향후 심화 SKILL을 들어가도록 하겠습니다. 오늘부터는 파워포인트의 기초 스킬을 다뤄보도록 하겠습니다. 1. 대세는 파워포인트! 파워포인트는 원래 대중 앞에서 효과적인 발표를 위한 도구로써 개발되었습니다. 워드나 한글, 엑셀은 정보에 충실하게 작성될 수는 있으나 발표를 위한 도구로써 파]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMjU5/MDAxNjUyODIyMDQ1MDA3.tFtCRYEyAxlIIMGNihVACdmRTmR-GbESqI0KFo6ihl4g.MQuD0jXcFqYb3a25pIClNkXjDVSsQO4GfPd5BIJmSvEg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[사상 최대 계약을 땄지만, 오해 받는 삼성전기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/tachyon/analysis/contents/220610183326656ub</link>
-            <guid>https://contents.premium.naver.com/tachyon/analysis/contents/220610183326656ub</guid>
-            <pubDate>Sat, 11 Jun 2022 14:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전기가 테슬라 납품 관련해서 9일 조회 공시로 답변했다. 한국거래소는 이날 삼성전기에 "테슬라에 5조대 카메라 모듈 공급" 보도에 대한 조회 공시를 요구했다. 한국거래소는 주가에 영향을 줄 만한 기사나 풍문을 접수하면, 해당 상장사에 진위 여부를 묻는 조회 공시를 요구한다.  삼성전기는 "현재 고객과 협의 중인 단계여서 거래 규모, 금액 등 세부 사항을 밝힐 수 없다]]></content:encoded>
+            <title><![CDATA[주식 세력들은 어떻게 아프리카 돼지열병으로 수익을 낼까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/imgold/imim/contents/220602204615056gd</link>
+            <guid>https://contents.premium.naver.com/imgold/imim/contents/220602204615056gd</guid>
+            <pubDate>Sat, 11 Jun 2022 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 배당주 주식 유튜버 황금 거북이입니다. 황금 거북이의 프리미엄 콘텐츠 포스팅을 읽어 주셔서 감사합니다. 프리미엄 콘텐츠와 관련된 내용을 어떻게 운영할지 계속 고민을 하고 있습니다. 우선 프리미엄 콘텐츠에 구독을 해주신 분들에게 황금 거북이 오픈 채팅방에서 따로 관리를 하도록 하겠습니다. 지금은 유튜브 3,550명 수준의 작은 규모를 유지하고 있는 황금]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDJfMTA5/MDAxNjU0MTY4MjI5MjY1.0VP7WLNUNxFoarTN62rmyNu5ZJMmMU31tLKuGGuAPmcg.J-r6yFjoG8omyn_q1hIjR7KjAgk59fWJriSGVask7ZIg.JPEG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
