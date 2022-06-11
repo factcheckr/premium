@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 02:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 03:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -694,12 +694,88 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정부의 세금 인하, 무조건 좋은 걸까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220531101129166ci</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220531101129166ci</guid>
-            <pubDate>Fri, 10 Jun 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[마트에서 물건을 사면 돈을 지불한다. 시장경제에서 상거래를 할 때는 상품을 인계받으면 소비자는 바로 그에 상응하는 대가를 지불해야 하기 때문이다. 그런데 공공재의 경우 무임승차자 문제가 발생할 수 있어 정부가 대신 해당 서비스나 재화를 생산·공급한다. 공공재는 상품 거래와 달리 서비스 소비와 대금 결제가 동시에 진행되지도 않고, 소비와 대금 지불 사이에 직접]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MzFfMjU1/MDAxNjUzOTU5Mzg0MjYx.vO8cvHfX4J2S6D3tDXtpMoJiwvBIImtx9tlx-HElrRwg.Bt0ekuyCT4pmBSkINn8RcESev2nFSF0O5KINLLGyKCQg.JPEG/GettyImages-1386672474.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #40에선, 보복경험 시대를 맞아 변신하고 있는 대형마트, 7차 핵실험을 눈앞에 두고 별의 순간을 맞은 북한, 연달아 터지고 있는 스타트업 보안 문제, 스트리밍 세대를 위한 세로운 한국 문학에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51600</link>
+            <guid>https://www.bookjournalism.com/audio/51600</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[달라졌다, 북한도 마트도 소설도]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블러썸크리에이티브와 CJ E&M이 IP 제휴 계획을 밝혔다. 콘텐츠 업계와 문학계의 콜라보는 성공할 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51509</link>
+            <guid>https://www.bookjournalism.com/books/51509</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[스트리밍 세대를 위한 소설]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모두가 MBTI를 말하지만 아무도 MBTI를 모른다. 어쩌다 MBTI는 우리 시대의 언어가 되었나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51138</link>
+            <guid>https://www.bookjournalism.com/books/51138</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[당신이 몰랐던 MBTI]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밀리의 서재에서 해킹으로 인해 개인 정보가 유출됐다. 스타트업에게 사이버 보안은 사치인가 필수인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51448</link>
+            <guid>https://www.bookjournalism.com/books/51448</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[보안이라는 사치]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고대 이집트의 큐빗(cubit) 단위에서부터 현대의 건강 추적 앱에 이르기까지 인류는 수많은 방식들을 활용하여 세계와 우리 자신을 측정해왔다. 이러한 측정은 우리에게 어떤 의미인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51468</link>
+            <guid>https://www.bookjournalism.com/books/51468</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[우리 삶을 측정하다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북한의 집중 도발과 핵실험 징후, 진짜 위기가 도래할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51396</link>
+            <guid>https://www.bookjournalism.com/books/51396</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[별의 순간이 왔다, 북한에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새 옷을 입은 마트가 날고 있다. 이 날개는 어떤 모습일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51239</link>
+            <guid>https://www.bookjournalism.com/books/51239</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[마트, 다녀오셨어요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 신간《기본소득 101》의 저자인 김찬휘 녹색당 공동대표에게 왜 기본소득이 시대적 의제인지 물었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51241</link>
+            <guid>https://www.bookjournalism.com/audio/51241</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜 북토크 ; 기본소득 101]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #39에선, 박찬욱 감독의 칸 수상 뒤의 진정한 승리자 CJ, 알약도 물약도 아닌 디지털 치료제의 미래, 그리고 의료 서비스 플랫폼 강남언니의 민낯에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51211</link>
+            <guid>https://www.bookjournalism.com/audio/51211</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[성형과 영화와 치유의 욕망]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강남언니에 홍보 수수료를 지급한 의사가 벌금형을 선고받았다. 미용과 의료의 불분명한 경계에 선 강남언니는 어떤 향방을 보일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51221</link>
+            <guid>https://www.bookjournalism.com/books/51221</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[언니를 만나도, 고민은 계속된다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[칸에서 들어올린 트로피 뒤에는 CJ의 미디어제국이 있다. 제국의 역사는 계속될 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51203</link>
+            <guid>https://www.bookjournalism.com/books/51203</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[CJ의 다음 미장센은?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[《THREAD》가 만들어지기까지 어떤 사람들이, 어떤 마음으로, 어떻게 일했는지 소개합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51171</link>
+            <guid>https://www.bookjournalism.com/books/51171</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[《THREAD》가 태어났습니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -710,12 +786,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[현재 삼성에스디에스보다 저평가 주식이 있을까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/imgold/imim/contents/220601235016637pl</link>
-            <guid>https://contents.premium.naver.com/imgold/imim/contents/220601235016637pl</guid>
+            <title><![CDATA[정부의 세금 인하, 무조건 좋은 걸까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220531101129166ci</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220531101129166ci</guid>
             <pubDate>Fri, 10 Jun 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 배당주 주식 유튜버 황금 거북이입니다. 지금 같은 주식 시장에서 삼성에스디에스는 어떤 회사일까요? 제가 보기에는 저평가 주식이라고 보고 있습니다. 어떤 부분에서 저평가 주식이라고 생각하는지 확인해 보시죠. Fear &amp; Greed Index 극심한 공포에서 점점 벗어나려는 모습이 보입니다. 2주 전에는 공포 지수가 무려 6 1주 전에는 공포 지수가 9 주식 시장이 어디까지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDFfMTky/MDAxNjU0MDkyOTM3MTM2.Te-QgAwTnRL5IEJQzM1Y9GBGwCrgorMUKsKfSA0xSeQg.SUC9ahp1Wv8DLDv3DMi2gxyOWh-ZGmIusw9u98OG7PYg.JPEG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.JPG?type=nfs220_220" length="0" type="image/JPG"/>
+            <content:encoded><![CDATA[마트에서 물건을 사면 돈을 지불한다. 시장경제에서 상거래를 할 때는 상품을 인계받으면 소비자는 바로 그에 상응하는 대가를 지불해야 하기 때문이다. 그런데 공공재의 경우 무임승차자 문제가 발생할 수 있어 정부가 대신 해당 서비스나 재화를 생산·공급한다. 공공재는 상품 거래와 달리 서비스 소비와 대금 결제가 동시에 진행되지도 않고, 소비와 대금 지불 사이에 직접]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MzFfMjU1/MDAxNjUzOTU5Mzg0MjYx.vO8cvHfX4J2S6D3tDXtpMoJiwvBIImtx9tlx-HElrRwg.Bt0ekuyCT4pmBSkINn8RcESev2nFSF0O5KINLLGyKCQg.JPEG/GettyImages-1386672474.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 신중년 등산 트렌드 모음 Zip. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -726,12 +802,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDdfMjY5/MDAxNjQ5MjkzOTkxMzc1.L1gLvEw0yuohIJQP6kmvY69FmvLGSePk4APIDwxHS6Ig.XBoQSgxM-wWVhKmttAmfVZBM3NvxJARQsxgqquQvkJAg.JPEG/jerry-zhang-ePpaQC2c1xA-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['스트레스 심하신가요?'  번아웃을 극복하는 7가지 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/economy/economywave/contents/220603102219206ra</link>
-            <guid>https://contents.premium.naver.com/economy/economywave/contents/220603102219206ra</guid>
+            <title><![CDATA[현재 삼성에스디에스보다 저평가 주식이 있을까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/imgold/imim/contents/220601235016637pl</link>
+            <guid>https://contents.premium.naver.com/imgold/imim/contents/220601235016637pl</guid>
             <pubDate>Fri, 10 Jun 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[경제전파사 독자 여러분, 즐거운 금요일 입니다. 오늘은 치솟는 물가와 전망을 담은 거시경제 이야기, 그리고 우리를 힘들게 하는 번아웃(Burnout)을 극복하는 방법을 담아왔어요. 글로벌 기업과 근로자 사례를 모은 것인데요, 스트레스로 힘들어하는 분들께 꼭 도움이 되었으면 좋겠습니다. 즐거운 주말을 기다리며 힘내세요! -“너무 비싸다" 하루 두세 끼에서 한 끼로  -번아웃을]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDNfODkg/MDAxNjU0MjE5MjkxNTI5.wSmLP1fDUuYCdNqE0Dv-xjdlJvNfplSjJ6Y6mpWt1jgg.T1u3hVX_tSF_hDCowHktZJzTg2dPJGW63Kfts_ku81Ag.JPEG/christian-erfurt-sxQz2VfoFBE-unsplash.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[안녕하세요. 배당주 주식 유튜버 황금 거북이입니다. 지금 같은 주식 시장에서 삼성에스디에스는 어떤 회사일까요? 제가 보기에는 저평가 주식이라고 보고 있습니다. 어떤 부분에서 저평가 주식이라고 생각하는지 확인해 보시죠. Fear &amp; Greed Index 극심한 공포에서 점점 벗어나려는 모습이 보입니다. 2주 전에는 공포 지수가 무려 6 1주 전에는 공포 지수가 9 주식 시장이 어디까지]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDFfMTky/MDAxNjU0MDkyOTM3MTM2.Te-QgAwTnRL5IEJQzM1Y9GBGwCrgorMUKsKfSA0xSeQg.SUC9ahp1Wv8DLDv3DMi2gxyOWh-ZGmIusw9u98OG7PYg.JPEG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[알고 먹으면 더 맛있다-<텐동의 사연과 나폴리탄의 비밀> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -742,12 +818,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTFfMTA4/MDAxNjQ5NjQ5MDEzMjc3.S1y6PNL1tEnxqrASsbsDWmVSm3jKpYNCGhb36P6IkIEg.BJdufROmrt7GbHmBmb348XkcPAhl5mYNfrEMDO6DrAEg.JPEG/XL_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[니가 왜 거기 있어 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/5neuldodo/oneuldodo/contents/220604100625298nl</link>
-            <guid>https://contents.premium.naver.com/5neuldodo/oneuldodo/contents/220604100625298nl</guid>
+            <title><![CDATA['스트레스 심하신가요?'  번아웃을 극복하는 7가지 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/economy/economywave/contents/220603102219206ra</link>
+            <guid>https://contents.premium.naver.com/economy/economywave/contents/220603102219206ra</guid>
             <pubDate>Fri, 10 Jun 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[♥♥♥ 다음 화 한 줄 예고 조급해 하지 말자!! ♥♥♥ [낳으면 끝인 줄 알았지] 매주 화/토 주 2회 연재 구독과 좋아요는 큰 힘이 됩니다 :)]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDRfMjcx/MDAxNjU0MzAzOTg3Njkw.UFebhY7TuTIWd7BkZ_aTdvojVEeJf3hDbpe4EW1fZ-gg.27oZh9KyhV3K51kX0sGR7OVSESUmAt5uiacSRFJohmMg.JPEG/IMG_3666.JPG?type=nfs220_220" length="0" type="image/JPG"/>
+            <content:encoded><![CDATA[경제전파사 독자 여러분, 즐거운 금요일 입니다. 오늘은 치솟는 물가와 전망을 담은 거시경제 이야기, 그리고 우리를 힘들게 하는 번아웃(Burnout)을 극복하는 방법을 담아왔어요. 글로벌 기업과 근로자 사례를 모은 것인데요, 스트레스로 힘들어하는 분들께 꼭 도움이 되었으면 좋겠습니다. 즐거운 주말을 기다리며 힘내세요! -“너무 비싸다" 하루 두세 끼에서 한 끼로  -번아웃을]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDNfODkg/MDAxNjU0MjE5MjkxNTI5.wSmLP1fDUuYCdNqE0Dv-xjdlJvNfplSjJ6Y6mpWt1jgg.T1u3hVX_tSF_hDCowHktZJzTg2dPJGW63Kfts_ku81Ag.JPEG/christian-erfurt-sxQz2VfoFBE-unsplash.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[트윗시황] "전 세계 크립토 VC, 투자 확 줄었다" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -758,12 +834,19 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTBfMjgw/MDAxNjU0ODM4Nzg3OTQ0.Lq1uQDALqk6CWX6T2pXCd6ZXn0i4-8mUSUjnpvhoXmUg.og2ObCGIzFXZAJh0tE-m0oX3d4WeRxXO1UBoaaaZCs8g.PNG/%ED%8A%B8%EC%9C%97%EC%8B%9C%ED%99%A9_%EC%9D%B4%EB%AF%B8%EC%A7%80.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[18. 모든 일상이 꿈이 될까 봐 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220604180129929zk</link>
-            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220604180129929zk</guid>
-            <pubDate>Fri, 10 Jun 2022 23:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[일상의 언어   비 오던 날, 내가 뛰어놀던 공간에 당신의 촉감이 있어요   고요하게 나만 걷던 길에 조용히 내려놓았던 고독인데 그 고독에 손 내밀어 주는 당신의 손이 있어요   소주잔에 술은  혼자서 채우는 게 익숙했는데 이제는 당신이 채워주는 술이 달아요   일상의 언어가 당신으로 물들어서 좋아요. 때로는 겁나요   모든 일상이 꿈이 될까 봐. "오? 나 왜 여기 있지? 얘는]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDRfMjYy/MDAxNjU0MzMyNzgzMjIx.jCpysZnZHFfGj1KHMgxgcdsIKd7oJ0Kj8BdUsVfYjzog.dUABWicRHn-QfvlQkzByWXQWXFwSs6c3gaR_ZkFMjSAg.PNG/K-005.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[니가 왜 거기 있어 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/5neuldodo/oneuldodo/contents/220604100625298nl</link>
+            <guid>https://contents.premium.naver.com/5neuldodo/oneuldodo/contents/220604100625298nl</guid>
+            <pubDate>Fri, 10 Jun 2022 15:26:41 GMT</pubDate>
+            <content:encoded><![CDATA[♥♥♥ 다음 화 한 줄 예고 조급해 하지 말자!! ♥♥♥ [낳으면 끝인 줄 알았지] 매주 화/토 주 2회 연재 구독과 좋아요는 큰 힘이 됩니다 :)]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDRfMjcx/MDAxNjU0MzAzOTg3Njkw.UFebhY7TuTIWd7BkZ_aTdvojVEeJf3hDbpe4EW1fZ-gg.27oZh9KyhV3K51kX0sGR7OVSESUmAt5uiacSRFJohmMg.JPEG/IMG_3666.JPG?type=nfs220_220" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[사상 최대 계약을 땄지만, 오해 받는 삼성전기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/tachyon/analysis/contents/220610183326656ub</link>
+            <guid>https://contents.premium.naver.com/tachyon/analysis/contents/220610183326656ub</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전기가 테슬라 납품 관련해서 9일 조회 공시로 답변했다. 한국거래소는 이날 삼성전기에 "테슬라에 5조대 카메라 모듈 공급" 보도에 대한 조회 공시를 요구했다. 한국거래소는 주가에 영향을 줄 만한 기사나 풍문을 접수하면, 해당 상장사에 진위 여부를 묻는 조회 공시를 요구한다.  삼성전기는 "현재 고객과 협의 중인 단계여서 거래 규모, 금액 등 세부 사항을 밝힐 수 없다]]></content:encoded>
         </item>
     </channel>
 </rss>
