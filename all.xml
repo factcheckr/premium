@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 14:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 15:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,12 +406,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/834515c4-a816-4c88-b78a-b4c4b9e6de7e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[후카사와 나오토 : 산업 디자인의 거장, 무인양품에 깃든 슈퍼노멀을 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/316</link>
-            <guid>https://www.longblack.co/note/316</guid>
-            <pubDate>Sun, 12 Jun 2022 15:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;“디자인이란 보이거나 느껴지는 것이 다가 아니다. 진정한 디자인이란 어떻게 작동하는가에 관한 것이다.(It's not just what it looks like <span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220609/16547394399a9afd23e89d4e4409d092f0e3032072.png" length="0" type="image/png"/>
+            <title><![CDATA[데이비드 켈리 : IDEO를 만든 디자인 구루가 말하는 '창조적 자신감' (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/317</link>
+            <guid>https://www.longblack.co/note/317</guid>
+            <pubDate>Mon, 13 Jun 2022 15:32:07 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;“내 디자인의 시작은 관찰이다.” 어제 롱블랙 노트에서, 후카사와 나오토가 한 이 말이 저는 가장 강렬하게 남았습니다. 그의 이력에서 이 회사를 발견하니 고개가 <span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220609/165473946351d5737eb350ac764a72e894b93380fe.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -702,159 +702,76 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[6월 셋째 주 - 변화에는 늘 끝맺음이 필요합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51643</link>
-            <guid>https://www.bookjournalism.com/books/51643</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[마침표]]></content:encoded>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #40에선, 보복경험 시대를 맞아 변신하고 있는 대형마트, 7차 핵실험을 눈앞에 두고 별의 순간을 맞은 북한, 연달아 터지고 있는 스타트업 보안 문제, 스트리밍 세대를 위한 세로운 한국 문학에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51600</link>
-            <guid>https://www.bookjournalism.com/audio/51600</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[달라졌다, 북한도 마트도 소설도]]></content:encoded>
+            <title><![CDATA[굿모닝러너 챌린지 [81일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220607054246675xv</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220607054246675xv</guid>
+            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [81일차] 굿모닝러너님, 내일을 걱정하며 시간을 허비하지 말고, 오늘의 할 일에 집중하세요~ 오늘 하루가 가장 소중한 순간이에요 :) 굿모닝러너_챌린지_81일차 #20220607 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록 예시) 닉네임  / 목]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDdfNiAg/MDAxNjU0NTQ4MTQ3NTIx.aTnfYDa4IfXBawn2FzABVbaD4eF-Wh0JuXLIwlkgwFwg.h3jfr4rI0OuOYs6cTsnNs6Ce0UouR42vSFnSQvCPGfkg.JPEG/KakaoTalk_20220607_054131739.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블러썸크리에이티브와 CJ E&M이 IP 제휴 계획을 밝혔다. 콘텐츠 업계와 문학계의 콜라보는 성공할 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51509</link>
-            <guid>https://www.bookjournalism.com/books/51509</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[스트리밍 세대를 위한 소설]]></content:encoded>
+            <title><![CDATA[어쩌면 위로를 받은 건 나일지도 모른다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/littlemiracle/littlemiracle13/contents/220415155402596Eb</link>
+            <guid>https://contents.premium.naver.com/littlemiracle/littlemiracle13/contents/220415155402596Eb</guid>
+            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[-추루루룩-   출근길, 버스를 기다리고 있던 중 갑자기 비가 쏟아졌다. 분명 일기예보에는 비가 안 온다고 했는데...   비가 오자 사람들이 비를 피하기 위해 버스정류장 안으로 몰려들었다. 갑자기 쏟아진 비라 우산을 안 갖고 온 사람들이 많았기 때문이다. 어느덧 버스정류장 안은 사람들이 가득해졌다.    하지만, 내가 탈 버스는 ‘7분 후 도착’이라고 떴다. 평상시 같으면 7분]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTVfMjIg/MDAxNjUwMDA0NjU0NDcx.DhIwvKtrIgKYQ7LRv2aPEtsxtpy5KxgBYqmGVl4pt0Ag.NNA54D17rL9j6fbFQRuEFQxIEPwUKIAs8HZr2GHiY3Ag.JPEG/%EC%98%81%ED%99%94_%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모두가 MBTI를 말하지만 아무도 MBTI를 모른다. 어쩌다 MBTI는 우리 시대의 언어가 되었나? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51138</link>
-            <guid>https://www.bookjournalism.com/books/51138</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[당신이 몰랐던 MBTI]]></content:encoded>
+            <title><![CDATA[미국시장(6/6): 태양광, 여행/레저, 원자재 강세 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220607081131215wb</link>
+            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220607081131215wb</guid>
+            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[1. 지난 금요일 미국시장 간단 요약 2. 오늘의 상승/하락 테마 주목의 상승테마 1) 태양광 밸류체인 바이든 행정부 태양광 수입 규제 완화 결정. 당초 미국 상무부는 동남아 4개국(캄보디아, 말레이시아, 태국, 베트남)에서 수입되어지는 태양광 제품에 대해 추가 관세를 부과할 것으로 예상됐음. 해당 동남아 지역으로부터의 수입품들이 실제 중국산으로 우회수출 의혹이 존재했기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDdfMjUg/MDAxNjU0NTU1MjIxMTc0.SfuT3VsuBZXzM3JG5pAqRHlVw2E55lDVzMDreZPC1wog.kwQ8NbqVLXaazkqwBluhaNJVwH0-VAYDcFG7uoH4YEEg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[밀리의 서재에서 해킹으로 인해 개인 정보가 유출됐다. 스타트업에게 사이버 보안은 사치인가 필수인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51448</link>
-            <guid>https://www.bookjournalism.com/books/51448</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[보안이라는 사치]]></content:encoded>
+            <title><![CDATA[국민연금도 못 피한 미국하락장! 올해 1분기 수 조원 손실 실화? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220607143840103xa</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220607143840103xa</guid>
+            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[증시 부진에 국민연금 수조원 손실.. 　 지난 분기 미국 주식 대량으로 추가매수! 테슬라, 아마존, AMD 등 　 과연 2분기에는 미국주식 수익률은 플러스로 돌아설 것인가..? 　 #미국주식 #국민연금 #해외주식 TOP3의 진단점수는 몇 점? ※ 이 글은 당사가 신뢰할 수 있는 자료 및 정보로부터 얻은 것이지만, 그 정확성이나 완전성을 보장할 수 없으므로 투자자 자신의 판단과 책임하에]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDdfMTM0/MDAxNjU0NTc5ODU4NjA5.Sh_Al_6ljK8GF-xuWhR9ysaLD5k55_WwNyZxvq0_bhUg.y2qAWGsjRIKbHPutKXkPzc5o9kS1hoPWIl9tMhvkIrwg.PNG/1.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[고대 이집트의 큐빗(cubit) 단위에서부터 현대의 건강 추적 앱에 이르기까지 인류는 수많은 방식들을 활용하여 세계와 우리 자신을 측정해왔다. 이러한 측정은 우리에게 어떤 의미인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51468</link>
-            <guid>https://www.bookjournalism.com/books/51468</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[우리 삶을 측정하다]]></content:encoded>
+            <title><![CDATA[금리 상승 시기 적신호...미국 부실채권 증가 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220607081813288wp</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220607081813288wp</guid>
+            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[올해 5월 넷째 주 미국에선 채권과 대출 가운데 90억 달러(약 11조2500억원) 정도가 부실화했다.  그 바람에 부실채권의 규모가 1550억 달러(약 193조7500억원)까지 불어났다. 팬데믹 때문에 미국 기업이 줄줄이 부도낸 2020년 12월 이후 가장 많다. 블룸버그 통신에 따르면 부실채권은 채권의 값이 액면 금액보다 20% 이상 떨어져 거래되는 경우다. 이런 기업 모두가 좀비회사는 아니다. 처]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDdfMjkw/MDAxNjU0NTU2ODE2MDYz.TbYypJ-IQFk8V-qKwtase-7w1FwVPRPZZsFJMUw0_D0g.zV3FpOYH5FuVZem5pCJ5y1d2nt-3VaWobFm6xctTlCEg.JPEG/%EB%B6%80%EC%8B%A4%EC%B1%84%EA%B6%8C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한의 집중 도발과 핵실험 징후, 진짜 위기가 도래할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51396</link>
-            <guid>https://www.bookjournalism.com/books/51396</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[별의 순간이 왔다, 북한에]]></content:encoded>
+            <title><![CDATA[톈안먼 연상? 중국 인플루언서, ‘탱크 모양 케이크’ 팔다가 생방송 강제종료 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220608041623910jv</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220608041623910jv</guid>
+            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[중국 최고의 뷰티 왕훙(網紅·인터넷 스타) 리자치(李佳琦·30)가 톈안먼 33주년을 맞아 강화된 검열에 된서리를 맞았다. ‘립스틱 바르는 오빠’로 불리며 라이브 커머스를 통한 화장품 하루 매출이 108억 위안(1조8천억원)을 기록한 리자치는 지난 3일 라이브 방송이 급작스럽게 중단됐다. 이날 방송 중 미국 식품회사 나비스코의 오레오 쿠키를 판매하던 리자치는 오레오로 만든]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMjM3/MDAxNjU0NjI5MjUzMjY4.D9HxBaze2GRmGa8iHqf0TKh8fak9d61BLiqITTKhk7gg.5a2FPwz88ubusNr_aadPGDLidj_Wot-gGMAhxYXkXmUg.JPEG/20220607-1030-002.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[새 옷을 입은 마트가 날고 있다. 이 날개는 어떤 모습일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51239</link>
-            <guid>https://www.bookjournalism.com/books/51239</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[마트, 다녀오셨어요?]]></content:encoded>
+            <title><![CDATA[머스크, 트위터 인수 계약 파기 경고 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220607082930722zi</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220607082930722zi</guid>
+            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[💬 무슨 일이지? 트위터 인수에 나선 일론 머스크 테슬라 CEO가 인수 계약을 파기할 수 있다고 경고했습니다. 머스크가 인수 불발 가능성에 대해 언급한 것은 처음이 아니지만, 이번 경고는 이전에 비해 더욱 강력한 수준으로 알려졌습니다. 구체적으로 머스크의 법률대리인 마이크 링글러 변호사는 6일(현지시간) 비자야 가드 트위터 최고법률책임자에게 보낸 서한을 통해 트위터]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDdfMTUg/MDAxNjU0NTU4MDMzMTI4.edvWtuwrkh1PKNN4NYcPD4mpYSmiCdEt50HXhl_Q-9Mg.rKJeGuDJV9MeZfdAacC789bb0hQJXpGdkxF3Yp8FUSwg.JPEG/2._%ED%8A%B8%EC%9C%84%ED%84%B0_(%EC%B6%9C%EC%B2%98_=_%ED%8A%B8%EC%9C%84%ED%84%B0_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 신간《기본소득 101》의 저자인 김찬휘 녹색당 공동대표에게 왜 기본소득이 시대적 의제인지 물었습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51241</link>
-            <guid>https://www.bookjournalism.com/audio/51241</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜 북토크 ; 기본소득 101]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #39에선, 박찬욱 감독의 칸 수상 뒤의 진정한 승리자 CJ, 알약도 물약도 아닌 디지털 치료제의 미래, 그리고 의료 서비스 플랫폼 강남언니의 민낯에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51211</link>
-            <guid>https://www.bookjournalism.com/audio/51211</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[성형과 영화와 치유의 욕망]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강남언니에 홍보 수수료를 지급한 의사가 벌금형을 선고받았다. 미용과 의료의 불분명한 경계에 선 강남언니는 어떤 향방을 보일까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51221</link>
-            <guid>https://www.bookjournalism.com/books/51221</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[언니를 만나도, 고민은 계속된다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[칸에서 들어올린 트로피 뒤에는 CJ의 미디어제국이 있다. 제국의 역사는 계속될 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51203</link>
-            <guid>https://www.bookjournalism.com/books/51203</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[CJ의 다음 미장센은?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[동영상] 켄 피셔 인터뷰② "증시에서 확실한 순간 주가는 가장 비싸다!" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220603095311445lo</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220603095311445lo</guid>
-            <pubDate>Sun, 12 Jun 2022 15:23:59 GMT</pubDate>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDNfMTM0/MDAxNjU0MjE3MzY3MjA0.6l4rV691fg5eLxHM5XD0X6xgS7E_9WQaOtiA1KQnNzEg.z-KQngPAbk4iVn2nat3YvZLT-mi-nDvOOY87uYOP3iEg.JPEG/%EC%BC%84_%ED%94%BC%EC%85%94_2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</guid>
-            <pubDate>Mon, 13 Jun 2022 09:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 경제활동 인구 2800만명 중, 무려 절반가량이 주식투자를 하고 있는데요 어느날 고개를 들어 주위를 둘러보니 엄마 친구 아들부터 내 옆자리 직장동료, 심지어는 십년지기 친구까지 알고보니 나만 빼고 다~ 주식을 하고 있어요🤔 "뒤쳐지긴 싫다, 나도 불로소득 좀 땡겨볼까?" 급한 마음에 일단 시작은 했는데 아무래도 막막...한 투자😱 지금 여러분의 투자는 안녕하신가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfNDMg/MDAxNjUwMzM1Mjk5Njky.lZGpdrBmTeXqnaAQQfWbMsU-m7rqFz5APw628ZmGumYg.6ko1l4hLioa8WP6Q9H6Y9kr8PPJazFEFjBLNWGYvEdsg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-19_%EC%98%A4%EC%A0%84_11.28.04.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 인원 감축? 말바꾼 머스크 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220606082559236eo</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220606082559236eo</guid>
-            <pubDate>Sun, 12 Jun 2022 15:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[무슨 일이지? 최근 일론 머스크 테슬라 최고경영자(CEO)가 직원 수를 줄이겠다는 이메일을 임직원에게 보내면서 논란이 발생했습니다. 2일(현지시간) 임원들에게 직원 10%가량 감축하겠다는 뜻을 담은 이메일을 보냈고요. 이어, 3일에는 직원들에게까지 동일한 이야기를 이메일로 전달했죠.  머스크의 계획대로라면 테슬라는 약 1만명에 육박하는 직원들을 해고하게 됩니다.  증권]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDZfMjAx/MDAxNjU0NDcxNDY1NDMx.FIbHm9GyEnTnfKclPkAlTTvPO_G2xL3DuOKvEwkHQhIg.0dNjs9z90RYGYBTd7YygQSPA7I7EJTSrUZ8NTnmiDTAg.JPEG/1._%ED%85%8C%EC%8A%AC%EB%9D%BC_(photo_by_Afif_Kusuma_on_Unsplash).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형이 요즘 관심 있는 금 투자 방법 알려준다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220420154148762pH</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220420154148762pH</guid>
-            <pubDate>Mon, 13 Jun 2022 09:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[형이다. 형이 최근 감명받은 짤로 시작한다. 형도 저런 날을 꿈꾸며 열심히 운동하고 있다. 부스터 먹으면 몸이 찌릿찌릿한게 금방이라도 동석이 형처럼 될 것만 같다. 아직도 윤석이 형에 더 가까운건 함정이다. 오늘은 형이 최근 관심 갖고 있는 금 투자에 대해 알려주려고 한다. 왜 금 투자냐고? 주식하기 가장 위험한 달은 1월부터 12월까지 있다. 근데 실제로 5월부터 10월까지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMTM0/MDAxNjUwNDM2NzUwMDI5.4gDPpKdbYe88eIeR9ta-Xkj5YfZ9SQcvJlWGWbpfKvsg.q3-e0le_vvacceshfUfi8RWLxVJrOU0Nu8IEO1lstH4g.PNG/%ED%98%95%EC%9D%B4%EB%8B%A4_(%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95).png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 시장 급랭, 코인베이스 고용 동결 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220606082814560qb</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220606082814560qb</guid>
-            <pubDate>Sun, 12 Jun 2022 15:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[💬 무슨 일이지? 가상자산 시장이 얼어붙은 가운데 미국 최대 가상자산 거래소 코인베이스가 최근 신입 사원 채용을 취소하는 조치를 단행했습니다. 코인베이스는 2일(현지시간) 신입사원들에게 이메일을 통해 채용 취소를 통보했습니다. 이어 퇴직금 지불은 물론 취업 알선을 도울 것이라는 입장을 밝혔습니다. 이번 채용 취소는 사업 확장 계획을 축소하고, 신규 채용을 당분간]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDZfMTE2/MDAxNjU0NDcxNTUzOTY1.BT07tE1SoSmoAxh8aqQqOGyDoZQ7jWOAmFsOhTlxfWcg.S4RN7aBzd_2VMNNOLFGjIlXiBeSsWQktDywwjfq530kg.PNG/2._%EC%BD%94%EC%9D%B8%EB%B2%A0%EC%9D%B4%EC%8A%A4_(%EC%B6%9C%EC%B2%98_=_%EC%BD%94%EC%9D%B8%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EB%B8%94%EB%A1%9C%EA%B7%B8).png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스타트업 씬에서 1분기에 무슨 일들이 있었을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/lawmission/startupforest/contents/220502204223911ek</link>
-            <guid>https://contents.premium.naver.com/lawmission/startupforest/contents/220502204223911ek</guid>
-            <pubDate>Sun, 12 Jun 2022 15:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[🖋 이 글은 법무법인 미션의 변호사들과 스타트업 포레스트가 만드는 뉴스레터 '로스규이'의 5월 2일 월요일 발행분입니다.  🖋 스타트업 전문 로펌의 변호사로서, 더욱 많은 스타트업 관계자들에게 도움을 드리기 위해 매주 월요일에 레터를 무료로 보내드립니다. #로스규이 신청하기 링크 🖋 변호사의 관점으로 한 주간 스타트업 씬에서 일어난 일 혹은 스타트업 종사자들이 알면]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDJfMTgg/MDAxNjUxNDkwNjQ1NDYz.h9wyHT7dxO_hMq5wPEGImuqkIUTs9P73Qa4RlzklwJog.ALO7WVkKffBQiZfrBJXwY1jaFgOjk01Wt_1M1Kl0N7gg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-25_%EC%98%A4%ED%9B%84_9.41.29.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 ‘머니’에서 벗어나자 ‘탑건’ 흥행…할리웃도 손절하는 중국 시장 [와이드 앵글] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220607061513813ie</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220607061513813ie</guid>
-            <pubDate>Sun, 12 Jun 2022 15:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[‘Wide Angle’에 오신 걸 환영합니다. 저는 브랜든 팰런입니다. ‘탑건: 매버릭’이 박스오피스 기록을 깨고 있습니다. 한편 일본에 주둔 중인 캐나다인 조종사는 최근 ‘탑건’에 나오는 장면과 비슷한 일을 당했습니다. 캐나다 국방부에 따르면 6월 1일 캐나다군 조종사는 중공군 전투기와의 충돌을 피하기 위해 긴급히 비행 경로를 수정해야 했습니다. 캐나다 공군은 북한에 대]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDdfMjY3/MDAxNjU0NTQ5NzQ2NjM0.GPiT9D1OKrc5JRDMFSPdZUmtmhxpUX-l-NjLbJk9DkQg.zOyoe-23I2cBOmPOQVMpAF3DA-fYj0H_xuPi4M4fHq4g.JPEG/maxresdefault.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[목표가 반토막난 삼성SDI (목표가 하락 리포트) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/imgold/imim/contents/220603151029867yt</link>
-            <guid>https://contents.premium.naver.com/imgold/imim/contents/220603151029867yt</guid>
-            <pubDate>Sun, 12 Jun 2022 15:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 배당주 주식 유튜버 황금 거북이입니다. 황금 거북이 프리미엄 콘텐츠를 클릭해 주셔서 진심으로 감사드립니다. 프리미엄 콘텐츠의 혜택 황금 거북이 오픈 채팅방에 입장권 유튜브 영상에서 다루지 못한 내용을 6월 중순부터 본격적으로 올릴 예정입니다. 삼성SDI의 목표가 하락 리포트가 나왔습니다. 시티 그룹에서 목표가를 무려 절반 수준으로 낮춘 것인데요. 황]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDNfMjYx/MDAxNjU0MjM1Mzk2OTk1.SNmOZTKDYcT3QEs8REihHZ0J3rj9KOI-1IbaVBaGgY8g._OCI6ZqSz0N5TZVMeuN_ZL0xQUZuaKgDaMcfMeKhXEgg.PNG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG?type=nfs220_220" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[황금 거북이도 TQQQ 매수합니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/imgold/imim/contents/220606233717516ad</link>
-            <guid>https://contents.premium.naver.com/imgold/imim/contents/220606233717516ad</guid>
-            <pubDate>Mon, 13 Jun 2022 14:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 배당주 주식 유튜버 황금 거북이입니다. 프리미엄 콘텐츠를 클릭해 주셔서 감사합니다. 프리미엄 콘텐츠 구독자에게는 황금 거북이가 별도의 혜택을 드리고자 합니다. 황금 거북이 프리미엄 콘텐츠 가입자 전용 카카오톡 오픈 채팅방  추가적인 혜택 사항은 6월 15일 콘텐츠가 열 편 이상 발행될 때까지 준비를 하도록 하겠습니다. 애플 마이크로소프트 아마존 테슬]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDZfMzAg/MDAxNjU0NTI0NjEyMzQ4.837Haf0IH81EOYbS_W24q6d4v5DZUJOYtZ6szSiKUg4g.UHmNRf8Eke0iqzSyLb5zLzOzyzvfmAUCa-yo8xvpDN4g.PNG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG?type=nfs220_220" length="0" type="image/PNG"/>
+            <title><![CDATA[코리빙에서 디지털 소셜 리빙으로의 진화, 에스키스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/makersjournal/makerspremium/contents/220517103518760fU</link>
+            <guid>https://contents.premium.naver.com/makersjournal/makerspremium/contents/220517103518760fU</guid>
+            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[-코리빙과 IOT 기반 복합주거공간을 통한 새로운 라이프 플랫폼 디지털 소셜 리빙 코리빙은 함께(cooperative) 산다(living)의 의미가 담긴 주거 형태로 1970년대 덴마크의 코하우징에서 시작했다. 단순히 거실, 주방 등을 공유하던 '쉐어하우스'의 개념이 개인 공간이 보장된 상태에서 다수가 사용하는 거실, 주방을 넘어 문화 및 함께 업무를 할 수 있는 코워킹 공간까지 공유하는 코리]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTdfMjE5/MDAxNjUyNzUxMTMxMTgw.zPkU_5T0a2argQjVfsNoLfOAdB2ThoWIS6JhbUVRWmsg.BZ3WGGVtvDK_2PilgRQYxcuSNN1lRpSn65HPllYaStIg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
