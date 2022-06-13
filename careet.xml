@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 23:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 02:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10만 명 방문한 서울국제도서전에서 가장 인기 있었던 부스는 어디?]]></title>
+            <link>https://www.careet.net/786</link>
+            <guid>https://www.careet.net/786</guid>
+            <pubDate>Mon, 13 Jun 2022 02:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드가 틱톡 잘 활용하는 법! 소니뮤직코리아 일 잘하네]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/040b345a-09c1-45bc-b3c3-955fbc3287ad_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[캐릿 유튜브] 코시국 이후에도 Z세대에게 주목받는 비대면 마라톤!?]]></title>
             <link>https://www.careet.net/784</link>
