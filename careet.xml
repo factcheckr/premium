@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 04:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:35:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3년 만의 대면 대학 축제! 이렇게 바뀌었습니다]]></title>
+            <link>https://www.careet.net/782</link>
+            <guid>https://www.careet.net/782</guid>
+            <pubDate>Tue, 14 Jun 2022 05:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[캠퍼스 프로모션을 준비하는 마케터라면 놓치지 말아야 할 포인트를 모았습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/d484898d-2097-4e74-a36a-3d1c994207d9_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[10만 명 방문한 서울국제도서전에서 가장 인기 있었던 부스는 어디?]]></title>
             <link>https://www.careet.net/786</link>
