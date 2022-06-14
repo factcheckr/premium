@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-14T07:22:52.137Z</updated>
+    <updated>2022-06-14T08:31:13.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(웹소설) 팀장의 파워 게임 : 아군 만들기 [ep.2]]]></title>
+        <id>https://publy.co/content/6835?fr=category</id>
+        <link href="https://publy.co/content/6835?fr=category"/>
+        <updated>2022-06-14T08:29:55.223Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초기 브랜드를 위한 마케팅 성장론: 스몰 브랜드의 고객 관리법]]></title>
         <id>https://publy.co/content/6853?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6828?fr=category"/>
         <updated>2022-06-07T08:30:11.913Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제품 팀이 바로 실행할 수 있는 우선순위 결정법]]></title>
-        <id>https://publy.co/content/6797?fr=category</id>
-        <link href="https://publy.co/content/6797?fr=category"/>
-        <updated>2022-06-03T08:27:43.677Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 07:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 08:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(웹소설) 팀장의 파워 게임 : 아군 만들기 [ep.2] (퍼블리)]]></title>
+            <link>https://publy.co/content/6835?fr=category</link>
+            <guid>https://publy.co/content/6835?fr=category</guid>
+            <pubDate>Tue, 14 Jun 2022 08:29:55 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[초기 브랜드를 위한 마케팅 성장론: 스몰 브랜드의 고객 관리법 (퍼블리)]]></title>
             <link>https://publy.co/content/6853?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6828?fr=category</guid>
             <pubDate>Tue, 07 Jun 2022 08:30:11 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제품 팀이 바로 실행할 수 있는 우선순위 결정법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6797?fr=category</link>
-            <guid>https://publy.co/content/6797?fr=category</guid>
-            <pubDate>Fri, 03 Jun 2022 08:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3년 만의 대면 대학 축제! 이렇게 바뀌었습니다 (캐릿)]]></title>
