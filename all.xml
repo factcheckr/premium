@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 14:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 15:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -414,12 +414,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/834515c4-a816-4c88-b78a-b4c4b9e6de7e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[데이비드 켈리 : IDEO를 만든 디자인 구루가 말하는 '창조적 자신감' (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/317</link>
-            <guid>https://www.longblack.co/note/317</guid>
-            <pubDate>Mon, 13 Jun 2022 15:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;“내 디자인의 시작은 관찰이다.” 어제 롱블랙 노트에서, 후카사와 나오토가 한 이 말이 저는 가장 강렬하게 남았습니다. 그의 이력에서 이 회사를 발견하니 고개가 <span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220609/165473946351d5737eb350ac764a72e894b93380fe.png" length="0" type="image/png"/>
+            <title><![CDATA[최욱 : 사람은 죽어도 건축은 남는다, 시간을 기획하는 디자이너 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/318</link>
+            <guid>https://www.longblack.co/note/318</guid>
+            <pubDate>Tue, 14 Jun 2022 15:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;‘신비롭다는 그 천년의 미소를 보고 싶다.’ 국립중앙박물관에 있는 반가사유상을 보러 가기 전 그렇게 생각했습니다. 그런데 미소 보다 공간에 먼저 감탄할 줄은 몰랐<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220609/16547394845685ee9f6c9fffda5b6971c18c05e46b.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -710,160 +710,76 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[화물연대와 정부의 협상이 결렬됐다. 이 시위, 어떻게 바라봐야 할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51656</link>
-            <guid>https://www.bookjournalism.com/books/51656</guid>
-            <pubDate>Tue, 14 Jun 2022 14:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[분노의 섀도복싱]]></content:encoded>
+            <title><![CDATA[🎨일론 머스크 + 트위터 : 인수 후에 뭘 해야할까?_2편 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220608154607857xa</link>
+            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220608154607857xa</guid>
+            <pubDate>Tue, 14 Jun 2022 15:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[👀11분 07초 안에 확인 할 수 있는 Today's Key Points: 1️⃣ 광고 이외에  섭스크립션 / 커머스 비즈니스의 현황 &amp; 문제점 2️⃣ 목표 실적 달성을 위해 일론 머스크의 트위터가 앞으로 나아가야 하는 방향 1편에서는 트위터 광고 비즈니스의 현황을 살펴 봤음. 2편 에서는 섭스크립션 / 커머스를 포함한 기타 사항 그리고 실적 측면에서의 목표 달성을 위해 일론 머스크가 취할 수 있는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMTgz/MDAxNjU0NjY4NjQ0MTc2.8VVknhftVdMqrFB-ECgc2XJvGSXAxPx3PdPUojHKIrog.jRzCq_rKRNxWpABi4PQMwTL2gjX2sZUyngsRrqk8VVYg.JPEG/%EC%9D%BC%EB%A1%A0%EB%A8%B8%EC%8A%A4%ED%81%AC_2%ED%83%84.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[6월 셋째 주 - 변화에는 늘 끝맺음이 필요합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51643</link>
-            <guid>https://www.bookjournalism.com/books/51643</guid>
-            <pubDate>Tue, 14 Jun 2022 14:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[마침표]]></content:encoded>
+            <title><![CDATA[친구를 잘 만나야 한다는 말…과학적일까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/hozytamtam/hozytam/contents/220406152258615yf</link>
+            <guid>https://contents.premium.naver.com/hozytamtam/hozytam/contents/220406152258615yf</guid>
+            <pubDate>Tue, 14 Jun 2022 15:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[혹시 지금 사람들과 함께 있다면 주변을 한 번 둘러보시기 바랍니다. 내 옆에 어떤 사람들이 있는지 말입니다. 지금은 옆에 없어도 가깝게 지내는 사람들도 있을 텐데 그들도 한 번 떠올려 보시기 바랍니다. 뜬금없겠다 싶으실 텐데 그럴 만한 이유가 있습니다. 기나 긴 코로나19 사태를 통과하면서 우리는 옆에 있는 사람들이 대단히 중요하다는 걸 알게 됐습니다. 전염 가능성]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTY1/MDAxNjQ5MjIzNDI1NTAz.-J31KEcmnHgJSaHcr4RIkCWzNoQ4QCGhMSuaANul9I8g.Tz3Fa6s6ARP9jEQgD0wjGZ7Iad1ustLtL4kaPGPJCmIg.JPEG/%EA%B7%B8%EB%A6%BC3.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #40에선, 보복경험 시대를 맞아 변신하고 있는 대형마트, 7차 핵실험을 눈앞에 두고 별의 순간을 맞은 북한, 연달아 터지고 있는 스타트업 보안 문제, 스트리밍 세대를 위한 세로운 한국 문학에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51600</link>
-            <guid>https://www.bookjournalism.com/audio/51600</guid>
-            <pubDate>Tue, 14 Jun 2022 14:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[달라졌다, 북한도 마트도 소설도]]></content:encoded>
+            <title><![CDATA[세계경제포럼, ‘그레이트 리셋’ 추진을 위한 9가지 계획 [팩트 매터] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220609045201817tm</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220609045201817tm</guid>
+            <pubDate>Tue, 14 Jun 2022 15:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하십니까! 보시는 화면은 세계경제포럼입니다. 스위스 다보스에서 열리는 연례 회의로 전 세계 엘리트들이 개인 전용기를 타고 모여 우리의 미래를 계획한다는데 그러면서도 세계적으로 탄소발자국을 줄이기 위한 토대를 마련하겠답니다. 이 행사는 우리 같은 평범한 사람들도 여기 모인 사람들의 생각을 엿볼 수 있게 해 줍니다. 왜냐하면 세계경제포럼은 그간 조용했던]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDlfMTUg/MDAxNjU0NzE3NzU3MDM3.bkPvKtPacfDUAuoIZHL1jDm4HurwPBKP3SNLqeN5toUg.gKjQOTMmNNMkeD-gP_hZ_iDQS_la0L9wCZlrUJGkowIg.JPEG/maxresdefault.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[블러썸크리에이티브와 CJ E&M이 IP 제휴 계획을 밝혔다. 콘텐츠 업계와 문학계의 콜라보는 성공할 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51509</link>
-            <guid>https://www.bookjournalism.com/books/51509</guid>
-            <pubDate>Tue, 14 Jun 2022 14:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[스트리밍 세대를 위한 소설]]></content:encoded>
+            <title><![CDATA[2022 신중년 골프트렌드 모음 Zip. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/aful/trend4060/contents/220415172136901QK</link>
+            <guid>https://contents.premium.naver.com/aful/trend4060/contents/220415172136901QK</guid>
+            <pubDate>Tue, 14 Jun 2022 15:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;PREVIEW&gt; 신중년이 가장 선호하는 스크린 골프장은 'OOO' 'OOOOO(오션)', 신중년이 가장 좋아하는 국내 골프장으로 선정! 4060, 골프채는 'OOOO'에서, 골프웨어는 'OOO'에서! &lt;ABOUT US&gt; "신중년의 일상에 가치와 리듬을 더하다, 에이풀!" 에이풀은 신중년 A세대를 세상의 중심으로 연결하는 '중장년 액티브 시니어 No.1 서비스' 입니다. 4060의 소비트렌드조사를 통해 콘텐츠를 개발하고 높은 프라]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTJfMjcw/MDAxNjUyMzM3MTA0NjM2.-USopMYpHNFymNWmAuXOzAO5wx14NGgGmh4vKSNyXbQg.RArSNIsgzEAKAYaLneFzII6FiOQtDd_D48OtNb2LvK0g.JPEG/%EA%B3%A8%ED%94%84.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[모두가 MBTI를 말하지만 아무도 MBTI를 모른다. 어쩌다 MBTI는 우리 시대의 언어가 되었나? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51138</link>
-            <guid>https://www.bookjournalism.com/books/51138</guid>
-            <pubDate>Tue, 14 Jun 2022 14:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[당신이 몰랐던 MBTI]]></content:encoded>
+            <title><![CDATA[쓰레기통 버려진 국기, 예우 갖춰 수거한 美 청소업자 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220609051824939ol</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220609051824939ol</guid>
+            <pubDate>Tue, 14 Jun 2022 15:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[Patriotic Garbage Collector Sees Flag in Trash, Rescues, Folds It ‘When Nobody Else Was Watching’ 쓰레기통 버려진 국기, 예우 갖춰 수거한 美 청소업자 A Utah garbage collector who once served in the U.S. Marine Corps was caught on camera rescuing an American flag from the trash, to fold it and treat it with the honor it deserves. 미국 유타주의 한 쓰레기 수거업자가 쓰레기통에서 국기인 성조기를 건져 올려 고이 접어 조수석에 따로 싣]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDlfMTY4/MDAxNjU0NzE5MjgyNDQ4.mzKY6wkj8kmHVZUpHrk0ngEouvzjG-A-LympsxJb3t4g.8-zIOlz9gHjWfoSAzX4Ouvy1vn59W6tvbQBv8lzDotIg.JPEG/et-web-Brooke-Cowley-6-1200x720-795x447.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[밀리의 서재에서 해킹으로 인해 개인 정보가 유출됐다. 스타트업에게 사이버 보안은 사치인가 필수인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51448</link>
-            <guid>https://www.bookjournalism.com/books/51448</guid>
-            <pubDate>Tue, 14 Jun 2022 14:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[보안이라는 사치]]></content:encoded>
+            <title><![CDATA[힘들 때 생각나는 사람 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/littlemiracle/littlemiracle13/contents/220608010353461xi</link>
+            <guid>https://contents.premium.naver.com/littlemiracle/littlemiracle13/contents/220608010353461xi</guid>
+            <pubDate>Tue, 14 Jun 2022 15:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[저에게 이런 친구가 있습니다.    평상시에는 소통이 없다가 힘든 일이 있을 때 전화하는 친구요. 그리고 힘든 일이 지나면, 제 생각이 덜 나는지 또 그렇게 소통의 시간이 없어집니다. 그리고 반 년 정도의 시간이 지났을 즈음, 문득 또 전화가 걸려옵니다. 그럼 저는 반가운 마음에 받는데, 그 친구의 목소리는 힘겨움에 잠겨있습니다. 그럼 저는 자연스럽게 그 친구의 무게를 같]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfNzcg/MDAxNjU0NjE2MDk2NzI2.HTibspTK_qS0u8yF4MTERolJNTiwU3Ws_jG0nug-erog.YZsWA8bbB7W1h2Fa7sLj3oXWUUGaGf9n1e4eLY0_Cskg.PNG/SE-1d9ab31f-b284-4dae-abf0-3ff472c2559c.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[고대 이집트의 큐빗(cubit) 단위에서부터 현대의 건강 추적 앱에 이르기까지 인류는 수많은 방식들을 활용하여 세계와 우리 자신을 측정해왔다. 이러한 측정은 우리에게 어떤 의미인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51468</link>
-            <guid>https://www.bookjournalism.com/books/51468</guid>
-            <pubDate>Tue, 14 Jun 2022 14:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[우리 삶을 측정하다]]></content:encoded>
+            <title><![CDATA[백수인 나, '실업자'는 아니라고요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220608165839939dx</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220608165839939dx</guid>
+            <pubDate>Tue, 14 Jun 2022 15:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[지난 달 통계청이 발표한 우리나라 실업률은 2.7%다. 최근 물가가 급등하고, 주식시장 등 자산 시장의 가격이 급락하면서 실물경제가 어렵다는 의견이 많다. 경제가 어려운데 통계청 발표를 보면 실업률을 살펴보면 생각보다 높지 않은 것이 아니라 일반인들이 체감하는 노동시장과는  큰 차이를 보인다. 앞서 살펴본 통계대로라면 내 주변에 있는 사람들 100명 가운데 실업자는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMTA3/MDAxNjU0Njc0OTc4Mzc1.G_1qwoLoX8l2js-TpGKqsP_nftTV9kdxdKBF4ZYdyacg.dZOJ22BndiwqXTsIIcV803zhidf3xM6XxLutNE_hlPAg.JPEG/GettyImages-1244526077.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한의 집중 도발과 핵실험 징후, 진짜 위기가 도래할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51396</link>
-            <guid>https://www.bookjournalism.com/books/51396</guid>
-            <pubDate>Tue, 14 Jun 2022 14:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[별의 순간이 왔다, 북한에]]></content:encoded>
+            <title><![CDATA[미국시장(6/7): 소프트웨어, 우라늄, 에너지, 당뇨치료제 상승 원인 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220608075859145ta</link>
+            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220608075859145ta</guid>
+            <pubDate>Tue, 14 Jun 2022 15:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[1. 오늘의 상승/하락 테마 주목의 상승테마 1) 소프트웨어(SaaS), 사이버보안, 데이터 분석/관리 Nasdaq 상승 흐름 속에서 고성장/고밸류에이션 기술주들의 강세 두드러져. 카테고리를 분류하자면 SaaS, 사이버보안, 데이터 분석/관리 기업들의 상승폭이 상대적으로 높아 * 주요 강세 종목 SaaS: Salesforce(CRM) +2.3%, ServiceNow(NOW) +2.9%, Twilio(TWLO) +6.0%, DocuSign(DOCU) +4.1% 등 사이버보안: CrowdStrike(CR]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMTgy/MDAxNjU0NjM5MjkxOTM3.tKMC4_JaqEXlAKpdXzP2jhtwHhYPw8REjfLS3cUPlngg.A3Oe-8wdYrmbkMTdqxODRl2OLZ1rAgUD01kwxWY5HLIg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[새 옷을 입은 마트가 날고 있다. 이 날개는 어떤 모습일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51239</link>
-            <guid>https://www.bookjournalism.com/books/51239</guid>
-            <pubDate>Tue, 14 Jun 2022 14:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[마트, 다녀오셨어요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 신간《기본소득 101》의 저자인 김찬휘 녹색당 공동대표에게 왜 기본소득이 시대적 의제인지 물었습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51241</link>
-            <guid>https://www.bookjournalism.com/audio/51241</guid>
-            <pubDate>Tue, 14 Jun 2022 14:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜 북토크 ; 기본소득 101]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #39에선, 박찬욱 감독의 칸 수상 뒤의 진정한 승리자 CJ, 알약도 물약도 아닌 디지털 치료제의 미래, 그리고 의료 서비스 플랫폼 강남언니의 민낯에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51211</link>
-            <guid>https://www.bookjournalism.com/audio/51211</guid>
-            <pubDate>Tue, 14 Jun 2022 14:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[성형과 영화와 치유의 욕망]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강남언니에 홍보 수수료를 지급한 의사가 벌금형을 선고받았다. 미용과 의료의 불분명한 경계에 선 강남언니는 어떤 향방을 보일까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51221</link>
-            <guid>https://www.bookjournalism.com/books/51221</guid>
-            <pubDate>Tue, 14 Jun 2022 14:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[언니를 만나도, 고민은 계속된다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</guid>
-            <pubDate>Tue, 14 Jun 2022 02:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 경제활동 인구 2800만명 중, 무려 절반가량이 주식투자를 하고 있는데요 어느날 고개를 들어 주위를 둘러보니 엄마 친구 아들부터 내 옆자리 직장동료, 심지어는 십년지기 친구까지 알고보니 나만 빼고 다~ 주식을 하고 있어요🤔 "뒤쳐지긴 싫다, 나도 불로소득 좀 땡겨볼까?" 급한 마음에 일단 시작은 했는데 아무래도 막막...한 투자😱 지금 여러분의 투자는 안녕하신가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfNDMg/MDAxNjUwMzM1Mjk5Njky.lZGpdrBmTeXqnaAQQfWbMsU-m7rqFz5APw628ZmGumYg.6ko1l4hLioa8WP6Q9H6Y9kr8PPJazFEFjBLNWGYvEdsg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-19_%EC%98%A4%EC%A0%84_11.28.04.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩌면 위로를 받은 건 나일지도 모른다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/littlemiracle/littlemiracle13/contents/220415155402596Eb</link>
-            <guid>https://contents.premium.naver.com/littlemiracle/littlemiracle13/contents/220415155402596Eb</guid>
-            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[-추루루룩-   출근길, 버스를 기다리고 있던 중 갑자기 비가 쏟아졌다. 분명 일기예보에는 비가 안 온다고 했는데...   비가 오자 사람들이 비를 피하기 위해 버스정류장 안으로 몰려들었다. 갑자기 쏟아진 비라 우산을 안 갖고 온 사람들이 많았기 때문이다. 어느덧 버스정류장 안은 사람들이 가득해졌다.    하지만, 내가 탈 버스는 ‘7분 후 도착’이라고 떴다. 평상시 같으면 7분]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTVfMjIg/MDAxNjUwMDA0NjU0NDcx.DhIwvKtrIgKYQ7LRv2aPEtsxtpy5KxgBYqmGVl4pt0Ag.NNA54D17rL9j6fbFQRuEFQxIEPwUKIAs8HZr2GHiY3Ag.JPEG/%EC%98%81%ED%99%94_%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형이 요즘 관심 있는 금 투자 방법 알려준다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220420154148762pH</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220420154148762pH</guid>
-            <pubDate>Tue, 14 Jun 2022 02:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[형이다. 형이 최근 감명받은 짤로 시작한다. 형도 저런 날을 꿈꾸며 열심히 운동하고 있다. 부스터 먹으면 몸이 찌릿찌릿한게 금방이라도 동석이 형처럼 될 것만 같다. 아직도 윤석이 형에 더 가까운건 함정이다. 오늘은 형이 최근 관심 갖고 있는 금 투자에 대해 알려주려고 한다. 왜 금 투자냐고? 주식하기 가장 위험한 달은 1월부터 12월까지 있다. 근데 실제로 5월부터 10월까지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjBfMTM0/MDAxNjUwNDM2NzUwMDI5.4gDPpKdbYe88eIeR9ta-Xkj5YfZ9SQcvJlWGWbpfKvsg.q3-e0le_vvacceshfUfi8RWLxVJrOU0Nu8IEO1lstH4g.PNG/%ED%98%95%EC%9D%B4%EB%8B%A4_(%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%98%95).png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국민연금도 못 피한 미국하락장! 올해 1분기 수 조원 손실 실화? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220607143840103xa</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220607143840103xa</guid>
-            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[증시 부진에 국민연금 수조원 손실.. 　 지난 분기 미국 주식 대량으로 추가매수! 테슬라, 아마존, AMD 등 　 과연 2분기에는 미국주식 수익률은 플러스로 돌아설 것인가..? 　 #미국주식 #국민연금 #해외주식 TOP3의 진단점수는 몇 점? ※ 이 글은 당사가 신뢰할 수 있는 자료 및 정보로부터 얻은 것이지만, 그 정확성이나 완전성을 보장할 수 없으므로 투자자 자신의 판단과 책임하에]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDdfMTM0/MDAxNjU0NTc5ODU4NjA5.Sh_Al_6ljK8GF-xuWhR9ysaLD5k55_WwNyZxvq0_bhUg.y2qAWGsjRIKbHPutKXkPzc5o9kS1hoPWIl9tMhvkIrwg.PNG/1.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[굿모닝러너 챌린지 [81일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220607054246675xv</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220607054246675xv</guid>
-            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [81일차] 굿모닝러너님, 내일을 걱정하며 시간을 허비하지 말고, 오늘의 할 일에 집중하세요~ 오늘 하루가 가장 소중한 순간이에요 :) 굿모닝러너_챌린지_81일차 #20220607 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록 예시) 닉네임  / 목]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDdfNiAg/MDAxNjU0NTQ4MTQ3NTIx.aTnfYDa4IfXBawn2FzABVbaD4eF-Wh0JuXLIwlkgwFwg.h3jfr4rI0OuOYs6cTsnNs6Ce0UouR42vSFnSQvCPGfkg.JPEG/KakaoTalk_20220607_054131739.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톈안먼 연상? 중국 인플루언서, ‘탱크 모양 케이크’ 팔다가 생방송 강제종료 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220608041623910jv</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220608041623910jv</guid>
-            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[중국 최고의 뷰티 왕훙(網紅·인터넷 스타) 리자치(李佳琦·30)가 톈안먼 33주년을 맞아 강화된 검열에 된서리를 맞았다. ‘립스틱 바르는 오빠’로 불리며 라이브 커머스를 통한 화장품 하루 매출이 108억 위안(1조8천억원)을 기록한 리자치는 지난 3일 라이브 방송이 급작스럽게 중단됐다. 이날 방송 중 미국 식품회사 나비스코의 오레오 쿠키를 판매하던 리자치는 오레오로 만든]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMjM3/MDAxNjU0NjI5MjUzMjY4.D9HxBaze2GRmGa8iHqf0TKh8fak9d61BLiqITTKhk7gg.5a2FPwz88ubusNr_aadPGDLidj_Wot-gGMAhxYXkXmUg.JPEG/20220607-1030-002.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국시장(6/6): 태양광, 여행/레저, 원자재 강세 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220607081131215wb</link>
-            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220607081131215wb</guid>
-            <pubDate>Mon, 13 Jun 2022 15:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[1. 지난 금요일 미국시장 간단 요약 2. 오늘의 상승/하락 테마 주목의 상승테마 1) 태양광 밸류체인 바이든 행정부 태양광 수입 규제 완화 결정. 당초 미국 상무부는 동남아 4개국(캄보디아, 말레이시아, 태국, 베트남)에서 수입되어지는 태양광 제품에 대해 추가 관세를 부과할 것으로 예상됐음. 해당 동남아 지역으로부터의 수입품들이 실제 중국산으로 우회수출 의혹이 존재했기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDdfMjUg/MDAxNjU0NTU1MjIxMTc0.SfuT3VsuBZXzM3JG5pAqRHlVw2E55lDVzMDreZPC1wog.kwQ8NbqVLXaazkqwBluhaNJVwH0-VAYDcFG7uoH4YEEg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미약하고 서툴더라도, 계속해서 연대를 이어가는 인물들이 만들어내는 잔잔하게 몰아치는 서사의 힘 - 고레에다 히로카즈 감독론 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220607222710532dt</link>
-            <guid>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220607222710532dt</guid>
-            <pubDate>Tue, 14 Jun 2022 13:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[이미 &lt;그렇게 아버지가 된다&gt;와 &lt;어느 가족&gt;등으로 작품성을 인정받은 고레에다 히로카즈의 신작 &lt;브로커&gt;가 연일 화제다. 특히 국내에서 더 많은 관심을 받고 있다. 일본 감독의 한국 영화라서 그런 것일까? 그럴지도 모르겠다. 하지만, 그런 관심이라도 좋은 감독의 좋은 작품이 더 많은 사람들에게 소개된다는 건 기분 좋은 일이다. 영화 &lt;브로커&gt;가 바로 내일, 6월 8일에 개봉한]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDdfMjAg/MDAxNjU0NjA4MzE5Nzg5.2nn0k3L0Rr8gvRq93deIJesZt1rpdcxRYWfeFnnec4Ug.dUj0lnJ6iu5EuvIseznJfF6aSVST7cGcLlLZK6Qejrkg.JPEG/20151211152005555642.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[(증여#1)아버지가 아들에게 빌라 증여 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/sdph/sdphpremium/contents/220608223602164fx</link>
+            <guid>https://contents.premium.naver.com/sdph/sdphpremium/contents/220608223602164fx</guid>
+            <pubDate>Tue, 14 Jun 2022 15:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요,  증여세에 관한 케이스 스터디 #1. 아들에게 빌라를 증여하는 방법에 관한 내용입니다. 다양한 케이스를 통해 가장 이상적인 방법으로 미래의 절세 계획을 세우시는데 도움이 되셨으면 좋겠습니다. 아버지에게 공시지가 3천만원이 조금 넘는 빌라를 12월 중에 증여 받으려고 합니다. 그런데 증여 받으려는 빌라의 평수와 비슷한 평수가 올 6월 10일에 8천만원에 계약된]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMjQz/MDAxNjU0Njk1MzEzNDky.sX6CW108MVZwSKv-I1IoMgKdzsO_VUJtQdkcGa0USb0g.N3L0D-5QpniIg5ayOlK5iKoP5jcWs3tplzxJGGMd4Pwg.PNG/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_(40).png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
