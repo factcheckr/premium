@@ -2,7 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-06-15T08:32:10.397Z</updated>
+    <updated>2022-06-15T09:24:27.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[해를 거듭할수록 홍수는 더 자주, 더 무참하게 도시를 습격한다. 중국 정부가 새로운 대응 방안을 내놓았다. 과연 성공할 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/51699</id>
+        <link href="https://www.bookjournalism.com/books/51699"/>
+        <updated>2022-06-15T09:24:18.515Z</updated>
+        <content type="html"><![CDATA[치수(治水)가 만사(萬事)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상인간이 쏟아져 나온다. 전략과 시도도 다양해지고 있다.]]></title>
+        <id>https://www.bookjournalism.com/books/51685</id>
+        <link href="https://www.bookjournalism.com/books/51685"/>
+        <updated>2022-06-15T09:24:18.524Z</updated>
+        <content type="html"><![CDATA[가상인간은 메시지다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화물연대와 정부의 협상이 결렬됐다. 이 시위, 어떻게 바라봐야 할까?]]></title>
+        <id>https://www.bookjournalism.com/books/51656</id>
+        <link href="https://www.bookjournalism.com/books/51656"/>
+        <updated>2022-06-15T09:24:18.525Z</updated>
+        <content type="html"><![CDATA[분노의 섀도복싱]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6월 셋째 주 - 변화에는 늘 끝맺음이 필요합니다.]]></title>
+        <id>https://www.bookjournalism.com/books/51643</id>
+        <link href="https://www.bookjournalism.com/books/51643"/>
+        <updated>2022-06-15T09:24:18.526Z</updated>
+        <content type="html"><![CDATA[마침표]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 라디오 에피소드 #40에선, 보복경험 시대를 맞아 변신하고 있는 대형마트, 7차 핵실험을 눈앞에 두고 별의 순간을 맞은 북한, 연달아 터지고 있는 스타트업 보안 문제, 스트리밍 세대를 위한 세로운 한국 문학에 관해 이야기 합니다.]]></title>
+        <id>https://www.bookjournalism.com/audio/51600</id>
+        <link href="https://www.bookjournalism.com/audio/51600"/>
+        <updated>2022-06-15T09:24:18.529Z</updated>
+        <content type="html"><![CDATA[달라졌다, 북한도 마트도 소설도]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블러썸크리에이티브와 CJ E&M이 IP 제휴 계획을 밝혔다. 콘텐츠 업계와 문학계의 콜라보는 성공할 수 있을까.]]></title>
+        <id>https://www.bookjournalism.com/books/51509</id>
+        <link href="https://www.bookjournalism.com/books/51509"/>
+        <updated>2022-06-15T09:24:18.530Z</updated>
+        <content type="html"><![CDATA[스트리밍 세대를 위한 소설]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모두가 MBTI를 말하지만 아무도 MBTI를 모른다. 어쩌다 MBTI는 우리 시대의 언어가 되었나?]]></title>
+        <id>https://www.bookjournalism.com/books/51138</id>
+        <link href="https://www.bookjournalism.com/books/51138"/>
+        <updated>2022-06-15T09:24:18.531Z</updated>
+        <content type="html"><![CDATA[당신이 몰랐던 MBTI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밀리의 서재에서 해킹으로 인해 개인 정보가 유출됐다. 스타트업에게 사이버 보안은 사치인가 필수인가.]]></title>
+        <id>https://www.bookjournalism.com/books/51448</id>
+        <link href="https://www.bookjournalism.com/books/51448"/>
+        <updated>2022-06-15T09:24:18.534Z</updated>
+        <content type="html"><![CDATA[보안이라는 사치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고대 이집트의 큐빗(cubit) 단위에서부터 현대의 건강 추적 앱에 이르기까지 인류는 수많은 방식들을 활용하여 세계와 우리 자신을 측정해왔다. 이러한 측정은 우리에게 어떤 의미인가?]]></title>
+        <id>https://www.bookjournalism.com/books/51468</id>
+        <link href="https://www.bookjournalism.com/books/51468"/>
+        <updated>2022-06-15T09:24:18.535Z</updated>
+        <content type="html"><![CDATA[우리 삶을 측정하다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한의 집중 도발과 핵실험 징후, 진짜 위기가 도래할까?]]></title>
+        <id>https://www.bookjournalism.com/books/51396</id>
+        <link href="https://www.bookjournalism.com/books/51396"/>
+        <updated>2022-06-15T09:24:18.536Z</updated>
+        <content type="html"><![CDATA[별의 순간이 왔다, 북한에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새 옷을 입은 마트가 날고 있다. 이 날개는 어떤 모습일까?]]></title>
+        <id>https://www.bookjournalism.com/books/51239</id>
+        <link href="https://www.bookjournalism.com/books/51239"/>
+        <updated>2022-06-15T09:24:18.538Z</updated>
+        <content type="html"><![CDATA[마트, 다녀오셨어요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 신간《기본소득 101》의 저자인 김찬휘 녹색당 공동대표에게 왜 기본소득이 시대적 의제인지 물었습니다.]]></title>
+        <id>https://www.bookjournalism.com/audio/51241</id>
+        <link href="https://www.bookjournalism.com/audio/51241"/>
+        <updated>2022-06-15T09:24:18.542Z</updated>
+        <content type="html"><![CDATA[스페셜 북토크 ; 기본소득 101]]></content>
+    </entry>
 </feed>
