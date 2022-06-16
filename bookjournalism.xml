@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-06-16T11:20:06.130Z</updated>
+    <updated>2022-06-16T12:48:11.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.bookjournalism.com/books/51719</id>
         <link href="https://www.bookjournalism.com/books/51719"/>
         <updated>2022-06-16T10:27:54.322Z</updated>
-        <content type="html"><![CDATA[스포츠를 잡아라]]></content>
+        <content type="html"><![CDATA[OTT로 넘어간 축구공]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해를 거듭할수록 홍수는 더 자주, 더 무참하게 도시를 습격한다. 중국 정부가 새로운 대응 방안을 내놓았다. 과연 성공할 수 있을까?]]></title>
