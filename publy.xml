@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-16T08:35:19.643Z</updated>
+    <updated>2022-06-16T09:25:35.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GA4 첫 단추! 보고서 해석보다 중요한 3단계 데이터 수집법]]></title>
+        <id>https://publy.co/content/6809?fr=category</id>
+        <link href="https://publy.co/content/6809?fr=category"/>
+        <updated>2022-06-16T09:24:23.947Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(전)아디다스코리아 상품기획 디렉터가 알려주는 3단계 가격 설계법]]></title>
         <id>https://publy.co/content/6850?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6844?fr=category"/>
         <updated>2022-06-08T08:31:42.247Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페북 출신 마케터가 알려주는 매체별 최적화와 미디어 플래닝]]></title>
-        <id>https://publy.co/content/6837?fr=category</id>
-        <link href="https://publy.co/content/6837?fr=category"/>
-        <updated>2022-06-07T08:30:11.912Z</updated>
-        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
     </entry>
 </feed>
