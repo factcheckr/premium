@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 04:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 06:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.careet.net/789</guid>
             <pubDate>Thu, 16 Jun 2022 04:52:46 GMT</pubDate>
             <content:encoded><![CDATA[요즘 10대는 사복 입고, 앱으로 수행평가 본다고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/b84e4308-636b-4905-98be-55482cf748d4_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/81ed4669-5628-4816-b611-1d0cc260ce50_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[요즘 뜨는 브랜드는 다 한다는 카메라 필터 마케팅! 제작 노하우 풀어드립니다]]></title>
