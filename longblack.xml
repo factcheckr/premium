@@ -4,16 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 14:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 15:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[론 버크먼 : 50명의 크리에이터를 만나, 창조성을 정의하다]]></title>
-            <link>https://www.longblack.co/note/320</link>
-            <guid>https://www.longblack.co/note/320</guid>
-            <pubDate>Thu, 16 Jun 2022 15:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;사실 저, 그래픽 디자이너를 꿈꾼 적이 있어요! 부모님을 졸라 학원에 나가기도 했거든요? 그런데 얼마 못 가 금방 포기했어요. 세상에 잘하는 사람들이 너무나 많은<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220609/1654739519298b23a5af31e433c1a82d4b576250ee.png" length="0" type="image/png"/>
+            <title><![CDATA[우정에 관하여 : 우리는 왜 친구가 필요한가, 어떤 사람과 친구가 되는가]]></title>
+            <link>https://www.longblack.co/note/327</link>
+            <guid>https://www.longblack.co/note/327</guid>
+            <pubDate>Fri, 17 Jun 2022 15:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;친구들과 잡아둔 저녁 약속에 저만 또 빠졌습니다. 팬데믹으로 모임 없는 일상에 익숙해졌거든요. 친구들이 단체채팅방에 “너도 다음에 꼭 와”라며 모임 사진을 올려 <span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220614/16552014921ed9a4229a79c554df152a06f6cd01e5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
