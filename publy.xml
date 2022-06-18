@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-18T19:19:53.076Z</updated>
+    <updated>2022-06-18T20:24:06.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
-    <entry>
-        <title type="html"><![CDATA[PM이 처음이라면, 적응에 필요한 N가지 팁]]></title>
-        <id>https://publy.co/content/6854?fr=category</id>
-        <link href="https://publy.co/content/6854?fr=category"/>
-        <updated>2022-06-17T08:30:39.115Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GA4 첫 단추! 보고서 해석보다 중요한 3단계 데이터 수집법]]></title>
-        <id>https://publy.co/content/6809?fr=category</id>
-        <link href="https://publy.co/content/6809?fr=category"/>
-        <updated>2022-06-16T09:24:23.947Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(전)아디다스코리아 상품기획 디렉터가 알려주는 3단계 가격 설계법]]></title>
-        <id>https://publy.co/content/6850?fr=category</id>
-        <link href="https://publy.co/content/6850?fr=category"/>
-        <updated>2022-06-15T08:31:02.516Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(웹소설) 팀장의 파워 게임 : 아군 만들기 [ep.2]]]></title>
-        <id>https://publy.co/content/6835?fr=category</id>
-        <link href="https://publy.co/content/6835?fr=category"/>
-        <updated>2022-06-14T08:29:55.223Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초기 브랜드를 위한 마케팅 성장론: 스몰 브랜드의 고객 관리법]]></title>
-        <id>https://publy.co/content/6853?fr=category</id>
-        <link href="https://publy.co/content/6853?fr=category"/>
-        <updated>2022-06-13T08:30:52.225Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초기 브랜드를 위한 마케팅 성장론: 스몰 브랜드의 성장법]]></title>
-        <id>https://publy.co/content/6836?fr=category</id>
-        <link href="https://publy.co/content/6836?fr=category"/>
-        <updated>2022-06-13T08:30:52.225Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대신 읽어드림 : 책<결정, 흔들리지 않고 마음먹은 대로>]]></title>
-        <id>https://publy.co/content/6843?fr=category</id>
-        <link href="https://publy.co/content/6843?fr=category"/>
-        <updated>2022-06-10T08:28:04.835Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PM/PO 이직 면접 질문과 바로 써먹는 답변 노하우(노션 템플릿 제공)]]></title>
-        <id>https://publy.co/content/6811?fr=category</id>
-        <link href="https://publy.co/content/6811?fr=category"/>
-        <updated>2022-06-10T08:28:04.840Z</updated>
-        <content type="html"><![CDATA[아티클 · 16분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사용자가 원하는 걸 빨리 찾게 하려면? 검색 UX 총정리]]></title>
-        <id>https://publy.co/content/6842?fr=category</id>
-        <link href="https://publy.co/content/6842?fr=category"/>
-        <updated>2022-06-09T08:32:21.143Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀장의 의사결정, ‘쫓겨서’가 아니라 ‘제때’ 제대로 하려면]]></title>
-        <id>https://publy.co/content/6806?fr=category</id>
-        <link href="https://publy.co/content/6806?fr=category"/>
-        <updated>2022-06-09T08:32:21.143Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
 </feed>
