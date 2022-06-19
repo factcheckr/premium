@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 14:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 15:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -462,16 +462,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/834515c4-a816-4c88-b78a-b4c4b9e6de7e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 18 Jun 2022 15:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[B가 감명받은 지난주 롱블랙의 문장
-
-"디자인은 사람들이 자신의 감각을 발견하도록 돕는 것입니다. 사람들은 종종 본인이 어떠한 이유에서, 특정한 행위를 하는지 모릅니다. ‘당신은 이런 감각을 느끼고 있는 게 아닙니까?’ 물어봐 주는 게 바로 디자인입니다."
-
-&lt;<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220616/165537992077e7fb6c62fcdb4fe7c6016712fc732f.png" length="0" type="image/png"/>
+            <title><![CDATA[대학내일 : 캐릿과 20대연구소, MZ에 대한 이해로 성장 동력을 찾다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/324</link>
+            <guid>https://www.longblack.co/note/324</guid>
+            <pubDate>Sun, 19 Jun 2022 15:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;C가 재밌는 뉴스레터 하나 추천하더라. 캐릿Careet. 들어가 보니 내가 몰랐던 MZ 트렌드가 너무 많은 거 있지! 요즘 Z세대는 OTT 플랫폼에서 세일러문, <span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220615/1655267702c409482eab142fdc727fb9f1cfb1a99a.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -762,76 +758,157 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[티의 명소를 찾아서 ② 북유럽: 네덜란드·덴마크·벨기에 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/teasommelier/tea/contents/220408141920101rT</link>
-            <guid>https://contents.premium.naver.com/teasommelier/tea/contents/220408141920101rT</guid>
-            <pubDate>Sat, 18 Jun 2022 15:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[전문 티룸, 티숍으로 떠나는 북유럽 ‘스페셜티 티’의 명소   네덜란드, 덴마크, 벨기에 등 북유럽에서는 ‘스페셜티 티’를 중심으로 고급 티들이 인기를 끌고 있다. 오늘날 티의 소비가 전 세계적인 트렌드인 만큼, 커피를 일상적으로 즐기는 북유럽에서도 티의 인기가 점차 높아만 가고 있다. 여기서는 그중에서도 ‘스페셜티 티’의 명소로 알려진 몇몇 곳을 찾아 여행해 본]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDhfMTgx/MDAxNjQ5Mzk0MDAyMjI4.HvLnS3Z6NiKvuobdKNFtwr5_JKMzb7Igl3XBNksxqgYg.JCs-TvUdvI-v88eQ9L9Co1cESiXs-J65SK5ZE2yd-M4g.JPEG/%ED%8D%BC%EC%B8%A0%ED%8B%B0%EB%A8%B8%EC%B2%9C%EC%B8%A0_%EC%BD%94%ED%8E%9C%ED%95%98%EA%B2%90%EC%A7%80%EC%A0%90_1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[불법 스테로이드 처벌이 강화된다. 예고되는 후폭풍은 가볍지 않다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51807</link>
+            <guid>https://www.bookjournalism.com/books/51807</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[노 모어 스테로이드]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“책상을 탁, 치자 억, 하고 죽었다”···‘박종철 고문치사 조작 사건’의 진실 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bzup/ahopsi/contents/220608071940880dy</link>
-            <guid>https://contents.premium.naver.com/bzup/ahopsi/contents/220608071940880dy</guid>
-            <pubDate>Sat, 18 Jun 2022 15:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[“그저께 새로 들어온 친구들 말이야. 박종철이를 물고문해서 죽였다는…” 교도관 ‘한재동’이 철장 안에 있는 ‘이부영’에게 은밀히 말을 건넸다. 비록 교도관과 수감자 사이였지만 한재동은 재야 운동가였던 이부영을 좀 특별하게 대하고 있었다. 넓은 이마에 안경을 쓴 이부영은 조선시대의 빈틈없는 선비 같은 이미지였다. 해직 언론인 출신으로 이미 여러 차례 감옥살]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfOTgg/MDAxNjU0NjczMTQyODcw.sILBN61CQ5TG0nWUUjHPedqTH8A7ApbojZoZUOnhARMg.9Ydkbm8eVQensLClq974-qmbLluMQBBez84wO_dFft8g.JPEG/%E2%80%9C%EC%B1%85%EC%83%81%EC%9D%84-%ED%83%81,-%EC%B9%98%EC%9E%90-%EC%96%B5,-%ED%95%98%EA%B3%A0-%EC%A3%BD%EC%97%88%EB%8B%A4%E2%80%9D%C2%B7%C2%B7%C2%B7%E2%80%98%EB%B0%95%EC%A2%85%EC%B2%A0-%EA%B3%A0%EB%AC%B8%EC%B9%98%EC%82%AC-%EC%A1%B0%EC%9E%91-%EC%82%AC%EA%B1%B4%E2%80%99%EC%9D%98-%EC%A7%84%EC%8B%A4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #41에선, 중국의 변화를 만들고 있는 90년대생, 스포츠를 넘보는 OTT들의 행보, 유아인말고 무아인이 뜨는 이유, 그리고 화물연대의 파업에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51801</link>
+            <guid>https://www.bookjournalism.com/audio/51801</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[애플은 축구를 하고 가상인간은 데뷔를 하지!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세기말 종말론의 득세···타락한 세상에서 ‘휴거’를 외치다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bzup/ahopsi/contents/220524190302681vk</link>
-            <guid>https://contents.premium.naver.com/bzup/ahopsi/contents/220524190302681vk</guid>
-            <pubDate>Sat, 18 Jun 2022 15:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[마을에서 사라진 사람들 1992년 늦봄 어느 날, 경상북도 봉화군의 한 시골 마을에서 4가구 10여 명의 주민들이 온데간데없이 한꺼번에 사라졌다. 몇 달 전에는 이들 중 몇몇이 오랫동안 농사짓던 논과 밭을 팔겠다고 나서 동리에 이상한 소문이 돌던 참이었다. 이들은 어느 날부턴가 자식을 학교에 보내지 않기도 했고, 밭일도 하는 둥 마는 둥 하며 아침저녁으로 골방에 모여 기도]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjVfMjYz/MDAxNjUzNDU5MTQ0NDA5.RwEhtDOHUJ6Tm7oQuZR-7fZhBRNBjx2DTcZwa4tCpogg.UCdE0en1_wAGGr62bauWeePkx2m2r2n11r92NxPIXd4g.JPEG/%EC%84%B8%EA%B8%B0%EB%A7%90-%EC%A2%85%EB%A7%90%EB%A1%A0%EC%9D%98-%EB%93%9D%EC%84%B8%C2%B7%C2%B7%C2%B7%ED%83%80%EB%9D%BD%ED%95%9C-%EC%84%B8%EC%83%81%EC%97%90%EC%84%9C-%E2%80%98%ED%9C%B4%EA%B1%B0%E2%80%99%EB%A5%BC-%EC%99%B8%EC%B9%98%EB%8B%A4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[중국에서 제로 코로나 정책에 반발하는 학생 시위가 연일 열린다. 시진핑 연임을 앞두고, 90년대생이 새로운 변수가 될까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51660</link>
+            <guid>https://www.bookjournalism.com/books/51660</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대는 참지 않지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🆓주인 세 번 바뀌는 KFC, 맛 없어졌다면 이유는 '이것' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/numbers/members/contents/220611173901069hd</link>
-            <guid>https://contents.premium.naver.com/numbers/members/contents/220611173901069hd</guid>
-            <pubDate>Sat, 18 Jun 2022 15:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[(영상디자인=박진화) 비디오넘버스의 이번 주제는 ‘KFC’입니다. 치킨과 햄버거를 동시에 파는 38년 전통의 프랜차이즈고, 국내 햄버거 패스트푸드 업체 가운데 유일하게 치킨을 전면에 내세운 업체이기도 하죠. KFC는 유달리 퇴근하고 밤 9시만 되면 배달 앱에서 손이 가는데, 아마도 그 시간마다 치킨을 ‘1+1’으로 주는 치킨나이트 행사 때문인 듯해요. 최근 보도를 보니 KFC를]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTFfMTQ2/MDAxNjU0OTM2MTAxMTc2.jPGGaLwLv_0fMA8Md7kApEdcGToT9QaYEOz65mXxqb0g.CaZW4Eoc5RMQqdupPRUvp-NO6tsEquQkJx-hX_7_pNgg.JPEG/%EB%8C%80%EC%A7%80_3_%EC%82%AC%EB%B3%B8-100.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[애플TV+가 미국 프로축구리그 경기를 독점 중계한다. 스포츠 콘텐츠는 OTT 레드 오션의 틈새 시장이 될 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51719</link>
+            <guid>https://www.bookjournalism.com/books/51719</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[OTT로 넘어간 축구공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[야만의 시대, 여대생을 유린하다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bzup/ahopsi/contents/220531161727516ta</link>
-            <guid>https://contents.premium.naver.com/bzup/ahopsi/contents/220531161727516ta</guid>
-            <pubDate>Sat, 18 Jun 2022 15:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[인천의 열악한 노동 여건과 위장 취업 1980년대 전국의 산업현장이 대개 비슷했지만, 인천의 공장들에는 대학생 위장 취업자들이 특히 많았다. 인천은 큰 항구가 있어 한국의 수출주도형 산업정책 하에서 원료 조달과 화물 출항에 유리했고, 지방에서 수도권으로 몰려든 하층계급 노동자들이 일찌감치 정착한 도시였기 때문에 노동집약적 산업이 급속도로 발달한 거점이기도 했]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MzFfNjgg/MDAxNjUzOTg3MDE5MjM4.0foBRlQCjeJ9mD6Dez8nsIbNhVxyBcBygQR_OJK-z1cg.C-pnk51xxBGbG5GuyCRhWXenc_wOLAND0QOouQlYHxsg.JPEG/%EC%95%BC%EB%A7%8C%EC%9D%98-%EC%8B%9C%EB%8C%80,-%EC%97%AC%EB%8C%80%EC%83%9D%EC%9D%84-%EC%9C%A0%EB%A6%B0%ED%95%98%EB%8B%A4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[해를 거듭할수록 홍수는 더 자주, 더 무참하게 도시를 습격한다. 중국 정부가 새로운 대응 방안을 내놓았다. 과연 성공할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51699</link>
+            <guid>https://www.bookjournalism.com/books/51699</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[치수(治水)가 만사(萬事)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“종양이 사라졌다”…단일클론 항체요법, 암퇴치 가능성 열었다 [팩트매터] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220612105834202lp</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220612105834202lp</guid>
-            <pubDate>Sat, 18 Jun 2022 15:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하십니까!! 보시는 사진은 암세포입니다. 수천 년 동안 사람들을 괴롭힌 골칫거리였죠. 그런데 여기 보시는 새로운 연구에 의하면, 연구진들은 세계 최초로 치료법을 발견했는데 실험에 참가한 모든 참가자들에게서 암이 완전히 제거됐다고 합니다. 즉, 해당 연구에 참가한 모든 환자들이 회복 중이라는 겁니다. 항암치료, 방사선치료, 수술 없이도 말입니다. 비교적 작은 규]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTJfMTIz/MDAxNjU0OTk4OTg0NTkw.NEmp3fUUFQb-O78n6MFDRkesCWAIX-ofirCso-58TLYg.EUbGYj5GE4e7qvN-ZSUhG4xfwXhwLpof0HDN7GhZXyUg.JPEG/maxresdefault.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[가상인간이 쏟아져 나온다. 전략과 시도도 다양해지고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51685</link>
+            <guid>https://www.bookjournalism.com/books/51685</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[가상인간은 메시지다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엔데믹과 함께 늘어나는 결혼식 등 경조사, 축의금과 부의금은 어느 수준으로? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/khmh104/catonstove/contents/220612172805564cq</link>
-            <guid>https://contents.premium.naver.com/khmh104/catonstove/contents/220612172805564cq</guid>
-            <pubDate>Sat, 18 Jun 2022 15:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[여전히 코로나19 확진자들이 계속 발생하고 있고 아직 언론매체에서 이야기하듯이 엔데믹(Endemic) 이 되었다고 함부로 언급할 시기는 아니지만 이제 주말이나 공휴일에 밖에 나가보면 작년과는 비교할 수 없을 정도로 많은 분들이 한강공원, 서울숲 등지로 나들이를 나와 즐거운 시간을 보내는 것을 보게 됩니다. 참고로 저는 엔데믹이라고 해서 끝났다는 의미의 end와 코로나를]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTJfMTk5/MDAxNjU1MDIxMTEyNDg5.g3CbMR8V58HwVSN4ajjYnWQR_yGpyaEO9Q_sJ6UeHiUg.ccOt_as5sBXXzkuGygMgS7hB94HrCWMcfqbIxVbnyt0g.JPEG/SE-d39101b6-b692-4bcb-aad6-2ecd9181fc77.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[화물연대와 정부의 협상이 결렬됐다. 이 시위, 어떻게 바라봐야 할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51656</link>
+            <guid>https://www.bookjournalism.com/books/51656</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[분노의 섀도복싱]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미지근한 우유는 썩기 마련 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220612185028429id</link>
-            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220612185028429id</guid>
-            <pubDate>Sat, 18 Jun 2022 15:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[카피라이터로 보나 인간적으로 보나 꼭 닮고 싶은 선배가 있었다. 나는 대리로, 선배는 차장으로 진급한 해, 선배는 근심 가득한 얼굴로 대리인 내가 마냥 부럽다고 했다. 할 수만 있다면 만년 대리이고 싶다고. 차장이란 직급이 이렇게나 잘 어울리는 사람이 또 있을까 생각 중이던 나는 고개를 갸우뚱했다. 그러자 조금 더 진지해진 목소리로 말을 이었다. 조금은 과감한 시도를]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTJfMTM5/MDAxNjU1MDI1NzM2MDk2.OJMHncxSlezI678_XVHLqaa9TRyP1MwlwOoozoj6dcEg.e1oJvVfMHbxeVB_p1qiiRpGz7LOYqjAcw6KhO24lfk8g.JPEG/photo-1549633030-89d0743bad01.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[6월 셋째 주 - 변화에는 늘 끝맺음이 필요합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51643</link>
+            <guid>https://www.bookjournalism.com/books/51643</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[마침표]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모든 순간은, 단 한 번뿐 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220612234646873wy</link>
-            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220612234646873wy</guid>
-            <pubDate>Sun, 19 Jun 2022 13:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[생이 단 한 번뿐이라는 사실만큼이나 자주 간과하는 사실은, 지금 흘러가는 모든 순간들 또한 단 한 번뿐이라는 것. 과거의 일을 후회하는 동안에도, 미래의 일을 두려워하는 동안에도 시간은 성큼성큼 앞서간다는 것. 다만, 어떤 마음으로 이 순간을 보낼지는 각자의 선택에 달렸다. 출처: 유튜브 채널 caleb chung https://linktr.ee/sonshoo 손수현  l  한여름과 생맥주를 사랑하는 작가.]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTJfMzgg/MDAxNjU1MDQ0NDk0Mzk1.VpnG_FHTBeB6YEWScv8pkP5K4HNbbm9A2v4LPqqly10g.bLJ_c9W-Y-uQbY0xEBiJjd2ihK6h9CPbNmoPytqW-vYg.JPEG/photo-1610534440162-e0e68fbdeca3.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #40에선, 보복경험 시대를 맞아 변신하고 있는 대형마트, 7차 핵실험을 눈앞에 두고 별의 순간을 맞은 북한, 연달아 터지고 있는 스타트업 보안 문제, 스트리밍 세대를 위한 세로운 한국 문학에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51600</link>
+            <guid>https://www.bookjournalism.com/audio/51600</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[달라졌다, 북한도 마트도 소설도]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블러썸크리에이티브와 CJ E&M이 IP 제휴 계획을 밝혔다. 콘텐츠 업계와 문학계의 콜라보는 성공할 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51509</link>
+            <guid>https://www.bookjournalism.com/books/51509</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[스트리밍 세대를 위한 소설]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모두가 MBTI를 말하지만 아무도 MBTI를 모른다. 어쩌다 MBTI는 우리 시대의 언어가 되었나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51138</link>
+            <guid>https://www.bookjournalism.com/books/51138</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[당신이 몰랐던 MBTI]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밀리의 서재에서 해킹으로 인해 개인 정보가 유출됐다. 스타트업에게 사이버 보안은 사치인가 필수인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51448</link>
+            <guid>https://www.bookjournalism.com/books/51448</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[보안이라는 사치]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022.05.18 (수) 장전 관심 뉴스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/finup/moneysurfer/contents/220518081737343yg</link>
+            <guid>https://contents.premium.naver.com/finup/moneysurfer/contents/220518081737343yg</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[시황 뉴욕증시, 3대 지수 상승 마감…나스닥 2.76%↑ ■ URL : https://biz.chosun.com/stock/overseas_stock/2022/05/18/W2CE2HUBU5E2PGADIPXIWOT4C4 파월 “필요하다면 금리 중립수준 이상으로 올리겠다” ■ URL : https://www.news1.kr/articles/?4683631 82일 만에 '저항의 상징' 무너졌다…우크라軍, 마리우폴서 손 뗀다 ■ URL : https://news.mt.co.kr/mtview.php?no=2022051713105832764 뉴스 &amp; 테마 [뉴욕유가] EU, 러시아산 에너지 제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[변호사가 본 트레바리 성추행 사건, 누구 책임일까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/lawmission/startupforest/contents/220509124145483Op</link>
+            <guid>https://contents.premium.naver.com/lawmission/startupforest/contents/220509124145483Op</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[🖋 이 글은 법무법인 미션의 변호사들과 스타트업 포레스트가 만드는 뉴스레터 '로스규이'의 5월 9일 월요일 발행분입니다.  🖋 스타트업 전문 로펌의 변호사로서, 더욱 많은 스타트업 관계자들에게 도움을 드리기 위해 매주 월요일에 레터를 무료로 보내드립니다. #로스규이 신청하기 링크 🖋 변호사의 관점으로 한 주간 스타트업 씬에서 일어난 일 혹은 스타트업 종사자들이 알면]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDlfNjUg/MDAxNjUyMDY2OTc0NTk0.ErALvOrTKBNkIIMpHsoWJlTcD-stOvAy3lxSJQh7rlQg.KJxssEYfNa5hcaO8kJnVNCsQ7Ho2YmEbjREilsOOr94g.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-25_%EC%98%A4%ED%9B%84_9.41.29.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[내 성향에 맞는 미인주를 찾아보자 1편 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/finup/moneysurfer/contents/220518104949953hQ</link>
+            <guid>https://contents.premium.naver.com/finup/moneysurfer/contents/220518104949953hQ</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 주제는 성향에 따른 ‘내 스타일에 맞는 미인주를 찾아보자’ 입니다. 해당 주제를 요약해 보면 나는 시간을 아끼고 싶어! 라고 한다면 단기 투자에 적합한 ‘누구나 아는’ 미인주 찾기로 나는 시간을 사고 싶어! 라고 한다면 중장기 투자에 적합한 ‘매력이 알려지지 않은’ 미인주 찾기로 연결된다! 라고 요약할 수 있습니다. 그럼 미인주란 무엇일까요? 미인주 이론은]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMTk4/MDAxNjUyODU5NTIwMjYx.tg9tAbcRbP5WydU7HSgbclZIPFD8Gc6mPLLJCbKz7k0g.x42-Tgtrdgvt9i-kXMTWfHSEEsaShcuuTcUjOmb70pgg.PNG/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🏄🏻‍♂️ 5월 3주 차 머니플로우🏄🏻‍♀️ (1) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/finup/moneysurfer/contents/220517164314354Xf</link>
+            <guid>https://contents.premium.naver.com/finup/moneysurfer/contents/220517164314354Xf</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[테마 현황 [테마록 / 장마감 기준] 테마 키워드 상한가 마감 종목 15% 상승 마감 종목 특징 뉴스 종목 미 선물이 오름에 따라 금일 우리지수도 상승 마감하였습니다. 그동안 국내 지수 하락폭이 큼에 따라  현재까지 상승은 딱 기술적(차트상) 반등 위치입니다. 비록 오늘 국내시장이 올랐다고는 하나 통상적인 기술적 반등 구간 위치까지  상승함에 따라 자립적으로 계속 오르는 것]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTdfOTQg/MDAxNjUyNzcwODE3ODkw.M17gEMCgzZ0f-06iV6eTZpxAb7B3t71P5lNaGXCqTK4g.JMkgXH5f-CqT-v_iVeshtZ_MdEGBH_D3_pXD8IgShMog.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[05월 18일 (수) 아니내말은 멘토 모닝 라이브 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/finup/moneysurfer/contents/220518132055207uK</link>
+            <guid>https://contents.premium.naver.com/finup/moneysurfer/contents/220518132055207uK</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[매일 오전 07시 아니내말은 멘토가 진행하는 시황 데일리 브리핑  * 본 자료는 투자자의 증권투자를 돕기 위한 참고 자료이며, 따라서, 본 자료에 의한 투자자의 투자 결과에 대해 어떠한 목적의 증빙자료로도 사용될 수 없습니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022.05.17(화) 장전 관심 뉴스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/finup/moneysurfer/contents/220517085719173qt</link>
+            <guid>https://contents.premium.naver.com/finup/moneysurfer/contents/220517085719173qt</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[뉴욕증시, 기술주 매도에 나스닥 1.2%↓…비트코인 또 급락 ■ URL : https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202205170004 버냉키의 이례적 비판 "파월 정책 실수…스태그 올 것" ■ URL : https://www.edaily.co.kr/news/read?new sId=01249686632329904 우크라, 하르키우서 러 국경까지 도달…푸틴 “위협에는 대응” ■ URL : https://news.kbs.co.kr/news/view.do?ncd=5464243 ■ 관련주 [전쟁 장기화]                천연]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[내 성향에 맞는 미인주를 찾아보자 2편 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/finup/moneysurfer/contents/220518134201304RX</link>
+            <guid>https://contents.premium.naver.com/finup/moneysurfer/contents/220518134201304RX</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[중장기투자에서 미인주를 찾는 방법에 대해서 말씀드리겠습니다. 중장기투자는 앞서 시간을 사는 투자법이라고 말씀드렸습니다. 시간을 산다는 의미는 '어느정도 시간이 소모가 되더라도 그것을 감내하고 기다리며 큰 수익을 기대하는 것' 이라고 풀이할 수 있습니다. 그렇다고 아무 주식이 산 다음 시간을 산다고 생각하면 안되겠죠? 시간이라는 기회비용을 지불하면서 기다]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMjU4/MDAxNjUyODM5MTA1Njkz.EVzDDsxhRVfP91qqjn7lJVMrSplr8hFeWZBJrz2putsg.IW9luN2SKbCFGNr8d_UWoRZ2kZXwzuNtImBpQOrXAWAg.PNG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(1).png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[대기업이라고 100% 투자 성공을 보장할까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/finup/moneysurfer/contents/220518100443279lL</link>
+            <guid>https://contents.premium.naver.com/finup/moneysurfer/contents/220518100443279lL</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[처음 주식 투자를 시작하는 초보 투자자 입장에서 가장 쉽게 할 수 있는 실수는 무엇일까요? 가장 많은 실수 중 하나는 평소에 들어본 대기업 브랜드의 간판만을 보고 투자 하는 것이라  할 수 있습니다. 그러나, 대기업의 주식이라고 해도 100% 투자성공을 보장하지 않습니다. 이름만 대면 아는 대기업이라고 해서 모두 주식이 우상향 하지는 않았기 때문입니다. 삼성생명 -52.6% 하]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfNzIg/MDAxNjUyODM2MTk3MTUx.ZkOjgwkZb6JFENhSezshAk54TuUZdUsRvCE-nnlK2psg.egv7y3itmWeMBxQO1UiydPzTgfZdGY0EQ-Gv2G7FPlAg.PNG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[매매 기술이 효율적으로 먹히는 시간이 있다?? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/finup/moneysurfer/contents/220518150344501Gr</link>
+            <guid>https://contents.premium.naver.com/finup/moneysurfer/contents/220518150344501Gr</guid>
+            <pubDate>Sun, 19 Jun 2022 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[단기 투자자라면 놓쳐서는 안될 장시작 60분 수많은 단기투자, 스윙투자 고수들이 대부분 공통적으로 가지고 있는 습관중 하나는 장 시작 후 1시간 동안은 다른 어떤 시간보다 집중하여 시장을 관찰하고 매매에 임한다는 것 입니다. 심지어 어떤 분들은 장시작 1시간을 제외하면 주식시장을 보지 않으시는 분들도 있습니다. 왜그럴까요? 왜 많은 투자자들이 9시부터 3시30분까지]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMTUy/MDAxNjUyODU5NTYxMzc1.gk0wdnEY7Zb0SHH84Makju67CobK3oGWBCxeSWJbrWEg.vnlC_BQrrPjQKk9xVr_H2Kt6rdZB66Zdixi8XkvypNQg.PNG/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

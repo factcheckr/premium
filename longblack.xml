@@ -4,20 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 14:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 15:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 18 Jun 2022 15:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[B가 감명받은 지난주 롱블랙의 문장
-
-"디자인은 사람들이 자신의 감각을 발견하도록 돕는 것입니다. 사람들은 종종 본인이 어떠한 이유에서, 특정한 행위를 하는지 모릅니다. ‘당신은 이런 감각을 느끼고 있는 게 아닙니까?’ 물어봐 주는 게 바로 디자인입니다."
-
-&lt;<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220616/165537992077e7fb6c62fcdb4fe7c6016712fc732f.png" length="0" type="image/png"/>
+            <title><![CDATA[대학내일 : 캐릿과 20대연구소, MZ에 대한 이해로 성장 동력을 찾다]]></title>
+            <link>https://www.longblack.co/note/324</link>
+            <guid>https://www.longblack.co/note/324</guid>
+            <pubDate>Sun, 19 Jun 2022 15:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;C가 재밌는 뉴스레터 하나 추천하더라. 캐릿Careet. 들어가 보니 내가 몰랐던 MZ 트렌드가 너무 많은 거 있지! 요즘 Z세대는 OTT 플랫폼에서 세일러문, <span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220615/1655267702c409482eab142fdc727fb9f1cfb1a99a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
