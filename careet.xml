@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 23:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 02:06:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 14 Jun 2022 05:34:27 GMT</pubDate>
             <content:encoded><![CDATA[캠퍼스 프로모션을 준비하는 마케터라면 놓치지 말아야 할 포인트를 모았습니다]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/d484898d-2097-4e74-a36a-3d1c994207d9_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[콜라보·ESG 마케팅, 뻔하지 않게 기획하는 법]]></title>
+            <link>https://www.careet.net/792</link>
+            <guid>https://www.careet.net/792</guid>
+            <pubDate>Mon, 20 Jun 2022 02:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 조회수 180만! Z세대가 “스묘든다”며 칭찬한 마케팅 사례는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/f2fc609c-58f2-48be-8cec-fa494f3dd918_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[10만 명 방문한 서울국제도서전에서 가장 인기 있었던 부스는 어디?]]></title>
