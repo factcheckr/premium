@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-21T07:27:43.932Z</updated>
+    <updated>2022-06-21T08:39:06.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[목적 지향적 팀 세팅을 위한 PM의 현실적인 노하우]]></title>
+        <id>https://publy.co/content/6820?fr=category</id>
+        <link href="https://publy.co/content/6820?fr=category"/>
+        <updated>2022-06-21T08:37:51.695Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사소하지만 합격률을 비약적으로 높여줄 이직 면접 팁]]></title>
         <id>https://publy.co/content/6841?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6811?fr=category"/>
         <updated>2022-06-18T22:21:28.767Z</updated>
         <content type="html"><![CDATA[아티클 · 16분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사용자가 원하는 걸 빨리 찾게 하려면? 검색 UX 총정리]]></title>
-        <id>https://publy.co/content/6842?fr=category</id>
-        <link href="https://publy.co/content/6842?fr=category"/>
-        <updated>2022-06-18T22:21:28.769Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
