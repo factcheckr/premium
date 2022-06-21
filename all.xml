@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 23:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 02:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6842?fr=category</guid>
             <pubDate>Sat, 18 Jun 2022 22:21:28 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사진이 곧 정체성, ‘포토프레스(PhotoPress) 세대’를 아시나요? (캐릿)]]></title>
+            <link>https://www.careet.net/794</link>
+            <guid>https://www.careet.net/794</guid>
+            <pubDate>Tue, 21 Jun 2022 02:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[지금 당장 주목해야 하는 Z세대의 사진 트렌드 총정리]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/bfe4bc0b-7af5-4466-851d-e17197351b93_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[콜라보·ESG 마케팅, 뻔하지 않게 기획하는 법 (캐릿)]]></title>
