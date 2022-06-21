@@ -4,9 +4,17 @@
         <title>네이버 프리미엄콘텐츠 ─ 무료 프로모션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 16:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 17:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!]]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Tue, 21 Jun 2022 17:36:59 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ISA계좌에 대해 알아보기]]></title>
             <link>https://contents.premium.naver.com/padakkr/padak/contents/220610153451041yo</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 21 Jun 2022 15:27:12 GMT</pubDate>
             <content:encoded><![CDATA[요즘 MZ세대 사이에서는 플로깅(스웨덴어 플로카 업(plocka upp; 줍다)과 조가(jogga; 조깅하다)의 합성어)이 유행이다. 줍깅(줍다+조깅)이라고도 부르는 이 활동은 조깅을 하며 쓰레기를 줍는 환경 운동을 말한다. 산에서, 또는 바닷가에서 집게와 봉투를 들고 땀을 흘리는 사람들을 보면 다수의 선의가 가진 힘에 대해 다시금 생각하게 된다. 이처럼 적지 않은 사람들이 환경을 위한]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTVfMjkg/MDAxNjU1MjQ5ODg2ODQ1.rnCP-nSWRbQ8OfzepnGOqlzq7T2YM2D1gvgmsSuBC8Ag.eUB-nW9uDncBR0Eo55CMbYXEFV2hK34bcE9V7MeIEHUg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은행주 최대 시총 KB금융,  '어게인 2017' 노린다]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220601064014111ze</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220601064014111ze</guid>
-            <pubDate>Tue, 21 Jun 2022 15:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[KB금융지주는 이름처럼 '국민주' 대접을 받습니다. 국내 금융주 가운데 최대 시가총액을 보입니다. 최근 시가총액은 25조원에 육박합니다. 신한지주는 22조원, 하나금융이나 우리금융은 14조원~10조원 수준이지요. 금리 상승기엔 은행과 같은 금융업종이 주목을 받습니다. KB금융도 올해 금리 상승기에 맞춰 적극적인 해외 IR에 나서고 호재들을 어필하고 있습니다. KB금융은 최대 규]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDFfMTA0/MDAxNjU0MDMzMDA3OTg1.pueyZSJFHy06bUzsWxTI_dLfivlMOEUBdc-280Y-UoIg.hptmz_kbV0VNl9N-9n4YSiyQYCNm_7ZYkMFQ11WSOBsg.JPEG/KB%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89_%EC%8B%A0%EA%B4%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
