@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 15:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 16:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -858,14 +858,6 @@
             <content:encoded><![CDATA[마침표]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네가 꼬옥 행복하면 좋겠어 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/sunharoo/heewoo/contents/220418191807964mG</link>
-            <guid>https://contents.premium.naver.com/sunharoo/heewoo/contents/220418191807964mG</guid>
-            <pubDate>Wed, 22 Jun 2022 15:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[친구가 고양이와 함께 살기 시작했다. 고양이라니! 나만 고양이가 없는 게 슬프지만 이제부터 한 생명의 대모가 되기로 했다. 미끄럼 방지 패드의 색상을 머리를 맞대고 골랐다. 털이 회색과 하얀색이니까 밝은 게 좋겠어. 아니다, 조금 어두운 걸 좋아하려나? 사소한 고민들이 달콤했다.  드디어 고양님을 만나러 가는 날, 설렘을 가득 안고 지하철에 올랐다. 고양이와 친해지지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MThfODEg/MDAxNjUwMjc2NjU0MDc2.FwuFIfE_O8QA53iDWoztpOmZZxbW-F0jKl-Wjppz2MEg.W-2s7xRL4Nz21k2XlxclBSTPe8YP7xNWzyrEFm9SwR8g.JPEG/SE-ad145cbd-5bf0-4b44-a770-629b7464c226.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['제로 웨이스트 챌린지 플로깅'을 우리 말로 바꾸면? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/science2005/science/contents/220616075040426ko</link>
             <guid>https://contents.premium.naver.com/science2005/science/contents/220616075040426ko</guid>
@@ -874,12 +866,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMjcx/MDAxNjU1MzMzMTgyNzY4.EPvsrHLdwMaCx7Ddn491wqZbEuNi0-MnCCsYO7VwHrkg.xRQRpOgPlgP4MLmSzO8mIeGwEmayt6GGUySsl2wkHKog.JPEG/%EC%99%B8%EA%B5%AD%EC%96%B4%ED%98%84%EC%88%98%EB%A7%89_%EA%B4%91%EA%B5%90%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90_220615.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[요즘 초등학교에서 살아남기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/danhobak/danhoback/contents/220615195511689zp</link>
-            <guid>https://contents.premium.naver.com/danhobak/danhoback/contents/220615195511689zp</guid>
+            <title><![CDATA[네가 꼬옥 행복하면 좋겠어 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/sunharoo/heewoo/contents/220418191807964mG</link>
+            <guid>https://contents.premium.naver.com/sunharoo/heewoo/contents/220418191807964mG</guid>
             <pubDate>Wed, 22 Jun 2022 15:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[친구들이 아무도 저랑 놀아주지 않아요.   제 명찰 때문인 것 같아요.   선생님이 달아주신 제 명찰에는 ‘임대 아파트 임정훈’이라고 쓰여 있어요.   ⁕⁕⁕   안녕하세요, 반갑습니다. 저는 호박 초등학교에 다니고 있는 1학년 3반 임정훈이라고 합니다.   친구 관계에 문제가 있으면 117번에 연락하는 거라고 며칠 전에 배웠어요.   저는 친구가 한 명도 없어요. 도와주세요, 상담]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTVfNTcg/MDAxNjU1Mjg5NzU2NjEx.8BMrJsiPRroCxr0zWMh3cNOfu6UbGrBRnpQ7zqMFdqUg.wKP1Ynt53Kzx46CIoal0ItoPOq5ZEhAmqvwu7JfIyX8g.JPEG/students-g8a547c0f3_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[친구가 고양이와 함께 살기 시작했다. 고양이라니! 나만 고양이가 없는 게 슬프지만 이제부터 한 생명의 대모가 되기로 했다. 미끄럼 방지 패드의 색상을 머리를 맞대고 골랐다. 털이 회색과 하얀색이니까 밝은 게 좋겠어. 아니다, 조금 어두운 걸 좋아하려나? 사소한 고민들이 달콤했다.  드디어 고양님을 만나러 가는 날, 설렘을 가득 안고 지하철에 올랐다. 고양이와 친해지지]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MThfODEg/MDAxNjUwMjc2NjU0MDc2.FwuFIfE_O8QA53iDWoztpOmZZxbW-F0jKl-Wjppz2MEg.W-2s7xRL4Nz21k2XlxclBSTPe8YP7xNWzyrEFm9SwR8g.JPEG/SE-ad145cbd-5bf0-4b44-a770-629b7464c226.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[우량주] 못 가는 지역은 없다! 어디든 배송해드림! 배당금 파격 53%인상! - 페덱스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -890,12 +882,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTVfMTg2/MDAxNjU1MjczNTQwNTUz.wTnV-I_aOEjC90ANdJrgXdsydhb3DUC8DEG87Ba4eWsg.s2vavDS8sbexUo2wVbcF-ZJfNFSiG3TJHe1aUiDFRyAg.JPEG/bannon-morrissy-BfP3E4rpxl8-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국시장 테마(6월 16일 아침): 고성장/고밸류 기업들 초강세 vs. 전통에너지 기업은 부진 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220616072658220yq</link>
-            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220616072658220yq</guid>
+            <title><![CDATA[요즘 초등학교에서 살아남기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/danhobak/danhoback/contents/220615195511689zp</link>
+            <guid>https://contents.premium.naver.com/danhobak/danhoback/contents/220615195511689zp</guid>
             <pubDate>Wed, 22 Jun 2022 15:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[상승 테마 1) 고성장/고밸류에이션 테마 - 소프트웨어, 플랫폼, 이커머스, 신재생에너지, 바이오테크, 헬스테크 등 고성장/고밸류에이션 테마 전반 주가 상승 두드러져. FOMC 불확실성 해소, ECB의 긴축속도 일부 조절 등 우호적 매크로 환경 반영  2) 미디어스트리밍 - Netflix(NFLX) 7.5%, Roku(ROKU) 11.7% 상승하는 등 주요 미디어스트리밍 기업들 주가 강세 - Cowen이 Netflix가 준비 중인 광고]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMjcg/MDAxNjU1MzMxNzMzOTg4.OB0LkUF-Ph4IgOe9ZaC1oHBWfW3KqSC8quaEiM9yV3Ug.yYLv1l8MvltdXIdXrqdEx2Kg5rPj8p9-tQnWojLIC7Qg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[친구들이 아무도 저랑 놀아주지 않아요.   제 명찰 때문인 것 같아요.   선생님이 달아주신 제 명찰에는 ‘임대 아파트 임정훈’이라고 쓰여 있어요.   ⁕⁕⁕   안녕하세요, 반갑습니다. 저는 호박 초등학교에 다니고 있는 1학년 3반 임정훈이라고 합니다.   친구 관계에 문제가 있으면 117번에 연락하는 거라고 며칠 전에 배웠어요.   저는 친구가 한 명도 없어요. 도와주세요, 상담]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTVfNTcg/MDAxNjU1Mjg5NzU2NjEx.8BMrJsiPRroCxr0zWMh3cNOfu6UbGrBRnpQ7zqMFdqUg.wKP1Ynt53Kzx46CIoal0ItoPOq5ZEhAmqvwu7JfIyX8g.JPEG/students-g8a547c0f3_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 '럭셔리 전기차' 준비하는 GM (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -906,12 +898,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMTI5/MDAxNjU1MzM2MjU1MzMx.CS_CsdYRV8cdpbKXjJtr8l4Rju2Tw0sfPCE315ENofAg.5XP66y2ClLH3bqZUSQLgBmNkd610XAjyHVIoxV8feT0g.PNG/1._GM_(%EC%B6%9C%EC%B2%98_=_%EC%BA%90%EB%94%9C%EB%9D%BD_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80).png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[어떤 사람의 땀 냄새는 왜 지독한 걸까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/scienceboy/sboy/contents/220616150729618do</link>
-            <guid>https://contents.premium.naver.com/scienceboy/sboy/contents/220616150729618do</guid>
+            <title><![CDATA[미국시장 테마(6월 16일 아침): 고성장/고밸류 기업들 초강세 vs. 전통에너지 기업은 부진 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220616072658220yq</link>
+            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220616072658220yq</guid>
             <pubDate>Wed, 22 Jun 2022 15:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[가만히 있어도 땀이 흐르는 계절입니다. 이렇게 더운 날이면 유독 어떤 부위의 땀내가 심하거나, 특정 사람의 땀내가 지독한 경우가 있는데요. 기분 탓이 아니라, 과학적 근거가 있는 냄새입니다. 오늘은 땀 냄새를 과학적으로 맡아(?) 보겠습니다.   땀이라고 다 같은 땀이 아닙니다. 땀은 피부 표면에 있는 ‘땀샘’에서 나오는데요. 땀샘은 크게 ‘에크린 땀샘’과 ‘아포크린]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMjQz/MDAxNjU1MzU4OTgwOTA2.OQC6G_3omQotPLZHHw6EWGG320VWKbvtjYVAIZPyoNcg.w-P-XdyqczB7oK-O9PEF1ilpXJDe4fZPfdXJeQd58FAg.JPEG/GettyImages-150492508.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[상승 테마 1) 고성장/고밸류에이션 테마 - 소프트웨어, 플랫폼, 이커머스, 신재생에너지, 바이오테크, 헬스테크 등 고성장/고밸류에이션 테마 전반 주가 상승 두드러져. FOMC 불확실성 해소, ECB의 긴축속도 일부 조절 등 우호적 매크로 환경 반영  2) 미디어스트리밍 - Netflix(NFLX) 7.5%, Roku(ROKU) 11.7% 상승하는 등 주요 미디어스트리밍 기업들 주가 강세 - Cowen이 Netflix가 준비 중인 광고]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMjcg/MDAxNjU1MzMxNzMzOTg4.OB0LkUF-Ph4IgOe9ZaC1oHBWfW3KqSC8quaEiM9yV3Ug.yYLv1l8MvltdXIdXrqdEx2Kg5rPj8p9-tQnWojLIC7Qg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스포티파이, 빅테크 고용 긴축 행렬 합류 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -922,12 +914,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfNTMg/MDAxNjU1MzM3OTk0NTcy.STel02Cmpl6HXrM3SDrRyh6lagGXOeE9hgBatCDNkfkg.64M8I2eOBNX6opFYnGn7SvlVYOFrwEBzBV7BT-IcYbMg.JPEG/Photo_by_Alexander_Shatov_on_Unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[커넥트레터] 공룡도 철수하는 새벽배송을 위한 변명 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/220616164311320zq</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/220616164311320zq</guid>
+            <title><![CDATA[어떤 사람의 땀 냄새는 왜 지독한 걸까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/scienceboy/sboy/contents/220616150729618do</link>
+            <guid>https://contents.premium.naver.com/scienceboy/sboy/contents/220616150729618do</guid>
             <pubDate>Wed, 22 Jun 2022 15:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[[커넥트레터 무료 구독하기] [카카오톡으로 매일 유통물류 소식 받기(무료)] 미래 공간의 변화라고요? 몇 주 전 어느 날이었습니다. 의도치 않게 식단 공유 공간이 돼버린 제 인스타그램에 낯선 이의 DM 한 통이 도착했죠. L사 교육팀 직원인데 ‘미래 공간의 변화’를 주제로 임원 대상 교육 프로그램을 준비하고 있다고요. 프로그램을 준비하는 중에 제 책을 읽었는데, 혹시 공간]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMjcy/MDAxNjU1MzY0OTQ0NDU5.ys3re_EVR4uM57GDbo-zgGiRlPEdfLquYr0ZlGWakqog.8V7pBUWcwWEPOE-QM_mzavmOtgzKBy3_2_OtCM8kUmAg.JPEG/%EB%84%A4%EC%98%A4_%EB%AC%BC%EB%A5%98%EC%84%BC%ED%84%B0_%EC%82%AC%EC%A7%84.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[가만히 있어도 땀이 흐르는 계절입니다. 이렇게 더운 날이면 유독 어떤 부위의 땀내가 심하거나, 특정 사람의 땀내가 지독한 경우가 있는데요. 기분 탓이 아니라, 과학적 근거가 있는 냄새입니다. 오늘은 땀 냄새를 과학적으로 맡아(?) 보겠습니다.   땀이라고 다 같은 땀이 아닙니다. 땀은 피부 표면에 있는 ‘땀샘’에서 나오는데요. 땀샘은 크게 ‘에크린 땀샘’과 ‘아포크린]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMjQz/MDAxNjU1MzU4OTgwOTA2.OQC6G_3omQotPLZHHw6EWGG320VWKbvtjYVAIZPyoNcg.w-P-XdyqczB7oK-O9PEF1ilpXJDe4fZPfdXJeQd58FAg.JPEG/GettyImages-150492508.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지난 주(6월 2번째주) 부동산 주요 이슈 몰아보기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/makersjournal/makerspremium/contents/220616112430801uu</link>
+            <guid>https://contents.premium.naver.com/makersjournal/makerspremium/contents/220616112430801uu</guid>
+            <pubDate>Wed, 22 Jun 2022 16:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[이번 ‘지난주 부동산 주요 이슈 몰아보기’는 국토교통부, LH, 서울시, SH 등의 부동산 관련 관공서들의 6월 2번째주 소식 중 중요한 뉴스 6개를 선별해 한번에 정리해 드립니다.   1. 서울시 모아주택, 입체적인 높이계획 가능토록 층수 완화 - ‘모아주택‧모아타운 심의기준’ 개정‧시행…신속한 사업 추진과 품질‧공공성 담보 - 2종7층지역 내 모아주택 기준 충족시 공공기여]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMTMw/MDAxNjU1MzQ1NjgzMDM3.VYSe9fO6xgQMaTj4EjGjXO0R3zRHk8uQaOshzjr9W6gg.WH_Ym20zMo2WGiosYDr3y46rII7ls7oe5F_mzL3z_scg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
