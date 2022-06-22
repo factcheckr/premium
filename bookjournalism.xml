@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-06-22T07:23:03.288Z</updated>
+    <updated>2022-06-22T08:34:32.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[독일은 러시아의 석유와 가스에 지나치게 의존해 왔다. 러시아의 우크라이나 침공으로 이 끔찍한 실수의 정체가 드러났다. 어디서부터 잘못된 것일까?]]></title>
+        <id>https://www.bookjournalism.com/books/51907</id>
+        <link href="https://www.bookjournalism.com/books/51907"/>
+        <updated>2022-06-22T08:34:22.364Z</updated>
+        <content type="html"><![CDATA[잘못된 선택]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[텔레그램이 유료 서비스를 출시한다. 메신저 앱은 광고와의 경쟁에서 승리할 수 있을까.]]></title>
         <id>https://www.bookjournalism.com/books/51912</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/51600"/>
         <updated>2022-06-22T05:27:16.022Z</updated>
         <content type="html"><![CDATA[달라졌다, 북한도 마트도 소설도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블러썸크리에이티브와 CJ E&M이 IP 제휴 계획을 밝혔다. 콘텐츠 업계와 문학계의 콜라보는 성공할 수 있을까.]]></title>
-        <id>https://www.bookjournalism.com/books/51509</id>
-        <link href="https://www.bookjournalism.com/books/51509"/>
-        <updated>2022-06-22T05:27:16.023Z</updated>
-        <content type="html"><![CDATA[스트리밍 세대를 위한 소설]]></content>
     </entry>
 </feed>

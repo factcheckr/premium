@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 07:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 08:34:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상품을 잘 찾게 만드는 필터 UX, 정리해드림 (퍼블리)]]></title>
+            <link>https://publy.co/content/6858?fr=category</link>
+            <guid>https://publy.co/content/6858?fr=category</guid>
+            <pubDate>Wed, 22 Jun 2022 08:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[자사몰 마케팅 랜딩페이지 노하우 (퍼블리)]]></title>
+            <link>https://publy.co/content/6848?fr=category</link>
+            <guid>https://publy.co/content/6848?fr=category</guid>
+            <pubDate>Wed, 22 Jun 2022 08:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[목적 지향적 팀 세팅을 위한 PM의 현실적인 노하우 (퍼블리)]]></title>
             <link>https://publy.co/content/6820?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6836?fr=category</guid>
             <pubDate>Sat, 18 Jun 2022 22:21:28 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대신 읽어드림 : 책<결정, 흔들리지 않고 마음먹은 대로> (퍼블리)]]></title>
-            <link>https://publy.co/content/6843?fr=category</link>
-            <guid>https://publy.co/content/6843?fr=category</guid>
-            <pubDate>Sat, 18 Jun 2022 22:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PM/PO 이직 면접 질문과 바로 써먹는 답변 노하우(노션 템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/6811?fr=category</link>
-            <guid>https://publy.co/content/6811?fr=category</guid>
-            <pubDate>Sat, 18 Jun 2022 22:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 16분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사진이 곧 정체성, ‘포토프레스(PhotoPress) 세대’를 아시나요? (캐릿)]]></title>
@@ -774,6 +774,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[독일은 러시아의 석유와 가스에 지나치게 의존해 왔다. 러시아의 우크라이나 침공으로 이 끔찍한 실수의 정체가 드러났다. 어디서부터 잘못된 것일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51907</link>
+            <guid>https://www.bookjournalism.com/books/51907</guid>
+            <pubDate>Wed, 22 Jun 2022 08:34:22 GMT</pubDate>
+            <content:encoded><![CDATA[잘못된 선택]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[텔레그램이 유료 서비스를 출시한다. 메신저 앱은 광고와의 경쟁에서 승리할 수 있을까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/51912</link>
             <guid>https://www.bookjournalism.com/books/51912</guid>
@@ -849,13 +856,6 @@
             <guid>https://www.bookjournalism.com/audio/51600</guid>
             <pubDate>Wed, 22 Jun 2022 05:27:16 GMT</pubDate>
             <content:encoded><![CDATA[달라졌다, 북한도 마트도 소설도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블러썸크리에이티브와 CJ E&M이 IP 제휴 계획을 밝혔다. 콘텐츠 업계와 문학계의 콜라보는 성공할 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51509</link>
-            <guid>https://www.bookjournalism.com/books/51509</guid>
-            <pubDate>Wed, 22 Jun 2022 05:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[스트리밍 세대를 위한 소설]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ISA계좌에 대해 알아보기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
