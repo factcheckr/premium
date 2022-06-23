@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-23T07:23:34.041Z</updated>
+    <updated>2022-06-23T08:33:06.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[개발자가 생각하는 일 잘하는 PM의 특징]]></title>
+        <id>https://publy.co/content/6825?fr=category</id>
+        <link href="https://publy.co/content/6825?fr=category"/>
+        <updated>2022-06-23T08:31:53.986Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상품을 잘 찾게 만드는 필터 UX, 정리해드림]]></title>
         <id>https://publy.co/content/6858?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6853?fr=category"/>
         <updated>2022-06-18T22:21:28.761Z</updated>
         <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초기 브랜드를 위한 마케팅 성장론: 스몰 브랜드의 성장법]]></title>
-        <id>https://publy.co/content/6836?fr=category</id>
-        <link href="https://publy.co/content/6836?fr=category"/>
-        <updated>2022-06-18T22:21:28.766Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
     </entry>
 </feed>
