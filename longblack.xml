@@ -4,16 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 14:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 15:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[세서미 스트리트 : 세대가 3번 바뀌어도 콘텐츠는 계속 된다]]></title>
-            <link>https://www.longblack.co/note/328</link>
-            <guid>https://www.longblack.co/note/328</guid>
-            <pubDate>Wed, 22 Jun 2022 15:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;회사에서 요즘 어떤 콘텐츠가 제일 잘 나가는지 알아보래요! 신나서 찾아봤죠. 6월 둘째 주, 미국에서 제일 잘나가는 콘텐츠* 1위는, 기묘한 이야기였어요. 2위는<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220616/1655347630aa3e558add666530c66222a276af67cd.png" length="0" type="image/png"/>
+            <title><![CDATA[윤현상재 : 논현동의 타일 가게는 왜 라이프스타일 리더로 불리나]]></title>
+            <link>https://www.longblack.co/note/325</link>
+            <guid>https://www.longblack.co/note/325</guid>
+            <pubDate>Thu, 23 Jun 2022 15:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;지하철 학동역 인근의 인테리어 골목. 도기·조명·페인트를 파는 자재 가게가 즐비합니다. 대로에서 두 블록 들어가 골목을 꺾어들면 타일 유통회사 윤현상재荺呟商材의 <span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220615/165526740451a0b7e16b3d7c75c183b5e6ac356486.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
