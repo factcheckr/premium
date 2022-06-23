@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 23:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 02:07:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 기업 인턴십 선택 시 기업 인지도보다 중요한 건 ㅈㅁ ㅈㅎㅅ?!]]></title>
+            <link>https://www.careet.net/803</link>
+            <guid>https://www.careet.net/803</guid>
+            <pubDate>Thu, 23 Jun 2022 02:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[선호하는 인턴십 적정 근무 기간? N개월!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/c18f2664-b37c-4c3f-9628-109a108ae0cc_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대 10명 중 7명, ‘예약 서비스’ 제공하는 장소 선호한다. 왤까?]]></title>
+            <link>https://www.careet.net/798</link>
+            <guid>https://www.careet.net/798</guid>
+            <pubDate>Thu, 23 Jun 2022 02:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[‘원격 줄서기’부터 노쇼 예약금까지! MZ세대 예약 문화 A to Z]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/39cd3395-0e8d-42bc-aa47-2a79ea8d6b43_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사진이 곧 정체성, ‘포토프레스(PhotoPress) 세대’를 아시나요?]]></title>
             <link>https://www.careet.net/794</link>
