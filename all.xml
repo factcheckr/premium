@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 11:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 12:49:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -814,6 +814,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #42에선, 정부가 내놓은 부동산 대책의 진심, 바디 프로필 뒤에 숨겨진 불법 약물의 실태, 스마트워치가 주도할 제2의 스마트혁명, 그리고 보건복지부의 배달 앱 ‘덜 짜게’ 계획에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51801</link>
+            <guid>https://www.bookjournalism.com/audio/51801</guid>
+            <pubDate>Fri, 24 Jun 2022 12:49:40 GMT</pubDate>
+            <content:encoded><![CDATA[자영업자의 눈물은 짜고 스마트워치는 미래의 알람을 울린다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[새 정부의 첫 번째 부동산 대책이 나왔다. 집값을 잡겠다는 얘기가 아니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/51977</link>
             <guid>https://www.bookjournalism.com/books/51977</guid>
@@ -889,13 +896,6 @@
             <guid>https://www.bookjournalism.com/books/51685</guid>
             <pubDate>Fri, 24 Jun 2022 11:20:55 GMT</pubDate>
             <content:encoded><![CDATA[가상인간은 메시지다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[화물연대와 정부의 협상이 결렬됐다. 이 시위, 어떻게 바라봐야 할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51656</link>
-            <guid>https://www.bookjournalism.com/books/51656</guid>
-            <pubDate>Fri, 24 Jun 2022 11:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[분노의 섀도복싱]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
