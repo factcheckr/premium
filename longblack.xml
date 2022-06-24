@@ -4,16 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 14:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 15:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[윤현상재 : 논현동의 타일 가게는 왜 라이프스타일 리더로 불리나]]></title>
-            <link>https://www.longblack.co/note/325</link>
-            <guid>https://www.longblack.co/note/325</guid>
-            <pubDate>Thu, 23 Jun 2022 15:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;지하철 학동역 인근의 인테리어 골목. 도기·조명·페인트를 파는 자재 가게가 즐비합니다. 대로에서 두 블록 들어가 골목을 꺾어들면 타일 유통회사 윤현상재荺呟商材의 <span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220615/165526740451a0b7e16b3d7c75c183b5e6ac356486.png" length="0" type="image/png"/>
+            <title><![CDATA[일의 철학 : 삶의 행복은 일을 대하는 자세에 있다]]></title>
+            <link>https://www.longblack.co/note/337</link>
+            <guid>https://www.longblack.co/note/337</guid>
+            <pubDate>Fri, 24 Jun 2022 15:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;후배가 고민 상담을 해왔습니다. 요약하면 “나는 멋진 일을 할 사람인데, 지금 하는 일은 재미없고 시시하다”는 거였죠.&nbsp;“우선 주어진 일부터 잘 해내면 멋진 것”<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220621/165579758173f2c9c7b18d4ebe3c802ee2d5a18866.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
