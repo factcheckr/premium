@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-24T09:24:15.973Z</updated>
+    <updated>2022-06-24T10:29:06.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(웹소설) <팀장의 파워 게임 : 전략적 후퇴> [ep.3]]]></title>
+        <id>https://publy.co/content/6855?fr=category</id>
+        <link href="https://publy.co/content/6855?fr=category"/>
+        <updated>2022-06-24T10:27:52.844Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변화하는 퍼포먼스 마케팅 시장에서 살아남기]]></title>
+        <id>https://publy.co/content/6846?fr=category</id>
+        <link href="https://publy.co/content/6846?fr=category"/>
+        <updated>2022-06-24T10:27:52.844Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발자가 생각하는 일 잘하는 PM의 특징]]></title>
         <id>https://publy.co/content/6825?fr=category</id>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/6850?fr=category"/>
         <updated>2022-06-18T22:21:28.759Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(웹소설) 팀장의 파워 게임 : 아군 만들기 [ep.2]]]></title>
-        <id>https://publy.co/content/6835?fr=category</id>
-        <link href="https://publy.co/content/6835?fr=category"/>
-        <updated>2022-06-18T22:21:28.759Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초기 브랜드를 위한 마케팅 성장론: 스몰 브랜드의 고객 관리법]]></title>
-        <id>https://publy.co/content/6853?fr=category</id>
-        <link href="https://publy.co/content/6853?fr=category"/>
-        <updated>2022-06-18T22:21:28.761Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
 </feed>
