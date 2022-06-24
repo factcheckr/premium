@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:29:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -821,6 +821,13 @@
             <content:encoded><![CDATA[나의 집은 어디인가]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 그날의 주요 뉴스를 브리핑합니다. 북저널리즘 프라임 멤버만 읽을 수 있습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50374</link>
+            <guid>https://www.bookjournalism.com/books/50374</guid>
+            <pubDate>Fri, 24 Jun 2022 06:29:47 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[보건복지부의 배달 앱 ‘덜 짜게’ 계획이 비판 받는다. 짜고 단 음식은 누가 책임질 수 있을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/51952</link>
             <guid>https://www.bookjournalism.com/books/51952</guid>
@@ -889,13 +896,6 @@
             <guid>https://www.bookjournalism.com/books/51685</guid>
             <pubDate>Thu, 23 Jun 2022 16:35:49 GMT</pubDate>
             <content:encoded><![CDATA[가상인간은 메시지다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[화물연대와 정부의 협상이 결렬됐다. 이 시위, 어떻게 바라봐야 할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51656</link>
-            <guid>https://www.bookjournalism.com/books/51656</guid>
-            <pubDate>Thu, 23 Jun 2022 16:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[분노의 섀도복싱]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[주가 전망 기본은 실적…업계동향·경제상황도 살펴야 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
