@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 14:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 15:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,12 +518,14 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/834515c4-a816-4c88-b78a-b4c4b9e6de7e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[일의 철학 : 삶의 행복은 일을 대하는 자세에 있다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/337</link>
-            <guid>https://www.longblack.co/note/337</guid>
-            <pubDate>Fri, 24 Jun 2022 15:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;후배가 고민 상담을 해왔습니다. 요약하면 “나는 멋진 일을 할 사람인데, 지금 하는 일은 재미없고 시시하다”는 거였죠.&nbsp;“우선 주어진 일부터 잘 해내면 멋진 것”<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220621/165579758173f2c9c7b18d4ebe3c802ee2d5a18866.png" length="0" type="image/png"/>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 25 Jun 2022 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[C가 읽고, 배우고, 흡수한 지난주 롱블랙의 문장
+
+"성장은 계단식으로 일어난다는 걸 체감했어요. 아무리 노력해도 아무것도 달라지지 않는 것 같은 시간을 견딜 때, 성장의 동력이 쌓인다는 걸요. 전 천재 디자이너라는 말을 믿지 않습니다. 누가 더 갈아 넣느냐, 자신<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220625/1656166883b0ad08634d83b4e3e70429b1b1193726.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -814,160 +816,76 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #42에선, 정부가 내놓은 부동산 대책의 진심, 바디 프로필 뒤에 숨겨진 불법 약물의 실태, 스마트워치가 주도할 제2의 스마트혁명, 그리고 보건복지부의 배달 앱 ‘덜 짜게’ 계획에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51801</link>
-            <guid>https://www.bookjournalism.com/audio/51801</guid>
-            <pubDate>Sat, 25 Jun 2022 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[자영업자의 눈물은 짜고 스마트워치는 미래의 알람을 울린다]]></content:encoded>
+            <title><![CDATA[테더(USDT), 테라-루나와 마찬가지로 하루아침에 폭락 가능성이 있는가? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/stockisacompany/pklinvestment/contents/220529231838066xr</link>
+            <guid>https://contents.premium.naver.com/stockisacompany/pklinvestment/contents/220529231838066xr</guid>
+            <pubDate>Sat, 25 Jun 2022 15:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 증권맨 P씨입니다. 테라-루나 사태가 있었던지 벌써 2주 정도가 되었습니다. 시장도 어느정도 잠잠해지고 있죠. 이 시점에서, 테라-루나와 유사한 사태가 일어날 다음 후보로 지목되고 있는 테더(USDT)에 대해 알아보겠습니다. 1. 스테이블코인 1위 테더(USDT) 테더는 현존하는 스테이블코인 중 가장 큰 암호화폐입니다. 정확히는 시가총액이 가장 큰 암호화폐죠. 스테이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjlfOSAg/MDAxNjUzODMxOTUyMDU4.2LRY16iC3jlABEUIr3LKSK-D71zTbMk34QUHEJDxSjQg.wjfJq8gfOn7IuB8CUKPcbyb5UoMqv0uSOhQNWuo3y5og.JPEG/6920105898966777920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새 정부의 첫 번째 부동산 대책이 나왔다. 집값을 잡겠다는 얘기가 아니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51977</link>
-            <guid>https://www.bookjournalism.com/books/51977</guid>
-            <pubDate>Sat, 25 Jun 2022 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[나의 집은 어디인가]]></content:encoded>
+            <title><![CDATA[아디다스 슈퍼스타 태극당 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoetalk/magazine/contents/220617082016589hk</link>
+            <guid>https://contents.premium.naver.com/shoetalk/magazine/contents/220617082016589hk</guid>
+            <pubDate>Sat, 25 Jun 2022 15:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[1946년부터 영업을 시작한 서울에서 가장 오래된 제과점 태극당과 아디다스 오리지널스가 함께한 아디다스 슈퍼스타 태극당(adidas Superstar Taegeukdang)이 16일 정식으로 발매되었다. 전 세계 11개 주요 도시의 푸드 컬쳐를 대표하는 로컬 음식점들과 아디다스 오리지널스가 함께하는 아딜리셔스(adilicious) 시리즈로 기획된 태극당 슈퍼스타는 재미난 신발 중 하나다. 빈티지한 멋이 물]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTdfNzgg/MDAxNjU1NDIxNTYzNDM5.AM2PaJ7VQxVJpcut8E5sneDoNbxf6c0DjqY3uLdRPEUg.4l8KfvLROLjlCkRmP63xSUz8gVoOkxh9Za_l2OYDAQ8g.JPEG/adidas-Superstar-Taegeukdang-2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50374</link>
-            <guid>https://www.bookjournalism.com/books/50374</guid>
-            <pubDate>Sat, 25 Jun 2022 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <title><![CDATA[size? 스토어가 소개하는 아디다스 빈티지 슈즈 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoetalk/magazine/contents/220614071338151yf</link>
+            <guid>https://contents.premium.naver.com/shoetalk/magazine/contents/220614071338151yf</guid>
+            <pubDate>Sat, 25 Jun 2022 15:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[영국의 Size? 스토어가 최근 공개한 유튜브 콘텐츠에서 아디다스의 희귀 아카이브 컬렉션(size? previews adidas Originals archive)을 소개했다. size? 스토어는 꽤 진지하고 깊이 있는 콘텐츠를 꾸준히 제작한다. 그중 size? previews라는 타이틀로 새로 발매될 예정인 제품들을 영상 콘텐츠로 제작해서 정기적으로 선보이는데, 이번엔 약간 다르게 아디다스의 레어 제품들을 보여준다. 아디다스]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTRfNDcg/MDAxNjU1MTU4MzgwNzYx.9qJ4yKc2v8KOCU2wKD9Hw9rv8g8FS-dIwztUzKjQufMg.nlsUM_FeOPe5jqBzjLHx8lgqznpH-yiZnLbJrBWHveIg.JPEG/adidas_Originals_archive-Golf_shoe.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보건복지부의 배달 앱 ‘덜 짜게’ 계획이 비판 받는다. 짜고 단 음식은 누가 책임질 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51952</link>
-            <guid>https://www.bookjournalism.com/books/51952</guid>
-            <pubDate>Sat, 25 Jun 2022 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[장관님은 나트륨이 싫다고 하셨어]]></content:encoded>
+            <title><![CDATA[주식, 코인, 부동산 등등 자산 하락세에 대응하는 2030세대의 자세? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/khmh104/catonstove/contents/220619184813233bs</link>
+            <guid>https://contents.premium.naver.com/khmh104/catonstove/contents/220619184813233bs</guid>
+            <pubDate>Sat, 25 Jun 2022 15:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[이번 한 주는 2년 전부터 적극적으로 자산시장에 대한 투자에 나서고 있는 2030 세대에게는 암울한 한 주였던 것 같습니다. 미국발 금리인상 등 다양한 요인이 복합적으로 작용하여 주식시장과 암호화폐, 부동산 등 자산 종류를 막론하고 하락세가 뚜렷해지고 있기 때문이죠. 2020년 코로나 팬데믹 이후 수많은 2030 세대가 주식투자, 가상화폐 매수 등 자산시장에 뛰어들었고 이러]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTlfMTY2/MDAxNjU1NjI4MTMxODQ4.AFQ1ISop7iMqpMqJu-4JncSFZ-IrlQryyOU-l01fLX8g.AZAV8SU_BCWHfrxq08eK3BTS3MQZZam34D1oFjYl_cUg.JPEG/%EC%BA%A1%EC%B2%98.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[독일은 러시아의 석유와 가스에 지나치게 의존해 왔다. 러시아의 우크라이나 침공으로 이 끔찍한 실수의 정체가 드러났다. 어디서부터 잘못된 것일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51907</link>
-            <guid>https://www.bookjournalism.com/books/51907</guid>
-            <pubDate>Sat, 25 Jun 2022 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[잘못된 선택]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[텔레그램이 유료 서비스를 출시한다. 메신저 앱은 광고와의 경쟁에서 승리할 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51912</link>
-            <guid>https://www.bookjournalism.com/books/51912</guid>
-            <pubDate>Sat, 25 Jun 2022 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[메신저는 거들 뿐]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스마트워치 시장이 날로 커지고 있다. 제2의 스마트 혁명은 스마트워치가 주도할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51858</link>
-            <guid>https://www.bookjournalism.com/books/51858</guid>
-            <pubDate>Sat, 25 Jun 2022 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[제2의 스마트혁명?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[불법 스테로이드 처벌이 강화된다. 그 의미와 예고되는 후폭풍은 가볍지 않다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51807</link>
-            <guid>https://www.bookjournalism.com/books/51807</guid>
-            <pubDate>Sat, 25 Jun 2022 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[노 모어 스테로이드]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중국에서 제로 코로나 정책에 반발하는 학생 시위가 연일 열린다. 시진핑 연임을 앞두고, 90년대생이 새로운 변수가 될까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51660</link>
-            <guid>https://www.bookjournalism.com/books/51660</guid>
-            <pubDate>Sat, 25 Jun 2022 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대는 참지 않지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플TV+가 미국 프로축구리그 경기를 독점 중계한다. 스포츠 콘텐츠는 OTT 레드 오션의 틈새 시장이 될 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51719</link>
-            <guid>https://www.bookjournalism.com/books/51719</guid>
-            <pubDate>Sat, 25 Jun 2022 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[OTT로 넘어간 축구공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[해를 거듭할수록 홍수는 더 자주, 더 무참하게 도시를 습격한다. 중국 정부가 새로운 대응 방안을 내놓았다. 과연 성공할 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51699</link>
-            <guid>https://www.bookjournalism.com/books/51699</guid>
-            <pubDate>Sat, 25 Jun 2022 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[치수(治水)가 만사(萬事)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가상인간이 쏟아져 나온다. 전략과 시도도 다양해지고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51685</link>
-            <guid>https://www.bookjournalism.com/books/51685</guid>
-            <pubDate>Sat, 25 Jun 2022 14:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[가상인간은 메시지다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[봄날은 간다(2001) : 지나간 사랑의 흔적 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220303205320183ny</link>
-            <guid>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220303205320183ny</guid>
-            <pubDate>Fri, 24 Jun 2022 15:28:48 GMT</pubDate>
-            <content:encoded><![CDATA[**어바웃 무비 채널의 모든 글은 스포일러를 포함하고 있습니다. **이 글 속에 등장하는 &lt;캐스트 어웨이&gt;, &lt;8월의 크리스마스&gt;, &lt;봄날은 간다&gt;는 현재 넷플릭스 등을 통해 관람할 수 있습니다. 무인도에 떨어진 한 남자가 있다. 회사로부터 긴급한 호출을 받게 된 그는 말레이시아로 향하는 화물 비행기에 탑승한 참이었다. 비행 도중 폭풍우를 만나 계획되어 있던 항로를 벗어나게]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDNfNjEg/MDAxNjQ2MzA3MTkyMDYz.rQk9YpcV2w4GZEFMtQKx_5GtcDUA05rR-MMV3IiaWOQg.CyBv4Oa1746rXSJalb7At-jg69EvJB8k9tUsXut0IZIg.JPEG/12110210A770FD709C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브롬톤을 사기 전에 알았으면 좋았을 5가지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/romanticgrey/todaybromping/contents/220101182040218Dm</link>
-            <guid>https://contents.premium.naver.com/romanticgrey/todaybromping/contents/220101182040218Dm</guid>
-            <pubDate>Fri, 24 Jun 2022 15:28:48 GMT</pubDate>
-            <content:encoded><![CDATA[브롬톤을 구입하고 나는 '자전거 타는 삶'에 재미를 붙였다. 비가 오거나 야근한 날을 제외하고는, 매일 퇴근 후 집 근처 호수 공원을 달렸다. 시간이 넉넉하게 나는 주말에는 멀지만 버스로 가기 애매했던 커피 맛집에 자전거를 타고  다녀오고, 때론 자전거에 짐을 싣고 캠핑을 떠나기도 했다.   여느 물건들처럼 처음엔 낯설게만 느껴졌지만, 시간을 함께 지나면서 새로운 자전]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDFfMTE4/MDAxNjQxMDI3MTY3MTA5.WOK_fNLEGWbCTwWV3OozlzegrC33yV5c6zTT-916P2sg.cl3zgFNEuMLSWv23Wg0beL8l4m8oRXXQAPAwaKNUozQg.JPEG/IMG_2304.JPG?type=nfs220_220" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[몰로코 개발자가 말하는 일하며 성장하는 법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/220610142812167fa</link>
-            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/220610142812167fa</guid>
-            <pubDate>Fri, 24 Jun 2022 15:28:48 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 개발자들이 가장 관심을 갖고 지켜보고 있는 기업이라면? 단연 몰로코 아닐까. 언제부턴가 '네카라쿠배보다 몰두센'이라는 말이 나온다. 개발자들이 일하기 좋은 기업으로 손꼽힌다는 얘기. 이중 센터를 담당하고 있는 곳이 몰로코다.  2013년 실리콘밸리에서 시작해, 설립 8년만에 순매출액 1억 달러(약 1204억원)를 돌파, 기업공개(IPO)도 하기 전 흑자를 기록한 데 이어, 지난]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTBfMTg4/MDAxNjU0ODM4NDEyNjg0.aIj9iVQtCJv0gDWJEkV7ur6YzBQsFbH72ku1jxHIWB8g.ytB3gAUQcCpQ1e-GMDOP3eLMx3RNV6P-oeKZ-za1Vxsg.JPEG/%EB%AA%B0%EB%A1%9C%EC%BD%94-%EC%8D%B8%EB%84%AC2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송재학 에세이] 재즈를 위한 감정 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bookcrew/essaycat/contents/220620165939754ti</link>
-            <guid>https://contents.premium.naver.com/bookcrew/essaycat/contents/220620165939754ti</guid>
-            <pubDate>Fri, 24 Jun 2022 15:28:48 GMT</pubDate>
-            <content:encoded><![CDATA[재즈를 위한 감정 최근 몇 년간 재즈만 들었다. 이건 낯설지 않은 감정이다. 하지만 마음은 늘 재즈였다. 재즈바의 간판이 듬성듬성 보이는 것도 좋은 일이라고 생각했다. 벽면 한쪽으로 재즈 엘피들이 빼곡하고, 재즈의 선율이 뭉클한 곳에서 음악에 몰입하는 것은 밤을 잘 달래는 방법이다. 재즈바의 엘피들은 대체로 낡았거나 낡아가는 중이다. 그때의 오래된 낡음은 따뜻함을]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjBfMTI2/MDAxNjU1NzExODc3OTg1.oN67Xn5fGVLYinjX-FOW9gh4Utl_aoYLfRels8e_SQ4g.ZMZ8Ayk-7PZhqxIAPd85IH3A608ul4CkYIVYnMMwmlEg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[6월 3주차 전국 신상카페 추천 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/cafeflex/cafe/contents/220618005940589ym</link>
-            <guid>https://contents.premium.naver.com/cafeflex/cafe/contents/220618005940589ym</guid>
-            <pubDate>Fri, 24 Jun 2022 15:28:48 GMT</pubDate>
-            <content:encoded><![CDATA[이번주 추천드리는 전국 신상카페 15곳입니다. 전국 가볼만한 신상카페 정보를 확인해 보세요. 1. 서울 신상카페 #쏠티캐핀 용리단길점 화이트 용리단길에 오픈한 4층 독채 소금 광산 컨셉 카페 2. 경기도 신상카페 #십삼월 한산한 분위기에서 힐링할 수 있는 안성 죽산 카페 3. 인천 신상카페 #다차 보이차카페 고즈넉한 분위기에서 보이차 한잔 4. 부산 신상카페 #언벤트커피 포토]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MThfNyAg/MDAxNjU1NDc5OTk3MjQw.OPDbeYu0b3vv3dgc9GO9RB-InKQ-fM7yxiv52iNdgDsg.y8lqFYG-SCI2WAcztomNd2zGcOm8SqYmTwHwfTcaS1og.PNG/%EC%A3%BC%EA%B0%84%EC%8B%A0%EC%83%81%EC%B9%B4%ED%8E%98.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TQQQ의 상승 결국 돈 버는 사람은 떨어질 때 살 수 있는 사람 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/imgold/imim/contents/220623201954579fb</link>
-            <guid>https://contents.premium.naver.com/imgold/imim/contents/220623201954579fb</guid>
-            <pubDate>Fri, 24 Jun 2022 15:28:48 GMT</pubDate>
+            <title><![CDATA[대신정보통신 주주총회 주가가 상승할 호재가 있을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/imgold/imim/contents/220618002600957vu</link>
+            <guid>https://contents.premium.naver.com/imgold/imim/contents/220618002600957vu</guid>
+            <pubDate>Sat, 25 Jun 2022 15:24:34 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 황금 같은 배당금을 받을 때까지 배당주를 매수하는 황금 거북이입니다. 배당주 주식 유튜버 황금 거북이 오늘도 황금 거북이 프리미엄 콘텐츠를 클릭해 주셔서 감사합니다.   황금 거북이 프리미엄 콘텐츠의 혜택은 다음과 같습니다. 구독자 전용 오픈 채팅방 관리 황금 거북이 매수 및 매도 관련 내용 공유 지금은 프리미엄 콘텐츠 첫 운영 중이라 미숙하지만, 앞]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjNfMjU2/MDAxNjU1OTgyNTc0MzYz.L-UYRAcUFaBFGvGggo1sqWEvBTrn9Bo3d1z5IGiSZ8Ag.d1ADxBKDikR7JlvQu9PHE52uriI7DBCg6GExkMMa1hog.PNG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG?type=nfs220_220" length="0" type="image/PNG"/>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MThfMzMg/MDAxNjU1NDc4NDcyNjY0.C2uVA4zAbxo90JolBjNiO6ym1KmpKGOLwip5BrbI3gUg.tWJctpS2YnRudrU8p5fU5AYZ45YpLIdLL00sXMr244Ag.PNG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG?type=nfs220_220" length="0" type="image/PNG"/>
         </item>
         <item>
-            <title><![CDATA[🏀농구와 주식투자📈 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/newsporter/hyereeporter/contents/220618065242358zr</link>
-            <guid>https://contents.premium.naver.com/newsporter/hyereeporter/contents/220618065242358zr</guid>
-            <pubDate>Fri, 24 Jun 2022 15:28:48 GMT</pubDate>
-            <content:encoded><![CDATA[🦹🏻X가 전하는 [🇰🇷서울 시장 인사이트] 유명한 투자자 중에 농구를 좋아하는 분들이 참 많습니다. 다른 스포츠를 좋아하는 분들도 있겠지만 야구나 축구를 좋아한다고 밝힌 분들에 비해 농구를 좋아한다고 말하는 분들이 많은 느낌입니다. 블로거로 유명한 슬기자산운용 송근용님은 블로그 닉네임이 농구천재이고, 전업투자자로 유명한 선진짱님도 농구를 좋아한다고 밝힌 바]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MThfMTA2/MDAxNjU1NTAyNjA1MTE5.4hReNeuDEggYa6rM2g_GzKBOO8B8-kX_BTkYpZP8bP4g.PBScqyodQvmCpuycPsRnlwhuSAX_H15wbHQt4vaVJSUg.JPEG/mug_obj_151257692769512613.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[스낵에세이] 내민 손이 고마워서 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220619215937992ly</link>
+            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220619215937992ly</guid>
+            <pubDate>Sat, 25 Jun 2022 15:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[주말 저녁, 한 판사님의 이야기를 듣다가 울컥해버렸다. 목숨을 끊으려 했던 청년들에게 그가 남긴 판결문엔 다음과 같은 내용이 적혀있다.  이해하기 힘들지만 밖에서 보기에 별것 없어 보이는 사소한 이유들이 삶을 포기하게 만들듯 보잘것 없는 작은 것들이 또 누군가를 살아있게 만든다. 어스름한 미명과 노을이 아름다워서, 누군가 내민 손이 고마워서, 모두가 떠나도 끝까]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTlfMjA3/MDAxNjU1NjQyODM1Nzcz.MZg8RAHwO6utIgjVwrLWGtPumko3c0kHYO-ekBeXrl4g.KhcCCkQ3rpcZZqQPtUk8M2Fqc145TklQ-gbyf-kB7P8g.JPEG/photo-1585577028863-35a3349c60db.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[트윗시황] 비트코인, 전고점 대비 약 73% 하락 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/coindesk/nextmoney/contents/220624130041358kp</link>
-            <guid>https://contents.premium.naver.com/coindesk/nextmoney/contents/220624130041358kp</guid>
-            <pubDate>Fri, 24 Jun 2022 15:28:48 GMT</pubDate>
-            <content:encoded><![CDATA[1. 코인 분석가 블런트: 지난 20일(현지시간)부터 BTC(비트코인)는 축적하기 시작했습니다. 단기적으로 비트코인은 1만9500달러(약 2535만원)에서 (약 2470만원) 하락할 가능성이 있습니다. 그러나 최소 2만4000달러(약 3120만원)까지 반등할 것이라 전망합니다. 2. 비트코인 공포·탐욕 지수: 비트코인 공포·탐욕 지수는 11로, 극도의 공포 상태를 나타내고 있습니다. 이 지수는 24일(한국시]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjRfMTM5/MDAxNjU2MDM1NjQxMTE4.oAlgnD1EIkS5URalREuHb3fYOPp87SYq1FsQflJYr5kg.XbqjjRQPio47A9wheR1t6sVomkn53mgSui-U-MkT3ocg.PNG/%ED%8A%B8%EC%9C%97%EC%8B%9C%ED%99%A9.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[#23. 부동산으로 부자가 되기 위해 꼭 필요한 자세 : 작은 것에 눈을 부릅떠라!! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/cityrichman/cityrichman1/contents/220619003655201ik</link>
+            <guid>https://contents.premium.naver.com/cityrichman/cityrichman1/contents/220619003655201ik</guid>
+            <pubDate>Sat, 25 Jun 2022 15:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[아직도 ‘부동산 투자’라고 하면 신도시, 대규모 개발사업, 그린벨트 해제지역 등에 대한 투자 내지는 남들은 전혀 모르는 고급 부동산 개발정보를 활용해 큰 투자이익을 얻는 것이라고 생각하는 사람이 있는 것 같습니다. 그러나 그런 대규모 투자나 고급정보가 없어도 엄청난 수익은 아니더라도 꽤 쏠쏠한 투자수익을 올릴 수 있는 방법은 의외로 많습니다.  우리는 종종 주]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTlfMzEg/MDAxNjU1NTY2MDk0NTY0.tXF6gY0pQYAOWM2Oq2G_rV47EGw22HjzNb9OtD9psCwg.S0HDhY98562bwBBIAPEAEUfLjC0Fy5nyuXF9ii4mUnsg.JPEG/23%EB%B2%88%EC%A7%B8_%EA%B7%B8%EB%A6%BC%EC%9E%90%EB%A3%8C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[파이썬 🐶초보] #9 조건문 If 스타일 2탄 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/60coding/pythoncoding/contents/220618100516240eh</link>
-            <guid>https://contents.premium.naver.com/60coding/pythoncoding/contents/220618100516240eh</guid>
-            <pubDate>Fri, 24 Jun 2022 15:28:48 GMT</pubDate>
-            <content:encoded><![CDATA[#1 에디터 프로그램을 설치하자! #2 print( ) input( ) 내장함수 #3 f-string으로 변수 100% 활용 #4 print( ), input( ), f-string 코딩 테스트 #5 파이썬 데이터 타입, type( ), string(↔int 전환) #6 파이썬 연산 기능과 순서 #7 데이터 타입, 연산 코딩 테스트 #8 조건문 If 스타일 1탄 #9 조건문 If 스타일 2탄(현재 콘텐츠) 지난 시간에 이어서, if를 조금 더 심도 있게 살펴보도록 할게요! 'if/for/while'은 파이썬]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MThfMjc4/MDAxNjU1NTExODQwMzU2.rOiG0DnvoQepoEXJslDQE3JSlB6t7mRNgHfG68l3I8wg.Fvoi-uSGNm9mKH10tsJ3pNnh-BNlJ52nJg4y514JtJgg.JPEG/60coding_%EB%B3%B5%EC%82%AC%EB%B3%B8-_1_-001.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[뉴욕에 하입비스트 플래그십 빌딩 오픈 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoetalk/magazine/contents/220619221430151nw</link>
+            <guid>https://contents.premium.naver.com/shoetalk/magazine/contents/220619221430151nw</guid>
+            <pubDate>Sat, 25 Jun 2022 15:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[21세기 GQ 매거진이라는 별명을 넘어 글로벌 미디어 그룹으로 성장중인 하입비스트 HYPEBEAST.LTD가 미국 뉴욕 맨하튼 차이나타운에 플래그십 스토어 겸 사무실 HYPEBEAST Flagship Building in US을 6월 17일 오픈했다. 총 7층 높이의 하입비스트 빌딩은 하입비스트의 온라인스토어 HBX의 플래그십 스토어, 카페 하입빈즈(Hypebeans café), 이벤트 공간, 미국 하입비스트 사무실로 사용된다. 하반기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTlfMjUz/MDAxNjU1NjQ0NDEzNzM2.h-hV48wM-FePvN0AqY5HeqJ5HBrJE_Eyo30ZRtJMNKgg.Q3TRZl5mg54YsorUkt-0NIFjJvme8sj-ixfbe7j82PMg.JPEG/%EA%B7%B8%EB%A6%BC1.jpg/undefined?type=nfs220_220" length="0" type="image/jpg/undefined"/>
+        </item>
+        <item>
+            <title><![CDATA[[동영상] 달리오 "경제논리 대신 이념이 우선하는 시대다!" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220617170448328nf</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220617170448328nf</guid>
+            <pubDate>Sat, 25 Jun 2022 15:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 헤지펀드인 브릿지워터어소시에이츠 레이 달리오 회장이 『변화하는 세계질서』를 발표했다. 빠른 셈으로 고수익이나 좇는 헤지펀드 매니저가 재테크 책이 아닌 변화하는 세계질서에 어떻게 대응해야 하는지를 다룬 책을 썼다. 억만장자(약 21조원)의 지적 허영일까. 이런 경계심을 마음 한 켠에 품고 줌(Zoom)으로 그를 단독 인터뷰했다.  그는 이렇게 말문을 열었다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTdfMTg3/MDAxNjU1NDUyOTIwMDEx.JulVzt2gzXpB6k2FmfF7XfWR4Ndcfa_AIQn8rWeu-7cg.zSSkdwFCT-mJE1gKJcGx038ITwqLRZS9gt42uzJ4ZCMg.JPEG/%EB%A0%88%EC%9D%B4_%EB%8B%AC%EB%A6%AC%EC%98%A4_%EB%A1%9C%EC%9D%B4%ED%84%B0.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
