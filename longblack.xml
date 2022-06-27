@@ -4,7 +4,7 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 23:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 02:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.longblack.co/note/331</link>
             <guid>https://www.longblack.co/note/331</guid>
             <pubDate>Sun, 26 Jun 2022 15:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C아이헤이트먼데이I HATE MONDAY! 제 마음의 소리는 아니고요, 요즘 힙hip한 양말 브랜드예요. 최근에는 빅뱅의 지드래곤이 이곳의 양말을 신었다고요. 뿐만 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;아이헤이트먼데이I HATE MONDAY! 제 마음의 소리는 아니고요, 요즘 힙hip한 양말 브랜드예요. 최근에는 빅뱅의 지드래곤이 이곳의 양말을 신었다고요. 뿐만<span class="circle-punctuation"></span>]]></content:encoded>
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220621/16557992282775f947119e7dded2587acce8a673d9.png" length="0" type="image/png"/>
         </item>
     </channel>
