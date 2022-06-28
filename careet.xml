@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 07:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 08:34:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 여름 시즌 굿즈로 추천한 의외의 아이템 5]]></title>
+            <link>https://www.careet.net/805</link>
+            <guid>https://www.careet.net/805</guid>
+            <pubDate>Tue, 28 Jun 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[요즘은 콜드컵 말고 시리얼컵이 인기래요.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/41f59db7-49ae-4d72-84ca-785da4e2d8f6_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2022 상반기 결산! 브랜드 마케팅 성적표 A+ 모음]]></title>
             <link>https://www.careet.net/793</link>
