@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 02:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 04:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -914,6 +914,14 @@
             <content:encoded><![CDATA[Z세대는 참지 않지]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</link>
+            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</guid>
+            <pubDate>Tue, 28 Jun 2022 04:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 경제활동 인구 2800만명 중, 무려 절반가량이 주식투자를 하고 있는데요 어느날 고개를 들어 주위를 둘러보니 엄마 친구 아들부터 내 옆자리 직장동료, 심지어는 십년지기 친구까지 알고보니 나만 빼고 다~ 주식을 하고 있어요🤔 "뒤쳐지긴 싫다, 나도 불로소득 좀 땡겨볼까?" 급한 마음에 일단 시작은 했는데 아무래도 막막...한 투자😱 지금 여러분의 투자는 안녕하신가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfNDMg/MDAxNjUwMzM1Mjk5Njky.lZGpdrBmTeXqnaAQQfWbMsU-m7rqFz5APw628ZmGumYg.6ko1l4hLioa8WP6Q9H6Y9kr8PPJazFEFjBLNWGYvEdsg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-19_%EC%98%A4%EC%A0%84_11.28.04.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[中, 마약 산업을 무기화…“알약 하나로 미국을 무너뜨린다” [차이나 인 포커스] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/epochkorea/epic/contents/220614061332224bz</link>
             <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220614061332224bz</guid>
@@ -975,14 +983,6 @@
             <guid>https://contents.premium.naver.com/nomadand/nomad/contents/220621092614428ue</guid>
             <pubDate>Mon, 27 Jun 2022 15:28:48 GMT</pubDate>
             <content:encoded><![CDATA[갈건 갑니다. 아침 라이브와 VOD에서 체크한 누보 상한가, 삼진엘앤디 5%, 하이딥 20% 모두 :)  시장이 빠져도 갈 놈은 가게 됩니다. 다만 언제나 방망이는 짧게. 블리츠웨이(20%)도 모두가 개 빠질거라고 생각하지만 역시 빈틈이 있고 시나리오가 있죠. 잘 몰라도 됩니다  일단은 관전하면서 시장의 흐름을 읽는 힘을 기다리보면 여러분도 시그널리포트 선배들처럼 빠져들게 되고 스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세상에서 가장 비싸지만, 가장 가치 있는 점심가격 1900백만 달러 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/lskjhc/wisdom/contents/220621100122734sm</link>
-            <guid>https://contents.premium.naver.com/lskjhc/wisdom/contents/220621100122734sm</guid>
-            <pubDate>Tue, 28 Jun 2022 02:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[Berkshire Hathaway의 회장이자 CEO인 91세의 버핏은 2000년에 시작된 21번의 경매에서 글라이드를 위해 5,320만 달러 이상을 모금했습니다. eBay 대변인은 점심이 회사 웹사이트에서 자선단체에 기부하기 위해 판매된 가장 비싼 품목이라고 말했습니다. COVID-19 전염병으로 인해 2020년과 2021년에는 경매가 열리지 않았습니다. 버핏은 2004년에 사망한 그의 첫 번째 아내 수잔이 그녀가 자원봉]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjFfMjgz/MDAxNjU1NzcyOTM3ODk5.5OVv-6fYPwel6c1dPcwkLBeqdwhF06VUYOE9dO7fuzYg.L12hFP8yGG8EJyyAnCIy-I_4fpOmXCcUK2rXRtEzek8g.JPEG/MicrosoftTeams_image__6.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
