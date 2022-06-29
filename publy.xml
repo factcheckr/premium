@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-29T07:23:41.656Z</updated>
+    <updated>2022-06-29T08:33:28.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
@@ -55,7 +55,7 @@
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[목적 지향적 팀 세팅을 위한 PM의 현실적인 노하우]]></title>
+        <title type="html"><![CDATA[같은 목적을 공유하는 팀 세팅을 위한 PM의 현실적인 노하우]]></title>
         <id>https://publy.co/content/6820?fr=category</id>
         <link href="https://publy.co/content/6820?fr=category"/>
         <updated>2022-06-21T08:37:51.695Z</updated>

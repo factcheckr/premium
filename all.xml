@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 07:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 08:33:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,7 +57,7 @@
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[목적 지향적 팀 세팅을 위한 PM의 현실적인 노하우 (퍼블리)]]></title>
+            <title><![CDATA[같은 목적을 공유하는 팀 세팅을 위한 PM의 현실적인 노하우 (퍼블리)]]></title>
             <link>https://publy.co/content/6820?fr=category</link>
             <guid>https://publy.co/content/6820?fr=category</guid>
             <pubDate>Tue, 21 Jun 2022 08:37:51 GMT</pubDate>
@@ -846,6 +846,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인터넷의 역사를 이야기할 때 구글이나 페이스북, 아마존을 빼놓을 수는 없다. 그러나 인터넷을 가장 먼저 정복한 기업은 이베이였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52103</link>
+            <guid>https://www.bookjournalism.com/books/52103</guid>
+            <pubDate>Wed, 29 Jun 2022 08:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[이베이, 돈 되는 인터넷의 창세기]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[경력직 채용 플랫폼이 커진다. 이 성장은 무엇을 의미할까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/52085</link>
             <guid>https://www.bookjournalism.com/books/52085</guid>
@@ -921,13 +928,6 @@
             <guid>https://www.bookjournalism.com/books/51858</guid>
             <pubDate>Wed, 29 Jun 2022 07:23:32 GMT</pubDate>
             <content:encoded><![CDATA[제2의 스마트혁명?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[불법 스테로이드 처벌이 강화된다. 그 의미와 예고되는 후폭풍은 가볍지 않다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51807</link>
-            <guid>https://www.bookjournalism.com/books/51807</guid>
-            <pubDate>Wed, 29 Jun 2022 07:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[노 모어 스테로이드]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[주말 트렌드 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>

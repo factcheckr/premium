@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-06-29T07:23:41.667Z</updated>
+    <updated>2022-06-29T08:33:28.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[인터넷의 역사를 이야기할 때 구글이나 페이스북, 아마존을 빼놓을 수는 없다. 그러나 인터넷을 가장 먼저 정복한 기업은 이베이였다.]]></title>
+        <id>https://www.bookjournalism.com/books/52103</id>
+        <link href="https://www.bookjournalism.com/books/52103"/>
+        <updated>2022-06-29T08:33:18.283Z</updated>
+        <content type="html"><![CDATA[이베이, 돈 되는 인터넷의 창세기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경력직 채용 플랫폼이 커진다. 이 성장은 무엇을 의미할까?]]></title>
         <id>https://www.bookjournalism.com/books/52085</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/51858"/>
         <updated>2022-06-29T07:23:32.449Z</updated>
         <content type="html"><![CDATA[제2의 스마트혁명?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불법 스테로이드 처벌이 강화된다. 그 의미와 예고되는 후폭풍은 가볍지 않다.]]></title>
-        <id>https://www.bookjournalism.com/books/51807</id>
-        <link href="https://www.bookjournalism.com/books/51807"/>
-        <updated>2022-06-29T07:23:32.449Z</updated>
-        <content type="html"><![CDATA[노 모어 스테로이드]]></content>
     </entry>
 </feed>
