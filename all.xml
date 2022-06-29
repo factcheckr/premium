@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 23:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 02:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6854?fr=category</guid>
             <pubDate>Sat, 18 Jun 2022 22:21:28 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 상반기 결산! 키워드로 보는 요즘 핫플레이스 공통점 6 (캐릿)]]></title>
+            <link>https://www.careet.net/795</link>
+            <guid>https://www.careet.net/795</guid>
+            <pubDate>Wed, 29 Jun 2022 02:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[‘해외감성’부터 ‘프리미엄’까지! 다른 곳에선 볼 수 없는 2022 상반기 핫플 특징 6]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/0f76df88-56e3-45db-9d11-96eb27fd78aa_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대가 여름 시즌 굿즈로 추천한 의외의 아이템 5 (캐릿)]]></title>
