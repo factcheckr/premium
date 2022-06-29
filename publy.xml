@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-29T08:33:28.041Z</updated>
+    <updated>2022-06-29T09:26:27.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[회의록 NO! 팀장의 부재에도 굴러가게 만드는 '작은 성공 회의' 세팅법은?]]></title>
+        <id>https://publy.co/content/6838?fr=category</id>
+        <link href="https://publy.co/content/6838?fr=category"/>
+        <updated>2022-06-29T09:25:13.019Z</updated>
+        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하룻밤 만에 완성하는 프로모션 결과보고서 작성법]]></title>
         <id>https://publy.co/content/6876?fr=category</id>
@@ -66,13 +73,6 @@
         <id>https://publy.co/content/6841?fr=category</id>
         <link href="https://publy.co/content/6841?fr=category"/>
         <updated>2022-06-20T08:33:09.777Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PM이 처음이라면, 적응에 필요한 N가지 팁]]></title>
-        <id>https://publy.co/content/6854?fr=category</id>
-        <link href="https://publy.co/content/6854?fr=category"/>
-        <updated>2022-06-18T22:21:28.758Z</updated>
         <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
 </feed>
