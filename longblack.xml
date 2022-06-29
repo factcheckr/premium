@@ -4,16 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 14:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 15:55:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[모티프원 : 파주 헤이리의 게스트하우스, 지친 여행객의 마음을 '대화'로 위로한 이유]]></title>
-            <link>https://www.longblack.co/note/338</link>
-            <guid>https://www.longblack.co/note/338</guid>
-            <pubDate>Tue, 28 Jun 2022 15:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;지난 6개월을 쉼 없이 달렸어요. 휴가가 필요했죠. 혼자 명상 좀 하고 오겠다 했더니, 친구가 게스트하우스 모티프원motif #1을 추천했어요! 저같은 직장인에게<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220627/1656300630f98f1d6e6b3128f2c780917a2a0a87c2.png" length="0" type="image/png"/>
+            <title><![CDATA[달러 제너럴 : 미국판 다이소, 확실한 컨셉으로 미국 시골을 점령하다]]></title>
+            <link>https://www.longblack.co/note/339</link>
+            <guid>https://www.longblack.co/note/339</guid>
+            <pubDate>Wed, 29 Jun 2022 15:54:47 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;얼마 전에 마우스에 넣을 건전지를 사러 집 근처 다이소에 갔습니다. 요새 소비자 물가가 많이 올랐잖아요. 조금이라도 더 저렴한 물건을 찾게 됩니다. 저 같은 사람<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220627/1656303463c4881b01ea8d75b3650686c5a6a029b0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

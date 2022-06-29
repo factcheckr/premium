@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-06-29T14:21:16.430Z</updated>
+    <updated>2022-06-29T15:55:45.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[엔터계의 ESG 경영이 화제다. 음반 마케팅으로 매출을 올리는 음악 산업의 구조는 변할 수 있을까.]]></title>
+        <id>https://www.bookjournalism.com/books/52111</id>
+        <link href="https://www.bookjournalism.com/books/52111"/>
+        <updated>2022-06-29T15:55:34.404Z</updated>
+        <content type="html"><![CDATA[앨범의 홍수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인터넷의 역사를 이야기할 때 구글이나 페이스북, 아마존을 빼놓을 수는 없다. 그러나 인터넷을 가장 먼저 정복한 기업은 이베이였다.]]></title>
         <id>https://www.bookjournalism.com/books/52103</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/51912"/>
         <updated>2022-06-29T07:23:32.449Z</updated>
         <content type="html"><![CDATA[메신저는 거들 뿐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트워치 시장이 날로 커지고 있다. 제2의 스마트 혁명은 스마트워치가 주도할까?]]></title>
-        <id>https://www.bookjournalism.com/books/51858</id>
-        <link href="https://www.bookjournalism.com/books/51858"/>
-        <updated>2022-06-29T07:23:32.449Z</updated>
-        <content type="html"><![CDATA[제2의 스마트혁명?]]></content>
     </entry>
 </feed>
