@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-30T07:21:29.866Z</updated>
+    <updated>2022-06-30T08:33:40.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[일하는 마음과 앓는 마음: 일에 울고 웃는 당신에게]]></title>
+        <id>https://publy.co/content/6877?fr=category</id>
+        <link href="https://publy.co/content/6877?fr=category"/>
+        <updated>2022-06-30T08:32:23.579Z</updated>
+        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기획자가 알아야 할 NFT 사례 모음.zip]]></title>
+        <id>https://publy.co/content/6840?fr=category</id>
+        <link href="https://publy.co/content/6840?fr=category"/>
+        <updated>2022-06-30T08:32:23.579Z</updated>
+        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[회의록 NO! 팀장의 부재에도 굴러가게 만드는 '작은 성공 회의' 세팅법은?]]></title>
         <id>https://publy.co/content/6838?fr=category</id>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/6848?fr=category"/>
         <updated>2022-06-22T08:33:18.719Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은 목적을 공유하는 팀 세팅을 위한 PM의 현실적인 노하우]]></title>
-        <id>https://publy.co/content/6820?fr=category</id>
-        <link href="https://publy.co/content/6820?fr=category"/>
-        <updated>2022-06-21T08:37:51.695Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사소하지만 합격률을 비약적으로 높여줄 이직 면접 팁]]></title>
-        <id>https://publy.co/content/6841?fr=category</id>
-        <link href="https://publy.co/content/6841?fr=category"/>
-        <updated>2022-06-20T08:33:09.777Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
 </feed>
