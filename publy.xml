@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-30T23:24:05.528Z</updated>
+    <updated>2022-07-01T08:32:14.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[데이터 분석가& 마케터가 반드시 알아야 할 어트리뷰션 이야기]]></title>
+        <id>https://publy.co/content/6881?fr=category</id>
+        <link href="https://publy.co/content/6881?fr=category"/>
+        <updated>2022-07-01T08:31:01.715Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일하는 마음과 앓는 마음: 일에 울고 웃는 당신에게]]></title>
         <id>https://publy.co/content/6877?fr=category</id>
@@ -66,13 +73,6 @@
         <id>https://publy.co/content/6858?fr=category</id>
         <link href="https://publy.co/content/6858?fr=category"/>
         <updated>2022-06-22T08:33:18.716Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자사몰 마케팅 랜딩페이지 노하우]]></title>
-        <id>https://publy.co/content/6848?fr=category</id>
-        <link href="https://publy.co/content/6848?fr=category"/>
-        <updated>2022-06-22T08:33:18.719Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
