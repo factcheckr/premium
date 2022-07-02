@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 14:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 15:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,12 +350,14 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/3346eb17-0b3e-4e29-bafb-d1ec97eea957_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[묘사의 힘 : 독자가 내 글 속에서 살아 숨쉬게 하는 법 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/344</link>
-            <guid>https://www.longblack.co/note/344</guid>
-            <pubDate>Fri, 01 Jul 2022 15:27:19 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;친구에게 부럽단 소리를 들었습니다. 글을 잘 쓴다고요. 본인은 보고서를 늘 두 번씩 쓴다더군요. 생각해 보면 글은 업무의 밑바탕입니다. 프레젠테이션 대본을 만들 <span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220627/165630886450de26847de878c3ebcceb8b6413b726.png" length="0" type="image/png"/>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 02 Jul 2022 15:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[K를 돌아보게 만든 지난주 롱블랙의 문장
+
+"압박에 못 이겨 모티프원을 찾는 사람에게, 난 무조건 “쉬라”고 하지 않습니다. 혼란스러울수록 남이 아닌 ‘나’에게 집중하라고 일러요. 비교하고 경쟁하기를 피할 수 없다면, 그 대상을 ‘어제와 오늘의 나’로 좁혀보라고요.<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220630/1656573337298ec438d61476752ca24d12078f0332.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -730,46 +732,6 @@
             <content:encoded><![CDATA[장관님은 나트륨이 싫다고 하셨어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현금 부자 회사 대동전자 주주총회 참석한 황금 거북이 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/imgold/imim/contents/220626163846691rq</link>
-            <guid>https://contents.premium.naver.com/imgold/imim/contents/220626163846691rq</guid>
-            <pubDate>Fri, 01 Jul 2022 15:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 황금 같은 배당금을 받을 때까지 배당주를 매수하는 황금 거북이입니다. 배당주 주식 유튜버 황금 거북이 오늘도 황금 거북이 프리미엄 콘텐츠를 클릭해 주셔서 감사합니다.   황금 거북이 프리미엄 콘텐츠의 혜택은 다음과 같습니다. 구독자 전용 오픈 채팅방 관리 황금 거북이 매수 및 매도 관련 내용 공유 지금은 프리미엄 콘텐츠 첫 운영 중이라 미숙하지만, 앞]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfMjEg/MDAxNjU2MjI4NDMzNjUy.qVRwdIYaIEjVo9X0wwILf_qt4em73r_aH4YblsYzadog.2acuGasS9pFCpGE3NZQhOxMEqx-Y8MSfPAWY6_7-Pm0g.PNG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG?type=nfs220_220" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[🤳Youtube(유튜브)는 어떻게 '더' 짧아지고 있을까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220630165555654eo</link>
-            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220630165555654eo</guid>
-            <pubDate>Fri, 01 Jul 2022 15:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[Alphabet(구글) / Meta(메타) / Snap(스냅) / Twitter(트위터)가 지난 1분기 실적 발표 자리에서 공통적으로 언급한 '요소'가 하나 있어요. 바로 TikTok(틱톡)의 성장 인데요. 기대 이하의 디지털 광고 매출을 발표 하면서, 틱톡 성장에 따른 경쟁 격화를 매출 성장 저하의 주요 원인 중 하나로 언급 한 것이에요. 물론 러시아의 우크라이나 침공 / 인플레이션 등 매크로 영향도 언급 했지만요.]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfMTE3/MDAxNjU2NTc0NzM2MzQ0.Fu17kp4NdHPsqX44wShgV609iz3KwHajLO8KCLnCVpog.Tlt_lMvbox3-ZAdqxiICdLpR73bmzy2aHL_hyhwjXpIg.JPEG/%EC%9C%A0%ED%8A%9C%EB%B8%8C_%EC%8D%B8%EB%84%B9%E3%84%B9.JPG?type=nfs220_220" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[[김선오 에세이]  시작하기 전에 이미 시작되어 있는 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bookcrew/essaycat/contents/220627145231780kc</link>
-            <guid>https://contents.premium.naver.com/bookcrew/essaycat/contents/220627145231780kc</guid>
-            <pubDate>Fri, 01 Jul 2022 15:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[시작하기 전에 이미 시작되어 있는 존재하는 시가 존재하지 않는 시보다 좋을 수 있나. 시를 쓰며 종종 하는 생각이다. 인간으로서의 삶은 세계의 알 수 없는 입자들로 존재하던 시절보다, 또 죽음 이후 육체라는 집합으로부터 탈출하여 다시 이곳저곳으로 흩어지게 될 미래보다 좋을까. 좋음의 정도를 가늠하는 일이 몸이 있는 자로서의 편협한 발상일지라도, 자아와 타자가 뒤]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjdfMTYy/MDAxNjU2MzA4OTU3MzQ5.q9dLh8L3yx4kltVxr0ElZ9Pthc33caX2xzfaKmLwa8Yg.UCzUbwfftazZrSYWtHF1bsGkwwArsPNGdLvTBrdqtaog.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트윗시황] "리플, 활성 주소 수 급증" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/coindesk/nextmoney/contents/220701122523111pe</link>
-            <guid>https://contents.premium.naver.com/coindesk/nextmoney/contents/220701122523111pe</guid>
-            <pubDate>Fri, 01 Jul 2022 15:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[1. 코인 분석가 마툰: 월봉 종가 마감이 얼마 남지 않았습니다. - BTC(비트코인)는 2017년 전고점이었던 2만달러(약 2586만원)를 유지하지 못했습니다. - ETH(이더리움)는 이전 지지 영역이었던 1130달러(약 146만원)를 유지하지 못하고 있습니다. 🤷‍♀️월봉 종가 마감시간은? 오전 9시입니다. 2. 온체인 분석가 온체인 칼리지: 숏(매도) 포지션에 설정된 비트코인 1400만달러(약 181억원)어]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfMzYg/MDAxNjU2NjQxMzUyNjE5.dQMwV7WTARXzsALqK6tIT9jTh7P0iB3YOdrjInzGLHcg.AYPdpzSbA8kMm8N39wKj-5FTtk3Bny9sgI4eYNw76BYg.PNG/%ED%8A%B8%EC%9C%97%EC%8B%9C%ED%99%A9.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[불황엔 먼저 비상금을 챙기세요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/economy/economywave/contents/220701160759677yt</link>
-            <guid>https://contents.premium.naver.com/economy/economywave/contents/220701160759677yt</guid>
-            <pubDate>Fri, 01 Jul 2022 15:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[경제전파사 독자 여러분, 즐거운 금요일이네요. 오늘은 높은 물가에 제품 가격을 두고 씨름하는 기업들 이야기, 그리고 불황에 대비하기 위한 체크리스트를 담아왔어요. 고물가에 고민 많으신 분들께 좋은 인사이트를 드렸으면 좋겠습니다. 오늘 늦어서 죄송해요. TT_TT  -"하인즈 케첩 너무 비싸, OUT" -불황엔 먼저 비상금을 챙기세요 경제전파사, 뜻밖의 근황 01 "하인즈 케첩 너무]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfMjEg/MDAxNjU2NjU5MjU3MzI3.IbU1FRKFJwVFUN3IhrcR9uBuexOV4RiuMMOrZwjEsBAg.-kfXjXHq4VooXkq-Xv4oKBq74U_c5tq6eGpUs4VAHl4g.JPEG/konstantin-evdokimov-TAyKlj_PZxk-unsplash.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[추상화도 울고 갈 추상 평론 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220406114110888hk</link>
             <guid>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220406114110888hk</guid>
@@ -800,6 +762,46 @@
             <pubDate>Fri, 01 Jul 2022 15:28:14 GMT</pubDate>
             <content:encoded><![CDATA[재테크에서 버는 것도 중요하지만 절세도 중요한 부분이라고 생각합니다. 조금이라도 더 절세하기 위해 많은 분들이 찾아보시는 상품이 ISA계좌인데요. ISA의 개념과 참고할만한 항목에 대해 작성하였습니다. 국내, 해외주식 계좌개설 수수료 혜택 이벤트 모음과 같이 매월 ISA 계좌개설 이벤트를 정리해드릴 예정이오니 참고해주시기를 바랍니다:)  ISA는 개인종합자산관리계좌의]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTBfMTgw/MDAxNjU0ODQyNzk5OTAz.GlGoxVojSMoQGgNnCactCCXiqVWyf-U9WdzPLUJcauQg.TMqRRNSHjlV5DkvK6DY5T33y60X7CfzwRlI2KsgSB8wg.JPEG/images_(4).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울에서도 열리는 런던 '스타트 페어'와 '프리즈' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220623020027032ab</link>
+            <guid>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220623020027032ab</guid>
+            <pubDate>Sat, 02 Jul 2022 15:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[‘스타트 아트페어 서울 2022’는 8월31일 VIP 사전 관람 후 9월1~6일 서울 성수동 갤러리아 포레 더서울라이티움 1관과 3관에서 열릴 예정이다. 브랜들러 갤러리Brandler Galleries를 비롯한 국내외 갤러리 60곳이 참가하는 이 행사에는 영국에서 활발히 활동하는 팝아트 작가 하티Harti와 일본 에반게리온 애니메이터인 요네야마 마이Yoneyama Mai, 남아프리카에서 야생 동물을 촬영하는 사진]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfMzQg/MDAxNjU1ODgxOTA5NTc2.oTa08eg5IgI9Tqpjiob4XBEfQYdcZzOtwBTHW6RFn9gg.80gHAarC1f-fmZ1rDWfwNmA3_2mIMlXFCwWsmClDsRcg.JPEG/StART_ART_Fair_main_2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경기도 사는 염창희의 대중교통비 공제 예상액은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220621161014578kt</link>
+            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220621161014578kt</guid>
+            <pubDate>Sat, 02 Jul 2022 15:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[대중교통비 소득공제 하반기분 공제율 40→80%로 확대 계속되는 고물가에 정부가 대중교통비 부담을 덜기 위해 대중교통비 신용카드 소득공제율을 높였다. 하반기에 사용한 교통비에 대해 현행 40%에서 80%로 공제율을 두 배 높인다는 방침이다. 경기도에서 서울로 출퇴근하는 직장인의 경우라면 해당 공제를 통해 실제로 얼마나 더 돌려받을 수 있을지 계산해 봤다. 경기도에서]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjFfMTI5/MDAxNjU1Nzk1MjkxNjI2.6_q32bxxuJXsRJTKPwZO6NUaLANzqLXRj8VTmX8haGEg.GIBo_8jsSxE8hTSZ1h35tkvfIJJwI9rffPZhb6eBeqEg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-06-21_%EC%98%A4%EC%A0%84_11.22.41_2.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[변화에 민첩하게 대처하는 법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/findwriting/finewriting/contents/220626135654013ks</link>
+            <guid>https://contents.premium.naver.com/findwriting/finewriting/contents/220626135654013ks</guid>
+            <pubDate>Sat, 02 Jul 2022 15:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[때는 2019년. 당시 홍보 대행사에 다니며 보도자료를 쓰고 지방으로 행사를 다니느라 얼굴이 새까맣게 탔을 무렵이었다. 결혼하고 얼마 되지 않아 책상에 가만히 앉아 똑같이 보도자료를 쓰며 갑자기 든 생각이 있다.  - 계속 이렇게 회사를 다니고, 팀장이 되고 그렇게 하면 행복해질까 행복의 기준에 대해서 재정의 해봐야겠다 생각해볼 무렵. 아주 오래전 써 두었던 다이어리를]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfMjUy/MDAxNjU2MTcwMjk3NDM2.HtqPbC_-GOhM0eD-zItrrLxu-iPN5l1vO11ySocU41gg.ZCb9gn4rsyIqyP9a8x-fwVvy6aQKU3gZeWVD_H4kXN4g.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-06-26_%EC%98%A4%EC%A0%84_12.18.02.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[#간단분석1 : 서울시 아파트시장 흐름과 진단 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/cityrichman/cityrichman1/contents/220626191416406hh</link>
+            <guid>https://contents.premium.naver.com/cityrichman/cityrichman1/contents/220626191416406hh</guid>
+            <pubDate>Sat, 02 Jul 2022 15:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[금리상승에 따른 부정적 효과가 아파트 시장에 유의미한 영향을 주고 있습니다. 이는 한국부동산원이 발표한 6월 3주 주간 아파트가격 동향 보도자료에서도 확인할 수 있습니다. 한국부동산원의 ‘전국주택가격동향조사 : 2022년 6월 3주 주간 아파트가격 동향’ 보도자료에 따르면 전국의 아파트매매가격과 전세가격은 각각 0.03%, 0.02%하락한 것으로 나타났습니다. 뿐만 아니라]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfMjgx/MDAxNjU2MjM4MDc0NzQ2.sIh5q7MT2Nx77Ri2wzcLi7qY8hpWz7NsUenKWwZlyZ8g.PF5z3rJWeuuNUoHtNLwulhD315g5ybMUZnLugfAry3Ag.PNG/%EC%BA%A1%EC%B2%98.PNG?type=nfs220_220" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[내가 이럴려고 태어났나? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/korea/home/contents/220615200328707jo</link>
+            <guid>https://contents.premium.naver.com/korea/home/contents/220615200328707jo</guid>
+            <pubDate>Sat, 02 Jul 2022 15:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[초등학교 개근, 중학교 개근, 고등학교 개근, 대학교 개근 졸업. 칼 대학입학, 칼 입대, 칼 복학, 칼 취업, 칼 결혼, 칼 육아 개개개개칼칼칼칼한 인생. 남들이 보면 너무나 잘사는 것 같이 보이지만 내 마음은 속이 빈 빈 껍데기. 입사 후 1년 정도는 정말 내가 잘 살아왔고 나 자신이 자랑스럽고 부모님도 좋아해 주시니 효도한 것 같고 즐거웠습니다. 하지만 2년차, 3년차 시간이 흐]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MThfMTk0/MDAxNjU1NTE5ODQ2MTgz.gOZ1pcXamoejDRvx4Xd9NQWw9snspb4qibC7upjJU78g.zsUhtZDpzo6lCcyX6P-UvVUMHqy8Cm_8uMqxb_Ncb-og.PNG/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_-_2022-06-18T111036.061.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
