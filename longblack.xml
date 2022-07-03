@@ -4,18 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 14:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 15:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 02 Jul 2022 15:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[K를 돌아보게 만든 지난주 롱블랙의 문장
-
-"압박에 못 이겨 모티프원을 찾는 사람에게, 난 무조건 “쉬라”고 하지 않습니다. 혼란스러울수록 남이 아닌 ‘나’에게 집중하라고 일러요. 비교하고 경쟁하기를 피할 수 없다면, 그 대상을 ‘어제와 오늘의 나’로 좁혀보라고요.<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220630/1656573337298ec438d61476752ca24d12078f0332.png" length="0" type="image/png"/>
+            <title><![CDATA[무신사 : 1등 온라인 패션 플랫폼의 재무제표는 어떻게 다른가]]></title>
+            <link>https://www.longblack.co/note/333</link>
+            <guid>https://www.longblack.co/note/333</guid>
+            <pubDate>Sun, 03 Jul 2022 15:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;나 며칠 전에 강남역 갔다가 깜짝 놀랐잖아. 엄청 큰 매장이 새로 생겼더라. 사람도 바글바글해. 무슨 매장인가 봤더니, 무신사 스탠다드*래. 홍대에 매장 있는 건<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220622/16558718059fb9b97bfd91c10a9e8fa690840a0f1b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

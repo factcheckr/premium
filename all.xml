@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 14:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 15:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,14 +350,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/3346eb17-0b3e-4e29-bafb-d1ec97eea957_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 02 Jul 2022 15:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[K를 돌아보게 만든 지난주 롱블랙의 문장
-
-"압박에 못 이겨 모티프원을 찾는 사람에게, 난 무조건 “쉬라”고 하지 않습니다. 혼란스러울수록 남이 아닌 ‘나’에게 집중하라고 일러요. 비교하고 경쟁하기를 피할 수 없다면, 그 대상을 ‘어제와 오늘의 나’로 좁혀보라고요.<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220630/1656573337298ec438d61476752ca24d12078f0332.png" length="0" type="image/png"/>
+            <title><![CDATA[무신사 : 1등 온라인 패션 플랫폼의 재무제표는 어떻게 다른가 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/333</link>
+            <guid>https://www.longblack.co/note/333</guid>
+            <pubDate>Sun, 03 Jul 2022 15:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;나 며칠 전에 강남역 갔다가 깜짝 놀랐잖아. 엄청 큰 매장이 새로 생겼더라. 사람도 바글바글해. 무슨 매장인가 봤더니, 무신사 스탠다드*래. 홍대에 매장 있는 건<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220622/16558718059fb9b97bfd91c10a9e8fa690840a0f1b.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -648,160 +646,76 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #43에선, 콜롬비아의 첫 좌파 대통령 당선, 엔터테인먼트계에서 확산하고 있는 ESG 경영, 미국 연방대법원의 낙태권 폐지 판결, 그리고 새로운 연애 방식으로 본 우리 사회 갈등의 현실에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/52184</link>
-            <guid>https://www.bookjournalism.com/audio/52184</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[혐오와 생존의 시대, 사랑을 위한 스트리밍]]></content:encoded>
+            <title><![CDATA[골드만삭스의 선택, 경기침체 이겨낼 종목은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220627083010151zg</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220627083010151zg</guid>
+            <pubDate>Sun, 03 Jul 2022 15:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[💬 무슨 일이지? 경기침체에 대한 우려가 심화되는 가운데 골드만삭스가 '폭풍'을 견뎌낼 종목으로 룰루레몬, EQRx, 브링크스 등을 꼽았습니다.  골드만삭스가 가장 먼저 꼽은 것은 프리미엄 스포츠웨어 브랜드 룰루레몬입니다. 룰루레몬 주가는 올해 들어 약 25% 하락했으나 골드만삭스는 룰루레몬에 대해 '매수(Buy)' 의견을 고수하고 있습니다. 공급망 쇼크에도 불구하고 북미 시]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjdfMTMz/MDAxNjU2Mjg2MDI4Mzc4.eBCtFwoDaSjiXnOHnR_nRmpaumszAaMpKzLp8bDSZjwg.7JiUvVTDXdstPu9Mkg2beLQu5jtPdVYRU4HyfjxpGZUg.JPEG/2._%EA%B3%A8%EB%93%9C%EB%A7%8C%EC%82%AD%EC%8A%A4.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[요즘 연애의 조건이 ‘정치 성향’이라는 분석이 제기됐다. 사실과 다르다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52162</link>
-            <guid>https://www.bookjournalism.com/books/52162</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[연애의 조건]]></content:encoded>
+            <title><![CDATA[북아현2구역 북아현3구역,  강북 재개발 대어 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/imjang/vaniimjang/contents/220627110122564vj</link>
+            <guid>https://contents.premium.naver.com/imjang/vaniimjang/contents/220627110122564vj</guid>
+            <pubDate>Sun, 03 Jul 2022 15:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[북아현 뉴타운은  [신촌과 이대 광화문 종로] 도심 접근성이  베스트 오브 베스트인  강북 재개발의 최고 대어 입니다 지금으로부터 무려 17년 전인 2005년  3차 뉴타운 지구로 지정되었던 북아현 뉴타운! 그 중 북아현 1구역은  성공적으로 사업을 마쳤는데요 1-1구역 2020년 힐스테이트신촌 1-2구역 2015년 신촌푸르지오 1-3구역 2018년 e편한세상신촌 모두 입주 완료! 시세 뿜뿜!! 아직도]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfNTIg/MDAxNjU2MjQwNjMxNDEz.XXzSdsYGEGbmsn4PQdOEzOXqOADZ79JqPHiOw1q6j5kg.NGlwY5mwduvOFbtsaftW5iXJKzxWx467-xrCKdtBQmwg.JPEG/SE-0182cb47-16bb-4a14-a884-2ad52bd6728f.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔터계의 ESG 경영이 화제다. 음반 마케팅으로 매출을 올리는 음악 산업의 구조는 변할 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52111</link>
-            <guid>https://www.bookjournalism.com/books/52111</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[앨범의 홍수]]></content:encoded>
+            <title><![CDATA[애플, 노조 설립 수용 ‘가닥’ (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220627083456893gs</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220627083456893gs</guid>
+            <pubDate>Sun, 03 Jul 2022 15:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[무슨 일이지? 24일(현지시간) 로이터 통신에 따르면 애플은 지난주 메릴랜드주 매장(애플스토어) 직원들이 진행한 노동조합 설립 투표 결과를 받아들이기로 결정했습니다. 회사 설립 46년만에 사내 첫 노조가 공식적으로 탄생하게 된 셈입니다. 그동안 애플은 노조 설립에 부정적인 입장을 취해왔습니다. 노조 결성 저지를 위해 근로자들에게 인센티브와 같은 회유책을 제시하며]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjdfMjkw/MDAxNjU2Mjg2MzMyMDA5.rT7Gsqe_qtMHhxKBjOcwOD90YJlkgaFwzcfBmGRJ0jIg.tQbKPKdIoP8GIb1yxJxRFKKP7U9QVsVYyk2ibZNmwJIg.JPEG/1._%EC%95%A0%ED%94%8C_(%EC%B6%9C%EC%B2%98_=_%EC%95%A0%ED%94%8C_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80)_(2).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50374</link>
-            <guid>https://www.bookjournalism.com/books/50374</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <title><![CDATA[Q. 다음 4개 단지 중 어디가 제일 낫나요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/booding/home/contents/220606205842298vc</link>
+            <guid>https://contents.premium.naver.com/booding/home/contents/220606205842298vc</guid>
+            <pubDate>Sun, 03 Jul 2022 15:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[Q. 다음 4개 단지 중 어디가 제일 낫나요? 1. 가족구성원: 33세 남성, 31세 여성(예비 맞벌이 신혼부부_2022년 결혼 예정)  2. 현 거주지: 경기도 수원시 망포동(예비 신랑_부모님과 거주), 서울시 관악구(예비 신부_1인가구_전세)  3. 총자본 / 대출: 3억5000만 원(현금 2억 원+주식 1억 원+적금과 전세보증금 여분 5000만 원) 대출 없음  4. 월수입: 630만 원(두 사람 합계)  5. 허용 가능한 월 원리]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MjlfMjIx/MDAxNjIyMjc2MzA3ODQy.yvnHGeqkq-RhTNHFJ5RdMBsq7rebRZp93kLUQQqR2PAg.bACHFGcyTNFKTgT4jpfHu6wK5KxoIFM-yVKWIFKCh5og.JPEG/KakaoTalk_20210529_170740114.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인터넷의 역사를 이야기할 때 구글이나 페이스북, 아마존을 빼놓을 수는 없다. 그러나 인터넷을 가장 먼저 정복한 기업은 이베이였다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52103</link>
-            <guid>https://www.bookjournalism.com/books/52103</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[이베이, 돈 되는 인터넷의 창세기]]></content:encoded>
+            <title><![CDATA[어차피 티큐(TQQQ)는 수익이다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/imgold/imim/contents/220627163603033kw</link>
+            <guid>https://contents.premium.naver.com/imgold/imim/contents/220627163603033kw</guid>
+            <pubDate>Sun, 03 Jul 2022 15:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 황금 같은 배당금을 받을 때까지 배당주를 매수하는 황금 거북이입니다. 배당주 주식 유튜버 황금 거북이 오늘도 황금 거북이 프리미엄 콘텐츠를 클릭해 주셔서 감사합니다.   황금 거북이 프리미엄 콘텐츠의 혜택은 다음과 같습니다. 구독자 전용 오픈 채팅방 관리 황금 거북이 매수 및 매도 관련 내용 공유 지금은 프리미엄 콘텐츠 첫 운영 중이라 미숙하지만, 앞]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjdfMTkg/MDAxNjU2MzE0NjI0NjE0.0dXwbtlcNbb5qLtuaWRbBNGmv58yoTWDMb3hR3rChOcg.YBAyHqd0BHoO4cr5krVNFTZUt3wuL36EDcRoMNdgY84g.PNG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG?type=nfs220_220" length="0" type="image/PNG"/>
         </item>
         <item>
-            <title><![CDATA[경력직 채용 플랫폼이 커진다. 이 성장은 무엇을 의미할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52085</link>
-            <guid>https://www.bookjournalism.com/books/52085</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[안전한 직원 찾기 프로젝트]]></content:encoded>
+            <title><![CDATA[강남 아파트, 개포 디에이치 아너힐즈 끝짱 커뮤니티 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/imjang/vaniimjang/contents/220627114704279bg</link>
+            <guid>https://contents.premium.naver.com/imjang/vaniimjang/contents/220627114704279bg</guid>
+            <pubDate>Sun, 03 Jul 2022 15:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방구석에서 임장할 곳은 바로 강남 초신축 아파트 개포의 전성기를 이끈  개포 디에이치 아너힐즈!!! 안녕하세요~ '핵존예' 강아지 바니의 이모, 바니이모입니다  (주모 아님 주의!) 5년 만에 무려 20억이 상승한  강남 초신축 디에이치 아너힐즈  여러분의 자산은 5년간 20억원 어치의 일을 했나요?  타임머신을 타고 5년전으로 돌아간다면  이 아파트 투자하실 건가요? 국평 호]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjRfMjQw/MDAxNjU2MDI5Mzc2MDQx.-FmI6MK9W6hlcFIOiyjFrI9Rvh-QCDp-686jUmAMihUg.KdlUKvCTTv6wGlkcmGTWrnChR78YKa2Jdw3IKlEB0gAg.JPEG/SE-18128c5d-1ea9-4599-8469-f8924c683aa6.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로 대 웨이드 판결이 뒤집혔다. 미국이 내세웠던 가치도 낙태 접근성과 함께 사라지고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52070</link>
-            <guid>https://www.bookjournalism.com/books/52070</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[미국은 깨졌다]]></content:encoded>
+            <title><![CDATA[美 대법원, '집밖 총기 휴대' 제한한 뉴욕주法 위헌 판결 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220628065012929ds</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220628065012929ds</guid>
+            <pubDate>Sun, 03 Jul 2022 15:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[Supreme Court Rules New York’s Concealed Carry Gun Law Is Unconstitutional, Recognizes Right to Carry in Public 美 대법원, '집밖 총기 휴대' 제한한 뉴욕주法 위헌 판결 The Supreme Court voted 6–3 on June 23 to strike down New York state’s draconian concealed carry gun permitting system on constitutional grounds, recognizing for the first time a constitutional right to carry firearms in public for self-defense. The ruling is a sweeping victory for Second Amendment gun own]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjhfMTQ4/MDAxNjU2MzY1ODU5Nzkw.gzbk0iUjXHveZopR8fuP5jtBWUVExjbLwZdnDPoRWyEg.QrB5anp4octO01D8cUuYeZzHs6HopWKR-_Z-5FnSff8g.JPEG/justice-clarence-thomas-700x420.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 신간《당신이 몰랐던 MBTI》의 저자인 한국MBTI연구소 김재형 연구부장과 MBTI의 진짜 정체에 관해 이야기 나눕니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/52026</link>
-            <guid>https://www.bookjournalism.com/audio/52026</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜 북토크 ; 당신이 몰랐던 MBTI]]></content:encoded>
+            <title><![CDATA[[남수우 에세이]  사람의 형상, 순간의 영원 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bookcrew/essaycat/contents/220627151915887gs</link>
+            <guid>https://contents.premium.naver.com/bookcrew/essaycat/contents/220627151915887gs</guid>
+            <pubDate>Sun, 03 Jul 2022 15:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[사람의 형상, 순간의 영원 사진기를 들고 다니기 시작했다. 십 년도 더 된 일이다. 처음은 수동 필름카메라였다. Pentax me super. 당시 카페 알바생이었던 내가 코 묻은 돈으로 꼭 사고 싶다고 생각한 카메라였다. 2G폰으로 부지런히 사진을 찍고 다니면서도 막연히 언젠가는 근사한 카메라와 함께 긴 여행을 떠나길 소망하던 때였다. 그러다 우연히 서점에서 『윤미네집』(전몽각, 포]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjdfMjU4/MDAxNjU2MzEwNjkxMDEw.pZqPy9ipLYLkV_RnzURPgR6i1kwMFm1_eYqejp_hN6gg.xtJr0cL8Dic42hVzsKCWTfAcgVxfjNqGpFoWQVSBStQg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[콜롬비아에서 첫 좌파 대통령이 탄생했다. 민생은 좌우가 아닌 ‘변화’를 외치고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52013</link>
-            <guid>https://www.bookjournalism.com/books/52013</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[민생은 좌우를 떠났다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #42에선, 정부가 내놓은 부동산 대책의 진심, 바디 프로필 뒤에 숨겨진 불법 약물의 실태, 스마트워치가 주도할 제2의 스마트혁명, 그리고 보건복지부의 배달 앱 ‘덜 짜게’ 계획에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51801</link>
-            <guid>https://www.bookjournalism.com/audio/51801</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[자영업자의 눈물은 짜고 스마트워치는 미래의 알람을 울린다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새 정부의 첫 번째 부동산 대책이 나왔다. 집값을 잡겠다는 얘기가 아니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51977</link>
-            <guid>https://www.bookjournalism.com/books/51977</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[나의 집은 어디인가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보건복지부의 배달 앱 ‘덜 짜게’ 계획이 비판 받는다. 짜고 단 음식은 누가 책임질 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51952</link>
-            <guid>https://www.bookjournalism.com/books/51952</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[장관님은 나트륨이 싫다고 하셨어]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[추상화도 울고 갈 추상 평론 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220406114110888hk</link>
-            <guid>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220406114110888hk</guid>
-            <pubDate>Fri, 01 Jul 2022 15:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[우리글 미시사(16) 1980년대 초 조선일보사에 다니던 때 일. 어느 비 오는 날 출근길에 사옥에서 멀지 않은 수입 책 가게 앞을 지나는데, 내가 디딘 보도블럭 모서리가 삐끗했다. 찍! 하더니 흙탕물이 내 얼굴을 덮쳤다. 평생 만화에서만 보던 “아이쿠!” 소리가 절로 나왔다. 블록 아래 모래가 꺼진 곳에 고여 있던 빗물이었다. 그날 오후 사내에 배포된 익일자 첫판을 보자 푸풋!]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjRfMTQ1/MDAxNjU2MDQwMTAyMzgy.ZpByhQ1nFfavelXxk_ql6wAXPuX-WdPcuJ5tVGqduoog.Z9ZNvYOOkzyRaABle4Q7NjE5Qoq6G7ItTXOKrbQG4c0g.JPEG/Screenshot_20220624-120717_Instagram.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커뮤니티 비즈니스를 쉽게 여는 방법? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/byline/commercebn/contents/220602172602396va</link>
-            <guid>https://contents.premium.naver.com/byline/commercebn/contents/220602172602396va</guid>
-            <pubDate>Fri, 01 Jul 2022 15:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 패션 플랫폼 ‘무신사’ 숙박 플랫폼에서 글로벌 소프트웨어 기업으로 커가는 ‘야놀자’ 판교 주부들의 중고장터에서 국내 최대 중고거래 플랫폼이 된 ‘당근마켓’ 국내 최대 가구 유통업체인 한샘의 시가총액을 넘는 가치평가를 받고 있는 유니콘 ‘오늘의집’ 한국의 혁신 경제를 이끌고 있는 위 스타트업들에는 한가지 공통점이 있다. 바로 ‘커뮤니티’에서]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDJfMTIz/MDAxNjU0MTU4MTgzODg2.m9xadr0l1wIOt0gEGmTYR3MTY-r5YTIZ5ox6R55JesMg.R9FO1VZo9RMyORzTQVtA41-6Km7dY2x1M1KuqIjz8Cgg.JPEG/admin-ajax.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴근 후 부업하기 - 디지털 노마드 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/korea/home/contents/220626032010717yz</link>
-            <guid>https://contents.premium.naver.com/korea/home/contents/220626032010717yz</guid>
-            <pubDate>Fri, 01 Jul 2022 15:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 노마드 출처 : 디지털 노마드 (나무위키) 디지털 노마드는 시간, 장소 구애 받지 않고 노트북만 있으면 수익활동을 할 수 있는 사람을 의미합니다. 줄여서 디노라고 합니다. 디노는 부업으로 할 수 있고 전업으로 하시는 분 도 계십니다. 보통 부업으로 시작했다가 본업으로 가능 케이스가 많습니다. 퇴사공부 시리즈에는 디지털노마드가 되기 위한 디노 콘텐츠를 제공할]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfNDAg/MDAxNjU2MTgxMDE1NTYz.8yK1ZaZyoFz1kyZJZzPmJx_-lcid8eqhsu_QaHhiaWEg.IxOV_v29qGS4u2CuKtzogt_-1InwvAreZ8LD1cdjTzIg.PNG/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94__%EB%B3%B5%EC%82%AC%EB%B3%B8_(2)-001_(16).png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ISA계좌에 대해 알아보기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/padakkr/padak/contents/220610153451041yo</link>
-            <guid>https://contents.premium.naver.com/padakkr/padak/contents/220610153451041yo</guid>
-            <pubDate>Fri, 01 Jul 2022 15:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[재테크에서 버는 것도 중요하지만 절세도 중요한 부분이라고 생각합니다. 조금이라도 더 절세하기 위해 많은 분들이 찾아보시는 상품이 ISA계좌인데요. ISA의 개념과 참고할만한 항목에 대해 작성하였습니다. 국내, 해외주식 계좌개설 수수료 혜택 이벤트 모음과 같이 매월 ISA 계좌개설 이벤트를 정리해드릴 예정이오니 참고해주시기를 바랍니다:)  ISA는 개인종합자산관리계좌의]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTBfMTgw/MDAxNjU0ODQyNzk5OTAz.GlGoxVojSMoQGgNnCactCCXiqVWyf-U9WdzPLUJcauQg.TMqRRNSHjlV5DkvK6DY5T33y60X7CfzwRlI2KsgSB8wg.JPEG/images_(4).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울에서도 열리는 런던 '스타트 페어'와 '프리즈' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220623020027032ab</link>
-            <guid>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220623020027032ab</guid>
-            <pubDate>Sat, 02 Jul 2022 15:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[‘스타트 아트페어 서울 2022’는 8월31일 VIP 사전 관람 후 9월1~6일 서울 성수동 갤러리아 포레 더서울라이티움 1관과 3관에서 열릴 예정이다. 브랜들러 갤러리Brandler Galleries를 비롯한 국내외 갤러리 60곳이 참가하는 이 행사에는 영국에서 활발히 활동하는 팝아트 작가 하티Harti와 일본 에반게리온 애니메이터인 요네야마 마이Yoneyama Mai, 남아프리카에서 야생 동물을 촬영하는 사진]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfMzQg/MDAxNjU1ODgxOTA5NTc2.oTa08eg5IgI9Tqpjiob4XBEfQYdcZzOtwBTHW6RFn9gg.80gHAarC1f-fmZ1rDWfwNmA3_2mIMlXFCwWsmClDsRcg.JPEG/StART_ART_Fair_main_2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기도 사는 염창희의 대중교통비 공제 예상액은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220621161014578kt</link>
-            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220621161014578kt</guid>
-            <pubDate>Sat, 02 Jul 2022 15:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[대중교통비 소득공제 하반기분 공제율 40→80%로 확대 계속되는 고물가에 정부가 대중교통비 부담을 덜기 위해 대중교통비 신용카드 소득공제율을 높였다. 하반기에 사용한 교통비에 대해 현행 40%에서 80%로 공제율을 두 배 높인다는 방침이다. 경기도에서 서울로 출퇴근하는 직장인의 경우라면 해당 공제를 통해 실제로 얼마나 더 돌려받을 수 있을지 계산해 봤다. 경기도에서]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjFfMTI5/MDAxNjU1Nzk1MjkxNjI2.6_q32bxxuJXsRJTKPwZO6NUaLANzqLXRj8VTmX8haGEg.GIBo_8jsSxE8hTSZ1h35tkvfIJJwI9rffPZhb6eBeqEg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-06-21_%EC%98%A4%EC%A0%84_11.22.41_2.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[변화에 민첩하게 대처하는 법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/findwriting/finewriting/contents/220626135654013ks</link>
-            <guid>https://contents.premium.naver.com/findwriting/finewriting/contents/220626135654013ks</guid>
-            <pubDate>Sat, 02 Jul 2022 15:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[때는 2019년. 당시 홍보 대행사에 다니며 보도자료를 쓰고 지방으로 행사를 다니느라 얼굴이 새까맣게 탔을 무렵이었다. 결혼하고 얼마 되지 않아 책상에 가만히 앉아 똑같이 보도자료를 쓰며 갑자기 든 생각이 있다.  - 계속 이렇게 회사를 다니고, 팀장이 되고 그렇게 하면 행복해질까 행복의 기준에 대해서 재정의 해봐야겠다 생각해볼 무렵. 아주 오래전 써 두었던 다이어리를]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfMjUy/MDAxNjU2MTcwMjk3NDM2.HtqPbC_-GOhM0eD-zItrrLxu-iPN5l1vO11ySocU41gg.ZCb9gn4rsyIqyP9a8x-fwVvy6aQKU3gZeWVD_H4kXN4g.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-06-26_%EC%98%A4%EC%A0%84_12.18.02.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[#간단분석1 : 서울시 아파트시장 흐름과 진단 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/cityrichman/cityrichman1/contents/220626191416406hh</link>
-            <guid>https://contents.premium.naver.com/cityrichman/cityrichman1/contents/220626191416406hh</guid>
-            <pubDate>Sat, 02 Jul 2022 15:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[금리상승에 따른 부정적 효과가 아파트 시장에 유의미한 영향을 주고 있습니다. 이는 한국부동산원이 발표한 6월 3주 주간 아파트가격 동향 보도자료에서도 확인할 수 있습니다. 한국부동산원의 ‘전국주택가격동향조사 : 2022년 6월 3주 주간 아파트가격 동향’ 보도자료에 따르면 전국의 아파트매매가격과 전세가격은 각각 0.03%, 0.02%하락한 것으로 나타났습니다. 뿐만 아니라]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfMjgx/MDAxNjU2MjM4MDc0NzQ2.sIh5q7MT2Nx77Ri2wzcLi7qY8hpWz7NsUenKWwZlyZ8g.PF5z3rJWeuuNUoHtNLwulhD315g5ybMUZnLugfAry3Ag.PNG/%EC%BA%A1%EC%B2%98.PNG?type=nfs220_220" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 이럴려고 태어났나? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/korea/home/contents/220615200328707jo</link>
-            <guid>https://contents.premium.naver.com/korea/home/contents/220615200328707jo</guid>
-            <pubDate>Sun, 03 Jul 2022 14:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[초등학교 개근, 중학교 개근, 고등학교 개근, 대학교 개근 졸업. 칼 대학입학, 칼 입대, 칼 복학, 칼 취업, 칼 결혼, 칼 육아 개개개개칼칼칼칼한 인생. 남들이 보면 너무나 잘사는 것 같이 보이지만 내 마음은 속이 빈 빈 껍데기. 입사 후 1년 정도는 정말 내가 잘 살아왔고 나 자신이 자랑스럽고 부모님도 좋아해 주시니 효도한 것 같고 즐거웠습니다. 하지만 2년차, 3년차 시간이 흐]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MThfMTk0/MDAxNjU1NTE5ODQ2MTgz.gOZ1pcXamoejDRvx4Xd9NQWw9snspb4qibC7upjJU78g.zsUhtZDpzo6lCcyX6P-UvVUMHqy8Cm_8uMqxb_Ncb-og.PNG/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_-_2022-06-18T111036.061.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[NCS 대비전략 - NCS직업기초능력평가 예시문항 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220628161321574bz</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220628161321574bz</guid>
+            <pubDate>Sun, 03 Jul 2022 15:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[이번 12회차에서는 지금까지 다루었던 PSAT형 문항이 아닌 모듈형 직업기초능력평가 문항에 대해 다룬다. 모듈형 문항은 NCS공식 사이트에서 제공하는 직업기초능력평가 교안을 공부해서 답을 찾아내는 지식검사 형태로 출제된다. 앞서 다루었던 7개 영역은 모듈형 보다는 PSAT형으로 출제되는 경우가 많으며 본편에서 다루는 대인관계, 자기개발, 직업윤리 등 3개 영역은 측정요소]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjhfMTgw/MDAxNjU2NDAwMjc2MzYw.Gaa7p51xb-ZELciB3chTpgKOvJuwzF8UmI_WeclMImEg.VzLDFRsy6_qqNkjUVP4_MIkGL36wCaGZy2PW07SJewgg.JPEG/GettyImages-1272616642.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
