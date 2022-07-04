@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-07-04T14:22:24.750Z</updated>
+    <updated>2022-07-04T15:26:32.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[구매력 있는 노년층, A세대가 주목받는다. MZ세대에 이어 유의미한 시장 변화를 이끌 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/52244</id>
+        <link href="https://www.bookjournalism.com/books/52244"/>
+        <updated>2022-07-04T15:26:21.247Z</updated>
+        <content type="html"><![CDATA[A세대가 온다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C테크가 기후 위기의 희망이 되고 있다. 그러나 관건은 우리 자신이다.]]></title>
         <id>https://www.bookjournalism.com/books/52210</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/51801"/>
         <updated>2022-07-04T14:22:14.944Z</updated>
         <content type="html"><![CDATA[자영업자의 눈물은 짜고 스마트워치는 미래의 알람을 울린다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새 정부의 첫 번째 부동산 대책이 나왔다. 집값을 잡겠다는 얘기가 아니다.]]></title>
-        <id>https://www.bookjournalism.com/books/51977</id>
-        <link href="https://www.bookjournalism.com/books/51977"/>
-        <updated>2022-07-04T14:22:14.946Z</updated>
-        <content type="html"><![CDATA[나의 집은 어디인가]]></content>
     </entry>
 </feed>
