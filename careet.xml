@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 23:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 02:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 뜨는 공간의 비밀! Z세대 인증샷을 부르는 오프라인 마케팅 필수템 6]]></title>
+            <link>https://www.careet.net/796</link>
+            <guid>https://www.careet.net/796</guid>
+            <pubDate>Mon, 04 Jul 2022 02:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 뜨는 핫플에선 ‘화면 속 화면’ 인증샷을 찍을 수 있다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/c7106bac-b421-40c3-9e00-9ae3ea0f8826_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가상 인간이 등장하는 광고, Z세대 75%는‘이렇게’ 생각합니다]]></title>
             <link>https://www.careet.net/807</link>
