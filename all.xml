@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 05:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 06:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하룻밤 만에 완성하는 프로모션 결과보고서 작성법 (퍼블리)]]></title>
+            <title><![CDATA[하룻밤 만에 완성하는 프로모션 결과보고서 작성법(템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/6876?fr=category</link>
             <guid>https://publy.co/content/6876?fr=category</guid>
             <pubDate>Tue, 28 Jun 2022 08:33:01 GMT</pubDate>
