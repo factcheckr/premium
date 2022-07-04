@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-07-04T08:32:33.032Z</updated>
+    <updated>2022-07-04T09:35:48.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[일 잘하는 리더에겐 '이것'이 있다 - 민음사 조아란 편]]></title>
+        <id>https://publy.co/content/6859?fr=category</id>
+        <link href="https://publy.co/content/6859?fr=category"/>
+        <updated>2022-07-04T09:34:31.449Z</updated>
+        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이터 분석가& 마케터가 반드시 알아야 할 어트리뷰션 이야기]]></title>
         <id>https://publy.co/content/6881?fr=category</id>
@@ -66,13 +73,6 @@
         <id>https://publy.co/content/6825?fr=category</id>
         <link href="https://publy.co/content/6825?fr=category"/>
         <updated>2022-06-23T08:31:53.986Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상품을 잘 찾게 만드는 필터 UX, 정리해드림]]></title>
-        <id>https://publy.co/content/6858?fr=category</id>
-        <link href="https://publy.co/content/6858?fr=category"/>
-        <updated>2022-06-22T08:33:18.716Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
