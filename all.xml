@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 23:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 02:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6825?fr=category</guid>
             <pubDate>Thu, 23 Jun 2022 08:31:53 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[포토부스는 너무 흔하다고요? 그럼 영수증 굿즈는 어떠세요! (캐릿)]]></title>
+            <link>https://www.careet.net/809</link>
+            <guid>https://www.careet.net/809</guid>
+            <pubDate>Tue, 05 Jul 2022 02:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[영수증 활용 레퍼런스와 영수증 재질 및 디자인을 활용한 굿즈 예시를 모았습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/b74dcaa9-0843-485c-908a-cc3b75a03e15_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[요즘 뜨는 공간의 비밀! Z세대 인증샷을 부르는 오프라인 마케팅 필수템 6 (캐릿)]]></title>
