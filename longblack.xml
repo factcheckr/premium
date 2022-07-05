@@ -4,7 +4,7 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 20:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 21:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.longblack.co/note/346</link>
             <guid>https://www.longblack.co/note/346</guid>
             <pubDate>Tue, 05 Jul 2022 15:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;지난 주말 쇼핑하러 한남동에 갔어요. 편집숍 비이커에 들어갔거든요? 시선을 확 끄는 신발이 있었어요. 푸른색에 팥죽색이 섞였고 에나멜 소재처럼 번쩍이더라고요. ‘<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;지난 주말, 쇼핑하러 한남동 편집숍 비이커에 갔거든요? 시선을 확 끄는 신발이 있었어요. 푸른색에 팥죽색이 섞였고 에나멜 소재처럼 번쩍이더라고요. ‘대체 이런 신<span class="circle-punctuation"></span>]]></content:encoded>
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220701/16566395534a08a9dc3424a8c35b2ad0a968e3add5.png" length="0" type="image/png"/>
         </item>
     </channel>
