@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 08:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 09:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(웹소설) 팀장의 파워 게임 : 플레이어 [ep.Final] (퍼블리)]]></title>
+            <link>https://publy.co/content/6880?fr=category</link>
+            <guid>https://publy.co/content/6880?fr=category</guid>
+            <pubDate>Wed, 06 Jul 2022 09:25:23 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 16분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[채널톡 세일즈 리드가 알려주는 B2B 세일즈 리드 확보 노하우 (퍼블리)]]></title>
             <link>https://publy.co/content/6866?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6855?fr=category</guid>
             <pubDate>Fri, 24 Jun 2022 10:27:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[변화하는 퍼포먼스 마케팅 시장에서 살아남기 (퍼블리)]]></title>
-            <link>https://publy.co/content/6846?fr=category</link>
-            <guid>https://publy.co/content/6846?fr=category</guid>
-            <pubDate>Fri, 24 Jun 2022 10:27:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[당장 써먹는 유행어] 그러나! 벗! 하우에버! 네버더레스! (캐릿)]]></title>
