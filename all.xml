@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 09:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 10:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데이터 분석가& 마케터가 반드시 알아야 할 어트리뷰션 이야기 (퍼블리)]]></title>
+            <title><![CDATA[GA에서 뭔가 놓치고 있는 거 같다면? 데이터 분석가& 마케터가 반드시 알아야 할 어트리뷰션 이야기 (퍼블리)]]></title>
             <link>https://publy.co/content/6881?fr=category</link>
             <guid>https://publy.co/content/6881?fr=category</guid>
             <pubDate>Fri, 01 Jul 2022 08:31:01 GMT</pubDate>
@@ -678,6 +678,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[진화론을 의심해 봐야 한다는 주장이 나오고 있다. 종교에 관한 이야기가 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52475</link>
+            <guid>https://www.bookjournalism.com/books/52475</guid>
+            <pubDate>Wed, 06 Jul 2022 10:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[우리에겐 새로운 진화론이 필요하다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[새로운 제도가 묻는다, 코인 투자는 도박인지 아닌지. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/52282</link>
             <guid>https://www.bookjournalism.com/books/52282</guid>
@@ -753,13 +760,6 @@
             <guid>https://www.bookjournalism.com/audio/52026</guid>
             <pubDate>Wed, 06 Jul 2022 07:23:37 GMT</pubDate>
             <content:encoded><![CDATA[스페셜 북토크 ; 당신이 몰랐던 MBTI]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콜롬비아에서 첫 좌파 대통령이 탄생했다. 민생은 좌우가 아닌 ‘변화’를 외치고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52013</link>
-            <guid>https://www.bookjournalism.com/books/52013</guid>
-            <pubDate>Wed, 06 Jul 2022 07:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[민생은 좌우를 떠났다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
