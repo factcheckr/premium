@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 23:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 02:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
             <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하룻밤 만에 완성하는 프로모션 결과보고서 작성법(템플릿 제공) (퍼블리)]]></title>
+            <title><![CDATA[하룻밤 만에 완성하는 프로젝트 결과보고서 작성법(템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/6876?fr=category</link>
             <guid>https://publy.co/content/6876?fr=category</guid>
             <pubDate>Tue, 28 Jun 2022 08:33:01 GMT</pubDate>
@@ -76,6 +76,22 @@
             <guid>https://publy.co/content/6846?fr=category</guid>
             <pubDate>Fri, 24 Jun 2022 10:27:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써먹는 유행어] 그러나! 벗! 하우에버! 네버더레스! (캐릿)]]></title>
+            <link>https://www.careet.net/811</link>
+            <guid>https://www.careet.net/811</guid>
+            <pubDate>Wed, 06 Jul 2022 02:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 Z세대가 SNS에 매일 쓴다는 유행어!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/8dc3ac6a-726d-4ddc-acc3-e52c0bce218b_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 마케팅 필승 코드 ‘게임화’, 우리 브랜드에 활용하는 법 (캐릿)]]></title>
+            <link>https://www.careet.net/810</link>
+            <guid>https://www.careet.net/810</guid>
+            <pubDate>Wed, 06 Jul 2022 02:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[경품이 아니라 재미를 무기 삼아 Z세대 참여 유도한 사례 모음]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/c3b037c9-7846-4691-b50a-301b5ed4e3f3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[포토부스는 너무 흔하다고요? 그럼 영수증 굿즈는 어떠세요! (캐릿)]]></title>

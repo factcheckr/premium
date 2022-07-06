@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-07-05T23:25:42.635Z</updated>
+    <updated>2022-07-06T02:29:41.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
@@ -48,7 +48,7 @@
         <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하룻밤 만에 완성하는 프로모션 결과보고서 작성법(템플릿 제공)]]></title>
+        <title type="html"><![CDATA[하룻밤 만에 완성하는 프로젝트 결과보고서 작성법(템플릿 제공)]]></title>
         <id>https://publy.co/content/6876?fr=category</id>
         <link href="https://publy.co/content/6876?fr=category"/>
         <updated>2022-06-28T08:33:01.770Z</updated>
