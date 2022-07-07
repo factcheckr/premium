@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 06:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 07:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한강에서 과외를 받는다고? 팬데믹 이후 달라진 Z세대 한강 이용법]]></title>
+            <link>https://www.careet.net/812</link>
+            <guid>https://www.careet.net/812</guid>
+            <pubDate>Thu, 07 Jul 2022 07:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 Z세대가 한강에서 무얼 하고 노는지 궁금하시다면?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/5f11396b-6b6a-46f6-ace7-38fad81531d8_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[당장 써먹는 유행어] 그러나! 벗! 하우에버! 네버더레스!]]></title>
             <link>https://www.careet.net/811</link>
