@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 12:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 13:57:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -770,14 +770,6 @@
             <content:encoded><![CDATA[미국은 깨졌다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Wed, 06 Jul 2022 16:38:17 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[꼭 한 번 가보고 싶은 여행지의 재난들 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/science2005/science/contents/220623121436118hl</link>
             <guid>https://contents.premium.naver.com/science2005/science/contents/220623121436118hl</guid>
@@ -786,12 +778,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjNfMTAx/MDAxNjU1OTk0Nzc2MTQ0.h5cAkkY0CvlrFZJYeEtjTaTHfIKZXRNWKdB1Sx_DWj0g.R0r9wkU-WUSAaNGi3eyqeF7y77hlHb7DLnCl2ySwgJcg.JPEG/ilona-bellotto-o_Ws2vbMlKM-unsplash_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[MS] 이더리움, 알트마켓 추가반등 기준 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/cryptolerance/ctolerance/contents/220608115348458in</link>
-            <guid>https://contents.premium.naver.com/cryptolerance/ctolerance/contents/220608115348458in</guid>
-            <pubDate>Wed, 06 Jul 2022 15:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[[MS] 이더리움, 알트마켓 추가반등 기준 이더리움 TOTAL3 결론 I 이더리움(ETH) 1. 단기저항 1,890-1,915달러선에 저항구간이 형성되어 있습니다. 1.7-1.9k에는 신뢰할만한 support가 부재한 상황이기 때문에 이 저항구간 돌파가 나와주면서 support로 전환될 경우에 추가반등을 볼 수 있습니다. 현재구간에서는 매수관점은 주의가 필요합니다. 2. 상승확장레인지 1,921달러를 돌파한다면, 1,975달]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfODcg/MDAxNjU0NjU0NzMzMTQy.uIF1EcaxuPRlIwlX3mMo7E3-Q7bWURY0A-xTlPZ97ggg.ynqyFZfsl3uHiVC8_Ipup3PcUprfmA5DUmQ3PwhaH3sg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Wed, 06 Jul 2022 16:38:17 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[86번가 2022년 10 서프라이즈 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -802,12 +794,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjRfNDQg/MDAxNjU2MDI2MzA4NDU5.ucqR7BnduFGKbZOqVYhqZT7NS7x7Ndho9oCDpsxEAi8g.t50cshpDOvcgyVTsZglHt4B9OQiNsmUb1CCnNX9fSaAg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["우산 가져오는 걸 깜빡했어"영어로? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/easypizoo/easypizoo1/contents/220629090645398vf</link>
-            <guid>https://contents.premium.naver.com/easypizoo/easypizoo1/contents/220629090645398vf</guid>
+            <title><![CDATA[[MS] 이더리움, 알트마켓 추가반등 기준 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/cryptolerance/ctolerance/contents/220608115348458in</link>
+            <guid>https://contents.premium.naver.com/cryptolerance/ctolerance/contents/220608115348458in</guid>
             <pubDate>Wed, 06 Jul 2022 15:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;긍정의 20일&gt; 13일차입니다! &lt; Mission English 참여 방법&gt; 매일 올라오는 그날의 읽기 미션을 완수하면 됩니다. 미션 완수하면 댓글에 I’m done 또는 Mission complete라고 달아주세요. 제가 응원하겠습니다. 소리 내어 반복해서 읽으면 영어로 말하기에도 익숙해지고 문장도 머릿속에  기억됩니다. 매일 리뷰하면서 계속 다음 문장들 추가해서 읽습니다. 무조건 소리 내서 읽어야 합니다.]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjlfMTEx/MDAxNjU2NDU3OTI3NDkw.auRTrhc2Uwt519rpDKvCAiT3hxKW-njgvOhTTlSMl3cg.IG8Z1cxMfqOIfVr8CLh-JfepBJuY5cIvY9SegdxZOCkg.PNG/P_P_d13-001.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[[MS] 이더리움, 알트마켓 추가반등 기준 이더리움 TOTAL3 결론 I 이더리움(ETH) 1. 단기저항 1,890-1,915달러선에 저항구간이 형성되어 있습니다. 1.7-1.9k에는 신뢰할만한 support가 부재한 상황이기 때문에 이 저항구간 돌파가 나와주면서 support로 전환될 경우에 추가반등을 볼 수 있습니다. 현재구간에서는 매수관점은 주의가 필요합니다. 2. 상승확장레인지 1,921달러를 돌파한다면, 1,975달]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfODcg/MDAxNjU0NjU0NzMzMTQy.uIF1EcaxuPRlIwlX3mMo7E3-Q7bWURY0A-xTlPZ97ggg.ynqyFZfsl3uHiVC8_Ipup3PcUprfmA5DUmQ3PwhaH3sg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한 그릇의 평양냉면을 만나기까지-<누들로드>, <냉면 랩소디>, <한국인의 밥상-백년의 유혹 평양냉면> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -818,12 +810,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTJfMTQ4/MDAxNjU1MDI4Njc1Nzkz.7mTu8jVeoiuh8mVIowk93-cKLSfHuVe_8oxrBaicGwwg.Fcz39UmExuW2rQL3iWw9MhSJKw0mW2ov6B0Ox6QBq8Eg.JPEG/SE-bc8882ec-d4da-4437-a0d4-5dfb6bcf78f1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국의 서비스 로봇 산업 어디까지 와 있을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/dmkglobal/technologyreview/contents/220630182634144cx</link>
-            <guid>https://contents.premium.naver.com/dmkglobal/technologyreview/contents/220630182634144cx</guid>
-            <pubDate>Thu, 07 Jul 2022 07:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[더 많은 MIT 테크놀로지 리뷰 기사를 보시려면 여기를 클릭하세요!!!  질문: 안녕하세요, &lt;MIT 테크놀로지 리뷰 코리아&gt; 편집위원 최은창입니다. 로봇들로 인해 산업 전반에서 혁신이 일어나고 있습니다. 오늘은 김요섭 우아한형제들 로봇사업실 이사, 하정우 베어로보틱스 대표, 이상호 KT AI로봇사업단장 세 분을 모시고 ‘급성장하는 서비스 로봇의 시장과 기술’에 대해 이야기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfMyAg/MDAxNjU2NTgwNzMyMTU3.4F5nH1pthO3pZspcFhraYZSF88GetbQ8_s6piwiCaKgg.3-rFc1jYMzOiZM8R7WKxXklaaB7WrCKzjclOSaIMCJkg.JPEG/%EA%B7%B8%EB%A6%BC23-1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA["우산 가져오는 걸 깜빡했어"영어로? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/easypizoo/easypizoo1/contents/220629090645398vf</link>
+            <guid>https://contents.premium.naver.com/easypizoo/easypizoo1/contents/220629090645398vf</guid>
+            <pubDate>Wed, 06 Jul 2022 15:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;긍정의 20일&gt; 13일차입니다! &lt; Mission English 참여 방법&gt; 매일 올라오는 그날의 읽기 미션을 완수하면 됩니다. 미션 완수하면 댓글에 I’m done 또는 Mission complete라고 달아주세요. 제가 응원하겠습니다. 소리 내어 반복해서 읽으면 영어로 말하기에도 익숙해지고 문장도 머릿속에  기억됩니다. 매일 리뷰하면서 계속 다음 문장들 추가해서 읽습니다. 무조건 소리 내서 읽어야 합니다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjlfMTEx/MDAxNjU2NDU3OTI3NDkw.auRTrhc2Uwt519rpDKvCAiT3hxKW-njgvOhTTlSMl3cg.IG8Z1cxMfqOIfVr8CLh-JfepBJuY5cIvY9SegdxZOCkg.PNG/P_P_d13-001.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[미국시장 테마(6월 30일 아침): 경기침체 우려가 휩쓴 하루 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -834,12 +826,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfNzEg/MDAxNjU2NTQwODY4ODE5.JZoljC2z3qGt3du2Na4xYPygjScK3TXjqs_gFyrklWgg.TGYQ4sU493wJafLOnB-Nd-sHFmWGe_0dlPw0pgElYtwg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[지금, '논어'를 읽으신다면. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/cecilcompany/cecil/contents/220630233320408tt</link>
-            <guid>https://contents.premium.naver.com/cecilcompany/cecil/contents/220630233320408tt</guid>
-            <pubDate>Thu, 07 Jul 2022 10:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[잘나가는 CEO들의 인생을 바꿔준 책, 덕망 있는 학자들이 너나없이 읽었다는 바로 그 책, '논어'입니다.  서점에 가면 나이를 거론하며 '이제는 논어를 읽을 시간'이라고 말하는 책도 있고, 죽기 전에 꼭 읽어보라며 으름장을 놓는 책도 있습니다. 쉽게 썼다 자랑하는 책, 유명 학자가 해설을 달았다는 책 등등 논어는 정말 다양한 방식으로 재탄생하는 중입니다. 얼핏 보면 호객행]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfMTMg/MDAxNjU2NTk5MzI5MTY2.VRBTtxwpxgNaIr_wNO2MYMP_zTKjr8RbrtBVz3fogRQg.mlXBz2g23-_r--I7so5ntEZdPObCHaih5biGA9eCJfwg.JPEG/KakaoTalk_20220630_232632651.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[한국의 서비스 로봇 산업 어디까지 와 있을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/dmkglobal/technologyreview/contents/220630182634144cx</link>
+            <guid>https://contents.premium.naver.com/dmkglobal/technologyreview/contents/220630182634144cx</guid>
+            <pubDate>Thu, 07 Jul 2022 07:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[더 많은 MIT 테크놀로지 리뷰 기사를 보시려면 여기를 클릭하세요!!!  질문: 안녕하세요, &lt;MIT 테크놀로지 리뷰 코리아&gt; 편집위원 최은창입니다. 로봇들로 인해 산업 전반에서 혁신이 일어나고 있습니다. 오늘은 김요섭 우아한형제들 로봇사업실 이사, 하정우 베어로보틱스 대표, 이상호 KT AI로봇사업단장 세 분을 모시고 ‘급성장하는 서비스 로봇의 시장과 기술’에 대해 이야기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfMyAg/MDAxNjU2NTgwNzMyMTU3.4F5nH1pthO3pZspcFhraYZSF88GetbQ8_s6piwiCaKgg.3-rFc1jYMzOiZM8R7WKxXklaaB7WrCKzjclOSaIMCJkg.JPEG/%EA%B7%B8%EB%A6%BC23-1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웹툰]또순이 아내와 한량 남편-1화 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxwatch/tax/contents/220630093316763zl</link>
+            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/220630093316763zl</guid>
+            <pubDate>Thu, 07 Jul 2022 13:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[소설 같은 세금 이야기를 만화로 만나보세요. 다양한 삶의 이야기 속에 세금 정보를 녹여내, 재미로 보다 보면 세금 지식이 절로 늘어납니다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfODkg/MDAxNjU2NTQ4OTQ1ODEx.ohkk_vUDx2ZMbKiaR-Tz15CYFieFEYhBKg7MZfK8xVYg.jT5B_JOAWQz2oyy2_x2wyHGYqDe4d92MQFVUa_wv0FQg.JPEG/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%9A%A9_%EC%84%B8%EA%B8%88%EC%9D%98%EC%9C%A0%ED%98%B9_%EB%98%90%EC%88%9C%EC%9D%B4%EC%95%84%EB%82%B4%EC%99%80%ED%95%9C%EB%9F%89%EB%82%A8%ED%8E%B8_1%ED%99%94.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
