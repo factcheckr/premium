@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 07:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 08:32:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리멤버, 오늘의집, 배민이 콘텐츠 생산에 진심인 진짜 이유 (퍼블리)]]></title>
+            <link>https://publy.co/content/6831?fr=category</link>
+            <guid>https://publy.co/content/6831?fr=category</guid>
+            <pubDate>Thu, 07 Jul 2022 08:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['나답게' 일하고 싶은 요즘 팀원 성과내게 돕는 N가지 방법 [기본편] (퍼블리)]]></title>
+            <link>https://publy.co/content/6862?fr=category</link>
+            <guid>https://publy.co/content/6862?fr=category</guid>
+            <pubDate>Thu, 07 Jul 2022 08:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[(웹소설) 팀장의 파워 게임 : 플레이어 [ep.Final] (퍼블리)]]></title>
             <link>https://publy.co/content/6880?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6876?fr=category</guid>
             <pubDate>Tue, 28 Jun 2022 08:33:01 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[토스에서 소개한 C.C(Carrying capacity) 개념 한번에 정리해드림 (퍼블리)]]></title>
-            <link>https://publy.co/content/6847?fr=category</link>
-            <guid>https://publy.co/content/6847?fr=category</guid>
-            <pubDate>Mon, 27 Jun 2022 08:31:39 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(웹소설) <팀장의 파워 게임 : 전략적 후퇴> [ep.3] (퍼블리)]]></title>
-            <link>https://publy.co/content/6855?fr=category</link>
-            <guid>https://publy.co/content/6855?fr=category</guid>
-            <pubDate>Fri, 24 Jun 2022 10:27:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한강에서 과외를 받는다고? 팬데믹 이후 달라진 Z세대 한강 이용법 (캐릿)]]></title>
