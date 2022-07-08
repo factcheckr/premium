@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 07:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 08:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PM에게 수도 없이 찾아오는 결정의 순간, 나는 어떻게 할까? (퍼블리)]]></title>
+            <link>https://publy.co/content/6821?fr=category</link>
+            <guid>https://publy.co/content/6821?fr=category</guid>
+            <pubDate>Fri, 08 Jul 2022 08:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사는 판이 바뀐다 : ‘정착’에서 ‘접속’으로 변화하는 일본의 집 트렌드 (퍼블리)]]></title>
+            <link>https://publy.co/content/6875?fr=category</link>
+            <guid>https://publy.co/content/6875?fr=category</guid>
+            <pubDate>Fri, 08 Jul 2022 08:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[리멤버, 오늘의집, 배민이 콘텐츠 생산에 진심인 진짜 이유 (퍼블리)]]></title>
             <link>https://publy.co/content/6831?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6840?fr=category</guid>
             <pubDate>Thu, 30 Jun 2022 08:32:23 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[회의록 NO! 팀장의 부재에도 굴러가게 만드는 '작은 성공 회의' 세팅법은? (퍼블리)]]></title>
-            <link>https://publy.co/content/6838?fr=category</link>
-            <guid>https://publy.co/content/6838?fr=category</guid>
-            <pubDate>Wed, 29 Jun 2022 09:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하룻밤 만에 완성하는 프로젝트 결과보고서 작성법(템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/6876?fr=category</link>
-            <guid>https://publy.co/content/6876?fr=category</guid>
-            <pubDate>Tue, 28 Jun 2022 08:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SNS 힙하게 운영하고 싶다면? 필독해야 하는 이주의 떡상템 (캐릿)]]></title>
@@ -700,90 +700,6 @@
             <pubDate>Tue, 10 May 2022 02:54:25 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영국의 보리스 존슨 총리가 정치 생명 최대 위기 끝에 사임했다. 우리 정치도 무관하지 않다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52528</link>
-            <guid>https://www.bookjournalism.com/books/52528</guid>
-            <pubDate>Fri, 08 Jul 2022 07:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[쇼는 계속되지 않는다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50374</link>
-            <guid>https://www.bookjournalism.com/books/50374</guid>
-            <pubDate>Fri, 08 Jul 2022 07:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 오프라인으로 활동 반경을 넓히고 있다. 밈은 그들이 가진 무기다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52468</link>
-            <guid>https://www.bookjournalism.com/books/52468</guid>
-            <pubDate>Fri, 08 Jul 2022 07:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[밈은 나의 무기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[진화론을 의심해 봐야 한다는 주장이 나오고 있다. 종교에 관한 이야기가 아니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52475</link>
-            <guid>https://www.bookjournalism.com/books/52475</guid>
-            <pubDate>Fri, 08 Jul 2022 07:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[우리에겐 새로운 진화론이 필요하다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새로운 제도가 묻는다, 코인 투자는 도박인지 아닌지. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52282</link>
-            <guid>https://www.bookjournalism.com/books/52282</guid>
-            <pubDate>Fri, 08 Jul 2022 07:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[빚투도 리콜이 되나요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구매력 있는 노년층, A세대가 주목받는다. MZ세대에 이어 유의미한 시장 변화를 이끌 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52244</link>
-            <guid>https://www.bookjournalism.com/books/52244</guid>
-            <pubDate>Fri, 08 Jul 2022 07:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[A세대가 온다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[C테크가 기후 위기의 희망이 되고 있다. 그러나 관건은 우리 자신이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52210</link>
-            <guid>https://www.bookjournalism.com/books/52210</guid>
-            <pubDate>Fri, 08 Jul 2022 07:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[남 일 같은 이야기, 탄소]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #43에선, 콜롬비아의 첫 좌파 대통령 당선, 엔터테인먼트계에서 확산하고 있는 ESG 경영, 미국 연방대법원의 낙태권 폐지 판결, 그리고 새로운 연애 방식으로 본 우리 사회 갈등의 현실에 관해 이야기합니다. 마지막으로, 새로운 연애 방식으로 본 우리 사회 갈등의 현실을 세대론과 성별의 측면에서 풀어봅니다. 오늘은 MC 이현구 에디터와 정원진, 이다혜, 신아람 에디터가 함께했습니다.이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/52184</link>
-            <guid>https://www.bookjournalism.com/audio/52184</guid>
-            <pubDate>Fri, 08 Jul 2022 07:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[혐오와 생존의 시대, 사랑을 위한 스트리밍]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요즘 연애의 조건이 ‘정치 성향’이라는 분석이 제기됐다. 사실과 다르다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52162</link>
-            <guid>https://www.bookjournalism.com/books/52162</guid>
-            <pubDate>Fri, 08 Jul 2022 07:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[연애의 조건]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엔터계의 ESG 경영이 화제다. 음반 마케팅으로 매출을 올리는 음악 산업의 구조는 변할 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52111</link>
-            <guid>https://www.bookjournalism.com/books/52111</guid>
-            <pubDate>Fri, 08 Jul 2022 07:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[앨범의 홍수]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인터넷의 역사를 이야기할 때 구글이나 페이스북, 아마존을 빼놓을 수는 없다. 그러나 인터넷을 가장 먼저 정복한 기업은 이베이였다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52103</link>
-            <guid>https://www.bookjournalism.com/books/52103</guid>
-            <pubDate>Fri, 08 Jul 2022 07:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[이베이, 돈 되는 인터넷의 창세기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경력직 채용 플랫폼이 커진다. 이 성장은 무엇을 의미할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52085</link>
-            <guid>https://www.bookjournalism.com/books/52085</guid>
-            <pubDate>Fri, 08 Jul 2022 07:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[안전한 직원 찾기 프로젝트]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[범죄 수익만 '1조 2388억원'…이들에겐 집행유예가 선고됐다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
