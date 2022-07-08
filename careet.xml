@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 23:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 02:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNS 힙하게 운영하고 싶다면? 필독해야 하는 이주의 떡상템]]></title>
+            <link>https://www.careet.net/815</link>
+            <guid>https://www.careet.net/815</guid>
+            <pubDate>Fri, 08 Jul 2022 02:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[이주에 떡상한 핫플레이스와 게임, 유튜브 채널이 궁금하다면?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/8cf9120b-7c6f-4784-9e11-134ee790af69_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] MZ세대에게 꾸준히 인기 있는 먹방 아이템이 있다?]]></title>
+            <link>https://www.careet.net/814</link>
+            <guid>https://www.careet.net/814</guid>
+            <pubDate>Fri, 08 Jul 2022 02:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대에게 인기 있는 먹방 유튜브의 특징을 알아보자!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/d1364a54-326a-447f-ac88-efadaeee1513_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한강에서 과외를 받는다고? 팬데믹 이후 달라진 Z세대 한강 이용법]]></title>
             <link>https://www.careet.net/812</link>
