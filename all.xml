@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 02:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 04:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -702,88 +702,12 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영국의 보리스 존슨 총리가 정치 생명 최대 위기 끝에 사임했다. 우리 정치도 무관하지 않다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52528</link>
-            <guid>https://www.bookjournalism.com/books/52528</guid>
-            <pubDate>Thu, 07 Jul 2022 18:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[쇼는 계속되지 않는다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50374</link>
-            <guid>https://www.bookjournalism.com/books/50374</guid>
-            <pubDate>Thu, 07 Jul 2022 18:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 오프라인으로 활동 반경을 넓히고 있다. 밈은 그들이 가진 무기다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52468</link>
-            <guid>https://www.bookjournalism.com/books/52468</guid>
-            <pubDate>Thu, 07 Jul 2022 18:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[밈은 나의 무기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[진화론을 의심해 봐야 한다는 주장이 나오고 있다. 종교에 관한 이야기가 아니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52475</link>
-            <guid>https://www.bookjournalism.com/books/52475</guid>
-            <pubDate>Thu, 07 Jul 2022 18:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[우리에겐 새로운 진화론이 필요하다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새로운 제도가 묻는다, 코인 투자는 도박인지 아닌지. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52282</link>
-            <guid>https://www.bookjournalism.com/books/52282</guid>
-            <pubDate>Thu, 07 Jul 2022 18:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[빚투도 리콜이 되나요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구매력 있는 노년층, A세대가 주목받는다. MZ세대에 이어 유의미한 시장 변화를 이끌 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52244</link>
-            <guid>https://www.bookjournalism.com/books/52244</guid>
-            <pubDate>Thu, 07 Jul 2022 18:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[A세대가 온다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[C테크가 기후 위기의 희망이 되고 있다. 그러나 관건은 우리 자신이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52210</link>
-            <guid>https://www.bookjournalism.com/books/52210</guid>
-            <pubDate>Thu, 07 Jul 2022 18:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[남 일 같은 이야기, 탄소]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #43에선, 콜롬비아의 첫 좌파 대통령 당선, 엔터테인먼트계에서 확산하고 있는 ESG 경영, 미국 연방대법원의 낙태권 폐지 판결, 그리고 새로운 연애 방식으로 본 우리 사회 갈등의 현실에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/52184</link>
-            <guid>https://www.bookjournalism.com/audio/52184</guid>
-            <pubDate>Thu, 07 Jul 2022 18:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[혐오와 생존의 시대, 사랑을 위한 스트리밍]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요즘 연애의 조건이 ‘정치 성향’이라는 분석이 제기됐다. 사실과 다르다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52162</link>
-            <guid>https://www.bookjournalism.com/books/52162</guid>
-            <pubDate>Thu, 07 Jul 2022 18:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[연애의 조건]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엔터계의 ESG 경영이 화제다. 음반 마케팅으로 매출을 올리는 음악 산업의 구조는 변할 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52111</link>
-            <guid>https://www.bookjournalism.com/books/52111</guid>
-            <pubDate>Thu, 07 Jul 2022 18:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[앨범의 홍수]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인터넷의 역사를 이야기할 때 구글이나 페이스북, 아마존을 빼놓을 수는 없다. 그러나 인터넷을 가장 먼저 정복한 기업은 이베이였다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52103</link>
-            <guid>https://www.bookjournalism.com/books/52103</guid>
-            <pubDate>Thu, 07 Jul 2022 18:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[이베이, 돈 되는 인터넷의 창세기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경력직 채용 플랫폼이 커진다. 이 성장은 무엇을 의미할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52085</link>
-            <guid>https://www.bookjournalism.com/books/52085</guid>
-            <pubDate>Thu, 07 Jul 2022 18:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[안전한 직원 찾기 프로젝트]]></content:encoded>
+            <title><![CDATA[범죄 수익만 '1조 2388억원'…이들에겐 집행유예가 선고됐다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/lawtalknews/premium/contents/220624121919377fm</link>
+            <guid>https://contents.premium.naver.com/lawtalknews/premium/contents/220624121919377fm</guid>
+            <pubDate>Thu, 07 Jul 2022 15:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[사상 최악의 아동 성착취물 공유 사이트 '웰컴 투 비디오'를 만든 손정우가 1심 선고를 앞두고 있다. 지난 2020년 7월, 미국 송환을 피한 그는 한국에서 '범죄수익은닉' 혐의에 대해 재판을 받고 있다. 예정된 선고일은 다음 달 5일.  해당 혐의로 재판에 넘겨진 사람들은 과연 어떤 처벌을 받았을까. 로톡뉴스는 대법원에서 공개한 최근 6개월 치 '범죄수익은닉' 판결문 42건(1⋅2심 중]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjRfODkg/MDAxNjU2MDM5NzY2MDc5.VCVaqhuV67TQyFp400v0EL1ikVWci4_l6NRnmeUO3kkg.Mcn_LVIon0N8zn8Gt7hsGlj6ZLnpYrxK85ps1epJIH8g.JPEG/%EB%B2%94%EC%A3%84%EC%9D%80%EB%8B%89.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[월그린스 역성장 충격, 주가 7% ‘급락’ (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -794,12 +718,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfNzIg/MDAxNjU2NjMyMTM2MTE0.A8G62tjONcJBoIBmTRyOkuD-SPm1EA2CXlqr48GWEGIg.q8n8fzkkDHnbeBGIj3xKKRDsgUDsLzJuow_nALg3Fm8g.JPEG/1._%EC%9B%94%EA%B7%B8%EB%A6%B0%EC%8A%A4_(%EC%B6%9C%EC%B2%98_=_%EC%9B%94%EA%B7%B8%EB%A6%B0%EC%8A%A4_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80)_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[범죄 수익만 '1조 2388억원'…이들에겐 집행유예가 선고됐다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/lawtalknews/premium/contents/220624121919377fm</link>
-            <guid>https://contents.premium.naver.com/lawtalknews/premium/contents/220624121919377fm</guid>
-            <pubDate>Thu, 07 Jul 2022 15:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[사상 최악의 아동 성착취물 공유 사이트 '웰컴 투 비디오'를 만든 손정우가 1심 선고를 앞두고 있다. 지난 2020년 7월, 미국 송환을 피한 그는 한국에서 '범죄수익은닉' 혐의에 대해 재판을 받고 있다. 예정된 선고일은 다음 달 5일.  해당 혐의로 재판에 넘겨진 사람들은 과연 어떤 처벌을 받았을까. 로톡뉴스는 대법원에서 공개한 최근 6개월 치 '범죄수익은닉' 판결문 42건(1⋅2심 중]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjRfODkg/MDAxNjU2MDM5NzY2MDc5.VCVaqhuV67TQyFp400v0EL1ikVWci4_l6NRnmeUO3kkg.Mcn_LVIon0N8zn8Gt7hsGlj6ZLnpYrxK85ps1epJIH8g.JPEG/%EB%B2%94%EC%A3%84%EC%9D%80%EB%8B%89.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[돈 버는 가장 확실한 방법. p2p투자 알려준다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220630120412306ji</link>
+            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220630120412306ji</guid>
+            <pubDate>Fri, 08 Jul 2022 02:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[형이다. 다들 요즘 계좌 괜찮은지 묻고 싶다. 형은 어떻냐고. 생수병 붙잡고 숨만 간신히 쉬고 있다. 아마 이 글을 보는 사람들도 별반 다르지 않을 거라고 본다. 요즘  마이너스 -40% 계좌 쥐고 반등 오기만을 기다리는 사람들 많을 거다. 곧 반등할 거라고 믿고 본인이 저점을 완벽하게 잡을 수 있을 거라고 생각하는 사람들이 많은데 버핏형도 그거 못한다. 부자들도 돈 꽉 쥐고]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfNzIg/MDAxNjU2NTU4MTcwNjk5.P5D1hlep03h1HfQSBG_-jsm0BLSv0CRMZum24rqLDIwg._qHU4i_4l37RknPjoPezMk75hURib-Oxm00ovrOeS4cg.PNG/%EC%9E%AC%ED%85%8C%ED%81%AC.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[빗물, 어떻게 모을까 ? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -810,12 +734,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjBfMTE3/MDAxNjU1NzA3MTkwOTUx.z79HcuUU6AUy2dlSVy9ELbMz0VxplA4MAaOve3K6u5Eg.Tr3rWw7Zv7L5lh5ZVnH8TGjiRCBh5hv0d7BuPgjv2jog.JPEG/050-053_%ED%8A%B9%EC%A7%912.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[돈 버는 가장 확실한 방법. p2p투자 알려준다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220630120412306ji</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220630120412306ji</guid>
-            <pubDate>Fri, 08 Jul 2022 02:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[형이다. 다들 요즘 계좌 괜찮은지 묻고 싶다. 형은 어떻냐고. 생수병 붙잡고 숨만 간신히 쉬고 있다. 아마 이 글을 보는 사람들도 별반 다르지 않을 거라고 본다. 요즘  마이너스 -40% 계좌 쥐고 반등 오기만을 기다리는 사람들 많을 거다. 곧 반등할 거라고 믿고 본인이 저점을 완벽하게 잡을 수 있을 거라고 생각하는 사람들이 많은데 버핏형도 그거 못한다. 부자들도 돈 꽉 쥐고]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfNzIg/MDAxNjU2NTU4MTcwNjk5.P5D1hlep03h1HfQSBG_-jsm0BLSv0CRMZum24rqLDIwg._qHU4i_4l37RknPjoPezMk75hURib-Oxm00ovrOeS4cg.PNG/%EC%9E%AC%ED%85%8C%ED%81%AC.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[미국시장 테마(7월 1일 아침): 리세션 우려 속 빛났던 태양광 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220701074530426cj</link>
+            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220701074530426cj</guid>
+            <pubDate>Thu, 07 Jul 2022 15:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[상승 테마 1) 신재생에너지(태양광) - Enphase Energy(ENPH), SolarEdge(SEDG), Sunrun(RUN), SunPower(SPWR) 등 태양광 기업들의 주가 강세가 가장 두드러져 - 전일 미국의 수입 태양광 제품 내 중국(신장지역) 소재 사용 이슈가 부각되면서 낙폭이 컸지만, 하루만에 흐름을 되돌림 - 특별한 산업 이슈가 있었던 것은 아니었지만, 최근 좋은 수요 상황이 반영된 것으로 판단  - 미국이 중국을 견제해 아]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfMTE1/MDAxNjU2NjI4NTYwMzcz.Ncg14dBQd_0qRIGPZaLBn_9oETn5vTiBTXol_D26a6wg.K-Nx1cy73YC6B7axUKuyNQ59mKuG5CZSGbSHJRGHo4gg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["기초생활수급자" 선처 호소한 손정우…판결문 분석 결과, 통할 수 있는 주장 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -826,12 +750,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfNiAg/MDAxNjU2NTc5OTA1ODU1.jXhZBbMfgEmkat3gS4QwmQ7lBcsyA2HJ4GC_iC6bK1cg.NmLVc6o5RnnIC6UOSdDCSgoBsAeP9sewAhyQd5T16Psg.JPEG/%EC%86%90%EC%A0%95%EC%9A%B0_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국시장 테마(7월 1일 아침): 리세션 우려 속 빛났던 태양광 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220701074530426cj</link>
-            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220701074530426cj</guid>
+            <title><![CDATA[GM, 인도 공장 매각 백지화 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220701085422214tt</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220701085422214tt</guid>
             <pubDate>Thu, 07 Jul 2022 15:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[상승 테마 1) 신재생에너지(태양광) - Enphase Energy(ENPH), SolarEdge(SEDG), Sunrun(RUN), SunPower(SPWR) 등 태양광 기업들의 주가 강세가 가장 두드러져 - 전일 미국의 수입 태양광 제품 내 중국(신장지역) 소재 사용 이슈가 부각되면서 낙폭이 컸지만, 하루만에 흐름을 되돌림 - 특별한 산업 이슈가 있었던 것은 아니었지만, 최근 좋은 수요 상황이 반영된 것으로 판단  - 미국이 중국을 견제해 아]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfMTE1/MDAxNjU2NjI4NTYwMzcz.Ncg14dBQd_0qRIGPZaLBn_9oETn5vTiBTXol_D26a6wg.K-Nx1cy73YC6B7axUKuyNQ59mKuG5CZSGbSHJRGHo4gg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[💬 무슨 일이지? 미국 완성차업체 제너럴모터스(GM)가 인도 자동차 공장을 중국 장성자동차에 매각하려던 계획이 무산됐다고 30일(현지시간) 밝혔습니다. 합의는 6월 30일 종료됐으나 양사는 이를 이어가지 않았습니다. GM은 지난 2020년 인도 공장을 장성자동차에 3억 달러에 매각하기로 했습니다. 그러나 매각에 필요한 인도 정부의 승인을 받지 못하며 백지화됐습니다. 로이터에]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfMTIx/MDAxNjU2NjMyOTM5OTgy.tyNSyOI2nWPVG_4z_h7vlBLeJsuqfVJyaUOhCkKtviUg.hdEBEDqohvikeGTh-hyp0Sk-9xWzF11Hd3PBtTUbzaUg.JPEG/2._GM_(%EC%B6%9C%EC%B2%98_=_GM_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6월 5주차 전국 신상카페 추천 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -842,20 +766,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfNjYg/MDAxNjU2NjQ0MjYzNDY4.ylwBajDcWlxdGv9kTK8rUkKN2PU6I8Wu_VL2EuQci5Ug.mKRsseHZC99g4omtJMEwWYdae4iJohdn-oIBsM7pt2Mg.PNG/%EC%A3%BC%EA%B0%84%EC%8B%A0%EC%83%81%EC%B9%B4%ED%8E%98.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[GM, 인도 공장 매각 백지화 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220701085422214tt</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220701085422214tt</guid>
-            <pubDate>Thu, 07 Jul 2022 15:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[💬 무슨 일이지? 미국 완성차업체 제너럴모터스(GM)가 인도 자동차 공장을 중국 장성자동차에 매각하려던 계획이 무산됐다고 30일(현지시간) 밝혔습니다. 합의는 6월 30일 종료됐으나 양사는 이를 이어가지 않았습니다. GM은 지난 2020년 인도 공장을 장성자동차에 3억 달러에 매각하기로 했습니다. 그러나 매각에 필요한 인도 정부의 승인을 받지 못하며 백지화됐습니다. 로이터에]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfMTIx/MDAxNjU2NjMyOTM5OTgy.tyNSyOI2nWPVG_4z_h7vlBLeJsuqfVJyaUOhCkKtviUg.hdEBEDqohvikeGTh-hyp0Sk-9xWzF11Hd3PBtTUbzaUg.JPEG/2._GM_(%EC%B6%9C%EC%B2%98_=_GM_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주말 트렌드]  경기침체 우려 반영과 차별화 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/tudal/master/contents/220624135905373kh</link>
-            <guid>https://contents.premium.naver.com/tudal/master/contents/220624135905373kh</guid>
-            <pubDate>Fri, 08 Jul 2022 02:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[때때로 나무와 숲을 주식시장에 인용하죠.   특히 올해처럼 인플레이션이 뚜렷한 시기는  나무(개별종목)보다 숲(주가지수, 섹터‧업종지수)을 보게 합니다.    더불어 주식을 벗어나 채권, 외환, 상품(원자재, 금 등), 가상화폐,  부동산 등의 자산 트렌드를 살펴 볼 필요가 있습니다.    왜냐하면 주식은 전체 금융시장의 나무이기도 하니까요.    주말 트렌드는 한주간 금융시장의]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjRfMTU3/MDAxNjU2MDQ2NjYwMzQx.2S69wwSA0VWUNLyVmrj7r8Lr8jOGo31ORbejA3_2J2Qg.56Hjs-ZdIAoE-AT13E1_DGJCNTOgc4vs0xxOiqMb4Ccg.PNG/%EC%A3%BC%EB%A7%90%ED%8A%B8%EB%A0%8C%EB%93%9C.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[EVANS - 내돈내산 사용기 5부 -  앞으로는 좀 더 안심하고 탈 수 있겠다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/lefthand/premium/contents/220701105839540em</link>
+            <guid>https://contents.premium.naver.com/lefthand/premium/contents/220701105839540em</guid>
+            <pubDate>Fri, 08 Jul 2022 04:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[EVANS, waterless engine coolant - 내돈내산 사용기 - 5부 앞으로는 좀 더 안심하고 탈 수 있겠다 [지금 '레프트핸드콘텐츠 프리미엄' 1개월 무료 구독 이벤트가 진행되고 있습니다!] [누이 좋고 매부 좋은 1개월 무료 구독 이벤트 많은 참여 부탁드립니다 🙂] 물과 부동액을 섞어서 만든 평범한 냉각수를 모두 다 빼내고, 에반스를 제 차의 엔진에 집어넣은 지 벌써 2주가 지났습니다. 그동안]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfMjc2/MDAxNjU2NjM5NTY2MTUy.XSGSrOVrCs6R-TeHnruZJRKLVi98WXkSAMqeVkseDwgg.nBjYljEcb-m5sZuZ38BpEmtZMtqP_T0aW9IXXKTc5UIg.JPEG/SE-e3afe77f-5a04-452e-91dc-4d34fc2339f2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
