@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 21:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 22:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -702,12 +702,88 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Fri, 08 Jul 2022 18:30:35 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #44에선, Z세대의 밈 문화와 새로운 소비자로 주목받기 시작한 노년층 A세대의 이야기를 나눕니다. 또, 영국 보리스 존슨 총리의 사임 건, 기후위기의 구원 투수로 주목받는 C테크와 환경에 관해 살펴봅니다.  MC 이현구 에디터와 신아람, 이다혜, 정원진 에디터가 함께했습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/52571</link>
+            <guid>https://www.bookjournalism.com/audio/52571</guid>
+            <pubDate>Fri, 08 Jul 2022 22:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[가라앉는 세계, 세대론의 A to Z]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영국의 보리스 존슨 총리가 정치 생명 최대 위기 끝에 사임했다. 우리 정치도 무관하지 않다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52528</link>
+            <guid>https://www.bookjournalism.com/books/52528</guid>
+            <pubDate>Fri, 08 Jul 2022 22:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[쇼는 계속되지 않는다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50374</link>
+            <guid>https://www.bookjournalism.com/books/50374</guid>
+            <pubDate>Fri, 08 Jul 2022 22:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대가 오프라인으로 활동 반경을 넓히고 있다. 밈은 그들이 가진 무기다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52468</link>
+            <guid>https://www.bookjournalism.com/books/52468</guid>
+            <pubDate>Fri, 08 Jul 2022 22:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[밈은 나의 무기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[진화론을 의심해 봐야 한다는 주장이 나오고 있다. 종교에 관한 이야기가 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52475</link>
+            <guid>https://www.bookjournalism.com/books/52475</guid>
+            <pubDate>Fri, 08 Jul 2022 22:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[우리에겐 새로운 진화론이 필요하다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새로운 제도가 묻는다, 코인 투자는 도박인지 아닌지. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52282</link>
+            <guid>https://www.bookjournalism.com/books/52282</guid>
+            <pubDate>Fri, 08 Jul 2022 22:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[빚투도 리콜이 되나요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구매력 있는 노년층, A세대가 주목받는다. MZ세대에 이어 유의미한 시장 변화를 이끌 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52244</link>
+            <guid>https://www.bookjournalism.com/books/52244</guid>
+            <pubDate>Fri, 08 Jul 2022 22:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[A세대가 온다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[C테크가 기후 위기의 희망이 되고 있다. 그러나 관건은 우리 자신이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52210</link>
+            <guid>https://www.bookjournalism.com/books/52210</guid>
+            <pubDate>Fri, 08 Jul 2022 22:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[남 일 같은 이야기, 탄소]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #43에선, 콜롬비아의 첫 좌파 대통령 당선, 엔터테인먼트계에서 확산하고 있는 ESG 경영, 미국 연방대법원의 낙태권 폐지 판결, 그리고 새로운 연애 방식으로 본 우리 사회 갈등의 현실에 관해 이야기합니다. 마지막으로, 새로운 연애 방식으로 본 우리 사회 갈등의 현실을 세대론과 성별의 측면에서 풀어봅니다. 오늘은 MC 이현구 에디터와 정원진, 이다혜, 신아람 에디터가 함께했습니다.이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/52184</link>
+            <guid>https://www.bookjournalism.com/audio/52184</guid>
+            <pubDate>Fri, 08 Jul 2022 22:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[혐오와 생존의 시대, 사랑을 위한 스트리밍]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 연애의 조건이 ‘정치 성향’이라는 분석이 제기됐다. 사실과 다르다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52162</link>
+            <guid>https://www.bookjournalism.com/books/52162</guid>
+            <pubDate>Fri, 08 Jul 2022 22:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[연애의 조건]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엔터계의 ESG 경영이 화제다. 음반 마케팅으로 매출을 올리는 음악 산업의 구조는 변할 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52111</link>
+            <guid>https://www.bookjournalism.com/books/52111</guid>
+            <pubDate>Fri, 08 Jul 2022 22:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[앨범의 홍수]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인터넷의 역사를 이야기할 때 구글이나 페이스북, 아마존을 빼놓을 수는 없다. 그러나 인터넷을 가장 먼저 정복한 기업은 이베이였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52103</link>
+            <guid>https://www.bookjournalism.com/books/52103</guid>
+            <pubDate>Fri, 08 Jul 2022 22:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[이베이, 돈 되는 인터넷의 창세기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6월 5주차 인기카페 순위 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -718,12 +794,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDJfMTQ0/MDAxNjU2NzI1NjA4NzEw.208d-5OqgUW9wnjTaNKVzb6xDTwMAvnu0VMuSrRQUgAg.USdyerKTWkRmpWPfQvnJ5qlxj06eKhWhVjWM1Q90B2Ug.PNG/006.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[퍼스널 브랜딩, 개같이 멸망 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/seetheunseen/seetheunseen7/contents/220702091601514hh</link>
-            <guid>https://contents.premium.naver.com/seetheunseen/seetheunseen7/contents/220702091601514hh</guid>
-            <pubDate>Fri, 08 Jul 2022 15:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[퍼스널브랜딩, 이 워딩이 주는 마법이 있는 게 분명합니다. 디지털노마드, 경제적자유 그런 단어처럼. 퍼스널브랜딩 이거 하나만 들이 밀어도 사람들이 모두 다 혹 하게 되는 것을 보면요. 블로그, 인스타그램, 유튜브 등 SNS 채널을 통해 [퍼스널브랜딩]을 하고자 하는 목적이 내 이름 값, 몸값. 즉, 내 가치의 '값'을 높이고 싶은 분들께 이 글이 꼭 닿길 바랍니다. * 자아찾기, 나에]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDJfMjQx/MDAxNjU2NzI1Mzc4NjQ4.hyVb48uSxOqkndjo-_n7zEqo3aA7-nBLRp40252ULfcg.eUBmblpVvcil-ISolV9O0-m74dEMvK5-0o84eJoaBREg.PNG/%ED%8D%BC%EC%8A%A4%EB%84%90%EB%B8%8C%EB%9E%9C%EB%94%A93.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Fri, 08 Jul 2022 18:30:35 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘우버보다 비싸다?’ 쏘카 공모가는 진짜 고평가됐을까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -734,12 +810,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDJfMTAw/MDAxNjU2NzMwNjE3MjQ3.-AoCtv9r3E5E_7SOwHcK6BFpMxUBXN-lltwkTFPTSDwg.fpsOI9zM4GnlZ5IDK5W7S1bDFYkvXLHt_PmqXk27GXAg.JPEG/%EB%8C%80%EC%A7%80_3_%EC%82%AC%EB%B3%B8-100.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[선구매 후결제로 생필품 사는 MZ세대 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/economy/economywave/contents/220708083946915it</link>
-            <guid>https://contents.premium.naver.com/economy/economywave/contents/220708083946915it</guid>
-            <pubDate>Fri, 08 Jul 2022 15:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 경제전파사 독자 여러분 :-) 오늘은 경기 침체와 높은 물가에서 파생되는 이야기를 주제로 콘텐츠를 담았습니다. 나의 커리어 상황을 고려해 불황을 무사히 버티기 위해 필요한 현금이 어느 정도인지, 그리고 선구매 후결제 방식으로 생활비를 지출하는 젊은 세대 이야기를 담아왔어요. 녹록하지 않은 경제 상황을 매일 체감하는 요즘 조금이라도 인사이트를 얻어가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDhfMTI4/MDAxNjU3MjM3MTUyOTgw.DFOzQLprkcOgMGZIqBu1VHgPbYAUp9sVHLVjdW_BX0Ag.THsB5zcUMV5HXdic-icOVV_1M27FFAhHbD99Hwb3h0sg.JPEG/tara-clark-Gk8LG7dsHWA-unsplash.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[퍼스널 브랜딩, 개같이 멸망 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/seetheunseen/seetheunseen7/contents/220702091601514hh</link>
+            <guid>https://contents.premium.naver.com/seetheunseen/seetheunseen7/contents/220702091601514hh</guid>
+            <pubDate>Fri, 08 Jul 2022 15:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[퍼스널브랜딩, 이 워딩이 주는 마법이 있는 게 분명합니다. 디지털노마드, 경제적자유 그런 단어처럼. 퍼스널브랜딩 이거 하나만 들이 밀어도 사람들이 모두 다 혹 하게 되는 것을 보면요. 블로그, 인스타그램, 유튜브 등 SNS 채널을 통해 [퍼스널브랜딩]을 하고자 하는 목적이 내 이름 값, 몸값. 즉, 내 가치의 '값'을 높이고 싶은 분들께 이 글이 꼭 닿길 바랍니다. * 자아찾기, 나에]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDJfMjQx/MDAxNjU2NzI1Mzc4NjQ4.hyVb48uSxOqkndjo-_n7zEqo3aA7-nBLRp40252ULfcg.eUBmblpVvcil-ISolV9O0-m74dEMvK5-0o84eJoaBREg.PNG/%ED%8D%BC%EC%8A%A4%EB%84%90%EB%B8%8C%EB%9E%9C%EB%94%A93.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[셀프가 대세? 치과에서 하는 '치아 미백' 하나부터 열까지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -748,6 +824,14 @@
             <pubDate>Fri, 08 Jul 2022 15:27:40 GMT</pubDate>
             <content:encoded><![CDATA[Back in the 1970s, orthodontists were seeing that some of their patients who were wearing braces had very poor oral hygiene and thus had periodontal (gum) issues—the gums were swollen and inflamed. To help with this condition, the orthodontists would apply low doses of hydrogen peroxide (H2O2) in its known capacity as a wound cleansing and healing agent. 치아 미백의 역사가 '치아교정기'를 사용하면서부터 시작됐다는 사실을 아는 사람은 드물다. 1970년대에 미]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDNfMjQg/MDAxNjU2ODE3MjA3ODQ2.mpejJ7sUUv_w7DxD9VhMbP5gspPZS2MnzwpIX0QhCgUg.b8vX1OyXtWRk64fViFuSv4SL5Fxq7yVrqaTS0nIDOskg.JPEG/teeth-Geralt-1200x410-795x410.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[선구매 후결제로 생필품 사는 MZ세대 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/economy/economywave/contents/220708083946915it</link>
+            <guid>https://contents.premium.naver.com/economy/economywave/contents/220708083946915it</guid>
+            <pubDate>Fri, 08 Jul 2022 15:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 경제전파사 독자 여러분 :-) 오늘은 경기 침체와 높은 물가에서 파생되는 이야기를 주제로 콘텐츠를 담았습니다. 나의 커리어 상황을 고려해 불황을 무사히 버티기 위해 필요한 현금이 어느 정도인지, 그리고 선구매 후결제 방식으로 생활비를 지출하는 젊은 세대 이야기를 담아왔어요. 녹록하지 않은 경제 상황을 매일 체감하는 요즘 조금이라도 인사이트를 얻어가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDhfMTI4/MDAxNjU3MjM3MTUyOTgw.DFOzQLprkcOgMGZIqBu1VHgPbYAUp9sVHLVjdW_BX0Ag.THsB5zcUMV5HXdic-icOVV_1M27FFAhHbD99Hwb3h0sg.JPEG/tara-clark-Gk8LG7dsHWA-unsplash.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[유희경 에세이] 영혼의 물성 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
