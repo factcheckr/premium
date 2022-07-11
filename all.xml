@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 14:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 15:35:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -414,12 +414,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/3346eb17-0b3e-4e29-bafb-d1ec97eea957_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[에바 차우 : LA 컬처 퀸, 파티의 디테일을 담아 키소주를 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/350</link>
-            <guid>https://www.longblack.co/note/350</guid>
-            <pubDate>Sun, 10 Jul 2022 15:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;주말에 이태원에 있는 구찌 오스테리아에 다녀왔습니다. 메뉴판에 키KHEE 소주가 있더군요. 이탈리아 음식과 온더록스on the rocks* 소주라…. 호기심에 주<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220704/16569254065efbd56b025bdd082b6d5d190686128f.png" length="0" type="image/png"/>
+            <title><![CDATA[마텔 : 60살 넘은 바비 인형이 10년 만에 최대 실적으로 부활하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/355</link>
+            <guid>https://www.longblack.co/note/355</guid>
+            <pubDate>Mon, 11 Jul 2022 15:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L최근 마고 로비와 라이언 고슬링 주연의 영화 「바비Barbie」가 화제야. C가 기대된다며 보여줬는데, 인형 옷 입고 있는 라이언 고슬링 사진이 완전 웃겨. 202<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220711/16575047459e0e54344063b7d5004cd25ceccb5a7a.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -710,6 +710,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[일본 정치를 뒤흔드는 사건이 발생했다. 배경에는 종교가 있었다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52596</link>
+            <guid>https://www.bookjournalism.com/books/52596</guid>
+            <pubDate>Mon, 11 Jul 2022 15:35:46 GMT</pubDate>
+            <content:encoded><![CDATA[아베의 세 가지 종교]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아마존과 미국 음식 배달 서비스 그럽허브가 협력안을 발표했다. 배달 시장은 하락세를 극복할 수 있을까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/52611</link>
             <guid>https://www.bookjournalism.com/books/52611</guid>
@@ -787,82 +794,75 @@
             <content:encoded><![CDATA[연애의 조건]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엔터계의 ESG 경영이 화제다. 음반 마케팅으로 매출을 올리는 음악 산업의 구조는 변할 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52111</link>
-            <guid>https://www.bookjournalism.com/books/52111</guid>
-            <pubDate>Mon, 11 Jul 2022 12:51:41 GMT</pubDate>
-            <content:encoded><![CDATA[앨범의 홍수]]></content:encoded>
+            <title><![CDATA[한국전력 3분기 전기요금 인상 (진짜 내돈빼고 다 오르네) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/padakkr/padak/contents/220627182836971yj</link>
+            <guid>https://contents.premium.naver.com/padakkr/padak/contents/220627182836971yj</guid>
+            <pubDate>Mon, 11 Jul 2022 15:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[한전 7월 전기요금 인상?! 오는 3분기부터 전기요금 1kWh당 5원 인상 발표  이에 따라 3분기 시작인 7월부터 4인가구를 기준으로 월평균 1535원 상승 전망 윤석열 정부.. 결국 공약 포기.. 한전은 전 정부인 문재인 정부 시기 2분기(4월) 전기요금 인상을 계획했으나 3월 윤석열 대통령 당선 후 요금 인상 연기함  - 당시 새 정부의 요금 동결 공약을 의식한 것이라는 추정 윤 대통령은 대]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjdfMjQ0/MDAxNjU2MzIwOTIzNjI3.lrfnaIke98uQnvrUkkd5r8mj7NXydPQdVHdk_BRFDr4g.r7CTEbnMInoXLWcni-HcPIp8lVdkPENDNMdyYBnxphsg.JPEG/0004717217_003_20220627173901131.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['4060 트렌드 보고서'를 구독해야하는 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/aful/trend4060/contents/220411165449666Hb</link>
-            <guid>https://contents.premium.naver.com/aful/trend4060/contents/220411165449666Hb</guid>
-            <pubDate>Sun, 10 Jul 2022 15:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[01 4060 트렌드 보고서는 신중년 라이프트렌드 No.1 에이풀이 제공하는 프리미엄 콘텐츠 입니다 ​ 에이풀은 신중년 A세대를 세상의 중심으로 연결하는  '중장년 액티브시니어 No.1 서비스' 입니다. 에이풀은 4060 소비트렌드조사를 통해 콘텐츠를 개발하고  높은 프라이드와 도전적인 삶의 욕구를 지닌 신중년의 라이프스타일과 최신정보를 공유합니다.  리서치 결과를 분석하고 자]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTQ3/MDAxNjQ5MjM1NDUxNTc1.l14njaQ7eWK9i6G-Uf__HO9PMED8ncLzHChmd7wQ12gg.J3DavtOk1Zq60qnpDKOJYQBMPIL2l2Ewow9Qrv95OIUg.JPEG/christian-lue-GzSJTU3vlD0-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA['사모펀드 대표' KKR이 이동통신 기지국(타워)에 눈독 들이는 까닭은 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220705080300175xj</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220705080300175xj</guid>
+            <pubDate>Mon, 11 Jul 2022 15:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[사모펀드 KKR은 한때 금융시장의 '비밀의 정원'으로 불렸습니다. 기업공개(IPO)를 하기 전엔 핵심 멤버들이 거의 공개되지 않아서입니다. 사우디아라비아 국왕부터 헐리우드 유명 스타까지 KKR에 뭉칫돈을 맡겼다는 소문이 무성했습니다.    '탐욕은 아름답다'고 외치는 시대인 1980년대 KKR은 논픽션 작품의 주인공이 되기도 했습니다. KKR이 대형 유통회사인 RJR나비스코를 적대적으]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDVfNTcg/MDAxNjU2OTc1NjkxNjc5.Kw2kHTAlW8266sOjxyChnW-OwZaSQ2UN8tqFlJt1dakg.mmlPyS32hTD3y-0QM3rowZSb4ciJbvmxMbE4kiJAIPgg.JPEG/KKR.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스타벅스 여름 e-프리퀀시 이벤트 시작! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/aful/trend4060/contents/220511122553385Iu</link>
-            <guid>https://contents.premium.naver.com/aful/trend4060/contents/220511122553385Iu</guid>
-            <pubDate>Sun, 10 Jul 2022 15:24:59 GMT</pubDate>
-            <content:encoded><![CDATA['4060 라이프'를 위한! 트렌드 정보 올 해도 어김없이, 스타벅스 2022 여름 e-프리퀀시 이벤트 시작! 매년 스타벅스에서는 여름 한정판 굿즈(기획상품)를 증정품으로 선보이는 여름 e-프리퀀시 이벤트를 진행하고 있습니다. 올 해에도 새로운 아이템들로 구성된 e-프리퀀시 이벤트가 진행된다고 하는데요, 이 글이 게시되는 날인 5월 10일 부터 2022년 이벤트가 진행되고 있습니다.  올]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTFfMjgy/MDAxNjUyMjM4OTc5NzU5.CPMfwVd1ZHb2ict3_rFHgz0ViaiNCws5fQHVXLaGEtMg.Rxn5bp1ciW0FzuYoMAuCsHSMMW0bw2lyYLoXmOqjuD4g.PNG/SE-82783575-4ef7-4aec-888a-e3d2d0ab9365.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[레이 달리오의 7월4일 편지, 러시아 제재가 야기할 스태그플레이션 위험 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/numbers/members/contents/220705020228853be</link>
+            <guid>https://contents.premium.naver.com/numbers/members/contents/220705020228853be</guid>
+            <pubDate>Mon, 11 Jul 2022 15:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[인플레이션과 금리인상으로 전세계 증시가 침체에 빠져 있어요. 이럴 때 일수록 한발 뒤로 빠져 관망하는 것도 미래를 위한 투자일텐데요. 마침 인플레이션 시기에는 가장 ‘안전한 투자’를 해야 한다고 강조해 온 레이 달리오가 쉬면서 읽으면 좋을 세계질서의 변화에 대한 견해를 SNS에 올렸어요. 투자의 대가는 요즘 어떤 생각을 하며 살아가고 있는지 궁금하신 독자라면 레]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDVfNTkg/MDAxNjU2OTU0MDgxNDc0.6aa4nVD_jbtLgae1KqDsMis4ltyAc5vuxzc4yuNwjSgg.0a9xy0_wQh6K37e5M_AvKzpzGwWU56cyxFseGqszIlkg.JPEG/%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C_n.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개방된 청와대 대정원에서 음악회 열린다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/aful/trend4060/contents/220517154830704Cv</link>
-            <guid>https://contents.premium.naver.com/aful/trend4060/contents/220517154830704Cv</guid>
-            <pubDate>Sun, 10 Jul 2022 15:24:59 GMT</pubDate>
-            <content:encoded><![CDATA['4060 라이프'를 위한! 트렌드 정보   대통령 집무실 이전으로 74년만에 청와대가 전면 개방되어 시민들에게 공개되었습니다.  현재 청와대 관람에 대한 수요가 매우 높아 청와대 관람 신청일이 내달 2일까지 연장되기도 했습니다. 대통령실은 이날 "청와대 국민개방을 위해 지난달 27일 오전 10시부터 시작된 관람 신청 접수는 지난 12일 0시 기준으로 231만 2740명을 돌파했다"고 전했]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTdfMTg0/MDAxNjUyNzY5NTU0OTk2.rdpV1_Tqb_sFpN5QdcbDq_1Nu2_RbxdXkbsyv9rwilAg.NmzHc5x0jc50aapHxPZ9AMGkzzkcMomhdarGUzQNOrgg.PNG/SE-798f9802-b8aa-4e66-86bf-c2ed78118433.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[스토리라인이 있는 임원 보고는 '공감'을 이끌어낸다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/teamleadersclub/pro/contents/220622111005594cd</link>
+            <guid>https://contents.premium.naver.com/teamleadersclub/pro/contents/220622111005594cd</guid>
+            <pubDate>Mon, 11 Jul 2022 15:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[장 상무는 삼성그룹에서 20년 이상 근무 후 외국계 반도체 설비회사에서 임원으로 근무하고 있습니다. 팀장 시절에 임원들을 대했던 경험과 현재 임원의 입장에서 바라본 팀장들이 꼭 알아줬으면 하는 그야말로 꿀팁들을 전합니다. 언제나 유쾌하면서도 부드러운 목소리로 필자를 반기는 장 상무는 함께 일하는 팀장들에 대해 언급할 때도 늘 "~~한 분"이라고 존칭하는 것을 놓치]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfMjU2/MDAxNjU1ODYzNjUyNTA1.cE7t6yRo4kptpSMwBiPkDuv76C79t-grWWH32WGA8c8g.RGLo1CFFTtHLAWunw1b9uSeIyt64eNt3Cxwglv6o-CUg.JPEG/GettyImages-jv12586407.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[취미 대신 재테크 공부를 해야 할까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/sunharoo/heewoo/contents/220609201352927xw</link>
-            <guid>https://contents.premium.naver.com/sunharoo/heewoo/contents/220609201352927xw</guid>
-            <pubDate>Sun, 10 Jul 2022 15:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[[정은 님의 고민 사연] 안녕하세요. 저는 20대 때부터 취미로 외국어, 운동, 글쓰기, 독서 등을 해 왔어요. 그런데 30대에 들어와서 취미들이 조금씩 자기 개발처럼 느껴져서 버거워져요. 외국어를 배우면 자격증이라도 따야 할 것 같고, 운동을 하다 보면 살이라도 빼야 할 것 같고... 이럴 시간에 차라리 재테크 공부를 하는 게 나을 것 같다는 생각도 들어요. 사회에서도 성과를 내]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDlfMTMg/MDAxNjU0NzczMDY1NTMz.NmQVqEbJ9SYQwg8JkD3MFj775plmX87wRXxupteC9UIg.6ivo759gl-IrnpDdTgnV9D39osPZX-xH6p8JuqY1v7wg.JPEG/SE-df499e43-ef5a-47a0-8272-d5fd684c928b.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[빽빽한 풀 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/susuba/mysusuba/contents/220705122509896yq</link>
+            <guid>https://contents.premium.naver.com/susuba/mysusuba/contents/220705122509896yq</guid>
+            <pubDate>Mon, 11 Jul 2022 15:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[44. 빽빽                                                                                (c) 2022 finger all rights reserved https://www.fingerpicturebook.com/]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDVfMTM2/MDAxNjU2OTkxMzcyMTQy.I-G3x70_Cpbg55sV2Q9DqyQ7VIv7zR4DRbr-cru-f9Ug.RCHLLHAt6Wl3R6CHGQ4JTqc__GDFQ2g-ZOuJTABnMGgg.JPEG/%EB%B9%BD%EB%BA%B5%ED%95%9C_%ED%92%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디자이너들이 제일 많이 물어보는 3가지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/lawmission/startupforest/contents/220613134602431tu</link>
-            <guid>https://contents.premium.naver.com/lawmission/startupforest/contents/220613134602431tu</guid>
-            <pubDate>Sun, 10 Jul 2022 15:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[🖋 이 글은 법무법인 미션의 변호사들과 스타트업 포레스트가 만드는 뉴스레터 '로스규이'의 6월 13일 월요일 발행분입니다.  🖋 스타트업 전문 로펌의 변호사로서, 더욱 많은 스타트업 관계자들에게 도움을 드리기 위해 매주 월요일에 레터를 무료로 보내드립니다. #로스규이 신청하기 링크 🖋 변호사의 관점으로 한 주간 스타트업 씬에서 일어난 일 혹은 스타트업 종사자들이 알]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTNfMTkz/MDAxNjU1MDg1MTkyNzQy.U_8LUoHceGFyafqddzYFtCA4j0TyU9wvtoLpTgYSaCYg.FwF84ac8IKgWslW98fVzDzLYnuwR1Sat14XMlCjwiP8g.PNG/%EB%A1%9C%EC%8A%A4%EA%B7%9C%EC%9D%B4_%EC%82%AC%EC%A7%84.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[재택근무 관련 외국 입법 상황 I - 유럽 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/goodoffice/weeklygoodoffice/contents/220705175806483tx</link>
+            <guid>https://contents.premium.naver.com/goodoffice/weeklygoodoffice/contents/220705175806483tx</guid>
+            <pubDate>Mon, 11 Jul 2022 15:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[재택근무와 관련한 우리나라의 법 규정은 어떻게 되어 있을까요? 안타깝게도 아직 우리나라에는 재택근무 및 리모트워크(원격근무)와 관련한 노동법의 규정은 없습니다. 놀랍게도, 노동법률과 근로기준법에 재택근무라는 단어는 존재하지도 않습니다. 반대로, 유럽과 몇몇 국가는 재택근무와 관련한 법 규정을 가지고 있습니다. 그러면 우리의 재택근무는 어떤 근거로 실시되]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDVfNzEg/MDAxNjU3MDExMjY3ODYz.UQFcoXtPJ1ldIVU4xHiAm7io_8b8vZol95UoSsE-waAg.ssGt37RC7eTvBxnFqgTgCc81M908domolx92leBqpbog.JPEG/EU_flag.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부조리를 자각하고, 진실한 삶을 향해 찾아갈 때, ‘진짜 삶’이 나타난다. ― 영화, <트루먼 쇼> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220704000607599bk</link>
-            <guid>https://contents.premium.naver.com/hermeneia/hermeneiacine/contents/220704000607599bk</guid>
-            <pubDate>Sun, 10 Jul 2022 15:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;트루먼 쇼&gt;는 재치있게 주제를 풀어가는 코미디 영화이면서, 많은 코미디 영화들이 흔히 그렇듯이 적절한 사회 풍자를 담고 있는 영화다. 코미디라는 장르에 맞게 상황을 유쾌하게 풀어가는 센스가 돋보인다. 덧붙여 선견지명이 있었던 것인지, 아니면 우연히 파격적인 상상력이 작금의 현실에 얻어 걸린 것인지, 영화 &lt;트루먼 쇼&gt;의 영화적 상황들은 오늘날 미디어 세대의 어떤]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDNfMjY5/MDAxNjU2ODYwMjE0MzI3.ELF-qXjy2Mu5ElTxsv9Lkct3XUlhbfbzl6zuIyubCfQg.cJzTzlpH7flM5OtvcCTb4erhczCvqMKLvZ08n3t0fPUg.JPEG/005456.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[SNS 사용자가 잘못했는데... 플랫폼도 벌받아야 한다? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/techdigest/tdigest/contents/220705142845311pi</link>
+            <guid>https://contents.premium.naver.com/techdigest/tdigest/contents/220705142845311pi</guid>
+            <pubDate>Mon, 11 Jul 2022 15:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[“지금부터 1시간 뒤 비행기를 폭발시키겠다”, “3일 뒤, XX을 납치하겠다” 이런 예고성 범죄, 테러는 영화에서만 나오는 줄 알았는데…. 최근 미국에서는 이런 일이 실제로 발생했습니다. 지난 5월 발생한 버팔로 총기 난사 사건이 대표적이죠. 범죄 예고에 라이브 방송까지 사건은 지난 5월 14일, 오후 2시 30분에 발생했습니다. 범인은 18세 백인 남성 페이튼 S. 젠드론. 범행 장]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDVfODkg/MDAxNjU2OTk4OTk5MjMz.ixe1H50OeIOpEVn5jMoE9g3sp9idupYp2RRpbF30SzUg.BEDDIaDZrCOApjlg2dhzzlZtpCaRqxZl6i5Oy3H36tUg.JPEG/SE-7dc35da0-bd79-4030-98f0-bedeabbc6e28.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김어준과 조선일보가 모두 주목한 'EU 택소노미' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/science2005/science/contents/220626222340754ey</link>
-            <guid>https://contents.premium.naver.com/science2005/science/contents/220626222340754ey</guid>
-            <pubDate>Sun, 10 Jul 2022 15:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[내일의 리더님께, 저는 요즘 유럽연합(EU) 의회에서 벌어지고 있는 택소노미 논란을 공부하고 있습니다. 지난 금요일, 늘 저에게 의미 깊은 좌표를 찍어주시는 구독자 서 선생님께서 '&lt;뉴스공장&gt;에서 이 내용을 들었는데 흥미롭다'면서 추천해 주시더군요.  검색을 시작하자마자 재미난 모습을 발견했습니다. &lt;뉴스공장&gt;에는 에너지 전환 시민단체 대표께서 출연하셔서 '재생에너]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfMjY4/MDAxNjU2MjQ5NDMxMTkx.A0YNxaQQDikUcIjORSGWXULkhPggJseWoP_5n8glqxcg.FWxkQs9-iWA49gRaYVC0OI3okbbKHZcncTSDc074OEAg.JPEG/EU%ED%83%9D%EC%86%8C%EB%85%B8%EB%AF%B8_%EC%83%81%EC%9E%84%EC%9C%84%EC%9B%90%ED%9A%8C%ED%91%9C%EA%B2%B0.JPG?type=nfs220_220" length="0" type="image/JPG"/>
+            <title><![CDATA[친기업 환경 찾아 공화당 주(州)로...美 기업들 ‘이주 물결' 합류 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220706074258028jf</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220706074258028jf</guid>
+            <pubDate>Mon, 11 Jul 2022 15:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[More Companies Join the ‘Great Migration’ to Red States 친기업 환경 찾아 공화당 주(州)로...美 기업들 ‘이주 물결' 합류 Amidst predictions of a political “red wave” in the upcoming mid-term elections, an economic wave has been building for years with no end in sight as companies flood out of blue states and into red states. 오는 11월 중간선거(임기 2년 연방 하원의원 435명 전원, 임기 6년 상원 3분의 1, 36개주 주지사 등을 선출)에서]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfODYg/MDAxNjU3MDYwMjg5MDI0.JvQu9G_8S2q_igjXAjNc5ADey76YvOBm_K8agchs_f0g.jMzzTDtde7oDI191wA61SKccgAZllTB_kbv0jFnsZfgg.JPEG/Tesla-Texas-1200x800-795x447.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[코카콜라 vs 펩시, 콜라시장에서 그들의 경쟁이야기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/wisebull/wisebull8991/contents/220704025252138eb</link>
-            <guid>https://contents.premium.naver.com/wisebull/wisebull8991/contents/220704025252138eb</guid>
-            <pubDate>Sun, 10 Jul 2022 15:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[코카콜라 vs 펩시, 탄산음료시장을 놓고 싸우는 그들의 이야기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDRfMjM3/MDAxNjU2ODY4MjA1OTI4.mSZdnQ5KH3WDR0q3UkbmQo1g0WTILGXNitvvKqsJDWEg.BqppdTvhR4GgDGUoG5AX8eWsJykA9QPfi_53Wult4ewg.PNG/%EC%BD%9C%EB%9D%BCvs%ED%8E%A9%EC%8B%9C_1.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테라와 루나의 폭락, 그리고 남은 이야기 Part.2 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jwjung/villainfinance/contents/220703231028666rj</link>
-            <guid>https://contents.premium.naver.com/jwjung/villainfinance/contents/220703231028666rj</guid>
-            <pubDate>Mon, 11 Jul 2022 14:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 오랜만에 인사를 드립니다. 지난 한 달 동안 업무 관계로 바쁜 일이 좀 많아서 글을 올리지 못했습니다. 글이 올라오지 않음에도 구독을 끊지 않고 기다려주신 독자분께 머리 숙여 감사의 인사를 드립니다. 지난 글에서는 테라와 루나의 폭락을 통해 뱅크런(Bank Run)의 위험을 알아보았습니다. 제가 이 채널을 통해 연재하는 글에서 몇차례 말씀드린 바 있듯이, 금융의]]></content:encoded>
+            <title><![CDATA[Authorized & Unauthorized Practice of Law (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/mytestprep/mytestprepnews/contents/220705161147377zf</link>
+            <guid>https://contents.premium.naver.com/mytestprep/mytestprepnews/contents/220705161147377zf</guid>
+            <pubDate>Mon, 11 Jul 2022 15:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[Unauthorized practice 라고 하면 해당 State 에서 변호사 Licese가 없는 사람이 법률활동을 하는 것을 말합니다.  그러니까 Unauthorized practice는 크게 보면 두 가지 경우가 있습니다. i) 변호사 License가 다른 State에 있지만 해당 State에서 License가 없는 경우 ii) 변호사가 아닌 사람들, 예를 들어, 법률 보조원 또는 세무사 등이 법률활동(Practice of law)를 하는 것 이 해당될 수 있습니다.  그럼 정확]]></content:encoded>
         </item>
     </channel>
 </rss>
