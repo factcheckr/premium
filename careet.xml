@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 23:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 02:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난 주말 Z세대를 성수로 향하게 한 브랜드: KBO&배달의민족]]></title>
+            <link>https://www.careet.net/816</link>
+            <guid>https://www.careet.net/816</guid>
+            <pubDate>Mon, 11 Jul 2022 02:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[브랜딩에 초점을 둔 팝업스토어 레퍼런스 두곳을 소개합니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/564cd53c-9f50-4650-a97e-ab261a8ab890_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SNS 힙하게 운영하고 싶다면? 필독해야 하는 이주의 떡상템]]></title>
             <link>https://www.careet.net/815</link>
