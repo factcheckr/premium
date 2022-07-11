@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-07-11T20:27:15.799Z</updated>
+    <updated>2022-07-11T21:21:56.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
-        <title type="html"><![CDATA[일본 정치를 뒤흔드는 사건이 발생했다. 배경에는 종교가 있었다.]]></title>
+        <title type="html"><![CDATA[아베 전 총리가 사망했다. 그의 정치인생 뒤에 숨겨진 종교가 향후 한일 관계를 풀어갈 힌트가 된다.]]></title>
         <id>https://www.bookjournalism.com/books/52596</id>
         <link href="https://www.bookjournalism.com/books/52596"/>
         <updated>2022-07-11T19:20:58.352Z</updated>
-        <content type="html"><![CDATA[아베의 세 가지 종교]]></content>
+        <content type="html"><![CDATA[아베와 세 가지 종교]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존과 미국 음식 배달 서비스 그럽허브가 협력안을 발표했다. 배달 시장은 하락세를 극복할 수 있을까.]]></title>
