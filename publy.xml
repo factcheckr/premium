@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-07-12T07:23:46.061Z</updated>
+    <updated>2022-07-12T08:42:59.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[7년차 구글러가 말하는 시간을 ‘내 것’으로 만드는 업무 루틴 (워크 사이클 템플릿 제공)]]></title>
+        <id>https://publy.co/content/6863?fr=category</id>
+        <link href="https://publy.co/content/6863?fr=category"/>
+        <updated>2022-07-12T08:41:43.504Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나답게' 일하고 싶은 요즘 팀원 성과내게 돕는 N가지 방법 [심화편]]]></title>
         <id>https://publy.co/content/6879?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6881?fr=category"/>
         <updated>2022-07-01T08:31:01.715Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일하는 마음과 앓는 마음: 일에 울고 웃는 당신에게]]></title>
-        <id>https://publy.co/content/6877?fr=category</id>
-        <link href="https://publy.co/content/6877?fr=category"/>
-        <updated>2022-06-30T08:32:23.579Z</updated>
-        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
     </entry>
 </feed>
