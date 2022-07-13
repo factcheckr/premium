@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-07-13T14:29:09.419Z</updated>
+    <updated>2022-07-13T15:28:23.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[일론 머스크로 대변되는 재벌 인플루언서의 영향력이 커지고 있다. 경제적·문화적 힘을 모두 지닌 그는 무적일까?]]></title>
+        <id>https://www.bookjournalism.com/books/52782</id>
+        <link href="https://www.bookjournalism.com/books/52782"/>
+        <updated>2022-07-13T15:28:13.345Z</updated>
+        <content type="html"><![CDATA[아무도 그를 막을 수 없다?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보리스 존슨의 런던 올림픽부지 개발은 주민들을 위한 것이 아니었다. 기업과 부자의 배만 불린 자리엔 폐허만 남았다.]]></title>
         <id>https://www.bookjournalism.com/books/52632</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/52244"/>
         <updated>2022-07-13T14:28:59.667Z</updated>
         <content type="html"><![CDATA[A세대가 온다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C테크가 기후 위기의 희망이 되고 있다. 그러나 관건은 우리 자신이다.]]></title>
-        <id>https://www.bookjournalism.com/books/52210</id>
-        <link href="https://www.bookjournalism.com/books/52210"/>
-        <updated>2022-07-13T14:28:59.677Z</updated>
-        <content type="html"><![CDATA[남 일 같은 이야기, 탄소]]></content>
     </entry>
 </feed>

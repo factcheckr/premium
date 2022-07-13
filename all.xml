@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 14:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 15:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -430,12 +430,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/3346eb17-0b3e-4e29-bafb-d1ec97eea957_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼말차 : 힙하게 우려낸 녹색 가루, 차의 대중화를 꿈꾸다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/357</link>
-            <guid>https://www.longblack.co/note/357</guid>
-            <pubDate>Tue, 12 Jul 2022 15:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;저 요즘 잠도 못자고 일하는 중이에요! 하루에 커피 네 잔을 마셔도 멍해요. 깨진 건 저의 위장뿐… 불쌍했는지, K가 슈퍼말차Super Matcha라는 말차 스틱<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220711/16575047450f54161fe0ba5783165c6f12d996094b.png" length="0" type="image/png"/>
+            <title><![CDATA[배우의 방, 정시우 : 인터뷰에는 시간이 만들어내는 기적이 동행한다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/352</link>
+            <guid>https://www.longblack.co/note/352</guid>
+            <pubDate>Wed, 13 Jul 2022 15:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B‘한 사람이 온다는 건 그의 일생이 함께 오는 것이다’라는 말이 있지요. 에디터인 저에게는 인터뷰가 그렇습니다. 좋은 인터뷰 글은, 시만큼이나 아름다우며 자기 계발<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220711/1657510113260689cd3ebcd3eb9f6112fde1c0bfb4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -726,6 +726,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[일론 머스크로 대변되는 재벌 인플루언서의 영향력이 커지고 있다. 경제적·문화적 힘을 모두 지닌 그는 무적일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52782</link>
+            <guid>https://www.bookjournalism.com/books/52782</guid>
+            <pubDate>Wed, 13 Jul 2022 15:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[아무도 그를 막을 수 없다?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[보리스 존슨의 런던 올림픽부지 개발은 주민들을 위한 것이 아니었다. 기업과 부자의 배만 불린 자리엔 폐허만 남았다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/52632</link>
             <guid>https://www.bookjournalism.com/books/52632</guid>
@@ -803,83 +810,75 @@
             <content:encoded><![CDATA[A세대가 온다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[C테크가 기후 위기의 희망이 되고 있다. 그러나 관건은 우리 자신이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52210</link>
-            <guid>https://www.bookjournalism.com/books/52210</guid>
-            <pubDate>Wed, 13 Jul 2022 14:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[남 일 같은 이야기, 탄소]]></content:encoded>
+            <title><![CDATA[싸이 흠뻑쇼를 '빗물' 흠뻑쇼로 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/science2005/science/contents/220701082430471yh</link>
+            <guid>https://contents.premium.naver.com/science2005/science/contents/220701082430471yh</guid>
+            <pubDate>Wed, 13 Jul 2022 15:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[내일의 리더님께, 지난주에 &lt;오마이뉴스&gt; 김예지 기자님으로부터 흥미로운 제안이 들어왔었어요.  요즘 SNS를 뜨겁게 달군 논란으로 '싸이 흠뻑쇼' 논란이라는 게 있는데 가만히 보니 이게 가뭄이나 기후 관련 내용이더래요. 그래서 저에게 이 논란을 기후 관점으로 써보는 것도 좋겠다고 제안을 하시더군요.  과연 기후 관련 논쟁이더군요. 콘서트 한 번 할 때마다 300톤 가량의 물]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDFfMTg5/MDAxNjU2NjMxMjI4Nzg0.556G3sAgWAZ8olUef3hN7wCUR4xO5HKxuzAO9qTIdhwg.okBeMn_Nona9uYILe2mdEqjHJZ5NXnVjZxuu1KmATCsg.JPEG/%EC%8B%B8%EC%9D%B4%ED%9D%A0%EB%BB%91%EC%87%BC_%EC%98%A4%EB%A7%88%EC%9D%B4%EB%89%B4%EC%8A%A4.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Tue, 12 Jul 2022 17:27:13 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[주식 풍향계가 되버린 SK하이닉스와 신저가를 기록 중인 와중에 세계최초 3나노 양산 발표를 한 삼성전자의 속마음 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/stockisacompany/pklinvestment/contents/220707082410175ja</link>
+            <guid>https://contents.premium.naver.com/stockisacompany/pklinvestment/contents/220707082410175ja</guid>
+            <pubDate>Wed, 13 Jul 2022 15:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 토리잘입니다. 최근 커뮤니티에 재미있는 짤이 돌았어요. 이제부터 주식의 선택 기준은 SK하이닉스다! 란 이름의 짤이었는데요. 하이닉스보다 싼가? 하이닉스보다 좋은가? 하이닉스보다 거래가 편한가? 하이닉스보다 빨리 오를 것인가? 등 선택 기준은 하이닉스라고 말은 하지만 사실상 하이닉스보다 못 나은 주식은 없을 것이다라고 조롱하는 짤이었어요. 이런 짤이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDdfMTk3/MDAxNjU3MTQ5Nzg4ODE5.sI2EhLF09JPZiUv9svYxClRWTUz9ypuiPxIU0my3jFwg.QDHopbON3MH7XRTHcoyW1W38gkW0LEXtUr_zml0gChkg.JPEG/AdobeStock_386434214_(1).jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[돈 버는 가장 확실한 방법. p2p투자 알려준다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220630120412306ji</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220630120412306ji</guid>
-            <pubDate>Wed, 13 Jul 2022 02:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[형이다. 다들 요즘 계좌 괜찮은지 묻고 싶다. 형은 어떻냐고. 생수병 붙잡고 숨만 간신히 쉬고 있다. 아마 이 글을 보는 사람들도 별반 다르지 않을 거라고 본다. 요즘  마이너스 -40% 계좌 쥐고 반등 오기만을 기다리는 사람들 많을 거다. 곧 반등할 거라고 믿고 본인이 저점을 완벽하게 잡을 수 있을 거라고 생각하는 사람들이 많은데 버핏형도 그거 못한다. 부자들도 돈 꽉 쥐고]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfNzIg/MDAxNjU2NTU4MTcwNjk5.P5D1hlep03h1HfQSBG_-jsm0BLSv0CRMZum24rqLDIwg._qHU4i_4l37RknPjoPezMk75hURib-Oxm00ovrOeS4cg.PNG/%EC%9E%AC%ED%85%8C%ED%81%AC.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[애플의 새로운 보안기능 'Lockdown mode' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220707085409099xt</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220707085409099xt</guid>
+            <pubDate>Wed, 13 Jul 2022 15:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[💬 무슨 일이지? 애플이 6일(현지시간) '잠금 모드(Lockdown mode)'라는 새로운 기능을 발표했습니다. 잠금모드는 디지털 보안상의 위협에 직면한 사용자들에게 최상의 보호 기능을 제공하기 위해 고안된 것인데요. 가령 스파이웨어에 표적이 될 수 있는 언론인, 인권운동가, 기업 간부 등 소수의 사용자를 위한거에요. 이 기능은 올 가을 iOS 16, iPadOS 16 및 macOS Ventura 출시와 함께 공개될]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDdfMjk1/MDAxNjU3MTUxNTU0NDQ2.1_cK61NJigVyOP_9dDpTw4YGXZwaWkqOceNrie3XVIEg.zNrGSj_blJRZKc-XCq6P7MdJT5wKt-BZw5lweRFBFWEg.JPEG/%EC%95%A0%ED%94%8C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기후변화와 '배달'의 기수들 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/science2005/science/contents/220628210741949gi</link>
-            <guid>https://contents.premium.naver.com/science2005/science/contents/220628210741949gi</guid>
-            <pubDate>Tue, 12 Jul 2022 15:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[내일의 리더님께, 본격적인 장마철입니다. 어제 후드득 무섭게 쏟아지는 빗줄기를 보면서, 만일 입장을 바꿔 제가 배달노동자라면 참 살 떨리겠다는 생각을 해봤습니다. '여기 치킨 한 마디 갖다주세요' '도시락 10세트요' 전화는 폭주하는데 밖에 나가면 죽음의 공포가 엄습하고... 어쩌면 농민들 이상으로 기후변화에 민감한 분들이 택배나 배달업 종사자들이 아닐까 싶었습니]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjhfNDAg/MDAxNjU2NDE3MDU5NjQ0.hfwCuBxlLPjcerXuPTJ8jxwp1bxKIRh_HCRTppx3WpMg.Pkzj2D15JvRzZiiRjMzPro4d7tqt_Zd_rxSsKhYUkLEg.JPEG/%EB%B0%B0%EB%8B%AC_%ED%8F%AD%EC%9A%B0_8_d01Ud018svcprzgme3n1dke_f6maon.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[0707 시황 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/1pro/01/contents/220707084530964ui</link>
+            <guid>https://contents.premium.naver.com/1pro/01/contents/220707084530964ui</guid>
+            <pubDate>Wed, 13 Jul 2022 15:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[9시 장 시작 전 그날의 급등이 예상되는 재료를 압축해 선보입니다. ​ 차트와 장 시작전 돈의 흐름 까지 살피기때문에 동시호가 개장 시각인 8시 40분 이 지나서 컨텐츠가 발행이 됩니다. ​ 구독예상시간은 0830~0845분 정도로 봐주시면 되겠습니다. https://www.seoul.co.kr/news/newsView.php?id=20220707002017&amp;wlog_tag3=naver [줌인] 탈원전파도 친원전파로…美 에너지대란 속 유일한 대안 부상한 원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[文 ‘신남방 정책’의 비싼 수업료...KB, 이번엔 2600억 쐈다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/secon/zoozoo/contents/220706111346289ou</link>
-            <guid>https://contents.premium.naver.com/secon/zoozoo/contents/220706111346289ou</guid>
-            <pubDate>Tue, 12 Jul 2022 15:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 금융그룹으로의 전환을 위한 인고의 시간일까요, 아니면 지난 정부의 어설픈 신남방 정책에 보조를 맞춘 대가일까요.   국내 은행들이 우물 안 개구리를 벗어나기 위해 해외 진출을 오래 전부터 도모해 왔습니다.   하지만 아직까지는 득보다 실이 커 보입니다. 돈은 돈 대로 들고 뚜렷한 성과는 얻지 못하고 있습니다.    물론 성급한 결론일 수 있습니다. 해외 시장 개척]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMTIz/MDAxNjU3MDczMzA2ODgz.gpJ7E4TvryXOI6ym2XfC4iTYzK8dZ4UoCcFcHRW3hjYg.7T__UdNTWqXdGYl3-r7VSB0Qa-Ubjx40KVXsKKNsESAg.JPEG/KakaoTalk_20220706_105506750.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[6월 FOMC 의사록 리뷰 - 성장둔화보다 물가안정을 강조, 금융안정에 주목할 필요성 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/wonseconomy/wonsglobaleconomy/contents/220707130804381sa</link>
+            <guid>https://contents.premium.naver.com/wonseconomy/wonsglobaleconomy/contents/220707130804381sa</guid>
+            <pubDate>Wed, 13 Jul 2022 15:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[(아래 글을 통해 채널 내 전반적인 콘텐츠를 확인하실 수 있습니다) 1. 놀라운 5월 CPI 결과  "거의 모든 참가자들(almost all participants)"은 6월 FOMC에서 75bp 기준금리인상에 찬성했습니다. 한 명의 참가자만 50bp 인상을 선호했는데, 에스더 조지 캔자스시티 연준 총재였습니다. 파월 연준 의장은 6월 FOMC 기자회견에서 5월 CPI 결과가 놀라웠다고 말했습니다. 의사록에서도 같은 의견이 표]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDdfNDkg/MDAxNjU3MTY2MzY3OTEw.vQj0faIiJhsfgfmHXb5h_eBWROuRdqlFqp3CRx7AfGog.4uevMC8bOTUpuGR7VMWC31K826AjYeqLUwW5LM1SYOEg.JPEG/%EB%B0%B0%EA%B2%BD.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포드 2분기 판매량, 시장 예상치 하회 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220706083659315ov</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220706083659315ov</guid>
-            <pubDate>Tue, 12 Jul 2022 15:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[무슨 일이지? 5일(현지시간) 포드는 2분기 차량 판매량이 48만 3688대로 집계됐다고 발표했습니다. 이는 전년 동기 대비 1.8% 증가한 수치입니다. 특히 6월 판매 실적이 크게 개선된 점이 눈에 띕니다. 지난해 6월 대비 판매량이 31.5%나 급증했습니다. 하지만 포드의 2분기 판매 실적은 시장 기대치를 충족하진 못했습니다. 현지 투자은행(IB)에서는 포드의 2분기 판매 실적이 3.3~5.1% 가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMTA4/MDAxNjU3MDY0MTc5ODI0.zuw2NQhT7ebw8RYc4ZjkAZEjl16vQQC95TkPYvHOyLAg.AUDZ-dcX5omtQ7FJKCq9eTxRcy-eRB7BR7xS5JrdJxsg.JPEG/%ED%8F%AC%EB%93%9C%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[아마존, 음식배달 사업 노린다? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220707090133446ub</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220707090133446ub</guid>
+            <pubDate>Wed, 13 Jul 2022 15:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[무슨 일이지?  6일(현지시간) 아마존은 음식주문배달 플랫폼 그럽허브(Grubhub)의 주식 2%을 인수한다고 밝혔습니다. 그럽허브는 유럽 식품 대기업  저스트잇테이크어웨이닷컴(이하 저스트잇)의 미국 자회사로서, 우리나라의 ‘배달의 민족’과 같은 성격의 플랫폼이라고 할 수 있습니다. 경제매체 CNBC에 따르면 아마존은 신규 고객 수가 늘어나는 등 특정 조건이 만족되면 그럽허]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDdfMjcx/MDAxNjU3MTUxOTk4ODcx.oooZW1jv-LTiex_IOEt0zFRK4xbHDchH2evb8n9IbCcg.-OI4rbIOLEsuAs_9pz9R1WPcY_SmqCfUAuLaaneRkIsg.JPEG/Photo_by_Christian_Wiediger_on_Unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[과학으로 찾아 본 좀비의 매력! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/scienceboy/sboy/contents/220706111731305fh</link>
-            <guid>https://contents.premium.naver.com/scienceboy/sboy/contents/220706111731305fh</guid>
-            <pubDate>Tue, 12 Jul 2022 15:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[공포 영화의 계절, 여름이 돌아왔습니다! 최근 몇 년 동안은 좀비물이 단연 인기였는데요. 우리는 왜 좀비를 두려워하면서도 찾아 보는 걸까요? 좀비는 진짜 나타날 가능성이 있을까요? 좀비에 관한 궁금증을 과학으로 풀어보겠습니다.  1900년대, 북아메리카 아이티의 *부두교 주술사가 사람에게 묘약을 흡입시켜 좀비로 만들었다는 이야기가 있습니다. 묘약을 흡입한 사람은 이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMTgy/MDAxNjU3MDczNTg2ODkx.tZ9YLJINtAZWC8lXja_81EmGd7eAorE3Cj2DISbkEwkg.QViY0Er8WJTTXdHHYlaoLmZcEkzKzd22o-bFYtC-2nkg.JPEG/SE-e1664d83-7738-443d-82bf-e2e9a561ebbe.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[커넥트레터] 바로 지금, 신선 물류센터가 남아 도는 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/connectx/us/contents/220707132430628xi</link>
+            <guid>https://contents.premium.naver.com/connectx/us/contents/220707132430628xi</guid>
+            <pubDate>Wed, 13 Jul 2022 15:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[[커넥트레터 무료 구독하기] [카카오톡으로 매일 유통물류 소식 받기(무료)] 가장 강력한 지표 안녕하세요, 지난주 뉴스레터 수신거부가 단 한 건도 없어 기분 좋은 엄지용입니다. 특히나 대놓고 광고(...) 이야기를 주제로 꺼냈음에 불구하고, 만들어진 숫자라 더욱 기쁩니다. 첨언하자면 지난주 수요일 별도로 발송했던 광고 콘텐츠는 성공적이었습니다. 스티비(커넥트레터 운영]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDdfMjUz/MDAxNjU3MTY3Mzg3MDI5.xGoE7EcDNerL12Ib68D0H6_Q7qSWnCY0Dz3zERBTO6Ug.hf_gat7UhT1KfC-2S6qmMGmjGDQim4R4FNuPV8LV4wsg.JPEG/%EB%A9%94%EC%9D%B8%EC%BB%B7.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LG엔솔 일냈다🤭 일본서 1조 잭팟🎉 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220706084048823lw</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220706084048823lw</guid>
-            <pubDate>Tue, 12 Jul 2022 15:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[📈 뉴욕증시  ☝미장 체크포인트 ✅ 뉴욕증시, 유가하락에 에너지주 급락·기술주 강세 ✅ 아마존 3.6%↑·비트코인 2%↑ 5일(화) 미국 증시는 1) 달러화 초강세, 2)침체 불안에 따른 유럽 증시 급락 등 악재가 상존했음에도 a) 국제유가(-8.2%) 등 원자재 급락, b) 대중 관세인하 기대, c) 시장금리 하락 사태가 에너지(-4.0%) 등 시클리컬 주들에게 약세요인으로 작용한 반면 기술(+1.2%) 등]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMjg1/MDAxNjU3MDY0NDM1Njc5.DGor18s2no8H3xaY_lVTHtP8dxokH9FnxPdckE4kuVIg.ty-hkqUaumrOt9XppakVpQoXTK5V8qjM1aQnd-K7zuAg.JPEG/01.30314972.1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[리치 Trend 18편] 미국 증시는 어디까지 내려갈까요..? #약세장 #투자전략 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/richplatform/therichplatform/contents/220621101159377id</link>
+            <guid>https://contents.premium.naver.com/richplatform/therichplatform/contents/220621101159377id</guid>
+            <pubDate>Wed, 13 Jul 2022 15:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 주가가 너무 하락해서 우울하다는 분들이 많이 계십니다. 지난 몇 년간 장이 너무 좋아서 주식 비중을 늘리신 분들이 많았는데 연이은 악재로 끝모르게 추락하고 있으니 너무 힘든 상황이죠. 지금의 상황에 대해 이제 거의 바닥을 찍은거 아니냐 하며 희망의 불씨를 살리는 분들도 계시고 아직 더 많은 피를 흘려야 찐바닥이 나온다라며 더욱 마음을 단단히 먹으라고 이야]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjFfNiAg/MDAxNjU1NzczODExODUx.TYDt5p81x8NA_eM3XLLr1wI8cAzwetnEItxHq97HqkYg.4GQXJVA6hC3LQiQjNGbkIgK0IfyYimnA0Q8Ksm_QKp0g.PNG/%EB%B0%94%EB%8B%A5.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[1. 나는 늘 아빠편이였다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bscacompany/tarryhouse/contents/220706132039023za</link>
-            <guid>https://contents.premium.naver.com/bscacompany/tarryhouse/contents/220706132039023za</guid>
-            <pubDate>Tue, 12 Jul 2022 15:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[나는 어렸을 적부터 늘 아빠 편이었다. 그 이유는 하나뿐인 남동생이 늘 엄마 편이었기 때문이다. 나는 늘 엄마 편인 동생 때문에 어린 마음에 아빠가 불쌍했다. 어릴 적 우리 집은 시골집이었다. 작은 시골에 조금만 더 걸어가면 가까운 곳에 할머니 댁도 있었다. 시골에 시집와 농사를 짓던 엄마는 아빠와 함께 도시로 가기 위해 무던히 노력했다. 할아버지의 반대를 무릅쓰고]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMjUg/MDAxNjU3MDc5ODY2MTQw.7-TPQSAZk4tkV86nEMtEV-snP3GE8SBh_CzmRku8Dmkg.PdRMklPePw4RybXHsM1qxChC6N36WP7EKNC8GKAWSawg.JPEG/KakaoTalk_20220704_142937660.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내일 AI 국내주식] 연기금 선호 전력인프라주 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/tudal/master/contents/220628171031452qg</link>
-            <guid>https://contents.premium.naver.com/tudal/master/contents/220628171031452qg</guid>
-            <pubDate>Wed, 13 Jul 2022 14:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[우리증시도 분기, 반기 리밸런싱의 저점 수요로  상승 확대하며 마감했습니다   내달부터 전개될 2분기 기업실적 발표 시즌이 리밸런싱의  참고 요소가 될 것으로 판단됩니다. 특징 - 단기, 중기, 장기 등 모든 구간에서 ‘긍정’인 종목은 조선기자재 기업인 한국카본과 성광벤드임 - 단기와 중기 측면에서 시가총액 1,500억원인 기업으로 압축해 선정됨       주가 현황  LS ELECTRIC(01]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjhfOSAg/MDAxNjU2NDAzNzQ2NDQ0.0LD_LkyDLEDbAqhVI1j4EM1cxHXwJcA1A3xcbIh8n-Ig.Ys23iIkCwpLzrDzSK5jrWdlahVz4v2vqrMZ_C7S6Dz8g.PNG/%EB%82%B4%EC%9D%BC.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[[개봉작 리뷰]<탑건>이 전설을 소환하는 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bestscene/savingmylife/contents/220707153826045uf</link>
+            <guid>https://contents.premium.naver.com/bestscene/savingmylife/contents/220707153826045uf</guid>
+            <pubDate>Wed, 13 Jul 2022 15:28:23 GMT</pubDate>
+            <content:encoded><![CDATA['멋'을 한계치까지 끌어올린 오락 영화 1987 &lt;탑건&gt; 1987년에 개봉한 영화 &lt;탑건&gt;은 최정예 전투기 파일럿 프로그램에 소집된 주인공의 성장기를 그리는 영화로, 당시 상업영화의 표본이라고 할 만한 작품이다. 물론 여기서 표본이라고 한다고 '원조'나 '대표' 같은 좋은 뜻만 품고 있는 건 아니다. 그저 톰 크루즈라는 배우의 멋을 한껏 끌어올리기 위해 영화의 기본적인 요소를 포기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDdfMjIy/MDAxNjU3MTc0ODUxMzc5.Cqc3BahI4a7pWAiJaAKIcH6Dk9YyCK4rMNLENHgncikg.2hvnJpdRaxYMuTv9vDCc1THULyEaWLeLa3R_POjDoVAg.JPEG/2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
