@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 07:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 08:31:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘낀 팀장'을 위한 PPT 보고서 작성 노하우 (+템플릿 3종) (퍼블리)]]></title>
+            <link>https://publy.co/content/6887?fr=category</link>
+            <guid>https://publy.co/content/6887?fr=category</guid>
+            <pubDate>Wed, 13 Jul 2022 08:30:06 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3번 이직한 PM이 알려주는 '이직 전 생각할 것들' (퍼블리)]]></title>
+            <link>https://publy.co/content/6857?fr=category</link>
+            <guid>https://publy.co/content/6857?fr=category</guid>
+            <pubDate>Wed, 13 Jul 2022 08:30:06 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[7년차 구글러가 말하는 시간을 ‘내 것’으로 만드는 업무 루틴 (워크 사이클 템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/6863?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6866?fr=category</guid>
             <pubDate>Tue, 05 Jul 2022 08:29:00 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일 잘하는 리더에겐 '이것'이 있다 - 민음사 조아란 편 (퍼블리)]]></title>
-            <link>https://publy.co/content/6859?fr=category</link>
-            <guid>https://publy.co/content/6859?fr=category</guid>
-            <pubDate>Mon, 04 Jul 2022 09:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GA에서 뭔가 놓치고 있는 거 같다면? 데이터 분석가& 마케터가 반드시 알아야 할 어트리뷰션 이야기 (퍼블리)]]></title>
-            <link>https://publy.co/content/6881?fr=category</link>
-            <guid>https://publy.co/content/6881?fr=category</guid>
-            <pubDate>Fri, 01 Jul 2022 08:31:01 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[기업에서 운영하는 ‘메타버스 영업점’, Z세대 51.6%는 방문할 의향이 있다 (캐릿)]]></title>
@@ -810,14 +810,6 @@
             <content:encoded><![CDATA[혐오와 생존의 시대, 사랑을 위한 스트리밍]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[돈 버는 가장 확실한 방법. p2p투자 알려준다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220630120412306ji</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220630120412306ji</guid>
-            <pubDate>Wed, 13 Jul 2022 02:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[형이다. 다들 요즘 계좌 괜찮은지 묻고 싶다. 형은 어떻냐고. 생수병 붙잡고 숨만 간신히 쉬고 있다. 아마 이 글을 보는 사람들도 별반 다르지 않을 거라고 본다. 요즘  마이너스 -40% 계좌 쥐고 반등 오기만을 기다리는 사람들 많을 거다. 곧 반등할 거라고 믿고 본인이 저점을 완벽하게 잡을 수 있을 거라고 생각하는 사람들이 많은데 버핏형도 그거 못한다. 부자들도 돈 꽉 쥐고]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfNzIg/MDAxNjU2NTU4MTcwNjk5.P5D1hlep03h1HfQSBG_-jsm0BLSv0CRMZum24rqLDIwg._qHU4i_4l37RknPjoPezMk75hURib-Oxm00ovrOeS4cg.PNG/%EC%9E%AC%ED%85%8C%ED%81%AC.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
             <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
@@ -826,12 +818,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[文 ‘신남방 정책’의 비싼 수업료...KB, 이번엔 2600억 쐈다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/secon/zoozoo/contents/220706111346289ou</link>
-            <guid>https://contents.premium.naver.com/secon/zoozoo/contents/220706111346289ou</guid>
-            <pubDate>Tue, 12 Jul 2022 15:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 금융그룹으로의 전환을 위한 인고의 시간일까요, 아니면 지난 정부의 어설픈 신남방 정책에 보조를 맞춘 대가일까요.   국내 은행들이 우물 안 개구리를 벗어나기 위해 해외 진출을 오래 전부터 도모해 왔습니다.   하지만 아직까지는 득보다 실이 커 보입니다. 돈은 돈 대로 들고 뚜렷한 성과는 얻지 못하고 있습니다.    물론 성급한 결론일 수 있습니다. 해외 시장 개척]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMTIz/MDAxNjU3MDczMzA2ODgz.gpJ7E4TvryXOI6ym2XfC4iTYzK8dZ4UoCcFcHRW3hjYg.7T__UdNTWqXdGYl3-r7VSB0Qa-Ubjx40KVXsKKNsESAg.JPEG/KakaoTalk_20220706_105506750.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[돈 버는 가장 확실한 방법. p2p투자 알려준다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220630120412306ji</link>
+            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220630120412306ji</guid>
+            <pubDate>Wed, 13 Jul 2022 02:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[형이다. 다들 요즘 계좌 괜찮은지 묻고 싶다. 형은 어떻냐고. 생수병 붙잡고 숨만 간신히 쉬고 있다. 아마 이 글을 보는 사람들도 별반 다르지 않을 거라고 본다. 요즘  마이너스 -40% 계좌 쥐고 반등 오기만을 기다리는 사람들 많을 거다. 곧 반등할 거라고 믿고 본인이 저점을 완벽하게 잡을 수 있을 거라고 생각하는 사람들이 많은데 버핏형도 그거 못한다. 부자들도 돈 꽉 쥐고]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfNzIg/MDAxNjU2NTU4MTcwNjk5.P5D1hlep03h1HfQSBG_-jsm0BLSv0CRMZum24rqLDIwg._qHU4i_4l37RknPjoPezMk75hURib-Oxm00ovrOeS4cg.PNG/%EC%9E%AC%ED%85%8C%ED%81%AC.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[기후변화와 '배달'의 기수들 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -842,12 +834,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjhfNDAg/MDAxNjU2NDE3MDU5NjQ0.hfwCuBxlLPjcerXuPTJ8jxwp1bxKIRh_HCRTppx3WpMg.Pkzj2D15JvRzZiiRjMzPro4d7tqt_Zd_rxSsKhYUkLEg.JPEG/%EB%B0%B0%EB%8B%AC_%ED%8F%AD%EC%9A%B0_8_d01Ud018svcprzgme3n1dke_f6maon.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[과학으로 찾아 본 좀비의 매력! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/scienceboy/sboy/contents/220706111731305fh</link>
-            <guid>https://contents.premium.naver.com/scienceboy/sboy/contents/220706111731305fh</guid>
+            <title><![CDATA[文 ‘신남방 정책’의 비싼 수업료...KB, 이번엔 2600억 쐈다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/secon/zoozoo/contents/220706111346289ou</link>
+            <guid>https://contents.premium.naver.com/secon/zoozoo/contents/220706111346289ou</guid>
             <pubDate>Tue, 12 Jul 2022 15:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[공포 영화의 계절, 여름이 돌아왔습니다! 최근 몇 년 동안은 좀비물이 단연 인기였는데요. 우리는 왜 좀비를 두려워하면서도 찾아 보는 걸까요? 좀비는 진짜 나타날 가능성이 있을까요? 좀비에 관한 궁금증을 과학으로 풀어보겠습니다.  1900년대, 북아메리카 아이티의 *부두교 주술사가 사람에게 묘약을 흡입시켜 좀비로 만들었다는 이야기가 있습니다. 묘약을 흡입한 사람은 이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMTgy/MDAxNjU3MDczNTg2ODkx.tZ9YLJINtAZWC8lXja_81EmGd7eAorE3Cj2DISbkEwkg.QViY0Er8WJTTXdHHYlaoLmZcEkzKzd22o-bFYtC-2nkg.JPEG/SE-e1664d83-7738-443d-82bf-e2e9a561ebbe.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[글로벌 금융그룹으로의 전환을 위한 인고의 시간일까요, 아니면 지난 정부의 어설픈 신남방 정책에 보조를 맞춘 대가일까요.   국내 은행들이 우물 안 개구리를 벗어나기 위해 해외 진출을 오래 전부터 도모해 왔습니다.   하지만 아직까지는 득보다 실이 커 보입니다. 돈은 돈 대로 들고 뚜렷한 성과는 얻지 못하고 있습니다.    물론 성급한 결론일 수 있습니다. 해외 시장 개척]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMTIz/MDAxNjU3MDczMzA2ODgz.gpJ7E4TvryXOI6ym2XfC4iTYzK8dZ4UoCcFcHRW3hjYg.7T__UdNTWqXdGYl3-r7VSB0Qa-Ubjx40KVXsKKNsESAg.JPEG/KakaoTalk_20220706_105506750.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포드 2분기 판매량, 시장 예상치 하회 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -858,12 +850,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMTA4/MDAxNjU3MDY0MTc5ODI0.zuw2NQhT7ebw8RYc4ZjkAZEjl16vQQC95TkPYvHOyLAg.AUDZ-dcX5omtQ7FJKCq9eTxRcy-eRB7BR7xS5JrdJxsg.JPEG/%ED%8F%AC%EB%93%9C%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1. 나는 늘 아빠편이였다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bscacompany/tarryhouse/contents/220706132039023za</link>
-            <guid>https://contents.premium.naver.com/bscacompany/tarryhouse/contents/220706132039023za</guid>
+            <title><![CDATA[과학으로 찾아 본 좀비의 매력! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/scienceboy/sboy/contents/220706111731305fh</link>
+            <guid>https://contents.premium.naver.com/scienceboy/sboy/contents/220706111731305fh</guid>
             <pubDate>Tue, 12 Jul 2022 15:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[나는 어렸을 적부터 늘 아빠 편이었다. 그 이유는 하나뿐인 남동생이 늘 엄마 편이었기 때문이다. 나는 늘 엄마 편인 동생 때문에 어린 마음에 아빠가 불쌍했다. 어릴 적 우리 집은 시골집이었다. 작은 시골에 조금만 더 걸어가면 가까운 곳에 할머니 댁도 있었다. 시골에 시집와 농사를 짓던 엄마는 아빠와 함께 도시로 가기 위해 무던히 노력했다. 할아버지의 반대를 무릅쓰고]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMjUg/MDAxNjU3MDc5ODY2MTQw.7-TPQSAZk4tkV86nEMtEV-snP3GE8SBh_CzmRku8Dmkg.PdRMklPePw4RybXHsM1qxChC6N36WP7EKNC8GKAWSawg.JPEG/KakaoTalk_20220704_142937660.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[공포 영화의 계절, 여름이 돌아왔습니다! 최근 몇 년 동안은 좀비물이 단연 인기였는데요. 우리는 왜 좀비를 두려워하면서도 찾아 보는 걸까요? 좀비는 진짜 나타날 가능성이 있을까요? 좀비에 관한 궁금증을 과학으로 풀어보겠습니다.  1900년대, 북아메리카 아이티의 *부두교 주술사가 사람에게 묘약을 흡입시켜 좀비로 만들었다는 이야기가 있습니다. 묘약을 흡입한 사람은 이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMTgy/MDAxNjU3MDczNTg2ODkx.tZ9YLJINtAZWC8lXja_81EmGd7eAorE3Cj2DISbkEwkg.QViY0Er8WJTTXdHHYlaoLmZcEkzKzd22o-bFYtC-2nkg.JPEG/SE-e1664d83-7738-443d-82bf-e2e9a561ebbe.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG엔솔 일냈다🤭 일본서 1조 잭팟🎉 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -874,12 +866,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMjg1/MDAxNjU3MDY0NDM1Njc5.DGor18s2no8H3xaY_lVTHtP8dxokH9FnxPdckE4kuVIg.ty-hkqUaumrOt9XppakVpQoXTK5V8qjM1aQnd-K7zuAg.JPEG/01.30314972.1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굿모닝러너 챌린지 [101일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gmrc/runner/contents/220706154816750bu</link>
-            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220706154816750bu</guid>
-            <pubDate>Wed, 13 Jul 2022 07:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[굿모닝러너 챌린지 [101일차] 굿모닝러너님, 오늘 하루 나의 작은 성공을 기록으로 남겨 오랫동안 기억해보세요. 목표를 향한 집중력이 아주 높아질거에요 ! :)   굿모닝러너_챌린지101일차 #20220707 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록 예시) 닉네]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMzkg/MDAxNjU3MDkwMDM4Nzg4.b_k9VGH5tH77ctie60-S58iEmb9XKBK4PcnMFat50dUg.ZDyydnk4kOGpe7_lGEPGYMTqupNmvkG4zSnkqBLfBUkg.JPEG/KakaoTalk_20220706_154547110.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[1. 나는 늘 아빠편이였다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bscacompany/tarryhouse/contents/220706132039023za</link>
+            <guid>https://contents.premium.naver.com/bscacompany/tarryhouse/contents/220706132039023za</guid>
+            <pubDate>Tue, 12 Jul 2022 15:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[나는 어렸을 적부터 늘 아빠 편이었다. 그 이유는 하나뿐인 남동생이 늘 엄마 편이었기 때문이다. 나는 늘 엄마 편인 동생 때문에 어린 마음에 아빠가 불쌍했다. 어릴 적 우리 집은 시골집이었다. 작은 시골에 조금만 더 걸어가면 가까운 곳에 할머니 댁도 있었다. 시골에 시집와 농사를 짓던 엄마는 아빠와 함께 도시로 가기 위해 무던히 노력했다. 할아버지의 반대를 무릅쓰고]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA3MDZfMjUg/MDAxNjU3MDc5ODY2MTQw.7-TPQSAZk4tkV86nEMtEV-snP3GE8SBh_CzmRku8Dmkg.PdRMklPePw4RybXHsM1qxChC6N36WP7EKNC8GKAWSawg.JPEG/KakaoTalk_20220704_142937660.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[내일 AI 국내주식] 연기금 선호 전력인프라주 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/tudal/master/contents/220628171031452qg</link>
+            <guid>https://contents.premium.naver.com/tudal/master/contents/220628171031452qg</guid>
+            <pubDate>Wed, 13 Jul 2022 08:31:15 GMT</pubDate>
+            <content:encoded><![CDATA[우리증시도 분기, 반기 리밸런싱의 저점 수요로  상승 확대하며 마감했습니다   내달부터 전개될 2분기 기업실적 발표 시즌이 리밸런싱의  참고 요소가 될 것으로 판단됩니다. 특징 - 단기, 중기, 장기 등 모든 구간에서 ‘긍정’인 종목은 조선기자재 기업인 한국카본과 성광벤드임 - 단기와 중기 측면에서 시가총액 1,500억원인 기업으로 압축해 선정됨       주가 현황  LS ELECTRIC(01]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjhfOSAg/MDAxNjU2NDAzNzQ2NDQ0.0LD_LkyDLEDbAqhVI1j4EM1cxHXwJcA1A3xcbIh8n-Ig.Ys23iIkCwpLzrDzSK5jrWdlahVz4v2vqrMZ_C7S6Dz8g.PNG/%EB%82%B4%EC%9D%BC.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
