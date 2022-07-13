@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 04:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 05:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나답게' 일하고 싶은 요즘 팀원 성과내게 돕는 N가지 방법 [심화편] (퍼블리)]]></title>
+            <title><![CDATA[팀원이 알아서 일하길 바란다면? 작게 시도해보는 13가지 방법 (심화편) (퍼블리)]]></title>
             <link>https://publy.co/content/6879?fr=category</link>
             <guid>https://publy.co/content/6879?fr=category</guid>
             <pubDate>Mon, 11 Jul 2022 09:24:48 GMT</pubDate>
@@ -43,7 +43,7 @@
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나답게' 일하고 싶은 요즘 팀원 성과내게 돕는 N가지 방법 [기본편] (퍼블리)]]></title>
+            <title><![CDATA[팀원이 알아서 일하길 바란다면? 작게 시도해보는 13가지 방법 (기본편) (퍼블리)]]></title>
             <link>https://publy.co/content/6862?fr=category</link>
             <guid>https://publy.co/content/6862?fr=category</guid>
             <pubDate>Thu, 07 Jul 2022 08:31:07 GMT</pubDate>
