@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 23:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 02:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기업에서 운영하는 ‘메타버스 영업점’, Z세대 51.6%는 방문할 의향이 있다]]></title>
+            <link>https://www.careet.net/818</link>
+            <guid>https://www.careet.net/818</guid>
+            <pubDate>Wed, 13 Jul 2022 02:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[단, 메타버스를 잘 이해한 매장인 경우에 한해서요.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/30b222e3-5489-4a4e-814c-8907c6f63ac0_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퍼스널 컬러만큼 핫하다! 퍼스널 헬스케어 트렌드 5]]></title>
             <link>https://www.careet.net/817</link>
