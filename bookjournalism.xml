@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-07-14T14:23:50.498Z</updated>
+    <updated>2022-07-14T15:29:19.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[안면 인식 기술을 둘러싼 논란이 끊이지 않는다. 정보가 자본과 권력이 된 시대에서 얼굴은 어떤 문제인가?]]></title>
+        <id>https://www.bookjournalism.com/books/52848</id>
+        <link href="https://www.bookjournalism.com/books/52848"/>
+        <updated>2022-07-14T15:29:08.798Z</updated>
+        <content type="html"><![CDATA[쪼개진 얼굴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일론 머스크로 대변되는 재벌 인플루언서의 영향력이 커지고 있다. 경제적·문화적 힘을 모두 지닌 그는 무적일까?]]></title>
         <id>https://www.bookjournalism.com/books/52782</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/52282"/>
         <updated>2022-07-14T14:23:41.368Z</updated>
         <content type="html"><![CDATA[빚투도 리콜이 되나요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구매력 있는 노년층, A세대가 주목받는다. MZ세대에 이어 유의미한 시장 변화를 이끌 수 있을까?]]></title>
-        <id>https://www.bookjournalism.com/books/52244</id>
-        <link href="https://www.bookjournalism.com/books/52244"/>
-        <updated>2022-07-14T14:23:41.369Z</updated>
-        <content type="html"><![CDATA[A세대가 온다]]></content>
     </entry>
 </feed>

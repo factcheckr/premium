@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 14:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 15:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -446,12 +446,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/3346eb17-0b3e-4e29-bafb-d1ec97eea957_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[배우의 방, 정시우 : 인터뷰에는 시간이 만들어내는 기적이 동행한다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/352</link>
-            <guid>https://www.longblack.co/note/352</guid>
-            <pubDate>Wed, 13 Jul 2022 15:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;‘한 사람이 온다는 건 그의 일생이 함께 오는 것이다’라는 말이 있지요. 에디터인 저에게는 인터뷰가 그렇습니다. 좋은 인터뷰 글은, 시만큼이나 아름다우며 자기 계<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220711/1657510113260689cd3ebcd3eb9f6112fde1c0bfb4.png" length="0" type="image/png"/>
+            <title><![CDATA[닥터 브로너스 : 5대째 비누 장인 가문이 만드는, 신념을 담은 뷰티 브랜드 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/351</link>
+            <guid>https://www.longblack.co/note/351</guid>
+            <pubDate>Thu, 14 Jul 2022 15:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K‘우리는 모두 하나다All one’ ‘모든 것은 건설적이고 도덕적인 토대 위에서 이뤄져야 한다The Moral ABC’.&nbsp;이게 다 무슨 소리냐고요? 아침마다 쓰는 <span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220708/1657265841c4269eedc9aa2efc90962e34d1772ce3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -742,6 +742,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[안면 인식 기술을 둘러싼 논란이 끊이지 않는다. 정보가 자본과 권력이 된 시대에서 얼굴은 어떤 문제인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52848</link>
+            <guid>https://www.bookjournalism.com/books/52848</guid>
+            <pubDate>Thu, 14 Jul 2022 15:29:08 GMT</pubDate>
+            <content:encoded><![CDATA[쪼개진 얼굴]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[일론 머스크로 대변되는 재벌 인플루언서의 영향력이 커지고 있다. 경제적·문화적 힘을 모두 지닌 그는 무적일까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/52782</link>
             <guid>https://www.bookjournalism.com/books/52782</guid>
@@ -817,13 +824,6 @@
             <guid>https://www.bookjournalism.com/books/52282</guid>
             <pubDate>Thu, 14 Jul 2022 14:23:41 GMT</pubDate>
             <content:encoded><![CDATA[빚투도 리콜이 되나요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구매력 있는 노년층, A세대가 주목받는다. MZ세대에 이어 유의미한 시장 변화를 이끌 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52244</link>
-            <guid>https://www.bookjournalism.com/books/52244</guid>
-            <pubDate>Thu, 14 Jul 2022 14:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[A세대가 온다]]></content:encoded>
         </item>
     </channel>
 </rss>
