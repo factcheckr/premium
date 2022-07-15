@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 04:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“얼굴 공개합니다” 신상 공개 공약으로 팔로워 늘리는 Z세대]]></title>
+            <link>https://www.careet.net/823</link>
+            <guid>https://www.careet.net/823</guid>
+            <pubDate>Fri, 15 Jul 2022 05:44:28 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 10대는 SNS에서 이렇게 유대 관계를 쌓아가고 있습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/937d3920-f8f8-4690-a621-13853539906a_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[바쁜 직장인을 위한 1분 컷! 이주의 Z세대 유행템 요약]]></title>
             <link>https://www.careet.net/821</link>
@@ -14,6 +22,14 @@
             <pubDate>Fri, 15 Jul 2022 02:33:34 GMT</pubDate>
             <content:encoded><![CDATA[당장 써먹을 수 있는 유행어까지 알려드려요!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/8858c641-8447-4f21-9b65-31bca52ab671_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] MZ세대 히어로는 기성세대 히어로와 어떻게 다를까?]]></title>
+            <link>https://www.careet.net/820</link>
+            <guid>https://www.careet.net/820</guid>
+            <pubDate>Fri, 15 Jul 2022 05:44:28 GMT</pubDate>
+            <content:encoded><![CDATA[부캐 전성 시대! 용명이 히어로가 된다면?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/5632609a-2890-4090-baf4-3cba6ab6c0da_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[업데이트! 달라진 Z세대의 라이브 커머스 이용법 2.0]]></title>
