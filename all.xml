@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:31:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[완판을 부르는 패션 커머스 상세 페이지 기획법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6890?fr=category</link>
+            <guid>https://publy.co/content/6890?fr=category</guid>
+            <pubDate>Fri, 15 Jul 2022 08:30:20 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스타트업에서 MVP를 성장시키는 두 가지 방향 (퍼블리)]]></title>
+            <link>https://publy.co/content/6810?fr=category</link>
+            <guid>https://publy.co/content/6810?fr=category</guid>
+            <pubDate>Fri, 15 Jul 2022 08:30:20 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['이건 아닌 것 같은데...' 상사에게 반대 의견을 말하려면? (퍼블리)]]></title>
             <link>https://publy.co/content/6888?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6875?fr=category</guid>
             <pubDate>Thu, 14 Jul 2022 10:28:07 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리멤버, 오늘의집, 배민이 콘텐츠 생산에 진심인 진짜 이유 (퍼블리)]]></title>
-            <link>https://publy.co/content/6831?fr=category</link>
-            <guid>https://publy.co/content/6831?fr=category</guid>
-            <pubDate>Thu, 14 Jul 2022 10:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팀원이 알아서 일하길 바란다면? 작게 시도해보는 13가지 방법 (기본편) (퍼블리)]]></title>
-            <link>https://publy.co/content/6862?fr=category</link>
-            <guid>https://publy.co/content/6862?fr=category</guid>
-            <pubDate>Thu, 14 Jul 2022 10:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“얼굴 공개합니다” 신상 공개 공약으로 팔로워 늘리는 Z세대 (캐릿)]]></title>
@@ -766,6 +766,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[사회는 지금까지 정신 질환을 간편하게 가리고 가뒀다. 정신 질환을 보이는 곳으로 끌어내야 할 때다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52828</link>
+            <guid>https://www.bookjournalism.com/books/52828</guid>
+            <pubDate>Fri, 15 Jul 2022 08:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[사회가 가둔 병]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[안면 인식 기술을 둘러싼 논란이 끊이지 않는다. 정보가 자본과 권력이 된 시대에서 얼굴은 어떤 문제인가? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/52848</link>
             <guid>https://www.bookjournalism.com/books/52848</guid>
@@ -841,13 +848,6 @@
             <guid>https://www.bookjournalism.com/books/52475</guid>
             <pubDate>Fri, 15 Jul 2022 07:23:47 GMT</pubDate>
             <content:encoded><![CDATA[우리에겐 새로운 진화론이 필요하다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새로운 제도가 묻는다, 코인 투자는 도박인지 아닌지. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52282</link>
-            <guid>https://www.bookjournalism.com/books/52282</guid>
-            <pubDate>Fri, 15 Jul 2022 07:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[빚투도 리콜이 되나요?]]></content:encoded>
         </item>
     </channel>
 </rss>
