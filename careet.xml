@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 23:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 02:34:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바쁜 직장인을 위한 1분 컷! 이주의 Z세대 유행템 요약]]></title>
+            <link>https://www.careet.net/821</link>
+            <guid>https://www.careet.net/821</guid>
+            <pubDate>Fri, 15 Jul 2022 02:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[당장 써먹을 수 있는 유행어까지 알려드려요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/8858c641-8447-4f21-9b65-31bca52ab671_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[업데이트! 달라진 Z세대의 라이브 커머스 이용법 2.0]]></title>
             <link>https://www.careet.net/819</link>

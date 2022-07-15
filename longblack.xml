@@ -4,7 +4,7 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 23:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 02:34:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.longblack.co/note/351</link>
             <guid>https://www.longblack.co/note/351</guid>
             <pubDate>Thu, 14 Jul 2022 15:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K‘우리는 모두 하나다All one’ ‘모든 것은 건설적이고 도덕적인 토대 위에서 이뤄져야 한다The Moral ABC’.&nbsp;이게 다 무슨 소리냐고요? 아침마다 쓰는 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;‘우리는 모두 하나다All one’ ‘모든 것은 건설적이고 도덕적인 토대 위에서 이뤄져야 한다The Moral ABC’.&nbsp;이게 다 무슨 소리냐고요? 아침마다 쓰는<span class="circle-punctuation"></span>]]></content:encoded>
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220708/1657265841c4269eedc9aa2efc90962e34d1772ce3.png" length="0" type="image/png"/>
         </item>
     </channel>
