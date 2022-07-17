@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 14:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 15:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -470,14 +470,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/3346eb17-0b3e-4e29-bafb-d1ec97eea957_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 16 Jul 2022 15:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[B에게 깊은 깨달음을 준 지난주 롱블랙의 문장
-
-“오히려 계산적이면 안 되는 게 브랜딩, 그리고 디자인이더군요. 어느 순간, 깨달았어요. ‘레퍼런스, 데이터를 기반으로 브랜딩 하는 것이 위험하겠구나.’하고. 브랜딩은 그 기준도 계속 바뀌고, 정해진 답이란 게 없잖아<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/16578587178b291a44b96f38af7cba8fe6411d8dc0.png" length="0" type="image/png"/>
+            <title><![CDATA[모모스커피 : 온천장 골목에서 시작해 세계 최고 바리스타를 키우다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/358</link>
+            <guid>https://www.longblack.co/note/358</guid>
+            <pubDate>Sun, 17 Jul 2022 15:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;&nbsp;마음이 답답할 때, 한동안은 공원이나 캠핑장을 찾았어요. 요즘엔 조금씩 욕심이 나는 거 있죠? 아직은 조심스럽지만 골목 여행이 그리워요!그 마음을 담아 롱블랙이<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/1657812163eb40bbd995d09abc8db8e0f01ae81b22.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -768,6 +766,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[식량패권 시대, 우리나라 식량자급률은 20퍼센트다. CPTPP의 문이 열리기 전 우리는 무엇을 준비해야 하나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53014</link>
+            <guid>https://www.bookjournalism.com/books/53014</guid>
+            <pubDate>Sun, 17 Jul 2022 15:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[발전이 가린 균형]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #45에선, 배달 서비스의 미래와 스푼라디오의 생존 전략, 일론 머스크의 트위터 인수 계약 파기에 관해 살펴봅니다. 또, 아베 전 총리의 정치 인생을 종교를 통해 들여다봅니다. MC 이현구 에디터와 신아람, 이다혜, 정원진 에디터가 함께했습니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/52890</link>
             <guid>https://www.bookjournalism.com/audio/52890</guid>
@@ -843,13 +848,6 @@
             <guid>https://www.bookjournalism.com/books/52528</guid>
             <pubDate>Sun, 17 Jul 2022 14:21:52 GMT</pubDate>
             <content:encoded><![CDATA[쇼는 계속되지 않는다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 오프라인으로 활동 반경을 넓히고 있다. 밈은 그들이 가진 무기다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52468</link>
-            <guid>https://www.bookjournalism.com/books/52468</guid>
-            <pubDate>Sun, 17 Jul 2022 14:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[밈은 나의 무기]]></content:encoded>
         </item>
     </channel>
 </rss>

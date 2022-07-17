@@ -4,18 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 14:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 15:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 16 Jul 2022 15:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[B에게 깊은 깨달음을 준 지난주 롱블랙의 문장
-
-“오히려 계산적이면 안 되는 게 브랜딩, 그리고 디자인이더군요. 어느 순간, 깨달았어요. ‘레퍼런스, 데이터를 기반으로 브랜딩 하는 것이 위험하겠구나.’하고. 브랜딩은 그 기준도 계속 바뀌고, 정해진 답이란 게 없잖아<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/16578587178b291a44b96f38af7cba8fe6411d8dc0.png" length="0" type="image/png"/>
+            <title><![CDATA[모모스커피 : 온천장 골목에서 시작해 세계 최고 바리스타를 키우다]]></title>
+            <link>https://www.longblack.co/note/358</link>
+            <guid>https://www.longblack.co/note/358</guid>
+            <pubDate>Sun, 17 Jul 2022 15:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;&nbsp;마음이 답답할 때, 한동안은 공원이나 캠핑장을 찾았어요. 요즘엔 조금씩 욕심이 나는 거 있죠? 아직은 조심스럽지만 골목 여행이 그리워요!그 마음을 담아 롱블랙이<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/1657812163eb40bbd995d09abc8db8e0f01ae81b22.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
