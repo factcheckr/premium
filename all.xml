@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 07:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 08:32:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주어진 시간 1분! 딱 한 장으로 끝내는 1P(원 페이지)보고서 작성법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6777?fr=category</link>
+            <guid>https://publy.co/content/6777?fr=category</guid>
+            <pubDate>Mon, 18 Jul 2022 08:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[완판을 부르는 패션 커머스 상세 페이지 기획법 (퍼블리)]]></title>
             <link>https://publy.co/content/6890?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6821?fr=category</guid>
             <pubDate>Thu, 14 Jul 2022 10:28:07 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사는 판이 바뀐다 : ‘정착’에서 ‘접속’으로 변화하는 일본의 집 트렌드 (퍼블리)]]></title>
-            <link>https://publy.co/content/6875?fr=category</link>
-            <guid>https://publy.co/content/6875?fr=category</guid>
-            <pubDate>Thu, 14 Jul 2022 10:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[콜라보 마케팅, 이제 둘이 아니라 셋이 하는 게 대세라고? ‘3자 콜라보’ 잘 하는 법 (캐릿)]]></title>
