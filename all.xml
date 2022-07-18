@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 02:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 04:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -774,6 +774,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[일본 MZ세대는 경험을 구매하고 가치에 소비한다. 한일 관계 청신호의 열쇠가 그들 손에 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52765</link>
+            <guid>https://www.bookjournalism.com/books/52765</guid>
+            <pubDate>Mon, 18 Jul 2022 04:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[일본에 살고, MZ입니다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[식량패권 시대, 우리나라 식량자급률은 20퍼센트다. CPTPP의 문이 열리기 전 우리는 무엇을 준비해야 하나? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/53014</link>
             <guid>https://www.bookjournalism.com/books/53014</guid>
@@ -849,13 +856,6 @@
             <guid>https://www.bookjournalism.com/audio/52571</guid>
             <pubDate>Sun, 17 Jul 2022 23:23:57 GMT</pubDate>
             <content:encoded><![CDATA[가라앉는 세계, 세대론의 A to Z]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영국의 보리스 존슨 총리가 정치 생명 최대 위기 끝에 사임했다. 우리 정치도 무관하지 않다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52528</link>
-            <guid>https://www.bookjournalism.com/books/52528</guid>
-            <pubDate>Sun, 17 Jul 2022 23:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[쇼는 계속되지 않는다]]></content:encoded>
         </item>
     </channel>
 </rss>
