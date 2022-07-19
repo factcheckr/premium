@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 23:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 02:32:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.careet.net/819</guid>
             <pubDate>Thu, 14 Jul 2022 06:31:49 GMT</pubDate>
             <content:encoded><![CDATA[아! 이래서 라이브 커머스 방송에서 ‘댓글’이 중요하다고 했구나!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/f7721368-0121-4856-8a1f-0fbe0b4ed0c3_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/c2b772e3-550a-4a8d-b1ea-a975503a7ead_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[요즘 10대들은 대체 어떤 커뮤니티를 눈팅할까?]]></title>
