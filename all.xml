@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 08:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 09:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핵심 기능으로 알려주는 PM을 위한 피그마 사용법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6839?fr=category</link>
+            <guid>https://publy.co/content/6839?fr=category</guid>
+            <pubDate>Tue, 19 Jul 2022 09:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[주어진 시간 1분! 딱 한 장으로 끝내는 1P(원 페이지)보고서 작성법 (퍼블리)]]></title>
             <link>https://publy.co/content/6777?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6879?fr=category</guid>
             <pubDate>Thu, 14 Jul 2022 10:28:07 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PM에게 수도 없이 찾아오는 결정의 순간, 나는 어떻게 할까? (퍼블리)]]></title>
-            <link>https://publy.co/content/6821?fr=category</link>
-            <guid>https://publy.co/content/6821?fr=category</guid>
-            <pubDate>Thu, 14 Jul 2022 10:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[콜라보 마케팅, 이제 둘이 아니라 셋이 하는 게 대세라고? ‘3자 콜라보’ 잘 하는 법 (캐릿)]]></title>
