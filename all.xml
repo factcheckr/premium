@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 14:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 15:29:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -478,12 +478,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/3346eb17-0b3e-4e29-bafb-d1ec97eea957_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[키친보리에 : 해운대 더베이101과 광안리 밀락더마켓, 아파트 대신 문화 공간을 짓다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/359</link>
-            <guid>https://www.longblack.co/note/359</guid>
-            <pubDate>Mon, 18 Jul 2022 15:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;해운대에 놀러 가는 분이라면, 더베이101은 여행 리스트에 꼭 적어두죠? 낮엔 해운대 앞바다에서 요트 투어를 즐기고, 밤엔 화려하게 빛나는 고층 아파트 단지를 배<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/16578121831c3a05a64cbcfa140902b38d369900fa.png" length="0" type="image/png"/>
+            <title><![CDATA[인디고 서원 : 남천동 학원가, 문제집을 팔지 않는 인문학 서점 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/360</link>
+            <guid>https://www.longblack.co/note/360</guid>
+            <pubDate>Tue, 19 Jul 2022 15:28:12 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;부산 수영구 남천동은 학원가로 유명합니다. 남천역 1번 출구를 나서면 학원 간판이 다닥다닥 붙은 낮은 건물들이 줄지어 서있습니다. 영어와 수학, 논술 학원 간판 <span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/16578122008d32953d9295b458c62305dab81bd017.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -774,6 +774,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[네이버 하이퍼클로바가 텍스트 시장에 주목한다. 노코드 AI는 인간이 말하고 일하는 방식을 어떻게 변화시킬까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53134</link>
+            <guid>https://www.bookjournalism.com/books/53134</guid>
+            <pubDate>Tue, 19 Jul 2022 15:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[글이 함수가 될 때]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[스포티파이가 음악 퀴즈 게임 허들을 인수했다. 스포티파이의 비즈니스 전략이지만 한국 시장에서는 이미 늦었다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/53108</link>
             <guid>https://www.bookjournalism.com/books/53108</guid>
@@ -849,13 +856,6 @@
             <guid>https://www.bookjournalism.com/books/52596</guid>
             <pubDate>Tue, 19 Jul 2022 14:23:11 GMT</pubDate>
             <content:encoded><![CDATA[아베와 세 가지 종교]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아마존과 미국 음식 배달 서비스 그럽허브가 협력안을 발표했다. 배달 시장은 하락세를 극복할 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52611</link>
-            <guid>https://www.bookjournalism.com/books/52611</guid>
-            <pubDate>Tue, 19 Jul 2022 14:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[배달의 미래는 배달에 없다]]></content:encoded>
         </item>
     </channel>
 </rss>
