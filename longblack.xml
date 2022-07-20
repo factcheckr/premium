@@ -4,16 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 14:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 15:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[인디고 서원 : 남천동 학원가, 문제집을 팔지 않는 인문학 서점]]></title>
-            <link>https://www.longblack.co/note/360</link>
-            <guid>https://www.longblack.co/note/360</guid>
-            <pubDate>Tue, 19 Jul 2022 15:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;부산 수영구 남천동은 학원가로 유명합니다. 남천역 1번 출구를 나서면 학원 간판이 다닥다닥 붙은 낮은 건물들이 줄지어 서있습니다. 영어와 수학, 논술 학원 간판 <span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/16578122008d32953d9295b458c62305dab81bd017.png" length="0" type="image/png"/>
+            <title><![CDATA[동래아들막걸리 : 도쿄의 소믈리에가, 캐주얼 막걸리를 만든 이유]]></title>
+            <link>https://www.longblack.co/note/361</link>
+            <guid>https://www.longblack.co/note/361</guid>
+            <pubDate>Wed, 20 Jul 2022 15:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;부산을 대표하는 술은 뭐가 있을까요? 대선, 시원소주, 생탁이 유명하죠. 올해 대한민국 주류대상에도 부산의 막걸리가 있어 소개해요. ‘동래아들막걸리’. 이름도 생<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/16578590397e82db1c1ca4ce72413b226a87fd9bf3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

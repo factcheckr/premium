@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 14:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 15:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -494,12 +494,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/3346eb17-0b3e-4e29-bafb-d1ec97eea957_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[인디고 서원 : 남천동 학원가, 문제집을 팔지 않는 인문학 서점 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/360</link>
-            <guid>https://www.longblack.co/note/360</guid>
-            <pubDate>Tue, 19 Jul 2022 15:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;부산 수영구 남천동은 학원가로 유명합니다. 남천역 1번 출구를 나서면 학원 간판이 다닥다닥 붙은 낮은 건물들이 줄지어 서있습니다. 영어와 수학, 논술 학원 간판 <span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/16578122008d32953d9295b458c62305dab81bd017.png" length="0" type="image/png"/>
+            <title><![CDATA[동래아들막걸리 : 도쿄의 소믈리에가, 캐주얼 막걸리를 만든 이유 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/361</link>
+            <guid>https://www.longblack.co/note/361</guid>
+            <pubDate>Wed, 20 Jul 2022 15:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;부산을 대표하는 술은 뭐가 있을까요? 대선, 시원소주, 생탁이 유명하죠. 올해 대한민국 주류대상에도 부산의 막걸리가 있어 소개해요. ‘동래아들막걸리’. 이름도 생<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/16578590397e82db1c1ca4ce72413b226a87fd9bf3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -790,6 +790,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[표절 논란에 휩싸인 유희열이 결국 스케치북을 덮는다. 그는 왜 그렇게 해명할 수 밖에 없었나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53181</link>
+            <guid>https://www.bookjournalism.com/books/53181</guid>
+            <pubDate>Wed, 20 Jul 2022 15:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[유희열의 속사정]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[심판의 역할은 단순히 게임 스코어를 외치는 확성기가 아니다. 신기술은 그 자리를 대체할 수 없다. 심판은 지휘자다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/53075</link>
             <guid>https://www.bookjournalism.com/books/53075</guid>
@@ -865,13 +872,6 @@
             <guid>https://www.bookjournalism.com/books/52632</guid>
             <pubDate>Wed, 20 Jul 2022 14:26:58 GMT</pubDate>
             <content:encoded><![CDATA[폐허만 남은 런던 올림픽]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스푼라디오 대표의 페이스북 글이 화제다. 스푼의 위기를 이해하려면 클럽하우스를 지워야 한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52739</link>
-            <guid>https://www.bookjournalism.com/books/52739</guid>
-            <pubDate>Wed, 20 Jul 2022 14:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[스푼 좀 믿어줘]]></content:encoded>
         </item>
     </channel>
 </rss>
