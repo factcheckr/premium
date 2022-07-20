@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 04:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 05:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,22 @@
             <guid>https://publy.co/content/6879?fr=category</guid>
             <pubDate>Thu, 14 Jul 2022 10:28:07 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대가 뽑은 ‘이제는 쓰면 안 되는 단어’ 20 (캐릿)]]></title>
+            <link>https://www.careet.net/827</link>
+            <guid>https://www.careet.net/827</guid>
+            <pubDate>Wed, 20 Jul 2022 05:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[단어 하나가 불매 운동을 부를 수 있다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/4c229d55-ac4d-49a8-8df8-a04a22ad3868_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ESG부터 콜라보, SNS까지! 일 잘한 해외 브랜드 레퍼런스 모음 (캐릿)]]></title>
+            <link>https://www.careet.net/813</link>
+            <guid>https://www.careet.net/813</guid>
+            <pubDate>Wed, 20 Jul 2022 02:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 Z세대에게 반응을 얻은 브랜드 사례 모음]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/590143b0-7e0a-4741-acb3-04199dfec7cc_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[콜라보 마케팅, 이제 둘이 아니라 셋이 하는 게 대세라고? ‘3자 콜라보’ 잘 하는 법 (캐릿)]]></title>
@@ -188,14 +204,6 @@
             <pubDate>Wed, 06 Jul 2022 02:28:37 GMT</pubDate>
             <content:encoded><![CDATA[경품이 아니라 재미를 무기 삼아 Z세대 참여 유도한 사례 모음]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/c3b037c9-7846-4691-b50a-301b5ed4e3f3_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ESG부터 콜라보, SNS까지! 일 잘한 해외 브랜드 레퍼런스 모음 (캐릿)]]></title>
-            <link>https://www.careet.net/813</link>
-            <guid>https://www.careet.net/813</guid>
-            <pubDate>Wed, 20 Jul 2022 02:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 Z세대에게 반응을 얻은 브랜드 사례 모음]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/590143b0-7e0a-4741-acb3-04199dfec7cc_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[포토부스는 너무 흔하다고요? 그럼 영수증 굿즈는 어떠세요! (캐릿)]]></title>
