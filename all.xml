@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 02:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 04:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -789,18 +789,18 @@
             <content:encoded><![CDATA[글이 함수가 될 때]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스포티파이가 음악 퀴즈 게임 허들을 인수했다. 스포티파이의 비즈니스 전략이지만 한국 시장에서는 이미 늦었다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/53108</link>
-            <guid>https://www.bookjournalism.com/books/53108</guid>
-            <pubDate>Tue, 19 Jul 2022 20:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[허들은 이제 제 겁니다]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/50374</link>
             <guid>https://www.bookjournalism.com/books/50374</guid>
             <pubDate>Tue, 19 Jul 2022 20:28:36 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스포티파이가 음악 퀴즈 게임 허들을 인수했다. 스포티파이의 비즈니스 전략이지만 한국 시장에서는 이미 늦었다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53108</link>
+            <guid>https://www.bookjournalism.com/books/53108</guid>
+            <pubDate>Tue, 19 Jul 2022 20:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[허들은 이제 제 겁니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일본 MZ세대는 경험을 구매하고 가치에 소비한다. 한일 관계 청신호의 열쇠가 그들 손에 있다. (북저널리즘)]]></title>
