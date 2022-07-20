@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 08:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 09:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일 잘하는 리더에겐 '이것'이 있다 - 롯데주류 유꽃비 편 (퍼블리)]]></title>
+            <link>https://publy.co/content/6860?fr=category</link>
+            <guid>https://publy.co/content/6860?fr=category</guid>
+            <pubDate>Wed, 20 Jul 2022 09:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[주니어에서 시니어는 어떻게 되는 걸까? K 직장인 서바이벌 매뉴얼 (퍼블리)]]></title>
+            <link>https://publy.co/content/6865?fr=category</link>
+            <guid>https://publy.co/content/6865?fr=category</guid>
+            <pubDate>Wed, 20 Jul 2022 09:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[후기가 증명하는 이직 콘텐츠 Best 5 (퍼블리)]]></title>
             <link>https://publy.co/content/6896?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6887?fr=category</guid>
             <pubDate>Thu, 14 Jul 2022 10:28:07 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3번 이직한 PM이 알려주는 '이직 전 생각할 것들' (퍼블리)]]></title>
-            <link>https://publy.co/content/6857?fr=category</link>
-            <guid>https://publy.co/content/6857?fr=category</guid>
-            <pubDate>Thu, 14 Jul 2022 10:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[7년차 구글러가 말하는 시간을 ‘내 것’으로 만드는 업무 루틴 (워크 사이클 템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/6863?fr=category</link>
-            <guid>https://publy.co/content/6863?fr=category</guid>
-            <pubDate>Thu, 14 Jul 2022 10:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 뽑은 ‘이제는 쓰면 안 되는 단어’ 20 (캐릿)]]></title>
