@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 23:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 02:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Wed, 06 Jul 2022 02:28:37 GMT</pubDate>
             <content:encoded><![CDATA[경품이 아니라 재미를 무기 삼아 Z세대 참여 유도한 사례 모음]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/c3b037c9-7846-4691-b50a-301b5ed4e3f3_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ESG부터 콜라보, SNS까지! 일 잘한 해외 브랜드 레퍼런스 모음]]></title>
+            <link>https://www.careet.net/813</link>
+            <guid>https://www.careet.net/813</guid>
+            <pubDate>Wed, 20 Jul 2022 02:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 Z세대에게 반응을 얻은 브랜드 사례 모음]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/590143b0-7e0a-4741-acb3-04199dfec7cc_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[포토부스는 너무 흔하다고요? 그럼 영수증 굿즈는 어떠세요!]]></title>
