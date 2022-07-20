@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-07-20T07:23:58.359Z</updated>
+    <updated>2022-07-20T08:33:19.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[후기가 증명하는 이직 콘텐츠 Best 5]]></title>
+        <id>https://publy.co/content/6896?fr=category</id>
+        <link href="https://publy.co/content/6896?fr=category"/>
+        <updated>2022-07-20T08:32:06.783Z</updated>
+        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핵심 기능으로 알려주는 PM을 위한 피그마 사용법]]></title>
         <id>https://publy.co/content/6839?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6863?fr=category"/>
         <updated>2022-07-14T10:28:07.554Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀원이 알아서 일하길 바란다면? 작게 시도해보는 13가지 방법 (심화편)]]></title>
-        <id>https://publy.co/content/6879?fr=category</id>
-        <link href="https://publy.co/content/6879?fr=category"/>
-        <updated>2022-07-14T10:28:07.554Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
 </feed>
