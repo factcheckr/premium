@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 05:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 06:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대의 저작권 기준은 저작권 협회보다 깐깐합니다]]></title>
+            <link>https://www.careet.net/826</link>
+            <guid>https://www.careet.net/826</guid>
+            <pubDate>Thu, 21 Jul 2022 06:32:33 GMT</pubDate>
+            <content:encoded><![CDATA[리뷰 한 줄에도 저작권 적용하는 Z세대 근황]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/996a3eff-2940-4173-831c-77bbcf757f8a_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 뽑은 ‘이제는 쓰면 안 되는 단어’ 20]]></title>
             <link>https://www.careet.net/827</link>
