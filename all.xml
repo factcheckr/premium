@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 09:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 10:31:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -814,6 +814,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 라디오의 에피소드 #46에선, 가수 유희열의 표절 이슈와 초거대 인공지능 언어 모델, DSLR의 미래에 관해 이야기합니다. 또, 스포티파이의 한국 시장에서의 가능성을 전망합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53244</link>
+            <guid>https://www.bookjournalism.com/books/53244</guid>
+            <pubDate>Fri, 22 Jul 2022 10:31:03 GMT</pubDate>
+            <content:encoded><![CDATA[작곡가와 스포티파이, 그리고 인공지능]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[카메라 회사들이 DSLR을 포기한다. 사형선고는 이미 내려졌다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/53213</link>
             <guid>https://www.bookjournalism.com/books/53213</guid>
@@ -889,13 +896,6 @@
             <guid>https://www.bookjournalism.com/books/52848</guid>
             <pubDate>Fri, 22 Jul 2022 09:25:25 GMT</pubDate>
             <content:encoded><![CDATA[쪼개진 얼굴]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크로 대변되는 재벌 인플루언서의 영향력이 커지고 있다. 경제적·문화적 힘을 모두 지닌 그는 무적일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52782</link>
-            <guid>https://www.bookjournalism.com/books/52782</guid>
-            <pubDate>Fri, 22 Jul 2022 09:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[아무도 그를 막을 수 없다?]]></content:encoded>
         </item>
     </channel>
 </rss>
