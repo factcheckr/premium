@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-07-22T08:33:52.727Z</updated>
+    <updated>2022-07-22T09:25:36.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[했던 일인데, 다시 하려니 기억이 안 난다면? 경험사전 작성 원칙]]></title>
+        <id>https://publy.co/content/6900?fr=category</id>
+        <link href="https://publy.co/content/6900?fr=category"/>
+        <updated>2022-07-22T09:24:17.488Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뜻밖의 호캉스: 어디로 가볼까?]]></title>
         <id>https://publy.co/content/6897?fr=category</id>
@@ -66,13 +73,6 @@
         <id>https://publy.co/content/6890?fr=category</id>
         <link href="https://publy.co/content/6890?fr=category"/>
         <updated>2022-07-15T08:30:20.008Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업에서 MVP를 성장시키는 두 가지 방향]]></title>
-        <id>https://publy.co/content/6810?fr=category</id>
-        <link href="https://publy.co/content/6810?fr=category"/>
-        <updated>2022-07-15T08:30:20.009Z</updated>
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>
