@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 23:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 02:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왕십리역에 이거 보러 간다고? Z세대가 꼽은 이주의 트렌드 4]]></title>
+            <link>https://www.careet.net/830</link>
+            <guid>https://www.careet.net/830</guid>
+            <pubDate>Fri, 22 Jul 2022 02:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 떡상 중인 음악 디깅 채널이 있다?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/bd0416a5-74ba-4da7-b306-8625ff15e2ff_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대의 저작권 기준은 저작권 협회보다 깐깐합니다]]></title>
             <link>https://www.careet.net/826</link>
