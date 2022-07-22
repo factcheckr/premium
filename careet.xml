@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 04:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 18 Jul 2022 02:21:34 GMT</pubDate>
             <content:encoded><![CDATA[콜라보 제품 제조부터 광고, 판매까지 시너지 폭발시킨 비결]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/dae5f569-331d-4bcc-98c0-ee8424e4d917_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] 2022 최신 술 게임 알려드림]]></title>
+            <link>https://www.careet.net/825</link>
+            <guid>https://www.careet.net/825</guid>
+            <pubDate>Fri, 22 Jul 2022 05:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대와의 랜선 술 자리로 여러분을 초대합니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/36c7faa0-ceb8-4094-b98b-4faf850d3d3c_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[“얼굴 공개합니다” 신상 공개 공약으로 팔로워 늘리는 Z세대]]></title>
