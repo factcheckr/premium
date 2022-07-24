@@ -4,18 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 14:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 15:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 23 Jul 2022 15:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[C가 고개를 끄덕인 지난주 롱블랙의 문장
-
-“‘부산의 커피’란 건 없어야 해요. 코펜하겐은 굉장히 작은 도시인데 ‘미식의 도시’로 유명해요. 그 도시만의 시그니처 요리가 있어서가 아녜요. 유명한 여러 셰프들의 작은 레스토랑이 모여서 미식의 도시를 만든 거죠. 부산도<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220723/165853534456da4d241455a734229ff76b88e1058d.png" length="0" type="image/png"/>
+            <title><![CDATA[쏘카 : 이용자 경험에 대한 몰입, 물 흐르는 듯한 이동을 꿈꾸다]]></title>
+            <link>https://www.longblack.co/note/364</link>
+            <guid>https://www.longblack.co/note/364</guid>
+            <pubDate>Sun, 24 Jul 2022 15:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;휴가철입니다. 휴가를 앞둔 L이 옆에서 묻습니다. “휴가철에 잘 되는 비즈니스는 뭐지?” 휴가란 단어에도 비즈니스를 떠올리는 L이 신기하긴 한데, 저는 왜 저도<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220720/1658328881dc81161e05917fc3618c45e74caac8bf." length="0" type="image/"/>
         </item>
     </channel>
 </rss>
