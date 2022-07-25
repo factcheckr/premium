@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 02:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 04:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -829,6 +829,13 @@
             <content:encoded><![CDATA[팩트라는 성역]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50374</link>
+            <guid>https://www.bookjournalism.com/books/50374</guid>
+            <pubDate>Sun, 24 Jul 2022 20:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #46에선, 가수 유희열의 표절 이슈와 초거대 인공지능 언어 모델, DSLR의 미래에 관해 이야기합니다. 또, 스포티파이의 한국 시장에서의 가능성을 전망합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/53244</link>
             <guid>https://www.bookjournalism.com/audio/53244</guid>
@@ -841,13 +848,6 @@
             <guid>https://www.bookjournalism.com/books/53213</guid>
             <pubDate>Sun, 24 Jul 2022 20:25:45 GMT</pubDate>
             <content:encoded><![CDATA[R.I.P. DSLR]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50374</link>
-            <guid>https://www.bookjournalism.com/books/50374</guid>
-            <pubDate>Sun, 24 Jul 2022 20:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[표절 논란에 휩싸인 유희열이 결국 스케치북을 덮는다. 그는 왜 그렇게 해명할 수밖에 없었나. (북저널리즘)]]></title>

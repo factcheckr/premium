@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-07-25T02:20:18.420Z</updated>
+    <updated>2022-07-25T04:10:39.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.bookjournalism.com/books/53269"/>
         <updated>2022-07-24T20:25:45.569Z</updated>
         <content type="html"><![CDATA[팩트라는 성역]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
+        <id>https://www.bookjournalism.com/books/50374</id>
+        <link href="https://www.bookjournalism.com/books/50374"/>
+        <updated>2022-07-24T20:25:45.571Z</updated>
+        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #46에선, 가수 유희열의 표절 이슈와 초거대 인공지능 언어 모델, DSLR의 미래에 관해 이야기합니다. 또, 스포티파이의 한국 시장에서의 가능성을 전망합니다.]]></title>
@@ -25,13 +32,6 @@
         <link href="https://www.bookjournalism.com/books/53213"/>
         <updated>2022-07-24T20:25:45.571Z</updated>
         <content type="html"><![CDATA[R.I.P. DSLR]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
-        <id>https://www.bookjournalism.com/books/50374</id>
-        <link href="https://www.bookjournalism.com/books/50374"/>
-        <updated>2022-07-24T20:25:45.571Z</updated>
-        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[표절 논란에 휩싸인 유희열이 결국 스케치북을 덮는다. 그는 왜 그렇게 해명할 수밖에 없었나.]]></title>
