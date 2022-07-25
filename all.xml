@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 23:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 02:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6890?fr=category</guid>
             <pubDate>Fri, 15 Jul 2022 08:30:20 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LG U+ 캐릭터 홈페이지에 15만 명이 가입한 이유! (캐릿)]]></title>
+            <link>https://www.careet.net/829</link>
+            <guid>https://www.careet.net/829</guid>
+            <pubDate>Mon, 25 Jul 2022 02:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[이주의 일 잘한 브랜드: LG U+, 랜덤 다이버시티]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/0f285162-3a3e-4ce8-81f2-b9cb03808383_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[왕십리역에 이거 보러 간다고? Z세대가 꼽은 이주의 트렌드 4 (캐릿)]]></title>
