@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-07-25T07:24:43.700Z</updated>
+    <updated>2022-07-25T08:33:54.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[일주일에 딱 10분! 중요한 업무에 집중하게 만드는 시간 관리법]]></title>
+        <id>https://publy.co/content/6893?fr=category</id>
+        <link href="https://publy.co/content/6893?fr=category"/>
+        <updated>2022-07-25T08:32:37.578Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[했던 일인데, 다시 하려니 기억이 안 난다면? 경험사전 작성 원칙]]></title>
         <id>https://publy.co/content/6900?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6777?fr=category"/>
         <updated>2022-07-18T08:31:07.454Z</updated>
         <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완판을 부르는 패션 커머스 상세 페이지 기획법]]></title>
-        <id>https://publy.co/content/6890?fr=category</id>
-        <link href="https://publy.co/content/6890?fr=category"/>
-        <updated>2022-07-15T08:30:20.008Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>
