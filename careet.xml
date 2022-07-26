@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 23:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 02:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성수 다음은 어디? Z세대 핫플 ‘삼각지’에 주목하세요!]]></title>
+            <link>https://www.careet.net/832</link>
+            <guid>https://www.careet.net/832</guid>
+            <pubDate>Tue, 26 Jul 2022 02:31:34 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 취재원과 함께 분석하는 삼각지 인기 포인트]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/a11bd4a0-c93e-455a-a558-25e544794c29_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG U+ 캐릭터 홈페이지에 15만 명이 가입한 이유!]]></title>
             <link>https://www.careet.net/829</link>
