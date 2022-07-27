@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-07-26T23:25:02.994Z</updated>
+    <updated>2022-07-27T02:28:21.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
@@ -62,7 +62,7 @@
         <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[후기가 증명하는 이직 콘텐츠 Best 5]]></title>
+        <title type="html"><![CDATA[이직에 성공한 독자가 읽은 콘텐츠 모음]]></title>
         <id>https://publy.co/content/6896?fr=category</id>
         <link href="https://publy.co/content/6896?fr=category"/>
         <updated>2022-07-20T08:32:06.783Z</updated>
