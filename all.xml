@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 16:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 17:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -838,6 +838,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[팀즈의 적은 슬랙이 아닐지도 모른다. 협업툴 시장이 다시 뜨거워지는 이유는 무엇인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53412</link>
+            <guid>https://www.bookjournalism.com/books/53412</guid>
+            <pubDate>Wed, 27 Jul 2022 17:31:29 GMT</pubDate>
+            <content:encoded><![CDATA[협업툴 4.0]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[19세기 미국에서는 임신중단이 임신의 위험을 피하기 위한 수단으로 널리 받아들여졌다. 그것을 금지하거나 처벌한다는 생각은 그 뒤에 나온 것이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/53297</link>
             <guid>https://www.bookjournalism.com/books/53297</guid>
@@ -913,13 +920,6 @@
             <guid>https://www.bookjournalism.com/books/53108</guid>
             <pubDate>Wed, 27 Jul 2022 16:37:39 GMT</pubDate>
             <content:encoded><![CDATA[허들은 이제 제 겁니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일본 MZ세대는 경험을 구매하고 가치에 소비한다. 한일 관계 청신호의 열쇠가 그들 손에 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52765</link>
-            <guid>https://www.bookjournalism.com/books/52765</guid>
-            <pubDate>Wed, 27 Jul 2022 16:37:39 GMT</pubDate>
-            <content:encoded><![CDATA[일본에 살고, MZ입니다]]></content:encoded>
         </item>
     </channel>
 </rss>
