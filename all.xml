@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 14:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 15:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -542,12 +542,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/3346eb17-0b3e-4e29-bafb-d1ec97eea957_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[퍼시 피그 : 막스앤스펜서가 만든 돼지 젤리, 영국 대표 캐릭터가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/370</link>
-            <guid>https://www.longblack.co/note/370</guid>
-            <pubDate>Tue, 26 Jul 2022 15:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;영국에 있는 친구가 택배로 젤리를 보내줬어요. 까보니까 짱귀탱! 돼지 얼굴 모양의 젤리가 들어 있지 뭐예요. 이 돼지의 이름은 퍼시 피그Percy Pig래요.독일<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220726/1658802172263cedf03a0ae844d7995b5228d2acaa.png" length="0" type="image/png"/>
+            <title><![CDATA[비마이게스트 : 백미당과 사유의 방, 허를 찌르는 브랜딩은 어떻게 탄생하나 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/366</link>
+            <guid>https://www.longblack.co/note/366</guid>
+            <pubDate>Wed, 27 Jul 2022 15:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;저처럼 트렌디한 장소를 꼭 직접 가봐야 직성이 풀리는 분이라면, 다음 공간을 거의 다 방문해보셨을 것 같습니다.&nbsp;SSG푸드마켓 청담(2012), 대전 성심당 케익<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220722/1658458573e1b020e5022002c828d76560afee0ee8.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
