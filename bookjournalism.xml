@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-07-28T14:27:40.119Z</updated>
+    <updated>2022-07-28T15:27:02.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[좋아하는 걸 좋아하라는 스타벅스의 슬로건에 왜 소비자들은 실망했나?]]></title>
+        <id>https://www.bookjournalism.com/books/53425</id>
+        <link href="https://www.bookjournalism.com/books/53425"/>
+        <updated>2022-07-28T15:26:50.760Z</updated>
+        <content type="html"><![CDATA[신세계 유니버스에서 커피 한 잔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팀즈의 적은 슬랙이 아닐지도 모른다. 협업툴 시장이 다시 뜨거워지는 이유는 무엇인가.]]></title>
         <id>https://www.bookjournalism.com/books/53412</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/53134"/>
         <updated>2022-07-28T12:54:24.228Z</updated>
         <content type="html"><![CDATA[글이 함수가 될 때]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포티파이가 음악 퀴즈 게임 허들을 인수했다. 스포티파이의 비즈니스 전략이지만 한국 시장에서는 이미 늦었다.]]></title>
-        <id>https://www.bookjournalism.com/books/53108</id>
-        <link href="https://www.bookjournalism.com/books/53108"/>
-        <updated>2022-07-28T12:54:24.235Z</updated>
-        <content type="html"><![CDATA[허들은 이제 제 겁니다]]></content>
     </entry>
 </feed>
