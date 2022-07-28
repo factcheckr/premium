@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 05:32:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 06:32:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 시간 관리 레벨은? 갓생 레벨 테스트 (퍼블리)]]></title>
+            <link>https://publy.co/content/6901?fr=category</link>
+            <guid>https://publy.co/content/6901?fr=category</guid>
+            <pubDate>Thu, 28 Jul 2022 06:30:51 GMT</pubDate>
+            <content:encoded><![CDATA[아티클]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[매일 15분으로 내가 나의 사수가 되는 TIL 작성법(노션 템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/6899?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6865?fr=category</guid>
             <pubDate>Wed, 20 Jul 2022 09:24:00 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이직에 성공한 독자가 읽은 콘텐츠 모음 (퍼블리)]]></title>
-            <link>https://publy.co/content/6896?fr=category</link>
-            <guid>https://publy.co/content/6896?fr=category</guid>
-            <pubDate>Wed, 20 Jul 2022 08:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[자퇴 브이로그 찍고 자퇴 파티한다? K-고딩이 학교를 떠나는 이유 (캐릿)]]></title>
