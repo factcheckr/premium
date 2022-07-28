@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-07-28T07:23:32.127Z</updated>
+    <updated>2022-07-28T08:32:27.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[PO출신이 짚어주는, 창업하기 전에 쌓아두어야 할 역량]]></title>
+        <id>https://publy.co/content/6856?fr=category</id>
+        <link href="https://publy.co/content/6856?fr=category"/>
+        <updated>2022-07-28T08:31:11.795Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나의 시간 관리 레벨은? '갓생' 레벨 테스트]]></title>
         <id>https://publy.co/content/6901?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6860?fr=category"/>
         <updated>2022-07-20T09:24:00.525Z</updated>
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주니어에서 시니어가 되는 기준! 성공 타율 높이는 5가지 방법]]></title>
-        <id>https://publy.co/content/6865?fr=category</id>
-        <link href="https://publy.co/content/6865?fr=category"/>
-        <updated>2022-07-20T09:24:00.527Z</updated>
-        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
     </entry>
 </feed>
