@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 23:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 02:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자퇴 브이로그 찍고 자퇴 파티한다? K-고딩이 학교를 떠나는 이유]]></title>
+            <link>https://www.careet.net/834</link>
+            <guid>https://www.careet.net/834</guid>
+            <pubDate>Thu, 28 Jul 2022 02:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 자퇴하는 이유 = 개인 사업?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/3eeb1576-6f55-4200-ac1d-31be76fdf62b_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세대별로 선호하는 브라우저가 다르다? 힙한 Z세대가 웨일로 갈아타는 이유]]></title>
             <link>https://www.careet.net/828</link>
