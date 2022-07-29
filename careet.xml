@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 23:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 02:30:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[당장 써먹는 유행어] ‘마침내’, ‘OO할 결심’? 영화 <헤어질 결심> 밈 8]]></title>
+            <link>https://www.careet.net/836</link>
+            <guid>https://www.careet.net/836</guid>
+            <pubDate>Fri, 29 Jul 2022 02:29:08 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 바닥글로 활용할 수 있는 ‘헤결 밈’ 8가지를 소개해 드립니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/1d1483ed-9d46-4070-a5e1-053a0b603603_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[자퇴 브이로그 찍고 자퇴 파티한다? K-고딩이 학교를 떠나는 이유]]></title>
             <link>https://www.careet.net/834</link>
