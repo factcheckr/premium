@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 04:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 05:35:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전국 Z세대 힙스터가 한여름에 대구로 모인 이유는?]]></title>
+            <link>https://www.careet.net/838</link>
+            <guid>https://www.careet.net/838</guid>
+            <pubDate>Fri, 29 Jul 2022 05:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[나이키 스타일 홍대부터 대구 미래농원까지! 이주의 핫플레이스 모음]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/cb941a3c-5d1f-44f2-8b66-fcfb34634eb8_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[당장 써먹는 유행어] ‘마침내’, ‘OO할 결심’? 영화 <헤어질 결심> 밈 8]]></title>
             <link>https://www.careet.net/836</link>
