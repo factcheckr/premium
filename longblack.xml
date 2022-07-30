@@ -4,16 +4,18 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 14:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 15:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[리사 손 : 20년 메타인지 전문가, 한국 사회가 쓴 가면을 말하다]]></title>
-            <link>https://www.longblack.co/note/376</link>
-            <guid>https://www.longblack.co/note/376</guid>
-            <pubDate>Fri, 29 Jul 2022 15:29:52 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;사람들은 저를 ‘바른 청년’이라고 불러요. &nbsp;L도 제게 종종 그러더라고요. “K는 언제부터 그렇게 성실했어? 날 때부터? 부럽다, 얘.” C는 어려운 일이 있으면<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220726/1658819261e1254091a453f32460d54ea65f0ac396.png" length="0" type="image/png"/>
+            <title><![CDATA[롱블랙 선데이 에디션]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 30 Jul 2022 15:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[K가 여러 번 곱씹어 본 지난주 롱블랙의 문장
+
+“예술가 수준의 감각이 아니라면, 감각은 소질이 아니라 관심이 필요한 영역이에요. 누구나 관심을 가지는 것만으로도 감각을 습득할 수 있어요. 아내가 임신을 하면 아기용품을 많이 보게 되고, 나중엔 물건들과 관련한 자신<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220729/1659022134d51f84f03f1e59b456caf01790d55e80.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
