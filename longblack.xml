@@ -4,18 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 14:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 15:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 30 Jul 2022 15:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[K가 여러 번 곱씹어 본 지난주 롱블랙의 문장
-
-“예술가 수준의 감각이 아니라면, 감각은 소질이 아니라 관심이 필요한 영역이에요. 누구나 관심을 가지는 것만으로도 감각을 습득할 수 있어요. 아내가 임신을 하면 아기용품을 많이 보게 되고, 나중엔 물건들과 관련한 자신<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220729/1659022134d51f84f03f1e59b456caf01790d55e80.png" length="0" type="image/png"/>
+            <title><![CDATA[녹기 전에 : 아이스크림과 같은 인생, 녹기 전에 즐겨라]]></title>
+            <link>https://www.longblack.co/note/373</link>
+            <guid>https://www.longblack.co/note/373</guid>
+            <pubDate>Sun, 31 Jul 2022 15:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;‘녹기 전에’는 마포구 염리동에 자리한 아이스크림 가게입니다. 매일 메뉴가 달라지는 독특한 곳이죠. 바닐라, 초코부터 칡, 고추냉이(와사비), 게살까지. 지금까지<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220725/1658733223bbbc7421b8876b330675780dbe8daba7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
