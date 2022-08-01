@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-07-31T23:26:13.873Z</updated>
+    <updated>2022-08-01T02:30:14.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
@@ -11,34 +11,6 @@
         <link href="https://publy.co/content/6916?fr=category"/>
         <updated>2022-07-29T05:33:53.434Z</updated>
         <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월에 팀장이 많이 본 콘텐츠 TOP 5]]></title>
-        <id>https://publy.co/content/6911?fr=category</id>
-        <link href="https://publy.co/content/6911?fr=category"/>
-        <updated>2022-07-29T04:09:43.408Z</updated>
-        <content type="html"><![CDATA[아티클 · 2분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월에 주니어가 많이 본 콘텐츠 TOP 5]]></title>
-        <id>https://publy.co/content/6906?fr=category</id>
-        <link href="https://publy.co/content/6906?fr=category"/>
-        <updated>2022-07-29T04:09:43.412Z</updated>
-        <content type="html"><![CDATA[아티클 · 2분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월에 서비스 기획자가 많이 본 콘텐츠 TOP5]]></title>
-        <id>https://publy.co/content/6912?fr=category</id>
-        <link href="https://publy.co/content/6912?fr=category"/>
-        <updated>2022-07-29T04:09:43.413Z</updated>
-        <content type="html"><![CDATA[아티클 · 2분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월에 마케터가 많이 본 콘텐츠 TOP 5]]></title>
-        <id>https://publy.co/content/6913?fr=category</id>
-        <link href="https://publy.co/content/6913?fr=category"/>
-        <updated>2022-07-29T04:09:43.416Z</updated>
-        <content type="html"><![CDATA[아티클 · 2분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PO출신이 짚어주는, 창업하기 전에 쌓아두어야 할 역량]]></title>
@@ -74,5 +46,33 @@
         <link href="https://publy.co/content/6893?fr=category"/>
         <updated>2022-07-25T08:32:37.578Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[했던 일인데, 다시 하려니 기억이 안 난다면? 경험사전 작성 원칙]]></title>
+        <id>https://publy.co/content/6900?fr=category</id>
+        <link href="https://publy.co/content/6900?fr=category"/>
+        <updated>2022-08-01T02:29:00.902Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뜻밖의 호캉스: 어디로 가볼까?]]></title>
+        <id>https://publy.co/content/6897?fr=category</id>
+        <link href="https://publy.co/content/6897?fr=category"/>
+        <updated>2022-08-01T02:29:00.905Z</updated>
+        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파이썬 강의에서 알려주지 않는 데이터로 팀원을 설득하는 방법]]></title>
+        <id>https://publy.co/content/6895?fr=category</id>
+        <link href="https://publy.co/content/6895?fr=category"/>
+        <updated>2022-08-01T02:29:00.906Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[행복을 파는 브랜드 오롤리데이: 브랜드가 찐팬을 만드는 법]]></title>
+        <id>https://publy.co/content/6889?fr=category</id>
+        <link href="https://publy.co/content/6889?fr=category"/>
+        <updated>2022-08-01T02:29:00.906Z</updated>
+        <content type="html"><![CDATA[아티클 · 16분 분량]]></content>
     </entry>
 </feed>

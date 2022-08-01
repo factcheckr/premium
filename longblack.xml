@@ -4,7 +4,7 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 23:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 02:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.longblack.co/note/373</guid>
             <pubDate>Sun, 31 Jul 2022 15:24:01 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;‘녹기 전에’는 마포구 염리동에 자리한 아이스크림 가게입니다. 매일 메뉴가 달라지는 독특한 곳이죠. 바닐라, 초코부터 칡, 고추냉이(와사비), 게살까지. 지금까지<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220725/1658733223bbbc7421b8876b330675780dbe8daba7.png" length="0" type="image/png"/>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220801/1659312366f353d766ee1933b31d3e15040825cefe.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
