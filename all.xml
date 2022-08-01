@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 09:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 10:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6895?fr=category</guid>
             <pubDate>Mon, 01 Aug 2022 02:29:00 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대 65.7%, 고가의 경품보다 당첨 확률 높은 소소한 경품을 선호한다 (캐릿)]]></title>
+            <link>https://www.careet.net/837</link>
+            <guid>https://www.careet.net/837</guid>
+            <pubDate>Mon, 01 Aug 2022 10:29:08 GMT</pubDate>
+            <content:encoded><![CDATA[온·오프라인 이벤트 기획 꿀팁, 유의사항 한 번에 얻어가세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/e4568411-3056-4679-a121-879850747e6f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[MZ세대에게 입소문 난 최신 영상 광고 레퍼런스.ZIP (캐릿)]]></title>
