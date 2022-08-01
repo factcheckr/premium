@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-01T07:28:50.494Z</updated>
+    <updated>2022-08-01T08:31:56.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제한으로 제안하다: 작은 비즈니스의 생존 브랜딩]]></title>
+        <id>https://publy.co/content/6914?fr=category</id>
+        <link href="https://publy.co/content/6914?fr=category"/>
+        <updated>2022-08-01T08:30:43.757Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고민별로 살펴보는 상세페이지 특강]]></title>
         <id>https://publy.co/content/6916?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6895?fr=category"/>
         <updated>2022-08-01T02:29:00.906Z</updated>
         <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행복을 파는 브랜드 오롤리데이: 브랜드가 찐팬을 만드는 법]]></title>
-        <id>https://publy.co/content/6889?fr=category</id>
-        <link href="https://publy.co/content/6889?fr=category"/>
-        <updated>2022-08-01T02:29:00.906Z</updated>
-        <content type="html"><![CDATA[아티클 · 16분 분량]]></content>
     </entry>
 </feed>
