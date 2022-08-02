@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 14:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 15:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,12 +342,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/3af0763d-5283-4b0a-bc6a-04656ea6f52b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[워크맨 : 작업복으로 출발해, 유니클로를 위협하는 브랜드가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/365</link>
-            <guid>https://www.longblack.co/note/365</guid>
-            <pubDate>Mon, 01 Aug 2022 15:29:15 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;바쁠 수록 편한 옷을 찾게 되는 것 같습니다. 이왕이면 기능이 좋은 걸로요. 요즘 같은 장마철엔 방수가 되고, 폭염엔 통풍이 잘 되는 옷으로...등산복을 떠올렸다<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220724/1658667387c8ddec611a18c50177f073c08f30ba82.png" length="0" type="image/png"/>
+            <title><![CDATA[미셸 자우너 : 『H마트에서 울다』, 뉴욕타임스 베스트셀러를 만든 디테일의 힘 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/372</link>
+            <guid>https://www.longblack.co/note/372</guid>
+            <pubDate>Tue, 02 Aug 2022 15:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;롱블랙 피플, 휴가 다녀왔어요? 전 좀 일찍 다녀왔는데요. 쉬면서 그동안 읽고 싶었던 책을 잔뜩 읽었어요! 그중 한 권은 미셸 자우너Michelle Zauner의<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220726/1658825895b7eebaf18d782782e83784ce95a44a3e.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -638,6 +638,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[만 5세 입학 논란의 뒤에는 정치와 경제 논리, 그리고 언론의 편협함이 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53525</link>
+            <guid>https://www.bookjournalism.com/books/53525</guid>
+            <pubDate>Tue, 02 Aug 2022 15:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[인구도 가불이 되나요]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미국은 반도체 ‘칩4 동맹’을 요구하고 있다. 전랑과 경찰 사이 한국은 살아남을 수 있을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/53479</link>
             <guid>https://www.bookjournalism.com/books/53479</guid>
@@ -713,13 +720,6 @@
             <guid>https://www.bookjournalism.com/audio/53244</guid>
             <pubDate>Tue, 02 Aug 2022 14:24:52 GMT</pubDate>
             <content:encoded><![CDATA[작곡가와 스포티파이, 그리고 인공지능]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카메라 회사들이 DSLR을 포기한다. 사형선고는 이미 내려졌다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/53213</link>
-            <guid>https://www.bookjournalism.com/books/53213</guid>
-            <pubDate>Tue, 02 Aug 2022 14:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[R.I.P. DSLR]]></content:encoded>
         </item>
     </channel>
 </rss>
