@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 23:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 02:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -645,18 +645,18 @@
             <content:encoded><![CDATA[반도체의 기정학개론]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[취향이 사치가 되는 시대다. 위스키도 마찬가지다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/53435</link>
-            <guid>https://www.bookjournalism.com/books/53435</guid>
-            <pubDate>Mon, 01 Aug 2022 22:26:52 GMT</pubDate>
-            <content:encoded><![CDATA[위스키의 향기는 ESG하지 않다]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/50374</link>
             <guid>https://www.bookjournalism.com/books/50374</guid>
             <pubDate>Mon, 01 Aug 2022 22:26:52 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[취향이 사치가 되는 시대다. 위스키도 마찬가지다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53435</link>
+            <guid>https://www.bookjournalism.com/books/53435</guid>
+            <pubDate>Mon, 01 Aug 2022 22:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[위스키의 향기는 ESG하지 않다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #47에선, 토종 과자 회사들의 새로운 시도, 협업툴 시장, MZ세대의 ‘무지출 챌린지’ 그리고 논란에 휩싸인 스타벅스에 관해 이야기합니다. (북저널리즘)]]></title>
