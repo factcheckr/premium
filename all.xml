@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 08:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 09:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[터지는 퍼포먼스 마케팅을 만드는 데이터 활용법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6902?fr=category</link>
+            <guid>https://publy.co/content/6902?fr=category</guid>
+            <pubDate>Tue, 02 Aug 2022 09:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[제한으로 제안하다: 작은 비즈니스의 생존 브랜딩 (퍼블리)]]></title>
             <link>https://publy.co/content/6914?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6897?fr=category</guid>
             <pubDate>Mon, 01 Aug 2022 02:29:00 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파이썬 강의에서 알려주지 않는 데이터로 팀원을 설득하는 방법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6895?fr=category</link>
-            <guid>https://publy.co/content/6895?fr=category</guid>
-            <pubDate>Mon, 01 Aug 2022 02:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ세대 65.7%, 고가의 경품보다 당첨 확률 높은 소소한 경품을 선호한다 (캐릿)]]></title>
