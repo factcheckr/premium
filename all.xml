@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 16:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 17:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -650,7 +650,7 @@
             <link>https://www.bookjournalism.com/books/53601</link>
             <guid>https://www.bookjournalism.com/books/53601</guid>
             <pubDate>Wed, 03 Aug 2022 15:29:26 GMT</pubDate>
-            <content:encoded><![CDATA[선의가 통하는 시대]]></content:encoded>
+            <content:encoded><![CDATA[선의가 통하는 시대?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[판데믹이 일깨운 것은 연결의 감각만이 아니다. 코로나19는 후각도 일깨웠다. 오감을 동원해 음식과 소통하라. (북저널리즘)]]></title>

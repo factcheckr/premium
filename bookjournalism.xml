@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-08-03T16:35:16.719Z</updated>
+    <updated>2022-08-03T17:25:35.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.bookjournalism.com/books/53601</id>
         <link href="https://www.bookjournalism.com/books/53601"/>
         <updated>2022-08-03T15:29:26.734Z</updated>
-        <content type="html"><![CDATA[선의가 통하는 시대]]></content>
+        <content type="html"><![CDATA[선의가 통하는 시대?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[판데믹이 일깨운 것은 연결의 감각만이 아니다. 코로나19는 후각도 일깨웠다. 오감을 동원해 음식과 소통하라.]]></title>
