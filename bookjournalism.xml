@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-08-03T14:22:48.957Z</updated>
+    <updated>2022-08-03T15:29:36.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[문화재 반환에 있어 멕시코의 '정중한 요청' 전략이 큰 효과를 거두고 있다. '선의'라는 당연한 단어를 다시 돌아볼 때다.]]></title>
+        <id>https://www.bookjournalism.com/books/53601</id>
+        <link href="https://www.bookjournalism.com/books/53601"/>
+        <updated>2022-08-03T15:29:26.734Z</updated>
+        <content type="html"><![CDATA[선의가 통하는 시대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[판데믹이 일깨운 것은 연결의 감각만이 아니다. 코로나19는 후각도 일깨웠다. 오감을 동원해 음식과 소통하라.]]></title>
         <id>https://www.bookjournalism.com/books/53558</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/53338"/>
         <updated>2022-08-02T20:27:54.437Z</updated>
         <content type="html"><![CDATA[스낵 서바이벌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언론의 2차 가해는 법적 책임으로 이어지지 않는다. 팩트는 어떻게 언론의 방패가 되나?]]></title>
-        <id>https://www.bookjournalism.com/books/53269</id>
-        <link href="https://www.bookjournalism.com/books/53269"/>
-        <updated>2022-08-02T20:27:54.438Z</updated>
-        <content type="html"><![CDATA[팩트라는 성역]]></content>
     </entry>
 </feed>
