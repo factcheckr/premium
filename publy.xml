@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-03T07:23:00.645Z</updated>
+    <updated>2022-08-03T08:34:12.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
-        <title type="html"><![CDATA[터지는 퍼포먼스 마케팅을 만드는 데이터 활용법]]></title>
+        <title type="html"><![CDATA[(전) LG 디스플레이 팀장이 말하는 리더가 가능성을 현실로 만드는 3가지 방법 (CES 도전기)]]></title>
+        <id>https://publy.co/content/6861?fr=category</id>
+        <link href="https://publy.co/content/6861?fr=category"/>
+        <updated>2022-08-03T08:32:59.223Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성과내는 퍼포먼스 마케팅, OMTM에 집중하고 있나요?]]></title>
         <id>https://publy.co/content/6902?fr=category</id>
         <link href="https://publy.co/content/6902?fr=category"/>
         <updated>2022-08-02T09:23:59.879Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6900?fr=category"/>
         <updated>2022-08-01T02:29:00.902Z</updated>
         <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜻밖의 호캉스: 어디로 가볼까?]]></title>
-        <id>https://publy.co/content/6897?fr=category</id>
-        <link href="https://publy.co/content/6897?fr=category"/>
-        <updated>2022-08-01T02:29:00.905Z</updated>
-        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
     </entry>
 </feed>

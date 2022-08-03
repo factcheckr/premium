@@ -4,11 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 07:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 08:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[터지는 퍼포먼스 마케팅을 만드는 데이터 활용법 (퍼블리)]]></title>
+            <title><![CDATA[(전) LG 디스플레이 팀장이 말하는 리더가 가능성을 현실로 만드는 3가지 방법 (CES 도전기) (퍼블리)]]></title>
+            <link>https://publy.co/content/6861?fr=category</link>
+            <guid>https://publy.co/content/6861?fr=category</guid>
+            <pubDate>Wed, 03 Aug 2022 08:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성과내는 퍼포먼스 마케팅, OMTM에 집중하고 있나요? (퍼블리)]]></title>
             <link>https://publy.co/content/6902?fr=category</link>
             <guid>https://publy.co/content/6902?fr=category</guid>
             <pubDate>Tue, 02 Aug 2022 09:23:59 GMT</pubDate>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6900?fr=category</guid>
             <pubDate>Mon, 01 Aug 2022 02:29:00 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뜻밖의 호캉스: 어디로 가볼까? (퍼블리)]]></title>
-            <link>https://publy.co/content/6897?fr=category</link>
-            <guid>https://publy.co/content/6897?fr=category</guid>
-            <pubDate>Mon, 01 Aug 2022 02:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 신생 브랜드 예일을 ‘뉴 힙 브랜드’로 떠오르게 만든 브랜딩 전략은? (캐릿)]]></title>
@@ -646,6 +646,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[판데믹이 일깨운 것은 연결의 감각만이 아니다. 코로나19는 후각도 일깨웠다. 오감을 동원해 음식과 소통하라. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53558</link>
+            <guid>https://www.bookjournalism.com/books/53558</guid>
+            <pubDate>Wed, 03 Aug 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[감각을 깨우는 식사]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[만 5세 입학 논란의 뒤에는 정치와 경제 논리, 그리고 언론의 편협함이 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/53525</link>
             <guid>https://www.bookjournalism.com/books/53525</guid>
@@ -721,13 +728,6 @@
             <guid>https://www.bookjournalism.com/books/53269</guid>
             <pubDate>Tue, 02 Aug 2022 20:27:54 GMT</pubDate>
             <content:encoded><![CDATA[팩트라는 성역]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오의 에피소드 #46에선, 가수 유희열의 표절 이슈와 초거대 인공지능 언어 모델, DSLR의 미래에 관해 이야기합니다. 또, 스포티파이의 한국 시장에서의 가능성을 전망합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/53244</link>
-            <guid>https://www.bookjournalism.com/audio/53244</guid>
-            <pubDate>Tue, 02 Aug 2022 20:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[작곡가와 스포티파이, 그리고 인공지능]]></content:encoded>
         </item>
     </channel>
 </rss>
