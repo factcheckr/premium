@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 07:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제한으로 제안하다: 작은 비즈니스의 생존 브랜딩 (퍼블리)]]></title>
+            <title><![CDATA[작은 비즈니스의 생존 브랜딩: 메뉴가 2개뿐인 카페에 웨이팅이 끊이지 않는 이유 (퍼블리)]]></title>
             <link>https://publy.co/content/6914?fr=category</link>
             <guid>https://publy.co/content/6914?fr=category</guid>
             <pubDate>Mon, 01 Aug 2022 08:30:43 GMT</pubDate>

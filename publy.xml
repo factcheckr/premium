@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-03T06:30:38.823Z</updated>
+    <updated>2022-08-03T07:23:00.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제한으로 제안하다: 작은 비즈니스의 생존 브랜딩]]></title>
+        <title type="html"><![CDATA[작은 비즈니스의 생존 브랜딩: 메뉴가 2개뿐인 카페에 웨이팅이 끊이지 않는 이유]]></title>
         <id>https://publy.co/content/6914?fr=category</id>
         <link href="https://publy.co/content/6914?fr=category"/>
         <updated>2022-08-01T08:30:43.757Z</updated>
