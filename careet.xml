@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 23:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 02:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 신생 브랜드 예일을 ‘뉴 힙 브랜드’로 떠오르게 만든 브랜딩 전략은?]]></title>
+            <link>https://www.careet.net/831</link>
+            <guid>https://www.careet.net/831</guid>
+            <pubDate>Wed, 03 Aug 2022 02:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[예일은 어떻게 Z세대픽 브랜드가 되었을까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/6ba854e2-e65c-48a3-9827-b3a569c8fce3_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MZ세대 65.7%, 고가의 경품보다 당첨 확률 높은 소소한 경품을 선호한다]]></title>
             <link>https://www.careet.net/837</link>
