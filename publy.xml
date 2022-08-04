@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-04T08:35:07.321Z</updated>
+    <updated>2022-08-04T09:24:54.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[집중하게 되는 PPT는 뭐가 다를까? 5가지 디자인 기본 노하우]]></title>
+        <id>https://publy.co/content/6919?fr=category</id>
+        <link href="https://publy.co/content/6919?fr=category"/>
+        <updated>2022-08-04T09:23:36.753Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘도 버티는 기획자를 위한 마음 다스리기 노하우]]></title>
+        <id>https://publy.co/content/6867?fr=category</id>
+        <link href="https://publy.co/content/6867?fr=category"/>
+        <updated>2022-08-04T09:23:36.755Z</updated>
+        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(전) LG 디스플레이 팀장이 말하는 리더가 가능성을 현실로 만드는 3가지 방법 (CES 도전기)]]></title>
         <id>https://publy.co/content/6861?fr=category</id>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/6883?fr=category"/>
         <updated>2022-07-26T08:29:18.704Z</updated>
         <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일주일에 딱 10분! 중요한 업무에 집중하게 만드는 시간 관리법(feat. 구글 캘린더)]]></title>
-        <id>https://publy.co/content/6893?fr=category</id>
-        <link href="https://publy.co/content/6893?fr=category"/>
-        <updated>2022-07-25T08:32:37.578Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[했던 일인데, 다시 하려니 기억이 안 난다면? 경험사전 작성 원칙]]></title>
-        <id>https://publy.co/content/6900?fr=category</id>
-        <link href="https://publy.co/content/6900?fr=category"/>
-        <updated>2022-08-01T02:29:00.902Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
     </entry>
 </feed>
