@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 12:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 13:48:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -678,6 +678,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 라디오의 에피소드 #48에선, 기후 위기 시대 위스키 업계의 변화, 멕시코의 문화재 반환 캠페인, 칩4 동맹과 기정학 시대, 신인 그룹 ‘뉴진스’의 새로운 전략에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/53730</link>
+            <guid>https://www.bookjournalism.com/audio/53730</guid>
+            <pubDate>Fri, 05 Aug 2022 13:48:05 GMT</pubDate>
+            <content:encoded><![CDATA[열탕과 냉탕을 오가는 세계, 위스키도 아이돌도 변한다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[민희진의 아이들 ‘뉴진스’의 인기가 심상찮다. 세계관이 지배한 아이돌 산업에서 뉴진스의 전략은 무엇일까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/53689</link>
             <guid>https://www.bookjournalism.com/books/53689</guid>
@@ -753,13 +760,6 @@
             <guid>https://www.bookjournalism.com/books/53297</guid>
             <pubDate>Fri, 05 Aug 2022 10:27:15 GMT</pubDate>
             <content:encoded><![CDATA[권리가 불법이 될 수 있나요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대론이 ‘진짜’ 문제를 가리는 데 사용되고 있다. MZ세대를 쪼개면 우리 사회의 양극화가 보인다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/53381</link>
-            <guid>https://www.bookjournalism.com/books/53381</guid>
-            <pubDate>Fri, 05 Aug 2022 10:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[MZ라는 쉬운 문법]]></content:encoded>
         </item>
     </channel>
 </rss>
