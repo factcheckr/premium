@@ -4,18 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 14:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 15:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 06 Aug 2022 15:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[L이 위로받은 지난주 롱블랙의 문장
-
-“오래 들여다보니 알겠어요. 아이스크림은 사실 위태로운 상태라는 것을요. 과학적으로 보면 고체도, 액체도 아니에요. 콜로이드 상태라고 하죠. 이 상태를 유지해야 녹지 않아요. 그러니까, 우리 눈엔 보이지 않지만, 아이스크림은 지<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220805/165968325298b94001cae45424f36690c6ee583c8c.png" length="0" type="image/png"/>
+            <title><![CDATA[잔망루피 : 넘버 원 MZ 픽 캐릭터, 인터넷 밈을 사업화하는 법]]></title>
+            <link>https://www.longblack.co/note/377</link>
+            <guid>https://www.longblack.co/note/377</guid>
+            <pubDate>Sun, 07 Aug 2022 15:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;퍼시 피그 이후로 저, 캐릭터 비즈니스에 푹 빠졌어요! 한국에서는 최근 제일 잘 나가는 캐릭터가 뭘까 생각하는데, 잔망루피가 있었지!뽀로로 친구에 불과했던 분홍색<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220801/1659349723c6df6a6b23a14156ad5f13d6efa95c57.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
