@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 23:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 02:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 끗 다른 지역 행사 기획? 대박 터진 로컬 마케팅 2]]></title>
+            <link>https://www.careet.net/845</link>
+            <guid>https://www.careet.net/845</guid>
+            <pubDate>Mon, 08 Aug 2022 02:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[임영웅 전국 콘서트, 맥도날드가 칭찬 받고 있는 이유]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/691f545c-5831-4178-a5df-c8e93f5eb92d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 알고리즘을 점령한 채널, 피시방 알바 브이로그? 이주의 떡상템 4]]></title>
             <link>https://www.careet.net/842</link>
