@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-08-08T14:25:39.109Z</updated>
+    <updated>2022-08-08T15:29:05.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아가 가스관 밸브를 잠근 결과, 유럽이 탈석탄 흐름에서 유턴하고 있다. 에너지는 경제가 아니라 정치다.]]></title>
+        <id>https://www.bookjournalism.com/books/53834</id>
+        <link href="https://www.bookjournalism.com/books/53834"/>
+        <updated>2022-08-08T15:28:54.431Z</updated>
+        <content type="html"><![CDATA[문제적 단어, GREEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 블로그 주간일기 챌린지가 화제다. 소셜 미디어가 범람하는 시대에서 블로그를 쓰는 심리는 무엇인가.]]></title>
         <id>https://www.bookjournalism.com/books/53760</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/53425"/>
         <updated>2022-08-08T13:48:44.181Z</updated>
         <content type="html"><![CDATA[신세계 유니버스에서 커피 한 잔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀즈의 적은 슬랙이 아닐지도 모른다. 협업툴 시장이 다시 뜨거워지는 이유는 무엇인가.]]></title>
-        <id>https://www.bookjournalism.com/books/53412</id>
-        <link href="https://www.bookjournalism.com/books/53412"/>
-        <updated>2022-08-08T13:48:44.181Z</updated>
-        <content type="html"><![CDATA[협업툴 4.0]]></content>
     </entry>
 </feed>

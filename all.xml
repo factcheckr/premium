@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 14:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 15:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,12 +390,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/3af0763d-5283-4b0a-bc6a-04656ea6f52b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[잔망루피 : 넘버 원 MZ 픽 캐릭터, 인터넷 밈을 사업화하는 법 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/377</link>
-            <guid>https://www.longblack.co/note/377</guid>
-            <pubDate>Sun, 07 Aug 2022 15:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;퍼시 피그 이후로 저, 캐릭터 비즈니스에 푹 빠졌어요! 한국에서는 최근 제일 잘 나가는 캐릭터가 뭘까 생각하는데, 잔망루피가 있었지!뽀로로 친구에 불과했던 분홍색<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220801/1659349723c6df6a6b23a14156ad5f13d6efa95c57.png" length="0" type="image/png"/>
+            <title><![CDATA[마이너리티 디자인 : 약점을 강점으로 바꾸는 새로운 창작론 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/379</link>
+            <guid>https://www.longblack.co/note/379</guid>
+            <pubDate>Mon, 08 Aug 2022 15:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;제겐 약점이 하나 있습니다. 무엇인지는, 말씀드릴 수 없습니다. 사람마다 숨기고 싶은 게 있으니까요. 그런데 이 약점이, 점점 제 발목을 잡는 기분입니다. 업무에<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220804/16595762666b1d14569ca4afaebe85a8ca1cfa5581.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -686,6 +686,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[러시아가 가스관 밸브를 잠근 결과, 유럽이 탈석탄 흐름에서 유턴하고 있다. 에너지는 경제가 아니라 정치다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53834</link>
+            <guid>https://www.bookjournalism.com/books/53834</guid>
+            <pubDate>Mon, 08 Aug 2022 15:28:54 GMT</pubDate>
+            <content:encoded><![CDATA[문제적 단어, GREEN]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[네이버 블로그 주간일기 챌린지가 화제다. 소셜 미디어가 범람하는 시대에서 블로그를 쓰는 심리는 무엇인가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/53760</link>
             <guid>https://www.bookjournalism.com/books/53760</guid>
@@ -761,13 +768,6 @@
             <guid>https://www.bookjournalism.com/books/53425</guid>
             <pubDate>Mon, 08 Aug 2022 13:48:44 GMT</pubDate>
             <content:encoded><![CDATA[신세계 유니버스에서 커피 한 잔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팀즈의 적은 슬랙이 아닐지도 모른다. 협업툴 시장이 다시 뜨거워지는 이유는 무엇인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/53412</link>
-            <guid>https://www.bookjournalism.com/books/53412</guid>
-            <pubDate>Mon, 08 Aug 2022 13:48:44 GMT</pubDate>
-            <content:encoded><![CDATA[협업툴 4.0]]></content:encoded>
         </item>
     </channel>
 </rss>
