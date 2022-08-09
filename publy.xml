@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-09T07:23:07.181Z</updated>
+    <updated>2022-08-09T08:31:56.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[입는 결이 바뀐다 : 변화된 일상 틈틈이 스며든 일본의 패션 트렌드]]></title>
+        <id>https://publy.co/content/6903?fr=category</id>
+        <link href="https://publy.co/content/6903?fr=category"/>
+        <updated>2022-08-09T08:30:41.474Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당장 써먹는 고객 여정별 CRM 마케팅 레퍼런스]]></title>
         <id>https://publy.co/content/6923?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6916?fr=category"/>
         <updated>2022-07-29T05:33:53.434Z</updated>
         <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PO출신이 짚어주는, 창업하기 전에 쌓아두어야 할 역량]]></title>
-        <id>https://publy.co/content/6856?fr=category</id>
-        <link href="https://publy.co/content/6856?fr=category"/>
-        <updated>2022-08-09T05:29:08.601Z</updated>
-        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
     </entry>
 </feed>
