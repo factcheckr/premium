@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 04:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 05:30:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[퍼블리 소식] 퍼블리 SNS 계정 팔로우하고, 다양한 이야기를 만나보세요! (퍼블리)]]></title>
-            <link>https://publy.co/content/6907?fr=category</link>
-            <guid>https://publy.co/content/6907?fr=category</guid>
-            <pubDate>Mon, 08 Aug 2022 09:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[당장 써먹는 고객 여정별 CRM 마케팅 레퍼런스 (퍼블리)]]></title>
             <link>https://publy.co/content/6923?fr=category</link>
@@ -76,6 +69,13 @@
             <guid>https://publy.co/content/6916?fr=category</guid>
             <pubDate>Fri, 29 Jul 2022 05:33:53 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PO출신이 짚어주는, 창업하기 전에 쌓아두어야 할 역량 (퍼블리)]]></title>
+            <link>https://publy.co/content/6856?fr=category</link>
+            <guid>https://publy.co/content/6856?fr=category</guid>
+            <pubDate>Tue, 09 Aug 2022 05:29:08 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이돌 부럽지 않은 팬덤 보유한 웹툰 캐릭터 리스트업.Zip (캐릿)]]></title>
