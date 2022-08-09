@@ -2,7 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-08-09T17:26:41.362Z</updated>
+    <updated>2022-08-09T18:30:10.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[인스타그램이 NFT 게시 서비스를 확장한다. 막바지에 다다른 소셜 미디어 모델에서 탈출하기 위한 전략이다.]]></title>
+        <id>https://www.bookjournalism.com/books/53900</id>
+        <link href="https://www.bookjournalism.com/books/53900"/>
+        <updated>2022-08-09T18:29:58.738Z</updated>
+        <content type="html"><![CDATA[인스타그램은 화이트 큐브의 꿈을 꾸는가?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아가 가스관 밸브를 잠근 결과, 유럽이 탈석탄 흐름에서 유턴하고 있다. 에너지는 경제가 아니라 정치다.]]></title>
+        <id>https://www.bookjournalism.com/books/53834</id>
+        <link href="https://www.bookjournalism.com/books/53834"/>
+        <updated>2022-08-09T18:29:58.738Z</updated>
+        <content type="html"><![CDATA[문제적 단어, GREEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
+        <id>https://www.bookjournalism.com/books/50374</id>
+        <link href="https://www.bookjournalism.com/books/50374"/>
+        <updated>2022-08-09T18:29:58.738Z</updated>
+        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 블로그 주간일기 챌린지가 화제다. 소셜 미디어가 범람하는 시대에서 블로그를 쓰는 심리는 무엇인가.]]></title>
+        <id>https://www.bookjournalism.com/books/53760</id>
+        <link href="https://www.bookjournalism.com/books/53760"/>
+        <updated>2022-08-09T18:29:58.742Z</updated>
+        <content type="html"><![CDATA[기록과 상품 사이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #48에선, 기후 위기 시대 위스키 업계의 변화, 멕시코의 문화재 반환 캠페인, 칩4 동맹과 기정학 시대, 신인 그룹 ‘뉴진스’의 새로운 전략에 관해 이야기합니다.]]></title>
+        <id>https://www.bookjournalism.com/audio/53730</id>
+        <link href="https://www.bookjournalism.com/audio/53730"/>
+        <updated>2022-08-09T18:29:58.742Z</updated>
+        <content type="html"><![CDATA[열탕과 냉탕을 오가는 세계, 위스키도 아이돌도 변한다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민희진의 아이들 ‘뉴진스’의 인기가 심상찮다. 세계관이 지배한 아이돌 산업에서 뉴진스의 전략은 무엇일까?]]></title>
+        <id>https://www.bookjournalism.com/books/53689</id>
+        <link href="https://www.bookjournalism.com/books/53689"/>
+        <updated>2022-08-09T18:29:58.753Z</updated>
+        <content type="html"><![CDATA[모두의 것, 세계관]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문화재 반환에 있어 멕시코의 ‘정중한 요청’ 전략이 큰 효과를 거두고 있다. ‘선의’라는 당연한 단어를 다시 돌아볼 때다.]]></title>
+        <id>https://www.bookjournalism.com/books/53601</id>
+        <link href="https://www.bookjournalism.com/books/53601"/>
+        <updated>2022-08-09T18:29:58.756Z</updated>
+        <content type="html"><![CDATA[선의가 통하는 세상?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[판데믹이 일깨운 것은 연결의 감각만이 아니다. 코로나19는 후각도 일깨웠다. 오감을 동원해 음식과 소통하라.]]></title>
+        <id>https://www.bookjournalism.com/books/53558</id>
+        <link href="https://www.bookjournalism.com/books/53558"/>
+        <updated>2022-08-09T18:29:58.756Z</updated>
+        <content type="html"><![CDATA[감각을 깨우는 식사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만 5세 입학 논란의 뒤에는 정치와 경제 논리, 그리고 언론의 편협함이 있다.]]></title>
+        <id>https://www.bookjournalism.com/books/53525</id>
+        <link href="https://www.bookjournalism.com/books/53525"/>
+        <updated>2022-08-09T18:29:58.756Z</updated>
+        <content type="html"><![CDATA[인구도 가불이 되나요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국은 반도체 ‘칩4 동맹’을 요구하고 있다. 전랑과 경찰 사이 한국은 살아남을 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/53479</id>
+        <link href="https://www.bookjournalism.com/books/53479"/>
+        <updated>2022-08-09T18:29:58.761Z</updated>
+        <content type="html"><![CDATA[반도체의 기정학개론]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[취향이 사치가 되는 시대다. 위스키도 마찬가지다.]]></title>
+        <id>https://www.bookjournalism.com/books/53435</id>
+        <link href="https://www.bookjournalism.com/books/53435"/>
+        <updated>2022-08-09T18:29:58.772Z</updated>
+        <content type="html"><![CDATA[위스키의 향기는 ESG하지 않다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #47에선, 토종 과자 회사들의 새로운 시도, 협업툴 시장, MZ세대의 ‘무지출 챌린지’ 그리고 논란에 휩싸인 스타벅스에 관해 이야기합니다.]]></title>
+        <id>https://www.bookjournalism.com/audio/53450</id>
+        <link href="https://www.bookjournalism.com/audio/53450"/>
+        <updated>2022-08-09T18:29:58.772Z</updated>
+        <content type="html"><![CDATA[과자와 커피는 분투하고 MZ는 지갑을 닫는다]]></content>
+    </entry>
 </feed>
