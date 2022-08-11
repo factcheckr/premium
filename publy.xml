@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-11T08:29:45.012Z</updated>
+    <updated>2022-08-11T09:25:52.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
@@ -21,10 +21,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA['퇴사는 마렵고 퇴직은 두렵다?' 2030 팀장을 위한 퇴직 가이드 (커리어 로드맵 템플릿)]]></title>
-        <id>https://publy.co/set/1940?fr=category</id>
-        <link href="https://publy.co/set/1940?fr=category"/>
-        <updated>2022-08-11T08:28:38.400Z</updated>
-        <content type="html"><![CDATA[웹북 · 1개 챕터]]></content>
+        <id>https://publy.co/content/6852?fr=category</id>
+        <link href="https://publy.co/content/6852?fr=category"/>
+        <updated>2022-08-11T09:24:41.451Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업, 중소기업, 대기업 이직 연봉협상 노하우.zip]]></title>
