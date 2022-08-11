@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 23:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 02:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 OO%는 메시지로 고백? 세대별 연애 데이터 비교]]></title>
+            <link>https://www.careet.net/848</link>
+            <guid>https://www.careet.net/848</guid>
+            <pubDate>Thu, 11 Aug 2022 02:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[연인을 만나는 경로부터 썸 타는 기간까지 데이터로 알려 드립니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/8fa076d0-08ba-4e8f-b8a3-dd5c628b2c93_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[편의점=Z세대 핫플? 편의점 가려고 수원까지 가는 Z세대 근황]]></title>
             <link>https://www.careet.net/844</link>
