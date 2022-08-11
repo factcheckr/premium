@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-11T07:25:04.972Z</updated>
+    <updated>2022-08-11T08:29:45.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[일 잘하는 PM은 이렇게 질문합니다]]></title>
+        <id>https://publy.co/content/6886?fr=category</id>
+        <link href="https://publy.co/content/6886?fr=category"/>
+        <updated>2022-08-11T08:28:38.399Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브라운백 블리스, 재구매율 99%의 비밀: B2B 마케팅은 '판매가 아니라 신뢰'다]]></title>
+        <id>https://publy.co/content/6882?fr=category</id>
+        <link href="https://publy.co/content/6882?fr=category"/>
+        <updated>2022-08-11T08:28:38.399Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['퇴사는 마렵고 퇴직은 두렵다?' 2030 팀장을 위한 퇴직 가이드 (커리어 로드맵 템플릿)]]></title>
+        <id>https://publy.co/set/1940?fr=category</id>
+        <link href="https://publy.co/set/1940?fr=category"/>
+        <updated>2022-08-11T08:28:38.400Z</updated>
+        <content type="html"><![CDATA[웹북 · 1개 챕터]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타트업, 중소기업, 대기업 이직 연봉협상 노하우.zip]]></title>
         <id>https://publy.co/content/6915?fr=category</id>
@@ -53,26 +74,5 @@
         <link href="https://publy.co/content/6867?fr=category"/>
         <updated>2022-08-04T09:23:36.755Z</updated>
         <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(전) LG 디스플레이 팀장이 말하는 리더가 가능성을 현실로 만드는 3가지 방법 (CES 도전기)]]></title>
-        <id>https://publy.co/content/6861?fr=category</id>
-        <link href="https://publy.co/content/6861?fr=category"/>
-        <updated>2022-08-03T08:32:59.223Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성과내는 퍼포먼스 마케팅, OMTM에 집중하고 있나요?]]></title>
-        <id>https://publy.co/content/6902?fr=category</id>
-        <link href="https://publy.co/content/6902?fr=category"/>
-        <updated>2022-08-02T09:23:59.879Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작은 비즈니스의 생존 브랜딩: 메뉴가 2개뿐인 카페에 웨이팅이 끊이지 않는 이유]]></title>
-        <id>https://publy.co/content/6914?fr=category</id>
-        <link href="https://publy.co/content/6914?fr=category"/>
-        <updated>2022-08-01T08:30:43.757Z</updated>
-        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
     </entry>
 </feed>
