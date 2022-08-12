@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-12T08:30:30.634Z</updated>
+    <updated>2022-08-12T09:24:38.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[퍼블리 리더십 스쿨 : 현실에서 팀장으로 살아남기]]></title>
+        <id>https://publy.co/content/6935?fr=category</id>
+        <link href="https://publy.co/content/6935?fr=category"/>
+        <updated>2022-08-12T09:23:24.090Z</updated>
+        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3만5000명 이탈 고객을 돌아오게 한 와이즐리 캠페인]]></title>
+        <id>https://publy.co/content/6929?fr=category</id>
+        <link href="https://publy.co/content/6929?fr=category"/>
+        <updated>2022-08-12T09:23:24.092Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직무 전환, 포기하긴 이르다: 컨설턴트가 알려주는 3단계 노하우]]></title>
+        <id>https://publy.co/content/6934?fr=category</id>
+        <link href="https://publy.co/content/6934?fr=category"/>
+        <updated>2022-08-12T09:23:24.092Z</updated>
+        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일 잘하는 PM은 이렇게 질문합니다]]></title>
         <id>https://publy.co/content/6886?fr=category</id>
@@ -53,26 +74,5 @@
         <link href="https://publy.co/content/6925?fr=category"/>
         <updated>2022-08-05T08:29:08.350Z</updated>
         <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신규 고객을 모으는 3가지 마케팅 포인트]]></title>
-        <id>https://publy.co/content/6918?fr=category</id>
-        <link href="https://publy.co/content/6918?fr=category"/>
-        <updated>2022-08-05T08:29:08.350Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집중하게 되는 PPT는 뭐가 다를까? 5가지 디자인 기본 노하우]]></title>
-        <id>https://publy.co/content/6919?fr=category</id>
-        <link href="https://publy.co/content/6919?fr=category"/>
-        <updated>2022-08-04T09:23:36.753Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘도 버티는 기획자를 위한 마음 다스리기 노하우]]></title>
-        <id>https://publy.co/content/6867?fr=category</id>
-        <link href="https://publy.co/content/6867?fr=category"/>
-        <updated>2022-08-04T09:23:36.755Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
 </feed>
