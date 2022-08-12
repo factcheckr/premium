@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 23:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 02:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 점심 먹고 ‘아샷추’ 대신 ‘아펄추’ 어때? 무슨 소린지 모르신다면 클릭!]]></title>
+            <link>https://www.careet.net/849</link>
+            <guid>https://www.careet.net/849</guid>
+            <pubDate>Fri, 12 Aug 2022 02:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 SNS에서 화제! 이번 주 떡상템 5]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/52d673d8-9b17-49be-a945-31b2a18cacb5_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 OO%는 메시지로 고백? 세대별 연애 데이터 비교]]></title>
             <link>https://www.careet.net/848</link>
