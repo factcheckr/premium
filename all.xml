@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 23:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 02:27:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -426,7 +426,7 @@
             <link>https://www.longblack.co/note/390</link>
             <guid>https://www.longblack.co/note/390</guid>
             <pubDate>Sun, 14 Aug 2022 15:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B8월 6일, 서울 광화문 광장이 다시 열렸습니다. 광장 주변에 울타리를 치고 확장 공사를 한 지 1년 9개월 만입니다. 지난주 퇴근길에 잠시 광장에 들렀어요. 이전<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;8월 6일, 서울 광화문 광장이 다시 열렸습니다. 광장 주변에 울타리를 치고 확장 공사를 한 지 1년 9개월 만입니다. 지난주 퇴근길에 잠시 광장에 들렀어요. 이<span class="circle-punctuation"></span>]]></content:encoded>
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220810/1660123263473f5da809cf9da0d13e287495d49f9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
