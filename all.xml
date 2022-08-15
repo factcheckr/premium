@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 10:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 11:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,7 +83,7 @@
             <guid>https://www.careet.net/849</guid>
             <pubDate>Fri, 12 Aug 2022 02:10:51 GMT</pubDate>
             <content:encoded><![CDATA[Z세대 SNS에서 화제! 이번 주 떡상템 5]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/52d673d8-9b17-49be-a945-31b2a18cacb5_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/8729e95d-ad0e-4af6-b2f6-445ea39a44a9_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 OO%는 메시지로 고백? 세대별 연애 데이터 비교 (캐릿)]]></title>
