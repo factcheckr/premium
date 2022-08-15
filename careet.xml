@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 22:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 23:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 10CM 마케팅팀이 10년째 꾸준히 1020팬 유입시킨 비결은?]]></title>
+            <link>https://www.careet.net/835</link>
+            <guid>https://www.careet.net/835</guid>
+            <pubDate>Mon, 15 Aug 2022 23:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[엔터 업계에게 배우는 Z세대 타깃 마케팅]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/9628832d-d790-4b68-a272-91e0ba5c35ff_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오늘 점심 먹고 ‘아샷추’ 대신 ‘아펄추’ 어때? 무슨 소린지 모르신다면 클릭!]]></title>
             <link>https://www.careet.net/849</link>
