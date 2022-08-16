@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-16T07:20:30.709Z</updated>
+    <updated>2022-08-16T08:27:12.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA['내 직무는 수치화가 어려운데...' 경력기술서에 내 일 어필하는 방법]]></title>
+        <id>https://publy.co/content/6917?fr=category</id>
+        <link href="https://publy.co/content/6917?fr=category"/>
+        <updated>2022-08-16T08:25:58.977Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퍼블리 리더십 스쿨 : 현실에서 팀장으로 살아남기]]></title>
         <id>https://publy.co/content/6935?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6923?fr=category"/>
         <updated>2022-08-08T09:25:53.024Z</updated>
         <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A급 보고서를 위한 솔루션 패키지]]></title>
-        <id>https://publy.co/content/6925?fr=category</id>
-        <link href="https://publy.co/content/6925?fr=category"/>
-        <updated>2022-08-05T08:29:08.350Z</updated>
-        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
     </entry>
 </feed>
