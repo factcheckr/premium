@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-17T08:31:41.867Z</updated>
+    <updated>2022-08-17T09:26:39.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제안서는 설명서가 아니다: 고객 중심 제안서 기초  작성법(양식 제공)]]></title>
+        <id>https://publy.co/content/6927?fr=category</id>
+        <link href="https://publy.co/content/6927?fr=category"/>
+        <updated>2022-08-17T09:25:27.769Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90년대생 팀장의 소통법 : 회식 없이 건강하고 끈끈한 팀 만들기 (3종 템플릿)]]></title>
+        <id>https://publy.co/content/6878?fr=category</id>
+        <link href="https://publy.co/content/6878?fr=category"/>
+        <updated>2022-08-17T09:25:27.770Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내 직무는 수치화가 어려운데...' 경력기술서에 내 일 어필하는 방법]]></title>
         <id>https://publy.co/content/6917?fr=category</id>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/6915?fr=category"/>
         <updated>2022-08-10T08:29:05.468Z</updated>
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입는 결이 바뀐다 : 변화된 일상 틈틈이 스며든 일본의 패션 트렌드]]></title>
-        <id>https://publy.co/content/6903?fr=category</id>
-        <link href="https://publy.co/content/6903?fr=category"/>
-        <updated>2022-08-09T08:30:41.474Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당장 써먹는 고객 여정별 CRM 마케팅 레퍼런스]]></title>
-        <id>https://publy.co/content/6923?fr=category</id>
-        <link href="https://publy.co/content/6923?fr=category"/>
-        <updated>2022-08-08T09:25:53.024Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
 </feed>
