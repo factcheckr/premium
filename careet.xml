@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 06:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 07:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 17 Aug 2022 02:33:41 GMT</pubDate>
             <content:encoded><![CDATA[Z세대가 칭찬한 온라인 행사 이벤트]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/8fff3312-6a56-44b5-8bfa-543f3e60cc88_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 힙한 브랜드는 다 ‘숏폼 마케팅’ 한다며?]]></title>
+            <link>https://www.careet.net/847</link>
+            <guid>https://www.careet.net/847</guid>
+            <pubDate>Wed, 17 Aug 2022 07:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[쇼츠, 릴스, 틱톡으로 숏폼 마케팅 야무지게 하는 브랜드 총정리]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/62fbebb3-cb28-4016-90de-c234c64196a2_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 10CM 마케팅팀이 10년째 꾸준히 1020팬 유입시킨 비결은?]]></title>
