@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 23:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 02:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6923?fr=category</guid>
             <pubDate>Mon, 08 Aug 2022 09:25:53 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온라인 행사에서 Z세대 참여도 300% 높이는 꿀팁 3 (캐릿)]]></title>
+            <link>https://www.careet.net/850</link>
+            <guid>https://www.careet.net/850</guid>
+            <pubDate>Wed, 17 Aug 2022 02:33:41 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 칭찬한 온라인 행사 이벤트]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/8fff3312-6a56-44b5-8bfa-543f3e60cc88_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 10CM 마케팅팀이 10년째 꾸준히 1020팬 유입시킨 비결은? (캐릿)]]></title>
