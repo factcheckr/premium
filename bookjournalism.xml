@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-08-17T14:29:03.292Z</updated>
+    <updated>2022-08-17T15:28:58.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[바이든 대통령이 4300억 달러 규모의 ‘인플레이션 감축법’에 서명했다. 내용을 보면 미국 최대 기후법에 서명한 것과 다름없다.]]></title>
+        <id>https://www.bookjournalism.com/books/54219</id>
+        <link href="https://www.bookjournalism.com/books/54219"/>
+        <updated>2022-08-17T15:28:46.747Z</updated>
+        <content type="html"><![CDATA[인플레이션 감축은 거들 뿐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치솟는 열기가 생태계를 불사르고 있다. 붕괴하는 것은 인간만이 아니다. 곤충도 예외는 없다.]]></title>
         <id>https://www.bookjournalism.com/books/54137</id>
@@ -82,12 +89,5 @@
         <link href="https://www.bookjournalism.com/books/53900"/>
         <updated>2022-08-17T08:31:31.405Z</updated>
         <content type="html"><![CDATA[인스타그램은 화이트 큐브의 꿈을 꾸는가?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아가 가스관 밸브를 잠근 결과, 유럽이 탈석탄 흐름에서 유턴하고 있다. 에너지는 경제가 아니라 정치다.]]></title>
-        <id>https://www.bookjournalism.com/books/53834</id>
-        <link href="https://www.bookjournalism.com/books/53834"/>
-        <updated>2022-08-17T08:31:31.407Z</updated>
-        <content type="html"><![CDATA[문제적 단어, GREEN]]></content>
     </entry>
 </feed>
