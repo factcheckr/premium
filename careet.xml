@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 04:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 05:39:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현실과 메타버스에서 동시에 사용하는 장난감이 생겼다고?]]></title>
+            <link>https://www.careet.net/851</link>
+            <guid>https://www.careet.net/851</guid>
+            <pubDate>Thu, 18 Aug 2022 05:38:52 GMT</pubDate>
+            <content:encoded><![CDATA[SF 영화가 알파세대에겐 일상 생활? 충격적인 요즘 초등학생 근황]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/253dd054-7474-418c-a209-03082abc631e_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[온라인 행사에서 Z세대 참여도 300% 높이는 꿀팁 3]]></title>
             <link>https://www.careet.net/850</link>
