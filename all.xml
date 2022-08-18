@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 02:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 04:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -749,6 +749,13 @@
             <content:encoded><![CDATA[인플레이션 감축은 거들 뿐]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 17 Aug 2022 17:31:01 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[치솟는 열기가 생태계를 불사르고 있다. 붕괴하는 것은 인간만이 아니다. 곤충도 예외는 없다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54137</link>
             <guid>https://www.bookjournalism.com/books/54137</guid>
@@ -761,13 +768,6 @@
             <guid>https://www.bookjournalism.com/books/54150</guid>
             <pubDate>Wed, 17 Aug 2022 17:31:01 GMT</pubDate>
             <content:encoded><![CDATA[반지하 바깥에는 볕이 들까요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 17 Aug 2022 17:31:01 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소더비가 한국 시장에 다시 진출한다. 그림을 사지 않는 우리에게 이는 어떤 의미인가. (북저널리즘)]]></title>
