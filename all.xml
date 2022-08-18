@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 14:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 15:40:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -454,12 +454,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/3af0763d-5283-4b0a-bc6a-04656ea6f52b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[포뮬러 원 : 세계 최고 권위 자동차 경주 대회, 71년만에 전성기를 누리는 비결 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/388</link>
-            <guid>https://www.longblack.co/note/388</guid>
-            <pubDate>Wed, 17 Aug 2022 15:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;지난 주말 잠실종합운동장을 지나다 깜짝 놀랐어요. 레이스카race car들이 줄지어 쌩쌩 달리고 있는 거예요. 스포츠 기자 출신인 백수진 에디터에게 물었더니 ‘전<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220811/1660198235484ec8f17d9bd6f2d00927280ce58ab0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[갈리마르 : 111년 역사의 프랑스 출판사에서 생존의 비결을 읽다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/393</link>
+            <guid>https://www.longblack.co/note/393</guid>
+            <pubDate>Thu, 18 Aug 2022 15:39:04 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;“출판업이 위기”라는 말도 진부하게 느껴집니다. 그만큼 어려움을 겪는 출판사가 많습니다. 그 와중에도 “양질의 지식을 전하겠다”는 출판사들이 대단해 보이는 건 그<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220817/1660724950ef89a076ac66b7e98abf7c49cb059f1c.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -750,6 +750,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[갓생은 트렌드가 아니다. 청년 세대가 보내는 위기의 시그널이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54315</link>
+            <guid>https://www.bookjournalism.com/books/54315</guid>
+            <pubDate>Thu, 18 Aug 2022 15:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[멍하니 갓생살기]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[바이든 대통령이 4300억 달러 규모의 ‘인플레이션 감축법’에 서명했다. 내용을 보면 미국 최대 기후법에 서명한 것과 다름없다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54219</link>
             <guid>https://www.bookjournalism.com/books/54219</guid>
@@ -826,13 +833,6 @@
             <guid>https://www.bookjournalism.com/books/53874</guid>
             <pubDate>Thu, 18 Aug 2022 14:26:27 GMT</pubDate>
             <content:encoded><![CDATA[그 많던 자전거는 다 어디로 갔을까]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램이 NFT 게시 서비스를 확장한다. 막바지에 다다른 소셜 미디어 모델에서 탈출하기 위한 전략이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/53900</link>
-            <guid>https://www.bookjournalism.com/books/53900</guid>
-            <pubDate>Thu, 18 Aug 2022 14:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램은 화이트 큐브의 꿈을 꾸는가?]]></content:encoded>
         </item>
     </channel>
 </rss>
