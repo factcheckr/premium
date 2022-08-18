@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-18T07:23:30.225Z</updated>
+    <updated>2022-08-18T08:30:46.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[팀원 설득 시간을 반으로 줄여주는 A/B테스트 설계 문서 작성 노하우(노션 템플릿 제공)]]></title>
+        <id>https://publy.co/content/6909?fr=category</id>
+        <link href="https://publy.co/content/6909?fr=category"/>
+        <updated>2022-08-18T08:29:37.093Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제안서는 설명서가 아니다: 고객 중심 제안서 기초  작성법(양식 제공)]]></title>
         <id>https://publy.co/content/6927?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6852?fr=category"/>
         <updated>2022-08-11T09:24:41.451Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업, 중소기업, 대기업 이직 연봉협상 노하우.zip]]></title>
-        <id>https://publy.co/content/6915?fr=category</id>
-        <link href="https://publy.co/content/6915?fr=category"/>
-        <updated>2022-08-10T08:29:05.468Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>
