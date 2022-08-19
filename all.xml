@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 07:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 08:31:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타고난 리더는 없다 : <팀장으로 산다는 건> 저자의 코칭 처방전 (퍼블리)]]></title>
+            <link>https://publy.co/content/6783?fr=category</link>
+            <guid>https://publy.co/content/6783?fr=category</guid>
+            <pubDate>Fri, 19 Aug 2022 08:30:06 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팀원 설득 시간을 반으로 줄여주는 A/B테스트 설계 문서 작성 노하우(노션 템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/6909?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6882?fr=category</guid>
             <pubDate>Thu, 11 Aug 2022 08:28:38 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['퇴사는 마렵고 퇴직은 두렵다?' 2030 팀장을 위한 퇴직 가이드 (커리어 로드맵 템플릿) (퍼블리)]]></title>
-            <link>https://publy.co/content/6852?fr=category</link>
-            <guid>https://publy.co/content/6852?fr=category</guid>
-            <pubDate>Thu, 11 Aug 2022 09:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 비건을 실천하는 이유는 OOO? 의외의 조사 결과 나왔다 (캐릿)]]></title>
