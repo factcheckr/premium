@@ -4,18 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 14:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 15:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 20 Aug 2022 15:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[C의 눈을 번쩍 뜨게 만든 지난주 롱블랙의 문장
-
-“운동이랑 비슷해요. 재능을 타고나는 사람이 왜 없겠어요. 타고나길 근육이 더 많고, 눈과 손이 더 잘 협응하는 사람이 있죠. 그건 분명한 이점이지만, 타고난 것만으로 세계적인 수준의 선수가 될 수는 없습니다. 매일<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220820/1660962964a2d364216b0f0ffeff60ee0589d8756b.png" length="0" type="image/png"/>
+            <title><![CDATA[닐 호인 : 구글 데이터분석 총괄, "지금의 마케팅으론 성공할 수 없다"]]></title>
+            <link>https://www.longblack.co/note/392</link>
+            <guid>https://www.longblack.co/note/392</guid>
+            <pubDate>Sun, 21 Aug 2022 15:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;저 마케터잖아요. 공부가 끝이 없어요. 요새는 디지털 마케팅 공부에 열심인데요. 디지털 마케팅하면 빼놓을 수 없는 키워드가 데이터이죠. 이 단어가 왜 이리 압도적<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220817/16607285620dfa4c3e70d0529d446248032ea7726d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
