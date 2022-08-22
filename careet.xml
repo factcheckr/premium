@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 23:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 02:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스는 왜 그렇게 핫한 걸까? 온·오프라인 마케팅 비결]]></title>
+            <link>https://www.careet.net/858</link>
+            <guid>https://www.careet.net/858</guid>
+            <pubDate>Mon, 22 Aug 2022 02:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[공식 앱부터 힙한 팝업스토어까지. Z세대의 시각으로 정리함]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/882c6d27-a82f-4131-8a71-b2bb59eb4c88_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 비건을 실천하는 이유는 OOO? 의외의 조사 결과 나왔다]]></title>
             <link>https://www.careet.net/855</link>
