@@ -4,7 +4,7 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 04:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 05:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.longblack.co/note/392</guid>
             <pubDate>Sun, 21 Aug 2022 15:24:11 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;저 마케터잖아요. 공부가 끝이 없어요. 요새는 디지털 마케팅 공부에 열심인데요. 디지털 마케팅하면 빼놓을 수 없는 키워드가 데이터이죠. 이 단어가 왜 이리 압도적<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220817/16607285620dfa4c3e70d0529d446248032ea7726d.png" length="0" type="image/png"/>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220817/1660725327d1f140a286d47e840ca09a873eaef503.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
