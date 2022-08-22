@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 07:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 08:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느 날 우리 팀에 금쪽이 팀원이 나타났다 (팀장의 4가지 대처법) (퍼블리)]]></title>
+            <link>https://publy.co/content/6930?fr=category</link>
+            <guid>https://publy.co/content/6930?fr=category</guid>
+            <pubDate>Mon, 22 Aug 2022 08:31:41 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[커리어 사춘기를 겪고 있다면: 하루 만에 끝내는 커리어 파인딩 3단계(템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/6936?fr=category</link>
+            <guid>https://publy.co/content/6936?fr=category</guid>
+            <pubDate>Mon, 22 Aug 2022 08:31:41 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[칼퇴를 돕는 자료조사 노하우 총 정리 (퍼블리)]]></title>
             <link>https://publy.co/content/6938?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6929?fr=category</guid>
             <pubDate>Fri, 12 Aug 2022 09:23:24 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[직무 전환, 포기하긴 이르다: 컨설턴트가 알려주는 3단계 노하우 (퍼블리)]]></title>
-            <link>https://publy.co/content/6934?fr=category</link>
-            <guid>https://publy.co/content/6934?fr=category</guid>
-            <pubDate>Fri, 12 Aug 2022 09:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일 잘하는 PM은 이렇게 질문합니다 (퍼블리)]]></title>
-            <link>https://publy.co/content/6886?fr=category</link>
-            <guid>https://publy.co/content/6886?fr=category</guid>
-            <pubDate>Thu, 11 Aug 2022 08:28:38 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴진스는 왜 그렇게 핫한 걸까? 온·오프라인 마케팅 비결 (캐릿)]]></title>
