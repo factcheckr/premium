@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 15:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 16:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -774,6 +774,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[글로벌 시네마 체인 시네월드가 미국 내 파산 신청을 고려 중이다. 코로나19의 직격탄을 맞은 영화관 산업은 살아날 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54471</link>
+            <guid>https://www.bookjournalism.com/books/54471</guid>
+            <pubDate>Tue, 23 Aug 2022 16:36:44 GMT</pubDate>
+            <content:encoded><![CDATA[시네마 소생술]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[일한 만큼 벌고 벌 만큼 일한다. 육체노동은 더 이상 열악하기만 한 일자리가 아니다. 현장의 청년들은 전문 기술을 갖춰 커리어를 만들고 땀 흘려 자신의 가치를 빚어낸다. 각기 다른 매력의 블루칼라 프리워커들을 만났다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54216</link>
             <guid>https://www.bookjournalism.com/books/54216</guid>
@@ -849,13 +856,6 @@
             <guid>https://www.bookjournalism.com/books/53975</guid>
             <pubDate>Tue, 23 Aug 2022 15:26:28 GMT</pubDate>
             <content:encoded><![CDATA[전쟁을 짊어진 사람들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오의 에피소드 #49에선, 유럽의 탈석탄 흐름, 저출산 문제, 인스타그램의 NFT 게시 서비스 확장에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/53967</link>
-            <guid>https://www.bookjournalism.com/audio/53967</guid>
-            <pubDate>Tue, 23 Aug 2022 15:26:28 GMT</pubDate>
-            <content:encoded><![CDATA[에너지는 거꾸로, 출산율은 아래로, SNS는 앞으로]]></content:encoded>
         </item>
     </channel>
 </rss>
