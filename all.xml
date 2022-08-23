@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리더의 업무협업 스킬은 타고나는 것이 아니다: 1+1=3 을 만드는 법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6904?fr=category</link>
+            <guid>https://publy.co/content/6904?fr=category</guid>
+            <pubDate>Tue, 23 Aug 2022 09:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[어느 날 우리 팀에 금쪽이 팀원이 나타났다 (팀장의 4가지 대처법) (퍼블리)]]></title>
             <link>https://publy.co/content/6930?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6935?fr=category</guid>
             <pubDate>Fri, 12 Aug 2022 09:23:24 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3만5000명 이탈 고객을 돌아오게 한 와이즐리 캠페인 (퍼블리)]]></title>
-            <link>https://publy.co/content/6929?fr=category</link>
-            <guid>https://publy.co/content/6929?fr=category</guid>
-            <pubDate>Fri, 12 Aug 2022 09:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴진스는 왜 그렇게 핫한 걸까? 온·오프라인 마케팅 비결 (캐릿)]]></title>
@@ -772,6 +772,90 @@
             <pubDate>Tue, 10 May 2022 02:54:25 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아마존이 SNS까지 손을 뻗는다. 아마존의 공격적인 사업 확장은 생존을 위한 궁여지책이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54422</link>
+            <guid>https://www.bookjournalism.com/books/54422</guid>
+            <pubDate>Tue, 23 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[승리가 아니면 죽음뿐]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Tue, 23 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[튀르키예가 중동과 유럽 등 국제 무대에서 존재감을 키우고 있다. 이들은 조커인가 우크라이나 전쟁을 끝낼 다크 나이트인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54393</link>
+            <guid>https://www.bookjournalism.com/books/54393</guid>
+            <pubDate>Tue, 23 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[튀르키예즈 온 더 블록]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오의 에피소드 #50에선, 청년 세대의 위기 시그널인 ‘갓생’ 트렌드, 미국의 인플레이션 감축 법안, 서울시의 반지하 주택 대책, 우크라이나 자원봉사자 인터뷰에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/54375</link>
+            <guid>https://www.bookjournalism.com/audio/54375</guid>
+            <pubDate>Tue, 23 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[갓생도, 기후도, 반지하도 위기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[갓생은 트렌드가 아니다. 청년 세대가 보내는 위기의 시그널이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54315</link>
+            <guid>https://www.bookjournalism.com/books/54315</guid>
+            <pubDate>Tue, 23 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[멍하니 갓생살기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[바이든 대통령이 4300억 달러 규모의 ‘인플레이션 감축법’에 서명했다. 내용을 보면 미국 최대 기후법에 서명한 것과 다름없다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54219</link>
+            <guid>https://www.bookjournalism.com/books/54219</guid>
+            <pubDate>Tue, 23 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[인플레이션 감축은 거들 뿐]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[치솟는 열기가 생태계를 불사르고 있다. 붕괴하는 것은 인간만이 아니다. 곤충도 예외는 없다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54137</link>
+            <guid>https://www.bookjournalism.com/books/54137</guid>
+            <pubDate>Tue, 23 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[멸종하거나 창궐하거나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[반지하는 이름과 모습을 바꿨을 뿐 항상 우리 곁에 있었다. 없앤다고 사라진 적이 없다는 말이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54150</link>
+            <guid>https://www.bookjournalism.com/books/54150</guid>
+            <pubDate>Tue, 23 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[반지하 바깥에는 볕이 들까요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소더비가 한국 시장에 다시 진출한다. 그림을 사지 않는 우리에게 이는 어떤 의미인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54114</link>
+            <guid>https://www.bookjournalism.com/books/54114</guid>
+            <pubDate>Tue, 23 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[예술을 돈으로 번역한다면]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[폭격이 이어지는 우크라이나 한복판에서, 난민이 밀려오는 국경 밖에서 자원봉사에 나선 이들이 있다. 무엇이 이들로 하여금 죽음의 공포를 무릅쓰게 했나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53975</link>
+            <guid>https://www.bookjournalism.com/books/53975</guid>
+            <pubDate>Tue, 23 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[전쟁을 짊어진 사람들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오의 에피소드 #49에선, 유럽의 탈석탄 흐름, 저출산 문제, 인스타그램의 NFT 게시 서비스 확장에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/53967</link>
+            <guid>https://www.bookjournalism.com/audio/53967</guid>
+            <pubDate>Tue, 23 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[에너지는 거꾸로, 출산율은 아래로, SNS는 앞으로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한중 청년 세대는 서로 혐오하지만 사실은 닮아 있다. ‘갓생’을 살고 ‘노오력’한다. 두 닮은꼴 세대의 갈등은 어디서 비롯됐나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53668</link>
+            <guid>https://www.bookjournalism.com/books/53668</guid>
+            <pubDate>Tue, 23 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 청년 세대]]></content:encoded>
         </item>
     </channel>
 </rss>
