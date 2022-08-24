@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 14:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 15:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -486,12 +486,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/3af0763d-5283-4b0a-bc6a-04656ea6f52b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[두루두루 아티스트 컴퍼니 : 10년 차 인디 레이블이 말하는 매니지먼트의 정의 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/394</link>
-            <guid>https://www.longblack.co/note/394</guid>
-            <pubDate>Wed, 24 Aug 2022 09:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;인디. 영어 인디펜던스Independence의 준말로 음악이나 영화 등 예술 분야에서 많이 쓰이죠. 상업화보다는 자신이 하고 싶은 작업을 하는 부류를 일컬어요.인<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220824/166130425825bb280f3bc92e044a8d31cad5b38666.png" length="0" type="image/png"/>
+            <title><![CDATA[이쿼녹스 피트니스 : 미국의 고급 피트니스 센터는 어떻게 평생 회원을 모으는가 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/374</link>
+            <guid>https://www.longblack.co/note/374</guid>
+            <pubDate>Wed, 24 Aug 2022 15:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;이래도 되나 싶어요. 월급의 절반을 운동에 쏟아붓거든요. 피트니스 클럽 이용료 내야지, 단백질 파우더 사야지, 운동복 사야지… 건강한 식단에도 눈 뜨고 있어요.그<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220726/16588018608a4e05b8b91f79e4a5daa883468865c2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -780,90 +780,6 @@
             <pubDate>Tue, 10 May 2022 02:54:25 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[특유한 역사를 가진 힙합은 정치적 올바름을 요구받기도, 쿨하고 무모할 것을 요구받기도 한다. 우리에게 힙합은 ‘힙찔이’, 갱스터 음악을 넘어 그 무엇이 될 수 있을까? 혹은, 되어야 할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54451</link>
-            <guid>https://www.bookjournalism.com/books/54451</guid>
-            <pubDate>Wed, 24 Aug 2022 12:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[어느 새부터 힙합은 안 멋져]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 시네마 체인 시네월드가 미국 내 파산 신청을 고려 중이다. 코로나19의 직격탄을 맞은 영화관 산업은 살아날 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54471</link>
-            <guid>https://www.bookjournalism.com/books/54471</guid>
-            <pubDate>Wed, 24 Aug 2022 12:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[스트리밍 시대의 영화관]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘블루칼라 = 힘들고 불안정한 노가다’라는 공식은 깨졌다. N포세대 청년들은 왜 육체노동을 택했나. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54216</link>
-            <guid>https://www.bookjournalism.com/books/54216</guid>
-            <pubDate>Wed, 24 Aug 2022 12:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[블루칼라 프리워커]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아마존이 SNS까지 손을 뻗는다. 아마존의 공격적인 사업 확장은 생존을 위한 궁여지책이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54422</link>
-            <guid>https://www.bookjournalism.com/books/54422</guid>
-            <pubDate>Wed, 24 Aug 2022 12:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[승리가 아니면 죽음뿐]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 24 Aug 2022 12:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[튀르키예가 중동과 유럽 등 국제 무대에서 존재감을 키우고 있다. 이들은 조커인가 우크라이나 전쟁을 끝낼 다크 나이트인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54393</link>
-            <guid>https://www.bookjournalism.com/books/54393</guid>
-            <pubDate>Wed, 24 Aug 2022 12:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[튀르키예즈 온 더 블록]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오의 에피소드 #50에선, 청년 세대의 위기 시그널인 ‘갓생’ 트렌드, 미국의 인플레이션 감축 법안, 서울시의 반지하 주택 대책, 우크라이나 자원봉사자 인터뷰에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/54375</link>
-            <guid>https://www.bookjournalism.com/audio/54375</guid>
-            <pubDate>Wed, 24 Aug 2022 12:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[갓생도, 기후도, 반지하도 위기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[갓생은 트렌드가 아니다. 청년 세대가 보내는 위기의 시그널이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54315</link>
-            <guid>https://www.bookjournalism.com/books/54315</guid>
-            <pubDate>Wed, 24 Aug 2022 12:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[멍하니 갓생살기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바이든 대통령이 4300억 달러 규모의 ‘인플레이션 감축법’에 서명했다. 내용을 보면 미국 최대 기후법에 서명한 것과 다름없다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54219</link>
-            <guid>https://www.bookjournalism.com/books/54219</guid>
-            <pubDate>Wed, 24 Aug 2022 12:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[인플레이션 감축은 거들 뿐]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[치솟는 열기가 생태계를 불사르고 있다. 붕괴하는 것은 인간만이 아니다. 곤충도 예외는 없다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54137</link>
-            <guid>https://www.bookjournalism.com/books/54137</guid>
-            <pubDate>Wed, 24 Aug 2022 12:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[멸종하거나 창궐하거나]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[반지하는 이름과 모습을 바꿨을 뿐 항상 우리 곁에 있었다. 없앤다고 사라진 적이 없다는 말이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54150</link>
-            <guid>https://www.bookjournalism.com/books/54150</guid>
-            <pubDate>Wed, 24 Aug 2022 12:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[반지하 바깥에는 볕이 들까요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소더비가 한국 시장에 다시 진출한다. 그림을 사지 않는 우리에게 이는 어떤 의미인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54114</link>
-            <guid>https://www.bookjournalism.com/books/54114</guid>
-            <pubDate>Wed, 24 Aug 2022 12:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[예술을 돈으로 번역한다면]]></content:encoded>
         </item>
     </channel>
 </rss>
