@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-08-24T05:48:56.483Z</updated>
+    <updated>2022-08-24T06:33:56.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[스트리밍 시대의 영화관]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일한 만큼 벌고 벌 만큼 일한다. 육체노동은 더 이상 열악하기만 한 일자리가 아니다. 현장의 청년들은 전문 기술을 갖춰 커리어를 만들고 땀 흘려 자신의 가치를 빚어낸다. 각기 다른 매력의 블루칼라 프리워커들을 만났다.]]></title>
+        <title type="html"><![CDATA[일한 만큼 벌고 벌 만큼 일한다. 육체노동은 더 이상 열악하기만 한 일자리가 아니다. 기술을 배우고 땀 흘려 일하는 블루칼라 프리워커들을 만났다.]]></title>
         <id>https://www.bookjournalism.com/books/54216</id>
         <link href="https://www.bookjournalism.com/books/54216"/>
         <updated>2022-08-23T20:25:41.693Z</updated>
