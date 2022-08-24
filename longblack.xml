@@ -4,7 +4,7 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 02:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,8 @@
             <link>https://www.longblack.co/note/394</link>
             <guid>https://www.longblack.co/note/394</guid>
             <pubDate>Tue, 23 Aug 2022 15:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;인디. 영어 인디펜던스independence의 준말로 음악이나 영화 등 예술 분야에서 많이 쓰이죠. 상업화보다는 자신이 하고 싶은 작업을 하는 부류를 일컬어요.인<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220817/1660712268ba2082ab683fbde874617741c216d9b9.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;인디. 영어 인디펜던스Independence의 준말로 음악이나 영화 등 예술 분야에서 많이 쓰이죠. 상업화보다는 자신이 하고 싶은 작업을 하는 부류를 일컬어요.인<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220824/166130425825bb280f3bc92e044a8d31cad5b38666.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

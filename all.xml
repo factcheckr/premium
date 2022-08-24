@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 02:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6935?fr=category</guid>
             <pubDate>Fri, 12 Aug 2022 09:23:24 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대에게 먹히는 새로운 마케팅 키워드 ‘로컬’ (캐릿)]]></title>
+            <link>https://www.careet.net/854</link>
+            <guid>https://www.careet.net/854</guid>
+            <pubDate>Wed, 24 Aug 2022 02:29:12 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 뜨는 마케팅에 지역 이름이 빠지지 않는 이유가 뭘까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/38eed426-ad17-45d8-9771-2de88b533503_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뉴진스는 왜 그렇게 핫한 걸까? 온·오프라인 마케팅 비결 (캐릿)]]></title>
@@ -482,8 +490,8 @@
             <link>https://www.longblack.co/note/394</link>
             <guid>https://www.longblack.co/note/394</guid>
             <pubDate>Tue, 23 Aug 2022 15:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;인디. 영어 인디펜던스independence의 준말로 음악이나 영화 등 예술 분야에서 많이 쓰이죠. 상업화보다는 자신이 하고 싶은 작업을 하는 부류를 일컬어요.인<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220817/1660712268ba2082ab683fbde874617741c216d9b9.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;인디. 영어 인디펜던스Independence의 준말로 음악이나 영화 등 예술 분야에서 많이 쓰이죠. 상업화보다는 자신이 하고 싶은 작업을 하는 부류를 일컬어요.인<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220824/166130425825bb280f3bc92e044a8d31cad5b38666.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
