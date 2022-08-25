@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 19:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 20:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,6 +798,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나사(NASA)의 ‘아르테미스 계획’이 시작됐다. 달 탐사의 속사정은 생각보다 훨씬 복잡하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54556</link>
+            <guid>https://www.bookjournalism.com/books/54556</guid>
+            <pubDate>Thu, 25 Aug 2022 20:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[프로젝트 네임 아르테미스]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[74년간 청와대는 정치적 장소였다. 청와대는 정치를 떠나 무사히 국민 품에 안길 수 있을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54514</link>
             <guid>https://www.bookjournalism.com/books/54514</guid>
@@ -873,13 +880,6 @@
             <guid>https://www.bookjournalism.com/books/54137</guid>
             <pubDate>Thu, 25 Aug 2022 19:20:59 GMT</pubDate>
             <content:encoded><![CDATA[멸종하거나 창궐하거나]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[반지하는 이름과 모습을 바꿨을 뿐 항상 우리 곁에 있었다. 없앤다고 사라진 적이 없다는 말이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54150</link>
-            <guid>https://www.bookjournalism.com/books/54150</guid>
-            <pubDate>Thu, 25 Aug 2022 19:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[반지하 바깥에는 볕이 들까요?]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-08-25T19:21:09.688Z</updated>
+    <updated>2022-08-25T20:27:28.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[나사(NASA)의 ‘아르테미스 계획’이 시작됐다. 달 탐사의 속사정은 생각보다 훨씬 복잡하다.]]></title>
+        <id>https://www.bookjournalism.com/books/54556</id>
+        <link href="https://www.bookjournalism.com/books/54556"/>
+        <updated>2022-08-25T20:27:16.238Z</updated>
+        <content type="html"><![CDATA[프로젝트 네임 아르테미스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[74년간 청와대는 정치적 장소였다. 청와대는 정치를 떠나 무사히 국민 품에 안길 수 있을까?]]></title>
         <id>https://www.bookjournalism.com/books/54514</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/54137"/>
         <updated>2022-08-25T19:20:59.629Z</updated>
         <content type="html"><![CDATA[멸종하거나 창궐하거나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반지하는 이름과 모습을 바꿨을 뿐 항상 우리 곁에 있었다. 없앤다고 사라진 적이 없다는 말이다.]]></title>
-        <id>https://www.bookjournalism.com/books/54150</id>
-        <link href="https://www.bookjournalism.com/books/54150"/>
-        <updated>2022-08-25T19:20:59.630Z</updated>
-        <content type="html"><![CDATA[반지하 바깥에는 볕이 들까요?]]></content>
     </entry>
 </feed>
