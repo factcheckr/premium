@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡 광고 딱 이것만 기억하세요! 당장 써먹는 틱톡 마케팅 (퍼블리)]]></title>
+            <link>https://publy.co/content/6926?fr=category</link>
+            <guid>https://publy.co/content/6926?fr=category</guid>
+            <pubDate>Thu, 25 Aug 2022 08:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나도 혹시 피드백 회피형 인간? 부정적인 피드백도 잘 소화하는 방법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6937?fr=category</link>
+            <guid>https://publy.co/content/6937?fr=category</guid>
+            <pubDate>Thu, 25 Aug 2022 08:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[마케터를 위한 퍼블리 플래너 (퍼블리)]]></title>
             <link>https://publy.co/content/6944?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6783?fr=category</guid>
             <pubDate>Wed, 24 Aug 2022 09:23:49 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팀원 설득 시간을 반으로 줄여주는 A/B테스트 설계 문서 작성 노하우(노션 템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/6909?fr=category</link>
-            <guid>https://publy.co/content/6909?fr=category</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제안서는 설명서가 아니다: 고객 중심 제안서 기초  작성법(양식 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/6927?fr=category</link>
-            <guid>https://publy.co/content/6927?fr=category</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무지출이 아니다? Z세대의 新 절약법, 징검다리 소비! (캐릿)]]></title>
