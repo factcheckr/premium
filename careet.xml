@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 08:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 09:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기업 홍보 부스, Z세대 참여 200% 끌어 올린 사례만 모았습니다]]></title>
+            <link>https://www.careet.net/861</link>
+            <guid>https://www.careet.net/861</guid>
+            <pubDate>Thu, 25 Aug 2022 09:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[친 반려동물 콘셉트부터 QR코드 찾기 이벤트까지?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/5f9b425e-ba5e-4f12-a640-6c31d2d42716_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[무지출이 아니다? Z세대의 新 절약법, 징검다리 소비!]]></title>
             <link>https://www.careet.net/853</link>
