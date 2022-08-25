@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 23:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 02:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무지출이 아니다? Z세대의 新 절약법, 징검다리 소비!]]></title>
+            <link>https://www.careet.net/853</link>
+            <guid>https://www.careet.net/853</guid>
+            <pubDate>Thu, 25 Aug 2022 02:33:40 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 소비 트렌드 또 바뀌었대요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/a4e248b9-a98c-414a-b94e-396512b6b836_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MZ세대에게 먹히는 새로운 마케팅 키워드 ‘로컬’]]></title>
             <link>https://www.careet.net/854</link>
