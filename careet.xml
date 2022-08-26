@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 23:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 02:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 SNS 피드에서 MBTI보다 더 자주 보이는 화제의 놀이 4]]></title>
+            <link>https://www.careet.net/864</link>
+            <guid>https://www.careet.net/864</guid>
+            <pubDate>Fri, 26 Aug 2022 02:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 DISC 유형 정도는 필수로 알아야 한다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/d8d78cf1-1ec8-4108-8cb2-4d9a5a976a15_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기업 홍보 부스, Z세대 참여 200% 끌어 올린 사례만 모았습니다]]></title>
             <link>https://www.careet.net/861</link>
