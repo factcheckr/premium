@@ -4,9 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 07:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 08:32:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개발자 준비 전에 이 글부터 읽어보세요: 개발자에 대한 오해와 진실 (퍼블리)]]></title>
+            <link>https://publy.co/content/6940?fr=category</link>
+            <guid>https://publy.co/content/6940?fr=category</guid>
+            <pubDate>Fri, 26 Aug 2022 08:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PM이 알아야 할 성장 지표 용어 사전 (퍼블리)]]></title>
+            <link>https://publy.co/content/6908?fr=category</link>
+            <guid>https://publy.co/content/6908?fr=category</guid>
+            <pubDate>Fri, 26 Aug 2022 08:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[필요할 때 꺼내 쓰는 기획자용 문서 작성 키트 (퍼블리)]]></title>
+            <link>https://publy.co/content/6942?fr=category</link>
+            <guid>https://publy.co/content/6942?fr=category</guid>
+            <pubDate>Fri, 26 Aug 2022 08:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[틱톡 광고 딱 이것만 기억하세요! 당장 써먹는 틱톡 마케팅 (퍼블리)]]></title>
             <link>https://publy.co/content/6926?fr=category</link>
@@ -55,27 +76,6 @@
             <guid>https://publy.co/content/6930?fr=category</guid>
             <pubDate>Wed, 24 Aug 2022 09:23:49 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[커리어 사춘기를 겪고 있다면: 하루 만에 끝내는 커리어 파인딩 3단계(템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/6936?fr=category</link>
-            <guid>https://publy.co/content/6936?fr=category</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[칼퇴를 돕는 자료조사 노하우 총 정리 (퍼블리)]]></title>
-            <link>https://publy.co/content/6938?fr=category</link>
-            <guid>https://publy.co/content/6938?fr=category</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[타고난 리더는 없다 : <팀장으로 산다는 건> 저자의 코칭 처방전 (퍼블리)]]></title>
-            <link>https://publy.co/content/6783?fr=category</link>
-            <guid>https://publy.co/content/6783?fr=category</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대 SNS 피드에서 MBTI보다 더 자주 보이는 화제의 놀이 4 (캐릿)]]></title>
