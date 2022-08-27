@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 14:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 15:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -510,12 +510,14 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/3af0763d-5283-4b0a-bc6a-04656ea6f52b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[나는 왜 생각을 멈출 수 없을까? : 생각 중독에서 나를 구하는 법 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/398</link>
-            <guid>https://www.longblack.co/note/398</guid>
-            <pubDate>Fri, 26 Aug 2022 15:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;기획 일은 정말 뇌가 쉴 틈이 없는 것 같아요. 행여 갑자기 떠오른 아이디어를 놓칠까 봐 늘 머리를 풀가동시켜요. 주말이나 휴가 같은 경계가 없어요.“지나친 생각<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220822/1661146380edc9acc19d0074acc5627455d5f8b05b.png" length="0" type="image/png"/>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 27 Aug 2022 15:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[K가 곱씹어 본 지난주 롱블랙의 문장
+
+"직원들이 ‘혹시 우리 회사는 널리 아티스트만 이롭게 하는 회사냐’고 투정하는 걸 듣고, 내심 놀랐던 적이 있어요. ‘아티스트가 원하는 바를 최우선으로 한다는 것이, 때로는 회사 구성원의 이해와는 상충할 수 있구나’ 하고 처음<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220827/1661572253f7b9100b8535bd045cac28352cf675b5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
