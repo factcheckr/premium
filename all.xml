@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 18:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 19:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -814,6 +814,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미국 사막에 미래형 도시 텔로사가 들어선다. 세계 억만장자들은 어떤 유토피아를 꿈꾸나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54611</link>
+            <guid>https://www.bookjournalism.com/books/54611</guid>
+            <pubDate>Mon, 29 Aug 2022 19:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[브레이브 뉴 시티]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[치킨의 가격에 한국인은 흔들린다. 하지만 정말, 우리의 취향은 치킨일까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54588</link>
             <guid>https://www.bookjournalism.com/books/54588</guid>
@@ -889,13 +896,6 @@
             <guid>https://www.bookjournalism.com/audio/54375</guid>
             <pubDate>Mon, 29 Aug 2022 17:29:02 GMT</pubDate>
             <content:encoded><![CDATA[갓생도, 기후도, 반지하도 위기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[갓생은 트렌드가 아니다. 청년 세대가 보내는 위기의 시그널이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54315</link>
-            <guid>https://www.bookjournalism.com/books/54315</guid>
-            <pubDate>Mon, 29 Aug 2022 17:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[멍하니 갓생살기]]></content:encoded>
         </item>
     </channel>
 </rss>
