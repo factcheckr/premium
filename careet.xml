@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 23:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 02:38:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공공기관 일 잘하네! 온·오프라인 마케팅 최신 사례 6]]></title>
+            <link>https://www.careet.net/862</link>
+            <guid>https://www.careet.net/862</guid>
+            <pubDate>Mon, 29 Aug 2022 02:37:53 GMT</pubDate>
+            <content:encoded><![CDATA[포돌이 커피차, 씨낵 캠페인은 왜 화제인 걸까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/2146874a-874b-4ff5-bf5a-a45d8bc95d4a_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 SNS 피드에서 MBTI보다 더 자주 보이는 화제의 놀이 4]]></title>
             <link>https://www.careet.net/864</link>
