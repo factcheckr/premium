@@ -4,16 +4,16 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 14:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 15:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[이요시 콜라 : 한약방에서 탄생해, 일본 수제 콜라 붐을 일으키다]]></title>
-            <link>https://www.longblack.co/note/400</link>
-            <guid>https://www.longblack.co/note/400</guid>
-            <pubDate>Mon, 29 Aug 2022 15:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;콜라에 미친 사람을 만났습니다. 콜라를 어찌나 좋아하는지 이름까지 콜라로 바꿨다고요. 콜라 고바야시*. 일본 수제 콜라 시장을 개척한 이요시 콜라伊良コーラ의 창업<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220824/166130305998bb554d3d05d9a1042ec10f02df998c.png" length="0" type="image/png"/>
+            <title><![CDATA[테라사이클 : ‘친환경 넛지’를 만들어 쓰레기 1억톤을 재활용하다]]></title>
+            <link>https://www.longblack.co/note/401</link>
+            <guid>https://www.longblack.co/note/401</guid>
+            <pubDate>Tue, 30 Aug 2022 15:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;쓰레기로 돈을 버는 회사가 있습니다. 미국의 재활용 컨설팅 스타트업 테라사이클TERRACYCLE이에요. 월마트, 하기스, 코카콜라, 로레알 같은 글로벌 제조기업 <span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220824/16613029146315c6f244eb328d560e0c3d6b12cbb5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
