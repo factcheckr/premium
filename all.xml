@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 04:56:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 06:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,14 +124,6 @@
             <pubDate>Thu, 25 Aug 2022 02:33:40 GMT</pubDate>
             <content:encoded><![CDATA[Z세대 소비 트렌드 또 바뀌었대요!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/a4e248b9-a98c-414a-b94e-396512b6b836_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 직업군이 등장한다! 상상도 못 한 Z세대 크리에이터 종류 5 (캐릿)]]></title>
-            <link>https://www.careet.net/860</link>
-            <guid>https://www.careet.net/860</guid>
-            <pubDate>Tue, 30 Aug 2022 04:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[릴스 숏츠에 활용되는 음원, Z세대 크리에이터가 만든 거라고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/09d48c22-e88b-44a6-81ad-dc495f4845f5_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[MZ세대에게 먹히는 새로운 마케팅 키워드 ‘로컬’ (캐릿)]]></title>
