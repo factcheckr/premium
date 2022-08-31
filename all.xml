@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 14:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -542,12 +542,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/3af0763d-5283-4b0a-bc6a-04656ea6f52b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[테라사이클 : ‘친환경 넛지’를 만들어 쓰레기 1억톤을 재활용하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/401</link>
-            <guid>https://www.longblack.co/note/401</guid>
-            <pubDate>Tue, 30 Aug 2022 15:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;쓰레기로 돈을 버는 회사가 있습니다. 미국의 재활용 컨설팅 스타트업 테라사이클TERRACYCLE이에요. 월마트, 하기스, 코카콜라, 로레알 같은 글로벌 제조기업 <span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220824/16613029146315c6f244eb328d560e0c3d6b12cbb5.png" length="0" type="image/png"/>
+            <title><![CDATA[의정부미술도서관 : 사서가 기획자의 시선으로 만든 도서관, 핫플레이스가 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/403</link>
+            <guid>https://www.longblack.co/note/403</guid>
+            <pubDate>Wed, 31 Aug 2022 15:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B학생 땐 거의 도서관에서 살았던 것 같아요. 저에게는 최적의 공부 장소였거든요. 그래서일까요. 이제는 도서관에 발길이 잘 가지 않네요.그런데 ‘도서관은 공부하는 곳<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220828/16616758157354dcc7179551b5580318b3e8096848.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
