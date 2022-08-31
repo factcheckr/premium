@@ -4,22 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 07:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 08:31:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[8월에 서비스 기획자가 많이 읽은 콘텐츠 TOP5 (퍼블리)]]></title>
-            <link>https://publy.co/content/6947?fr=category</link>
-            <guid>https://publy.co/content/6947?fr=category</guid>
-            <pubDate>Wed, 31 Aug 2022 07:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+            <title><![CDATA[VoC에서 진짜 문제를 찾는 노하우 (퍼블리)]]></title>
+            <link>https://publy.co/content/6921?fr=category</link>
+            <guid>https://publy.co/content/6921?fr=category</guid>
+            <pubDate>Wed, 31 Aug 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[8월에 마케터가 많이 읽은 콘텐츠 TOP5 (퍼블리)]]></title>
-            <link>https://publy.co/content/6945?fr=category</link>
-            <guid>https://publy.co/content/6945?fr=category</guid>
-            <pubDate>Wed, 31 Aug 2022 07:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+            <title><![CDATA[팀장 부임 첫 50일 체크리스트 (초반 기세 만들기) (퍼블리)]]></title>
+            <link>https://publy.co/content/6931?fr=category</link>
+            <guid>https://publy.co/content/6931?fr=category</guid>
+            <pubDate>Wed, 31 Aug 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[PM의 작업 시간을 반으로 줄여주는 피그마 단축키 모음집 (퍼블리)]]></title>
@@ -838,6 +838,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[기후 참사로 집 밖에 내몰린 사람들에겐 보호가 필요하다. 고령화가 진행 중인 국가들이 해답을 제시할 수 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54692</link>
+            <guid>https://www.bookjournalism.com/books/54692</guid>
+            <pubDate>Wed, 31 Aug 2022 08:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[탄소 전쟁이 만든 난민]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[파월이 선언했다. 일단 미국이 살아야 하겠다고. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54641</link>
             <guid>https://www.bookjournalism.com/books/54641</guid>
@@ -913,13 +920,6 @@
             <guid>https://www.bookjournalism.com/books/54422</guid>
             <pubDate>Wed, 31 Aug 2022 07:42:47 GMT</pubDate>
             <content:encoded><![CDATA[승리가 아니면 죽음뿐]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[튀르키예가 중동과 유럽 등 국제 무대에서 존재감을 키우고 있다. 이들은 조커인가 우크라이나 전쟁을 끝낼 다크 나이트인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54393</link>
-            <guid>https://www.bookjournalism.com/books/54393</guid>
-            <pubDate>Wed, 31 Aug 2022 07:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[튀르키예즈 온 더 블록]]></content:encoded>
         </item>
     </channel>
 </rss>

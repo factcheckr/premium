@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-31T07:42:57.612Z</updated>
+    <updated>2022-08-31T08:31:33.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
-        <title type="html"><![CDATA[8월에 서비스 기획자가 많이 읽은 콘텐츠 TOP5]]></title>
-        <id>https://publy.co/content/6947?fr=category</id>
-        <link href="https://publy.co/content/6947?fr=category"/>
-        <updated>2022-08-31T07:41:43.127Z</updated>
-        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
+        <title type="html"><![CDATA[VoC에서 진짜 문제를 찾는 노하우]]></title>
+        <id>https://publy.co/content/6921?fr=category</id>
+        <link href="https://publy.co/content/6921?fr=category"/>
+        <updated>2022-08-31T08:30:19.979Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8월에 마케터가 많이 읽은 콘텐츠 TOP5]]></title>
-        <id>https://publy.co/content/6945?fr=category</id>
-        <link href="https://publy.co/content/6945?fr=category"/>
-        <updated>2022-08-31T07:41:43.127Z</updated>
-        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
+        <title type="html"><![CDATA[팀장 부임 첫 50일 체크리스트 (초반 기세 만들기)]]></title>
+        <id>https://publy.co/content/6931?fr=category</id>
+        <link href="https://publy.co/content/6931?fr=category"/>
+        <updated>2022-08-31T08:30:19.986Z</updated>
+        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PM의 작업 시간을 반으로 줄여주는 피그마 단축키 모음집]]></title>
