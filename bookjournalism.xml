@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-08-31T23:26:37.814Z</updated>
+    <updated>2022-09-01T02:32:54.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.bookjournalism.com/books/54713"/>
         <updated>2022-08-31T23:26:27.688Z</updated>
         <content type="html"><![CDATA[언어의 줄다리기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
+        <id>https://www.bookjournalism.com/books/54125</id>
+        <link href="https://www.bookjournalism.com/books/54125"/>
+        <updated>2022-08-31T23:26:27.696Z</updated>
+        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기후 참사로 삶의 터전을 잃은 사람들이 늘어나고 있다. 고령화가 진행 중인 국가들은 해답이 될 수 있을까?]]></title>
@@ -25,13 +32,6 @@
         <link href="https://www.bookjournalism.com/books/54641"/>
         <updated>2022-08-31T23:26:27.692Z</updated>
         <content type="html"><![CDATA[아무도 구해주지 않는다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
-        <id>https://www.bookjournalism.com/books/54125</id>
-        <link href="https://www.bookjournalism.com/books/54125"/>
-        <updated>2022-08-31T23:26:27.696Z</updated>
-        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 사막에 미래형 도시 텔로사가 들어선다. 세계 억만장자들은 어떤 유토피아를 꿈꾸나?]]></title>
