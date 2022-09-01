@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 02:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 04:39:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6926?fr=category</guid>
             <pubDate>Thu, 25 Aug 2022 08:31:37 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ESG 마케팅의 새로운 흐름 ‘펫 프렌들리 마케팅’에 주목하세요! (캐릿)]]></title>
+            <link>https://www.careet.net/865</link>
+            <guid>https://www.careet.net/865</guid>
+            <pubDate>Thu, 01 Sep 2022 04:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대는 상업성 보다는 반려동물에게 진심인 포인트가 보일 때 반응합니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/fa66c6ae-392e-4112-95ee-5b543c6e7181_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[새로운 직업군이 등장한다! 상상도 못 한 Z세대 크리에이터 종류 5 (캐릿)]]></title>
@@ -292,254 +300,6 @@
             <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
             <content:encoded><![CDATA[조회 수 100만에 빛나는 광고들, 싹 다 모아서 보여드립니다]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/27a5beb7-2e20-4156-b23d-d72ec010f302_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전국 Z세대 힙스터가 한여름에 대구로 모인 이유는? (캐릿)]]></title>
-            <link>https://www.careet.net/838</link>
-            <guid>https://www.careet.net/838</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[나이키 스타일 홍대부터 대구 미래농원까지! 이주의 핫플레이스 모음]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/cb941a3c-5d1f-44f2-8b66-fcfb34634eb8_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[당장 써먹는 유행어] ‘마침내’, ‘OO할 결심’? 영화 <헤어질 결심> 밈 8 (캐릿)]]></title>
-            <link>https://www.careet.net/836</link>
-            <guid>https://www.careet.net/836</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 바닥글로 활용할 수 있는 ‘헤결 밈’ 8가지를 소개해 드립니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/1d1483ed-9d46-4070-a5e1-053a0b603603_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자퇴 브이로그 찍고 자퇴 파티한다? K-고딩이 학교를 떠나는 이유 (캐릿)]]></title>
-            <link>https://www.careet.net/834</link>
-            <guid>https://www.careet.net/834</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대가 자퇴하는 이유 = 개인 사업?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/3eeb1576-6f55-4200-ac1d-31be76fdf62b_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세대별로 선호하는 브라우저가 다르다? 힙한 Z세대가 웨일로 갈아타는 이유 (캐릿)]]></title>
-            <link>https://www.careet.net/828</link>
-            <guid>https://www.careet.net/828</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대는 웨일의 ‘이 기능’때문에 트렌디한 브라우저라고 느낀다는데?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/02cf55ac-c2b9-4f76-ac53-57875a21e712_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[성수 다음은 어디? Z세대 핫플 ‘삼각지’에 주목하세요! (캐릿)]]></title>
-            <link>https://www.careet.net/832</link>
-            <guid>https://www.careet.net/832</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 취재원과 함께 분석하는 삼각지 인기 포인트]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/a11bd4a0-c93e-455a-a558-25e544794c29_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[캐릿 유튜브] ‘팝스(PAPS)’가 뭔지 모르면 클릭! (캐릿)]]></title>
-            <link>https://www.careet.net/833</link>
-            <guid>https://www.careet.net/833</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[체력장이 없어지고 대신 팝스가 생겼다고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/81cd9c13-129d-474d-ab66-a2907b0a846c_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG U+ 캐릭터 홈페이지에 15만 명이 가입한 이유! (캐릿)]]></title>
-            <link>https://www.careet.net/829</link>
-            <guid>https://www.careet.net/829</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[이주의 일 잘한 브랜드: LG U+, 랜덤 다이버시티]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/0f285162-3a3e-4ce8-81f2-b9cb03808383_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[왕십리역에 이거 보러 간다고? Z세대가 꼽은 이주의 트렌드 4 (캐릿)]]></title>
-            <link>https://www.careet.net/830</link>
-            <guid>https://www.careet.net/830</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 떡상 중인 음악 디깅 채널이 있다?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/bd0416a5-74ba-4da7-b306-8625ff15e2ff_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대의 저작권 기준은 저작권 협회보다 깐깐합니다 (캐릿)]]></title>
-            <link>https://www.careet.net/826</link>
-            <guid>https://www.careet.net/826</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[리뷰 한 줄에도 저작권 적용하는 Z세대 근황]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/996a3eff-2940-4173-831c-77bbcf757f8a_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 뽑은 ‘이제는 쓰면 안 되는 단어’ 20 (캐릿)]]></title>
-            <link>https://www.careet.net/827</link>
-            <guid>https://www.careet.net/827</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[단어 하나가 불매 운동을 부를 수 있다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/4c229d55-ac4d-49a8-8df8-a04a22ad3868_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ESG부터 콜라보, SNS까지! 일 잘한 해외 브랜드 레퍼런스 모음 (캐릿)]]></title>
-            <link>https://www.careet.net/813</link>
-            <guid>https://www.careet.net/813</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 Z세대에게 반응을 얻은 브랜드 사례 모음]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/590143b0-7e0a-4741-acb3-04199dfec7cc_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[콜라보 마케팅, 이제 둘이 아니라 셋이 하는 게 대세라고? ‘3자 콜라보’ 잘 하는 법 (캐릿)]]></title>
-            <link>https://www.careet.net/824</link>
-            <guid>https://www.careet.net/824</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[콜라보 제품 제조부터 광고, 판매까지 시너지 폭발시킨 비결]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/dae5f569-331d-4bcc-98c0-ee8424e4d917_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[캐릿 유튜브] 2022 최신 술 게임 알려드림 (캐릿)]]></title>
-            <link>https://www.careet.net/825</link>
-            <guid>https://www.careet.net/825</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대와의 랜선 술 자리로 여러분을 초대합니다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/36c7faa0-ceb8-4094-b98b-4faf850d3d3c_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“얼굴 공개합니다” 신상 공개 공약으로 팔로워 늘리는 Z세대 (캐릿)]]></title>
-            <link>https://www.careet.net/823</link>
-            <guid>https://www.careet.net/823</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 10대는 SNS에서 이렇게 유대 관계를 쌓아가고 있습니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/937d3920-f8f8-4690-a621-13853539906a_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바쁜 직장인을 위한 1분 컷! 이주의 Z세대 유행템 요약 (캐릿)]]></title>
-            <link>https://www.careet.net/821</link>
-            <guid>https://www.careet.net/821</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[당장 써먹을 수 있는 유행어까지 알려드려요!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/8858c641-8447-4f21-9b65-31bca52ab671_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[캐릿 유튜브] MZ세대 히어로는 기성세대 히어로와 어떻게 다를까? (캐릿)]]></title>
-            <link>https://www.careet.net/820</link>
-            <guid>https://www.careet.net/820</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[부캐 전성 시대! 용명이 히어로가 된다면?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/5632609a-2890-4090-baf4-3cba6ab6c0da_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업데이트! 달라진 Z세대의 라이브 커머스 이용법 2.0 (캐릿)]]></title>
-            <link>https://www.careet.net/819</link>
-            <guid>https://www.careet.net/819</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[아! 이래서 라이브 커머스 방송에서 ‘댓글’이 중요하다고 했구나!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/c2b772e3-550a-4a8d-b1ea-a975503a7ead_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 10대들은 대체 어떤 커뮤니티를 눈팅할까? (캐릿)]]></title>
-            <link>https://www.careet.net/822</link>
-            <guid>https://www.careet.net/822</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[오픈채팅방, 페이스북 그룹 아님!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/f59e638e-d150-4f34-a4db-ccd30b779bac_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기업에서 운영하는 ‘메타버스 영업점’, Z세대 51.6%는 방문할 의향이 있다 (캐릿)]]></title>
-            <link>https://www.careet.net/818</link>
-            <guid>https://www.careet.net/818</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[단, 메타버스를 잘 이해한 매장인 경우에 한해서요.]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/30b222e3-5489-4a4e-814c-8907c6f63ac0_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼스널 컬러만큼 핫하다! 퍼스널 헬스케어 트렌드 5 (캐릿)]]></title>
-            <link>https://www.careet.net/817</link>
-            <guid>https://www.careet.net/817</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 MZ세대 건강 트렌드: ‘퍼스널 헬스케어’로 요약 가능함]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/cf38fa8b-66b2-44d0-a678-6f1f0d0cbe2b_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 주말 Z세대를 성수로 향하게 한 브랜드: KBO&배달의민족 (캐릿)]]></title>
-            <link>https://www.careet.net/816</link>
-            <guid>https://www.careet.net/816</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[브랜딩에 초점을 둔 팝업스토어 레퍼런스 두곳을 소개합니다.]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/564cd53c-9f50-4650-a97e-ab261a8ab890_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SNS 힙하게 운영하고 싶다면? 필독해야 하는 이주의 떡상템 (캐릿)]]></title>
-            <link>https://www.careet.net/815</link>
-            <guid>https://www.careet.net/815</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[이주에 떡상한 핫플레이스와 게임, 유튜브 채널이 궁금하다면?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/8cf9120b-7c6f-4784-9e11-134ee790af69_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[캐릿 유튜브] MZ세대에게 꾸준히 인기 있는 먹방 아이템이 있다? (캐릿)]]></title>
-            <link>https://www.careet.net/814</link>
-            <guid>https://www.careet.net/814</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대에게 인기 있는 먹방 유튜브의 특징을 알아보자!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/d1364a54-326a-447f-ac88-efadaeee1513_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한강에서 과외를 받는다고? 팬데믹 이후 달라진 Z세대 한강 이용법 (캐릿)]]></title>
-            <link>https://www.careet.net/812</link>
-            <guid>https://www.careet.net/812</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 Z세대가 한강에서 무얼 하고 노는지 궁금하시다면?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/5f11396b-6b6a-46f6-ace7-38fad81531d8_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[당장 써먹는 유행어] 그러나! 벗! 하우에버! 네버더레스! (캐릿)]]></title>
-            <link>https://www.careet.net/811</link>
-            <guid>https://www.careet.net/811</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 Z세대가 SNS에 매일 쓴다는 유행어!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/8dc3ac6a-726d-4ddc-acc3-e52c0bce218b_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 마케팅 필승 코드 ‘게임화’, 우리 브랜드에 활용하는 법 (캐릿)]]></title>
-            <link>https://www.careet.net/810</link>
-            <guid>https://www.careet.net/810</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[경품이 아니라 재미를 무기 삼아 Z세대 참여 유도한 사례 모음]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/c3b037c9-7846-4691-b50a-301b5ed4e3f3_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포토부스는 너무 흔하다고요? 그럼 영수증 굿즈는 어떠세요! (캐릿)]]></title>
-            <link>https://www.careet.net/809</link>
-            <guid>https://www.careet.net/809</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[영수증 활용 레퍼런스와 영수증 재질 및 디자인을 활용한 굿즈 예시를 모았습니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/b74dcaa9-0843-485c-908a-cc3b75a03e15_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 뜨는 공간의 비밀! Z세대 인증샷을 부르는 오프라인 마케팅 필수템 6 (캐릿)]]></title>
-            <link>https://www.careet.net/796</link>
-            <guid>https://www.careet.net/796</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 뜨는 핫플에선 ‘화면 속 화면’ 인증샷을 찍을 수 있다고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/c7106bac-b421-40c3-9e00-9ae3ea0f8826_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가상 인간이 등장하는 광고, Z세대 75%는‘이렇게’ 생각합니다 (캐릿)]]></title>
-            <link>https://www.careet.net/807</link>
-            <guid>https://www.careet.net/807</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[가상 인간 잘알인 Z세대! 과연 호감도는?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/238c6909-71d9-469b-bffe-5d30aa308454_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘우마무스메’ 들어보셨나요? Z세대는 요즘 이거 하고 논대요! (캐릿)]]></title>
-            <link>https://www.careet.net/808</link>
-            <guid>https://www.careet.net/808</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[서브컬처인 줄 알았는데 메이저가 되었습니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/6f277dfe-f706-4889-a96c-0dc723e7b225_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[캐릿 유튜브] 요즘 Z세대는 공포 영화 대신 공포 게임 본다고? (캐릿)]]></title>
-            <link>https://www.careet.net/806</link>
-            <guid>https://www.careet.net/806</guid>
-            <pubDate>Wed, 24 Aug 2022 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대가 영상 콘텐츠를 소비하는 법! 랜선 체험 하고 가세요]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/3af0763d-5283-4b0a-bc6a-04656ea6f52b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[의정부미술도서관 : 사서가 기획자의 시선으로 만든 도서관, 핫플레이스가 되다 (롱블랙)]]></title>
