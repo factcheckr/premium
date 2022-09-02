@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 04:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 06:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,7 +322,7 @@
             <link>https://www.longblack.co/note/404</link>
             <guid>https://www.longblack.co/note/404</guid>
             <pubDate>Thu, 01 Sep 2022 15:28:08 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L편의점 전성시대야. 전국 편의점 수는 무려 5만여개. 인구 1000명당 1개 꼴이야. 2021년엔 편의점 매출이 처음으로 대형마트 매출을 앞질렀어.&nbsp;나도 편의점에 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;편의점 전성시대야. 전국 편의점 수는 무려 5만여개. 인구 1000명당 1개 꼴이야. 2021년엔 편의점 매출이 처음으로 대형마트 매출을 앞질렀어.&nbsp;나도 편의점에<span class="circle-punctuation"></span>]]></content:encoded>
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220831/166193766822dfb65f5046b1ab35de24e86d717c50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
