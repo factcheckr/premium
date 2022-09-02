@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 07:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 08:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개발 공부, 어떻게 시작할까? 나에게 맞는 분야/학습 방법 고르기 (퍼블리)]]></title>
+            <link>https://publy.co/content/6941?fr=category</link>
+            <guid>https://publy.co/content/6941?fr=category</guid>
+            <pubDate>Fri, 02 Sep 2022 08:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PM의 포트폴리오는 무엇이 달라야 할까? (퍼블리)]]></title>
+            <link>https://publy.co/content/6869?fr=category</link>
+            <guid>https://publy.co/content/6869?fr=category</guid>
+            <pubDate>Fri, 02 Sep 2022 08:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팀을 리드하고픈 팀장을 위한 팀 키트 (퍼블리)]]></title>
             <link>https://publy.co/content/6956?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6939?fr=category</guid>
             <pubDate>Mon, 29 Aug 2022 08:31:33 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리더의 협업 스킬은 이렇게 다르다: 상황별 가이드.zip (퍼블리)]]></title>
-            <link>https://publy.co/content/6905?fr=category</link>
-            <guid>https://publy.co/content/6905?fr=category</guid>
-            <pubDate>Mon, 29 Aug 2022 08:31:33 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[개발자 준비 전에 이 글부터 읽어보세요: 개발자에 대한 오해와 진실 (퍼블리)]]></title>
-            <link>https://publy.co/content/6940?fr=category</link>
-            <guid>https://publy.co/content/6940?fr=category</guid>
-            <pubDate>Fri, 26 Aug 2022 08:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대 픽 캐릭터 도구리가 또 일 냈다! 이주의 떡상템 5 (캐릿)]]></title>
