@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 23:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 02:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,22 @@
             <guid>https://publy.co/content/6940?fr=category</guid>
             <pubDate>Fri, 26 Aug 2022 08:31:00 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대 픽 캐릭터 도구리가 또 일 냈다! 이주의 떡상템 5 (캐릿)]]></title>
+            <link>https://www.careet.net/871</link>
+            <guid>https://www.careet.net/871</guid>
+            <pubDate>Fri, 02 Sep 2022 02:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[쇼츠 장인이자 호감캐로 등극한 크리에이터는 누구?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/bb3abe06-15fe-4160-ad75-ead6d6a5dac1_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[10대 40% “실물 체크카드 필요 없음! 앱카드로 충분해” (캐릿)]]></title>
+            <link>https://www.careet.net/867</link>
+            <guid>https://www.careet.net/867</guid>
+            <pubDate>Fri, 02 Sep 2022 02:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[실물 카드 수요가 점점 줄어들고 있다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/e40d625b-916e-4c32-b9a6-9678497d57be_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[ESG 마케팅의 새로운 흐름 ‘펫 프렌들리 마케팅’에 주목하세요! (캐릿)]]></title>
@@ -605,18 +621,18 @@
             <content:encoded><![CDATA[양안 관계의 뉴 노멀]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[문해력 논란이 잊을 만하면 반복되고 있다. 이는 세대 갈등이란 문제를 읽어내지 못한 우리 사회 전체의 문해력 부족을 뜻한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54713</link>
-            <guid>https://www.bookjournalism.com/books/54713</guid>
-            <pubDate>Thu, 01 Sep 2022 21:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[언어의 줄다리기]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Thu, 01 Sep 2022 21:23:53 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[문해력 논란이 잊을 만하면 반복되고 있다. 이는 세대 갈등이란 문제를 읽어내지 못한 우리 사회 전체의 문해력 부족을 뜻한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54713</link>
+            <guid>https://www.bookjournalism.com/books/54713</guid>
+            <pubDate>Thu, 01 Sep 2022 21:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[언어의 줄다리기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[기후 참사로 삶의 터전을 잃은 사람들이 늘어나고 있다. 고령화가 진행 중인 국가들은 해답이 될 수 있을까? (북저널리즘)]]></title>

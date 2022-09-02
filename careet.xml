@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 23:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 02:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 픽 캐릭터 도구리가 또 일 냈다! 이주의 떡상템 5]]></title>
+            <link>https://www.careet.net/871</link>
+            <guid>https://www.careet.net/871</guid>
+            <pubDate>Fri, 02 Sep 2022 02:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[쇼츠 장인이자 호감캐로 등극한 크리에이터는 누구?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/bb3abe06-15fe-4160-ad75-ead6d6a5dac1_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[10대 40% “실물 체크카드 필요 없음! 앱카드로 충분해”]]></title>
+            <link>https://www.careet.net/867</link>
+            <guid>https://www.careet.net/867</guid>
+            <pubDate>Fri, 02 Sep 2022 02:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[실물 카드 수요가 점점 줄어들고 있다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/e40d625b-916e-4c32-b9a6-9678497d57be_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ESG 마케팅의 새로운 흐름 ‘펫 프렌들리 마케팅’에 주목하세요!]]></title>
             <link>https://www.careet.net/865</link>
