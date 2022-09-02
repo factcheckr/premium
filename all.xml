@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 14:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 15:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,12 +318,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/27a5beb7-2e20-4156-b23d-d72ec010f302_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[폭스트롯 마켓 : 스타벅스와 도어대시를 합쳐, 편의점의 미래가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/404</link>
-            <guid>https://www.longblack.co/note/404</guid>
-            <pubDate>Thu, 01 Sep 2022 15:28:08 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;편의점 전성시대야. 전국 편의점 수는 무려 5만여개. 인구 1000명당 1개 꼴이야. 2021년엔 편의점 매출이 처음으로 대형마트 매출을 앞질렀어.&nbsp;나도 편의점에<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220831/166193766822dfb65f5046b1ab35de24e86d717c50.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[장자크 상페 : 꼬마 니콜라처럼, 아이의 마음으로 살다 떠나다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/408</link>
+            <guid>https://www.longblack.co/note/408</guid>
+            <pubDate>Fri, 02 Sep 2022 15:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K열 살짜리 꼬마에게 세상에서 가장 두려운 일은 부모님의 관심으로부터 멀어지는 것이죠. 더욱이 귀여운 동생이 생긴다면, 우선순위에서 밀려날까 두려워할 수밖에 없어요.<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220830/1661823198c6f41376fa8ba7f24bc03c812cc1a8ee.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
