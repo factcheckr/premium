@@ -2,7 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-09-02T16:36:48.001Z</updated>
+    <updated>2022-09-02T17:28:36.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #52에선, 사그라들 줄 모르는 반값 치킨 열풍의 이면과, 유토피아와 디스토피아 사이 어딘가에 위치한 미래 도시의 청사진, 심심한 사과를 받아들일 수 없는 우리 사회의 세대 갈등, 결국 총성이 울리고 만 대만 해역에 관해 이야기합니다.]]></title>
+        <id>https://www.bookjournalism.com/audio/54749</id>
+        <link href="https://www.bookjournalism.com/audio/54749"/>
+        <updated>2022-09-02T17:28:25.765Z</updated>
+        <content type="html"><![CDATA[치킨엔 심심한 유감을, 대만엔 시진핑의 욕심을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로 쓰는 양안 관계에서 대만은 주연을 노린다. 시진핑의 중국은 대만을 침공할 것인가?]]></title>
+        <id>https://www.bookjournalism.com/books/54771</id>
+        <link href="https://www.bookjournalism.com/books/54771"/>
+        <updated>2022-09-02T17:28:25.782Z</updated>
+        <content type="html"><![CDATA[양안 관계의 뉴 노멀]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
+        <id>https://www.bookjournalism.com/books/54125</id>
+        <link href="https://www.bookjournalism.com/books/54125"/>
+        <updated>2022-09-02T17:28:25.783Z</updated>
+        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문해력 논란이 잊을 만하면 반복되고 있다. 이는 세대 갈등이란 문제를 읽어내지 못한 우리 사회 전체의 문해력 부족을 뜻한다.]]></title>
+        <id>https://www.bookjournalism.com/books/54713</id>
+        <link href="https://www.bookjournalism.com/books/54713"/>
+        <updated>2022-09-02T17:28:25.784Z</updated>
+        <content type="html"><![CDATA[언어의 줄다리기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후 참사로 삶의 터전을 잃은 사람들이 늘어나고 있다. 고령화가 진행 중인 국가들은 해답이 될 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/54692</id>
+        <link href="https://www.bookjournalism.com/books/54692"/>
+        <updated>2022-09-02T17:28:25.798Z</updated>
+        <content type="html"><![CDATA[탄소 전쟁이 만든 난민]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파월이 선언했다. 일단 미국이 살아야 하겠다고.]]></title>
+        <id>https://www.bookjournalism.com/books/54641</id>
+        <link href="https://www.bookjournalism.com/books/54641"/>
+        <updated>2022-09-02T17:28:25.821Z</updated>
+        <content type="html"><![CDATA[아무도 구해주지 않는다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 사막에 미래형 도시 텔로사가 들어선다. 세계 억만장자들은 어떤 유토피아를 꿈꾸나?]]></title>
+        <id>https://www.bookjournalism.com/books/54611</id>
+        <link href="https://www.bookjournalism.com/books/54611"/>
+        <updated>2022-09-02T17:28:25.822Z</updated>
+        <content type="html"><![CDATA[브레이브 뉴 시티]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치킨의 가격에 한국인은 흔들린다. 하지만 정말, 우리의 취향은 치킨일까?]]></title>
+        <id>https://www.bookjournalism.com/books/54588</id>
+        <link href="https://www.bookjournalism.com/books/54588"/>
+        <updated>2022-09-02T17:28:25.822Z</updated>
+        <content type="html"><![CDATA[치킨의 맛]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #51에선, 보그 코리아 화보가 불러온 코로나19 이후 침체하는 영화관 산업, 청와대의 품격 논란, NASA의 ‘아르테미스 계획’을 필두로 한 달 탐사 경쟁에 관해 이야기합니다.]]></title>
+        <id>https://www.bookjournalism.com/audio/54570</id>
+        <link href="https://www.bookjournalism.com/audio/54570"/>
+        <updated>2022-09-02T17:28:25.823Z</updated>
+        <content type="html"><![CDATA[영화관은 불안, 청와대는 논란, 달 탐사는 분란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나사(NASA)의 ‘아르테미스 계획’이 시작됐다. 달 탐사의 속사정은 생각보다 훨씬 복잡하다.]]></title>
+        <id>https://www.bookjournalism.com/books/54556</id>
+        <link href="https://www.bookjournalism.com/books/54556"/>
+        <updated>2022-09-02T17:28:25.823Z</updated>
+        <content type="html"><![CDATA[프로젝트 네임 아르테미스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[74년간 청와대는 정치적 장소였다. 청와대는 정치를 떠나 무사히 국민 품에 안길 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/54514</id>
+        <link href="https://www.bookjournalism.com/books/54514"/>
+        <updated>2022-09-02T17:28:25.826Z</updated>
+        <content type="html"><![CDATA[청와대의 품격]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[특유한 역사를 가진 힙합은 정치적 올바름을 요구받기도, 쿨하고 무모할 것을 요구받기도 한다. 우리에게 힙합은 ‘힙찔이’, 갱스터 음악을 넘어 그 무엇이 될 수 있을까? 혹은, 되어야 할까?]]></title>
+        <id>https://www.bookjournalism.com/books/54451</id>
+        <link href="https://www.bookjournalism.com/books/54451"/>
+        <updated>2022-09-02T17:28:25.827Z</updated>
+        <content type="html"><![CDATA[어느 새부터 힙합은 안 멋져]]></content>
+    </entry>
 </feed>
