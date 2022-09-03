@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 14:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 15:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,12 +318,14 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/27a5beb7-2e20-4156-b23d-d72ec010f302_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[장자크 상페 : 꼬마 니콜라처럼, 아이의 마음으로 살다 떠나다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/408</link>
-            <guid>https://www.longblack.co/note/408</guid>
-            <pubDate>Fri, 02 Sep 2022 15:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K열 살짜리 꼬마에게 세상에서 가장 두려운 일은 부모님의 관심으로부터 멀어지는 것이죠. 더욱이 귀여운 동생이 생긴다면, 우선순위에서 밀려날까 두려워할 수밖에 없어요.<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220830/1661823198c6f41376fa8ba7f24bc03c812cc1a8ee.png" length="0" type="image/png"/>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 03 Sep 2022 15:25:30 GMT</pubDate>
+            <content:encoded><![CDATA[L의 눈길을 끈 지난주 롱블랙의 문장
+
+"보통 사서라고 하면 기획과는 먼 직업처럼 느껴지죠. 사서의 업무를 책을 정리하고, 대출을 관리하는 것이라고만 생각하니까요. 저는 제 일을 다르게 바라봤어요. 사서의 일이란 ‘누군가를 서포트하는, 즉 누군가의 성장을 돕는 일이<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220903/1662161366ebbc330ddae929dbf1e8194b3e582e1f.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
