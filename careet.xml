@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 23:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 02:38:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개강 시즌! Z세대는 지금 학교 행사로 어떤 걸 기대하고 있을까?]]></title>
+            <link>https://www.careet.net/869</link>
+            <guid>https://www.careet.net/869</guid>
+            <pubDate>Mon, 05 Sep 2022 02:37:52 GMT</pubDate>
+            <content:encoded><![CDATA[“시험 기간 간식 이벤트도 좋지만... 이런 것도 해주세요!”]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/6cacafad-1514-49a3-a654-4d15d316a6b9_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 픽 캐릭터 도구리가 또 일 냈다! 이주의 떡상템 5]]></title>
             <link>https://www.careet.net/871</link>
