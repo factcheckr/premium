@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-09-05T07:37:27.569Z</updated>
+    <updated>2022-09-05T08:30:52.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[먹는 씬이 바뀐다 : 일상의 고민을 히트 상품으로 만든 일본의 음식 트렌드]]></title>
+        <id>https://publy.co/content/6954?fr=category</id>
+        <link href="https://publy.co/content/6954?fr=category"/>
+        <updated>2022-09-05T08:29:37.314Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발 공부, 어떻게 시작할까? 나에게 맞는 분야/학습 방법 고르기]]></title>
         <id>https://publy.co/content/6941?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6949?fr=category"/>
         <updated>2022-08-30T08:31:37.206Z</updated>
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누구한테 물어보기는 애매한 직장 생활 매너 모음]]></title>
-        <id>https://publy.co/content/6939?fr=category</id>
-        <link href="https://publy.co/content/6939?fr=category"/>
-        <updated>2022-08-29T08:31:33.268Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
