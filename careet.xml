@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 08:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 05 Sep 2022 02:37:52 GMT</pubDate>
             <content:encoded><![CDATA[“시험 기간 간식 이벤트도 좋지만... 이런 것도 해주세요!”]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/6cacafad-1514-49a3-a654-4d15d316a6b9_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘갓생’ 대신 ‘플롯 걸 서머’! 해외 Z세대 SNS에서 찾은 마케팅 레퍼런스]]></title>
+            <link>https://www.careet.net/868</link>
+            <guid>https://www.careet.net/868</guid>
+            <pubDate>Mon, 05 Sep 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[해외 Z세대의 피드 핫이슈를 쏙쏙 골라왔습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/1b613433-6be2-4fdf-98f3-8b6dc450ac9a_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 픽 캐릭터 도구리가 또 일 냈다! 이주의 떡상템 5]]></title>
