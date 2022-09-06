@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 23:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 02:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 지갑 활짝 열리게 만든 ‘콘텐츠 오마카세’가 대체 뭐야?]]></title>
+            <link>https://www.careet.net/866</link>
+            <guid>https://www.careet.net/866</guid>
+            <pubDate>Tue, 06 Sep 2022 02:44:56 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 Z세대는 자신만을 위한 커스텀 굿즈 하나씩은 다 갖고 있다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/015d77cb-7305-441b-9ca0-6b68d826edfa_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개강 시즌! Z세대는 지금 학교 행사로 어떤 걸 기대하고 있을까?]]></title>
             <link>https://www.careet.net/869</link>
