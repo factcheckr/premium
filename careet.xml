@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 23:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 02:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 Z세대는 호캉스 가는 대신 욕조 대여한다고?]]></title>
+            <link>https://www.careet.net/873</link>
+            <guid>https://www.careet.net/873</guid>
+            <pubDate>Wed, 07 Sep 2022 02:42:25 GMT</pubDate>
+            <content:encoded><![CDATA[1020이 호캉스 대신 가는 그곳은 어디?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/73b02c46-e663-4970-a03c-e2bab92cf286_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 지갑 활짝 열리게 만든 ‘콘텐츠 오마카세’가 대체 뭐야?]]></title>
             <link>https://www.careet.net/866</link>

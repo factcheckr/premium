@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-09-06T23:29:03.261Z</updated>
+    <updated>2022-09-07T02:43:32.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[빅테크 수난 시대]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[태풍이 빠져나간다. 그러나 기후재난은 더 지독하고 불공정해진다.]]></title>
-        <id>https://www.bookjournalism.com/books/54858</id>
-        <link href="https://www.bookjournalism.com/books/54858"/>
-        <updated>2022-09-06T22:27:12.934Z</updated>
-        <content type="html"><![CDATA[3.5퍼센트의 모든 것]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
         <id>https://www.bookjournalism.com/books/54125</id>
         <link href="https://www.bookjournalism.com/books/54125"/>
         <updated>2022-09-06T22:27:12.937Z</updated>
         <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태풍이 빠져나간다. 그러나 기후재난은 더 지독하고 불공정해진다.]]></title>
+        <id>https://www.bookjournalism.com/books/54858</id>
+        <link href="https://www.bookjournalism.com/books/54858"/>
+        <updated>2022-09-06T22:27:12.934Z</updated>
+        <content type="html"><![CDATA[3.5퍼센트의 모든 것]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인공지능이 과학‧기술 영역에 뛰어든다. 중요한 건 인간처럼 변할 인공지능이 아닌, 인공지능처럼 생각하는 인간이다.]]></title>

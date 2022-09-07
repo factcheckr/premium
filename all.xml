@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 23:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 02:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6931?fr=category</guid>
             <pubDate>Wed, 31 Aug 2022 08:30:19 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 Z세대는 호캉스 가는 대신 욕조 대여한다고? (캐릿)]]></title>
+            <link>https://www.careet.net/873</link>
+            <guid>https://www.careet.net/873</guid>
+            <pubDate>Wed, 07 Sep 2022 02:42:25 GMT</pubDate>
+            <content:encoded><![CDATA[1020이 호캉스 대신 가는 그곳은 어디?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/73b02c46-e663-4970-a03c-e2bab92cf286_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 지갑 활짝 열리게 만든 ‘콘텐츠 오마카세’가 대체 뭐야? (캐릿)]]></title>
@@ -645,18 +653,18 @@
             <content:encoded><![CDATA[빅테크 수난 시대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태풍이 빠져나간다. 그러나 기후재난은 더 지독하고 불공정해진다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54858</link>
-            <guid>https://www.bookjournalism.com/books/54858</guid>
-            <pubDate>Tue, 06 Sep 2022 22:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[3.5퍼센트의 모든 것]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Tue, 06 Sep 2022 22:27:12 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[태풍이 빠져나간다. 그러나 기후재난은 더 지독하고 불공정해진다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54858</link>
+            <guid>https://www.bookjournalism.com/books/54858</guid>
+            <pubDate>Tue, 06 Sep 2022 22:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[3.5퍼센트의 모든 것]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인공지능이 과학‧기술 영역에 뛰어든다. 중요한 건 인간처럼 변할 인공지능이 아닌, 인공지능처럼 생각하는 인간이다. (북저널리즘)]]></title>
