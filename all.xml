@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 05:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 07:01:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눌러보고 싶게 만드는 제목 카피라이팅 ‘이것’만 알면 됩니다 (퍼블리)]]></title>
+            <link>https://publy.co/content/6960?fr=category</link>
+            <guid>https://publy.co/content/6960?fr=category</guid>
+            <pubDate>Wed, 07 Sep 2022 07:00:37 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 16분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[팀장이 질문으로 상황을 리드하는 법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6953?fr=category</link>
+            <guid>https://publy.co/content/6953?fr=category</guid>
+            <pubDate>Wed, 07 Sep 2022 07:00:37 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[우리 회사에 딱 맞는 GA4 맞춤 보고서 만들기 (Feat. 실습 가이드) (퍼블리)]]></title>
             <link>https://publy.co/content/6964?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6952?fr=category</guid>
             <pubDate>Thu, 01 Sep 2022 08:33:05 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[VoC에서 진짜 문제를 찾는 노하우 (퍼블리)]]></title>
-            <link>https://publy.co/content/6921?fr=category</link>
-            <guid>https://publy.co/content/6921?fr=category</guid>
-            <pubDate>Wed, 31 Aug 2022 08:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팀장 부임 첫 50일 체크리스트 (초반 기세 만들기) (퍼블리)]]></title>
-            <link>https://publy.co/content/6931?fr=category</link>
-            <guid>https://publy.co/content/6931?fr=category</guid>
-            <pubDate>Wed, 31 Aug 2022 08:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 Z세대는 호캉스 가는 대신 욕조 대여한다고? (캐릿)]]></title>

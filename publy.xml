@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-09-07T05:03:01.144Z</updated>
+    <updated>2022-09-07T07:01:52.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[눌러보고 싶게 만드는 제목 카피라이팅 ‘이것’만 알면 됩니다]]></title>
+        <id>https://publy.co/content/6960?fr=category</id>
+        <link href="https://publy.co/content/6960?fr=category"/>
+        <updated>2022-09-07T07:00:37.474Z</updated>
+        <content type="html"><![CDATA[아티클 · 16분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팀장이 질문으로 상황을 리드하는 법]]></title>
+        <id>https://publy.co/content/6953?fr=category</id>
+        <link href="https://publy.co/content/6953?fr=category"/>
+        <updated>2022-09-07T07:00:37.474Z</updated>
+        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 회사에 딱 맞는 GA4 맞춤 보고서 만들기 (Feat. 실습 가이드)]]></title>
         <id>https://publy.co/content/6964?fr=category</id>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/6952?fr=category"/>
         <updated>2022-09-01T08:33:05.872Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VoC에서 진짜 문제를 찾는 노하우]]></title>
-        <id>https://publy.co/content/6921?fr=category</id>
-        <link href="https://publy.co/content/6921?fr=category"/>
-        <updated>2022-08-31T08:30:19.979Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀장 부임 첫 50일 체크리스트 (초반 기세 만들기)]]></title>
-        <id>https://publy.co/content/6931?fr=category</id>
-        <link href="https://publy.co/content/6931?fr=category"/>
-        <updated>2022-08-31T08:30:19.986Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
 </feed>
