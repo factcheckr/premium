@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-09-07T14:33:37.485Z</updated>
+    <updated>2022-09-07T15:29:21.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[7퍼센트는 백신에 괴생명체가 산다고 믿는다. 음모론은 이 시대에 어떤 물음을 던지나?]]></title>
+        <id>https://www.bookjournalism.com/books/54941</id>
+        <link href="https://www.bookjournalism.com/books/54941"/>
+        <updated>2022-09-07T15:29:10.535Z</updated>
+        <content type="html"><![CDATA[신뢰 종말 시대의 음모론]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전쟁은 정치의 문제가 아니라 생사의 문제다. 평범한 삶을 부수고 사랑하는 가족을 앗아간다. 즉, 인간을 무너뜨린다.]]></title>
         <id>https://www.bookjournalism.com/books/54903</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/54611"/>
         <updated>2022-09-07T12:55:21.213Z</updated>
         <content type="html"><![CDATA[브레이브 뉴 시티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치킨의 가격에 한국인은 흔들린다. 하지만 정말, 우리의 취향은 치킨일까?]]></title>
-        <id>https://www.bookjournalism.com/books/54588</id>
-        <link href="https://www.bookjournalism.com/books/54588"/>
-        <updated>2022-09-07T12:55:21.214Z</updated>
-        <content type="html"><![CDATA[치킨의 맛]]></content>
     </entry>
 </feed>

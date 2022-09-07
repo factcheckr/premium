@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 14:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 15:29:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,12 +350,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/27a5beb7-2e20-4156-b23d-d72ec010f302_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[데이비드 엡스타인 : 늦깎이 천재들의 비밀, 미서치me-search에 있다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/407</link>
-            <guid>https://www.longblack.co/note/407</guid>
-            <pubDate>Tue, 06 Sep 2022 15:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;필즈상을 수상한 허준이 교수의 졸업식 축사가 최근 화제가 됐습니다. 허 교수는 “저의 대학 생활은 포장해서 이야기해도 길 잃음의 연속이었다”고 했죠. 시인이 되겠<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220905/1662374875b40ceb976e7eac4668550287461b2780.png" length="0" type="image/png"/>
+            <title><![CDATA[아워 플레이스 : 다문화의 상징이 된 프라이팬, 3만명을 줄 세우다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/414</link>
+            <guid>https://www.longblack.co/note/414</guid>
+            <pubDate>Wed, 07 Sep 2022 15:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;다기능성 제품을 좋아해요. 이를테면, 스포크spork* 같은 거요. 하나의 물건을 여러 쓰임새로 쓰는 것에서 오는 효율성을 좋아합니다.*스푼과 포크의 합성어. 한<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220902/16621035141e978f2d464cc6558a715c34c6e7e67f.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -646,6 +646,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[7퍼센트는 백신에 괴생명체가 산다고 믿는다. 음모론은 이 시대에 어떤 물음을 던지나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54941</link>
+            <guid>https://www.bookjournalism.com/books/54941</guid>
+            <pubDate>Wed, 07 Sep 2022 15:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[신뢰 종말 시대의 음모론]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[전쟁은 정치의 문제가 아니라 생사의 문제다. 평범한 삶을 부수고 사랑하는 가족을 앗아간다. 즉, 인간을 무너뜨린다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54903</link>
             <guid>https://www.bookjournalism.com/books/54903</guid>
@@ -721,13 +728,6 @@
             <guid>https://www.bookjournalism.com/books/54611</guid>
             <pubDate>Wed, 07 Sep 2022 12:55:21 GMT</pubDate>
             <content:encoded><![CDATA[브레이브 뉴 시티]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[치킨의 가격에 한국인은 흔들린다. 하지만 정말, 우리의 취향은 치킨일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54588</link>
-            <guid>https://www.bookjournalism.com/books/54588</guid>
-            <pubDate>Wed, 07 Sep 2022 12:55:21 GMT</pubDate>
-            <content:encoded><![CDATA[치킨의 맛]]></content:encoded>
         </item>
     </channel>
 </rss>
