@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 23:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 02:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NPC로 취직해 연봉 3천만 원 번다? 요즘 게임 트렌드 5분 요약]]></title>
+            <link>https://www.careet.net/872</link>
+            <guid>https://www.careet.net/872</guid>
+            <pubDate>Thu, 08 Sep 2022 02:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[게임 트렌드를 놓치면 Z세대도 놓치는 것!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/5228031d-d5f3-420d-8742-7486315b6d3c_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 Z세대는 호캉스 가는 대신 욕조 대여한다고?]]></title>
             <link>https://www.careet.net/873</link>
