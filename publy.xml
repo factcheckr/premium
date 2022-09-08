@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-09-08T06:07:17.472Z</updated>
+    <updated>2022-09-08T07:38:21.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[내가 저지른 실수, 골든타임 안에 수습하는  방법]]></title>
+        <id>https://publy.co/content/6957?fr=category</id>
+        <link href="https://publy.co/content/6957?fr=category"/>
+        <updated>2022-09-08T07:37:07.472Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독자들이 가장 많이 밑줄 친 아티클  TOP 8]]></title>
+        <id>https://publy.co/content/6959?fr=category</id>
+        <link href="https://publy.co/content/6959?fr=category"/>
+        <updated>2022-09-08T07:37:07.476Z</updated>
+        <content type="html"><![CDATA[아티클 · 3분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디자이너가 생각하는 일 잘하는 PM의 특징]]></title>
+        <id>https://publy.co/content/6920?fr=category</id>
+        <link href="https://publy.co/content/6920?fr=category"/>
+        <updated>2022-09-08T07:37:07.480Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눌러보고 싶게 만드는 제목 카피라이팅 ‘이것’만 알면 됩니다]]></title>
         <id>https://publy.co/content/6960?fr=category</id>
@@ -53,26 +74,5 @@
         <link href="https://publy.co/content/6869?fr=category"/>
         <updated>2022-09-02T08:30:48.117Z</updated>
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀을 리드하고픈 팀장을 위한 팀 키트]]></title>
-        <id>https://publy.co/content/6956?fr=category</id>
-        <link href="https://publy.co/content/6956?fr=category"/>
-        <updated>2022-09-01T08:33:05.870Z</updated>
-        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3초만에 고객을 사로잡는 상세페이지 오프닝]]></title>
-        <id>https://publy.co/content/6946?fr=category</id>
-        <link href="https://publy.co/content/6946?fr=category"/>
-        <updated>2022-09-01T08:33:05.872Z</updated>
-        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S형? N형? 유형별 PPT 만드는 법(+템플릿 2종)]]></title>
-        <id>https://publy.co/content/6952?fr=category</id>
-        <link href="https://publy.co/content/6952?fr=category"/>
-        <updated>2022-09-01T08:33:05.872Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
 </feed>
