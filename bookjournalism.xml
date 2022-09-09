@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-09-09T07:31:16.706Z</updated>
+    <updated>2022-09-09T08:36:08.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.bookjournalism.com/books/54968"/>
         <updated>2022-09-09T02:42:40.745Z</updated>
         <content type="html"><![CDATA[이렇게 맛있는 추석]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MZ라는 엉성한 분류는 기성세대의 허술한 구획이다. 편협한 인식이 올바른 이해를 가로막고 있다. 성긴 이름 아래 다양한 면면을 봐야 한다.]]></title>
+        <id>https://www.bookjournalism.com/books/54201</id>
+        <link href="https://www.bookjournalism.com/books/54201"/>
+        <updated>2022-09-09T08:35:58.113Z</updated>
+        <content type="html"><![CDATA[한국이 만든 MZ세대]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7퍼센트는 백신에 괴생명체가 산다고 믿는다. 음모론은 이 시대에 어떤 물음을 던지나?]]></title>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/54692"/>
         <updated>2022-09-09T02:42:40.803Z</updated>
         <content type="html"><![CDATA[탄소 전쟁이 만든 난민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파월이 선언했다. 일단 미국이 살아야 하겠다고.]]></title>
-        <id>https://www.bookjournalism.com/books/54641</id>
-        <link href="https://www.bookjournalism.com/books/54641"/>
-        <updated>2022-09-09T02:42:40.805Z</updated>
-        <content type="html"><![CDATA[아무도 구해주지 않는다]]></content>
     </entry>
 </feed>

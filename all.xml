@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 07:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 08:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -661,6 +661,13 @@
             <content:encoded><![CDATA[이렇게 맛있는 추석]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[MZ라는 엉성한 분류는 기성세대의 허술한 구획이다. 편협한 인식이 올바른 이해를 가로막고 있다. 성긴 이름 아래 다양한 면면을 봐야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54201</link>
+            <guid>https://www.bookjournalism.com/books/54201</guid>
+            <pubDate>Fri, 09 Sep 2022 08:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[한국이 만든 MZ세대]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[7퍼센트는 백신에 괴생명체가 산다고 믿는다. 음모론은 이 시대에 어떤 물음을 던지나? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54941</link>
             <guid>https://www.bookjournalism.com/books/54941</guid>
@@ -729,13 +736,6 @@
             <guid>https://www.bookjournalism.com/books/54692</guid>
             <pubDate>Fri, 09 Sep 2022 02:42:40 GMT</pubDate>
             <content:encoded><![CDATA[탄소 전쟁이 만든 난민]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파월이 선언했다. 일단 미국이 살아야 하겠다고. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54641</link>
-            <guid>https://www.bookjournalism.com/books/54641</guid>
-            <pubDate>Fri, 09 Sep 2022 02:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[아무도 구해주지 않는다]]></content:encoded>
         </item>
     </channel>
 </rss>
