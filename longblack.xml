@@ -4,16 +4,18 @@
         <title>롱블랙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 14:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 15:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[숨결이 바람 될 때 : 서른여섯 의사가 남긴, 살아감에 대한 이야기]]></title>
-            <link>https://www.longblack.co/note/420</link>
-            <guid>https://www.longblack.co/note/420</guid>
-            <pubDate>Fri, 09 Sep 2022 15:28:35 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;&nbsp;모처럼 만의 연휴입니다. 사두고 펼치지 않았던 책을 한 권 집어 들었어요. 첫 장부터 눈길을 끕니다.“진단은 명확했다. 무수한 종양이 폐를 덮고 있었다. 암이 <span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220906/1662429782c7f103e455217961f70235e302871110.png" length="0" type="image/png"/>
+            <title><![CDATA[롱블랙 선데이 에디션]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 10 Sep 2022 15:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[B가 공유하고 싶은 지난주 롱블랙의 문장
+
+“인생은 직선이 아닌 곡선이고, 지그재그로 뻗어 나가요. 저도 마찬가지로 다양한 과정을 거쳐, 지금의 일을 찾게 되었죠. 이런저런 관심사를 넓히다 보면, 늦게 갈 수밖에 없는 것도 맞아요. 중요한 건 과정에서 스스로 동기 <span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220908/1662617634c662d0d64e2247006246681a2990da33.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
