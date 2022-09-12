@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-09-12T14:32:12.850Z</updated>
+    <updated>2022-09-12T15:32:13.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[다양한 체형을 위한 인클루시브 패션이 주목받고 있다. 적은 수요에도 불구하고 이 시장은 성장할 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/55128</id>
+        <link href="https://www.bookjournalism.com/books/55128"/>
+        <updated>2022-09-12T15:32:03.147Z</updated>
+        <content type="html"><![CDATA[플러스 사이즈를 재정의하다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북저널리즘 신간《블루칼라 프리워커》는 어떻게 시작한 책일까요? 이현구·이다혜·정원진 에디터의 편집 비하인드 스토리를 담았습니다.]]></title>
         <id>https://www.bookjournalism.com/audio/54955</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/54832"/>
         <updated>2022-09-12T13:54:20.184Z</updated>
         <content type="html"><![CDATA[실험복을 걸친 인공지능]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #52에선, 사그라들 줄 모르는 반값 치킨 열풍의 이면과, 유토피아와 디스토피아 사이 어딘가에 위치한 미래 도시의 청사진, 심심한 사과를 받아들일 수 없는 우리 사회의 세대 갈등, 결국 총성이 울리고 만 대만 해역에 관해 이야기합니다.]]></title>
-        <id>https://www.bookjournalism.com/audio/54749</id>
-        <link href="https://www.bookjournalism.com/audio/54749"/>
-        <updated>2022-09-12T13:54:20.188Z</updated>
-        <content type="html"><![CDATA[치킨엔 심심한 유감을, 대만엔 시진핑의 욕심을]]></content>
     </entry>
 </feed>
