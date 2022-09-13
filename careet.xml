@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 23:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 02:44:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ESG 마케팅할 때 참고하세요! Z세대가 원하는 기부 이벤트는 이런 것]]></title>
+            <link>https://www.careet.net/875</link>
+            <guid>https://www.careet.net/875</guid>
+            <pubDate>Tue, 13 Sep 2022 02:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[프로미스링? 김씨네과일 티셔츠? 달라진 Z세대의 기부 방식]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/4e7a78ba-cb38-4f0c-af3e-deeadc0d4363_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[데이터] Z세대는 숏폼 콘텐츠를 볼 때 매일 75.8분을 쓴다!]]></title>
+            <link>https://www.careet.net/874</link>
+            <guid>https://www.careet.net/874</guid>
+            <pubDate>Tue, 13 Sep 2022 02:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[일반 영상보다 숏폼 콘텐츠를 선호하는 Z세대가 무려 36.5%]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/d0710f31-cd22-467c-b194-03de35ec1a73_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NPC로 취직해 연봉 3천만 원 번다? 요즘 게임 트렌드 5분 요약]]></title>
             <link>https://www.careet.net/872</link>
