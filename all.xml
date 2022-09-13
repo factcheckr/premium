@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 14:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 15:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,12 +374,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/27a5beb7-2e20-4156-b23d-d72ec010f302_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[무알콜 음료 : 주류 시장의 유일한 블루칩, 3대 트렌드를 읽다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/421</link>
-            <guid>https://www.longblack.co/note/421</guid>
-            <pubDate>Mon, 12 Sep 2022 15:31:15 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;얼마 전에 넷이 저녁 먹었거든. B가 복순도가랑 키소주를 들고 온 거야. 나 술 못 마시는데! K가 슬쩍 뭘 내밀더라. 무알콜* 맥주래. 덕분에 나도 술자리에 낄<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220908/166262109000bb8747fce7212ad66c3cd3eae65119.png" length="0" type="image/png"/>
+            <title><![CDATA[바비정 : 몽탄과 고도식의 기획자, 세잎클로버 같은 식당을 꿈꾸다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/418</link>
+            <guid>https://www.longblack.co/note/418</guid>
+            <pubDate>Tue, 13 Sep 2022 15:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K깜짝 놀랐어요. C가 지난 주말에 고기 먹으려고 4시간이나 웨이팅했다는 거예요. 도대체 어떤 식당이냐고 물었더니, 우대갈비*로 유명한 삼각지 몽탄이었죠.*육류 신조<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220908/16626209589bef9f0be27470770eb1489139ff12b9.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -670,6 +670,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[고 이예람 중사 사망 사건을 수사해온 특검이 수사를 마무리했다. 하지만 아직 끝나지 않았다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/55153</link>
+            <guid>https://www.bookjournalism.com/books/55153</guid>
+            <pubDate>Tue, 13 Sep 2022 15:30:02 GMT</pubDate>
+            <content:encoded><![CDATA[끝나지 않았다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[다양한 체형을 위한 인클루시브 패션이 주목받고 있다. 적은 수요에도 불구하고 이 시장은 성장할 수 있을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/55128</link>
             <guid>https://www.bookjournalism.com/books/55128</guid>
@@ -745,13 +752,6 @@
             <guid>https://www.bookjournalism.com/books/54858</guid>
             <pubDate>Tue, 13 Sep 2022 08:34:36 GMT</pubDate>
             <content:encoded><![CDATA[3.5퍼센트의 모든 것]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인공지능이 과학‧기술 영역에 뛰어든다. 중요한 건 인간처럼 변할 인공지능이 아닌, 인공지능처럼 생각하는 인간이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54832</link>
-            <guid>https://www.bookjournalism.com/books/54832</guid>
-            <pubDate>Tue, 13 Sep 2022 08:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[실험복을 걸친 인공지능]]></content:encoded>
         </item>
     </channel>
 </rss>
