@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-09-14T14:33:53.596Z</updated>
+    <updated>2022-09-14T15:30:09.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[근로 시간 외 카톡과 조용한 퇴직이 이슈다. 업무와 삶을 분리할 수 없는 지금, 직장은 무엇을 지향해야 하나?]]></title>
+        <id>https://www.bookjournalism.com/books/55221</id>
+        <link href="https://www.bookjournalism.com/books/55221"/>
+        <updated>2022-09-14T15:29:58.856Z</updated>
+        <content type="html"><![CDATA[퇴직과 번아웃 사이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검은색 액체 한 잔이 현대를 창조했다. 현대의 가장 보편적인 중독, 카페인을 생각한다.]]></title>
         <id>https://www.bookjournalism.com/books/55168</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/54903"/>
         <updated>2022-09-14T14:33:43.780Z</updated>
         <content type="html"><![CDATA[이것이 전쟁이다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅테크 저승사자인 유럽의 GDPR법이 인스타그램을 덮쳤다. 세계의 빅테크 때리기는 이심전심인가 동상이몽인가.]]></title>
-        <id>https://www.bookjournalism.com/books/54882</id>
-        <link href="https://www.bookjournalism.com/books/54882"/>
-        <updated>2022-09-14T14:33:43.780Z</updated>
-        <content type="html"><![CDATA[빅테크 수난 시대]]></content>
     </entry>
 </feed>

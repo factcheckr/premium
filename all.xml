@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 14:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 15:30:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,14 +382,6 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/27a5beb7-2e20-4156-b23d-d72ec010f302_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[바비정 : 몽탄과 고도식의 기획자, 세잎클로버 같은 식당을 꿈꾸다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/418</link>
-            <guid>https://www.longblack.co/note/418</guid>
-            <pubDate>Tue, 13 Sep 2022 15:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;깜짝 놀랐어요. C가 지난 주말에 고기 먹으려고 4시간이나 웨이팅했다는 거예요. 도대체 어떤 식당이냐고 물었더니, 우대갈비*로 유명한 삼각지 몽탄이었죠.*육류 신<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220908/16626209589bef9f0be27470770eb1489139ff12b9.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
             <link>https://www.folin.co/story/2220</link>
             <guid>https://www.folin.co/story/2220</guid>
@@ -678,6 +670,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[근로 시간 외 카톡과 조용한 퇴직이 이슈다. 업무와 삶을 분리할 수 없는 지금, 직장은 무엇을 지향해야 하나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/55221</link>
+            <guid>https://www.bookjournalism.com/books/55221</guid>
+            <pubDate>Wed, 14 Sep 2022 15:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[퇴직과 번아웃 사이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[검은색 액체 한 잔이 현대를 창조했다. 현대의 가장 보편적인 중독, 카페인을 생각한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/55168</link>
             <guid>https://www.bookjournalism.com/books/55168</guid>
@@ -753,13 +752,6 @@
             <guid>https://www.bookjournalism.com/books/54903</guid>
             <pubDate>Wed, 14 Sep 2022 14:33:43 GMT</pubDate>
             <content:encoded><![CDATA[이것이 전쟁이다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빅테크 저승사자인 유럽의 GDPR법이 인스타그램을 덮쳤다. 세계의 빅테크 때리기는 이심전심인가 동상이몽인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54882</link>
-            <guid>https://www.bookjournalism.com/books/54882</guid>
-            <pubDate>Wed, 14 Sep 2022 14:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[빅테크 수난 시대]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>롱블랙</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 14:33:53 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[바비정 : 몽탄과 고도식의 기획자, 세잎클로버 같은 식당을 꿈꾸다]]></title>
-            <link>https://www.longblack.co/note/418</link>
-            <guid>https://www.longblack.co/note/418</guid>
-            <pubDate>Tue, 13 Sep 2022 15:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;깜짝 놀랐어요. C가 지난 주말에 고기 먹으려고 4시간이나 웨이팅했다는 거예요. 도대체 어떤 식당이냐고 물었더니, 우대갈비*로 유명한 삼각지 몽탄이었죠.*육류 신<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220908/16626209589bef9f0be27470770eb1489139ff12b9.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.longblack.co/</id>
+    <title>롱블랙</title>
+    <updated>2022-09-14T15:30:09.445Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.longblack.co/favicon.ico</icon>
+</feed>
