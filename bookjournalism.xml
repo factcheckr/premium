@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-09-14T07:39:51.861Z</updated>
+    <updated>2022-09-14T08:34:31.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[검은색 액체 한 잔이 현대를 창조했다. 현대의 가장 보편적인 중독, 카페인을 생각한다.]]></title>
+        <id>https://www.bookjournalism.com/books/55168</id>
+        <link href="https://www.bookjournalism.com/books/55168"/>
+        <updated>2022-09-14T08:34:20.148Z</updated>
+        <content type="html"><![CDATA[친애하는 나의 커피여]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고 이예람 중사 사망 사건을 수사해온 특검이 수사를 마무리했다. 하지만 아직 끝나지 않았다.]]></title>
         <id>https://www.bookjournalism.com/books/55153</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/54882"/>
         <updated>2022-09-14T07:39:41.072Z</updated>
         <content type="html"><![CDATA[빅테크 수난 시대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태풍이 빠져나간다. 그러나 기후재난은 더 지독하고 불공정해진다.]]></title>
-        <id>https://www.bookjournalism.com/books/54858</id>
-        <link href="https://www.bookjournalism.com/books/54858"/>
-        <updated>2022-09-14T07:39:41.073Z</updated>
-        <content type="html"><![CDATA[3.5퍼센트의 모든 것]]></content>
     </entry>
 </feed>
