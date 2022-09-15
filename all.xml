@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 14:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 15:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,12 +390,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/27a5beb7-2e20-4156-b23d-d72ec010f302_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[왓낫 : 포켓몬 카드 수집가를 모아 유니콘 라이브커머스가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/410</link>
-            <guid>https://www.longblack.co/note/410</guid>
-            <pubDate>Wed, 14 Sep 2022 16:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;대박인 거 알려줄까요? 포브스 읽다가 알았는데, 지난 2년 동안 미국에서 가장 빠르게 성장한 커머스 서비스가 뭐게요? 라이브커머스 앱 왓낫Whatnot! 한 해 <span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220901/1661999934b70de31d4909bc21effdc875a6e75587.png" length="0" type="image/png"/>
+            <title><![CDATA[책바 : 낭만과 현실 사이, 책과 술을 파는 공간을 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/416</link>
+            <guid>https://www.longblack.co/note/416</guid>
+            <pubDate>Thu, 15 Sep 2022 15:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;친구들과 술 한잔을 하는 날이면 어김없이 사업 이야기를 합니다. 회사를 그만두면 어떤 사업을 하고 싶은지, 각자 이런저런 소망을 테이블에 던져요.불현듯 대기업을 <span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220907/16625335347a0c883c1b5327996ea1017cda8d58da.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
