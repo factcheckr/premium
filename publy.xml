@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-09-15T08:37:53.130Z</updated>
+    <updated>2022-09-15T09:28:13.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김대리가 보고서를 빨리 쓰는 비법: 제로 드래프트 작성법]]></title>
+        <id>https://publy.co/content/6972?fr=category</id>
+        <link href="https://publy.co/content/6972?fr=category"/>
+        <updated>2022-09-15T09:27:00.269Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앞자리를 바꾸는 팀장의 5가지 연봉 협상 방법]]></title>
         <id>https://publy.co/content/6894?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6953?fr=category"/>
         <updated>2022-09-07T07:00:37.474Z</updated>
         <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 회사에 딱 맞는 GA4 맞춤 보고서 만들기 (Feat. 실습 가이드)]]></title>
-        <id>https://publy.co/content/6964?fr=category</id>
-        <link href="https://publy.co/content/6964?fr=category"/>
-        <updated>2022-09-06T08:32:18.136Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>

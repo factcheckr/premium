@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 08:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 09:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김대리가 보고서를 빨리 쓰는 비법: 제로 드래프트 작성법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6972?fr=category</link>
+            <guid>https://publy.co/content/6972?fr=category</guid>
+            <pubDate>Thu, 15 Sep 2022 09:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[앞자리를 바꾸는 팀장의 5가지 연봉 협상 방법 (퍼블리)]]></title>
             <link>https://publy.co/content/6894?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6953?fr=category</guid>
             <pubDate>Wed, 07 Sep 2022 07:00:37 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리 회사에 딱 맞는 GA4 맞춤 보고서 만들기 (Feat. 실습 가이드) (퍼블리)]]></title>
-            <link>https://publy.co/content/6964?fr=category</link>
-            <guid>https://publy.co/content/6964?fr=category</guid>
-            <pubDate>Tue, 06 Sep 2022 08:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[복붙하세요! 제안서 쓸 때 알아두면 좋은 분야별 MZ세대 데이터 모음 (캐릿)]]></title>
