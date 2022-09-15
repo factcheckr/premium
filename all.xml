@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 23:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 02:51:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6958?fr=category</guid>
             <pubDate>Tue, 06 Sep 2022 08:32:18 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[복붙하세요! 제안서 쓸 때 알아두면 좋은 분야별 MZ세대 데이터 모음 (캐릿)]]></title>
+            <link>https://www.careet.net/878</link>
+            <guid>https://www.careet.net/878</guid>
+            <pubDate>Thu, 15 Sep 2022 02:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[이 콘텐츠만 북마크해두면 4분기 제안서 시즌이 든든합니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/4d2e4a50-0eaa-407f-a462-ce1d12ac94bb_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[하이틴 다음은? 유럽 중세 시대 콘셉트가 뜬다! (캐릿)]]></title>
@@ -386,7 +394,7 @@
             <link>https://www.longblack.co/note/410</link>
             <guid>https://www.longblack.co/note/410</guid>
             <pubDate>Wed, 14 Sep 2022 16:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C대박인 거 알려줄까요? 포브스 읽다가 알았는데, 지난 2년 동안 미국에서 가장 빠르게 성장한 커머스 서비스가 뭐게요? 라이브커머스 앱 왓낫Whatnot! 한 해 동<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;대박인 거 알려줄까요? 포브스 읽다가 알았는데, 지난 2년 동안 미국에서 가장 빠르게 성장한 커머스 서비스가 뭐게요? 라이브커머스 앱 왓낫Whatnot! 한 해 <span class="circle-punctuation"></span>]]></content:encoded>
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220901/1661999934b70de31d4909bc21effdc875a6e75587.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -685,6 +693,13 @@
             <content:encoded><![CDATA[퇴직과 번아웃 사이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 14 Sep 2022 23:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[검은색 액체 한 잔이 현대를 창조했다. 현대의 가장 보편적인 중독, 카페인을 생각한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/55168</link>
             <guid>https://www.bookjournalism.com/books/55168</guid>
@@ -697,13 +712,6 @@
             <guid>https://www.bookjournalism.com/books/55153</guid>
             <pubDate>Wed, 14 Sep 2022 23:29:35 GMT</pubDate>
             <content:encoded><![CDATA[끝나지 않았다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 14 Sep 2022 23:29:35 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[다양한 체형을 위한 인클루시브 패션이 주목받고 있다. 적은 수요에도 불구하고 이 시장은 성장할 수 있을까? (북저널리즘)]]></title>

@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 23:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 02:51:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복붙하세요! 제안서 쓸 때 알아두면 좋은 분야별 MZ세대 데이터 모음]]></title>
+            <link>https://www.careet.net/878</link>
+            <guid>https://www.careet.net/878</guid>
+            <pubDate>Thu, 15 Sep 2022 02:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[이 콘텐츠만 북마크해두면 4분기 제안서 시즌이 든든합니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/4d2e4a50-0eaa-407f-a462-ce1d12ac94bb_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[하이틴 다음은? 유럽 중세 시대 콘셉트가 뜬다!]]></title>
             <link>https://www.careet.net/870</link>
