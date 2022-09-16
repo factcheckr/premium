@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 23:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 02:50:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,22 @@
             <guid>https://publy.co/content/6953?fr=category</guid>
             <pubDate>Wed, 07 Sep 2022 07:00:37 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[당장 써먹을 수 있는 주접 밈 모음 (캐릿)]]></title>
+            <link>https://www.careet.net/882</link>
+            <guid>https://www.careet.net/882</guid>
+            <pubDate>Fri, 16 Sep 2022 02:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[1분 컷! 오늘 치 주접 고민 덜어가세요.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/87c73ad3-6172-4e23-98f8-a2ec7c3dea42_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[지난 주말 코엑스를 둘러싼 그 줄, 정체가 뭐야? (캐릿)]]></title>
+            <link>https://www.careet.net/877</link>
+            <guid>https://www.careet.net/877</guid>
+            <pubDate>Fri, 16 Sep 2022 02:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[%아라비카부터 W컨셉 오프라인 매장까지! 웨이팅 필수인 떡상 플레이스]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/b1fd6f93-f501-4fa4-a2a1-695915605495_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[복붙하세요! 제안서 쓸 때 알아두면 좋은 분야별 MZ세대 데이터 모음 (캐릿)]]></title>
