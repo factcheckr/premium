@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 07:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 08:37:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회의록 정리에만 1시간 넘게 걸린다면? 10분 컷으로 회의록 작성하는 방법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6973?fr=category</link>
+            <guid>https://publy.co/content/6973?fr=category</guid>
+            <pubDate>Mon, 19 Sep 2022 08:36:33 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2023 뉴미디어 트렌드 : 크리에이터가 이끄는 변화 (퍼블리)]]></title>
             <link>https://publy.co/content/6968?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6959?fr=category</guid>
             <pubDate>Thu, 08 Sep 2022 07:37:07 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 3분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디자이너가 생각하는 일 잘하는 PM의 특징 (퍼블리)]]></title>
-            <link>https://publy.co/content/6920?fr=category</link>
-            <guid>https://publy.co/content/6920?fr=category</guid>
-            <pubDate>Thu, 08 Sep 2022 07:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이거 찾으셨죠? 한글날 마케팅 레퍼런스 모음 (캐릿)]]></title>

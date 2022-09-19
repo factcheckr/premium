@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-09-19T07:45:48.837Z</updated>
+    <updated>2022-09-19T08:37:47.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[회의록 정리에만 1시간 넘게 걸린다면? 10분 컷으로 회의록 작성하는 방법]]></title>
+        <id>https://publy.co/content/6973?fr=category</id>
+        <link href="https://publy.co/content/6973?fr=category"/>
+        <updated>2022-09-19T08:36:33.274Z</updated>
+        <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 뉴미디어 트렌드 : 크리에이터가 이끄는 변화]]></title>
         <id>https://publy.co/content/6968?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6959?fr=category"/>
         <updated>2022-09-08T07:37:07.476Z</updated>
         <content type="html"><![CDATA[아티클 · 3분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디자이너가 생각하는 일 잘하는 PM의 특징]]></title>
-        <id>https://publy.co/content/6920?fr=category</id>
-        <link href="https://publy.co/content/6920?fr=category"/>
-        <updated>2022-09-08T07:37:07.480Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
