@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 14:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 15:30:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -422,12 +422,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/27a5beb7-2e20-4156-b23d-d72ec010f302_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[패트릭 맥기니스 : 포모FOMO 창시자가 일과 일상에서 포모를 다루는 법 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/423</link>
-            <guid>https://www.longblack.co/note/423</guid>
-            <pubDate>Sun, 18 Sep 2022 15:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;요즘 평일 점심시간이면 헬스장에 가서 운동을 합니다. 퇴근 후에는 미국 주식장을 살피고요. 주말이면 성수동에 새로 열린 팝업 공간이나 카페를 투어해요. 이렇게 사<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220913/16630323702d4c3139bd2ff4f3e3f0d0f45b85a378.png" length="0" type="image/png"/>
+            <title><![CDATA[EA스포츠 피파 : 30년 역사의 축구 게임, FIFA 이름이 필요 없어진 이유 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/424</link>
+            <guid>https://www.longblack.co/note/424</guid>
+            <pubDate>Mon, 19 Sep 2022 15:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;게임 잘 안 하는 저도 쫑긋 귀를 세운 소식이 있어요. 축구 게임으로 유명한 피파FIFA 시리즈*가 더 이상 나오지 않는다고요. 제작사 EA스포츠Sports는 성<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220914/1663138100d1ddbb2e5e0fb45e47673b93366bff6d.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
@@ -716,6 +716,90 @@
             <pubDate>Tue, 10 May 2022 02:54:25 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[거품으로 인식되는 NFT 광풍 속에서 BAYC가 성공적 프로젝트로 안착할 수 있던 이유는 뭘까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54971</link>
+            <guid>https://www.bookjournalism.com/books/54971</guid>
+            <pubDate>Mon, 19 Sep 2022 15:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[유가랩스, NFT 파워하우스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엘리자베스 2세가 서거하며 영연방이 흔들리고 있다. 대영제국의 잔상도 영면에 들고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/55356</link>
+            <guid>https://www.bookjournalism.com/books/55356</guid>
+            <pubDate>Mon, 19 Sep 2022 15:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[더 라스트 크라운]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Mon, 19 Sep 2022 15:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[친환경 소재 스타트업에 투자가 몰리고 있다. 투자 불황기, 돈의 흐름은 무엇을 말하고 있나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/55259</link>
+            <guid>https://www.bookjournalism.com/books/55259</guid>
+            <pubDate>Mon, 19 Sep 2022 15:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[유에서 무, 무에서 유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[근로 시간 외 카톡과 조용한 퇴직이 이슈다. 업무와 삶을 분리할 수 없는 지금, 직장은 무엇을 지향해야 하나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/55221</link>
+            <guid>https://www.bookjournalism.com/books/55221</guid>
+            <pubDate>Mon, 19 Sep 2022 15:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[퇴직과 번아웃 사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[검은색 액체 한 잔이 현대를 창조했다. 현대의 가장 보편적인 중독, 카페인을 생각한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/55168</link>
+            <guid>https://www.bookjournalism.com/books/55168</guid>
+            <pubDate>Mon, 19 Sep 2022 15:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[친애하는 나의 커피여]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고 이예람 중사 사망 사건을 수사해온 특검이 수사를 마무리했다. 하지만 아직 끝나지 않았다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/55153</link>
+            <guid>https://www.bookjournalism.com/books/55153</guid>
+            <pubDate>Mon, 19 Sep 2022 15:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[끝나지 않았다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다양한 체형을 위한 인클루시브 패션이 주목받고 있다. 적은 수요에도 불구하고 이 시장은 성장할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/55128</link>
+            <guid>https://www.bookjournalism.com/books/55128</guid>
+            <pubDate>Mon, 19 Sep 2022 15:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[플러스 사이즈를 재정의하다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 신간《블루칼라 프리워커》는 어떻게 시작한 책일까요? 이현구·이다혜·정원진 에디터의 편집 비하인드 스토리를 담았습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/54955</link>
+            <guid>https://www.bookjournalism.com/audio/54955</guid>
+            <pubDate>Mon, 19 Sep 2022 15:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜 북토크 ; 블루칼라 프리워커]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NFT는 혁신인가 사기인가. 투자자와 컬렉터의 마음을 뒤흔든 NFT 아트의 이상과 현실을 조명한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54371</link>
+            <guid>https://www.bookjournalism.com/books/54371</guid>
+            <pubDate>Mon, 19 Sep 2022 15:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[NFT 아트로 읽는 뉴밸류에이션 시대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오의 에피소드 #53에선, 태풍 힌남노가 남긴 기후위기에 관한 질문, 인공지능을 닮아가는 인류의 미래, 빅테크 규제 정책 뒤에 숨겨진 미국과 EU사이의 팽팽한 줄다리기에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/54985</link>
+            <guid>https://www.bookjournalism.com/audio/54985</guid>
+            <pubDate>Mon, 19 Sep 2022 15:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[태풍이 남긴 숙제, AI가 내놓은 정답, 빅테크의 벌금]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고기로 가득 채워진 명절 밥상 앞 죽음 없는 식탁을 꿈꾸는 사람들이 있다. 비건과 논비건 모두 행복한 명절은 가능할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54968</link>
+            <guid>https://www.bookjournalism.com/books/54968</guid>
+            <pubDate>Mon, 19 Sep 2022 15:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[이렇게 맛있는 추석]]></content:encoded>
         </item>
     </channel>
 </rss>
