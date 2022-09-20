@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-09-20T04:55:01.727Z</updated>
+    <updated>2022-09-20T06:12:11.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지금 나에게 필요한 액션은? 성장의 돌파구를 찾아주는 4A1G 마케팅]]></title>
+        <title type="html"><![CDATA[떨어지는 퍼포먼스 효율, 4A1G 마케팅으로 돌파하는 법]]></title>
         <id>https://publy.co/content/6969?fr=category</id>
         <link href="https://publy.co/content/6969?fr=category"/>
         <updated>2022-09-16T08:32:25.379Z</updated>
