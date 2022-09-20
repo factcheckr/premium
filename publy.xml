@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-09-20T16:39:02.338Z</updated>
+    <updated>2022-09-20T17:33:53.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
-    <entry>
-        <title type="html"><![CDATA[빌런 팀원을 대하는 팀장의 6가지 현실 대처법]]></title>
-        <id>https://publy.co/content/6864?fr=category</id>
-        <link href="https://publy.co/content/6864?fr=category"/>
-        <updated>2022-09-20T08:38:33.598Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회의록 정리에만 1시간 넘게 걸린다면? 10분 컷으로 회의록 작성하는 방법]]></title>
-        <id>https://publy.co/content/6973?fr=category</id>
-        <link href="https://publy.co/content/6973?fr=category"/>
-        <updated>2022-09-19T08:36:33.274Z</updated>
-        <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 뉴미디어 트렌드 : 크리에이터가 이끄는 변화]]></title>
-        <id>https://publy.co/content/6968?fr=category</id>
-        <link href="https://publy.co/content/6968?fr=category"/>
-        <updated>2022-09-16T08:32:25.376Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떨어지는 퍼포먼스 효율, 4A1G 마케팅으로 돌파하는 법]]></title>
-        <id>https://publy.co/content/6969?fr=category</id>
-        <link href="https://publy.co/content/6969?fr=category"/>
-        <updated>2022-09-16T08:32:25.379Z</updated>
-        <content type="html"><![CDATA[아티클 · 19분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대리가 보고서를 빨리 쓰는 비법: 제로 드래프트 작성법]]></title>
-        <id>https://publy.co/content/6972?fr=category</id>
-        <link href="https://publy.co/content/6972?fr=category"/>
-        <updated>2022-09-15T09:27:00.269Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앞자리를 바꾸는 팀장의 5가지 연봉 협상 방법]]></title>
-        <id>https://publy.co/content/6894?fr=category</id>
-        <link href="https://publy.co/content/6894?fr=category"/>
-        <updated>2022-09-15T08:36:37.770Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쌀 팔다 개발자가 됐다고? 비전공 개발자의 현실 조언]]></title>
-        <id>https://publy.co/content/6970?fr=category</id>
-        <link href="https://publy.co/content/6970?fr=category"/>
-        <updated>2022-09-14T09:28:31.306Z</updated>
-        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주먹구구식에서 벗어나 제대로 된 팀 업무 체계 만드는 법]]></title>
-        <id>https://publy.co/content/6933?fr=category</id>
-        <link href="https://publy.co/content/6933?fr=category"/>
-        <updated>2022-09-13T08:33:22.148Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지긋지긋한 엑셀 수식 오류와 에러 창, 해결 방법 총정리]]></title>
-        <id>https://publy.co/content/6951?fr=category</id>
-        <link href="https://publy.co/content/6951?fr=category"/>
-        <updated>2022-09-13T08:33:22.152Z</updated>
-        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 저지른 실수, 골든타임 안에 수습하는  방법]]></title>
-        <id>https://publy.co/content/6957?fr=category</id>
-        <link href="https://publy.co/content/6957?fr=category"/>
-        <updated>2022-09-08T07:37:07.472Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
 </feed>
