@@ -1,307 +1,295 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 12:59:07 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[조윤경 : SM이 선택한 최초의 전속 작사가, 감각적 가사의 비밀을 전하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/425</link>
-            <guid>https://www.longblack.co/note/425</guid>
-            <pubDate>Tue, 20 Sep 2022 15:29:44 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;노동요로 케이팝K-POP&nbsp;플레이리스트를 즐겨 들어요! 밝고 경쾌한 멜로디부터 비장함이 느껴지는 일렉트로닉 비트까지. 듣다 보면 바닥난 기운도 솟는 느낌, 뭔지 아<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220916/166331826644298276ce344024390bed6765125d5d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
-            <link>https://www.folin.co/story/2220</link>
-            <guid>https://www.folin.co/story/2220</guid>
-            <pubDate>Thu, 09 Jun 2022 22:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[펨테크 슈퍼 앱 꿈꾸는 '해피문데이' 성장기 (폴인)]]></title>
-            <link>https://www.folin.co/story/2218</link>
-            <guid>https://www.folin.co/story/2218</guid>
-            <pubDate>Thu, 09 Jun 2022 22:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[<li>테크</li>
-                                <li>스타트업</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새로운 고객 경험 설계로 M/S 40% 점유한 캐스퍼 (폴인)]]></title>
-            <link>https://www.folin.co/story/2225</link>
-            <guid>https://www.folin.co/story/2225</guid>
-            <pubDate>Wed, 08 Jun 2022 22:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[필립스코리아 김동희 대표 "컴포트존에만 있지 말길" (폴인)]]></title>
-            <link>https://www.folin.co/story/2219</link>
-            <guid>https://www.folin.co/story/2219</guid>
-            <pubDate>Wed, 08 Jun 2022 22:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['뭐든지 다하는' 갓생기획팀 MD 인터뷰 (폴인)]]></title>
-            <link>https://www.folin.co/story/2217</link>
-            <guid>https://www.folin.co/story/2217</guid>
-            <pubDate>Wed, 08 Jun 2022 04:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구글, 요기요, SK 거친 인재들은 왜 클레온에 왔을까 (폴인)]]></title>
-            <link>https://www.folin.co/story/2212</link>
-            <guid>https://www.folin.co/story/2212</guid>
-            <pubDate>Wed, 08 Jun 2022 04:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['39세 되면 졸업' MZ세대 갓생기획팀 성공기 (폴인)]]></title>
-            <link>https://www.folin.co/story/2216</link>
-            <guid>https://www.folin.co/story/2216</guid>
-            <pubDate>Tue, 07 Jun 2022 01:59:40 GMT</pubDate>
-            <content:encoded><![CDATA[<li>커리어</li>
-                                <li>다양성</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가상인간, 어떻게 마케팅에 활용할까…클레온의 답은 (폴인)]]></title>
-            <link>https://www.folin.co/story/2211</link>
-            <guid>https://www.folin.co/story/2211</guid>
-            <pubDate>Tue, 07 Jun 2022 01:59:40 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[mtl, 브랜딩 최종 목표는 한국의 바우하우스 (폴인)]]></title>
-            <link>https://www.folin.co/story/2210</link>
-            <guid>https://www.folin.co/story/2210</guid>
-            <pubDate>Thu, 02 Jun 2022 22:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단→르세라핌 비주얼 총괄, 김성현이 일하는 법 (폴인)]]></title>
-            <link>https://www.folin.co/story/2199</link>
-            <guid>https://www.folin.co/story/2199</guid>
-            <pubDate>Thu, 02 Jun 2022 22:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["일할 때도 신선함이 중요하다" 이소은의 커리어론 (폴인)]]></title>
-            <link>https://www.folin.co/story/2200</link>
-            <guid>https://www.folin.co/story/2200</guid>
-            <pubDate>Wed, 01 Jun 2022 23:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[<li>워크</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MZ 성지가 된 '더현대 서울'은 어떻게 기획했나 (폴인)]]></title>
-            <link>https://www.folin.co/story/2193</link>
-            <guid>https://www.folin.co/story/2193</guid>
-            <pubDate>Wed, 01 Jun 2022 23:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["운을 만들어내는 3가지는" SK 이동훈 부사장 (폴인)]]></title>
-            <link>https://www.folin.co/story/2207</link>
-            <guid>https://www.folin.co/story/2207</guid>
-            <pubDate>Mon, 30 May 2022 22:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하나의 장르가 된 매거진 B의 NEXT (폴인)]]></title>
-            <link>https://www.folin.co/story/2205</link>
-            <guid>https://www.folin.co/story/2205</guid>
-            <pubDate>Mon, 30 May 2022 22:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매거진 B의 '관점'을 만드는 사람들 (폴인)]]></title>
-            <link>https://www.folin.co/story/2204</link>
-            <guid>https://www.folin.co/story/2204</guid>
-            <pubDate>Sun, 29 May 2022 22:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시몬스는 어떻게 '공간·굿즈·광고' 맛집 됐나 (폴인)]]></title>
-            <link>https://www.folin.co/story/2203</link>
-            <guid>https://www.folin.co/story/2203</guid>
-            <pubDate>Sun, 29 May 2022 22:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[mtl, 디자이너가 F&B 브랜드를 확장하는 방법 (폴인)]]></title>
-            <link>https://www.folin.co/story/2206</link>
-            <guid>https://www.folin.co/story/2206</guid>
-            <pubDate>Thu, 26 May 2022 23:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시몬스 디자인 스튜디오가 일하는 법 (폴인)]]></title>
-            <link>https://www.folin.co/story/2202</link>
-            <guid>https://www.folin.co/story/2202</guid>
-            <pubDate>Thu, 26 May 2022 05:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[<li>공간</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시몬스 그로서리 스토어에 '화살표'가 없는 이유 (폴인)]]></title>
-            <link>https://www.folin.co/story/2178</link>
-            <guid>https://www.folin.co/story/2178</guid>
-            <pubDate>Wed, 25 May 2022 02:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가방, 란제리 디자이너는 왜 '가드너'가 됐을까 (폴인)]]></title>
-            <link>https://www.folin.co/story/2201</link>
-            <guid>https://www.folin.co/story/2201</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[토스의 오리지널 콘텐츠 기획법, 무엇이 달랐나 (폴인)]]></title>
-            <link>https://www.folin.co/story/2198</link>
-            <guid>https://www.folin.co/story/2198</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>스타트업</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콘텐츠 비즈니스 뚝심, 텍스처·디퍼 만든 볼드피리어드 (폴인)]]></title>
-            <link>https://www.folin.co/story/2197</link>
-            <guid>https://www.folin.co/story/2197</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[13년 차 마케터가 말하는 민음사가 MZ와 소통하는 법 (폴인)]]></title>
-            <link>https://www.folin.co/story/2191</link>
-            <guid>https://www.folin.co/story/2191</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10만 구독자 사로잡은 민음사TV 기획 비결은 (폴인)]]></title>
-            <link>https://www.folin.co/story/2190</link>
-            <guid>https://www.folin.co/story/2190</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자→현대차 거친 미래 이동 연구자가 일하는 법 (폴인)]]></title>
-            <link>https://www.folin.co/story/2189</link>
-            <guid>https://www.folin.co/story/2189</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티의 미래이동연구자, 왜 라이프스타일 말할까 (폴인)]]></title>
-            <link>https://www.folin.co/story/2188</link>
-            <guid>https://www.folin.co/story/2188</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['퇴사자 0명', 토스 콘텐츠 조직이 일하는 법 (폴인)]]></title>
-            <link>https://www.folin.co/story/2194</link>
-            <guid>https://www.folin.co/story/2194</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>스타트업</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["나는 콘텐츠 창작자" 애널리스트 고태봉의 자기소개법 (폴인)]]></title>
-            <link>https://www.folin.co/story/2187</link>
-            <guid>https://www.folin.co/story/2187</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콘텐츠로 '본업 완성' 노리는 토스 브랜드커뮤니케이션팀 (폴인)]]></title>
-            <link>https://www.folin.co/story/2192</link>
-            <guid>https://www.folin.co/story/2192</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>스타트업</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[자동차만 20년 넘게 다룬 애널리스트의 분석법, 뭘까? (폴인)]]></title>
-            <link>https://www.folin.co/story/2186</link>
-            <guid>https://www.folin.co/story/2186</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['현명한 중간'을 지키는 12년 차 브랜드, 삭스타즈 (폴인)]]></title>
-            <link>https://www.folin.co/story/2185</link>
-            <guid>https://www.folin.co/story/2185</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[야놀자, 여행 → 맛집 서비스 확장 비결은? (폴인)]]></title>
-            <link>https://www.folin.co/story/2162</link>
-            <guid>https://www.folin.co/story/2162</guid>
-            <pubDate>Tue, 24 May 2022 06:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AI 다루던 엔지니어의 카카오모빌리티 CTO 성장기 (폴인)]]></title>
-            <link>https://www.folin.co/story/2184</link>
-            <guid>https://www.folin.co/story/2184</guid>
-            <pubDate>Thu, 12 May 2022 05:30:12 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티 유승일 CTO가 주목하는 '넥스트 테크' (폴인)]]></title>
-            <link>https://www.folin.co/story/2183</link>
-            <guid>https://www.folin.co/story/2183</guid>
-            <pubDate>Tue, 10 May 2022 23:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["직접 하면 보인다" 애널리스트가 쿠팡 체험서 배운 것 (폴인)]]></title>
-            <link>https://www.folin.co/story/2182</link>
-            <guid>https://www.folin.co/story/2182</guid>
-            <pubDate>Tue, 10 May 2022 02:54:25 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주간 배짱이&우아한형제들 컨퍼런스 기획 비하인드 (폴인)]]></title>
-            <link>https://www.folin.co/story/2177</link>
-            <guid>https://www.folin.co/story/2177</guid>
-            <pubDate>Tue, 10 May 2022 02:54:25 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://factcheckr.github.io/premium/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-09-21T14:01:12.727Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
+        <id>https://www.folin.co/story/2220</id>
+        <link href="https://www.folin.co/story/2220"/>
+        <updated>2022-06-09T22:24:46.660Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펨테크 슈퍼 앱 꿈꾸는 '해피문데이' 성장기 (폴인)]]></title>
+        <id>https://www.folin.co/story/2218</id>
+        <link href="https://www.folin.co/story/2218"/>
+        <updated>2022-06-09T22:24:46.693Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 고객 경험 설계로 M/S 40% 점유한 캐스퍼 (폴인)]]></title>
+        <id>https://www.folin.co/story/2225</id>
+        <link href="https://www.folin.co/story/2225"/>
+        <updated>2022-06-08T22:23:39.804Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[필립스코리아 김동희 대표 "컴포트존에만 있지 말길" (폴인)]]></title>
+        <id>https://www.folin.co/story/2219</id>
+        <link href="https://www.folin.co/story/2219"/>
+        <updated>2022-06-08T22:23:39.804Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뭐든지 다하는' 갓생기획팀 MD 인터뷰 (폴인)]]></title>
+        <id>https://www.folin.co/story/2217</id>
+        <link href="https://www.folin.co/story/2217"/>
+        <updated>2022-06-08T04:37:28.948Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 요기요, SK 거친 인재들은 왜 클레온에 왔을까 (폴인)]]></title>
+        <id>https://www.folin.co/story/2212</id>
+        <link href="https://www.folin.co/story/2212"/>
+        <updated>2022-06-08T04:37:28.948Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['39세 되면 졸업' MZ세대 갓생기획팀 성공기 (폴인)]]></title>
+        <id>https://www.folin.co/story/2216</id>
+        <link href="https://www.folin.co/story/2216"/>
+        <updated>2022-06-07T01:59:40.426Z</updated>
+        <content type="html"><![CDATA[<li>커리어</li>
+                                <li>다양성</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상인간, 어떻게 마케팅에 활용할까…클레온의 답은 (폴인)]]></title>
+        <id>https://www.folin.co/story/2211</id>
+        <link href="https://www.folin.co/story/2211"/>
+        <updated>2022-06-07T01:59:40.426Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mtl, 브랜딩 최종 목표는 한국의 바우하우스 (폴인)]]></title>
+        <id>https://www.folin.co/story/2210</id>
+        <link href="https://www.folin.co/story/2210"/>
+        <updated>2022-06-02T22:23:23.535Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단→르세라핌 비주얼 총괄, 김성현이 일하는 법 (폴인)]]></title>
+        <id>https://www.folin.co/story/2199</id>
+        <link href="https://www.folin.co/story/2199"/>
+        <updated>2022-06-02T22:23:23.554Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["일할 때도 신선함이 중요하다" 이소은의 커리어론 (폴인)]]></title>
+        <id>https://www.folin.co/story/2200</id>
+        <link href="https://www.folin.co/story/2200"/>
+        <updated>2022-06-01T23:25:56.878Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MZ 성지가 된 '더현대 서울'은 어떻게 기획했나 (폴인)]]></title>
+        <id>https://www.folin.co/story/2193</id>
+        <link href="https://www.folin.co/story/2193"/>
+        <updated>2022-06-01T23:25:56.879Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["운을 만들어내는 3가지는" SK 이동훈 부사장 (폴인)]]></title>
+        <id>https://www.folin.co/story/2207</id>
+        <link href="https://www.folin.co/story/2207"/>
+        <updated>2022-05-30T22:25:43.142Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하나의 장르가 된 매거진 B의 NEXT (폴인)]]></title>
+        <id>https://www.folin.co/story/2205</id>
+        <link href="https://www.folin.co/story/2205"/>
+        <updated>2022-05-30T22:25:43.143Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매거진 B의 '관점'을 만드는 사람들 (폴인)]]></title>
+        <id>https://www.folin.co/story/2204</id>
+        <link href="https://www.folin.co/story/2204"/>
+        <updated>2022-05-29T22:24:55.579Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시몬스는 어떻게 '공간·굿즈·광고' 맛집 됐나 (폴인)]]></title>
+        <id>https://www.folin.co/story/2203</id>
+        <link href="https://www.folin.co/story/2203"/>
+        <updated>2022-05-29T22:24:55.581Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mtl, 디자이너가 F&B 브랜드를 확장하는 방법 (폴인)]]></title>
+        <id>https://www.folin.co/story/2206</id>
+        <link href="https://www.folin.co/story/2206"/>
+        <updated>2022-05-26T23:22:08.800Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시몬스 디자인 스튜디오가 일하는 법 (폴인)]]></title>
+        <id>https://www.folin.co/story/2202</id>
+        <link href="https://www.folin.co/story/2202"/>
+        <updated>2022-05-26T05:27:16.000Z</updated>
+        <content type="html"><![CDATA[<li>공간</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시몬스 그로서리 스토어에 '화살표'가 없는 이유 (폴인)]]></title>
+        <id>https://www.folin.co/story/2178</id>
+        <link href="https://www.folin.co/story/2178"/>
+        <updated>2022-05-25T02:04:33.292Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가방, 란제리 디자이너는 왜 '가드너'가 됐을까 (폴인)]]></title>
+        <id>https://www.folin.co/story/2201</id>
+        <link href="https://www.folin.co/story/2201"/>
+        <updated>2022-05-24T06:31:14.390Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토스의 오리지널 콘텐츠 기획법, 무엇이 달랐나 (폴인)]]></title>
+        <id>https://www.folin.co/story/2198</id>
+        <link href="https://www.folin.co/story/2198"/>
+        <updated>2022-05-24T06:31:14.394Z</updated>
+        <content type="html"><![CDATA[<li>스타트업</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘텐츠 비즈니스 뚝심, 텍스처·디퍼 만든 볼드피리어드 (폴인)]]></title>
+        <id>https://www.folin.co/story/2197</id>
+        <link href="https://www.folin.co/story/2197"/>
+        <updated>2022-05-24T06:31:14.395Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13년 차 마케터가 말하는 민음사가 MZ와 소통하는 법 (폴인)]]></title>
+        <id>https://www.folin.co/story/2191</id>
+        <link href="https://www.folin.co/story/2191"/>
+        <updated>2022-05-24T06:31:14.395Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10만 구독자 사로잡은 민음사TV 기획 비결은 (폴인)]]></title>
+        <id>https://www.folin.co/story/2190</id>
+        <link href="https://www.folin.co/story/2190"/>
+        <updated>2022-05-24T06:31:14.397Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성전자→현대차 거친 미래 이동 연구자가 일하는 법 (폴인)]]></title>
+        <id>https://www.folin.co/story/2189</id>
+        <link href="https://www.folin.co/story/2189"/>
+        <updated>2022-05-24T06:31:14.402Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오모빌리티의 미래이동연구자, 왜 라이프스타일 말할까 (폴인)]]></title>
+        <id>https://www.folin.co/story/2188</id>
+        <link href="https://www.folin.co/story/2188"/>
+        <updated>2022-05-24T06:31:14.404Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['퇴사자 0명', 토스 콘텐츠 조직이 일하는 법 (폴인)]]></title>
+        <id>https://www.folin.co/story/2194</id>
+        <link href="https://www.folin.co/story/2194"/>
+        <updated>2022-05-24T06:31:14.405Z</updated>
+        <content type="html"><![CDATA[<li>스타트업</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["나는 콘텐츠 창작자" 애널리스트 고태봉의 자기소개법 (폴인)]]></title>
+        <id>https://www.folin.co/story/2187</id>
+        <link href="https://www.folin.co/story/2187"/>
+        <updated>2022-05-24T06:31:14.407Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘텐츠로 '본업 완성' 노리는 토스 브랜드커뮤니케이션팀 (폴인)]]></title>
+        <id>https://www.folin.co/story/2192</id>
+        <link href="https://www.folin.co/story/2192"/>
+        <updated>2022-05-24T06:31:14.409Z</updated>
+        <content type="html"><![CDATA[<li>스타트업</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자동차만 20년 넘게 다룬 애널리스트의 분석법, 뭘까? (폴인)]]></title>
+        <id>https://www.folin.co/story/2186</id>
+        <link href="https://www.folin.co/story/2186"/>
+        <updated>2022-05-24T06:31:14.411Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현명한 중간'을 지키는 12년 차 브랜드, 삭스타즈 (폴인)]]></title>
+        <id>https://www.folin.co/story/2185</id>
+        <link href="https://www.folin.co/story/2185"/>
+        <updated>2022-05-24T06:31:14.413Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[야놀자, 여행 → 맛집 서비스 확장 비결은? (폴인)]]></title>
+        <id>https://www.folin.co/story/2162</id>
+        <link href="https://www.folin.co/story/2162"/>
+        <updated>2022-05-24T06:31:14.415Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 다루던 엔지니어의 카카오모빌리티 CTO 성장기 (폴인)]]></title>
+        <id>https://www.folin.co/story/2184</id>
+        <link href="https://www.folin.co/story/2184"/>
+        <updated>2022-05-12T05:30:12.200Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오모빌리티 유승일 CTO가 주목하는 '넥스트 테크' (폴인)]]></title>
+        <id>https://www.folin.co/story/2183</id>
+        <link href="https://www.folin.co/story/2183"/>
+        <updated>2022-05-10T23:26:01.715Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["직접 하면 보인다" 애널리스트가 쿠팡 체험서 배운 것 (폴인)]]></title>
+        <id>https://www.folin.co/story/2182</id>
+        <link href="https://www.folin.co/story/2182"/>
+        <updated>2022-05-10T02:54:25.672Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간 배짱이&우아한형제들 컨퍼런스 기획 비하인드 (폴인)]]></title>
+        <id>https://www.folin.co/story/2177</id>
+        <link href="https://www.folin.co/story/2177"/>
+        <updated>2022-05-10T02:54:25.678Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+</feed>

@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>롱블랙</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 12:59:07 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[조윤경 : SM이 선택한 최초의 전속 작사가, 감각적 가사의 비밀을 전하다]]></title>
-            <link>https://www.longblack.co/note/425</link>
-            <guid>https://www.longblack.co/note/425</guid>
-            <pubDate>Tue, 20 Sep 2022 15:29:44 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;노동요로 케이팝K-POP&nbsp;플레이리스트를 즐겨 들어요! 밝고 경쾌한 멜로디부터 비장함이 느껴지는 일렉트로닉 비트까지. 듣다 보면 바닥난 기운도 솟는 느낌, 뭔지 아<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220916/166331826644298276ce344024390bed6765125d5d.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.longblack.co/</id>
+    <title>롱블랙</title>
+    <updated>2022-09-21T14:01:12.724Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.longblack.co/favicon.ico</icon>
+</feed>
