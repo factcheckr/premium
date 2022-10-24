@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-10-24T18:46:29.221Z</updated>
+    <updated>2022-10-24T19:34:30.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
-    <entry>
-        <title type="html"><![CDATA[이해가 안되는 요즘 MZ, 그들은 왜 그럴까?]]></title>
-        <id>https://publy.co/content/7013?fr=category</id>
-        <link href="https://publy.co/content/7013?fr=category"/>
-        <updated>2022-10-24T18:45:21.290Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장인의 평판관리: 회사에서 살아남는 존재감 키우기]]></title>
-        <id>https://publy.co/content/7004?fr=category</id>
-        <link href="https://publy.co/content/7004?fr=category"/>
-        <updated>2022-10-24T18:45:21.291Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀장을 위한 퍼블리 플래너]]></title>
-        <id>https://publy.co/content/7016?fr=category</id>
-        <link href="https://publy.co/content/7016?fr=category"/>
-        <updated>2022-10-24T18:45:21.299Z</updated>
-        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30분 만에 배우는 PPT 디자인 시각화 노하우 모음집]]></title>
-        <id>https://publy.co/content/7015?fr=category</id>
-        <link href="https://publy.co/content/7015?fr=category"/>
-        <updated>2022-10-24T18:45:21.299Z</updated>
-        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구매를 부르는 뷰티 브랜드의 비주얼 기획 노하우 (feat. 제품 촬영팁)]]></title>
-        <id>https://publy.co/content/7008?fr=category</id>
-        <link href="https://publy.co/content/7008?fr=category"/>
-        <updated>2022-10-24T18:45:21.299Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생일파티 준비보다 쉬운 행사 가이드(체크리스트 제공)]]></title>
-        <id>https://publy.co/content/7000?fr=category</id>
-        <link href="https://publy.co/content/7000?fr=category"/>
-        <updated>2022-10-24T18:45:21.300Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니 출신 마케터의 캠페인 기획 노하우: 시나리오 기획법]]></title>
-        <id>https://publy.co/content/6982?fr=category</id>
-        <link href="https://publy.co/content/6982?fr=category"/>
-        <updated>2022-10-24T18:45:21.301Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팔리는 뷰티 브랜드의 7가지 카피라이팅 스킬]]></title>
-        <id>https://publy.co/content/6975?fr=category</id>
-        <link href="https://publy.co/content/6975?fr=category"/>
-        <updated>2022-10-24T18:45:21.302Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 디지털 트렌드: 집이 병원이 될 수 있다? '디지털 헬스케어']]></title>
-        <id>https://publy.co/content/6987?fr=category</id>
-        <link href="https://publy.co/content/6987?fr=category"/>
-        <updated>2022-10-24T18:45:21.303Z</updated>
-        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상 간단하게 '한 번에 이해되는 PPT'로 만드는 방법]]></title>
-        <id>https://publy.co/content/7010?fr=category</id>
-        <link href="https://publy.co/content/7010?fr=category"/>
-        <updated>2022-10-24T18:45:21.304Z</updated>
-        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
-    </entry>
 </feed>
