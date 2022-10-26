@@ -2,78 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/premium/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-26T14:32:16.065Z</updated>
+    <updated>2022-10-26T15:30:01.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[기획서에서는 알려주지 않는 PM의 리스크 관리 노하우 (퍼블리)]]></title>
-        <id>https://publy.co/content/6885?fr=category</id>
-        <link href="https://publy.co/content/6885?fr=category"/>
-        <updated>2022-10-26T14:31:03.038Z</updated>
-        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글러가 알려주는 '까다로운 경영진도 설득하는 보고 노하우'(feat. SCQA 프레임워크) (퍼블리)]]></title>
-        <id>https://publy.co/content/7017?fr=category</id>
-        <link href="https://publy.co/content/7017?fr=category"/>
-        <updated>2022-10-26T14:31:03.038Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평가를 받아들이지 못하는 팀원도 한번에 납득시키는 평가면담법 (퍼블리)]]></title>
-        <id>https://publy.co/content/7012?fr=category</id>
-        <link href="https://publy.co/content/7012?fr=category"/>
-        <updated>2022-10-26T14:31:03.039Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼쩜삼의 TV 광고, 우리는 이런 점이 달랐습니다 (퍼블리)]]></title>
-        <id>https://publy.co/content/6997?fr=category</id>
-        <link href="https://publy.co/content/6997?fr=category"/>
-        <updated>2022-10-26T14:31:03.041Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이해가 안되는 요즘 MZ, 그들은 왜 그럴까? (퍼블리)]]></title>
-        <id>https://publy.co/content/7013?fr=category</id>
-        <link href="https://publy.co/content/7013?fr=category"/>
-        <updated>2022-10-26T14:31:03.042Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장인의 평판관리: 회사에서 살아남는 존재감 키우기 (퍼블리)]]></title>
-        <id>https://publy.co/content/7004?fr=category</id>
-        <link href="https://publy.co/content/7004?fr=category"/>
-        <updated>2022-10-26T14:31:03.050Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀장을 위한 퍼블리 플래너 (퍼블리)]]></title>
-        <id>https://publy.co/content/7016?fr=category</id>
-        <link href="https://publy.co/content/7016?fr=category"/>
-        <updated>2022-10-26T14:31:03.052Z</updated>
-        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30분 만에 배우는 PPT 디자인 시각화 노하우 모음집 (퍼블리)]]></title>
-        <id>https://publy.co/content/7015?fr=category</id>
-        <link href="https://publy.co/content/7015?fr=category"/>
-        <updated>2022-10-26T14:31:03.055Z</updated>
-        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구매를 부르는 뷰티 브랜드의 비주얼 기획 노하우 (feat. 제품 촬영팁) (퍼블리)]]></title>
-        <id>https://publy.co/content/7008?fr=category</id>
-        <link href="https://publy.co/content/7008?fr=category"/>
-        <updated>2022-10-26T14:31:03.058Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말 행사, 이것만 보면 끝! 준비 가이드(체크리스트 제공) (퍼블리)]]></title>
-        <id>https://publy.co/content/7000?fr=category</id>
-        <link href="https://publy.co/content/7000?fr=category"/>
-        <updated>2022-10-26T14:31:03.059Z</updated>
-        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[8평→355평, 국내 1세대 편집숍 루밍 박근하 대표 (폴인)]]></title>
         <id>https://www.folin.co/story/2220</id>
