@@ -2,7 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-10-28T13:59:22.779Z</updated>
+    <updated>2022-10-28T14:32:59.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리테일테인먼트 : 니만 마커스와 쇼필즈, 콘텐츠 기획회사가 된 백화점]]></title>
+        <id>https://www.longblack.co/note/459</id>
+        <link href="https://www.longblack.co/note/459"/>
+        <updated>2022-10-28T14:31:29.884Z</updated>
+        <content type="html"><![CDATA[비즈니스에서는 흐름을 앞서 내다보는 것이 중요합니다. 하지만 두루뭉술한 메가 트렌드로는 감각을 쌓을 수 없습니다. 롱블랙이 패션·공간·콘텐츠·F&amp;B·커머스 산업에서 뾰족한 키워드를<span class="circle-punctuation"></span>]]></content>
+    </entry>
 </feed>
