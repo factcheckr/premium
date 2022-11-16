@@ -2,7 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-11-16T16:49:09.083Z</updated>
+    <updated>2022-11-16T17:28:57.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트러프 : 마음껏 놀며 만든 핫소스, 럭셔리가 되다]]></title>
+        <id>https://www.longblack.co/note/480</id>
+        <link href="https://www.longblack.co/note/480"/>
+        <updated>2022-11-16T17:27:31.104Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;매운 거 좋아해요? 전 없으면 안 될 정도! 스리라차Sriracha*부터 마라탕까지 다 좋아하죠. 마트에 가면 핫소스hot sauce 코너는 꼭 둘러보고요. 얼마<span class="circle-punctuation"></span>]]></content>
+    </entry>
 </feed>
