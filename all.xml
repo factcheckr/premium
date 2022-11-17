@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 02:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 03:46:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -332,6 +332,13 @@
             <content:encoded><![CDATA[네트워크에 투자합니다]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[만져야 비로소 알 수 있는 것들이 있다. 이끼가 머금고 있는 지구의 기억 같은 것들 말이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/56679</link>
             <guid>https://www.bookjournalism.com/books/56679</guid>
@@ -344,13 +351,6 @@
             <guid>https://www.bookjournalism.com/books/56668</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[마을은 언제 사라지나?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[버림받는 것은 쉽다. 한 사람의 잘못된 신념이 트위터를 망가트렸다. (북저널리즘)]]></title>
