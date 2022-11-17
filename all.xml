@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 14:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 15:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,11 +326,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/52c80c17-e8ee-43bb-8db6-fcf9fd93b125_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[트러프 : 마음껏 놀며 만든 핫소스, 럭셔리가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/480</link>
-            <guid>https://www.longblack.co/note/480</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;매운 거 좋아해요? 전 없으면 안 될 정도! 스리라차Sriracha*부터 마라탕까지 다 좋아하죠. 마트에 가면 핫소스hot sauce 코너는 꼭 둘러보고요. 얼마<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[게이즈 : IT 라이프스타일 편집숍이 말하는 기술과 감각의 균형점 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/482</link>
+            <guid>https://www.longblack.co/note/482</guid>
+            <pubDate>Thu, 17 Nov 2022 15:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;B가 차를 바꿨어요. 기념으로 선물 하나 하려고 찾아보다가, 완전 마음에 드는 걸 발견했어요. 선글라스 낀 불독 모양의 지독G/DOG 방향제! 금빛의 반짝거리는 <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소득 수준에 따라 부양에 대한 인식이 달라지고 있다. ‘낮은 소득 수준’과 ‘부양’이란 단어를 교차하면 무엇이 보이나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/56714</link>
+            <guid>https://www.bookjournalism.com/books/56714</guid>
+            <pubDate>Thu, 17 Nov 2022 15:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[보이지 않는 손]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세계 2위 암호화폐 거래소가 파산했다. 코인 시장에 남은 참여자들은 어떤 가능성을 보는가? (북저널리즘)]]></title>
@@ -408,13 +415,6 @@
             <guid>https://www.bookjournalism.com/books/56536</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[도서관의 불평등]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마켓컬리가 화장품 가게를 열었다. 상장을 앞둔 컬리는 어떤 미래를 꿈꾸는가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56510</link>
-            <guid>https://www.bookjournalism.com/books/56510</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[컬리의 넥스트 스텝]]></content:encoded>
         </item>
     </channel>
 </rss>

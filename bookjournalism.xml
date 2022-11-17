@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-11-17T14:22:52.507Z</updated>
+    <updated>2022-11-17T15:26:51.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[소득 수준에 따라 부양에 대한 인식이 달라지고 있다. ‘낮은 소득 수준’과 ‘부양’이란 단어를 교차하면 무엇이 보이나.]]></title>
+        <id>https://www.bookjournalism.com/books/56714</id>
+        <link href="https://www.bookjournalism.com/books/56714"/>
+        <updated>2022-11-17T15:26:39.839Z</updated>
+        <content type="html"><![CDATA[보이지 않는 손]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 2위 암호화폐 거래소가 파산했다. 코인 시장에 남은 참여자들은 어떤 가능성을 보는가?]]></title>
         <id>https://www.bookjournalism.com/books/56691</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/56536"/>
         <updated>2022-11-16T17:28:46.902Z</updated>
         <content type="html"><![CDATA[도서관의 불평등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마켓컬리가 화장품 가게를 열었다. 상장을 앞둔 컬리는 어떤 미래를 꿈꾸는가.]]></title>
-        <id>https://www.bookjournalism.com/books/56510</id>
-        <link href="https://www.bookjournalism.com/books/56510"/>
-        <updated>2022-11-16T17:28:46.903Z</updated>
-        <content type="html"><![CDATA[컬리의 넥스트 스텝]]></content>
     </entry>
 </feed>
