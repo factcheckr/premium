@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 03:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 04:30:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6963?fr=category</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대에게 먹히는 키워드? K-POP 가사에 답이 있다! (캐릿)]]></title>
+            <link>https://www.careet.net/937</link>
+            <guid>https://www.careet.net/937</guid>
+            <pubDate>Thu, 17 Nov 2022 04:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[사회적인 편견을 깨는 가사에 주목하는 Z세대]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/e5b43054-c35f-4778-80e7-d15f89c19414_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[10만 원짜리 달력 사려고 줄 선다? Z세대 달력 소비 근황 (캐릿)]]></title>
