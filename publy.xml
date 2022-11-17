@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-11-16T23:25:09.941Z</updated>
+    <updated>2022-11-17T02:04:31.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
@@ -55,7 +55,7 @@
         <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미팅 회피형 인간을 위한 협상 스킬 7가지]]></title>
+        <title type="html"><![CDATA[막내도, 대리님도 미팅에서 원하는 걸 얻어오는 스킬 7가지]]></title>
         <id>https://publy.co/content/7046?fr=category</id>
         <link href="https://publy.co/content/7046?fr=category"/>
         <updated>2022-11-16T17:27:13.580Z</updated>
