@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 04:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6977?fr=category</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“중요한 건 꺾이지 않는 마음” 어디서 나온 말이야? (캐릿)]]></title>
+            <link>https://www.careet.net/936</link>
+            <guid>https://www.careet.net/936</guid>
+            <pubDate>Fri, 18 Nov 2022 05:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[롤드컵 우승팀 선수가 한 인터뷰가 화제가 됐다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/1647024c-1eca-4800-ae9f-cfb152d50bd1_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[출시하자마자 인기 차트 1위를 찍은 앱의 정체는? (캐릿)]]></title>
