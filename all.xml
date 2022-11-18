@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 07:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 08:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀원이 인정하는 일잘 팀장의 3가지 조건 (퍼블리)]]></title>
+            <link>https://publy.co/content/7001?fr=category</link>
+            <guid>https://publy.co/content/7001?fr=category</guid>
+            <pubDate>Fri, 18 Nov 2022 08:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[G마켓, 쏘카, 발란은 마케팅에 얼마나 쓸까? 마케팅 비용 레퍼런스 모음 (퍼블리)]]></title>
             <link>https://publy.co/content/7007?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7046?fr=category</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팀원 레벨별 & 문서 종류별 팀장의 보고서 피드백 방법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6977?fr=category</link>
-            <guid>https://publy.co/content/6977?fr=category</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“중요한 건 꺾이지 않는 마음” 어디서 나온 말이야? (캐릿)]]></title>

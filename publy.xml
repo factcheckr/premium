@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-11-18T07:22:36.445Z</updated>
+    <updated>2022-11-18T08:30:27.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[팀원이 인정하는 일잘 팀장의 3가지 조건]]></title>
+        <id>https://publy.co/content/7001?fr=category</id>
+        <link href="https://publy.co/content/7001?fr=category"/>
+        <updated>2022-11-18T08:29:14.204Z</updated>
+        <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[G마켓, 쏘카, 발란은 마케팅에 얼마나 쓸까? 마케팅 비용 레퍼런스 모음]]></title>
         <id>https://publy.co/content/7007?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7046?fr=category"/>
         <updated>2022-11-16T17:27:13.580Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀원 레벨별 & 문서 종류별 팀장의 보고서 피드백 방법]]></title>
-        <id>https://publy.co/content/6977?fr=category</id>
-        <link href="https://publy.co/content/6977?fr=category"/>
-        <updated>2022-11-16T17:27:13.584Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>
