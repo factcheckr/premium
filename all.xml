@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 14:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 15:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,11 +342,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/52c80c17-e8ee-43bb-8db6-fcf9fd93b125_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[게이즈 : IT 라이프스타일 편집숍이 말하는 기술과 감각의 균형점 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/482</link>
-            <guid>https://www.longblack.co/note/482</guid>
-            <pubDate>Thu, 17 Nov 2022 15:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;B가 차를 바꿨어요. 기념으로 선물 하나 하려고 찾아보다가, 완전 마음에 드는 걸 발견했어요. 선글라스 낀 불독 모양의 지독G/DOG 방향제! 금빛의 반짝거리는 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[뉴욕타임스 편집장의 글을 잘 쓰는 법 : 팩트만으로는 설득할 수 없다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/485</link>
+            <guid>https://www.longblack.co/note/485</guid>
+            <pubDate>Fri, 18 Nov 2022 15:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;‘글을 쓴다’고 하면 왠지 거창해 보입니다. 하지만 글은 누구나 쓰죠. 업무 이메일과 보고서를 쓰고, 친구와 메시지를 주고받고, 블로그 포스팅을 하고, 유튜브 영<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #63에선, 일론 머스크의 트위터, 세계 2위 암호화폐 거래소 FTX의 파산, 부양에 대한 인식 차이와 영 케어러, 미국의 오피오이드 전염병 사태에 관해 이야기합니다. (북저널리즘)]]></title>
