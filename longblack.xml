@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-11-19T14:21:23.730Z</updated>
+    <updated>2022-11-19T15:24:33.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뉴욕타임스 편집장의 글을 잘 쓰는 법 : 팩트만으로는 설득할 수 없다]]></title>
-        <id>https://www.longblack.co/note/485</id>
-        <link href="https://www.longblack.co/note/485"/>
-        <updated>2022-11-18T15:25:04.110Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;‘글을 쓴다’고 하면 왠지 거창해 보입니다. 하지만 글은 누구나 쓰죠. 업무 이메일과 보고서를 쓰고, 친구와 메시지를 주고받고, 블로그 포스팅을 하고, 유튜브 영<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2022-11-19T15:23:30.536Z</updated>
+        <content type="html"><![CDATA[K가 일기장에 적은 지난주 롱블랙의 문장
+
+“후배들이 와서 물어요. ‘이번에 로스팅기를 큰 거로 바꾸려고 하는데 괜찮을까요?’ 그럴 때면 저는 말합니다. ‘네 꿈의 크기에 달려있다.’ 저도 처음에 테라로사를 이 정도로 규모를 키울 생각은 하지 않았어요. 커피를 공부<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
