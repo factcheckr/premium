@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-11-20T14:21:12.810Z</updated>
+    <updated>2022-11-20T15:24:06.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2022-11-19T15:23:30.536Z</updated>
-        <content type="html"><![CDATA[K가 일기장에 적은 지난주 롱블랙의 문장
-
-“후배들이 와서 물어요. ‘이번에 로스팅기를 큰 거로 바꾸려고 하는데 괜찮을까요?’ 그럴 때면 저는 말합니다. ‘네 꿈의 크기에 달려있다.’ 저도 처음에 테라로사를 이 정도로 규모를 키울 생각은 하지 않았어요. 커피를 공부<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[김연수 : 당연한 것들에 질문할 때, 소설가는 쓰기 시작한다]]></title>
+        <id>https://www.longblack.co/note/486</id>
+        <link href="https://www.longblack.co/note/486"/>
+        <updated>2022-11-20T15:23:06.596Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;어느 때보다 다정함이 필요한 시기입니다. 뉴스엔 비참한 소식이 가득하고, 주변엔 아픈 사람이 많죠. 밝은 미래를 장담하기 어려워지는 건 그래서입니다.그럴 때 김연<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
