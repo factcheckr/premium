@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 07:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 08:32:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매출 12배 상승시킨 마케터가 추천하는 3가지 프로모션 기획법(노션 템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/6981?fr=category</link>
+            <guid>https://publy.co/content/6981?fr=category</guid>
+            <pubDate>Mon, 21 Nov 2022 08:30:44 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팀원이 인정하는 일잘 팀장의 3가지 조건 (퍼블리)]]></title>
             <link>https://publy.co/content/7001?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7040?fr=category</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[막내도, 대리도 미팅에서 원하는 걸 얻어오는 스킬 7가지 (퍼블리)]]></title>
-            <link>https://publy.co/content/7046?fr=category</link>
-            <guid>https://publy.co/content/7046?fr=category</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대는 ‘비하인드 스토리’가 있는 광고에 반응한다? 영상 광고 레퍼런스 3 (캐릿)]]></title>
