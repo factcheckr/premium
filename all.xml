@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 14:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 15:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,11 +350,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/52c80c17-e8ee-43bb-8db6-fcf9fd93b125_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김연수 : 당연한 것들에 질문할 때, 소설가는 쓰기 시작한다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/486</link>
-            <guid>https://www.longblack.co/note/486</guid>
-            <pubDate>Sun, 20 Nov 2022 15:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;어느 때보다 다정함이 필요한 시기입니다. 뉴스엔 비참한 소식이 가득하고, 주변엔 아픈 사람이 많죠. 밝은 미래를 장담하기 어려워지는 건 그래서입니다.그럴 때 김연<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[룰루 밀러 : ‘물고기는 존재하지 않는다’고 인정할 때, 우리가 얻는 것 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/487</link>
+            <guid>https://www.longblack.co/note/487</guid>
+            <pubDate>Mon, 21 Nov 2022 15:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;『물고기는 존재하지 않는다』. 처음엔 책 제목을 보고 웃었습니다. ‘무슨 말도 안 되는 소리야.’ 싶었죠. 그러면서도 홀린 듯 책을 샀어요. 며칠 뒤 책장을 덮을<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/56780</link>
+            <guid>https://www.bookjournalism.com/books/56780</guid>
+            <pubDate>Mon, 21 Nov 2022 15:26:41 GMT</pubDate>
+            <content:encoded><![CDATA[잠을 잃은 사회]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사우디아라비아의 미래형 도시 네옴 시티는 친환경 스마트 도시를 꿈꾼다. 기적 같은 구상은 자원의 저주를 끊을 수 있을까? (북저널리즘)]]></title>
@@ -432,13 +439,6 @@
             <guid>https://www.bookjournalism.com/books/56598</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[중간 선거 101]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[르노와 구글이 손을 잡는다. 소프트웨어가 모든 것을 정의하는 시대, 자동차는 공장 밖에서 완성된다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56568</link>
-            <guid>https://www.bookjournalism.com/books/56568</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[소프트웨어가 정의하는 시대]]></content:encoded>
         </item>
     </channel>
 </rss>

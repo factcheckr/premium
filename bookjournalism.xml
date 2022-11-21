@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-11-21T14:22:16.065Z</updated>
+    <updated>2022-11-21T15:26:53.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까?]]></title>
+        <id>https://www.bookjournalism.com/books/56780</id>
+        <link href="https://www.bookjournalism.com/books/56780"/>
+        <updated>2022-11-21T15:26:41.583Z</updated>
+        <content type="html"><![CDATA[잠을 잃은 사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사우디아라비아의 미래형 도시 네옴 시티는 친환경 스마트 도시를 꿈꾼다. 기적 같은 구상은 자원의 저주를 끊을 수 있을까?]]></title>
         <id>https://www.bookjournalism.com/books/56768</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/56598"/>
         <updated>2022-11-16T17:28:46.832Z</updated>
         <content type="html"><![CDATA[중간 선거 101]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르노와 구글이 손을 잡는다. 소프트웨어가 모든 것을 정의하는 시대, 자동차는 공장 밖에서 완성된다.]]></title>
-        <id>https://www.bookjournalism.com/books/56568</id>
-        <link href="https://www.bookjournalism.com/books/56568"/>
-        <updated>2022-11-16T17:28:46.882Z</updated>
-        <content type="html"><![CDATA[소프트웨어가 정의하는 시대]]></content>
     </entry>
 </feed>
