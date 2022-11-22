@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 16:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 17:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;롱블랙 피플, 출퇴근하면서 뭐 읽어요? 롱블랙 말고요! 전 3년 전부터 이슬아 작가의 뉴스레터 ‘일간 이슬아’ 읽고 있어요. 『나는 울 때마다 엄마 얼굴이 된다』<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[용산 시대의 상징, 도어스테핑이 잠정 중단됐다. 진짜 문제는 소통이 아니라 전략의 부재다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/56804</link>
+            <guid>https://www.bookjournalism.com/books/56804</guid>
+            <pubDate>Tue, 22 Nov 2022 17:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[소통의 조건]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/56780</link>
             <guid>https://www.bookjournalism.com/books/56780</guid>
@@ -440,13 +447,6 @@
             <guid>https://www.bookjournalism.com/audio/56608</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[사라지는 도서관, 똑똑해지는 자동차, 예측불허 중간선거]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레드 웨이브는 없었고 유권자의 마음은 복잡하다. 미국 중간 선거가 말하는 것은 무엇인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56598</link>
-            <guid>https://www.bookjournalism.com/books/56598</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[중간 선거 101]]></content:encoded>
         </item>
     </channel>
 </rss>

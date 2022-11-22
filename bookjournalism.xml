@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-11-22T16:34:48.460Z</updated>
+    <updated>2022-11-22T17:24:24.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[용산 시대의 상징, 도어스테핑이 잠정 중단됐다. 진짜 문제는 소통이 아니라 전략의 부재다.]]></title>
+        <id>https://www.bookjournalism.com/books/56804</id>
+        <link href="https://www.bookjournalism.com/books/56804"/>
+        <updated>2022-11-22T17:24:12.495Z</updated>
+        <content type="html"><![CDATA[소통의 조건]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까?]]></title>
         <id>https://www.bookjournalism.com/books/56780</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/56608"/>
         <updated>2022-11-16T17:28:46.824Z</updated>
         <content type="html"><![CDATA[사라지는 도서관, 똑똑해지는 자동차, 예측불허 중간선거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레드 웨이브는 없었고 유권자의 마음은 복잡하다. 미국 중간 선거가 말하는 것은 무엇인가.]]></title>
-        <id>https://www.bookjournalism.com/books/56598</id>
-        <link href="https://www.bookjournalism.com/books/56598"/>
-        <updated>2022-11-16T17:28:46.832Z</updated>
-        <content type="html"><![CDATA[중간 선거 101]]></content>
     </entry>
 </feed>
