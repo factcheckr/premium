@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 02:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 03:43:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 100명에게 물었습니다 “트렌드의 시작과 끝, 어떻게 알아차려요?”]]></title>
+            <link>https://www.careet.net/893</link>
+            <guid>https://www.careet.net/893</guid>
+            <pubDate>Tue, 22 Nov 2022 03:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[트렌드의 시작과 끝, Z세대는 어떻게 체감하고 있을까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/c50c9646-fe8f-41ec-b32a-325b1fb0add2_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대는 ‘비하인드 스토리’가 있는 광고에 반응한다? 영상 광고 레퍼런스 3]]></title>
             <link>https://www.careet.net/940</link>
