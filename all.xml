@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 14:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 15:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,11 +358,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/52c80c17-e8ee-43bb-8db6-fcf9fd93b125_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[룰루 밀러 : ‘물고기는 존재하지 않는다’고 인정할 때, 우리가 얻는 것 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/487</link>
-            <guid>https://www.longblack.co/note/487</guid>
-            <pubDate>Mon, 21 Nov 2022 15:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;『물고기는 존재하지 않는다』. 처음엔 책 제목을 보고 웃었습니다. ‘무슨 말도 안 되는 소리야.’ 싶었죠. 그러면서도 홀린 듯 책을 샀어요. 며칠 뒤 책장을 덮을<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[이슬아 : 일상을 감각으로 풀어내, 문학계에 새로운 문법을 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/488</link>
+            <guid>https://www.longblack.co/note/488</guid>
+            <pubDate>Tue, 22 Nov 2022 15:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;롱블랙 피플, 출퇴근하면서 뭐 읽어요? 롱블랙 말고요! 전 3년 전부터 이슬아 작가의 뉴스레터 ‘일간 이슬아’ 읽고 있어요. 『나는 울 때마다 엄마 얼굴이 된다』<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까? (북저널리즘)]]></title>
