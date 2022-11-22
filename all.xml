@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 07:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 08:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무작정 검색은 그만! 뇌피셜을 오피셜로 만드는 자료 조사 방법(feat. 자료 사이트) (퍼블리)]]></title>
+            <link>https://publy.co/content/7047?fr=category</link>
+            <guid>https://publy.co/content/7047?fr=category</guid>
+            <pubDate>Tue, 22 Nov 2022 08:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 리더의 한 해 돌아보기: 연간 회고법 (템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7022?fr=category</link>
+            <guid>https://publy.co/content/7022?fr=category</guid>
+            <pubDate>Tue, 22 Nov 2022 08:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[매출 12배 상승시킨 마케터가 추천하는 3가지 프로모션 기획법(노션 템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/6981?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/7025?fr=category</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소비가 달라진다: 버리고 남겨진 것에서 시작하는 일본의 친환경 트렌드 (퍼블리)]]></title>
-            <link>https://publy.co/content/7035?fr=category</link>
-            <guid>https://publy.co/content/7035?fr=category</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연말 성과 정리 끝! 포트폴리오 작성법 총정리 (퍼블리)]]></title>
-            <link>https://publy.co/content/7040?fr=category</link>
-            <guid>https://publy.co/content/7040?fr=category</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대 100명에게 물었습니다 “트렌드의 시작과 끝, 어떻게 알아차려요?” (캐릿)]]></title>
