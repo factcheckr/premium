@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 09:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 10:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,7 @@
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아무도 안 알려주는 설문조사 질문 작성법(템플릿 제공) (퍼블리)]]></title>
+            <title><![CDATA[고객이 진짜 원하는 걸 찾아내는 설문지 작성법(템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/7038?fr=category</link>
             <guid>https://publy.co/content/7038?fr=category</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
