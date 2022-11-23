@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 23:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 01:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7025?fr=category</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대 사원이 자발적으로 참여하는 연말 회식이란 이런 것! (캐릿)]]></title>
+            <link>https://www.careet.net/944</link>
+            <guid>https://www.careet.net/944</guid>
+            <pubDate>Wed, 23 Nov 2022 01:51:59 GMT</pubDate>
+            <content:encoded><![CDATA[연말 회식, 이렇게 준비하세요]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/230af88e-5c76-48af-8fdd-b024cc25a48e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 100명에게 물었습니다 “트렌드의 시작과 끝, 어떻게 알아차려요?” (캐릿)]]></title>
@@ -372,18 +380,18 @@
             <content:encoded><![CDATA[소통의 조건]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56780</link>
-            <guid>https://www.bookjournalism.com/books/56780</guid>
-            <pubDate>Mon, 21 Nov 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[잠을 잃은 사회]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/56780</link>
+            <guid>https://www.bookjournalism.com/books/56780</guid>
+            <pubDate>Mon, 21 Nov 2022 15:26:41 GMT</pubDate>
+            <content:encoded><![CDATA[잠을 잃은 사회]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사우디아라비아의 미래형 도시 네옴 시티는 친환경 스마트 도시를 꿈꾼다. 기적 같은 구상은 자원의 저주를 끊을 수 있을까? (북저널리즘)]]></title>
