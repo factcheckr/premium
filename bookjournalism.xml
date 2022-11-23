@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-11-23T14:22:11.449Z</updated>
+    <updated>2022-11-23T15:24:28.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[15년간 디즈니를 이끈 전설의 밥 아이거 CEO가 복귀했다. 디즈니 심폐 소생술은 성공할까.]]></title>
+        <id>https://www.bookjournalism.com/books/56854</id>
+        <link href="https://www.bookjournalism.com/books/56854"/>
+        <updated>2022-11-23T15:24:17.871Z</updated>
+        <content type="html"><![CDATA[디즈니 살리기 대작전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산맥과 바다는 국가의 가능성을 결정했다. 그러나 이 모든 것이 바뀐다. 지정학의 시대는 끝났다.]]></title>
         <id>https://www.bookjournalism.com/books/56818</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/56634"/>
         <updated>2022-11-16T17:28:46.819Z</updated>
         <content type="html"><![CDATA[나는 네가 트위터에 저지른 일을 알고 있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 거대 약국들이 오피오이드 전염병 사태에 합의금을 지급한다. 약물 중독은 시스템의 문제다.]]></title>
-        <id>https://www.bookjournalism.com/books/56619</id>
-        <link href="https://www.bookjournalism.com/books/56619"/>
-        <updated>2022-11-16T17:28:46.823Z</updated>
-        <content type="html"><![CDATA[세상이 허락한 마약]]></content>
     </entry>
 </feed>

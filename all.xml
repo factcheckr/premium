@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 14:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 15:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,11 +374,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/52c80c17-e8ee-43bb-8db6-fcf9fd93b125_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이슬아 : 일상을 감각으로 풀어내, 문학계에 새로운 문법을 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/488</link>
-            <guid>https://www.longblack.co/note/488</guid>
-            <pubDate>Tue, 22 Nov 2022 15:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;롱블랙 피플, 출퇴근하면서 뭐 읽어요? 롱블랙 말고요! 전 3년 전부터 이슬아 작가의 뉴스레터 ‘일간 이슬아’ 읽고 있어요. 『나는 울 때마다 엄마 얼굴이 된다』<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[박준 : 어떤 말들은 죽지 않고, 사람 마음 속에 오래 살아남는다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/489</link>
+            <guid>https://www.longblack.co/note/489</guid>
+            <pubDate>Wed, 23 Nov 2022 15:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;‘시는 어렵다’고들 생각하시죠. 저도 그랬어요. 박준의 시를 읽기 전까지는요. ‘사람이 문장 하나로 위로받을 수 있구나’ 처음 알았습니다. 연인과 다툰 뒤엔 그의<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[15년간 디즈니를 이끈 전설의 밥 아이거 CEO가 복귀했다. 디즈니 심폐 소생술은 성공할까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/56854</link>
+            <guid>https://www.bookjournalism.com/books/56854</guid>
+            <pubDate>Wed, 23 Nov 2022 15:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니 살리기 대작전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[산맥과 바다는 국가의 가능성을 결정했다. 그러나 이 모든 것이 바뀐다. 지정학의 시대는 끝났다. (북저널리즘)]]></title>
@@ -456,13 +463,6 @@
             <guid>https://www.bookjournalism.com/books/56634</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[나는 네가 트위터에 저지른 일을 알고 있다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국 거대 약국들이 오피오이드 전염병 사태에 합의금을 지급한다. 약물 중독은 시스템의 문제다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56619</link>
-            <guid>https://www.bookjournalism.com/books/56619</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[세상이 허락한 마약]]></content:encoded>
         </item>
     </channel>
 </rss>
