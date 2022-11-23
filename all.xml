@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 01:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,14 @@
             <pubDate>Wed, 23 Nov 2022 01:51:59 GMT</pubDate>
             <content:encoded><![CDATA[연말 회식, 이렇게 준비하세요]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/230af88e-5c76-48af-8fdd-b024cc25a48e_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[출제자가 직접 족집게 과외 해드립니다! 2023 트렌드 능력고사 정답과 해설 (캐릿)]]></title>
+            <link>https://www.careet.net/942</link>
+            <guid>https://www.careet.net/942</guid>
+            <pubDate>Wed, 23 Nov 2022 03:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[트능 정답, 캐릿에서 확인하세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/7787a97a-b9db-4d02-abfb-798eebce1f85_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 100명에게 물었습니다 “트렌드의 시작과 끝, 어떻게 알아차려요?” (캐릿)]]></title>
