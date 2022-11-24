@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 07:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 08:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말/새해 메일 인사말 40개 모음 (상황별 인사짤 4종 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7034?fr=category</link>
+            <guid>https://publy.co/content/7034?fr=category</guid>
+            <pubDate>Thu, 24 Nov 2022 08:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 6분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2023 마케터를 위한 트렌드 노트: 띠부띠부씰이 돈이 된다고? (퍼블리)]]></title>
             <link>https://publy.co/content/7048?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7024?fr=category</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고객이 진짜 원하는 걸 찾아내는 설문지 작성법(템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7038?fr=category</link>
-            <guid>https://publy.co/content/7038?fr=category</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[컷세권부터 햇세권까지. Z세대가 지갑 여는 O세권은? (캐릿)]]></title>
@@ -417,6 +417,13 @@
             <content:encoded><![CDATA[소통의 조건]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[폭탄이 떨어지는 우크라이나 한복판에서 그들이 택한 것은 자원봉사였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53975</link>
+            <guid>https://www.bookjournalism.com/books/53975</guid>
+            <pubDate>Thu, 24 Nov 2022 08:29:07 GMT</pubDate>
+            <content:encoded><![CDATA[전쟁을 짊어진 사람들]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/56780</link>
             <guid>https://www.bookjournalism.com/books/56780</guid>
@@ -464,13 +471,6 @@
             <guid>https://www.bookjournalism.com/books/56668</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[마을은 언제 사라지나?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[버림받는 것은 쉽다. 한 사람의 잘못된 신념이 트위터를 망가트렸다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56634</link>
-            <guid>https://www.bookjournalism.com/books/56634</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[나는 네가 트위터에 저지른 일을 알고 있다]]></content:encoded>
         </item>
     </channel>
 </rss>

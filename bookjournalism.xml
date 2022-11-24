@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-11-24T07:21:06.601Z</updated>
+    <updated>2022-11-24T08:29:17.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://www.bookjournalism.com/books/56804"/>
         <updated>2022-11-22T17:24:12.495Z</updated>
         <content type="html"><![CDATA[소통의 조건]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폭탄이 떨어지는 우크라이나 한복판에서 그들이 택한 것은 자원봉사였다.]]></title>
+        <id>https://www.bookjournalism.com/books/53975</id>
+        <link href="https://www.bookjournalism.com/books/53975"/>
+        <updated>2022-11-24T08:29:07.959Z</updated>
+        <content type="html"><![CDATA[전쟁을 짊어진 사람들]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까?]]></title>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/56668"/>
         <updated>2022-11-16T17:28:46.790Z</updated>
         <content type="html"><![CDATA[마을은 언제 사라지나?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버림받는 것은 쉽다. 한 사람의 잘못된 신념이 트위터를 망가트렸다.]]></title>
-        <id>https://www.bookjournalism.com/books/56634</id>
-        <link href="https://www.bookjournalism.com/books/56634"/>
-        <updated>2022-11-16T17:28:46.819Z</updated>
-        <content type="html"><![CDATA[나는 네가 트위터에 저지른 일을 알고 있다]]></content>
     </entry>
 </feed>
