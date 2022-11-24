@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 14:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 15:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,11 +382,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/52c80c17-e8ee-43bb-8db6-fcf9fd93b125_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[박준 : 어떤 말들은 죽지 않고, 사람 마음 속에 오래 살아남는다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/489</link>
-            <guid>https://www.longblack.co/note/489</guid>
-            <pubDate>Wed, 23 Nov 2022 15:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;‘시는 어렵다’고들 생각하시죠. 저도 그랬어요. 박준의 시를 읽기 전까지는요. ‘사람이 문장 하나로 위로받을 수 있구나’ 처음 알았습니다. 연인과 다툰 뒤엔 그의<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[강윤정 : 편집자가 선택한 최선들이 모여, 한 권의 책이 된다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/490</link>
+            <guid>https://www.longblack.co/note/490</guid>
+            <pubDate>Thu, 24 Nov 2022 15:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;서점에 놓인 책은 작가 혼자 만드는 것이 아닙니다. 책의 마지막 페이지를 펼쳐 볼까요. 펴낸 곳부터 편집, 디자인, 마케팅, 인쇄를 맡은 이들이 나옵니다. 작가의<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI가 그려낸 이미지가 인류를 홀리고 있다. 불분명한 것은 예술의 경계다. 분명한 것은 기술의 현재다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/56944</link>
+            <guid>https://www.bookjournalism.com/books/56944</guid>
+            <pubDate>Thu, 24 Nov 2022 15:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[이것은 미술이 아니다?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[15년간 디즈니를 이끈 전설의 밥 아이거 CEO가 복귀했다. 디즈니 심폐 소생술은 성공할까. (북저널리즘)]]></title>
@@ -464,13 +471,6 @@
             <guid>https://www.bookjournalism.com/books/56679</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[이끼를 만져야 알 수 있는 것]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스페인의 한 마을 전체가 매물이 됐다. 이 매력적인 도시는 마을이 아닌 관광지로 남으려 한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56668</link>
-            <guid>https://www.bookjournalism.com/books/56668</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[마을은 언제 사라지나?]]></content:encoded>
         </item>
     </channel>
 </rss>
