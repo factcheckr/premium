@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 23:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 01:56:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7038?fr=category</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[컷세권부터 햇세권까지. Z세대가 지갑 여는 O세권은? (캐릿)]]></title>
+            <link>https://www.careet.net/943</link>
+            <guid>https://www.careet.net/943</guid>
+            <pubDate>Thu, 24 Nov 2022 01:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[편세권 킥세권에 이은 Z세대 필수 인프라 정리해드림]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/546c1bb5-29b4-4384-aa14-902081646b6b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 사원이 자발적으로 참여하는 연말 회식이란 이런 것! (캐릿)]]></title>
@@ -388,6 +396,13 @@
             <content:encoded><![CDATA[디즈니 살리기 대작전]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[산맥과 바다는 국가의 가능성을 결정했다. 그러나 이 모든 것이 바뀐다. 지정학의 시대는 끝났다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/56818</link>
             <guid>https://www.bookjournalism.com/books/56818</guid>
@@ -400,13 +415,6 @@
             <guid>https://www.bookjournalism.com/books/56804</guid>
             <pubDate>Tue, 22 Nov 2022 17:24:12 GMT</pubDate>
             <content:encoded><![CDATA[소통의 조건]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까? (북저널리즘)]]></title>
