@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 08:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 09:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아무도 대리에게 회의 진행하는 법은 안 알려줬다 (퍼블리)]]></title>
+            <link>https://publy.co/content/7066?fr=category</link>
+            <guid>https://publy.co/content/7066?fr=category</guid>
+            <pubDate>Fri, 25 Nov 2022 09:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2023 마케터를 위한 트렌드 노트: 8만원이 넘는 망고빙수를 왜 사먹어? (퍼블리)]]></title>
             <link>https://publy.co/content/7049?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7002?fr=category</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 트렌드의 거의 모든 것 (feat. 키워드 정리 미리보기) (퍼블리)]]></title>
-            <link>https://publy.co/content/7036?fr=category</link>
-            <guid>https://publy.co/content/7036?fr=category</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 3분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[밀레니얼 취미로 여겨지던 <건담>이 ‘리브랜딩’ 통해 Z세대 팬덤 만든 비결 (캐릿)]]></title>
