@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 05:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 06:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7024?fr=category</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밀레니얼 취미로 여겨지던 <건담>이 ‘리브랜딩’ 통해 Z세대 팬덤 만든 비결 (캐릿)]]></title>
+            <link>https://www.careet.net/953</link>
+            <guid>https://www.careet.net/953</guid>
+            <pubDate>Fri, 25 Nov 2022 06:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[‘오뚜기 순후추콘’부터 ‘수성의 마녀’까지, Z세대의 ‘좋아요’를 한꺼번에 받은 이 주의 떡상템]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/3310ea66-d3be-4000-bef0-7d99f1d92e1a_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대는 왜 NFT 마케팅에 관심이 없을까? (캐릿)]]></title>
