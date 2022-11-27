@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-11-27T14:20:23.248Z</updated>
+    <updated>2022-11-27T15:22:19.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2022-11-26T15:21:26.956Z</updated>
-        <content type="html"><![CDATA[L이 마음속에 담은 지난주 롱블랙의 문장
-
-“나와 다른 현실을 살아가는 타인이 써 놓은 문장 모두가 나에게 와닿지 않더라도, 어떤 부분에서 ‘내게 필요한 문장을 이렇게 표현해 뒀네?’ 하고 명징하게 다가오는 순간이 있어요. 한 문장이라도 내 마음에 깊게 쓸리는 것이<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[김명중 : 폴 매카트니부터 을지로 골목까지, 관찰자의 눈을 갈고 닦다]]></title>
+        <id>https://www.longblack.co/note/496</id>
+        <link href="https://www.longblack.co/note/496"/>
+        <updated>2022-11-27T15:21:20.103Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;매일 롱블랙 노트를 준비할 때마다 느껴요. 잘 찍은 사진 한 장이 좋은 글만큼 중요하단 걸요.그래서일까요. 인터뷰 현장에 뛰어든 사진작가에겐 ‘사명감’이 돋보여요<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
