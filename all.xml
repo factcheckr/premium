@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 16:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 17:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -413,6 +413,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;와우, 에스티로더 그룹Estée Lauder Companies이 패션 브랜드 톰 포드TOM FORD를 완전히 인수했대. 28억달러(약 3조7914억원)에 말이야.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[중국과 대만의 두 정치 지도자가 동시에 흔들린다. 위기를 수놓은 색이 의미하는 바는 무엇인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57012</link>
+            <guid>https://www.bookjournalism.com/books/57012</guid>
+            <pubDate>Mon, 28 Nov 2022 17:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[화이트 페이퍼, 블루 웨이브]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[비즈니스에서 이모지는 소통 수단과 상품으로 정착했다. 디지털 소통의 시대에 이모지는 어떤 문제인가? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/56984</link>
             <guid>https://www.bookjournalism.com/books/56984</guid>
@@ -488,13 +495,6 @@
             <guid>https://www.bookjournalism.com/audio/56749</guid>
             <pubDate>Fri, 18 Nov 2022 10:27:05 GMT</pubDate>
             <content:encoded><![CDATA[트위터와 코인은 이별할 때, 보이지 않는 곳엔 시스템이 필요한 때]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소득 수준에 따라 부양에 대한 인식이 달라지고 있다. ‘낮은 소득 수준’과 ‘부양’이란 단어를 교차하면 무엇이 보이나. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56714</link>
-            <guid>https://www.bookjournalism.com/books/56714</guid>
-            <pubDate>Thu, 17 Nov 2022 15:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[보이지 않는 손]]></content:encoded>
         </item>
     </channel>
 </rss>
