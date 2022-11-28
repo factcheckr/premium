@@ -4,9 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 05:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 06:29:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀을 리드하는 리더의 지표 설정법 (퍼블리)]]></title>
+            <link>https://publy.co/content/7044?fr=category</link>
+            <guid>https://publy.co/content/7044?fr=category</guid>
+            <pubDate>Mon, 28 Nov 2022 06:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인스타툰의 기획부터 발행 후까지, 다 알려드림 (퍼블리)]]></title>
+            <link>https://publy.co/content/7063?fr=category</link>
+            <guid>https://publy.co/content/7063?fr=category</guid>
+            <pubDate>Mon, 28 Nov 2022 06:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기록으로 업무 관리의 고수되는 법(feat. 노션 템플릿) (퍼블리)]]></title>
+            <link>https://publy.co/content/7068?fr=category</link>
+            <guid>https://publy.co/content/7068?fr=category</guid>
+            <pubDate>Mon, 28 Nov 2022 06:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[아무도 대리에게 회의 진행하는 법은 안 알려줬다 (퍼블리)]]></title>
             <link>https://publy.co/content/7066?fr=category</link>
@@ -55,27 +76,6 @@
             <guid>https://publy.co/content/6981?fr=category</guid>
             <pubDate>Mon, 21 Nov 2022 08:30:44 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팀원이 인정하는 일잘 팀장의 3가지 조건 (퍼블리)]]></title>
-            <link>https://publy.co/content/7001?fr=category</link>
-            <guid>https://publy.co/content/7001?fr=category</guid>
-            <pubDate>Fri, 18 Nov 2022 08:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[G마켓, 쏘카, 발란은 마케팅에 얼마나 쓸까? 마케팅 비용 레퍼런스 모음 (퍼블리)]]></title>
-            <link>https://publy.co/content/7007?fr=category</link>
-            <guid>https://publy.co/content/7007?fr=category</guid>
-            <pubDate>Thu, 17 Nov 2022 08:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리더를 위한 진짜 OKR 목표 설정 및 적용법 (OKR 노션 템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7002?fr=category</link>
-            <guid>https://publy.co/content/7002?fr=category</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[담당자 일 잘하네! 높은 브랜딩 효과를 본 오프라인 공간2 (캐릿)]]></title>
