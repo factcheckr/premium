@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 08:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 09:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인스타툰의 기획부터 발행 후까지, 다 알려드림 (퍼블리)]]></title>
+            <title><![CDATA[인스타툰의 기획부터 발행 후까지, 다 알려드림(노션 템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/7063?fr=category</link>
             <guid>https://publy.co/content/7063?fr=category</guid>
             <pubDate>Mon, 28 Nov 2022 06:28:35 GMT</pubDate>
