@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 23:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 01:50:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[담당자 일 잘하네! 높은 브랜딩 효과를 본 오프라인 공간2]]></title>
+            <link>https://www.careet.net/947</link>
+            <guid>https://www.careet.net/947</guid>
+            <pubDate>Mon, 28 Nov 2022 01:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[이 주의 일 잘한 브랜드: GS25, 아모레퍼시픽]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/f5eea1ed-343e-4999-85d9-25a3b252c0bb_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[밀레니얼 취미로 여겨지던 <건담>이 ‘리브랜딩’ 통해 Z세대 팬덤 만든 비결]]></title>
             <link>https://www.careet.net/953</link>
