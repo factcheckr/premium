@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 16:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 17:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -421,6 +421,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;학생 때부터 좋아한 광고인이 있습니다. 카피라이터 박웅현. ‘나이는 숫자에 불과하다(KTF)’, ‘진심이 짓는다(대림산업)’, ‘의자가 인생을 바꾼다(시디즈)’와<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[기후재난 지원 기금 조성에 대한 합의가 COP27의 블랙홀이 됐다. 그 속에서 놓친 것은 무엇인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57026</link>
+            <guid>https://www.bookjournalism.com/books/57026</guid>
+            <pubDate>Tue, 29 Nov 2022 17:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[이산화탄소와 냉소 사이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[중국과 대만의 두 정치 지도자가 동시에 흔들린다. 위기를 수놓은 색이 의미하는 바는 무엇인가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57012</link>
             <guid>https://www.bookjournalism.com/books/57012</guid>
@@ -496,13 +503,6 @@
             <guid>https://www.bookjournalism.com/books/56768</guid>
             <pubDate>Sun, 20 Nov 2022 18:28:20 GMT</pubDate>
             <content:encoded><![CDATA[엔드 오브 오일 머니]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오의 에피소드 #63에선, 일론 머스크의 트위터, 세계 2위 암호화폐 거래소 FTX의 파산, 부양에 대한 인식 차이와 영 케어러, 미국의 오피오이드 전염병 사태에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/56749</link>
-            <guid>https://www.bookjournalism.com/audio/56749</guid>
-            <pubDate>Fri, 18 Nov 2022 10:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[트위터와 코인은 이별할 때, 보이지 않는 곳엔 시스템이 필요한 때]]></content:encoded>
         </item>
     </channel>
 </rss>
