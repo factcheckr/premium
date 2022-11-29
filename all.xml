@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 07:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 08:29:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데일리 로그: 회사 밖 일상을 유연하게 관리하는 법(노션 템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7067?fr=category</link>
+            <guid>https://publy.co/content/7067?fr=category</guid>
+            <pubDate>Tue, 29 Nov 2022 08:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팀을 리드하는 리더의 지표 설정법 (퍼블리)]]></title>
             <link>https://publy.co/content/7044?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7022?fr=category</guid>
             <pubDate>Tue, 22 Nov 2022 08:33:10 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매출 12배 상승시킨 마케터가 추천하는 3가지 프로모션 기획법(노션 템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/6981?fr=category</link>
-            <guid>https://publy.co/content/6981?fr=category</guid>
-            <pubDate>Mon, 21 Nov 2022 08:30:44 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이거 찾으셨죠? Z세대 반응 좋은 달력 굿즈 레퍼런스.zip (캐릿)]]></title>
