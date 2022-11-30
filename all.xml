@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 01:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 02:55:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -436,18 +436,18 @@
             <content:encoded><![CDATA[이산화탄소와 냉소 사이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[중국과 대만의 두 정치 지도자가 동시에 흔들린다. 위기를 수놓은 색이 의미하는 바는 무엇인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57012</link>
-            <guid>https://www.bookjournalism.com/books/57012</guid>
-            <pubDate>Mon, 28 Nov 2022 17:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[화이트 페이퍼, 블루 웨이브]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중국과 대만의 두 정치 지도자가 동시에 흔들린다. 위기를 수놓은 색이 의미하는 바는 무엇인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57012</link>
+            <guid>https://www.bookjournalism.com/books/57012</guid>
+            <pubDate>Mon, 28 Nov 2022 17:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[화이트 페이퍼, 블루 웨이브]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비즈니스에서 이모지는 소통 수단과 상품으로 정착했다. 디지털 소통의 시대에 이모지는 어떤 문제인가? (북저널리즘)]]></title>
