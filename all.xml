@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 23:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 01:52:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[데일리 로그: 회사 밖 일상을 유연하게 관리하는 법(노션 템플릿 제공) (퍼블리)]]></title>
+            <title><![CDATA[데일리 로그: 일상 속 작은 것도 놓치지 않는 기록법(노션 템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/7067?fr=category</link>
             <guid>https://publy.co/content/7067?fr=category</guid>
             <pubDate>Tue, 29 Nov 2022 08:28:22 GMT</pubDate>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7022?fr=category</guid>
             <pubDate>Tue, 22 Nov 2022 08:33:10 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[11월 인급동으로 보는 Z세대 픽! 화제의 인물 (캐릿)]]></title>
+            <link>https://www.careet.net/954</link>
+            <guid>https://www.careet.net/954</guid>
+            <pubDate>Wed, 30 Nov 2022 01:50:37 GMT</pubDate>
+            <content:encoded><![CDATA[마츠다 부장, 셜록현준이 누구야?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/ff7f2de0-0dec-4c02-9c84-1f5021a6daf0_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이거 찾으셨죠? Z세대 반응 좋은 달력 굿즈 레퍼런스.zip (캐릿)]]></title>
