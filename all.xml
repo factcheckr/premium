@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 14:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 15:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -422,11 +422,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/52c80c17-e8ee-43bb-8db6-fcf9fd93b125_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[박웅현 : 문제 해결이라는 본질에 집중하면, 내 일이 확장된다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/492</link>
-            <guid>https://www.longblack.co/note/492</guid>
-            <pubDate>Tue, 29 Nov 2022 16:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;학생 때부터 좋아한 광고인이 있습니다. 카피라이터 박웅현. ‘나이는 숫자에 불과하다(KTF)’, ‘진심이 짓는다(대림산업)’, ‘의자가 인생을 바꾼다(시디즈)’와<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[아르센 벵거 : 49경기 무패의 전설, 아름다운 축구를 완성한 비결 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/495</link>
+            <guid>https://www.longblack.co/note/495</guid>
+            <pubDate>Wed, 30 Nov 2022 15:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;카타르 월드컵이 한창입니다. 축구 보는 재미에 빠졌어요. 한국 경기는 물론, 지나간 골 장면을 찾아보며 현장의 에너지를 느낍니다.&nbsp;경기를 보다가 관중석의 한 인물<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕시가 정신 질환을 앓는 홈리스들을 관리하는 방침을 발표했다. 홈리스를 감독하면 도시 범죄율은 낮아질까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57056</link>
+            <guid>https://www.bookjournalism.com/books/57056</guid>
+            <pubDate>Wed, 30 Nov 2022 15:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[집 잃은 사람들]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[힘의 방향이 바뀌면 돈의 방향도 바뀐다. 신자유주의가 끝났다. IMF의 시대도 끝났다. (북저널리즘)]]></title>
@@ -504,13 +511,6 @@
             <guid>https://www.bookjournalism.com/books/53975</guid>
             <pubDate>Thu, 24 Nov 2022 08:29:07 GMT</pubDate>
             <content:encoded><![CDATA[전쟁을 짊어진 사람들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56780</link>
-            <guid>https://www.bookjournalism.com/books/56780</guid>
-            <pubDate>Mon, 21 Nov 2022 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[잠을 잃은 사회]]></content:encoded>
         </item>
     </channel>
 </rss>
