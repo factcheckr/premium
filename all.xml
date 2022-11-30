@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 06:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 07:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 기획자를 위한 트렌드 모니터: 2023년판 새로운 ‘만원의 행복’ (퍼블리)]]></title>
+            <link>https://publy.co/content/7052?fr=category</link>
+            <guid>https://publy.co/content/7052?fr=category</guid>
+            <pubDate>Wed, 30 Nov 2022 07:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팬덤 없어도 팔린다! 캐릭터/IP 세계관을 이용한 상세페이지 노하우 (퍼블리)]]></title>
             <link>https://publy.co/content/7033?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7048?fr=category</guid>
             <pubDate>Wed, 23 Nov 2022 08:28:10 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무작정 검색은 그만! 뇌피셜을 오피셜로 만드는 자료 조사 방법(feat. 자료 사이트) (퍼블리)]]></title>
-            <link>https://publy.co/content/7047?fr=category</link>
-            <guid>https://publy.co/content/7047?fr=category</guid>
-            <pubDate>Tue, 22 Nov 2022 08:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[11월 인급동으로 보는 Z세대 픽! 화제의 인물 (캐릿)]]></title>
