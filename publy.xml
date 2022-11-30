@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-11-30T07:21:38.370Z</updated>
+    <updated>2022-11-30T08:29:57.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
@@ -48,7 +48,7 @@
         <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아무도 대리에게 회의 진행하는 법은 안 알려줬다]]></title>
+        <title type="html"><![CDATA[산으로 가는 회의는 그만! 일잘러의 회의 진행 스킬]]></title>
         <id>https://publy.co/content/7066?fr=category</id>
         <link href="https://publy.co/content/7066?fr=category"/>
         <updated>2022-11-25T09:21:50.564Z</updated>

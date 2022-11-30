@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-11-30T07:21:38.373Z</updated>
+    <updated>2022-11-30T08:29:57.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[힘의 방향이 바뀌면 돈의 방향도 바뀐다. 신자유주의가 끝났다. IMF의 시대도 끝났다.]]></title>
+        <id>https://www.bookjournalism.com/books/57041</id>
+        <link href="https://www.bookjournalism.com/books/57041"/>
+        <updated>2022-11-30T08:29:46.354Z</updated>
+        <content type="html"><![CDATA[신용불량 IMF]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기후재난 지원 기금 조성에 대한 합의가 COP27의 블랙홀이 됐다. 그 속에서 놓친 것은 무엇인가.]]></title>
         <id>https://www.bookjournalism.com/books/57026</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/56780"/>
         <updated>2022-11-21T15:26:41.583Z</updated>
         <content type="html"><![CDATA[잠을 잃은 사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사우디아라비아의 미래형 도시 네옴 시티는 친환경 스마트 도시를 꿈꾼다. 기적 같은 구상은 자원의 저주를 끊을 수 있을까?]]></title>
-        <id>https://www.bookjournalism.com/books/56768</id>
-        <link href="https://www.bookjournalism.com/books/56768"/>
-        <updated>2022-11-20T18:28:20.074Z</updated>
-        <content type="html"><![CDATA[엔드 오브 오일 머니]]></content>
     </entry>
 </feed>

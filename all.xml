@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 07:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 08:29:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아무도 대리에게 회의 진행하는 법은 안 알려줬다 (퍼블리)]]></title>
+            <title><![CDATA[산으로 가는 회의는 그만! 일잘러의 회의 진행 스킬 (퍼블리)]]></title>
             <link>https://publy.co/content/7066?fr=category</link>
             <guid>https://publy.co/content/7066?fr=category</guid>
             <pubDate>Fri, 25 Nov 2022 09:21:50 GMT</pubDate>
@@ -429,6 +429,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;학생 때부터 좋아한 광고인이 있습니다. 카피라이터 박웅현. ‘나이는 숫자에 불과하다(KTF)’, ‘진심이 짓는다(대림산업)’, ‘의자가 인생을 바꾼다(시디즈)’와<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[힘의 방향이 바뀌면 돈의 방향도 바뀐다. 신자유주의가 끝났다. IMF의 시대도 끝났다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57041</link>
+            <guid>https://www.bookjournalism.com/books/57041</guid>
+            <pubDate>Wed, 30 Nov 2022 08:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[신용불량 IMF]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[기후재난 지원 기금 조성에 대한 합의가 COP27의 블랙홀이 됐다. 그 속에서 놓친 것은 무엇인가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57026</link>
             <guid>https://www.bookjournalism.com/books/57026</guid>
@@ -504,13 +511,6 @@
             <guid>https://www.bookjournalism.com/books/56780</guid>
             <pubDate>Mon, 21 Nov 2022 15:26:41 GMT</pubDate>
             <content:encoded><![CDATA[잠을 잃은 사회]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사우디아라비아의 미래형 도시 네옴 시티는 친환경 스마트 도시를 꿈꾼다. 기적 같은 구상은 자원의 저주를 끊을 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56768</link>
-            <guid>https://www.bookjournalism.com/books/56768</guid>
-            <pubDate>Sun, 20 Nov 2022 18:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[엔드 오브 오일 머니]]></content:encoded>
         </item>
     </channel>
 </rss>
