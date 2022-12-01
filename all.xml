@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 15:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 18:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,6 +285,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;날이 으슬으슬해지면서 합정에 위치한 옥동식에 자주 들러요. 돼지곰탕으로 유명한 곳이지만 음식이 전부는 아닙니다. 자리에 앉으면 나무 테이블을 사이에 두고, 셰프가<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[9만 원짜리 딸기 뷔페가 인기다. 불황이기 때문이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57073</link>
+            <guid>https://www.bookjournalism.com/books/57073</guid>
+            <pubDate>Thu, 01 Dec 2022 18:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[나는 소비한다. 고로 존재한다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뉴욕시가 정신 질환을 앓는 홈리스들을 관리하는 방침을 발표했다. 홈리스를 감독하면 도시 범죄율은 낮아질까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57056</link>
             <guid>https://www.bookjournalism.com/books/57056</guid>
@@ -360,13 +367,6 @@
             <guid>https://www.bookjournalism.com/books/56804</guid>
             <pubDate>Tue, 22 Nov 2022 17:24:12 GMT</pubDate>
             <content:encoded><![CDATA[소통의 조건]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폭탄이 떨어지는 우크라이나 한복판에서 그들이 택한 것은 자원봉사였다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/53975</link>
-            <guid>https://www.bookjournalism.com/books/53975</guid>
-            <pubDate>Thu, 24 Nov 2022 08:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[전쟁을 짊어진 사람들]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-12-01T15:25:03.676Z</updated>
+    <updated>2022-12-01T18:35:19.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[9만 원짜리 딸기 뷔페가 인기다. 불황이기 때문이다.]]></title>
+        <id>https://www.bookjournalism.com/books/57073</id>
+        <link href="https://www.bookjournalism.com/books/57073"/>
+        <updated>2022-12-01T18:35:07.354Z</updated>
+        <content type="html"><![CDATA[나는 소비한다. 고로 존재한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕시가 정신 질환을 앓는 홈리스들을 관리하는 방침을 발표했다. 홈리스를 감독하면 도시 범죄율은 낮아질까?]]></title>
         <id>https://www.bookjournalism.com/books/57056</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/56804"/>
         <updated>2022-11-22T17:24:12.495Z</updated>
         <content type="html"><![CDATA[소통의 조건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭탄이 떨어지는 우크라이나 한복판에서 그들이 택한 것은 자원봉사였다.]]></title>
-        <id>https://www.bookjournalism.com/books/53975</id>
-        <link href="https://www.bookjournalism.com/books/53975"/>
-        <updated>2022-11-24T08:29:07.959Z</updated>
-        <content type="html"><![CDATA[전쟁을 짊어진 사람들]]></content>
     </entry>
 </feed>
