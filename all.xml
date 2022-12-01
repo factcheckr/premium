@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 05:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 06:36:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나다운 하루를 위한 루틴 만드는 법(노션 템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7076?fr=category</link>
+            <guid>https://publy.co/content/7076?fr=category</guid>
+            <pubDate>Thu, 01 Dec 2022 06:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2023 기획자를 위한 트렌드 모니터: 2023년판 새로운 ‘만원의 행복’ (퍼블리)]]></title>
             <link>https://publy.co/content/7052?fr=category</link>
@@ -64,18 +71,11 @@
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연말/새해 메일 인사말 40개 모음 (상황별 인사짤 4종 제공) (퍼블리)]]></title>
+            <title><![CDATA[연말/새해 메일 인사말 40개 모음 (상황별 인사짤 6종 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/7034?fr=category</link>
             <guid>https://publy.co/content/7034?fr=category</guid>
             <pubDate>Thu, 24 Nov 2022 08:28:06 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 6분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 마케터를 위한 트렌드 노트: 띠부띠부씰이 돈이 된다고? (퍼블리)]]></title>
-            <link>https://publy.co/content/7048?fr=category</link>
-            <guid>https://publy.co/content/7048?fr=category</guid>
-            <pubDate>Wed, 23 Nov 2022 08:28:10 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IP 비즈니스 시대, ‘머글’에게도 통한 쿠킹덤 영업비밀 (캐릿)]]></title>
