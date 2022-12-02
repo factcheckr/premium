@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 23:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 01:43:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -292,18 +292,18 @@
             <content:encoded><![CDATA[나는 소비한다. 고로 존재한다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴욕시가 정신 질환을 앓는 홈리스들을 관리하는 방침을 발표했다. 홈리스를 감독하면 도시 범죄율은 낮아질까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57056</link>
-            <guid>https://www.bookjournalism.com/books/57056</guid>
-            <pubDate>Wed, 30 Nov 2022 15:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[집 잃은 사람들]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕시가 정신 질환을 앓는 홈리스들을 관리하는 방침을 발표했다. 홈리스를 감독하면 도시 범죄율은 낮아질까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57056</link>
+            <guid>https://www.bookjournalism.com/books/57056</guid>
+            <pubDate>Wed, 30 Nov 2022 15:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[집 잃은 사람들]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[힘의 방향이 바뀌면 돈의 방향도 바뀐다. 신자유주의가 끝났다. IMF의 시대도 끝났다. (북저널리즘)]]></title>
