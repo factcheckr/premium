@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 01:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 02:53:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7034?fr=category</guid>
             <pubDate>Thu, 24 Nov 2022 08:28:06 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 6분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유튜브 웹 예능 전성시대, ‘네고왕’, ‘워크맨’ PD의 후속작은? (캐릿)]]></title>
+            <link>https://www.careet.net/956</link>
+            <guid>https://www.careet.net/956</guid>
+            <pubDate>Fri, 02 Dec 2022 02:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대의 월드컵 즐기는 방식부터 뜨는 릴스 오디오까지.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/201181b3-dcdd-4d1c-8225-fd1d7e51dba1_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[IP 비즈니스 시대, ‘머글’에게도 통한 쿠킹덤 영업비밀 (캐릿)]]></title>
