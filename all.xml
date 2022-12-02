@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 14:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 15:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/0f2d8069-7688-4ffa-abfb-fc056f8a5df4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[스튜디오 라이터스 : 아토믹스와 리움 스토어, 브랜드의 이야기가 공간이 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/494</link>
-            <guid>https://www.longblack.co/note/494</guid>
-            <pubDate>Thu, 01 Dec 2022 15:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;날이 으슬으슬해지면서 합정에 위치한 옥동식에 자주 들러요. 돼지곰탕으로 유명한 곳이지만 음식이 전부는 아닙니다. 자리에 앉으면 나무 테이블을 사이에 두고, 셰프가<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[제니 오델 : ‘아무것도 하지 않음’으로 나를 지키는 법 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/497</link>
+            <guid>https://www.longblack.co/note/497</guid>
+            <pubDate>Fri, 02 Dec 2022 15:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;지난 9월, 일상에서 포모FOMO&nbsp;다루는 법에 관한 노트를 썼습니다. 한동안은 괜찮았어요. 그런데 또 틈만 나면 소셜미디어 앱을 켜고, 밤늦은 시간 괜히 업무용 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #65에선, 뉴욕시의 새로운 홈리스 관리 방침, 중국과 대만 정치 지도자의 위기, COP27에서의 녹색항로와 블루카본 합의, 이모지 커뮤니케이션에 관해 이야기합니다. (북저널리즘)]]></title>
