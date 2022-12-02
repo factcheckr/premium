@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 07:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 08:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,6 +293,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;날이 으슬으슬해지면서 합정에 위치한 옥동식에 자주 들러요. 돼지곰탕으로 유명한 곳이지만 음식이 전부는 아닙니다. 자리에 앉으면 나무 테이블을 사이에 두고, 셰프가<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[그 많던 ‘일제’는 어디로 갔을까? 일본의 완벽주의는 지금 일본 성장의 발목을 잡고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57071</link>
+            <guid>https://www.bookjournalism.com/books/57071</guid>
+            <pubDate>Fri, 02 Dec 2022 08:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[일본, 위험한 레트로]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[9만 원짜리 딸기 뷔페가 인기다. 불황이기 때문이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57073</link>
             <guid>https://www.bookjournalism.com/books/57073</guid>
@@ -368,13 +375,6 @@
             <guid>https://www.bookjournalism.com/books/56818</guid>
             <pubDate>Wed, 23 Nov 2022 08:29:17 GMT</pubDate>
             <content:encoded><![CDATA[지리의⋯ 힘?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[용산 시대의 상징, 도어스테핑이 잠정 중단됐다. 진짜 문제는 소통이 아니라 전략의 부재다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56804</link>
-            <guid>https://www.bookjournalism.com/books/56804</guid>
-            <pubDate>Tue, 22 Nov 2022 17:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[소통의 조건]]></content:encoded>
         </item>
     </channel>
 </rss>
