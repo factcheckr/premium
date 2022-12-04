@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-12-04T14:18:55.628Z</updated>
+    <updated>2022-12-04T15:21:08.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2022-12-03T15:20:48.963Z</updated>
-        <content type="html"><![CDATA[B를 돌아보게 만든 지난주 롱블랙의 문장
-
-“제 앞에 펼쳐진 순간을 관찰하고, 그걸 성찰하는 태도가 중요해요. 성찰에는 나를 돌아본다는 의미가 있어요. 나이가 들수록 마음에 품는 단어죠. 그동안 저는 사람과 기업을 관찰하는 이야기를 해왔어요. 이제 나를 들여다보는 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[주막반점 김지호 : 적당한 감각에 상상력을 더할 때, 크리에이티브는 나온다]]></title>
+        <id>https://www.longblack.co/note/501</id>
+        <link href="https://www.longblack.co/note/501"/>
+        <updated>2022-12-04T15:20:08.224Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C &nbsp;미식의 도시, 뉴욕! 이곳에선 어느 레스토랑이 가장 핫할까요? 어떤 음식이 유독 사랑받고 있는지는 말할 수 있을 것 같아요. 바로 한식이랍니다.지난 10월 발표<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
