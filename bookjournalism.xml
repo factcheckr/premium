@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-12-05T15:23:36.240Z</updated>
+    <updated>2022-12-05T16:35:41.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 세계 풍력 발전이 역대 최대치를 기록할 예정이다. 풍력은 신뢰할 수 있는 에너지가 될 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/57175</id>
+        <link href="https://www.bookjournalism.com/books/57175"/>
+        <updated>2022-12-05T16:35:31.296Z</updated>
+        <content type="html"><![CDATA[바람의 발전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오 엔터테인먼트가 팬덤 플랫폼을 인수한다. 카카오 엔터는 전통적 제작사가 아닌, 새로운 형태의 유통사다.]]></title>
         <id>https://www.bookjournalism.com/books/57095</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/56971"/>
         <updated>2022-11-25T16:31:25.458Z</updated>
         <content type="html"><![CDATA[네옴 시티와 불면증, AI 예술과 디즈니랜드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI가 그려낸 이미지가 인류를 홀리고 있다. 불분명한 것은 예술의 경계다. 분명한 것은 기술의 현재다.]]></title>
-        <id>https://www.bookjournalism.com/books/56944</id>
-        <link href="https://www.bookjournalism.com/books/56944"/>
-        <updated>2022-11-24T15:23:58.897Z</updated>
-        <content type="html"><![CDATA[이것은 미술이 아니다?]]></content>
     </entry>
 </feed>

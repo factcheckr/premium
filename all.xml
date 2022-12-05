@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 15:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 16:35:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,6 +301,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;K가 요즘 자전거로 출퇴근하더라고요? 하루 종일 개운하대요. 저도 자전거를 갖고 싶어졌어요. 모든 일의 시작은 도구부터 장만하는 거잖아요! 그렇게 브롬톤Bromp<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[올해 세계 풍력 발전이 역대 최대치를 기록할 예정이다. 풍력은 신뢰할 수 있는 에너지가 될 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57175</link>
+            <guid>https://www.bookjournalism.com/books/57175</guid>
+            <pubDate>Mon, 05 Dec 2022 16:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[바람의 발전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[카카오 엔터테인먼트가 팬덤 플랫폼을 인수한다. 카카오 엔터는 전통적 제작사가 아닌, 새로운 형태의 유통사다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57095</link>
             <guid>https://www.bookjournalism.com/books/57095</guid>
@@ -376,13 +383,6 @@
             <guid>https://www.bookjournalism.com/audio/56971</guid>
             <pubDate>Fri, 25 Nov 2022 16:31:25 GMT</pubDate>
             <content:encoded><![CDATA[네옴 시티와 불면증, AI 예술과 디즈니랜드]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AI가 그려낸 이미지가 인류를 홀리고 있다. 불분명한 것은 예술의 경계다. 분명한 것은 기술의 현재다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56944</link>
-            <guid>https://www.bookjournalism.com/books/56944</guid>
-            <pubDate>Thu, 24 Nov 2022 15:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[이것은 미술이 아니다?]]></content:encoded>
         </item>
     </channel>
 </rss>
