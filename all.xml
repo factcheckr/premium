@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 06:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 07:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어서오시묘! 2023 퍼블리 플래너로 새해 계획 세우기 (노션 템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7092?fr=category</link>
+            <guid>https://publy.co/content/7092?fr=category</guid>
+            <pubDate>Mon, 05 Dec 2022 07:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2023 연말정산 100% 돌려 받는 절세 꿀팁 정리 (feat. 전직 은행원 개념있는 희애씨) (퍼블리)]]></title>
             <link>https://publy.co/content/7039?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7063?fr=category</guid>
             <pubDate>Mon, 28 Nov 2022 06:28:35 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기록으로 업무 관리의 고수되는 법(feat. 노션 템플릿) (퍼블리)]]></title>
-            <link>https://publy.co/content/7068?fr=category</link>
-            <guid>https://publy.co/content/7068?fr=category</guid>
-            <pubDate>Mon, 28 Nov 2022 06:28:35 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지금 써도 먹히는 기출 변형 MBTI 밈 “MBTI랑 반응 알려줘” (캐릿)]]></title>
