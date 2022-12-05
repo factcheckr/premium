@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 04:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 05:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 써도 먹히는 기출 변형 MBTI 밈 “MBTI랑 반응 알려줘”]]></title>
+            <link>https://www.careet.net/958</link>
+            <guid>https://www.careet.net/958</guid>
+            <pubDate>Mon, 05 Dec 2022 05:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[SNS와 커뮤니티 반응 폭발하는 최신 MBTI 밈]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7cb5007b-a759-4b8f-b50d-c069e2570f31_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 웹 예능 전성시대, ‘네고왕’, ‘워크맨’ PD의 후속작은?]]></title>
             <link>https://www.careet.net/956</link>
