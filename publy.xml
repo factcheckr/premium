@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-12-06T06:27:57.789Z</updated>
+    <updated>2022-12-06T07:19:43.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[회고만 하고 끝? 일잘러로 인정받는 성과 어필 노하우 4단계]]></title>
+        <id>https://publy.co/content/7074?fr=category</id>
+        <link href="https://publy.co/content/7074?fr=category"/>
+        <updated>2022-12-06T07:18:29.136Z</updated>
+        <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팀원들이 인정한 리더들의 연말 독서 결산 (feat. 대학내일, 민음사, 크린토피아)]]></title>
+        <id>https://publy.co/content/7043?fr=category</id>
+        <link href="https://publy.co/content/7043?fr=category"/>
+        <updated>2022-12-06T07:18:29.141Z</updated>
+        <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오, 컬리, 토스 기획자의 연말 독서 결산]]></title>
+        <id>https://publy.co/content/7042?fr=category</id>
+        <link href="https://publy.co/content/7042?fr=category"/>
+        <updated>2022-12-06T07:18:29.141Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 마이리얼트립, 카카오스타일 마케터의 연말 독서 결산]]></title>
+        <id>https://publy.co/content/7041?fr=category</id>
+        <link href="https://publy.co/content/7041?fr=category"/>
+        <updated>2022-12-06T07:18:29.143Z</updated>
+        <content type="html"><![CDATA[아티클 · 6분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어서오시묘! 2023 퍼블리 플래너로 새해 계획 세우기 (노션 템플릿 제공)]]></title>
         <id>https://publy.co/content/7092?fr=category</id>
@@ -46,33 +74,5 @@
         <link href="https://publy.co/content/7052?fr=category"/>
         <updated>2022-11-30T07:20:16.923Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팬덤 없어도 팔린다! 캐릭터/IP 세계관을 이용한 상세페이지 노하우]]></title>
-        <id>https://publy.co/content/7033?fr=category</id>
-        <link href="https://publy.co/content/7033?fr=category"/>
-        <updated>2022-11-30T06:28:05.133Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데일리 로그: 일상 속 작은 것도 놓치지 않는 기록법(노션 템플릿 제공)]]></title>
-        <id>https://publy.co/content/7067?fr=category</id>
-        <link href="https://publy.co/content/7067?fr=category"/>
-        <updated>2022-11-29T08:28:22.382Z</updated>
-        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀을 리드하는 리더의 지표 설정법]]></title>
-        <id>https://publy.co/content/7044?fr=category</id>
-        <link href="https://publy.co/content/7044?fr=category"/>
-        <updated>2022-11-28T06:28:35.507Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인스타툰의 기획부터 발행 후까지, 다 알려드림(노션 템플릿 제공)]]></title>
-        <id>https://publy.co/content/7063?fr=category</id>
-        <link href="https://publy.co/content/7063?fr=category"/>
-        <updated>2022-11-28T06:28:35.511Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
