@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 14:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 15:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,11 +302,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/0f2d8069-7688-4ffa-abfb-fc056f8a5df4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[브롬톤 : 미니벨로를 감성재로 포지셔닝해, 자전거계의 애플이 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/502</link>
-            <guid>https://www.longblack.co/note/502</guid>
-            <pubDate>Mon, 05 Dec 2022 15:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;K가 요즘 자전거로 출퇴근하더라고요? 하루 종일 개운하대요. 저도 자전거를 갖고 싶어졌어요. 모든 일의 시작은 도구부터 장만하는 거잖아요! 그렇게 브롬톤Bromp<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[한국파이롯트 : 과거의 향수를 역사로 만들고, 소비자에게 다시 다가가다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/503</link>
+            <guid>https://www.longblack.co/note/503</guid>
+            <pubDate>Tue, 06 Dec 2022 15:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B학생 시절, 문구를 굉장히 좋아했습니다. 같은 색 펜끼리 분류해 필통을 정리하는 것만큼 뿌듯한 일이 없었죠. 그 중에서 가장 좋아하는 펜은 하이테크C였습니다. 다른<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대에 콜 포비아라는 병명이 붙었다. 이들을 공포에 몰아넣은 원인은 정말 통화일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57194</link>
+            <guid>https://www.bookjournalism.com/books/57194</guid>
+            <pubDate>Tue, 06 Dec 2022 15:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[완벽하지 않을 바에야 말하지 않는 이들]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 세계 풍력 발전이 역대 최대치를 기록할 예정이다. 풍력은 신뢰할 수 있는 에너지가 될 수 있을까? (북저널리즘)]]></title>
@@ -384,13 +391,6 @@
             <guid>https://www.bookjournalism.com/books/56984</guid>
             <pubDate>Sun, 27 Nov 2022 15:22:07 GMT</pubDate>
             <content:encoded><![CDATA[동상이몽 이모지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오의 에피소드 #64에선, 사우디아라비아의 네옴 시티, 인공지능이 그리는 그림, 현대인의 수면 문제와 슬리포노믹스 시장, 밥 아이거 CEO의 디즈니 복귀에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/56971</link>
-            <guid>https://www.bookjournalism.com/audio/56971</guid>
-            <pubDate>Fri, 25 Nov 2022 16:31:25 GMT</pubDate>
-            <content:encoded><![CDATA[네옴 시티와 불면증, AI 예술과 디즈니랜드]]></content:encoded>
         </item>
     </channel>
 </rss>
