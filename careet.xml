@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 23:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 01:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단체 문자, 어떻게 하면 Z세대에게 ‘안읽씹’ 안 당할 수 있을까?]]></title>
+            <link>https://www.careet.net/960</link>
+            <guid>https://www.careet.net/960</guid>
+            <pubDate>Wed, 07 Dec 2022 01:47:43 GMT</pubDate>
+            <content:encoded><![CDATA[이런 단체 문자는 바로 차단한다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/cde497a8-2bd3-489e-9310-23aff314f534_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[입장 대기만 반나절! 화제의 팝업 스토어 ‘오버워치’ 칭찬 포인트 4]]></title>
             <link>https://www.careet.net/959</link>
