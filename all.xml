@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 05:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 06:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,7 +331,7 @@
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[올해 세계 풍력 발전이 역대 최대치를 기록할 예정이다. 풍력은 신뢰할 수 있는 에너지가 될 수 있을까? (북저널리즘)]]></title>
+            <title><![CDATA[올해 세계 풍력 발전이 역대 최대치를 기록할 예정이다. 풍력은 신뢰할 수 있는 에너지로 거듭날까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57175</link>
             <guid>https://www.bookjournalism.com/books/57175</guid>
             <pubDate>Mon, 05 Dec 2022 16:35:31 GMT</pubDate>

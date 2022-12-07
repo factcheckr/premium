@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-12-07T05:20:10.260Z</updated>
+    <updated>2022-12-07T06:28:29.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[올해 세계 풍력 발전이 역대 최대치를 기록할 예정이다. 풍력은 신뢰할 수 있는 에너지가 될 수 있을까?]]></title>
+        <title type="html"><![CDATA[올해 세계 풍력 발전이 역대 최대치를 기록할 예정이다. 풍력은 신뢰할 수 있는 에너지로 거듭날까?]]></title>
         <id>https://www.bookjournalism.com/books/57175</id>
         <link href="https://www.bookjournalism.com/books/57175"/>
         <updated>2022-12-05T16:35:31.296Z</updated>
