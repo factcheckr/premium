@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 07:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 08:28:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -317,6 +317,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;학생 시절, 문구를 굉장히 좋아했습니다. 같은 색 펜끼리 분류해 필통을 정리하는 것만큼 뿌듯한 일이 없었죠. 그 중에서 가장 좋아하는 펜은 하이테크C였습니다. 다<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[전쟁은 범죄를 낳고 그 흔적을 쉽게 지워버린다. 그러나 이번에는 다를 것이다. 달라야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57190</link>
+            <guid>https://www.bookjournalism.com/books/57190</guid>
+            <pubDate>Wed, 07 Dec 2022 08:28:12 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나, 전쟁 범죄를 쫓는 사람들]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[MZ세대에 콜 포비아라는 병명이 붙었다. 이들을 공포에 몰아넣은 원인은 정말 통화일까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57194</link>
             <guid>https://www.bookjournalism.com/books/57194</guid>
@@ -392,13 +399,6 @@
             <guid>https://www.bookjournalism.com/books/57012</guid>
             <pubDate>Mon, 28 Nov 2022 17:22:04 GMT</pubDate>
             <content:encoded><![CDATA[화이트 페이퍼, 블루 웨이브]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비즈니스에서 이모지는 소통 수단과 상품으로 정착했다. 디지털 소통의 시대에 이모지는 어떤 문제인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56984</link>
-            <guid>https://www.bookjournalism.com/books/56984</guid>
-            <pubDate>Sun, 27 Nov 2022 15:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[동상이몽 이모지]]></content:encoded>
         </item>
     </channel>
 </rss>
