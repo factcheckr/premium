@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 01:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 02:50:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -332,6 +332,13 @@
             <content:encoded><![CDATA[슈퍼 앱의 조건]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[전쟁은 범죄를 낳고 그 흔적을 쉽게 지워버린다. 그러나 이번에는 다를 것이다. 달라야 한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57190</link>
             <guid>https://www.bookjournalism.com/books/57190</guid>
@@ -344,13 +351,6 @@
             <guid>https://www.bookjournalism.com/books/57194</guid>
             <pubDate>Tue, 06 Dec 2022 15:22:53 GMT</pubDate>
             <content:encoded><![CDATA[완벽하지 않을 바에야 말하지 않는 이들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 세계 풍력 발전이 역대 최대치를 기록할 예정이다. 풍력은 신뢰할 수 있는 에너지로 거듭날까? (북저널리즘)]]></title>
