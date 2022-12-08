@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 23:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 01:43:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카타르 월드컵 즐기는 Z세대 근황: 거리 응원 대신 ‘뷰잉파티’ 찾아간다고?]]></title>
+            <link>https://www.careet.net/963</link>
+            <guid>https://www.careet.net/963</guid>
+            <pubDate>Thu, 08 Dec 2022 01:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 월드컵을 즐기는 새로운 방법 4]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/9afe1667-3f3b-4543-8d31-b9706051c7c0_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[단체 문자, 어떻게 하면 Z세대에게 ‘안읽씹’ 안 당할 수 있을까?]]></title>
             <link>https://www.careet.net/960</link>
