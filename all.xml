@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 03:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 04:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7092?fr=category</guid>
             <pubDate>Mon, 05 Dec 2022 07:19:38 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대가 연말을 보내는 방법은 다르다? 12월 Z세대 트렌드 4 (캐릿)]]></title>
+            <link>https://www.careet.net/968</link>
+            <guid>https://www.careet.net/968</guid>
+            <pubDate>Fri, 09 Dec 2022 04:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대의 연말정산 문화를 소개합니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/5d29b9b8-7bcd-47d7-95ee-7db4540787ef_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카타르 월드컵으로 보는 Z세대 월드컵 관람 문화 특이점 4 (캐릿)]]></title>
