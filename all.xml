@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 23:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 01:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,7 +322,7 @@
             <link>https://www.longblack.co/note/505</link>
             <guid>https://www.longblack.co/note/505</guid>
             <pubDate>Thu, 08 Dec 2022 15:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;흥미로운 안경 브랜드를 발견했어요. 이름은 윤YUN. 독특하게도 2015년 독일 베를린에서 먼저 론칭한 뒤 한국에 역진출한 브랜드예요. 2020년 10월 성수를 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;흥미로운 안경 브랜드를 발견했어요. 이름은 윤YUN. 독특하게도 2015년 독일 베를린에서 먼저 론칭한 뒤 한국에 역진출한 브랜드예요. 2020년 1월 성수를 시<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[화물연대가 6월에 이어 11월에 돌입한 파업에서 동력을 잃었다. 그간 변한 것은 무엇인가. (북저널리즘)]]></title>
@@ -339,18 +339,18 @@
             <content:encoded><![CDATA[번아웃 세대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마이크로소프트가 슈퍼 앱을 만들지도 모른다. 그러나 일론 머스크조차 위챗을 넘지 못하는 이유가 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57272</link>
-            <guid>https://www.bookjournalism.com/books/57272</guid>
-            <pubDate>Wed, 07 Dec 2022 15:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼 앱의 조건]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트가 슈퍼 앱을 만들지도 모른다. 그러나 일론 머스크조차 위챗을 넘지 못하는 이유가 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57272</link>
+            <guid>https://www.bookjournalism.com/books/57272</guid>
+            <pubDate>Wed, 07 Dec 2022 15:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼 앱의 조건]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전쟁은 범죄를 낳고 그 흔적을 쉽게 지워버린다. 그러나 이번에는 다를 것이다. 달라야 한다. (북저널리즘)]]></title>
