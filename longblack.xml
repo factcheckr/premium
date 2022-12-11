@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-12-11T14:19:33.011Z</updated>
+    <updated>2022-12-11T15:20:57.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2022-12-10T15:20:10.095Z</updated>
-        <content type="html"><![CDATA[C가 플래너에 적어둔 지난주 롱블랙의 문장
-
-“도전을 하면 에너지가 생겨요. 저에겐 미국 이민이 첫 도전이었고, 그 도전을 실패하지 않으려고 하루하루 작은 챌린지를 만들어 갔어요. 하나를 완수하면 다음 도전을 또 설정하고요. 당신의 하루가 피곤하기만 했다면, 아무 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[피크닉 : 감정을 차곡차곡 쌓아, 마음을 움직이는 게 전시다]]></title>
+        <id>https://www.longblack.co/note/514</id>
+        <link href="https://www.longblack.co/note/514"/>
+        <updated>2022-12-11T15:19:56.974Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;머리가 복잡할 때면 전시장에 갑니다. 갤러리, 박물관 가리지 않아요. 발길 닿는 대로 둘러보고 나오면 마음이 한결 차분해집니다.그중 애정하는 공간이 있어요. 서울<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
