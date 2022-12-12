@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-12-12T14:20:53.974Z</updated>
+    <updated>2022-12-12T15:23:47.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[3년 만에 마스크를 벗는다. 그런데, 벗어도 될까?]]></title>
+        <id>https://www.bookjournalism.com/books/57385</id>
+        <link href="https://www.bookjournalism.com/books/57385"/>
+        <updated>2022-12-12T15:23:36.293Z</updated>
+        <content type="html"><![CDATA[답답한 이야기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘반유대주의’라는 망령이 되살아난다. 사람을 보지 못하게 되는 순간, 우리는 쉽게 괴물이 된다.]]></title>
         <id>https://www.bookjournalism.com/books/57337</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/57084"/>
         <updated>2022-12-02T10:25:14.878Z</updated>
         <content type="html"><![CDATA[숨겨지는 홈리스, 휘청이는 중국과 대만, 새로운 기후 협약]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그 많던 ‘일제’는 어디로 갔을까? 일본의 완벽주의는 지금 일본 성장의 발목을 잡고 있다.]]></title>
-        <id>https://www.bookjournalism.com/books/57071</id>
-        <link href="https://www.bookjournalism.com/books/57071"/>
-        <updated>2022-12-02T08:27:02.162Z</updated>
-        <content type="html"><![CDATA[일본, 위험한 레트로]]></content>
     </entry>
 </feed>
