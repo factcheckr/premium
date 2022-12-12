@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-12-12T05:20:40.288Z</updated>
+    <updated>2022-12-12T06:28:16.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 나에게 실망하지 않는 법: 키워드 플레이 회고법 (굿노트 템플릿)]]></title>
+        <id>https://publy.co/content/7080?fr=category</id>
+        <link href="https://publy.co/content/7080?fr=category"/>
+        <updated>2022-12-12T06:26:59.779Z</updated>
+        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MZ를 파고드는 요즘 트렌드: MBTI 가고 '컨셉 놀이'가 온다]]></title>
         <id>https://publy.co/content/7055?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7043?fr=category"/>
         <updated>2022-12-06T07:18:29.141Z</updated>
         <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오, 컬리, 토스 기획자의 연말 독서 결산]]></title>
-        <id>https://publy.co/content/7042?fr=category</id>
-        <link href="https://publy.co/content/7042?fr=category"/>
-        <updated>2022-12-06T07:18:29.141Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
     </entry>
 </feed>
