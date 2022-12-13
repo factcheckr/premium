@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 14:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 15:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,11 +342,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/0f2d8069-7688-4ffa-abfb-fc056f8a5df4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[빕 : 휴지통 브랜드가 ‘더 적지만 더 나은 삶’을 파는 법 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/515</link>
-            <guid>https://www.longblack.co/note/515</guid>
-            <pubDate>Mon, 12 Dec 2022 15:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;주말에 북유럽 리빙 편집숍 이노메싸INNOMETSA를 구경했어요. 제 눈길을 끈 건 놀랍게도 휴지통이에요. 이름은 빕 빈Vipp Bin. 단순하지만 우아한 디자인<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[텍스트북 : 겸손과 자부심을 블렌딩해 뽐내지 않는 와인을 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/516</link>
+            <guid>https://www.longblack.co/note/516</guid>
+            <pubDate>Tue, 13 Dec 2022 15:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;B가 연말 선물로 와인을 줬어요. 미국 나파밸리 와인의 정석이라고 알려진, 입문자들이 마시기 좋은 와인이라고요. 책 표지를 연상케 하는 라벨 위로 텍스트북TEXT<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국이 아프리카 내 영향력을 키우는 중국을 견제하고자 나섰다. 아프리카가 주목 받는 이유는 무엇일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57416</link>
+            <guid>https://www.bookjournalism.com/books/57416</guid>
+            <pubDate>Tue, 13 Dec 2022 15:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[뉴 아프리카]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3년 만에 마스크를 벗는다. 그런데, 벗어도 될까? (북저널리즘)]]></title>
@@ -424,13 +431,6 @@
             <guid>https://www.bookjournalism.com/books/57095</guid>
             <pubDate>Sun, 04 Dec 2022 15:20:56 GMT</pubDate>
             <content:encoded><![CDATA[동에 번쩍 서에 번쩍, 카카오 엔터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오의 에피소드 #65에선, 뉴욕시의 새로운 홈리스 관리 방침, 중국과 대만 정치 지도자의 위기, COP27에서의 녹색항로와 블루카본 합의, 이모지 커뮤니케이션에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/57084</link>
-            <guid>https://www.bookjournalism.com/audio/57084</guid>
-            <pubDate>Fri, 02 Dec 2022 10:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[숨겨지는 홈리스, 휘청이는 중국과 대만, 새로운 기후 협약]]></content:encoded>
         </item>
     </channel>
 </rss>
