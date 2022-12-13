@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 06:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 07:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,7 +78,7 @@
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[내년을 위해 북마크하세요! 2022 MZ세대 데이터 총결산 (캐릿)]]></title>
+            <title><![CDATA[내년을 위해 북마크 하세요! 2022 MZ세대 데이터 총결산 (캐릿)]]></title>
             <link>https://www.careet.net/969</link>
             <guid>https://www.careet.net/969</guid>
             <pubDate>Tue, 13 Dec 2022 02:56:01 GMT</pubDate>
