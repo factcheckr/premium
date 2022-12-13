@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 05:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 06:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실무에 바로 쓰는 일잘러의 기획서 작성법 (퍼블리)]]></title>
+            <link>https://publy.co/content/7075?fr=category</link>
+            <guid>https://publy.co/content/7075?fr=category</guid>
+            <pubDate>Tue, 13 Dec 2022 06:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[따라만 쓰면 끝난다! 신규 사업계획서 작성법 (워드 템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7045?fr=category</link>
+            <guid>https://publy.co/content/7045?fr=category</guid>
+            <pubDate>Tue, 13 Dec 2022 06:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022년 나에게 실망하지 않는 법: 키워드 플레이 회고법 (굿노트 템플릿) (퍼블리)]]></title>
             <link>https://publy.co/content/7080?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/7054?fr=category</guid>
             <pubDate>Wed, 07 Dec 2022 07:18:34 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[회고만 하고 끝? 일잘러로 인정받는 성과 어필 노하우 4단계 (퍼블리)]]></title>
-            <link>https://publy.co/content/7074?fr=category</link>
-            <guid>https://publy.co/content/7074?fr=category</guid>
-            <pubDate>Tue, 06 Dec 2022 07:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팀원들이 인정한 리더들의 연말 독서 결산 (feat. 대학내일, 민음사, 크린토피아) (퍼블리)]]></title>
-            <link>https://publy.co/content/7043?fr=category</link>
-            <guid>https://publy.co/content/7043?fr=category</guid>
-            <pubDate>Tue, 06 Dec 2022 07:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내년을 위해 북마크하세요! 2022 MZ세대 데이터 총결산 (캐릿)]]></title>
