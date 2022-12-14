@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-12-14T07:20:28.360Z</updated>
+    <updated>2022-12-14T08:28:21.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[전 세계를 줄 세우고 있는 사우디아라비아의 빈 살만 왕세자. 그러나 그의 손에는 혈육의 피가 묻어있다.]]></title>
+        <id>https://www.bookjournalism.com/books/57442</id>
+        <link href="https://www.bookjournalism.com/books/57442"/>
+        <updated>2022-12-14T08:28:09.901Z</updated>
+        <content type="html"><![CDATA[사우디아라비아, 왕자의 난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국이 아프리카 내 영향력을 키우는 중국을 견제하고자 나섰다. 아프리카가 주목 받는 이유는 무엇일까?]]></title>
         <id>https://www.bookjournalism.com/books/57416</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/57175"/>
         <updated>2022-12-05T16:35:31.296Z</updated>
         <content type="html"><![CDATA[바람의 발전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 엔터테인먼트가 팬덤 플랫폼을 인수한다. 카카오 엔터는 전통적 제작사가 아닌, 새로운 형태의 유통사다.]]></title>
-        <id>https://www.bookjournalism.com/books/57095</id>
-        <link href="https://www.bookjournalism.com/books/57095"/>
-        <updated>2022-12-04T15:20:56.353Z</updated>
-        <content type="html"><![CDATA[동에 번쩍 서에 번쩍, 카카오 엔터]]></content>
     </entry>
 </feed>

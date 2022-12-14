@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 07:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 08:28:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -357,6 +357,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;B가 연말 선물로 와인을 줬어요. 미국 나파밸리 와인의 정석이라고 알려진, 입문자들이 마시기 좋은 와인이라고요. 책 표지를 연상케 하는 라벨 위로 텍스트북TEXT<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[전 세계를 줄 세우고 있는 사우디아라비아의 빈 살만 왕세자. 그러나 그의 손에는 혈육의 피가 묻어있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57442</link>
+            <guid>https://www.bookjournalism.com/books/57442</guid>
+            <pubDate>Wed, 14 Dec 2022 08:28:09 GMT</pubDate>
+            <content:encoded><![CDATA[사우디아라비아, 왕자의 난]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미국이 아프리카 내 영향력을 키우는 중국을 견제하고자 나섰다. 아프리카가 주목 받는 이유는 무엇일까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57416</link>
             <guid>https://www.bookjournalism.com/books/57416</guid>
@@ -432,13 +439,6 @@
             <guid>https://www.bookjournalism.com/books/57175</guid>
             <pubDate>Mon, 05 Dec 2022 16:35:31 GMT</pubDate>
             <content:encoded><![CDATA[바람의 발전]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오 엔터테인먼트가 팬덤 플랫폼을 인수한다. 카카오 엔터는 전통적 제작사가 아닌, 새로운 형태의 유통사다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57095</link>
-            <guid>https://www.bookjournalism.com/books/57095</guid>
-            <pubDate>Sun, 04 Dec 2022 15:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[동에 번쩍 서에 번쩍, 카카오 엔터]]></content:encoded>
         </item>
     </channel>
 </rss>
