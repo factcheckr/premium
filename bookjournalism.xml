@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-12-15T14:21:40.064Z</updated>
+    <updated>2022-12-15T15:23:20.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[에르메스가 버섯 가죽에 투자한다. 버섯은 소재 산업의 미래가 될까?]]></title>
+        <id>https://www.bookjournalism.com/books/57495</id>
+        <link href="https://www.bookjournalism.com/books/57495"/>
+        <updated>2022-12-15T15:23:07.443Z</updated>
+        <content type="html"><![CDATA[버섯의 재발견]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금의 대학원을 둘러싼 농담과 담론은 지속 불가능한 학계를 말한다. 신진 연구자 여덟 명이 대학원의 문제와 미래를 이야기한다.]]></title>
+        <id>https://www.bookjournalism.com/books/57355</id>
+        <link href="https://www.bookjournalism.com/books/57355"/>
+        <updated>2022-12-15T15:23:07.443Z</updated>
+        <content type="html"><![CDATA[한국에서 박사하기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[챗GPT의 이용자가 100만 명을 돌파했다. 일각에서는 챗GPT가 구글 검색을 대체할 것이라 전망한다.]]></title>
         <id>https://www.bookjournalism.com/books/57406</id>
@@ -74,19 +88,5 @@
         <link href="https://www.bookjournalism.com/books/57272"/>
         <updated>2022-12-07T15:22:37.659Z</updated>
         <content type="html"><![CDATA[슈퍼 앱의 조건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전쟁은 범죄를 낳고 그 흔적을 쉽게 지워버린다. 그러나 이번에는 다를 것이다. 달라야 한다.]]></title>
-        <id>https://www.bookjournalism.com/books/57190</id>
-        <link href="https://www.bookjournalism.com/books/57190"/>
-        <updated>2022-12-07T08:28:12.296Z</updated>
-        <content type="html"><![CDATA[우크라이나, 전쟁 범죄를 쫓는 사람들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ세대에 콜 포비아라는 병명이 붙었다. 이들을 공포에 몰아넣은 원인은 정말 통화일까?]]></title>
-        <id>https://www.bookjournalism.com/books/57194</id>
-        <link href="https://www.bookjournalism.com/books/57194"/>
-        <updated>2022-12-06T15:22:53.643Z</updated>
-        <content type="html"><![CDATA[완벽하지 않을 바에야 말하지 않는 이들]]></content>
     </entry>
 </feed>
