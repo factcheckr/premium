@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 14:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 15:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,11 +366,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/0f2d8069-7688-4ffa-abfb-fc056f8a5df4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[클리프 쿠앙 : 구글 수석 디자이너, ‘선택받는 디자인’을 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/518</link>
-            <guid>https://www.longblack.co/note/518</guid>
-            <pubDate>Thu, 15 Dec 2022 15:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;요즘 잘나가는 서비스에는 하나같이 ‘디자인이 사용자 친화적’이라는 평이 따라붙어요. 토스toss가 대표적이죠. 문득 저도 에디터로서 하나의 디자인을 하고 있다는 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[너 자신의 이유로 살라 : 남의 욕망을 따라 욕망하지 말라 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/519</link>
+            <guid>https://www.longblack.co/note/519</guid>
+            <pubDate>Fri, 16 Dec 2022 15:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;주말에 교보문고에 갔어요. 매년 이맘때, 내년에 쓸 다이어리를 사거든요!&nbsp;첫 장을 펼치고, 내년엔 뭘 하고 싶은지 하나씩 적어둘 거예요. 제 이야기를 듣더니, 김<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #67에선, 마스크 의무 착용 해제, 버섯으로 만든 가죽의 가능성, 국제 사회 속 성장한 아프리카의 영향력, 오픈 AI의 인공지능 모델 ‘챗GPT’에 관해 이야기합니다. (북저널리즘)]]></title>
