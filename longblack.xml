@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-12-18T14:17:30.825Z</updated>
+    <updated>2022-12-18T15:20:01.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2022-12-17T15:18:41.044Z</updated>
-        <content type="html"><![CDATA[K의 마음을 움직인 지난주 롱블랙의 문장
-
-“남들이 ‘이렇게 해야 한다’는 말을 쉽게 믿지 않아요. 삶은 복잡하고 변화무쌍하죠. 쉽게 확신할 수 없어요. 그보다 나를 들여다보는 게 중요했어요. 내가 반응하는 게 뭔지 생각했죠. 전시로 다룬 내용은 전부 제가 좋아하는<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[아로마티카 : 18년을 버틴 친환경 미션, 비즈니스가 되다]]></title>
+        <id>https://www.longblack.co/note/520</id>
+        <link href="https://www.longblack.co/note/520"/>
+        <updated>2022-12-18T15:19:03.857Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;K가 연말 선물이라면서 바디 오일을 줬어. “비건에 제로 웨이스트zero waste까지 실천하는 브랜드인데 한번 써보라”고 하더라. 응? 그런데 나 여기 바디워시<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
