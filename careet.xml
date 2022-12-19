@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 07:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 08:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/1970d346-8a71-486f-ade2-a1abaceef465_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[올해 가장 일 잘한 브랜드는? 브랜드 마케팅 성적표 A+ 모음]]></title>
+            <title><![CDATA[올해 가장 일 잘한 브랜드는? MZ세대 마케팅 성적표 A+ 모음]]></title>
             <link>https://www.careet.net/964</link>
             <guid>https://www.careet.net/964</guid>
             <pubDate>Thu, 15 Dec 2022 01:47:04 GMT</pubDate>
             <content:encoded><![CDATA[카테고리 별 일 잘한 브랜드 레퍼런스로 2022년을 톺아보고, 2023년 준비하기]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/030bbfe7-5992-475a-89f6-40f526c96d13_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/57f08fc0-5666-43f8-ac9b-c3037102250c_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[5분 요약] 2022 F&B 트렌드 모아보기]]></title>
