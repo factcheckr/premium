@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 14:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 15:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,11 +374,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/0f2d8069-7688-4ffa-abfb-fc056f8a5df4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아로마티카 : 18년을 버틴 친환경 미션, 비즈니스가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/520</link>
-            <guid>https://www.longblack.co/note/520</guid>
-            <pubDate>Sun, 18 Dec 2022 15:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;K가 연말 선물이라면서 바디 오일을 줬어. “비건에 제로 웨이스트zero waste까지 실천하는 브랜드인데 한번 써보라”고 하더라. 응? 그런데 나 여기 바디워시<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[베어베터 : 곰 청년이 만든 쿠키와 명함, 그 너머의 희망을 찾아서 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/521</link>
+            <guid>https://www.longblack.co/note/521</guid>
+            <pubDate>Mon, 19 Dec 2022 15:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;연말 선물을 샀습니다. 베어베터Bear.Better.의 ‘빅베어’ 세트. 빨간색 곰이 그려진 상자에 초코 피넛 쿠키와 레몬향 마들렌이 담겨있죠.&nbsp;왜 이걸 골랐냐고<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕의 대기업들이 직원 연봉을 공개하기 시작했다. 급여공개법은 어떤 사회적 파장을 불러일으킬까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57555</link>
+            <guid>https://www.bookjournalism.com/books/57555</guid>
+            <pubDate>Mon, 19 Dec 2022 15:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[연봉 협상의 뉴노멀]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유럽은 이번 겨울을 따뜻하게 보낼 수 있을까? 진짜 에너지 위기는 지금부터다. (북저널리즘)]]></title>
@@ -456,13 +463,6 @@
             <guid>https://www.bookjournalism.com/audio/57326</guid>
             <pubDate>Fri, 09 Dec 2022 10:23:55 GMT</pubDate>
             <content:encoded><![CDATA[노조와 파업, MS와 슈퍼 앱, MZ와 통화]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[화물연대가 6월에 이어 11월에 돌입한 파업에서 동력을 잃었다. 그간 변한 것은 무엇인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57292</link>
-            <guid>https://www.bookjournalism.com/books/57292</guid>
-            <pubDate>Thu, 08 Dec 2022 15:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[집단 속의 개인]]></content:encoded>
         </item>
     </channel>
 </rss>

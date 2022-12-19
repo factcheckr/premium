@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-12-19T14:24:24.509Z</updated>
+    <updated>2022-12-19T15:25:06.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕의 대기업들이 직원 연봉을 공개하기 시작했다. 급여공개법은 어떤 사회적 파장을 불러일으킬까.]]></title>
+        <id>https://www.bookjournalism.com/books/57555</id>
+        <link href="https://www.bookjournalism.com/books/57555"/>
+        <updated>2022-12-19T15:24:55.108Z</updated>
+        <content type="html"><![CDATA[연봉 협상의 뉴노멀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유럽은 이번 겨울을 따뜻하게 보낼 수 있을까? 진짜 에너지 위기는 지금부터다.]]></title>
         <id>https://www.bookjournalism.com/books/57522</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/57326"/>
         <updated>2022-12-09T10:23:55.455Z</updated>
         <content type="html"><![CDATA[노조와 파업, MS와 슈퍼 앱, MZ와 통화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화물연대가 6월에 이어 11월에 돌입한 파업에서 동력을 잃었다. 그간 변한 것은 무엇인가.]]></title>
-        <id>https://www.bookjournalism.com/books/57292</id>
-        <link href="https://www.bookjournalism.com/books/57292"/>
-        <updated>2022-12-08T15:22:23.683Z</updated>
-        <content type="html"><![CDATA[집단 속의 개인]]></content>
     </entry>
 </feed>
