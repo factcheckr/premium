@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 03:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 04:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[27만 독자 PICK, 올해의 캐릿 콘텐츠 10]]></title>
+            <link>https://www.careet.net/965</link>
+            <guid>https://www.careet.net/965</guid>
+            <pubDate>Mon, 19 Dec 2022 04:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022 캐릿 콘텐츠 완전 요약본(feat. 구독자 투표)]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/500a221c-39af-4daf-a1b3-1d9b6fdf8f8b_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이미지로 보는 2022년 유행템! 맛집·패션·공간·앱·굿즈 다 정리했습니다]]></title>
             <link>https://www.careet.net/961</link>
