@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 23:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 01:40:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[편의점 왕중왕전: CU와 GS25는 어떻게 Z세대 핫플로 자리 잡게 되었을까?]]></title>
+            <link>https://www.careet.net/935</link>
+            <guid>https://www.careet.net/935</guid>
+            <pubDate>Tue, 20 Dec 2022 01:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[CU와 GS25의 Z세대 타깃 마케팅 포인트 총정리]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/6951471c-6eea-47c8-b55b-8af016b37227_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[27만 독자 PICK, 올해의 캐릿 콘텐츠 10]]></title>
             <link>https://www.careet.net/965</link>
