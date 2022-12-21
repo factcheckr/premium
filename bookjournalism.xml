@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-12-21T17:19:48.800Z</updated>
+    <updated>2022-12-21T18:25:36.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[AM 라디오가 전기차에서 사라지고 있다. 매체의 탄생과 종말을 무엇을 의미하나?]]></title>
+        <id>https://www.bookjournalism.com/books/57616</id>
+        <link href="https://www.bookjournalism.com/books/57616"/>
+        <updated>2022-12-21T18:25:25.840Z</updated>
+        <content type="html"><![CDATA[최소한의 미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우울한 세상 속, 달콤한 제로칼로리는 거부할 수 없는 유혹이다. 그러나 명심해야 한다. 대가 없는 쾌락은 없다는 것을.]]></title>
         <id>https://www.bookjournalism.com/books/57576</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/57416"/>
         <updated>2022-12-13T15:27:49.567Z</updated>
         <content type="html"><![CDATA[뉴 아프리카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 만에 마스크를 벗는다. 그런데, 벗어도 될까?]]></title>
-        <id>https://www.bookjournalism.com/books/57385</id>
-        <link href="https://www.bookjournalism.com/books/57385"/>
-        <updated>2022-12-12T15:23:36.293Z</updated>
-        <content type="html"><![CDATA[답답한 이야기]]></content>
     </entry>
 </feed>
