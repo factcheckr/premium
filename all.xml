@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 07:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 08:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -389,6 +389,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;푸른 에메랄드빛 바다, 무리 지어 헤엄치는 물고기, 알록달록한 산호… 도심 야경으로 유명한 홍콩의 바닷속이 산호초 세상이라는 거 아셨나요? 홍콩 해역에는 카리브해<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우울한 세상 속, 달콤한 제로칼로리는 거부할 수 없는 유혹이다. 그러나 명심해야 한다. 대가 없는 쾌락은 없다는 것을. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57576</link>
+            <guid>https://www.bookjournalism.com/books/57576</guid>
+            <pubDate>Wed, 21 Dec 2022 08:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[달콤한 환상, 제로칼로리]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[월드컵이 끝났다. 카타르는 왜 국제 무대를 원하나? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57578</link>
             <guid>https://www.bookjournalism.com/books/57578</guid>
@@ -464,13 +471,6 @@
             <guid>https://www.bookjournalism.com/books/57385</guid>
             <pubDate>Mon, 12 Dec 2022 15:23:36 GMT</pubDate>
             <content:encoded><![CDATA[답답한 이야기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘반유대주의’라는 망령이 되살아난다. 사람을 보지 못하게 되는 순간, 우리는 쉽게 괴물이 된다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57337</link>
-            <guid>https://www.bookjournalism.com/books/57337</guid>
-            <pubDate>Sun, 11 Dec 2022 15:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[혐오가 자란다]]></content:encoded>
         </item>
     </channel>
 </rss>

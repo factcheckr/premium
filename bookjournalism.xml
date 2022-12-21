@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-12-21T07:19:38.147Z</updated>
+    <updated>2022-12-21T08:26:49.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[우울한 세상 속, 달콤한 제로칼로리는 거부할 수 없는 유혹이다. 그러나 명심해야 한다. 대가 없는 쾌락은 없다는 것을.]]></title>
+        <id>https://www.bookjournalism.com/books/57576</id>
+        <link href="https://www.bookjournalism.com/books/57576"/>
+        <updated>2022-12-21T08:26:38.979Z</updated>
+        <content type="html"><![CDATA[달콤한 환상, 제로칼로리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월드컵이 끝났다. 카타르는 왜 국제 무대를 원하나?]]></title>
         <id>https://www.bookjournalism.com/books/57578</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/57385"/>
         <updated>2022-12-12T15:23:36.293Z</updated>
         <content type="html"><![CDATA[답답한 이야기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘반유대주의’라는 망령이 되살아난다. 사람을 보지 못하게 되는 순간, 우리는 쉽게 괴물이 된다.]]></title>
-        <id>https://www.bookjournalism.com/books/57337</id>
-        <link href="https://www.bookjournalism.com/books/57337"/>
-        <updated>2022-12-11T15:20:44.705Z</updated>
-        <content type="html"><![CDATA[혐오가 자란다]]></content>
     </entry>
 </feed>
