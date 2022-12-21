@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-12-21T14:19:44.486Z</updated>
+    <updated>2022-12-21T15:23:01.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[아키리프 : 포켓몬을 사랑한 과학자, 죽어가는 산호초를 살리다]]></title>
-        <id>https://www.longblack.co/note/522</id>
-        <link href="https://www.longblack.co/note/522"/>
-        <updated>2022-12-20T15:24:39.846Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;푸른 에메랄드빛 바다, 무리 지어 헤엄치는 물고기, 알록달록한 산호… 도심 야경으로 유명한 홍콩의 바닷속이 산호초 세상이라는 거 아셨나요? 홍콩 해역에는 카리브해<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[어반비즈 : 도심의 옥상에서 벌을 키우며, 달콤한 생태계를 키우다]]></title>
+        <id>https://www.longblack.co/note/523</id>
+        <link href="https://www.longblack.co/note/523"/>
+        <updated>2022-12-21T15:22:03.246Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;“꿀벌 100억 마리 사라졌다… 생태계 재앙 이어지나” “꿀벌 집단 실종·폐사… 올해는 시기 빨라져” 요즘 자주 접하게 되는 뉴스입니다. 어렴풋이 들어본 것 같습<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
