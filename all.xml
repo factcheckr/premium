@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 05:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 06:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성과내는 마케팅 팀장의 비밀: 팀 차터(Charter) 템플릿으로 팀 운영하기 (퍼블리)]]></title>
+            <link>https://publy.co/content/7082?fr=category</link>
+            <guid>https://publy.co/content/7082?fr=category</guid>
+            <pubDate>Wed, 21 Dec 2022 06:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[퇴근 시간을 10분 앞당겨주는 메일 작성법 8가지 (퍼블리)]]></title>
             <link>https://publy.co/content/7097?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7090?fr=category</guid>
             <pubDate>Wed, 14 Dec 2022 07:19:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[실무에 바로 쓰는 일잘러의 기획서 작성법 (퍼블리)]]></title>
-            <link>https://publy.co/content/7075?fr=category</link>
-            <guid>https://publy.co/content/7075?fr=category</guid>
-            <pubDate>Tue, 13 Dec 2022 06:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[편의점 왕중왕전: CU와 GS25는 어떻게 Z세대 핫플로 자리 잡게 되었을까? (캐릿)]]></title>
