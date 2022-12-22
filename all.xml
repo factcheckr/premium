@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 23:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 01:38:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7056?fr=category</guid>
             <pubDate>Wed, 14 Dec 2022 07:19:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대 타깃 행사에 섭외할 ‘연사’를 고민 중이시라고요? (캐릿)]]></title>
+            <link>https://www.careet.net/972</link>
+            <guid>https://www.careet.net/972</guid>
+            <pubDate>Thu, 22 Dec 2022 01:37:43 GMT</pubDate>
+            <content:encoded><![CDATA[행사 분위기 하드캐리할 Z세대 PICK 연사 7인]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/cb458319-a7dc-4dfa-8eab-7b1adbb5f96c_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[편의점 왕중왕전: CU와 GS25는 어떻게 Z세대 핫플로 자리 잡게 되었을까? (캐릿)]]></title>
@@ -382,7 +390,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/0f2d8069-7688-4ffa-abfb-fc056f8a5df4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[어반비즈 : 도심의 옥상에서 벌을 키우며, 달콤한 생태계를 키우다 (롱블랙)]]></title>
+            <title><![CDATA[어반비즈 : 도심의 옥상에서 벌을 키우며, 달콤한 생태계를 만들다 (롱블랙)]]></title>
             <link>https://www.longblack.co/note/523</link>
             <guid>https://www.longblack.co/note/523</guid>
             <pubDate>Wed, 21 Dec 2022 15:22:03 GMT</pubDate>
