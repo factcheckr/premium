@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 22:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 23:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -397,6 +397,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C‘지구를 지키겠다’는 원대한 마음이 있어야만, 체인지 메이커change maker가 될 수 있는 걸까요? ‘재미있어서’ ‘이러면 내 마음이 편해서’ 이 길을 걷기 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연말이다. 회식이 이어진다. 그러나 회식의 정의는 달라졌다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57653</link>
+            <guid>https://www.bookjournalism.com/books/57653</guid>
+            <pubDate>Thu, 22 Dec 2022 23:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[술 마시면 친해진다는 옛말]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[AM 라디오가 전기차에서 사라지고 있다. 매체의 탄생과 종말은 무엇을 의미하나? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57616</link>
             <guid>https://www.bookjournalism.com/books/57616</guid>
@@ -472,13 +479,6 @@
             <guid>https://www.bookjournalism.com/books/57442</guid>
             <pubDate>Wed, 14 Dec 2022 08:28:09 GMT</pubDate>
             <content:encoded><![CDATA[사우디아라비아, 왕자의 난]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국이 아프리카 내 영향력을 키우는 중국을 견제하고자 나섰다. 아프리카가 주목 받는 이유는 무엇일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57416</link>
-            <guid>https://www.bookjournalism.com/books/57416</guid>
-            <pubDate>Tue, 13 Dec 2022 15:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[뉴 아프리카]]></content:encoded>
         </item>
     </channel>
 </rss>
