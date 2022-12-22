@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 02:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 03:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -404,6 +404,13 @@
             <content:encoded><![CDATA[최소한의 미디어]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우울한 세상 속, 달콤한 제로칼로리는 거부할 수 없는 유혹이다. 그러나 명심해야 한다. 대가 없는 쾌락은 없다는 것을. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57576</link>
             <guid>https://www.bookjournalism.com/books/57576</guid>
@@ -416,13 +423,6 @@
             <guid>https://www.bookjournalism.com/books/57578</guid>
             <pubDate>Tue, 20 Dec 2022 15:25:27 GMT</pubDate>
             <content:encoded><![CDATA[카타르가 월드컵을 연 진짜 이유]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴욕의 대기업들이 직원 연봉을 공개하기 시작했다. 급여공개법은 어떤 사회적 파장을 불러일으킬까. (북저널리즘)]]></title>
