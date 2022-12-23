@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 01:39:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 02:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -412,18 +412,18 @@
             <content:encoded><![CDATA[술 마시면 친해진다는 옛말]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AM 라디오가 전기차에서 사라지고 있다. 매체의 탄생과 종말은 무엇을 의미하나? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57616</link>
-            <guid>https://www.bookjournalism.com/books/57616</guid>
-            <pubDate>Wed, 21 Dec 2022 18:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[최소한의 미디어]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AM 라디오가 전기차에서 사라지고 있다. 매체의 탄생과 종말은 무엇을 의미하나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57616</link>
+            <guid>https://www.bookjournalism.com/books/57616</guid>
+            <pubDate>Wed, 21 Dec 2022 18:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[최소한의 미디어]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우울한 세상 속, 달콤한 제로칼로리는 거부할 수 없는 유혹이다. 그러나 명심해야 한다. 대가 없는 쾌락은 없다는 것을. (북저널리즘)]]></title>
