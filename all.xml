@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 14:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 15:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,11 +398,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/0f2d8069-7688-4ffa-abfb-fc056f8a5df4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[고맙습니다 : 이 아름다운 행성에서 생각하는 동물로 산다는 것 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/526</link>
-            <guid>https://www.longblack.co/note/526</guid>
-            <pubDate>Fri, 23 Dec 2022 15:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;연말이 되면 항상 두 가지 마음이 싸웁니다. 올 한 해도 무사히 잘 마쳤다는 마음과, 한 것도 없이 한 해가 흘러버렸다는 마음.제 이야기를 듣더니, 장은수 대표님<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 24 Dec 2022 15:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[L의 마음을 움직인 지난주 롱블랙의 문장
+
+“저는 베어베터에서 일한 10년 동안 월급을 받지 않았어요. 영업이익도 모두 직원에게 나눴습니다. 저는 경제적 자유가 있었잖아요. 다른 회사도 이렇게 돌아갈 순 없겠죠. 이 모델에 한계가 있는 이유예요. 그래서 저는 베어베<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #68에선, 에너지 위기 속에서 겨울을 맞는 유럽, 개인화 시대의 달라진 회식 문화, 뉴욕의 급여공개법이 불러올 파장, 카타르가 월드컵을 개최한 이유에 관해 이야기합니다. (북저널리즘)]]></title>

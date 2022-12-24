@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-12-24T14:17:37.106Z</updated>
+    <updated>2022-12-24T15:20:14.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[고맙습니다 : 이 아름다운 행성에서 생각하는 동물로 산다는 것]]></title>
-        <id>https://www.longblack.co/note/526</id>
-        <link href="https://www.longblack.co/note/526"/>
-        <updated>2022-12-23T15:20:29.501Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;연말이 되면 항상 두 가지 마음이 싸웁니다. 올 한 해도 무사히 잘 마쳤다는 마음과, 한 것도 없이 한 해가 흘러버렸다는 마음.제 이야기를 듣더니, 장은수 대표님<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2022-12-24T15:19:16.177Z</updated>
+        <content type="html"><![CDATA[L의 마음을 움직인 지난주 롱블랙의 문장
+
+“저는 베어베터에서 일한 10년 동안 월급을 받지 않았어요. 영업이익도 모두 직원에게 나눴습니다. 저는 경제적 자유가 있었잖아요. 다른 회사도 이렇게 돌아갈 순 없겠죠. 이 모델에 한계가 있는 이유예요. 그래서 저는 베어베<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
