@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 15:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 16:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -413,6 +413,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;저 하입비스트에서 재미있는 제품을 봤어요! 주전자인데, 물이 나오는 입구에 보라색의 농구 선수 모형이 달려 있어요.&nbsp;알아봤더니, 글쎄 버질 아블로Virgil Ab<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[일본이 ‘전쟁 가능 국가’가 됐다. 형해화한 것은 양심인가 야심인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57734</link>
+            <guid>https://www.bookjournalism.com/books/57734</guid>
+            <pubDate>Mon, 26 Dec 2022 16:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[제국의 부활]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[플랫폼 업계에 ‘연말결산’ 열풍이 불고 있다. 그 안에 2023년 마케팅 트렌드가 보인다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57691</link>
             <guid>https://www.bookjournalism.com/books/57691</guid>
@@ -488,13 +495,6 @@
             <guid>https://www.bookjournalism.com/books/57495</guid>
             <pubDate>Thu, 15 Dec 2022 15:23:07 GMT</pubDate>
             <content:encoded><![CDATA[버섯의 재발견]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지금의 대학원을 둘러싼 농담과 담론은 지속 불가능한 학계를 말한다. 신진 연구자 여덟 명이 대학원의 문제와 미래를 이야기한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57355</link>
-            <guid>https://www.bookjournalism.com/books/57355</guid>
-            <pubDate>Thu, 15 Dec 2022 15:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[한국에서 박사하기]]></content:encoded>
         </item>
     </channel>
 </rss>
