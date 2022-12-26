@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 23:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 01:39:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7057?fr=category</guid>
             <pubDate>Fri, 16 Dec 2022 07:17:34 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘연말 특별 기획전’으로 MZ세대 눈길 잡기에 성공한 브랜드 3 (캐릿)]]></title>
+            <link>https://www.careet.net/974</link>
+            <guid>https://www.careet.net/974</guid>
+            <pubDate>Mon, 26 Dec 2022 01:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[연말을 맞이해 ‘졸업 사진’을 찍어주는 의류 브랜드 팝업 스토어가 있다?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/188a397a-d878-4368-9e11-16a32dbb42d3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 픽 핫플부터 굿즈까지! 2023 유행템 미리보기 (캐릿)]]></title>
@@ -402,7 +410,7 @@
             <link>https://www.longblack.co/note/527</link>
             <guid>https://www.longblack.co/note/527</guid>
             <pubDate>Sun, 25 Dec 2022 15:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L분크vunque라고 들어봤어? 올해 매출 성장률이 64%인 국내 가방 브랜드야. 2021년 연매출 250억원에서 2022년 매출 예상액 410억원으로 훌쩍 뛰었어.<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;분크vunque라고 들어봤어? 올해 매출 성장률이 64%인 국내 가방 브랜드야. 2021년 연매출 250억원에서 2022년 매출 예상액 410억원으로 훌쩍 뛰었어<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[플랫폼 업계에 ‘연말결산’ 열풍이 불고 있다. 그 안에 2023년 마케팅 트렌드가 보인다. (북저널리즘)]]></title>
@@ -410,6 +418,13 @@
             <guid>https://www.bookjournalism.com/books/57691</guid>
             <pubDate>Sun, 25 Dec 2022 15:20:21 GMT</pubDate>
             <content:encoded><![CDATA[아디오스, 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #68에선, 에너지 위기 속에서 겨울을 맞는 유럽, 개인화 시대의 달라진 회식 문화, 뉴욕의 급여공개법이 불러올 파장, 카타르가 월드컵을 개최한 이유에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -424,13 +439,6 @@
             <guid>https://www.bookjournalism.com/books/57653</guid>
             <pubDate>Thu, 22 Dec 2022 23:22:57 GMT</pubDate>
             <content:encoded><![CDATA[술 마시면 친해진다는 옛말]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[AM 라디오가 전기차에서 사라지고 있다. 매체의 탄생과 종말은 무엇을 의미하나? (북저널리즘)]]></title>

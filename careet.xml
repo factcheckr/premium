@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 23:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 01:39:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘연말 특별 기획전’으로 MZ세대 눈길 잡기에 성공한 브랜드 3]]></title>
+            <link>https://www.careet.net/974</link>
+            <guid>https://www.careet.net/974</guid>
+            <pubDate>Mon, 26 Dec 2022 01:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[연말을 맞이해 ‘졸업 사진’을 찍어주는 의류 브랜드 팝업 스토어가 있다?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/188a397a-d878-4368-9e11-16a32dbb42d3_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 픽 핫플부터 굿즈까지! 2023 유행템 미리보기]]></title>
             <link>https://www.careet.net/973</link>
