@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 05:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 06:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글을 술술 쓰게 되는 글쓰기 저글링 시스템(노션 템플릿) (퍼블리)]]></title>
+            <link>https://publy.co/content/7104?fr=category</link>
+            <guid>https://publy.co/content/7104?fr=category</guid>
+            <pubDate>Mon, 26 Dec 2022 06:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2023 채용 트렌드: 지원자가 면접관이 된다? 리버스 리쿠르팅 (퍼블리)]]></title>
             <link>https://publy.co/content/7059?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7081?fr=category</guid>
             <pubDate>Fri, 16 Dec 2022 07:17:34 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 글로벌 트렌드: 반려동물 감정 알 수 있을까? 펫미족 파고든 스타벅스, 발렌티노 근황 (퍼블리)]]></title>
-            <link>https://publy.co/content/7057?fr=category</link>
-            <guid>https://publy.co/content/7057?fr=category</guid>
-            <pubDate>Fri, 16 Dec 2022 07:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘연말 특별 기획전’으로 MZ세대 눈길 잡기에 성공한 브랜드 3 (캐릿)]]></title>
