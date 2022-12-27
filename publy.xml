@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-12-27T05:19:28.760Z</updated>
+    <updated>2022-12-27T06:26:32.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[실무형 팀장의 3가지 시간관리 방법: 끊임없이 방해받는 을 of 을 탈출하기]]></title>
+        <id>https://publy.co/content/7065?fr=category</id>
+        <link href="https://publy.co/content/7065?fr=category"/>
+        <updated>2022-12-27T06:25:15.592Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글을 술술 쓰게 되는 글쓰기 저글링 시스템(노션 템플릿)]]></title>
         <id>https://publy.co/content/7104?fr=category</id>
@@ -66,13 +73,6 @@
         <id>https://publy.co/content/7073?fr=category</id>
         <link href="https://publy.co/content/7073?fr=category"/>
         <updated>2022-12-19T06:24:53.854Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게으른 완벽주의자들을 위한 한 장으로 끝내는 2022 1P 회고법 (노션 템플릿)]]></title>
-        <id>https://publy.co/content/7081?fr=category</id>
-        <link href="https://publy.co/content/7081?fr=category"/>
-        <updated>2022-12-16T07:17:34.743Z</updated>
         <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
     </entry>
 </feed>

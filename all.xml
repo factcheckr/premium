@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 05:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 06:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실무형 팀장의 3가지 시간관리 방법: 끊임없이 방해받는 을 of 을 탈출하기 (퍼블리)]]></title>
+            <link>https://publy.co/content/7065?fr=category</link>
+            <guid>https://publy.co/content/7065?fr=category</guid>
+            <pubDate>Tue, 27 Dec 2022 06:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[글을 술술 쓰게 되는 글쓰기 저글링 시스템(노션 템플릿) (퍼블리)]]></title>
             <link>https://publy.co/content/7104?fr=category</link>
@@ -68,13 +75,6 @@
             <link>https://publy.co/content/7073?fr=category</link>
             <guid>https://publy.co/content/7073?fr=category</guid>
             <pubDate>Mon, 19 Dec 2022 06:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[게으른 완벽주의자들을 위한 한 장으로 끝내는 2022 1P 회고법 (노션 템플릿) (퍼블리)]]></title>
-            <link>https://publy.co/content/7081?fr=category</link>
-            <guid>https://publy.co/content/7081?fr=category</guid>
-            <pubDate>Fri, 16 Dec 2022 07:17:34 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
