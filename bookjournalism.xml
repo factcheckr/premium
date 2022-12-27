@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-12-27T16:28:22.556Z</updated>
+    <updated>2022-12-27T17:18:23.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[바이오테크가 동물 실험의 대안으로 주목받는다. 논란의 동물 실험이 지속돼 온 이유는 무엇인가?]]></title>
+        <id>https://www.bookjournalism.com/books/57771</id>
+        <link href="https://www.bookjournalism.com/books/57771"/>
+        <updated>2022-12-27T17:18:12.042Z</updated>
+        <content type="html"><![CDATA[대안 실험의 조건]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본이 ‘전쟁 가능 국가’가 됐다. 형해화한 것은 양심인가 야심인가.]]></title>
         <id>https://www.bookjournalism.com/books/57734</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/57518"/>
         <updated>2022-12-16T10:22:56.634Z</updated>
         <content type="html"><![CDATA[버섯은 가죽으로, 검색은 인공지능으로, 투자는 아프리카로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에르메스가 버섯 가죽에 투자한다. 버섯은 소재 산업의 미래가 될까?]]></title>
-        <id>https://www.bookjournalism.com/books/57495</id>
-        <link href="https://www.bookjournalism.com/books/57495"/>
-        <updated>2022-12-15T15:23:07.443Z</updated>
-        <content type="html"><![CDATA[버섯의 재발견]]></content>
     </entry>
 </feed>

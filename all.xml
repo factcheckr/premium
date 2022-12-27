@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 16:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 17:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -421,6 +421,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;해를 거듭할수록 사는 게 만만찮습니다. 뭐라도 읽으면 힌트를 얻을까 싶어 손에 잡히는 대로 책을 읽었어요. 그러다 제 마음에 박힌 문장이 하나 있었습니다.&nbsp;“40<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[바이오테크가 동물 실험의 대안으로 주목받는다. 논란의 동물 실험이 지속돼 온 이유는 무엇인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57771</link>
+            <guid>https://www.bookjournalism.com/books/57771</guid>
+            <pubDate>Tue, 27 Dec 2022 17:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[대안 실험의 조건]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[일본이 ‘전쟁 가능 국가’가 됐다. 형해화한 것은 양심인가 야심인가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57734</link>
             <guid>https://www.bookjournalism.com/books/57734</guid>
@@ -496,13 +503,6 @@
             <guid>https://www.bookjournalism.com/audio/57518</guid>
             <pubDate>Fri, 16 Dec 2022 10:22:56 GMT</pubDate>
             <content:encoded><![CDATA[버섯은 가죽으로, 검색은 인공지능으로, 투자는 아프리카로]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에르메스가 버섯 가죽에 투자한다. 버섯은 소재 산업의 미래가 될까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57495</link>
-            <guid>https://www.bookjournalism.com/books/57495</guid>
-            <pubDate>Thu, 15 Dec 2022 15:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[버섯의 재발견]]></content:encoded>
         </item>
     </channel>
 </rss>
