@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 23:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 01:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 온라인 쇼핑몰의 ‘오프라인 매장’을 찾는 N가지 이유]]></title>
+            <link>https://www.careet.net/971</link>
+            <guid>https://www.careet.net/971</guid>
+            <pubDate>Tue, 27 Dec 2022 01:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[언택트 시대에도 Z세대가 온라인 쇼핑몰의 오프라인 매장을 선호하는 이유]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/456b5e0f-ee39-465b-b02f-929b2bece571_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘연말 특별 기획전’으로 MZ세대 눈길 잡기에 성공한 브랜드 3]]></title>
             <link>https://www.careet.net/974</link>
