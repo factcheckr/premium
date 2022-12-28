@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 23:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 01:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7073?fr=category</guid>
             <pubDate>Mon, 19 Dec 2022 06:24:53 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[12월 인급동으로 알아보는 ‘2023년에 주목해야 할 채널 5’ (캐릿)]]></title>
+            <link>https://www.careet.net/976</link>
+            <guid>https://www.careet.net/976</guid>
+            <pubDate>Wed, 28 Dec 2022 01:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[‘르세라핌’ 사쿠라, 유재석이 유튜브 채널을 운영한다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/32900149-75ec-4070-8882-9159605c6b1e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대가 온라인 쇼핑몰의 ‘오프라인 매장’을 찾는 N가지 이유 (캐릿)]]></title>
@@ -428,18 +436,18 @@
             <content:encoded><![CDATA[대안 실험의 조건]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일본이 ‘전쟁 가능 국가’가 됐다. 형해화한 것은 양심인가 야심인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57734</link>
-            <guid>https://www.bookjournalism.com/books/57734</guid>
-            <pubDate>Mon, 26 Dec 2022 16:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[제국의 부활]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일본이 ‘전쟁 가능 국가’가 됐다. 형해화한 것은 양심인가 야심인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57734</link>
+            <guid>https://www.bookjournalism.com/books/57734</guid>
+            <pubDate>Mon, 26 Dec 2022 16:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[제국의 부활]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[플랫폼 업계에 ‘연말결산’ 열풍이 불고 있다. 그 안에 2023년 마케팅 트렌드가 보인다. (북저널리즘)]]></title>
