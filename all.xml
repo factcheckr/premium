@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 14:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 15:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -422,11 +422,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/0f2d8069-7688-4ffa-abfb-fc056f8a5df4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[수학자 김민형 : 체계 없는 공부, 마침내 명료한 수식이 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/531</link>
-            <guid>https://www.longblack.co/note/531</guid>
-            <pubDate>Tue, 27 Dec 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;해를 거듭할수록 사는 게 만만찮습니다. 뭐라도 읽으면 힌트를 얻을까 싶어 손에 잡히는 대로 책을 읽었어요. 그러다 제 마음에 박힌 문장이 하나 있었습니다.&nbsp;“40<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[팬톤 : 티파니 블루와 스타벅스 그린, 컬러 비즈니스를 개척하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/528</link>
+            <guid>https://www.longblack.co/note/528</guid>
+            <pubDate>Wed, 28 Dec 2022 15:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;올해도 어김없이 나왔더라. 팬톤PANTONE이 선정한 올해의 컬러. 비바 마젠타Viva Magenta야. 조금 밝고 크리미한 빨간색이지. 삶을 축하하는 힘을 가진<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이란의 시위는 히잡에 관한 것이 아니다. 삶과 자유를 근본부터 재정의하는 혁명이다. (북저널리즘)]]></title>
