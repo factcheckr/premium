@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 17:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 18:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -429,6 +429,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;올해도 어김없이 나왔더라. 팬톤PANTONE이 선정한 올해의 컬러. 비바 마젠타Viva Magenta야. 조금 밝고 크리미한 빨간색이지. 삶을 축하하는 힘을 가진<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[규제가 풀린다. 돈줄도 풀린다. 그런데 지표에 가려진 사람들이 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57873</link>
+            <guid>https://www.bookjournalism.com/books/57873</guid>
+            <pubDate>Wed, 28 Dec 2022 18:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[부동산 비상착륙]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이란의 시위는 히잡에 관한 것이 아니다. 삶과 자유를 근본부터 재정의하는 혁명이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/57793</link>
             <guid>https://www.bookjournalism.com/books/57793</guid>
@@ -504,13 +511,6 @@
             <guid>https://www.bookjournalism.com/books/57555</guid>
             <pubDate>Mon, 19 Dec 2022 15:24:55 GMT</pubDate>
             <content:encoded><![CDATA[연봉 협상의 뉴노멀]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유럽은 이번 겨울을 따뜻하게 보낼 수 있을까? 진짜 에너지 위기는 지금부터다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57522</link>
-            <guid>https://www.bookjournalism.com/books/57522</guid>
-            <pubDate>Sun, 18 Dec 2022 21:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[유럽의 겨울]]></content:encoded>
         </item>
     </channel>
 </rss>
