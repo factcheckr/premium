@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 23:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 01:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[데이터] Z세대 40.4%, 현재 직업을 선택한 이유 “쉽게 취업할 수 있어서”]]></title>
+            <link>https://www.careet.net/970</link>
+            <guid>https://www.careet.net/970</guid>
+            <pubDate>Thu, 29 Dec 2022 01:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 팀원은 어떤 성장을 꿈꿀까요? 데이터로 확인해 보세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7274bedb-a1a9-4dd0-857d-feda36feed7f_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[12월 인급동으로 알아보는 ‘2023년에 주목해야 할 채널 5’]]></title>
             <link>https://www.careet.net/976</link>
