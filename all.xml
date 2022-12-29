@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 14:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 15:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -430,11 +430,22 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/0f2d8069-7688-4ffa-abfb-fc056f8a5df4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[팬톤 : 티파니 블루와 스타벅스 그린, 컬러 비즈니스를 개척하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/528</link>
-            <guid>https://www.longblack.co/note/528</guid>
-            <pubDate>Wed, 28 Dec 2022 15:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;올해도 어김없이 나왔더라. 팬톤PANTONE이 선정한 올해의 컬러. 비바 마젠타Viva Magenta야. 조금 밝고 크리미한 빨간색이지. 삶을 축하하는 힘을 가진<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[철수씨와 최고의 보트 : 갠지스 강의 화장터가 우리에게 가르치는 것 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/532</link>
+            <guid>https://www.longblack.co/note/532</guid>
+            <pubDate>Thu, 29 Dec 2022 15:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;올해 잘 마무리하고 있나요. 그동안 뿌듯한 일도, 후회스러운 일도 많았을 겁니다. 이것 하나는 확실해 보입니다. 롱블랙 피플은 누구보다 ‘더 나은 삶’을 치열하게<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘이 2022년의 마지막 콘텐츠로 〈2022 INSIDE; 네 가지 시선으로 본 한 해〉를 준비했습니다.
+
+뉴스를 나열하는 것만으로 가치 있는 콘텐츠가 만들어질 수 있다는 생각은 게으릅니다. 중요한 것은 빠르게 변화하는 세상을 이해할 수 있는 인식의 틀입니다. 그래서 북저널리즘은 네 가지 시선으로 이해한 2022년을 독자 여러분께 보여드립니다.
+
+매일 치열하게 사람과 세계, 관계와 갈등, 기술과 규범을 고민해 온 네 명의 에디터가 각자의 시선으로 정의한 2022년이라는 시대, 그리고 2023년의 전망을 지금 만나보세요. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57472</link>
+            <guid>https://www.bookjournalism.com/books/57472</guid>
+            <pubDate>Thu, 29 Dec 2022 15:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022 INSIDE]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[규제가 풀린다. 돈줄도 풀린다. 그런데 지표에 가려진 사람들이 있다. (북저널리즘)]]></title>
@@ -512,13 +523,6 @@
             <guid>https://www.bookjournalism.com/books/57578</guid>
             <pubDate>Tue, 20 Dec 2022 15:25:27 GMT</pubDate>
             <content:encoded><![CDATA[카타르가 월드컵을 연 진짜 이유]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕의 대기업들이 직원 연봉을 공개하기 시작했다. 급여공개법은 어떤 사회적 파장을 불러일으킬까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57555</link>
-            <guid>https://www.bookjournalism.com/books/57555</guid>
-            <pubDate>Mon, 19 Dec 2022 15:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[연봉 협상의 뉴노멀]]></content:encoded>
         </item>
     </channel>
 </rss>
