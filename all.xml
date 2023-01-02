@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 14:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 15:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,11 +254,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[서신정 : 저민 대나무를 엮듯, 시간을 쌓아 채상의 맥을 잇다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/538</link>
-            <guid>https://www.longblack.co/note/538</guid>
-            <pubDate>Sun, 01 Jan 2023 15:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;얼마 전 프리츠한센 150주년 기념 전시*에서 근사한 작품을 발견했습니다. 새카만 색의 단단한 피크닉 가방. 가죽 가방인 줄 알았는데 가까이서 보니, 대나무를 엮<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[더하우스콘서트 : 20년간 940회, ‘마룻바닥 클래식’을 전하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/536</link>
+            <guid>https://www.longblack.co/note/536</guid>
+            <pubDate>Mon, 02 Jan 2023 15:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;저 요즘 클래식 음악에 빠졌어요! 퇴근하면 유튜브로 클래식 공연을 틀어요. 바로크Barock 시대에 시작돼 400년 넘게 살아남은 음악이란 그 묵직함이, 정신없는<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대통령의 신년사는 노동 개혁을 이야기한다. 물론, 변화는 필요하다. 노조와 정부 모두. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58091</link>
+            <guid>https://www.bookjournalism.com/books/58091</guid>
+            <pubDate>Mon, 02 Jan 2023 15:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[노동의 NEXT LEVEL]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미디어의 미래를 이야기합니다. (북저널리즘)]]></title>
@@ -340,13 +347,6 @@
             <guid>https://www.bookjournalism.com/books/57653</guid>
             <pubDate>Thu, 22 Dec 2022 23:22:57 GMT</pubDate>
             <content:encoded><![CDATA[술 마시면 친해진다는 옛말]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AM 라디오가 전기차에서 사라지고 있다. 매체의 탄생과 종말은 무엇을 의미하나? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57616</link>
-            <guid>https://www.bookjournalism.com/books/57616</guid>
-            <pubDate>Wed, 21 Dec 2022 18:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[최소한의 미디어]]></content:encoded>
         </item>
     </channel>
 </rss>
