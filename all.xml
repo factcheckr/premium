@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 01:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 02:40:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7102?fr=category</guid>
             <pubDate>Fri, 23 Dec 2022 08:24:35 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023년 월별 트렌드 미리 보기 <Z세대 이슈 캘린더> (캐릿)]]></title>
+            <link>https://www.careet.net/979</link>
+            <guid>https://www.careet.net/979</guid>
+            <pubDate>Tue, 03 Jan 2023 02:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[1020이 주목하는 2023년도 이슈를 정리했습니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/810c300a-9070-4dfb-8be5-54241a1e6822_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스타벅스와 LG가 콜라보 공간을 기획했다고? 이주의 일 잘한 브랜드 2 (캐릿)]]></title>
@@ -268,18 +276,18 @@
             <content:encoded><![CDATA[노동의 NEXT LEVEL]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미디어의 미래를 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58042</link>
-            <guid>https://www.bookjournalism.com/books/58042</guid>
-            <pubDate>Sun, 01 Jan 2023 16:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[THE TEAM]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미디어의 미래를 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58042</link>
+            <guid>https://www.bookjournalism.com/books/58042</guid>
+            <pubDate>Sun, 01 Jan 2023 16:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[THE TEAM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오 에피소드 #69에선, 북저널리즘이 2022년의 마지막 콘텐츠로 준비한 〈2022 INSIDE; 네 가지 시선으로 본 한 해〉를 해설하고 제작 비하인드도 공개합니다. (북저널리즘)]]></title>
