@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-01-03T14:20:07.879Z</updated>
+    <updated>2023-01-03T15:22:43.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[CES 2023에서 신형 TV 모델들이 대거 등장할 예정이다. TV는 플랫폼을 넘어 하드웨어로서 어떤 가치를 줄 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/58127</id>
+        <link href="https://www.bookjournalism.com/books/58127"/>
+        <updated>2023-01-03T15:22:31.858Z</updated>
+        <content type="html"><![CDATA[물성이라는 계륵]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령의 신년사는 노동 개혁을 이야기한다. 물론, 변화는 필요하다. 노조와 정부 모두.]]></title>
         <id>https://www.bookjournalism.com/books/58091</id>
@@ -85,12 +92,5 @@
         <link href="https://www.bookjournalism.com/audio/57662"/>
         <updated>2022-12-23T10:22:42.757Z</updated>
         <content type="html"><![CDATA[유럽은 공급망 체인지, 기업은 문화 체인지, 카타르는 이미지 체인지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말이다. 회식이 이어진다. 그러나 회식의 정의는 달라졌다.]]></title>
-        <id>https://www.bookjournalism.com/books/57653</id>
-        <link href="https://www.bookjournalism.com/books/57653"/>
-        <updated>2022-12-22T23:22:57.459Z</updated>
-        <content type="html"><![CDATA[술 마시면 친해진다는 옛말]]></content>
     </entry>
 </feed>
