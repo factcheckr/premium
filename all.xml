@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 14:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 15:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,11 +270,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아원고택 : 270년 된 한옥을 자연으로 옮겨, 없던 정원을 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/535</link>
-            <guid>https://www.longblack.co/note/535</guid>
-            <pubDate>Tue, 03 Jan 2023 15:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;새해는 색다른 곳에서 맞고 싶었습니다. 전북 완주군 소양면을 찾았습니다. 종남산 자락의 아원고택은 한옥 스테이입니다. 방탄소년단이 다녀가 유명해졌죠. 하지만 더 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[마스나가 : 형제가 마을을 살리려고 만든, 118년 안경 브랜드 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/537</link>
+            <guid>https://www.longblack.co/note/537</guid>
+            <pubDate>Wed, 04 Jan 2023 15:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;다들 타임리스 위크 잘 즐기고 있어? 오래도록 한 일에 매달려온 사람들 이야기, 좋더라. 그런데 난 오래 살아남은 기업의 이야기도 궁금해졌어.문득, 김민주 울프하<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[생물다양성에 위협이 닥쳤다. 무엇이 지구 생활자를 지킬 수 있나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58169</link>
+            <guid>https://www.bookjournalism.com/books/58169</guid>
+            <pubDate>Wed, 04 Jan 2023 15:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[국립공원은 유일한 정답일까?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[달 탐사의 역사가 반 세기를 지났다. 그동안 우리가 얻은 것은 무엇인가. 앞으로 얻을 것은 무엇일까. (북저널리즘)]]></title>
@@ -356,13 +363,6 @@
             <guid>https://www.bookjournalism.com/books/57734</guid>
             <pubDate>Mon, 26 Dec 2022 16:28:13 GMT</pubDate>
             <content:encoded><![CDATA[제국의 부활]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[플랫폼 업계에 ‘연말결산’ 열풍이 불고 있다. 그 안에 2023년 마케팅 트렌드가 보인다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57691</link>
-            <guid>https://www.bookjournalism.com/books/57691</guid>
-            <pubDate>Sun, 25 Dec 2022 15:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[아디오스, 2022]]></content:encoded>
         </item>
     </channel>
 </rss>
