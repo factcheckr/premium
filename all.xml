@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 04:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 05:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데이터 기반으로 의사결정 할 때, 놓치기 쉬운 4가지 실수 (퍼블리)]]></title>
+            <title><![CDATA[잘못된 KPI와 실험은 그만! 올해 목표를 제대로 조준하는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/7098?fr=category</link>
             <guid>https://publy.co/content/7098?fr=category</guid>
             <pubDate>Thu, 29 Dec 2022 07:18:00 GMT</pubDate>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7059?fr=category</guid>
             <pubDate>Fri, 23 Dec 2022 08:24:35 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ESG 시대, 오해받기 싫다면 절대 놓쳐선 안 될 ‘그린워싱 체크리스트’ (캐릿)]]></title>
+            <link>https://www.careet.net/975</link>
+            <guid>https://www.careet.net/975</guid>
+            <pubDate>Wed, 04 Jan 2023 05:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[친환경 마케팅, 디테일 놓치고 MZ세대에게 ‘그린워싱’으로 오해받기 싫다면!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/50cbde66-9aa9-4913-8491-bdcd93b24653_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2023년 월별 트렌드 미리 보기 <Z세대 이슈 캘린더> (캐릿)]]></title>
