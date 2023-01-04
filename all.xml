@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 07:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 08:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -277,6 +277,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;새해는 색다른 곳에서 맞고 싶었습니다. 전북 완주군 소양면을 찾았습니다. 종남산 자락의 아원고택은 한옥 스테이입니다. 방탄소년단이 다녀가 유명해졌죠. 하지만 더 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[달 탐사의 역사가 반 세기를 지났다. 그동안 우리가 얻은 것은 무엇인가. 앞으로 얻을 것은 무엇일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/57530</link>
+            <guid>https://www.bookjournalism.com/books/57530</guid>
+            <pubDate>Wed, 04 Jan 2023 08:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[달을 향한 여정]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[CES 2023에서 신형 TV 모델들이 대거 등장할 예정이다. TV는 플랫폼을 넘어 하드웨어로서 어떤 가치를 줄 수 있을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58127</link>
             <guid>https://www.bookjournalism.com/books/58127</guid>
@@ -356,13 +363,6 @@
             <guid>https://www.bookjournalism.com/books/57691</guid>
             <pubDate>Sun, 25 Dec 2022 15:20:21 GMT</pubDate>
             <content:encoded><![CDATA[아디오스, 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오의 에피소드 #68에선, 에너지 위기 속에서 겨울을 맞는 유럽, 개인화 시대의 달라진 회식 문화, 뉴욕의 급여공개법이 불러올 파장, 카타르가 월드컵을 개최한 이유에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/57662</link>
-            <guid>https://www.bookjournalism.com/audio/57662</guid>
-            <pubDate>Fri, 23 Dec 2022 10:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[유럽은 공급망 체인지, 기업은 문화 체인지, 카타르는 이미지 체인지]]></content:encoded>
         </item>
     </channel>
 </rss>
