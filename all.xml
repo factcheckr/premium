@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 05:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 06:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,7 +94,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/810c300a-9070-4dfb-8be5-54241a1e6822_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[스타벅스와 LG가 콜라보 공간을 기획했다고? 이주의 일 잘한 브랜드 2 (캐릿)]]></title>
+            <title><![CDATA[스타벅스와 LG전자가 콜라보 공간을 기획했다고? 이주의 일 잘한 브랜드 2 (캐릿)]]></title>
             <link>https://www.careet.net/978</link>
             <guid>https://www.careet.net/978</guid>
             <pubDate>Mon, 02 Jan 2023 01:38:32 GMT</pubDate>
