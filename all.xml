@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 23:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 01:41:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -276,18 +276,18 @@
             <content:encoded><![CDATA[물성이라는 계륵]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대통령의 신년사는 노동 개혁을 이야기한다. 물론, 변화는 필요하다. 노조와 정부 모두. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58091</link>
-            <guid>https://www.bookjournalism.com/books/58091</guid>
-            <pubDate>Mon, 02 Jan 2023 15:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[노동의 NEXT LEVEL]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대통령의 신년사는 노동 개혁을 이야기한다. 물론, 변화는 필요하다. 노조와 정부 모두. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58091</link>
+            <guid>https://www.bookjournalism.com/books/58091</guid>
+            <pubDate>Mon, 02 Jan 2023 15:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[노동의 NEXT LEVEL]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미디어의 미래를 이야기합니다. (북저널리즘)]]></title>
