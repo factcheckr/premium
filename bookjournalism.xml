@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-01-05T14:20:47.146Z</updated>
+    <updated>2023-01-05T15:24:39.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[고향사랑기부제가 시행됐다. 기부금은 소멸 위기의 지역을 구할 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/58196</id>
+        <link href="https://www.bookjournalism.com/books/58196"/>
+        <updated>2023-01-05T15:24:27.204Z</updated>
+        <content type="html"><![CDATA[공간의 경계를 넘어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생물다양성에 위협이 닥쳤다. 무엇이 지구 생활자를 지킬 수 있나?]]></title>
         <id>https://www.bookjournalism.com/books/58169</id>
@@ -85,12 +92,5 @@
         <link href="https://www.bookjournalism.com/books/57771"/>
         <updated>2022-12-27T17:18:12.042Z</updated>
         <content type="html"><![CDATA[대안 실험의 조건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본이 ‘전쟁 가능 국가’가 됐다. 형해화한 것은 양심인가 야심인가.]]></title>
-        <id>https://www.bookjournalism.com/books/57734</id>
-        <link href="https://www.bookjournalism.com/books/57734"/>
-        <updated>2022-12-26T16:28:13.004Z</updated>
-        <content type="html"><![CDATA[제국의 부활]]></content>
     </entry>
 </feed>

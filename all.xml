@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 14:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 15:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,11 +278,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[마스나가 : 형제가 마을을 살리려고 만든, 118년 안경 브랜드 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/537</link>
-            <guid>https://www.longblack.co/note/537</guid>
-            <pubDate>Wed, 04 Jan 2023 15:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;다들 타임리스 위크 잘 즐기고 있어? 오래도록 한 일에 매달려온 사람들 이야기, 좋더라. 그런데 난 오래 살아남은 기업의 이야기도 궁금해졌어.문득, 김민주 울프하<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[나무의사 김천기 : 알맞은 땅에 심은 나무는 500년을 산다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/545</link>
+            <guid>https://www.longblack.co/note/545</guid>
+            <pubDate>Thu, 05 Jan 2023 15:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;무심코 지나치던 가로수가 고마운 순간들이 있습니다. 쨍쨍한 여름 햇빛을 피해 나무 그늘로 숨어들 때, 소낙비를 피해 나무 사이로 걸어갈 때가 그렇죠.가로수들이 1<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고향사랑기부제가 시행됐다. 기부금은 소멸 위기의 지역을 구할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58196</link>
+            <guid>https://www.bookjournalism.com/books/58196</guid>
+            <pubDate>Thu, 05 Jan 2023 15:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[공간의 경계를 넘어]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[생물다양성에 위협이 닥쳤다. 무엇이 지구 생활자를 지킬 수 있나? (북저널리즘)]]></title>
@@ -364,13 +371,6 @@
             <guid>https://www.bookjournalism.com/books/57771</guid>
             <pubDate>Tue, 27 Dec 2022 17:18:12 GMT</pubDate>
             <content:encoded><![CDATA[대안 실험의 조건]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일본이 ‘전쟁 가능 국가’가 됐다. 형해화한 것은 양심인가 야심인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57734</link>
-            <guid>https://www.bookjournalism.com/books/57734</guid>
-            <pubDate>Mon, 26 Dec 2022 16:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[제국의 부활]]></content:encoded>
         </item>
     </channel>
 </rss>
