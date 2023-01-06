@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 01:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 02:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -300,18 +300,18 @@
             <content:encoded><![CDATA[공간의 경계를 넘어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[생물다양성에 위협이 닥쳤다. 무엇이 지구 생활자를 지킬 수 있나? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58169</link>
-            <guid>https://www.bookjournalism.com/books/58169</guid>
-            <pubDate>Wed, 04 Jan 2023 15:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[국립공원은 유일한 정답일까?]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[생물다양성에 위협이 닥쳤다. 무엇이 지구 생활자를 지킬 수 있나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58169</link>
+            <guid>https://www.bookjournalism.com/books/58169</guid>
+            <pubDate>Wed, 04 Jan 2023 15:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[국립공원은 유일한 정답일까?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[달 탐사의 역사가 반 세기를 지났다. 그동안 우리가 얻은 것은 무엇인가. 앞으로 얻을 것은 무엇일까. (북저널리즘)]]></title>
