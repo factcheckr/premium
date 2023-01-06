@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-01-06T09:21:23.781Z</updated>
+    <updated>2023-01-06T10:23:13.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[매일 쓰는 문서 5종, 빨리 끝내는 치트키 모음]]></title>
+        <id>https://publy.co/content/7112?fr=category</id>
+        <link href="https://publy.co/content/7112?fr=category"/>
+        <updated>2023-01-06T10:21:57.750Z</updated>
+        <content type="html"><![CDATA[아티클 · 2분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마케터가 알아야 할 7가지 심리학(feat. 광고 소재 적용 팁)]]></title>
         <id>https://publy.co/content/7095?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7060?fr=category"/>
         <updated>2022-12-28T06:25:32.780Z</updated>
         <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실무형 팀장의 3가지 시간관리 방법: 끊임없이 방해받는 을 of 을 탈출하기]]></title>
-        <id>https://publy.co/content/7065?fr=category</id>
-        <link href="https://publy.co/content/7065?fr=category"/>
-        <updated>2022-12-27T06:25:15.592Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
