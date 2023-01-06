@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 23:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 01:44:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[M세대와 Z세대의 관심을 동시에 사로잡을 수 있는 이주의 트렌드 4]]></title>
+            <link>https://www.careet.net/982</link>
+            <guid>https://www.careet.net/982</guid>
+            <pubDate>Fri, 06 Jan 2023 01:43:41 GMT</pubDate>
+            <content:encoded><![CDATA[강백호, 미피, 아바타, 야채부락리... 지금이 몇 년도야?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/01f4355b-c9cc-464b-8442-132d23b5b9c4_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올해는 ‘웨이팅 마케팅’ 잘하는 브랜드가 뜬다?]]></title>
             <link>https://www.careet.net/946</link>
