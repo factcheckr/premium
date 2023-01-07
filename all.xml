@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 14:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 15:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[브레이브 : 새로운 출발, 두려움을 걷어낸 용기에서 시작된다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/539</link>
-            <guid>https://www.longblack.co/note/539</guid>
-            <pubDate>Fri, 06 Jan 2023 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;2023년 새해가 열렸습니다. 이맘때쯤이면 누구나 새로운 계획을 세우며 다른 삶을 살아보기로 마음먹죠. 저는 올해 테니스를 배워보려고 합니다. 체력 관리에 소홀했<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 07 Jan 2023 15:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[C가 기록한 지난주 롱블랙의 문장
+
+“30년 전 이곳에 자리 잡을 때, 저는 종남산밖에 안 보였어요. 그렇게 아름다운 건 없다고 생각했습니다. 돌아보니, 자연은 늘 그대로에요. 그런데 내 마음은 자꾸 변하죠. 30년 전만큼 아름답게 보지 못할 때가 많습니다. 그래서<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #70에선, 지금 이 시대의 노동 개혁, 위기에 빠진 TV 시장, 소멸 위기 지역과 고향사랑기부제, 생물다양성과 국립공원에 관해 이야기합니다. (북저널리즘)]]></title>
