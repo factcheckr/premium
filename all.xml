@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 14:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 15:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,11 +294,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[웬디스 : 빨강 머리 웬디, 버거킹을 누르고 미국 2위 체인이 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/549</link>
-            <guid>https://www.longblack.co/note/549</guid>
-            <pubDate>Sun, 08 Jan 2023 15:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;트위터에서 놀라운 걸 봤어요. 빨강 머리를 양 갈래로 묶은 웬디Wendy라는 소녀가 악당처럼 브랜드들을 괴롭히는 거예요! 오레오한테 “우유에 넣어야 맛있어진다면 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[야마구치 슈 : 일본 경영전략의 대가, 놀이가 일이 되는 시대를 말하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/542</link>
+            <guid>https://www.longblack.co/note/542</guid>
+            <pubDate>Mon, 09 Jan 2023 15:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;경기 침체, 성장 둔화, 불황… 요즘 뉴스에서 많이 보이는 단어입니다. 이 어려운 시기를 어떻게 이겨내야 할까. 답을 찾다가 한 경영 전략가의 말이 마음에 꽂혔습<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[15번의 투표 끝에 미 하원 의장이 선출됐다. 배후엔 트럼프가 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58280</link>
+            <guid>https://www.bookjournalism.com/books/58280</guid>
+            <pubDate>Mon, 09 Jan 2023 15:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[충분치 못한 보수주의자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연금 개혁안의 가닥이 잡혔다. 우리는 연금을 받을 수 있을까? (북저널리즘)]]></title>
@@ -380,13 +387,6 @@
             <guid>https://www.bookjournalism.com/books/57472</guid>
             <pubDate>Thu, 29 Dec 2022 15:22:01 GMT</pubDate>
             <content:encoded><![CDATA[2022 INSIDE]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[규제가 풀린다. 돈줄도 풀린다. 그런데 지표에 가려진 사람들이 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57873</link>
-            <guid>https://www.bookjournalism.com/books/57873</guid>
-            <pubDate>Wed, 28 Dec 2022 18:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[부동산 비상착륙]]></content:encoded>
         </item>
     </channel>
 </rss>
