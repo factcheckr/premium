@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 23:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 01:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7060?fr=category</guid>
             <pubDate>Wed, 28 Dec 2022 06:25:32 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[내년을 위해 미리 킵해두는 ‘신년 마케팅’ 레퍼런스 (캐릿)]]></title>
+            <link>https://www.careet.net/983</link>
+            <guid>https://www.careet.net/983</guid>
+            <pubDate>Mon, 09 Jan 2023 01:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[저장해뒀다가 2024년에 유용하게 써먹으세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/8dd81f12-7c17-4ff8-a3aa-b48984a58de6_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[M세대와 Z세대의 관심을 동시에 사로잡을 수 있는 이주의 트렌드 4 (캐릿)]]></title>
@@ -300,6 +308,13 @@
             <content:encoded><![CDATA[배수의 진, 연금]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #70에선, 지금 이 시대의 노동 개혁, 위기에 빠진 TV 시장, 소멸 위기 지역과 고향사랑기부제, 생물다양성과 국립공원에 관해 이야기합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/58223</link>
             <guid>https://www.bookjournalism.com/audio/58223</guid>
@@ -312,13 +327,6 @@
             <guid>https://www.bookjournalism.com/books/58196</guid>
             <pubDate>Thu, 05 Jan 2023 15:24:27 GMT</pubDate>
             <content:encoded><![CDATA[공간의 경계를 넘어]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[생물다양성에 위협이 닥쳤다. 무엇이 지구 생활자를 지킬 수 있나? (북저널리즘)]]></title>
