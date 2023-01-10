@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 23:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 01:46:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ세대 직장인 10명 중 7명, 명절 선물 ‘온라인’으로 받고 싶다]]></title>
+            <link>https://www.careet.net/981</link>
+            <guid>https://www.careet.net/981</guid>
+            <pubDate>Tue, 10 Jan 2023 01:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[엔데믹 시대에도 여전히 ‘온라인’으로 받는 명절 선물을 선호하는 이유]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/9630ef22-4726-4258-9f78-18ace12155ce_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[내년을 위해 미리 킵해두는 ‘신년 마케팅’ 레퍼런스]]></title>
             <link>https://www.careet.net/983</link>
