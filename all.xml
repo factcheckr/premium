@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 14:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 15:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,11 +302,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[야마구치 슈 : 일본 경영전략의 대가, 놀이가 일이 되는 시대를 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/542</link>
-            <guid>https://www.longblack.co/note/542</guid>
-            <pubDate>Mon, 09 Jan 2023 15:28:26 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;경기 침체, 성장 둔화, 불황… 요즘 뉴스에서 많이 보이는 단어입니다. 이 어려운 시기를 어떻게 이겨내야 할까. 답을 찾다가 한 경영 전략가의 말이 마음에 꽂혔습<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[이솝 : 호주 스킨케어 브랜드, 한국 핸드크림 시장을 장악하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/540</link>
+            <guid>https://www.longblack.co/note/540</guid>
+            <pubDate>Tue, 10 Jan 2023 15:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;생일 맞은 친구가 그러더라. 카카오톡 선물로 한 브랜드의 핸드크림만 세 개 받았다고. 어딘지 감이 오지? 스킨케어 브랜드 이솝Aesop이야. 이솝의 핸드크림은 수<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[주사를 맞으면 24kg을 뺄 수 있다. 마법이 아니라 현실이다. 그러나 마법이 문제를 해결하지는 않는다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58258</link>
+            <guid>https://www.bookjournalism.com/books/58258</guid>
+            <pubDate>Tue, 10 Jan 2023 15:29:38 GMT</pubDate>
+            <content:encoded><![CDATA[마법은 풀린다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[15번의 투표 끝에 미 하원 의장이 선출됐다. 배후엔 트럼프가 있다. (북저널리즘)]]></title>
@@ -384,17 +391,6 @@
             <guid>https://www.bookjournalism.com/audio/58031</guid>
             <pubDate>Fri, 30 Dec 2022 10:22:05 GMT</pubDate>
             <content:encoded><![CDATA[에디터들이 말하는 〈2022 INSIDE〉]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘이 2022년의 마지막 콘텐츠로 〈2022 INSIDE; 네 가지 시선으로 본 한 해〉를 준비했습니다.
-
-뉴스를 나열하는 것만으로 가치 있는 콘텐츠가 만들어질 수 있다는 생각은 게으릅니다. 중요한 것은 빠르게 변화하는 세상을 이해할 수 있는 인식의 틀입니다. 그래서 북저널리즘은 네 가지 시선으로 이해한 2022년을 독자 여러분께 보여드립니다.
-
-매일 치열하게 사람과 세계, 관계와 갈등, 기술과 규범을 고민해 온 네 명의 에디터가 각자의 시선으로 정의한 2022년이라는 시대, 그리고 2023년의 전망을 지금 만나보세요. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57472</link>
-            <guid>https://www.bookjournalism.com/books/57472</guid>
-            <pubDate>Thu, 29 Dec 2022 15:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022 INSIDE]]></content:encoded>
         </item>
     </channel>
 </rss>
