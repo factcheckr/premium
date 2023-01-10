@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-01-10T05:19:39.196Z</updated>
+    <updated>2023-01-10T07:19:27.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[MZ 세대가 줄 서는 팝업 스토어에서 발견한 마케터의 인사이트]]></title>
+        <id>https://publy.co/content/7078?fr=category</id>
+        <link href="https://publy.co/content/7078?fr=category"/>
+        <updated>2023-01-10T07:18:10.205Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핵심만 딱 담아내는 원페이지 보고서 작성하는 법]]></title>
         <id>https://publy.co/content/7110?fr=category</id>
@@ -66,13 +73,6 @@
         <id>https://publy.co/content/7098?fr=category</id>
         <link href="https://publy.co/content/7098?fr=category"/>
         <updated>2022-12-29T07:18:00.903Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일상의 황금비율 찾기! 블럭식스 시간관리법(템플릿 제공)]]></title>
-        <id>https://publy.co/content/7084?fr=category</id>
-        <link href="https://publy.co/content/7084?fr=category"/>
-        <updated>2022-12-28T06:25:32.779Z</updated>
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>

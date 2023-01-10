@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 05:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 07:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ 세대가 줄 서는 팝업 스토어에서 발견한 마케터의 인사이트 (퍼블리)]]></title>
+            <link>https://publy.co/content/7078?fr=category</link>
+            <guid>https://publy.co/content/7078?fr=category</guid>
+            <pubDate>Tue, 10 Jan 2023 07:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[핵심만 딱 담아내는 원페이지 보고서 작성하는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/7110?fr=category</link>
@@ -68,13 +75,6 @@
             <link>https://publy.co/content/7098?fr=category</link>
             <guid>https://publy.co/content/7098?fr=category</guid>
             <pubDate>Thu, 29 Dec 2022 07:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일상의 황금비율 찾기! 블럭식스 시간관리법(템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7084?fr=category</link>
-            <guid>https://publy.co/content/7084?fr=category</guid>
-            <pubDate>Wed, 28 Dec 2022 06:25:32 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
