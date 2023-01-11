@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 23:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 02:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직도 포토부스? 2023년에 유행할 공간 트렌드 4]]></title>
+            <link>https://www.careet.net/980</link>
+            <guid>https://www.careet.net/980</guid>
+            <pubDate>Wed, 11 Jan 2023 02:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드 공간 담당자라면 주목 하세요. 2023년에 유행할 공간 트렌드를 예측해 드립니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/4084d92a-ab91-468c-a116-68d304fdae26_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MZ세대 직장인 10명 중 7명, 명절 선물 ‘온라인’으로 받고 싶다]]></title>
             <link>https://www.careet.net/981</link>
