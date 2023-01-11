@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-01-11T05:20:47.737Z</updated>
+    <updated>2023-01-11T07:20:19.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA['그 셀카 필터가 AR마케팅?' 사례로 보는 4가지 AR필터 제작 가이드]]></title>
+        <id>https://publy.co/content/7079?fr=category</id>
+        <link href="https://publy.co/content/7079?fr=category"/>
+        <updated>2023-01-11T07:19:03.906Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MZ 세대가 줄 서는 팝업 스토어에서 발견한 마케터의 인사이트]]></title>
         <id>https://publy.co/content/7078?fr=category</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일잘러의 기획법: 상사의 6가지 유형별 기획서 작성 가이드]]></title>
+        <title type="html"><![CDATA[일잘러의 기획법: 상사의 6가지 유형별 기획서 작성 가이드(템플릿 제공)]]></title>
         <id>https://publy.co/content/7105?fr=category</id>
         <link href="https://publy.co/content/7105?fr=category"/>
         <updated>2023-01-04T07:17:59.182Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7088?fr=category"/>
         <updated>2022-12-30T07:17:14.608Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘못된 KPI와 실험은 그만! 올해 목표를 제대로 조준하는 법]]></title>
-        <id>https://publy.co/content/7098?fr=category</id>
-        <link href="https://publy.co/content/7098?fr=category"/>
-        <updated>2022-12-29T07:18:00.903Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>
