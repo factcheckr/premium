@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 14:29:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 15:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,11 +310,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이솝 : 호주 스킨케어 브랜드, 한국 핸드크림 시장을 장악하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/540</link>
-            <guid>https://www.longblack.co/note/540</guid>
-            <pubDate>Tue, 10 Jan 2023 15:28:49 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;생일 맞은 친구가 그러더라. 카카오톡 선물로 한 브랜드의 핸드크림만 세 개 받았다고. 어딘지 감이 오지? 스킨케어 브랜드 이솝Aesop이야. 이솝의 핸드크림은 수<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[미피 : 4000억 가치의 하얀 토끼, 68년 간 사랑받은 비결 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/541</link>
+            <guid>https://www.longblack.co/note/541</guid>
+            <pubDate>Wed, 11 Jan 2023 15:37:11 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;2023년 검은 토끼의 해가 되니, 요즘 이 브랜드가 눈에 띄어요. 바로 미피miffy! 편의점 CU는 토끼 귀 모양 용기로 도시락을, 육아용품 브랜드 슈퍼대디는<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오존층이 돌아온다. 우리는 건강해진 오존층에게서 무얼 배워야 하나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58326</link>
+            <guid>https://www.bookjournalism.com/books/58326</guid>
+            <pubDate>Wed, 11 Jan 2023 15:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[다시, 새로운 오존층]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[백조 목 플라스크 실험, 저온 살균법, 백신 개발. 이 모든 업적을 이뤄 낸 과학자 파스퇴르. 그는 어떻게 성공할 수 있었을까? (북저널리즘)]]></title>
@@ -392,13 +399,6 @@
             <guid>https://www.bookjournalism.com/books/58091</guid>
             <pubDate>Mon, 02 Jan 2023 15:21:50 GMT</pubDate>
             <content:encoded><![CDATA[노동의 NEXT LEVEL]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미디어의 미래를 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58042</link>
-            <guid>https://www.bookjournalism.com/books/58042</guid>
-            <pubDate>Sun, 01 Jan 2023 16:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[THE TEAM]]></content:encoded>
         </item>
     </channel>
 </rss>

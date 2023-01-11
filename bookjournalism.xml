@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-01-11T14:29:41.014Z</updated>
+    <updated>2023-01-11T15:38:14.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[오존층이 돌아온다. 우리는 건강해진 오존층에게서 무얼 배워야 하나?]]></title>
+        <id>https://www.bookjournalism.com/books/58326</id>
+        <link href="https://www.bookjournalism.com/books/58326"/>
+        <updated>2023-01-11T15:38:01.489Z</updated>
+        <content type="html"><![CDATA[다시, 새로운 오존층]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백조 목 플라스크 실험, 저온 살균법, 백신 개발. 이 모든 업적을 이뤄 낸 과학자 파스퇴르. 그는 어떻게 성공할 수 있었을까?]]></title>
         <id>https://www.bookjournalism.com/books/58111</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/58091"/>
         <updated>2023-01-02T15:21:50.283Z</updated>
         <content type="html"><![CDATA[노동의 NEXT LEVEL]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미디어의 미래를 이야기합니다.]]></title>
-        <id>https://www.bookjournalism.com/books/58042</id>
-        <link href="https://www.bookjournalism.com/books/58042"/>
-        <updated>2023-01-01T16:27:10.368Z</updated>
-        <content type="html"><![CDATA[THE TEAM]]></content>
     </entry>
 </feed>
