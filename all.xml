@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 21:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 22:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -325,6 +325,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;2017년, 프랑스의 TV 서바이벌 프로그램 ‘다음엔 누가 위대한 파티시에가 될 것인가(Qui Sera Le Prochain Grand Pâtissier?)’ 시<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[재택의 시대가 저문다. 생산성 논란의 진실은 무엇인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58389</link>
+            <guid>https://www.bookjournalism.com/books/58389</guid>
+            <pubDate>Thu, 12 Jan 2023 22:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[하이브리드 워크 무용론]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[오존층이 돌아온다. 우리는 건강해진 오존층에게서 무얼 배워야 하나? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58326</link>
             <guid>https://www.bookjournalism.com/books/58326</guid>
@@ -400,13 +407,6 @@
             <guid>https://www.bookjournalism.com/books/57530</guid>
             <pubDate>Wed, 04 Jan 2023 08:26:38 GMT</pubDate>
             <content:encoded><![CDATA[달을 향한 여정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CES 2023에서 신형 TV 모델들이 대거 등장할 예정이다. TV는 플랫폼을 넘어 하드웨어로서 어떤 가치를 줄 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58127</link>
-            <guid>https://www.bookjournalism.com/books/58127</guid>
-            <pubDate>Tue, 03 Jan 2023 15:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[물성이라는 계륵]]></content:encoded>
         </item>
     </channel>
 </rss>

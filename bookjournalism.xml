@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-01-12T21:20:18.450Z</updated>
+    <updated>2023-01-12T22:22:08.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[재택의 시대가 저문다. 생산성 논란의 진실은 무엇인가.]]></title>
+        <id>https://www.bookjournalism.com/books/58389</id>
+        <link href="https://www.bookjournalism.com/books/58389"/>
+        <updated>2023-01-12T22:21:56.585Z</updated>
+        <content type="html"><![CDATA[하이브리드 워크 무용론]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오존층이 돌아온다. 우리는 건강해진 오존층에게서 무얼 배워야 하나?]]></title>
         <id>https://www.bookjournalism.com/books/58326</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/57530"/>
         <updated>2023-01-04T08:26:38.041Z</updated>
         <content type="html"><![CDATA[달을 향한 여정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CES 2023에서 신형 TV 모델들이 대거 등장할 예정이다. TV는 플랫폼을 넘어 하드웨어로서 어떤 가치를 줄 수 있을까?]]></title>
-        <id>https://www.bookjournalism.com/books/58127</id>
-        <link href="https://www.bookjournalism.com/books/58127"/>
-        <updated>2023-01-03T15:22:31.858Z</updated>
-        <content type="html"><![CDATA[물성이라는 계륵]]></content>
     </entry>
 </feed>
