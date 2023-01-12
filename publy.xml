@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-01-11T23:22:09.983Z</updated>
+    <updated>2023-01-12T01:44:33.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[핵심만 딱 담아내는 원페이지 보고서 작성하는 법]]></title>
+        <title type="html"><![CDATA[핵심만 딱 담아내는 원페이지 보고서 작성법(feat.원페이지 설계 퀵 버전)]]></title>
         <id>https://publy.co/content/7110?fr=category</id>
         <link href="https://publy.co/content/7110?fr=category"/>
         <updated>2023-01-09T08:26:38.369Z</updated>
