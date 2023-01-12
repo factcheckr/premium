@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 06:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 07:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -332,6 +332,13 @@
             <content:encoded><![CDATA[다시, 새로운 오존층]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[손석희부터 삼프로TV까지. 토크 뉴스는 어떻게 레거시 미디어와 OTT의 공통분모가 됐나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58272</link>
+            <guid>https://www.bookjournalism.com/books/58272</guid>
+            <pubDate>Thu, 12 Jan 2023 07:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스, 토크하다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
@@ -400,13 +407,6 @@
             <guid>https://www.bookjournalism.com/books/58127</guid>
             <pubDate>Tue, 03 Jan 2023 15:22:31 GMT</pubDate>
             <content:encoded><![CDATA[물성이라는 계륵]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대통령의 신년사는 노동 개혁을 이야기한다. 물론, 변화는 필요하다. 노조와 정부 모두. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58091</link>
-            <guid>https://www.bookjournalism.com/books/58091</guid>
-            <pubDate>Mon, 02 Jan 2023 15:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[노동의 NEXT LEVEL]]></content:encoded>
         </item>
     </channel>
 </rss>
