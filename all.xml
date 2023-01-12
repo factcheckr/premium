@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 14:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 15:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,11 +318,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[미피 : 4000억 가치의 하얀 토끼, 68년 간 사랑받은 비결 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/541</link>
-            <guid>https://www.longblack.co/note/541</guid>
-            <pubDate>Wed, 11 Jan 2023 15:37:11 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;2023년 검은 토끼의 해가 되니, 요즘 이 브랜드가 눈에 띄어요. 바로 미피miffy! 편의점 CU는 토끼 귀 모양 용기로 도시락을, 육아용품 브랜드 슈퍼대디는<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[리제 이은지 : 메밀과 현미로, 뉴욕 디저트계의 슈퍼 루키가 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/544</link>
+            <guid>https://www.longblack.co/note/544</guid>
+            <pubDate>Thu, 12 Jan 2023 15:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;2017년, 프랑스의 TV 서바이벌 프로그램 ‘다음엔 누가 위대한 파티시에가 될 것인가(Qui Sera Le Prochain Grand Pâtissier?)’ 시<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오존층이 돌아온다. 우리는 건강해진 오존층에게서 무얼 배워야 하나? (북저널리즘)]]></title>
