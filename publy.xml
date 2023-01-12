@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-01-12T05:20:48.115Z</updated>
+    <updated>2023-01-12T06:27:39.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[팀장의 보고서로 연간 계획 끝내기 (by. 1년 로드맵 템플릿)]]></title>
+        <id>https://publy.co/content/7100?fr=category</id>
+        <link href="https://publy.co/content/7100?fr=category"/>
+        <updated>2023-01-12T06:26:26.626Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그 셀카 필터가 AR마케팅?' 사례로 보는 4가지 AR필터 제작 가이드]]></title>
         <id>https://publy.co/content/7079?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7061?fr=category"/>
         <updated>2022-12-30T07:17:14.605Z</updated>
         <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번아웃으로부터 나를 지키는 일상 시스템 구축하기]]></title>
-        <id>https://publy.co/content/7088?fr=category</id>
-        <link href="https://publy.co/content/7088?fr=category"/>
-        <updated>2022-12-30T07:17:14.608Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
 </feed>

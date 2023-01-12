@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 05:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 06:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀장의 보고서로 연간 계획 끝내기 (by. 1년 로드맵 템플릿) (퍼블리)]]></title>
+            <link>https://publy.co/content/7100?fr=category</link>
+            <guid>https://publy.co/content/7100?fr=category</guid>
+            <pubDate>Thu, 12 Jan 2023 06:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['그 셀카 필터가 AR마케팅?' 사례로 보는 4가지 AR필터 제작 가이드 (퍼블리)]]></title>
             <link>https://publy.co/content/7079?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7061?fr=category</guid>
             <pubDate>Fri, 30 Dec 2022 07:17:14 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[번아웃으로부터 나를 지키는 일상 시스템 구축하기 (퍼블리)]]></title>
-            <link>https://publy.co/content/7088?fr=category</link>
-            <guid>https://publy.co/content/7088?fr=category</guid>
-            <pubDate>Fri, 30 Dec 2022 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[갓생 트렌드는 올해도 지속될까? Z세대의 2023 버킷리스트 한눈에 보기 (캐릿)]]></title>
