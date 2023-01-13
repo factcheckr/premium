@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 23:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 03:01:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브부터 인스타그램까지, 1월 2주차 SNS 트렌드 모음]]></title>
+            <link>https://www.careet.net/988</link>
+            <guid>https://www.careet.net/988</guid>
+            <pubDate>Fri, 13 Jan 2023 03:00:20 GMT</pubDate>
+            <content:encoded><![CDATA[고등학교 트렌드 팔로우 업하기 좋은 10대 인플루언서의 등장]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/a1c596a8-a4f3-440b-8848-ae698645c5b9_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갓생 트렌드는 올해도 지속될까? Z세대의 2023 버킷리스트 한눈에 보기]]></title>
             <link>https://www.careet.net/984</link>

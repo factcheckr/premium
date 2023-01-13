@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 23:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 03:01:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7061?fr=category</guid>
             <pubDate>Fri, 30 Dec 2022 07:17:14 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유튜브부터 인스타그램까지, 1월 2주차 SNS 트렌드 모음 (캐릿)]]></title>
+            <link>https://www.careet.net/988</link>
+            <guid>https://www.careet.net/988</guid>
+            <pubDate>Fri, 13 Jan 2023 03:00:20 GMT</pubDate>
+            <content:encoded><![CDATA[고등학교 트렌드 팔로우 업하기 좋은 10대 인플루언서의 등장]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/a1c596a8-a4f3-440b-8848-ae698645c5b9_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[갓생 트렌드는 올해도 지속될까? Z세대의 2023 버킷리스트 한눈에 보기 (캐릿)]]></title>
@@ -332,6 +340,13 @@
             <content:encoded><![CDATA[하이브리드 워크 무용론]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[오존층이 돌아온다. 우리는 건강해진 오존층에게서 무얼 배워야 하나? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58326</link>
             <guid>https://www.bookjournalism.com/books/58326</guid>
@@ -344,13 +359,6 @@
             <guid>https://www.bookjournalism.com/books/58272</guid>
             <pubDate>Thu, 12 Jan 2023 07:19:36 GMT</pubDate>
             <content:encoded><![CDATA[뉴스, 토크하다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[백조 목 플라스크 실험, 저온 살균법, 백신 개발. 이 모든 업적을 이뤄 낸 과학자 파스퇴르. 그는 어떻게 성공할 수 있었을까? (북저널리즘)]]></title>
