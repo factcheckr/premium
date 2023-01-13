@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 04:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 12:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 월급 빼고 다 올라! 직장인들을 위한 돈 모으는 법 (퍼블리)]]></title>
+            <link>https://publy.co/content/7116?fr=category</link>
+            <guid>https://publy.co/content/7116?fr=category</guid>
+            <pubDate>Fri, 13 Jan 2023 12:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팀장의 보고서로 연간 계획 끝내기 (by. 1년 로드맵 템플릿) (퍼블리)]]></title>
             <link>https://publy.co/content/7100?fr=category</link>
@@ -68,13 +75,6 @@
             <link>https://publy.co/content/7023?fr=category</link>
             <guid>https://publy.co/content/7023?fr=category</guid>
             <pubDate>Mon, 02 Jan 2023 06:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 유튜브와 넷플릭스의 시대, 콘텐츠로 소비자를 사로잡는 법 (feat. 김태호 PD) (퍼블리)]]></title>
-            <link>https://publy.co/content/7061?fr=category</link>
-            <guid>https://publy.co/content/7061?fr=category</guid>
-            <pubDate>Fri, 30 Dec 2022 07:17:14 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
         </item>
         <item>
@@ -333,6 +333,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;2017년, 프랑스의 TV 서바이벌 프로그램 ‘다음엔 누가 위대한 파티시에가 될 것인가(Qui Sera Le Prochain Grand Pâtissier?)’ 시<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 라디오의 에피소드 #71에선, 미국의 새로운 하원 의장, 성장하는 비만 치료제 시장, 3대 개혁 중 하나인 연금 개혁, 서서히 회복하고 있는 오존층에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/58399</link>
+            <guid>https://www.bookjournalism.com/audio/58399</guid>
+            <pubDate>Fri, 13 Jan 2023 12:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[비만은 치료, 연금은 개혁, 오존층은 회복]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[재택의 시대가 저문다. 생산성 논란의 진실은 무엇인가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58389</link>
             <guid>https://www.bookjournalism.com/books/58389</guid>
@@ -408,13 +415,6 @@
             <guid>https://www.bookjournalism.com/books/58169</guid>
             <pubDate>Wed, 04 Jan 2023 15:25:58 GMT</pubDate>
             <content:encoded><![CDATA[국립공원은 유일한 정답일까?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[달 탐사의 역사가 반 세기를 지났다. 그동안 우리가 얻은 것은 무엇인가. 앞으로 얻을 것은 무엇일까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/57530</link>
-            <guid>https://www.bookjournalism.com/books/57530</guid>
-            <pubDate>Wed, 04 Jan 2023 08:26:38 GMT</pubDate>
-            <content:encoded><![CDATA[달을 향한 여정]]></content:encoded>
         </item>
     </channel>
 </rss>
