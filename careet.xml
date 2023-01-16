@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 03:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 04:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 칭찬한 브랜드 캠페인·이벤트]]></title>
+            <link>https://www.careet.net/989</link>
+            <guid>https://www.careet.net/989</guid>
+            <pubDate>Mon, 16 Jan 2023 04:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[친환경 패키징, 소재가 다가 아니다! OOOO 놓치면 말짱 도루묵?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/bb65cde3-caa6-4222-94d7-3781ef80e8b9_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유튜브부터 인스타그램까지, 1월 2주차 SNS 트렌드 모음]]></title>
             <link>https://www.careet.net/988</link>
