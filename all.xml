@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 14:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 15:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,11 +334,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아난티 : 연 1조 매출 노리는 리조트의 감각, 숫자로 읽다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/546</link>
-            <guid>https://www.longblack.co/note/546</guid>
-            <pubDate>Sun, 15 Jan 2023 15:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;친구가 논현동 호텔에서 신년 파티한다고 해서 갔거든. 학동 공원이 한눈에 보이는 복층 객실의 호텔이었어. 벽이며 가구며 고급스럽더라. 아난티앳강남Ananti at<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[버켄스탁 : 250년 된 샌들 브랜드, 못생김을 브랜딩하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/552</link>
+            <guid>https://www.longblack.co/note/552</guid>
+            <pubDate>Mon, 16 Jan 2023 15:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C얼마 전 ‘2022년 가장 사랑받은 패션 아이템’*이 발표됐어요. 그 중 신발 카테고리 1위는 바로 버켄스탁Birkenstock! 버켄스탁의 사계절 샌들 ‘보스턴 <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일본이 후쿠시마 오염수를 결국 방류한다. 우리가 할 수 있는 일이 있다. 그러나 가능성이 낮다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58485</link>
+            <guid>https://www.bookjournalism.com/books/58485</guid>
+            <pubDate>Mon, 16 Jan 2023 15:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[부흥의 국가, 일본의 결심]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전 세계 민주주의가 흔들리고 있다. 과연 우리나라는 예외일까? (북저널리즘)]]></title>
@@ -416,13 +423,6 @@
             <guid>https://www.bookjournalism.com/audio/58223</guid>
             <pubDate>Fri, 06 Jan 2023 10:23:01 GMT</pubDate>
             <content:encoded><![CDATA[노동과 TV의 변화, 지방과 코끼리의 생존]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고향사랑기부제가 시행됐다. 기부금은 소멸 위기 지역을 구할 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58196</link>
-            <guid>https://www.bookjournalism.com/books/58196</guid>
-            <pubDate>Thu, 05 Jan 2023 15:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[공간의 경계를 넘어]]></content:encoded>
         </item>
     </channel>
 </rss>
