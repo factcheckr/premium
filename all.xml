@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 01:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 02:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팀장의 보고서로 연간 계획 끝내기 (by. 1년 로드맵 템플릿) (퍼블리)]]></title>
+            <title><![CDATA[팀장의 한 해 근간이 되는 연간 계획 세우기 (by. 1년 로드맵 템플릿) (퍼블리)]]></title>
             <link>https://publy.co/content/7100?fr=category</link>
             <guid>https://publy.co/content/7100?fr=category</guid>
             <pubDate>Thu, 12 Jan 2023 06:26:26 GMT</pubDate>
