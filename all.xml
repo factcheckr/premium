@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 05:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 06:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실적? 평가? 선을 지키면서 팀원에게 공유하는 팀장의 정보 공유법 (퍼블리)]]></title>
+            <link>https://publy.co/content/7101?fr=category</link>
+            <guid>https://publy.co/content/7101?fr=category</guid>
+            <pubDate>Mon, 16 Jan 2023 06:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[내 월급 빼고 다 올라! 직장인들을 위한 돈 모으는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/7116?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7099?fr=category</guid>
             <pubDate>Tue, 03 Jan 2023 08:25:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리더의 5P 강점 워크숍 가이드: 2023년 최고의 팀을 만드는 방법 (퍼블리)]]></title>
-            <link>https://publy.co/content/7023?fr=category</link>
-            <guid>https://publy.co/content/7023?fr=category</guid>
-            <pubDate>Mon, 02 Jan 2023 06:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 칭찬한 브랜드 캠페인·이벤트 (캐릿)]]></title>
