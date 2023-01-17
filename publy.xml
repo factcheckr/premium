@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-01-17T06:26:27.950Z</updated>
+    <updated>2023-01-17T07:19:54.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[5억에서 20억, 15억 매출 점핑을 만들어 낸 상세페이지의 비밀]]></title>
+        <id>https://publy.co/content/7111?fr=category</id>
+        <link href="https://publy.co/content/7111?fr=category"/>
+        <updated>2023-01-17T07:18:38.895Z</updated>
+        <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실적? 평가? 선을 지키면서 팀원에게 공유하는 팀장의 정보 공유법]]></title>
         <id>https://publy.co/content/7101?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7105?fr=category"/>
         <updated>2023-01-04T07:17:59.182Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빠른 퇴근을 돕는 엑셀 보고서 만드는 법(실습 파일 제공)]]></title>
-        <id>https://publy.co/content/7099?fr=category</id>
-        <link href="https://publy.co/content/7099?fr=category"/>
-        <updated>2023-01-03T08:25:52.736Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>

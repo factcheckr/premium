@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 06:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 07:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5억에서 20억, 15억 매출 점핑을 만들어 낸 상세페이지의 비밀 (퍼블리)]]></title>
+            <link>https://publy.co/content/7111?fr=category</link>
+            <guid>https://publy.co/content/7111?fr=category</guid>
+            <pubDate>Tue, 17 Jan 2023 07:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[실적? 평가? 선을 지키면서 팀원에게 공유하는 팀장의 정보 공유법 (퍼블리)]]></title>
             <link>https://publy.co/content/7101?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7105?fr=category</guid>
             <pubDate>Wed, 04 Jan 2023 07:17:59 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빠른 퇴근을 돕는 엑셀 보고서 만드는 법(실습 파일 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7099?fr=category</link>
-            <guid>https://publy.co/content/7099?fr=category</guid>
-            <pubDate>Tue, 03 Jan 2023 08:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인공지능(AI) 요즘 왜 이렇게 난리야? 맨날 뉴스에 나오는 것 같아! (캐릿)]]></title>
