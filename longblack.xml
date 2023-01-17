@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-01-16T23:21:52.619Z</updated>
+    <updated>2023-01-17T01:42:44.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/552</id>
         <link href="https://www.longblack.co/note/552"/>
         <updated>2023-01-16T15:21:54.658Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C얼마 전 ‘2022년 가장 사랑받은 패션 아이템’*이 발표됐어요. 그 중 신발 카테고리 1위는 바로 버켄스탁Birkenstock! 버켄스탁의 사계절 샌들 ‘보스턴 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전 ‘2022년 가장 사랑받은 패션 아이템’*이 발표됐어요. 그 중 신발 카테고리 1위는 바로 버켄스탁Birkenstock! 버켄스탁의 사계절 샌들 ‘보스턴<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
