@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-01-17T14:20:15.842Z</updated>
+    <updated>2023-01-17T15:22:24.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[문제의 데이터 센터를 우리는 어떻게 받아들여야 할까.]]></title>
+        <id>https://www.bookjournalism.com/books/58597</id>
+        <link href="https://www.bookjournalism.com/books/58597"/>
+        <updated>2023-01-17T15:22:11.183Z</updated>
+        <content type="html"><![CDATA[클라우드 착시 현상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본이 후쿠시마 오염수를 결국 방류한다. 우리가 할 수 있는 일이 있다. 그러나 가능성이 낮다.]]></title>
         <id>https://www.bookjournalism.com/books/58485</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/58227"/>
         <updated>2023-01-08T21:17:55.995Z</updated>
         <content type="html"><![CDATA[배수의 진, 연금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #70에선, 지금 이 시대의 노동 개혁, 위기에 빠진 TV 시장, 소멸 위기 지역과 고향사랑기부제, 생물다양성과 국립공원에 관해 이야기합니다.]]></title>
-        <id>https://www.bookjournalism.com/audio/58223</id>
-        <link href="https://www.bookjournalism.com/audio/58223"/>
-        <updated>2023-01-06T10:23:01.558Z</updated>
-        <content type="html"><![CDATA[노동과 TV의 변화, 지방과 코끼리의 생존]]></content>
     </entry>
 </feed>
