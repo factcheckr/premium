@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-01-18T14:20:00.164Z</updated>
+    <updated>2023-01-18T15:23:27.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부의 교육 개혁이 시작됐다. 도구화가 아닌 진정한 혁신을 위해서는 무엇이 필요할까?]]></title>
+        <id>https://www.bookjournalism.com/books/58624</id>
+        <link href="https://www.bookjournalism.com/books/58624"/>
+        <updated>2023-01-18T15:23:14.446Z</updated>
+        <content type="html"><![CDATA[모두를 향한 나비효과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기대 수명 증가는 단순히 오래 사는 것만을 의미할까? 변화하는 시대 속, 청년기보다 복잡한 노년기가 찾아온다.]]></title>
         <id>https://www.bookjournalism.com/books/58411</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/58258"/>
         <updated>2023-01-10T15:29:38.059Z</updated>
         <content type="html"><![CDATA[마법은 풀린다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15번의 투표 끝에 미 하원 의장이 선출됐다. 배후엔 트럼프가 있다.]]></title>
-        <id>https://www.bookjournalism.com/books/58280</id>
-        <link href="https://www.bookjournalism.com/books/58280"/>
-        <updated>2023-01-09T15:29:13.938Z</updated>
-        <content type="html"><![CDATA[충분치 못한 보수주의자]]></content>
     </entry>
 </feed>

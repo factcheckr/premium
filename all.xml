@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 14:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 15:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,11 +350,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[제로 음료 : 달콤해진 노슈거 시장, 음료 업계 전쟁이 시작됐다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/551</link>
-            <guid>https://www.longblack.co/note/551</guid>
-            <pubDate>Tue, 17 Jan 2023 15:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;주말 저녁 모임에서 파스타를 먹는데, 나 빼고 다 ‘제로 콜라’를 주문하더라. 당연한 것처럼! 이게 그렇게 인기였어?유행이라니까 은근 관심 가더라. 편의점 가서 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[다니엘 핑크 : 세계적인 미래학자, 후회 잘하는 법을 말하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/550</link>
+            <guid>https://www.longblack.co/note/550</guid>
+            <pubDate>Wed, 18 Jan 2023 15:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;미래. 늘 알고 싶은 주제입니다. 연초에는 더 그래요. 1년을 잘 보내고 싶기 때문이죠. 미래학자 다니엘 핑크Daniel Pink에게 무작정 메일을 보내봤습니다.<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부의 교육 개혁이 시작됐다. 도구화가 아닌 진정한 혁신을 위해서는 무엇이 필요할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58624</link>
+            <guid>https://www.bookjournalism.com/books/58624</guid>
+            <pubDate>Wed, 18 Jan 2023 15:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[모두를 향한 나비효과]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[기대 수명 증가는 단순히 오래 사는 것만을 의미할까? 변화하는 시대 속, 청년기보다 복잡한 노년기가 찾아온다. (북저널리즘)]]></title>
@@ -432,13 +439,6 @@
             <guid>https://www.bookjournalism.com/books/58258</guid>
             <pubDate>Tue, 10 Jan 2023 15:29:38 GMT</pubDate>
             <content:encoded><![CDATA[마법은 풀린다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[15번의 투표 끝에 미 하원 의장이 선출됐다. 배후엔 트럼프가 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58280</link>
-            <guid>https://www.bookjournalism.com/books/58280</guid>
-            <pubDate>Mon, 09 Jan 2023 15:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[충분치 못한 보수주의자]]></content:encoded>
         </item>
     </channel>
 </rss>
