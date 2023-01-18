@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-01-18T07:20:27.743Z</updated>
+    <updated>2023-01-18T08:27:46.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[기대 수명 증가는 단순히 오래 사는 것만을 의미할까? 변화하는 시대 속, 청년기보다 복잡한 노년기가 찾아온다.]]></title>
+        <id>https://www.bookjournalism.com/books/58411</id>
+        <link href="https://www.bookjournalism.com/books/58411"/>
+        <updated>2023-01-18T08:27:35.520Z</updated>
+        <content type="html"><![CDATA[당신이 몰랐던 생애 주기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문제의 데이터 센터를 우리는 어떻게 받아들여야 할까.]]></title>
         <id>https://www.bookjournalism.com/books/58597</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/58280"/>
         <updated>2023-01-09T15:29:13.938Z</updated>
         <content type="html"><![CDATA[충분치 못한 보수주의자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연금 개혁안의 가닥이 잡혔다. 우리는 연금을 받을 수 있을까?]]></title>
-        <id>https://www.bookjournalism.com/books/58227</id>
-        <link href="https://www.bookjournalism.com/books/58227"/>
-        <updated>2023-01-08T21:17:55.995Z</updated>
-        <content type="html"><![CDATA[배수의 진, 연금]]></content>
     </entry>
 </feed>

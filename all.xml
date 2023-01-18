@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 07:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 08:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -357,6 +357,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;주말 저녁 모임에서 파스타를 먹는데, 나 빼고 다 ‘제로 콜라’를 주문하더라. 당연한 것처럼! 이게 그렇게 인기였어?유행이라니까 은근 관심 가더라. 편의점 가서 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[기대 수명 증가는 단순히 오래 사는 것만을 의미할까? 변화하는 시대 속, 청년기보다 복잡한 노년기가 찾아온다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58411</link>
+            <guid>https://www.bookjournalism.com/books/58411</guid>
+            <pubDate>Wed, 18 Jan 2023 08:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[당신이 몰랐던 생애 주기]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[문제의 데이터 센터를 우리는 어떻게 받아들여야 할까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58597</link>
             <guid>https://www.bookjournalism.com/books/58597</guid>
@@ -432,13 +439,6 @@
             <guid>https://www.bookjournalism.com/books/58280</guid>
             <pubDate>Mon, 09 Jan 2023 15:29:13 GMT</pubDate>
             <content:encoded><![CDATA[충분치 못한 보수주의자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연금 개혁안의 가닥이 잡혔다. 우리는 연금을 받을 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58227</link>
-            <guid>https://www.bookjournalism.com/books/58227</guid>
-            <pubDate>Sun, 08 Jan 2023 21:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[배수의 진, 연금]]></content:encoded>
         </item>
     </channel>
 </rss>
