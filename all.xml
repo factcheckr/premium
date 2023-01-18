@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 06:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 07:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시간에 끌려다니지 않으려면? 노션 올인원 업무관리법(템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7115?fr=category</link>
+            <guid>https://publy.co/content/7115?fr=category</guid>
+            <pubDate>Wed, 18 Jan 2023 07:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[5억에서 20억, 15억 매출 점핑을 만들어 낸 상세페이지의 비밀 (퍼블리)]]></title>
             <link>https://publy.co/content/7111?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7095?fr=category</guid>
             <pubDate>Thu, 05 Jan 2023 07:18:17 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일잘러의 기획법: 상사의 6가지 유형별 기획서 작성 가이드(템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7105?fr=category</link>
-            <guid>https://publy.co/content/7105?fr=category</guid>
-            <pubDate>Wed, 04 Jan 2023 07:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신입사원 채용할 때 참고하세요! Z세대가 알려주는 ‘채용 홍보 영상’ 제작 꿀팁 (캐릿)]]></title>
