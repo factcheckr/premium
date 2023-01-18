@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 23:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 01:45:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신입사원 채용할 때 참고하세요! Z세대가 알려주는 ‘채용 홍보 영상’ 제작 꿀팁]]></title>
+            <link>https://www.careet.net/986</link>
+            <guid>https://www.careet.net/986</guid>
+            <pubDate>Wed, 18 Jan 2023 01:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[핵심 인재 끌어들이는 신입사원 VLOG를 만들고 싶다면, 당장 클릭!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/0ffd5808-7e37-4f16-9390-e00459a8e9dc_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인공지능(AI) 요즘 왜 이렇게 난리야? 맨날 뉴스에 나오는 것 같아!]]></title>
             <link>https://www.careet.net/987</link>
