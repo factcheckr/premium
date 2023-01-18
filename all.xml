@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 01:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 02:49:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,18 +364,18 @@
             <content:encoded><![CDATA[클라우드 착시 현상]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일본이 후쿠시마 오염수를 결국 방류한다. 우리가 할 수 있는 일이 있다. 그러나 가능성이 낮다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58485</link>
-            <guid>https://www.bookjournalism.com/books/58485</guid>
-            <pubDate>Mon, 16 Jan 2023 15:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[부흥의 국가, 일본의 결심]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일본이 후쿠시마 오염수를 결국 방류한다. 우리가 할 수 있는 일이 있다. 그러나 가능성이 낮다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58485</link>
+            <guid>https://www.bookjournalism.com/books/58485</guid>
+            <pubDate>Mon, 16 Jan 2023 15:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[부흥의 국가, 일본의 결심]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전 세계 민주주의가 흔들리고 있다. 과연 우리나라는 예외일까? (북저널리즘)]]></title>
