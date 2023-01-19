@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 23:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 01:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7095?fr=category</guid>
             <pubDate>Thu, 05 Jan 2023 07:18:17 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘폼 미쳤다’의 유래와 뜻은? 요즘 유행하는 밈 총정리 (캐릿)]]></title>
+            <link>https://www.careet.net/985</link>
+            <guid>https://www.careet.net/985</guid>
+            <pubDate>Thu, 19 Jan 2023 01:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[유행어 잘 쓰는 담당자가 되고 싶으신가요?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/fe45e3a4-0c55-4880-b5db-22d6070eab7e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[신입사원 채용할 때 참고하세요! Z세대가 알려주는 ‘채용 홍보 영상’ 제작 꿀팁 (캐릿)]]></title>
@@ -364,6 +372,13 @@
             <content:encoded><![CDATA[모두를 향한 나비효과]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[기대 수명 증가는 단순히 오래 사는 것만을 의미할까? 변화하는 시대 속, 청년기보다 복잡한 노년기가 찾아온다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58411</link>
             <guid>https://www.bookjournalism.com/books/58411</guid>
@@ -376,13 +391,6 @@
             <guid>https://www.bookjournalism.com/books/58597</guid>
             <pubDate>Tue, 17 Jan 2023 15:22:11 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 착시 현상]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일본이 후쿠시마 오염수를 결국 방류한다. 우리가 할 수 있는 일이 있다. 그러나 가능성이 낮다. (북저널리즘)]]></title>
