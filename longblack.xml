@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-01-22T14:18:47.995Z</updated>
+    <updated>2023-01-22T15:20:44.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-01-21T15:19:48.420Z</updated>
-        <content type="html"><![CDATA[L이 메모장에 적어둔 지난주 롱블랙의 문장
-
-"고통스러운 순간을 당연하게 받아들이는 게 직업 정신이라고 생각해요. 물론 힘들 때 자기 연민에 빠질 수도 있죠. 내가 왜 이것까지 해야 하지, 이렇게 나 혼자 다 해야 하나. 그런 연민에 빠진다면 직업 정신이 부족하기 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[유동룡 : 이타미 준으로 불린 건축가, 그가 남긴 ‘시간의 의미’]]></title>
+        <id>https://www.longblack.co/note/555</id>
+        <link href="https://www.longblack.co/note/555"/>
+        <updated>2023-01-22T15:19:44.903Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;포도호텔, 방주교회, 수풍석水風石 박물관. 제주의 대표 건축물이죠. 여러분은 이걸 설계하고 만든 사람이 모두 같다는 걸 아셨나요?고(故) 유동룡. ‘이타미 준It<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
