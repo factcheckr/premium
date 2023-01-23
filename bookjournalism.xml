@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-01-23T14:20:54.306Z</updated>
+    <updated>2023-01-23T15:23:16.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[인간도 비인간도 함께 살아갈 수 있는 지구를 만들고 있는 사람들의 느긋한 수다를 준비했습니다.]]></title>
+        <id>https://www.bookjournalism.com/audio/58629</id>
+        <link href="https://www.bookjournalism.com/audio/58629"/>
+        <updated>2023-01-23T15:23:07.738Z</updated>
+        <content type="html"><![CDATA[스페셜 토크 ; 상상력에 도전하는 지구생활자들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연휴에도 지적 여정을 멈출 수 없는 독자를 위해, 네 가지 하루를 제안합니다.
 
@@ -85,12 +92,5 @@
         <link href="https://www.bookjournalism.com/books/58389"/>
         <updated>2023-01-12T22:21:56.585Z</updated>
         <content type="html"><![CDATA[하이브리드 워크 무용론]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오존층이 돌아온다. 우리는 건강해진 오존층에게서 무얼 배워야 하나?]]></title>
-        <id>https://www.bookjournalism.com/books/58326</id>
-        <link href="https://www.bookjournalism.com/books/58326"/>
-        <updated>2023-01-11T15:38:01.489Z</updated>
-        <content type="html"><![CDATA[다시, 새로운 오존층]]></content>
     </entry>
 </feed>

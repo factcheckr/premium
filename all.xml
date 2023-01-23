@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 14:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 15:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,11 +366,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[유동룡 : 이타미 준으로 불린 건축가, 그가 남긴 ‘시간의 의미’ (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/555</link>
-            <guid>https://www.longblack.co/note/555</guid>
-            <pubDate>Sun, 22 Jan 2023 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;포도호텔, 방주교회, 수풍석水風石 박물관. 제주의 대표 건축물이죠. 여러분은 이걸 설계하고 만든 사람이 모두 같다는 걸 아셨나요?&nbsp;고(故) 유동룡. ‘이타미 준I<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[김밥레코즈 : 홍대 앞 레코드숍에서 시대를 거스르는 매력을 읽다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/556</link>
+            <guid>https://www.longblack.co/note/556</guid>
+            <pubDate>Mon, 23 Jan 2023 15:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;홍대입구역이 있는 동교동의 골목길. 평범한 상가건물 3층에 고양이 얼굴이 그려진 동그란 간판이 하나 걸려있습니다. 이곳에 유명한 레코드숍 김밥레코즈의 매장이 있다<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인간도 비인간도 함께 살아갈 수 있는 지구를 만들고 있는 사람들의 느긋한 수다를 준비했습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/58629</link>
+            <guid>https://www.bookjournalism.com/audio/58629</guid>
+            <pubDate>Mon, 23 Jan 2023 15:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜 토크 ; 상상력에 도전하는 지구생활자들]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연휴에도 지적 여정을 멈출 수 없는 독자를 위해, 네 가지 하루를 제안합니다.
@@ -452,13 +459,6 @@
             <guid>https://www.bookjournalism.com/books/58389</guid>
             <pubDate>Thu, 12 Jan 2023 22:21:56 GMT</pubDate>
             <content:encoded><![CDATA[하이브리드 워크 무용론]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오존층이 돌아온다. 우리는 건강해진 오존층에게서 무얼 배워야 하나? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58326</link>
-            <guid>https://www.bookjournalism.com/books/58326</guid>
-            <pubDate>Wed, 11 Jan 2023 15:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[다시, 새로운 오존층]]></content:encoded>
         </item>
     </channel>
 </rss>
