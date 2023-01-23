@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-01-22T23:21:44.110Z</updated>
+    <updated>2023-01-23T01:42:30.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/555</id>
         <link href="https://www.longblack.co/note/555"/>
         <updated>2023-01-22T15:19:44.903Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;포도호텔, 방주교회, 수풍석水風石 박물관. 제주의 대표 건축물이죠. 여러분은 이걸 설계하고 만든 사람이 모두 같다는 걸 아셨나요?고(故) 유동룡. ‘이타미 준It<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;포도호텔, 방주교회, 수풍석水風石 박물관. 제주의 대표 건축물이죠. 여러분은 이걸 설계하고 만든 사람이 모두 같다는 걸 아셨나요?&nbsp;고(故) 유동룡. ‘이타미 준I<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
