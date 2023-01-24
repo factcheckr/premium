@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-01-24T14:21:41.081Z</updated>
+    <updated>2023-01-24T15:22:42.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[기업은 이제껏 자사 제품의 수리를 어렵게 만들어 왔다. 수리권 전쟁의 승자는 누가 될 것인가.]]></title>
+        <id>https://www.bookjournalism.com/books/58682</id>
+        <link href="https://www.bookjournalism.com/books/58682"/>
+        <updated>2023-01-24T15:22:31.377Z</updated>
+        <content type="html"><![CDATA[수리할 결심]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인간도 비인간도 함께 살아갈 수 있는 지구를 만들고 있는 사람들의 느긋한 수다를 준비했습니다.]]></title>
         <id>https://www.bookjournalism.com/audio/58629</id>
@@ -85,12 +92,5 @@
         <link href="https://www.bookjournalism.com/audio/58399"/>
         <updated>2023-01-13T12:39:28.509Z</updated>
         <content type="html"><![CDATA[비만은 치료, 연금은 개혁, 오존층은 회복]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재택의 시대가 저문다. 생산성 논란의 진실은 무엇인가.]]></title>
-        <id>https://www.bookjournalism.com/books/58389</id>
-        <link href="https://www.bookjournalism.com/books/58389"/>
-        <updated>2023-01-12T22:21:56.585Z</updated>
-        <content type="html"><![CDATA[하이브리드 워크 무용론]]></content>
     </entry>
 </feed>

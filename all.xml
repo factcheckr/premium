@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 14:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 15:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,11 +366,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김밥레코즈 : 홍대 앞 레코드숍에서 시대를 거스르는 매력을 읽다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/556</link>
-            <guid>https://www.longblack.co/note/556</guid>
-            <pubDate>Mon, 23 Jan 2023 15:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;홍대입구역이 있는 동교동의 골목길. 평범한 상가건물 3층에 고양이 얼굴이 그려진 동그란 간판이 하나 걸려있습니다. 이곳에 유명한 레코드숍 김밥레코즈의 매장이 있다<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롬앤 : 연매출 800억 틴트 맛집의 카테고리 킬러 전략, 재무제표로 읽다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/560</link>
+            <guid>https://www.longblack.co/note/560</guid>
+            <pubDate>Tue, 24 Jan 2023 15:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;이제 곧 실내에서 마스크 안 써도 될 거란 얘기가 들리더라? 내가 누구야. 발 빠르게 찾아봤지. 실내 마스크 해제에 가장 탄력받을 브랜드가 뭘지 말야. 딱 떠오른<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기업은 이제껏 자사 제품의 수리를 어렵게 만들어 왔다. 수리권 전쟁의 승자는 누가 될 것인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58682</link>
+            <guid>https://www.bookjournalism.com/books/58682</guid>
+            <pubDate>Tue, 24 Jan 2023 15:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[수리할 결심]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인간도 비인간도 함께 살아갈 수 있는 지구를 만들고 있는 사람들의 느긋한 수다를 준비했습니다. (북저널리즘)]]></title>
@@ -452,13 +459,6 @@
             <guid>https://www.bookjournalism.com/audio/58399</guid>
             <pubDate>Fri, 13 Jan 2023 12:39:28 GMT</pubDate>
             <content:encoded><![CDATA[비만은 치료, 연금은 개혁, 오존층은 회복]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[재택의 시대가 저문다. 생산성 논란의 진실은 무엇인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58389</link>
-            <guid>https://www.bookjournalism.com/books/58389</guid>
-            <pubDate>Thu, 12 Jan 2023 22:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[하이브리드 워크 무용론]]></content:encoded>
         </item>
     </channel>
 </rss>
