@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-01-25T14:20:27.980Z</updated>
+    <updated>2023-01-25T15:22:12.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시가 대중교통 요금 인상을, 세종시는 대중교통 무상화를 추진한다. 대중교통을 둘러싼 다른 선택, 이유는 무엇일까?]]></title>
+        <id>https://www.bookjournalism.com/books/58863</id>
+        <link href="https://www.bookjournalism.com/books/58863"/>
+        <updated>2023-01-25T15:21:59.882Z</updated>
+        <content type="html"><![CDATA[삐빅, 무료입니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미디어에서 나오는 청춘 같은 노년만이 은퇴 후 바람직한 삶의 모습은 아니다. 현실에는 그보다 다양하고 일상적인 노년의 생활이 존재한다.]]></title>
         <id>https://www.bookjournalism.com/books/58533</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/58485"/>
         <updated>2023-01-16T15:22:43.523Z</updated>
         <content type="html"><![CDATA[부흥의 국가, 일본의 결심]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 세계 민주주의가 흔들리고 있다. 과연 우리나라는 예외일까?]]></title>
-        <id>https://www.bookjournalism.com/books/58424</id>
-        <link href="https://www.bookjournalism.com/books/58424"/>
-        <updated>2023-01-15T15:20:30.519Z</updated>
-        <content type="html"><![CDATA[민주주의를 위협하는 민주주의]]></content>
     </entry>
 </feed>
