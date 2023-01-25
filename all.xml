@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 09:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 10:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7112?fr=category</guid>
             <pubDate>Fri, 06 Jan 2023 10:21:57 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대가 진짜 원하는 제휴 혜택이 궁금하세요? (캐릿)]]></title>
+            <link>https://www.careet.net/993</link>
+            <guid>https://www.careet.net/993</guid>
+            <pubDate>Wed, 25 Jan 2023 10:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[“이런 멤버십 서비스 있으면 카드도 새로 발급받을 수 있어요”]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/f95d700f-da2a-4dd2-be5e-fc905009fb87_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[카드 뉴스] 성수 다음은? 삼각지! Z세대가 삼각지에 주목하는 이유 (캐릿)]]></title>
@@ -409,11 +417,7 @@
             <content:encoded><![CDATA[스페셜 토크 ; 상상력에 도전하는 지구생활자들]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연휴에도 지적 여정을 멈출 수 없는 독자를 위해, 네 가지 하루를 제안합니다.
-
-이번 설 연휴, 어떻게 보내시나요? 반가운 얼굴을 만날 수도, 훌쩍 여행을 떠날 수도, 침대에서 귤 까먹으며 뒹굴 수도 있겠죠. 혹시 오랜만의 긴 연휴가 어색하진 않으신가요? 걱정마세요. 사흘의 연휴를 채울 수 있는 네 가지 루틴을 준비했습니다.
-
-북저널리즘 에디터의 안내에 따라, 연휴에도 일을 놓지 못하는 워커홀릭, 먼 나라의 이야기를 상상하는 몽상가, 천천히 걷는 사색가, 망망대해와 같은 익명의 공간을 누비는 항해사가 되어 보세요. (북저널리즘)]]></title>
+            <title><![CDATA[연휴에도 지적 여정을 멈출 수 없는 독자를 위해, 네 가지 하루를 제안합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58413</link>
             <guid>https://www.bookjournalism.com/books/58413</guid>
             <pubDate>Sat, 21 Jan 2023 15:20:34 GMT</pubDate>
