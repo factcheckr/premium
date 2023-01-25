@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 07:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 09:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -381,6 +381,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;이제 곧 실내에서 마스크 안 써도 될 거란 얘기가 들리더라? 내가 누구야. 발 빠르게 찾아봤지. 실내 마스크 해제에 가장 탄력받을 브랜드가 뭘지 말야. 딱 떠오른<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미디어에서 나오는 청춘 같은 노년만이 은퇴 후 바람직한 삶의 모습은 아니다. 현실에는 그보다 다양하고 일상적인 노년의 생활이 존재한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58533</link>
+            <guid>https://www.bookjournalism.com/books/58533</guid>
+            <pubDate>Wed, 25 Jan 2023 09:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[전례 없는 삶]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[기업은 이제껏 자사 제품의 수리를 어렵게 만들어 왔다. 수리권 전쟁의 승자는 누가 될 것인가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58682</link>
             <guid>https://www.bookjournalism.com/books/58682</guid>
@@ -460,13 +467,6 @@
             <guid>https://www.bookjournalism.com/books/58424</guid>
             <pubDate>Sun, 15 Jan 2023 15:20:30 GMT</pubDate>
             <content:encoded><![CDATA[민주주의를 위협하는 민주주의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오의 에피소드 #71에선, 미국의 새로운 하원 의장, 성장하는 비만 치료제 시장, 3대 개혁 중 하나인 연금 개혁, 서서히 회복하고 있는 오존층에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/58399</link>
-            <guid>https://www.bookjournalism.com/audio/58399</guid>
-            <pubDate>Fri, 13 Jan 2023 12:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[비만은 치료, 연금은 개혁, 오존층은 회복]]></content:encoded>
         </item>
     </channel>
 </rss>
