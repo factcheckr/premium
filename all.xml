@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 05:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 06:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼포먼스 마케팅은 위기? 데이터로 알차게 효율 내는 법 (퍼블리)]]></title>
+            <link>https://publy.co/content/7114?fr=category</link>
+            <guid>https://publy.co/content/7114?fr=category</guid>
+            <pubDate>Thu, 26 Jan 2023 06:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[실무형 팀장으로 살아남는 5가지 노하우 모음 (퍼블리)]]></title>
             <link>https://publy.co/content/7121?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7110?fr=category</guid>
             <pubDate>Mon, 09 Jan 2023 08:26:38 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매일 쓰는 문서 5종, 빨리 끝내는 치트키 모음 (퍼블리)]]></title>
-            <link>https://publy.co/content/7112?fr=category</link>
-            <guid>https://publy.co/content/7112?fr=category</guid>
-            <pubDate>Fri, 06 Jan 2023 10:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 진짜 원하는 제휴 혜택이 궁금하세요? (캐릿)]]></title>
@@ -389,7 +389,7 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;오레오, 리퀴드데스, 미스치프, 웬디스, 라이언 레이놀즈… 롱블랙 노트 준비하면서 제가 너무 신나서 파고든 브랜드들이에요. 공통점이 뭔지 아세요? 바로 창의력이 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서울시가 대중교통 요금 인상을, 세종시는 대중교통 무상화를 추진한다. 대중교통을 둘러싼 다른 선택, 이유는 무엇일까? (북저널리즘)]]></title>
+            <title><![CDATA[서울시는 대중교통 요금 인상을, 세종시는 대중교통 무상화를 추진한다. 대중교통을 둘러싼 다른 선택, 이유는 무엇일까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58863</link>
             <guid>https://www.bookjournalism.com/books/58863</guid>
             <pubDate>Wed, 25 Jan 2023 15:21:59 GMT</pubDate>
