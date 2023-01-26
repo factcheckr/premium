@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 14:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 15:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,11 +382,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[AI마케팅 리포트 : 하인즈는 왜 인공지능에 케첩을 그리게 했을까 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/565</link>
-            <guid>https://www.longblack.co/note/565</guid>
-            <pubDate>Wed, 25 Jan 2023 15:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;오레오, 리퀴드데스, 미스치프, 웬디스, 라이언 레이놀즈… 롱블랙 노트 준비하면서 제가 너무 신나서 파고든 브랜드들이에요. 공통점이 뭔지 아세요? 바로 창의력이 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[아스티에 드 빌라트 : 26년 된 세라믹 브랜드가 세월을 연출하는 법 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/558</link>
+            <guid>https://www.longblack.co/note/558</guid>
+            <pubDate>Thu, 26 Jan 2023 15:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C아스티에 드 빌라트Astier de Villatte. 요즘 제가 빠진 세라믹 브랜드예요. 주변에서 ‘몰랐어야 하는 이름’이라고 경고했었는데, 무슨 말인지 알겠어요.<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스코틀랜드의 트랜스젠더 권리 향상은 어쩌다 영국과의 자존심 대결로 번졌나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58877</link>
+            <guid>https://www.bookjournalism.com/books/58877</guid>
+            <pubDate>Thu, 26 Jan 2023 15:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[인디펜던트 랜드]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시는 대중교통 요금 인상을, 세종시는 대중교통 무상화를 추진한다. 대중교통을 둘러싼 다른 선택, 이유는 무엇일까? (북저널리즘)]]></title>
@@ -464,13 +471,6 @@
             <guid>https://www.bookjournalism.com/books/58597</guid>
             <pubDate>Tue, 17 Jan 2023 15:22:11 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 착시 현상]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일본이 후쿠시마 오염수를 결국 방류한다. 우리가 할 수 있는 일이 있다. 그러나 가능성이 낮다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58485</link>
-            <guid>https://www.bookjournalism.com/books/58485</guid>
-            <pubDate>Mon, 16 Jan 2023 15:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[부흥의 국가, 일본의 결심]]></content:encoded>
         </item>
     </channel>
 </rss>
