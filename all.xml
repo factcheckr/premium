@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 07:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 08:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -412,6 +412,13 @@
             <content:encoded><![CDATA[인디펜던트 랜드]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘나 혼자 산다’고 모두가 ‘잘’ 사는 건 아니다. 1인 가구 천만 시대, 우리가 놓치고 있는 것은 무엇인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58754</link>
+            <guid>https://www.bookjournalism.com/books/58754</guid>
+            <pubDate>Fri, 27 Jan 2023 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[1인 가구와 기술]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
@@ -480,13 +487,6 @@
             <guid>https://www.bookjournalism.com/books/58411</guid>
             <pubDate>Wed, 18 Jan 2023 08:27:35 GMT</pubDate>
             <content:encoded><![CDATA[당신이 몰랐던 생애 주기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[문제의 데이터 센터를 우리는 어떻게 받아들여야 할까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58597</link>
-            <guid>https://www.bookjournalism.com/books/58597</guid>
-            <pubDate>Tue, 17 Jan 2023 15:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 착시 현상]]></content:encoded>
         </item>
     </channel>
 </rss>
