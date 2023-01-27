@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-01-26T23:22:59.437Z</updated>
+    <updated>2023-01-27T01:46:07.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/558</id>
         <link href="https://www.longblack.co/note/558"/>
         <updated>2023-01-26T15:21:32.615Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C아스티에 드 빌라트Astier de Villatte. 요즘 제가 빠진 세라믹 브랜드예요. 주변에서 ‘몰랐어야 하는 이름’이라고 경고했었는데, 무슨 말인지 알겠어요.<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;아스티에 드 빌라트Astier de Villatte. 요즘 제가 빠진 세라믹 브랜드예요. 주변에서 ‘몰랐어야 하는 이름’이라고 경고했었는데, 무슨 말인지 알겠어요<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
