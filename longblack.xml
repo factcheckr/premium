@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-01-28T14:18:51.974Z</updated>
+    <updated>2023-01-28T15:20:59.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[마이클 바스카 : 『휴먼 프런티어』, 더 이상 빅 아이디어는 없다]]></title>
-        <id>https://www.longblack.co/note/559</id>
-        <link href="https://www.longblack.co/note/559"/>
-        <updated>2023-01-27T15:21:35.304Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;신년이 되니 무언가 큰 일을 도모해야만 할 것 같습니다. 저만 빼고 모두 도전에 나선 것 같아 조급한 마음이 듭니다. 그런데 ‘더이상 빅 아이디어는 없다’고 말하<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-01-28T15:19:59.420Z</updated>
+        <content type="html"><![CDATA[B의 마음에 남은 지난주 롱블랙의 문장
+
+“그런 아버지가 제게 전한 여러 이야기 중 요즘 와닿는 말이 있습니다. ‘이화야, 몸에 바람을 의도적으로 넣으렴. 그래야 생각이 자유로워지고, 여유로워질 수 있어. 그러면 너만의 감성을 키울 수 있지.’ 나이가 들수록 더 공<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
