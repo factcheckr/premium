@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 14:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 15:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,11 +406,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[프리츠한센 코리아 : 북유럽 가구로 ‘감성 인테리어’ 시장을 열다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/564</link>
-            <guid>https://www.longblack.co/note/564</guid>
-            <pubDate>Sun, 29 Jan 2023 15:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;‘스칸디나비아Scandinavia*스타일’, 집꾸미기 좋아하는 분은 한번쯤 들어보셨죠. 북유럽의 미니멀리즘 인테리어를 말해요. 화이트, 블랙, 그레이같은 무채색 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[반스앤노블 : 무너져가던 미국 최대 서점, 로컬 전략으로 부활하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/566</link>
+            <guid>https://www.longblack.co/note/566</guid>
+            <pubDate>Mon, 30 Jan 2023 15:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;최근 흥미로운 뉴스를 하나 봤어. 망한 줄 알았던 미국의 대형서점 반스앤노블Barnes and Noble이 살아나고 있다는 거야. 4년 전 ‘동네 서점이 되겠다’<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[또 다른 흑인이 미국 경찰에 희생당했다. 이번엔 가해자 모두가 흑인이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58977</link>
+            <guid>https://www.bookjournalism.com/books/58977</guid>
+            <pubDate>Mon, 30 Jan 2023 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[공권력이 지켜야 하는 것]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아마존 창고 노동자의 파업은 노동의 위기를 말한다. 미래의 생산과 노동은 어떤 모습일까? (북저널리즘)]]></title>
@@ -488,13 +495,6 @@
             <guid>https://www.bookjournalism.com/audio/58668</guid>
             <pubDate>Fri, 20 Jan 2023 10:24:12 GMT</pubDate>
             <content:encoded><![CDATA[뉴스와 교육은 변화하고 일본은 극복한다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CNN이 황금시간대에 코미디언을 중심으로 한 ‘뉴스 쇼’를 기획하고 있다. 뉴스는 왜 뉴스룸 밖을 나오려 하나. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58645</link>
-            <guid>https://www.bookjournalism.com/books/58645</guid>
-            <pubDate>Thu, 19 Jan 2023 16:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스룸 밖으로 나간 뉴스]]></content:encoded>
         </item>
     </channel>
 </rss>
