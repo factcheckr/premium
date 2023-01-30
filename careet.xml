@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 05:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 06:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝업 스토어를 Only 온라인으로만 열었는데 화제라고?]]></title>
+            <link>https://www.careet.net/1000</link>
+            <guid>https://www.careet.net/1000</guid>
+            <pubDate>Mon, 30 Jan 2023 06:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[성공하는 온라인 이벤트 해답, 맹그로브에 다 있다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/2b710a58-e670-4df2-8b1f-1cf5b6e0eb74_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 공들인 브랜딩 한 방에 무너뜨리는 단어 20]]></title>
             <link>https://www.careet.net/999</link>
