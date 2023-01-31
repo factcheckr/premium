@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-01-31T05:20:16.391Z</updated>
+    <updated>2023-01-31T06:27:51.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[피할 수 없다면 편하게라도: 반복업무 템플릿화 하는 법]]></title>
+        <id>https://publy.co/content/7120?fr=category</id>
+        <link href="https://publy.co/content/7120?fr=category"/>
+        <updated>2023-01-31T06:26:32.616Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일잘러의 보고법: 보고의 4가지 유형별 노하우]]></title>
         <id>https://publy.co/content/7117?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7079?fr=category"/>
         <updated>2023-01-11T07:19:03.906Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ 세대가 줄 서는 팝업 스토어에서 발견한 마케터의 인사이트]]></title>
-        <id>https://publy.co/content/7078?fr=category</id>
-        <link href="https://publy.co/content/7078?fr=category"/>
-        <updated>2023-01-10T07:18:10.205Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>
