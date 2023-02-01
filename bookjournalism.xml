@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-02-01T14:20:42.316Z</updated>
+    <updated>2023-02-01T15:24:34.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[보일러를 마음대로 켜면 안 되는 시대다. 혁신이 필요하다.]]></title>
+        <id>https://www.bookjournalism.com/books/59049</id>
+        <link href="https://www.bookjournalism.com/books/59049"/>
+        <updated>2023-02-01T15:24:20.328Z</updated>
+        <content type="html"><![CDATA[풍요는 끝났다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리를 둘러싼 현실에서 문학의 쓸모와 가치는 당연한 것이 아니다. 프루스트는 그럼에도 여전히 문학이 존재해야 하는 이유를 말한다.]]></title>
         <id>https://www.bookjournalism.com/books/58839</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/58682"/>
         <updated>2023-01-24T15:22:31.377Z</updated>
         <content type="html"><![CDATA[수리할 결심]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간도 비인간도 함께 살아갈 수 있는 지구를 만들고 있는 사람들의 느긋한 수다를 준비했습니다.]]></title>
-        <id>https://www.bookjournalism.com/audio/58629</id>
-        <link href="https://www.bookjournalism.com/audio/58629"/>
-        <updated>2023-01-23T15:23:07.738Z</updated>
-        <content type="html"><![CDATA[스페셜 토크 ; 상상력에 도전하는 지구생활자들]]></content>
     </entry>
 </feed>

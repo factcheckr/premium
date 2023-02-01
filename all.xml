@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 14:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 15:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,11 +254,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[신형철 : 좋은 평론은 정확하게 칭찬하는 것, 쓰는 마음을 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/563</link>
-            <guid>https://www.longblack.co/note/563</guid>
-            <pubDate>Tue, 31 Jan 2023 15:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;김난도 교수는 신형철 평론가의 평론을 읽으며 영감을 얻고는 한다고 말했습니다. 2005년 등단한 신 평론가는 특유의 “아름다운 문장과 정확한 비평”으로 유명하죠.<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[래리 가고시안 : 연매출 1조 화랑 제국은 어떻게 만들어지는가 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/567</link>
+            <guid>https://www.longblack.co/note/567</guid>
+            <pubDate>Wed, 01 Feb 2023 15:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C 2022년 한국 미술 시장 매출액이 1조원을 돌파했어요! 2021년의 7563억원 대비 32%나 성장했죠. 아트 페어 매출 상승의 힘이 커요. 세계 3대 아트페어<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보일러를 마음대로 켜면 안 되는 시대다. 혁신이 필요하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59049</link>
+            <guid>https://www.bookjournalism.com/books/59049</guid>
+            <pubDate>Wed, 01 Feb 2023 15:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[풍요는 끝났다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리를 둘러싼 현실에서 문학의 쓸모와 가치는 당연한 것이 아니다. 프루스트는 그럼에도 여전히 문학이 존재해야 하는 이유를 말한다. (북저널리즘)]]></title>
@@ -336,13 +343,6 @@
             <guid>https://www.bookjournalism.com/books/58682</guid>
             <pubDate>Tue, 24 Jan 2023 15:22:31 GMT</pubDate>
             <content:encoded><![CDATA[수리할 결심]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인간도 비인간도 함께 살아갈 수 있는 지구를 만들고 있는 사람들의 느긋한 수다를 준비했습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/58629</link>
-            <guid>https://www.bookjournalism.com/audio/58629</guid>
-            <pubDate>Mon, 23 Jan 2023 15:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜 토크 ; 상상력에 도전하는 지구생활자들]]></content:encoded>
         </item>
     </channel>
 </rss>
