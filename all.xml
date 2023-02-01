@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 06:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 07:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규 브랜드의 인스타그램 공략법: 콘텐츠로 팔로워 0명에서 2000명 모으기 (퍼블리)]]></title>
+            <link>https://publy.co/content/7113?fr=category</link>
+            <guid>https://publy.co/content/7113?fr=category</guid>
+            <pubDate>Wed, 01 Feb 2023 07:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[피할 수 없다면 편하게라도: 반복업무 템플릿화 하는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/7120?fr=category</link>
@@ -68,13 +75,6 @@
             <link>https://publy.co/content/7100?fr=category</link>
             <guid>https://publy.co/content/7100?fr=category</guid>
             <pubDate>Thu, 12 Jan 2023 06:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['그 셀카 필터가 AR마케팅?' 사례로 보는 4가지 AR필터 제작 가이드 (퍼블리)]]></title>
-            <link>https://publy.co/content/7079?fr=category</link>
-            <guid>https://publy.co/content/7079?fr=category</guid>
-            <pubDate>Wed, 11 Jan 2023 07:19:03 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
