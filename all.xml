@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 07:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 08:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,14 +124,6 @@
             <pubDate>Wed, 25 Jan 2023 10:21:41 GMT</pubDate>
             <content:encoded><![CDATA[“이런 멤버십 서비스 있으면 카드도 새로 발급받을 수 있어요”]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/f95d700f-da2a-4dd2-be5e-fc905009fb87_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[카드뉴스] 성수 다음은? 삼각지! Z세대가 삼각지에 주목하는 이유 (캐릿)]]></title>
-            <link>https://www.careet.net/923</link>
-            <guid>https://www.careet.net/923</guid>
-            <pubDate>Wed, 25 Jan 2023 01:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[[카드뉴스로 보는 캐릿 콘텐츠] 핫플레이스 삼각지]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/78f3c798-378a-4d63-be16-d50bdd02ae0c_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘자낳대’부터 ‘테이프 풍선’까지! 모르고 넘어가면 뒤처지는 이주의 Z세대 트렌드 (캐릿)]]></title>
@@ -261,6 +253,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;김난도 교수는 신형철 평론가의 평론을 읽으며 영감을 얻고는 한다고 말했습니다. 2005년 등단한 신 평론가는 특유의 “아름다운 문장과 정확한 비평”으로 유명하죠.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우리를 둘러싼 현실에서 문학의 쓸모와 가치는 당연한 것이 아니다. 프루스트는 그럼에도 여전히 문학이 존재해야 하는 이유를 말한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/58839</link>
+            <guid>https://www.bookjournalism.com/books/58839</guid>
+            <pubDate>Wed, 01 Feb 2023 08:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[잃어버린 가치를 찾아서]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[빅테크가 위기를 극복하기 위해 스타트업 정신을 강요한다. 그러나 장부에만 갇힌 혁신은 스타트업과 멀다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59007</link>
             <guid>https://www.bookjournalism.com/books/59007</guid>
@@ -336,13 +335,6 @@
             <guid>https://www.bookjournalism.com/audio/58629</guid>
             <pubDate>Mon, 23 Jan 2023 15:23:07 GMT</pubDate>
             <content:encoded><![CDATA[스페셜 토크 ; 상상력에 도전하는 지구생활자들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연휴에도 지적 여정을 멈출 수 없는 독자를 위해, 네 가지 하루를 제안합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58413</link>
-            <guid>https://www.bookjournalism.com/books/58413</guid>
-            <pubDate>Sat, 21 Jan 2023 15:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[당신을 위한 하루]]></content:encoded>
         </item>
     </channel>
 </rss>

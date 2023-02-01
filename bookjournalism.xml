@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-02-01T07:20:16.900Z</updated>
+    <updated>2023-02-01T08:27:25.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[우리를 둘러싼 현실에서 문학의 쓸모와 가치는 당연한 것이 아니다. 프루스트는 그럼에도 여전히 문학이 존재해야 하는 이유를 말한다.]]></title>
+        <id>https://www.bookjournalism.com/books/58839</id>
+        <link href="https://www.bookjournalism.com/books/58839"/>
+        <updated>2023-02-01T08:27:15.324Z</updated>
+        <content type="html"><![CDATA[잃어버린 가치를 찾아서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅테크가 위기를 극복하기 위해 스타트업 정신을 강요한다. 그러나 장부에만 갇힌 혁신은 스타트업과 멀다.]]></title>
         <id>https://www.bookjournalism.com/books/59007</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/58629"/>
         <updated>2023-01-23T15:23:07.738Z</updated>
         <content type="html"><![CDATA[스페셜 토크 ; 상상력에 도전하는 지구생활자들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연휴에도 지적 여정을 멈출 수 없는 독자를 위해, 네 가지 하루를 제안합니다.]]></title>
-        <id>https://www.bookjournalism.com/books/58413</id>
-        <link href="https://www.bookjournalism.com/books/58413"/>
-        <updated>2023-01-21T15:20:34.871Z</updated>
-        <content type="html"><![CDATA[당신을 위한 하루]]></content>
     </entry>
 </feed>
