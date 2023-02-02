@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-02-02T14:20:09.746Z</updated>
+    <updated>2023-02-02T15:23:18.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[‘청소년 모텔’로 불리는 룸카페의 진짜 문제는 무엇인가.]]></title>
+        <id>https://www.bookjournalism.com/books/59060</id>
+        <link href="https://www.bookjournalism.com/books/59060"/>
+        <updated>2023-02-02T15:23:06.940Z</updated>
+        <content type="html"><![CDATA[오버 더 룸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보일러를 마음대로 켜면 안 되는 시대다. 혁신이 필요하다.]]></title>
         <id>https://www.bookjournalism.com/books/59049</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/58533"/>
         <updated>2023-01-25T09:20:23.670Z</updated>
         <content type="html"><![CDATA[전례 없는 삶]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기업은 이제껏 자사 제품의 수리를 어렵게 만들어 왔다. 수리권 전쟁의 승자는 누가 될 것인가.]]></title>
-        <id>https://www.bookjournalism.com/books/58682</id>
-        <link href="https://www.bookjournalism.com/books/58682"/>
-        <updated>2023-01-24T15:22:31.377Z</updated>
-        <content type="html"><![CDATA[수리할 결심]]></content>
     </entry>
 </feed>
