@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 01:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 02:49:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7100?fr=category</guid>
             <pubDate>Thu, 12 Jan 2023 06:26:26 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[광고주 주목! 2023 라이징 유튜브 채널, 캐릿이 예언해드립니다 (캐릿)]]></title>
+            <link>https://www.careet.net/990</link>
+            <guid>https://www.careet.net/990</guid>
+            <pubDate>Thu, 02 Feb 2023 02:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 소비자의 관심을 받고 싶다면? ‘이 채널’에 PPL 하세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/d3823143-0cd5-42fa-96ac-838545fb11fb_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[대세는 힙성비! 적은 예산으로 시도할 수 있는 공간 기획 아이디어 (캐릿)]]></title>
@@ -268,6 +276,13 @@
             <content:encoded><![CDATA[풍요는 끝났다]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우리를 둘러싼 현실에서 문학의 쓸모와 가치는 당연한 것이 아니다. 프루스트는 그럼에도 여전히 문학이 존재해야 하는 이유를 말한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58839</link>
             <guid>https://www.bookjournalism.com/books/58839</guid>
@@ -280,13 +295,6 @@
             <guid>https://www.bookjournalism.com/books/59007</guid>
             <pubDate>Tue, 31 Jan 2023 15:22:40 GMT</pubDate>
             <content:encoded><![CDATA[그리운 스타트업]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[또 다른 흑인이 미국 경찰에 희생당했다. 이번엔 가해자 모두가 흑인이다. (북저널리즘)]]></title>

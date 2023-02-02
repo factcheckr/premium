@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 01:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 02:49:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광고주 주목! 2023 라이징 유튜브 채널, 캐릿이 예언해드립니다]]></title>
+            <link>https://www.careet.net/990</link>
+            <guid>https://www.careet.net/990</guid>
+            <pubDate>Thu, 02 Feb 2023 02:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 소비자의 관심을 받고 싶다면? ‘이 채널’에 PPL 하세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202301/d3823143-0cd5-42fa-96ac-838545fb11fb_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대세는 힙성비! 적은 예산으로 시도할 수 있는 공간 기획 아이디어]]></title>
             <link>https://www.careet.net/1001</link>
