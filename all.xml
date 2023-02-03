@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 14:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 15:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,11 +270,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[바른생각 : 섹스 이야기는 왜 ‘바르지’ 않나요? (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/568</link>
-            <guid>https://www.longblack.co/note/568</guid>
-            <pubDate>Thu, 02 Feb 2023 15:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전에 친한 친구가 물어보더라구요. “콘돔 뭐 써?”하고요. 한참 수다 떨다보니 신기해졌어요. 몇년 전만 해도 제가 콘돔이나 섹스 얘기를 친구랑 하는 것도 좀<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[다시, 어떻게 읽을 것인가 : 문해력 위기 시대의 읽기 전략 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/561</link>
+            <guid>https://www.longblack.co/note/561</guid>
+            <pubDate>Fri, 03 Feb 2023 15:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;오랜만에 종이책을 한 권 샀어요. 반스앤노블 노트를 읽고 나니 종이책이 그리워졌거든요. 종이 냄새와 책장 넘기는 소리, 손가락에 닿는 촉감… 기분 좋게 읽어내려 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #74에선, 난방비, 미국 경찰, 룸카페, 아마존 파업에 관해 이야기합니다. (북저널리즘)]]></title>
