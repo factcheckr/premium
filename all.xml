@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 06:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 07:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,13 +34,6 @@
             <guid>https://publy.co/content/7114?fr=category</guid>
             <pubDate>Thu, 26 Jan 2023 06:24:55 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[실무형 팀장으로 살아남는 5가지 노하우 모음 (퍼블리)]]></title>
-            <link>https://publy.co/content/7121?fr=category</link>
-            <guid>https://publy.co/content/7121?fr=category</guid>
-            <pubDate>Thu, 19 Jan 2023 07:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시간에 끌려다니지 않으려면? 노션 올인원 업무관리법(템플릿 제공) (퍼블리)]]></title>
@@ -75,6 +68,13 @@
             <link>https://publy.co/content/7100?fr=category</link>
             <guid>https://publy.co/content/7100?fr=category</guid>
             <pubDate>Thu, 12 Jan 2023 06:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['그 셀카 필터가 AR마케팅?' 사례로 보는 4가지 AR필터 제작 가이드 (퍼블리)]]></title>
+            <link>https://publy.co/content/7079?fr=category</link>
+            <guid>https://publy.co/content/7079?fr=category</guid>
+            <pubDate>Fri, 03 Feb 2023 07:19:17 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
