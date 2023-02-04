@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-02-04T14:18:58.564Z</updated>
+    <updated>2023-02-04T15:20:28.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[다시, 어떻게 읽을 것인가 : 문해력 위기 시대의 읽기 전략]]></title>
-        <id>https://www.longblack.co/note/561</id>
-        <link href="https://www.longblack.co/note/561"/>
-        <updated>2023-02-03T15:21:38.735Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;오랜만에 종이책을 한 권 샀어요. 반스앤노블 노트를 읽고 나니 종이책이 그리워졌거든요. 종이 냄새와 책장 넘기는 소리, 손가락에 닿는 촉감… 기분 좋게 읽어내려 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-02-04T15:19:26.303Z</updated>
+        <content type="html"><![CDATA[C의 마음을 흔든 지난주 롱블랙의 문장
+
+“과거로 돌아가서 저의 시행착오나 실수를 막는다? 그러면 그 일을 겪었기 때문에 얻은 지혜나 통찰도 없어질 테고, 그게 없어짐으로써 이후 생기지 않았을 일이 생길 수도 있을 테니까요. 인간은 자기 자신에게 가장 결정적으로 배<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
