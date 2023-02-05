@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-02-05T14:18:58.399Z</updated>
+    <updated>2023-02-05T15:20:35.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시가 집회 없는 광장을 꿈꾼다. 어불성설이다.]]></title>
+        <id>https://www.bookjournalism.com/books/59094</id>
+        <link href="https://www.bookjournalism.com/books/59094"/>
+        <updated>2023-02-05T15:20:22.904Z</updated>
+        <content type="html"><![CDATA[광장의 의미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #74에선, 난방비, 미국 경찰, 룸카페, 아마존 파업에 관해 이야기합니다.]]></title>
         <id>https://www.bookjournalism.com/audio/59081</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/58754"/>
         <updated>2023-01-27T08:26:04.822Z</updated>
         <content type="html"><![CDATA[1인 가구와 기술]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시는 대중교통 요금 인상을, 세종시는 대중교통 무상화를 추진한다. 대중교통을 둘러싼 다른 선택, 이유는 무엇일까?]]></title>
-        <id>https://www.bookjournalism.com/books/58863</id>
-        <link href="https://www.bookjournalism.com/books/58863"/>
-        <updated>2023-01-25T15:21:59.882Z</updated>
-        <content type="html"><![CDATA[삐빅, 무료입니다]]></content>
     </entry>
 </feed>
