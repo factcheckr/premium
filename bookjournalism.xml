@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-02-06T06:33:38.293Z</updated>
+    <updated>2023-02-06T07:20:51.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -76,7 +76,7 @@
         <content type="html"><![CDATA[자가 수리하러 비싼 버스타고 스코틀랜드로]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스코틀랜드의 트랜스젠더 권리 향상은 어쩌다 영국과의 자존심 대결로 번졌나.]]></title>
+        <title type="html"><![CDATA[스코틀랜드의 퀴어 인권은 어쩌다 영국과의 자존심 대결로 번졌나.]]></title>
         <id>https://www.bookjournalism.com/books/58877</id>
         <link href="https://www.bookjournalism.com/books/58877"/>
         <updated>2023-01-26T15:22:20.628Z</updated>

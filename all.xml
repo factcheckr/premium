@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 06:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 07:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일잘러가 반박불가 보고서 작성하는 법(feat. 자료조사 방법) (퍼블리)]]></title>
+            <link>https://publy.co/content/7123?fr=category</link>
+            <guid>https://publy.co/content/7123?fr=category</guid>
+            <pubDate>Mon, 06 Feb 2023 07:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[3초 안에 팔로우를 부르는 인스타그램 공략집 (퍼블리)]]></title>
             <link>https://publy.co/content/7127?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7101?fr=category</guid>
             <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내 월급 빼고 다 올라! 직장인들을 위한 돈 모으는 법 (퍼블리)]]></title>
-            <link>https://publy.co/content/7116?fr=category</link>
-            <guid>https://publy.co/content/7116?fr=category</guid>
-            <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“요즘 신입사원 정말 이래? 내가 꼰대인 건가?” Z세대가 답해드립니다. (캐릿)]]></title>
@@ -355,7 +355,7 @@
             <content:encoded><![CDATA[자가 수리하러 비싼 버스타고 스코틀랜드로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스코틀랜드의 트랜스젠더 권리 향상은 어쩌다 영국과의 자존심 대결로 번졌나. (북저널리즘)]]></title>
+            <title><![CDATA[스코틀랜드의 퀴어 인권은 어쩌다 영국과의 자존심 대결로 번졌나. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58877</link>
             <guid>https://www.bookjournalism.com/books/58877</guid>
             <pubDate>Thu, 26 Jan 2023 15:22:20 GMT</pubDate>
