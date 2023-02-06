@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 15:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 17:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,6 +285,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;요새 위스키Whisky가 난리라며? 마트에 갔더니 와인이 아니라 위스키가 노른자 매대에 있더라. 들어가자마자 위스키가 딱 보여. 카페에서도 위스키에 탄산수 섞은 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[애플페이는 지갑의 의미를 어떻게 바꿔 놓을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59122</link>
+            <guid>https://www.bookjournalism.com/books/59122</guid>
+            <pubDate>Mon, 06 Feb 2023 17:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[지갑의 종말]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[서울시가 집회 없는 광장을 꿈꾼다. 어불성설이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59094</link>
             <guid>https://www.bookjournalism.com/books/59094</guid>
@@ -360,13 +367,6 @@
             <guid>https://www.bookjournalism.com/books/58877</guid>
             <pubDate>Thu, 26 Jan 2023 15:22:20 GMT</pubDate>
             <content:encoded><![CDATA[인디펜던트 랜드]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘나 혼자 산다’고 모두가 ‘잘’ 사는 건 아니다. 1인 가구 천만 시대, 우리가 놓치고 있는 것은 무엇인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58754</link>
-            <guid>https://www.bookjournalism.com/books/58754</guid>
-            <pubDate>Fri, 27 Jan 2023 08:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[1인 가구와 기술]]></content:encoded>
         </item>
     </channel>
 </rss>

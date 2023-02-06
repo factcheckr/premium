@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-02-06T15:24:38.577Z</updated>
+    <updated>2023-02-06T17:23:18.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[애플페이는 지갑의 의미를 어떻게 바꿔 놓을까?]]></title>
+        <id>https://www.bookjournalism.com/books/59122</id>
+        <link href="https://www.bookjournalism.com/books/59122"/>
+        <updated>2023-02-06T17:23:06.049Z</updated>
+        <content type="html"><![CDATA[지갑의 종말]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시가 집회 없는 광장을 꿈꾼다. 어불성설이다.]]></title>
         <id>https://www.bookjournalism.com/books/59094</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/58877"/>
         <updated>2023-01-26T15:22:20.628Z</updated>
         <content type="html"><![CDATA[인디펜던트 랜드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나 혼자 산다’고 모두가 ‘잘’ 사는 건 아니다. 1인 가구 천만 시대, 우리가 놓치고 있는 것은 무엇인가.]]></title>
-        <id>https://www.bookjournalism.com/books/58754</id>
-        <link href="https://www.bookjournalism.com/books/58754"/>
-        <updated>2023-01-27T08:26:04.822Z</updated>
-        <content type="html"><![CDATA[1인 가구와 기술]]></content>
     </entry>
 </feed>
