@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 23:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 01:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“요즘 신입사원 정말 이래? 내가 꼰대인 건가?” Z세대가 답해드립니다.]]></title>
+            <link>https://www.careet.net/1007</link>
+            <guid>https://www.careet.net/1007</guid>
+            <pubDate>Mon, 06 Feb 2023 01:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[출근 시간, 회식 등 각종 사내 세대 갈등에 대한 Z세대의 생각은?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/68d78ce0-b989-4b20-9c39-188b6e4f3a4c_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘공포 스마일 필터’부터 ‘메이브’까지! 이번 주 Z세대 이슈 1분 만에 훑기]]></title>
             <link>https://www.careet.net/1005</link>
