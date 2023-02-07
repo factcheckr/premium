@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 23:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 01:42:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그랑핸드는 어떻게 광고 모델도 없이 Z세대의 ‘손민수템’이 되었을까]]></title>
+            <link>https://www.careet.net/1004</link>
+            <guid>https://www.careet.net/1004</guid>
+            <pubDate>Tue, 07 Feb 2023 01:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[제품 소개 페이지부터→오프라인 장치까지, 뉴 힙 브랜드의 인기 비결은?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/f7b6724f-9be3-4d52-8c9b-6f5bd71a96bd_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“요즘 신입사원 정말 이래? 내가 꼰대인 건가?” Z세대가 답해드립니다.]]></title>
             <link>https://www.careet.net/1007</link>
