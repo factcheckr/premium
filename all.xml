@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 08:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 09:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노션 원페이지로 키우는 프로젝트 관리력(템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7131?fr=category</link>
+            <guid>https://publy.co/content/7131?fr=category</guid>
+            <pubDate>Tue, 07 Feb 2023 09:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[일잘러가 반박불가 보고서 작성하는 법(feat. 자료조사 방법) (퍼블리)]]></title>
             <link>https://publy.co/content/7123?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7111?fr=category</guid>
             <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[실적? 평가? 선을 지키면서 팀원에게 공유하는 팀장의 정보 공유법 (퍼블리)]]></title>
-            <link>https://publy.co/content/7101?fr=category</link>
-            <guid>https://publy.co/content/7101?fr=category</guid>
-            <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그랑핸드는 어떻게 광고 모델도 없이 Z세대의 ‘손민수템’이 되었을까 (캐릿)]]></title>
