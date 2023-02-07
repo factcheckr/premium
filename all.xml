@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 14:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 15:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[위스키 : 중년의 술에서 MZ의 수집품으로, 3대 트렌드를 읽다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/573</link>
-            <guid>https://www.longblack.co/note/573</guid>
-            <pubDate>Mon, 06 Feb 2023 15:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;요새 위스키Whisky가 난리라며? 마트에 갔더니 와인이 아니라 위스키가 노른자 매대에 있더라. 들어가자마자 위스키가 딱 보여. 카페에서도 위스키에 탄산수 섞은 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[꾸까 : 꽃이 브랜드가 될 수 있을까, 9년차 구독 서비스의 실험 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/571</link>
+            <guid>https://www.longblack.co/note/571</guid>
+            <pubDate>Tue, 07 Feb 2023 15:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;꾸까Kukka라고 아세요? ‘아, 그 꽃 구독 서비스. 나 전에 선물 받아봤어’하는 분들 있죠? 오랜만에 꾸까로 꽃 선물 받고 놀랐잖아요. 꽃이 검은색 상자에 담<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[행동주의 펀드 ‘얼라인파트너스’가 SM엔터테인먼트에 이어 7대 금융지주를 겨냥하고 있다. 주주 행동주의는 무엇을 바꿀까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59157</link>
+            <guid>https://www.bookjournalism.com/books/59157</guid>
+            <pubDate>Tue, 07 Feb 2023 15:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[주주들이여, 행동하라]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애플페이는 지갑의 의미를 어떻게 바꿔 놓을까? (북저널리즘)]]></title>
@@ -368,13 +375,6 @@
             <guid>https://www.bookjournalism.com/audio/58926</guid>
             <pubDate>Fri, 27 Jan 2023 10:23:40 GMT</pubDate>
             <content:encoded><![CDATA[자가 수리하러 비싼 버스타고 스코틀랜드로]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스코틀랜드의 퀴어 인권은 어쩌다 영국과의 자존심 대결로 번졌나. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58877</link>
-            <guid>https://www.bookjournalism.com/books/58877</guid>
-            <pubDate>Thu, 26 Jan 2023 15:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[인디펜던트 랜드]]></content:encoded>
         </item>
     </channel>
 </rss>
