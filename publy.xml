@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-02-08T06:27:09.562Z</updated>
+    <updated>2023-02-08T07:20:17.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 워크 다이어트로 팀 생산성 높이는 법: 마음, 배려보다 먹히는 ‘이것’]]></title>
+        <id>https://publy.co/content/7118?fr=category</id>
+        <link href="https://publy.co/content/7118?fr=category"/>
+        <updated>2023-02-08T07:19:07.010Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노션 원페이지로 키우는 프로젝트 관리력(템플릿 제공)]]></title>
         <id>https://publy.co/content/7131?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7115?fr=category"/>
         <updated>2023-02-04T20:20:09.981Z</updated>
         <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5억에서 20억, 15억 매출 점핑을 만들어 낸 상세페이지의 비밀]]></title>
-        <id>https://publy.co/content/7111?fr=category</id>
-        <link href="https://publy.co/content/7111?fr=category"/>
-        <updated>2023-02-04T20:20:09.986Z</updated>
-        <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 06:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 07:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 이미지로 한눈에 보는 분야별 MZ세대 데이터 모음.zip]]></title>
+            <link>https://www.careet.net/1011</link>
+            <guid>https://www.careet.net/1011</guid>
+            <pubDate>Wed, 08 Feb 2023 07:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[취미여가·메타버스·반려동물 등 총 5가지 분야의 데이터를 엄선했습니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/77e8cbe4-c102-4528-82f2-2dac41cc3069_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[그랑핸드는 어떻게 광고 모델도 없이 Z세대의 ‘손민수템’이 되었을까]]></title>
             <link>https://www.careet.net/1004</link>
