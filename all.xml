@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 14:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 15:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,11 +294,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[꾸까 : 꽃이 브랜드가 될 수 있을까, 9년차 구독 서비스의 실험 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/571</link>
-            <guid>https://www.longblack.co/note/571</guid>
-            <pubDate>Tue, 07 Feb 2023 15:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;꾸까Kukka라고 아세요? ‘아, 그 꽃 구독 서비스. 나 전에 선물 받아봤어’하는 분들 있죠? 오랜만에 꾸까로 꽃 선물 받고 놀랐잖아요. 꽃이 검은색 상자에 담<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[트레이더 조 : 할인도, 배달도 없는 마트에 MZ가 몰리는 이유 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/576</link>
+            <guid>https://www.longblack.co/note/576</guid>
+            <pubDate>Wed, 08 Feb 2023 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전 다니엘 핑크가 롱블랙 인터뷰에서 세일즈를 잘하는 브랜드로 소개한 곳이 있죠. 미국의 마트 체인 트레이더 조Trader Joe’s! 찾아보니까 2022년 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[당연해 보이는 사실도 논리적으로 따져 보면 당연하지 않다. 철학과 수학은 러셀의 눈을 통해 어떻게 바뀌었을까. (북저널리즘)]]></title>
