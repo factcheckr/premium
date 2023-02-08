@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-02-08T19:18:49.382Z</updated>
+    <updated>2023-02-08T20:23:36.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[국민의힘 전당대회가 연일 뉴스를 장식한다. 갈등을 해결하는 정치란 것은, 그렇게도 어려운 것일까.]]></title>
+        <id>https://www.bookjournalism.com/books/59200</id>
+        <link href="https://www.bookjournalism.com/books/59200"/>
+        <updated>2023-02-08T20:23:23.939Z</updated>
+        <content type="html"><![CDATA[대통령의 야심]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당연해 보이는 사실도 논리적으로 따져 보면 당연하지 않다. 철학과 수학은 러셀의 눈을 통해 어떻게 바뀌었을까.]]></title>
         <id>https://www.bookjournalism.com/books/58992</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/58977"/>
         <updated>2023-01-30T15:23:56.373Z</updated>
         <content type="html"><![CDATA[공권력이 지켜야 하는 것]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아마존 창고 노동자의 파업은 노동의 위기를 말한다. 미래의 생산과 노동은 어떤 모습일까?]]></title>
-        <id>https://www.bookjournalism.com/books/58946</id>
-        <link href="https://www.bookjournalism.com/books/58946"/>
-        <updated>2023-01-29T15:20:11.217Z</updated>
-        <content type="html"><![CDATA[사이보그지만 괜찮아]]></content>
     </entry>
 </feed>

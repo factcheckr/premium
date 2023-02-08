@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 19:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 20:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,6 +301,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전 다니엘 핑크가 롱블랙 인터뷰에서 세일즈를 잘하는 브랜드로 소개한 곳이 있죠. 미국의 마트 체인 트레이더 조Trader Joe’s! 찾아보니까 2022년 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국민의힘 전당대회가 연일 뉴스를 장식한다. 갈등을 해결하는 정치란 것은, 그렇게도 어려운 것일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59200</link>
+            <guid>https://www.bookjournalism.com/books/59200</guid>
+            <pubDate>Wed, 08 Feb 2023 20:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[대통령의 야심]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[당연해 보이는 사실도 논리적으로 따져 보면 당연하지 않다. 철학과 수학은 러셀의 눈을 통해 어떻게 바뀌었을까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58992</link>
             <guid>https://www.bookjournalism.com/books/58992</guid>
@@ -376,13 +383,6 @@
             <guid>https://www.bookjournalism.com/books/58977</guid>
             <pubDate>Mon, 30 Jan 2023 15:23:56 GMT</pubDate>
             <content:encoded><![CDATA[공권력이 지켜야 하는 것]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아마존 창고 노동자의 파업은 노동의 위기를 말한다. 미래의 생산과 노동은 어떤 모습일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58946</link>
-            <guid>https://www.bookjournalism.com/books/58946</guid>
-            <pubDate>Sun, 29 Jan 2023 15:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[사이보그지만 괜찮아]]></content:encoded>
         </item>
     </channel>
 </rss>
