@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 06:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 07:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀장을 위한 1:1 면담 커리큘럼 (퍼블리)]]></title>
+            <link>https://publy.co/content/7138?fr=category</link>
+            <guid>https://publy.co/content/7138?fr=category</guid>
+            <pubDate>Thu, 09 Feb 2023 07:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2023 워크 다이어트로 팀 생산성 높이는 법: 마음, 배려보다 먹히는 ‘이것’ (퍼블리)]]></title>
             <link>https://publy.co/content/7118?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7121?fr=category</guid>
             <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시간에 끌려다니지 않으려면? 노션 올인원 업무관리법(템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7115?fr=category</link>
-            <guid>https://publy.co/content/7115?fr=category</guid>
-            <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대 20인 심층 인터뷰 “폰에서 절대 지우지 않는 자사앱 공통점은?” (캐릿)]]></title>
