@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 14:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 15:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,11 +302,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[트레이더 조 : 할인도, 배달도 없는 마트에 MZ가 몰리는 이유 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/576</link>
-            <guid>https://www.longblack.co/note/576</guid>
-            <pubDate>Wed, 08 Feb 2023 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전 다니엘 핑크가 롱블랙 인터뷰에서 세일즈를 잘하는 브랜드로 소개한 곳이 있죠. 미국의 마트 체인 트레이더 조Trader Joe’s! 찾아보니까 2022년 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[양재중 : 인생도 어란도, 소금에 절고 바람을 버티며 녹진해지다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/574</link>
+            <guid>https://www.longblack.co/note/574</guid>
+            <pubDate>Thu, 09 Feb 2023 15:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;지인의 집에 초대받았습니다. 좋은 걸 맛 보이겠다며, 정갈하게 썰린 홍시 빛깔의 슬라이스를 내옵니다. 숭어알을 건조한 어란이라고 하더군요. 화이트 와인에 곁들이니<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[챗GPT와 MS 합작의 파급력이 만만치 않다. 지금의 소동은 새로운 시대의 시작을 알리는 건 아닐까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59216</link>
+            <guid>https://www.bookjournalism.com/books/59216</guid>
+            <pubDate>Thu, 09 Feb 2023 15:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[프로메테우스, 그 이후]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국민의힘 전당대회가 연일 뉴스를 장식한다. 갈등을 해결하는 정치란 것은, 그렇게도 어려운 것일까. (북저널리즘)]]></title>
@@ -384,13 +391,6 @@
             <guid>https://www.bookjournalism.com/books/59007</guid>
             <pubDate>Tue, 31 Jan 2023 15:22:40 GMT</pubDate>
             <content:encoded><![CDATA[그리운 스타트업]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[또 다른 흑인이 미국 경찰에 희생당했다. 이번엔 가해자 모두가 흑인이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/58977</link>
-            <guid>https://www.bookjournalism.com/books/58977</guid>
-            <pubDate>Mon, 30 Jan 2023 15:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[공권력이 지켜야 하는 것]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-02-09T14:21:14.598Z</updated>
+    <updated>2023-02-09T15:23:58.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[챗GPT와 MS 합작의 파급력이 만만치 않다. 지금의 소동은 새로운 시대의 시작을 알리는 건 아닐까?]]></title>
+        <id>https://www.bookjournalism.com/books/59216</id>
+        <link href="https://www.bookjournalism.com/books/59216"/>
+        <updated>2023-02-09T15:23:47.129Z</updated>
+        <content type="html"><![CDATA[프로메테우스, 그 이후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 전당대회가 연일 뉴스를 장식한다. 갈등을 해결하는 정치란 것은, 그렇게도 어려운 것일까.]]></title>
         <id>https://www.bookjournalism.com/books/59200</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/59007"/>
         <updated>2023-01-31T15:22:40.681Z</updated>
         <content type="html"><![CDATA[그리운 스타트업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 다른 흑인이 미국 경찰에 희생당했다. 이번엔 가해자 모두가 흑인이다.]]></title>
-        <id>https://www.bookjournalism.com/books/58977</id>
-        <link href="https://www.bookjournalism.com/books/58977"/>
-        <updated>2023-01-30T15:23:56.373Z</updated>
-        <content type="html"><![CDATA[공권력이 지켜야 하는 것]]></content>
     </entry>
 </feed>
