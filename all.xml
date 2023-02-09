@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 23:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 02:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7115?fr=category</guid>
             <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대 20인 심층 인터뷰 “폰에서 절대 지우지 않는 자사앱 공통점은?” (캐릿)]]></title>
+            <link>https://www.careet.net/1002</link>
+            <guid>https://www.careet.net/1002</guid>
+            <pubDate>Thu, 09 Feb 2023 02:51:29 GMT</pubDate>
+            <content:encoded><![CDATA[자사앱·자사몰 유입 포인트 알려드립니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/d297ec5c-70c8-4e19-bc37-b2f02a50d7dd_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 이미지로 한눈에 보는 분야별 MZ세대 데이터 모음.zip (캐릿)]]></title>
@@ -308,6 +316,13 @@
             <content:encoded><![CDATA[대통령의 야심]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[당연해 보이는 사실도 논리적으로 따져 보면 당연하지 않다. 철학과 수학은 러셀의 눈을 통해 어떻게 바뀌었을까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/58992</link>
             <guid>https://www.bookjournalism.com/books/58992</guid>
@@ -320,13 +335,6 @@
             <guid>https://www.bookjournalism.com/books/59157</guid>
             <pubDate>Tue, 07 Feb 2023 15:22:47 GMT</pubDate>
             <content:encoded><![CDATA[주주들이여, 행동하라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애플페이는 지갑의 의미를 어떻게 바꿔 놓을까? (북저널리즘)]]></title>
