@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 23:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 01:51:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -316,18 +316,18 @@
             <content:encoded><![CDATA[프로메테우스, 그 이후]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국민의힘 전당대회가 연일 뉴스를 장식한다. 갈등을 해결하는 정치란 것은, 그렇게도 어려운 것일까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59200</link>
-            <guid>https://www.bookjournalism.com/books/59200</guid>
-            <pubDate>Wed, 08 Feb 2023 20:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[대통령의 야심]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국민의힘 전당대회가 연일 뉴스를 장식한다. 갈등을 해결하는 정치란 것은, 그렇게도 어려운 것일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59200</link>
+            <guid>https://www.bookjournalism.com/books/59200</guid>
+            <pubDate>Wed, 08 Feb 2023 20:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[대통령의 야심]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[당연해 보이는 사실도 논리적으로 따져 보면 당연하지 않다. 철학과 수학은 러셀의 눈을 통해 어떻게 바뀌었을까. (북저널리즘)]]></title>
