@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 14:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 15:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,11 +310,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[양재중 : 인생도 어란도, 소금에 절고 바람을 버티며 녹진해지다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/574</link>
-            <guid>https://www.longblack.co/note/574</guid>
-            <pubDate>Thu, 09 Feb 2023 15:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;지인의 집에 초대받았습니다. 좋은 걸 맛 보이겠다며, 정갈하게 썰린 홍시 빛깔의 슬라이스를 내옵니다. 숭어알을 건조한 어란이라고 하더군요. 화이트 와인에 곁들이니<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[일만 하지 않습니다 : 1만 시간의 법칙이 놓친 ‘잘 쉬는 법’ (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/575</link>
+            <guid>https://www.longblack.co/note/575</guid>
+            <pubDate>Fri, 10 Feb 2023 15:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K롱블랙 피플, 벌써 올해의 첫 달도 지났어요. 연초인만큼 ‘열심히’ ‘빠르게’ 이런 단어에 집중했죠. 간만에 휴식하는 주말을 맞이했는데, 무엇을 해야할지 모르겠는 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #75에선, 애플페이, 국민의힘 전당대회, 주주행동주의, 챗GPT에 관해 이야기합니다. (북저널리즘)]]></title>
