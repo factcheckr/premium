@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 01:51:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 02:57:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7121?fr=category</guid>
             <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘본디’가 뭐길래? 1020도 진짜 본디를 쓰는 걸까? (캐릿)]]></title>
+            <link>https://www.careet.net/1015</link>
+            <guid>https://www.careet.net/1015</guid>
+            <pubDate>Fri, 10 Feb 2023 02:56:45 GMT</pubDate>
+            <content:encoded><![CDATA[핫플로 떠오른 김밥집이 있다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/224d9e92-5017-4c22-935d-7f3f680ad5f1_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 20인 심층 인터뷰 “폰에서 절대 지우지 않는 자사앱 공통점은?” (캐릿)]]></title>
