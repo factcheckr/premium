@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-02-12T14:19:13.220Z</updated>
+    <updated>2023-02-12T15:21:16.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-02-11T15:20:30.831Z</updated>
-        <content type="html"><![CDATA[K가 메모한 지난주 롱블랙의 문장
-
-“디자이너마다 각자의 미감이 있을 거예요. 하지만 미감은 말 그대로 ‘감각’이에요. 감각에 의존해 디자인하면 공간이 산만해져요. 중요한 건 감각을 ‘구체화’할 수 있는 치밀한 계산과 설득이죠. 내가 설계도에 선을 ‘왜 긋는 건지’<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[슬리포노믹스 : 좋은 잠을 약속하는 700조 마켓, 3대 트렌드로 읽다]]></title>
+        <id>https://www.longblack.co/note/577</id>
+        <link href="https://www.longblack.co/note/577"/>
+        <updated>2023-02-12T15:20:17.217Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;나는 K가 그렇게 부러워. 아침마다 너무 활기차 보이는 거야. 잠을 아주 푹 잔대. 나는 요즘도 자주 잠을 설치는데 말이야.&nbsp;K가 나한테 “이불 바꿔보면 어떠냐”<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
