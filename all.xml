@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 06:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 07:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사, 배민, 토스는 마케팅에 얼마나 쓸까? 마케팅 비용 레퍼런스 모음 2편 (퍼블리)]]></title>
+            <link>https://publy.co/content/7132?fr=category</link>
+            <guid>https://publy.co/content/7132?fr=category</guid>
+            <pubDate>Mon, 13 Feb 2023 07:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[고민 시간을 반으로 줄여주는 제안서 PPT 템플릿(feat. 디자인 소스) (퍼블리)]]></title>
             <link>https://publy.co/content/7134?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7117?fr=category</guid>
             <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[퍼포먼스 마케팅은 위기? 데이터로 알차게 효율 내는 법 (퍼블리)]]></title>
-            <link>https://publy.co/content/7114?fr=category</link>
-            <guid>https://publy.co/content/7114?fr=category</guid>
-            <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[롯데리아 vs 버거킹! 호평받은 온라인 마케팅 사례 (캐릿)]]></title>
