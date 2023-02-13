@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 14:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 15:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,11 +318,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[슬리포노믹스 : 좋은 잠을 약속하는 700조 마켓, 3대 트렌드로 읽다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/577</link>
-            <guid>https://www.longblack.co/note/577</guid>
-            <pubDate>Sun, 12 Feb 2023 15:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;나는 K가 그렇게 부러워. 아침마다 너무 활기차 보이는 거야. 잠을 아주 푹 잔대. 나는 요즘도 자주 잠을 설치는데 말이야.&nbsp;K가 나한테 “이불 바꿔보면 어떠냐”<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[미드데이스퀘어 : 비건 초콜릿 브랜드, 광기 어린 콘텐츠로 주목받다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/578</link>
+            <guid>https://www.longblack.co/note/578</guid>
+            <pubDate>Mon, 13 Feb 2023 15:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;오늘은 밸런타인데이예요. 초콜릿은 못 받았어요. 이 공허함은… 초콜릿 브랜드 공부로 달래야겠어요! 제가 발견한 건 미드데이스퀘어Mid-day Squares란 브랜<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방통위가 개점휴업 상태다. 종편 때문이다. 방송과 뉴스의 미래가 불안하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59317</link>
+            <guid>https://www.bookjournalism.com/books/59317</guid>
+            <pubDate>Mon, 13 Feb 2023 15:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[방송이란 무엇인가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중국 정찰 풍선에 실린 것은 전략인가 실책인가. 중국이 진실 게임을 걸어왔다. (북저널리즘)]]></title>
@@ -400,13 +407,6 @@
             <guid>https://www.bookjournalism.com/books/59060</guid>
             <pubDate>Thu, 02 Feb 2023 15:23:06 GMT</pubDate>
             <content:encoded><![CDATA[오버 더 룸]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보일러를 마음대로 켜면 안 되는 시대다. 혁신이 필요하다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59049</link>
-            <guid>https://www.bookjournalism.com/books/59049</guid>
-            <pubDate>Wed, 01 Feb 2023 15:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[풍요는 끝났다]]></content:encoded>
         </item>
     </channel>
 </rss>
