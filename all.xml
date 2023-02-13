@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 22:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 23:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -316,13 +316,6 @@
             <pubDate>Mon, 02 Jan 2023 01:38:32 GMT</pubDate>
             <content:encoded><![CDATA[Z세대가 칭찬한 콜라보 마케팅]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미드데이스퀘어 : 비건 초콜릿 브랜드, 광기 어린 콘텐츠로 주목받다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/578</link>
-            <guid>https://www.longblack.co/note/578</guid>
-            <pubDate>Mon, 13 Feb 2023 15:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;오늘은 밸런타인데이예요. 초콜릿은 못 받았어요. 이 공허함은… 초콜릿 브랜드 공부로 달래야겠어요! 제가 발견한 건 미드데이스퀘어Mid-day Squares란 브랜<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방통위가 개점휴업 상태다. 종편 때문이다. 방송과 뉴스의 미래가 불안하다. (북저널리즘)]]></title>
