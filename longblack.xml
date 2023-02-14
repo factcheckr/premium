@@ -2,7 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-02-13T23:23:18.829Z</updated>
+    <updated>2023-02-14T01:50:04.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미드데이스퀘어 : 비건 초콜릿 브랜드, 광기 어린 콘텐츠로 주목받다]]></title>
+        <id>https://www.longblack.co/note/578</id>
+        <link href="https://www.longblack.co/note/578"/>
+        <updated>2023-02-14T01:49:05.695Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;오늘은 밸런타인데이예요. 초콜릿은 못 받았어요. 이 공허함은… 초콜릿 브랜드 공부로 달래야겠어요! 제가 발견한 건 미드데이스퀘어Mid-day Squares란 브랜<span class="circle-punctuation"></span>]]></content>
+    </entry>
 </feed>

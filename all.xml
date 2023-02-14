@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 23:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 01:50:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7117?fr=category</guid>
             <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘토스’가 고객 데이터로 분석한 10대의 경제생활 (캐릿)]]></title>
+            <link>https://www.careet.net/1008</link>
+            <guid>https://www.careet.net/1008</guid>
+            <pubDate>Tue, 14 Feb 2023 01:48:58 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 처음 돈을 벌기 시작한 나이는? 돈을 버는 방법은?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/5324129e-45db-47e7-8c0f-5f888b66e630_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[롯데리아 vs 버거킹! 호평받은 온라인 마케팅 사례 (캐릿)]]></title>
@@ -318,6 +326,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[미드데이스퀘어 : 비건 초콜릿 브랜드, 광기 어린 콘텐츠로 주목받다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/578</link>
+            <guid>https://www.longblack.co/note/578</guid>
+            <pubDate>Tue, 14 Feb 2023 01:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;오늘은 밸런타인데이예요. 초콜릿은 못 받았어요. 이 공허함은… 초콜릿 브랜드 공부로 달래야겠어요! 제가 발견한 건 미드데이스퀘어Mid-day Squares란 브랜<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[방통위가 개점휴업 상태다. 종편 때문이다. 방송과 뉴스의 미래가 불안하다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59317</link>
             <guid>https://www.bookjournalism.com/books/59317</guid>
@@ -325,18 +340,18 @@
             <content:encoded><![CDATA[방송이란 무엇인가]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59304</link>
+            <guid>https://www.bookjournalism.com/books/59304</guid>
+            <pubDate>Tue, 14 Feb 2023 01:49:52 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[중국 정찰 풍선에 실린 것은 전략인가 실책인가. 중국이 진실 게임을 걸어왔다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59278</link>
             <guid>https://www.bookjournalism.com/books/59278</guid>
             <pubDate>Sun, 12 Feb 2023 15:21:05 GMT</pubDate>
             <content:encoded><![CDATA[풍선은 꼼수를 싣고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #75에선, 애플페이, 국민의힘 전당대회, 주주행동주의, 챗GPT에 관해 이야기합니다. (북저널리즘)]]></title>
