@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 01:50:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 02:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[노션 원페이지로 키우는 프로젝트 관리력(템플릿 제공) (퍼블리)]]></title>
+            <title><![CDATA[노션 원페이지로 프로젝트 꼼꼼하게 관리하는 법(템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/7131?fr=category</link>
             <guid>https://publy.co/content/7131?fr=category</guid>
             <pubDate>Tue, 07 Feb 2023 09:20:24 GMT</pubDate>
