@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 07:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 08:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기록하기 전까지는 읽은 게 아니다 : 독서 기록법 (퍼블리)]]></title>
+            <link>https://publy.co/content/7139?fr=category</link>
+            <guid>https://publy.co/content/7139?fr=category</guid>
+            <pubDate>Wed, 15 Feb 2023 08:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[채널톡 영업비밀: 비즈니스 성장을 위한 CX 액션 아이템 6가지 (퍼블리)]]></title>
             <link>https://publy.co/content/7130?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7113?fr=category</guid>
             <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피할 수 없다면 편하게라도: 반복업무 템플릿화 하는 법 (퍼블리)]]></title>
-            <link>https://publy.co/content/7120?fr=category</link>
-            <guid>https://publy.co/content/7120?fr=category</guid>
-            <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리 팀 막내는 잡무 시키는 걸 진짜 싫어할까? (캐릿)]]></title>
@@ -341,6 +341,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;관객 22만 명을 동원하며 성황리에 끝난 &lt;장 줄리앙 : 그러면, 거기&gt; 전시부터, 자동차문화 브랜드 ‘피치스Peaches’, 패션 브랜드 ‘스테레오 바이널즈St<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[트랜스휴머니즘(transhumanism)은 마치 디스토피아적인 악몽처럼 들릴 수도 있지만, 여기에 필요한 기술적 진보의 일부는 생각보다 더 가까이에 와 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59296</link>
+            <guid>https://www.bookjournalism.com/books/59296</guid>
+            <pubDate>Wed, 15 Feb 2023 08:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[공상과학이 현실이 될 때]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59400</link>
             <guid>https://www.bookjournalism.com/books/59400</guid>
@@ -416,13 +423,6 @@
             <guid>https://www.bookjournalism.com/books/59094</guid>
             <pubDate>Sun, 05 Feb 2023 15:20:22 GMT</pubDate>
             <content:encoded><![CDATA[광장의 의미]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오의 에피소드 #74에선, 난방비, 미국 경찰, 룸카페, 아마존 파업에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/59081</link>
-            <guid>https://www.bookjournalism.com/audio/59081</guid>
-            <pubDate>Fri, 03 Feb 2023 12:39:09 GMT</pubDate>
-            <content:encoded><![CDATA[잔인한 겨울이야기]]></content:encoded>
         </item>
     </channel>
 </rss>
