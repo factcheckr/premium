@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 05:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 06:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채널톡 영업비밀: 비즈니스 성장을 위한 CX 액션 아이템 6가지 (퍼블리)]]></title>
+            <link>https://publy.co/content/7130?fr=category</link>
+            <guid>https://publy.co/content/7130?fr=category</guid>
+            <pubDate>Wed, 15 Feb 2023 06:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[무신사, 배민, 토스는 마케팅에 얼마나 쓸까? 마케팅 비용 레퍼런스 모음 2편 (퍼블리)]]></title>
             <link>https://publy.co/content/7132?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7120?fr=category</guid>
             <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일잘러의 보고법: 보고의 4가지 유형별 노하우 (퍼블리)]]></title>
-            <link>https://publy.co/content/7117?fr=category</link>
-            <guid>https://publy.co/content/7117?fr=category</guid>
-            <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리 팀 막내는 잡무 시키는 걸 진짜 싫어할까? (캐릿)]]></title>

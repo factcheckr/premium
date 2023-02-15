@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-02-15T05:21:35.156Z</updated>
+    <updated>2023-02-15T06:29:17.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[채널톡 영업비밀: 비즈니스 성장을 위한 CX 액션 아이템 6가지]]></title>
+        <id>https://publy.co/content/7130?fr=category</id>
+        <link href="https://publy.co/content/7130?fr=category"/>
+        <updated>2023-02-15T06:28:05.962Z</updated>
+        <content type="html"><![CDATA[아티클 · 17분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무신사, 배민, 토스는 마케팅에 얼마나 쓸까? 마케팅 비용 레퍼런스 모음 2편]]></title>
         <id>https://publy.co/content/7132?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7120?fr=category"/>
         <updated>2023-02-04T20:20:09.973Z</updated>
         <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일잘러의 보고법: 보고의 4가지 유형별 노하우]]></title>
-        <id>https://publy.co/content/7117?fr=category</id>
-        <link href="https://publy.co/content/7117?fr=category"/>
-        <updated>2023-02-04T20:20:09.975Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
