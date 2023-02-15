@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 14:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 15:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,11 +334,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[허재영 : 장 줄리앙부터 피치스까지, 협업으로 창의성을 끌어내다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/580</link>
-            <guid>https://www.longblack.co/note/580</guid>
-            <pubDate>Tue, 14 Feb 2023 15:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;관객 22만 명을 동원하며 성황리에 끝난 &lt;장 줄리앙 : 그러면, 거기&gt; 전시부터, 자동차문화 브랜드 ‘피치스Peaches’, 패션 브랜드 ‘스테레오 바이널즈St<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[지샥 : 10년간의 외면을 버티고, 강한 시계의 대명사가 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/581</link>
+            <guid>https://www.longblack.co/note/581</guid>
+            <pubDate>Wed, 15 Feb 2023 15:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;어떤 이가 뒤늦게 진가를 인정받는 걸 볼 때의 감동이 있죠. 브랜드도 그런 것 같습니다. 오랜 시간 고군분투 했다는 걸 알고 나면 괜히 더 애정이 가요.지샥G-s<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트랜스휴머니즘(transhumanism)은 마치 디스토피아적인 악몽처럼 들릴 수도 있지만, 여기에 필요한 기술적 진보의 일부는 생각보다 더 가까이에 와 있다. (북저널리즘)]]></title>
