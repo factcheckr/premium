@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 15:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 16:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;어떤 이가 뒤늦게 진가를 인정받는 걸 볼 때의 감동이 있죠. 브랜드도 그런 것 같습니다. 오랜 시간 고군분투 했다는 걸 알고 나면 괜히 더 애정이 가요.지샥G-s<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[전기차, 배터리 업계는 총성 없는 전쟁 중이다. 치킨 게임 속 우리의 전략은 무엇인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59443</link>
+            <guid>https://www.bookjournalism.com/books/59443</guid>
+            <pubDate>Wed, 15 Feb 2023 16:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[전기차 표류기]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[트랜스휴머니즘(transhumanism)은 마치 디스토피아적인 악몽처럼 들릴 수도 있지만, 여기에 필요한 기술적 진보의 일부는 생각보다 더 가까이에 와 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59296</link>
             <guid>https://www.bookjournalism.com/books/59296</guid>
@@ -416,13 +423,6 @@
             <guid>https://www.bookjournalism.com/books/59122</guid>
             <pubDate>Mon, 06 Feb 2023 17:23:06 GMT</pubDate>
             <content:encoded><![CDATA[지갑의 종말]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울시가 집회 없는 광장을 꿈꾼다. 어불성설이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59094</link>
-            <guid>https://www.bookjournalism.com/books/59094</guid>
-            <pubDate>Sun, 05 Feb 2023 15:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[광장의 의미]]></content:encoded>
         </item>
     </channel>
 </rss>
