@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 01:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 02:54:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 팀 막내는 잡무 시키는 걸 진짜 싫어할까?]]></title>
+            <link>https://www.careet.net/1018</link>
+            <guid>https://www.careet.net/1018</guid>
+            <pubDate>Wed, 15 Feb 2023 02:53:14 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 신입사원·인턴에게 적절한 잡무를 시키는 방법]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/7d6f4dcd-42d9-4d34-a192-429b1b5d1d98_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘토스’가 고객 데이터로 분석한 10대의 경제생활]]></title>
             <link>https://www.careet.net/1008</link>
