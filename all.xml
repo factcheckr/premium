@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 23:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 01:49:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -340,18 +340,18 @@
             <content:encoded><![CDATA[지진 다시 생각하기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방통위가 개점휴업 상태다. 종편 때문이다. 방송과 뉴스의 미래가 불안하다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59317</link>
-            <guid>https://www.bookjournalism.com/books/59317</guid>
-            <pubDate>Mon, 13 Feb 2023 15:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[방송이란 무엇인가]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59304</link>
             <guid>https://www.bookjournalism.com/books/59304</guid>
             <pubDate>Tue, 14 Feb 2023 01:49:52 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방통위가 개점휴업 상태다. 종편 때문이다. 방송과 뉴스의 미래가 불안하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59317</link>
+            <guid>https://www.bookjournalism.com/books/59317</guid>
+            <pubDate>Mon, 13 Feb 2023 15:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[방송이란 무엇인가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중국 정찰 풍선에 실린 것은 전략인가 실책인가. 중국이 진실 게임을 걸어왔다. (북저널리즘)]]></title>
