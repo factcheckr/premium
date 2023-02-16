@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 04:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 05:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7113?fr=category</guid>
             <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쉿 여기서만 보세요! 14세 이하, 알파세대만 쓰는 앱 15 (캐릿)]]></title>
+            <link>https://www.careet.net/1016</link>
+            <guid>https://www.careet.net/1016</guid>
+            <pubDate>Thu, 16 Feb 2023 05:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 다음은 알파세대! 이제 알파세대 트렌드도 놓치면 안 됩니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/f3a17b34-5327-4d28-88c3-2695ec158513_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우리 팀 막내는 잡무 시키는 걸 진짜 싫어할까? (캐릿)]]></title>
