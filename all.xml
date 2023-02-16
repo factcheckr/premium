@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 14:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 15:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,11 +342,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[지샥 : 10년간의 외면을 버티고, 강한 시계의 대명사가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/581</link>
-            <guid>https://www.longblack.co/note/581</guid>
-            <pubDate>Wed, 15 Feb 2023 15:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;어떤 이가 뒤늦게 진가를 인정받는 걸 볼 때의 감동이 있죠. 브랜드도 그런 것 같습니다. 오랜 시간 고군분투 했다는 걸 알고 나면 괜히 더 애정이 가요.지샥G-s<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[스토리만이 살길 : 콘텐츠 전쟁에서 승리하는 스토리의 법칙 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/583</link>
+            <guid>https://www.longblack.co/note/583</guid>
+            <pubDate>Thu, 16 Feb 2023 15:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;타인을 설득하는 일, 늘 어렵습니다. 문제는 우리는 살면서 너무 자주 타인을 설득해야 한다는 거죠.장은수 대표님께 고민을 말했더니 『스토리만이 살 길』이란 책을 <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[겨울은 따뜻해졌고 스키장은 녹고 있다. 겨울 스포츠의 미래는 어떤 모습일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59532</link>
+            <guid>https://www.bookjournalism.com/books/59532</guid>
+            <pubDate>Thu, 16 Feb 2023 15:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[눈 없는 스키장]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전기차, 배터리 업계는 총성 없는 전쟁 중이다. 치킨 게임 속 우리의 전략은 무엇인가? (북저널리즘)]]></title>
@@ -424,13 +431,6 @@
             <guid>https://www.bookjournalism.com/books/59157</guid>
             <pubDate>Tue, 07 Feb 2023 15:22:47 GMT</pubDate>
             <content:encoded><![CDATA[주주들이여, 행동하라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플페이는 지갑의 의미를 어떻게 바꿔 놓을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59122</link>
-            <guid>https://www.bookjournalism.com/books/59122</guid>
-            <pubDate>Mon, 06 Feb 2023 17:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[지갑의 종말]]></content:encoded>
         </item>
     </channel>
 </rss>

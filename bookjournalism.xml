@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-02-16T14:21:46.874Z</updated>
+    <updated>2023-02-16T15:23:12.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[겨울은 따뜻해졌고 스키장은 녹고 있다. 겨울 스포츠의 미래는 어떤 모습일까?]]></title>
+        <id>https://www.bookjournalism.com/books/59532</id>
+        <link href="https://www.bookjournalism.com/books/59532"/>
+        <updated>2023-02-16T15:23:00.163Z</updated>
+        <content type="html"><![CDATA[눈 없는 스키장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전기차, 배터리 업계는 총성 없는 전쟁 중이다. 치킨 게임 속 우리의 전략은 무엇인가?]]></title>
         <id>https://www.bookjournalism.com/books/59443</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/59157"/>
         <updated>2023-02-07T15:22:47.566Z</updated>
         <content type="html"><![CDATA[주주들이여, 행동하라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플페이는 지갑의 의미를 어떻게 바꿔 놓을까?]]></title>
-        <id>https://www.bookjournalism.com/books/59122</id>
-        <link href="https://www.bookjournalism.com/books/59122"/>
-        <updated>2023-02-06T17:23:06.049Z</updated>
-        <content type="html"><![CDATA[지갑의 종말]]></content>
     </entry>
 </feed>
