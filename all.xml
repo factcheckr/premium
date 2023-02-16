@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 23:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 01:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,18 +348,18 @@
             <content:encoded><![CDATA[전기차 표류기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트랜스휴머니즘(transhumanism)은 마치 디스토피아적인 악몽처럼 들릴 수도 있지만, 여기에 필요한 기술적 진보의 일부는 생각보다 더 가까이에 와 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59296</link>
-            <guid>https://www.bookjournalism.com/books/59296</guid>
-            <pubDate>Wed, 15 Feb 2023 08:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[공상과학이 현실이 될 때]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59400</link>
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트랜스휴머니즘(transhumanism)은 마치 디스토피아적인 악몽처럼 들릴 수도 있지만, 여기에 필요한 기술적 진보의 일부는 생각보다 더 가까이에 와 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59296</link>
+            <guid>https://www.bookjournalism.com/books/59296</guid>
+            <pubDate>Wed, 15 Feb 2023 08:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[공상과학이 현실이 될 때]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[예견된 재난의 시대는 글로벌의 대응 모델이 변해야 한다고 말한다. (북저널리즘)]]></title>
