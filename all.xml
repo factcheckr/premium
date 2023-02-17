@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 09:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 10:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -357,6 +357,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;타인을 설득하는 일, 늘 어렵습니다. 문제는 우리는 살면서 너무 자주 타인을 설득해야 한다는 거죠.장은수 대표님께 고민을 말했더니 『스토리만이 살 길』이란 책을 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 라디오의 에피소드 #76에선, 전기차·배터리 시장, 기후 위기와 겨울 레저, 방송통신위원회와 언론, 튀르키예·시리아 지진에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/59565</link>
+            <guid>https://www.bookjournalism.com/audio/59565</guid>
+            <pubDate>Fri, 17 Feb 2023 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[우리에게는 새로운 청사진이 필요하다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[겨울은 따뜻해졌고 스키장은 녹고 있다. 겨울 스포츠의 미래는 어떤 모습일까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59532</link>
             <guid>https://www.bookjournalism.com/books/59532</guid>
@@ -432,13 +439,6 @@
             <guid>https://www.bookjournalism.com/books/58992</guid>
             <pubDate>Wed, 08 Feb 2023 08:27:36 GMT</pubDate>
             <content:encoded><![CDATA[러셀이 남긴 유산]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[행동주의 펀드 ‘얼라인파트너스’가 SM엔터테인먼트에 이어 7대 금융지주를 겨냥하고 있다. 주주 행동주의는 무엇을 바꿀까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59157</link>
-            <guid>https://www.bookjournalism.com/books/59157</guid>
-            <pubDate>Tue, 07 Feb 2023 15:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[주주들이여, 행동하라]]></content:encoded>
         </item>
     </channel>
 </rss>
