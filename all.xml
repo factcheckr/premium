@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 14:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 15:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,11 +350,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[스토리만이 살길 : 콘텐츠 전쟁에서 승리하는 스토리의 법칙 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/583</link>
-            <guid>https://www.longblack.co/note/583</guid>
-            <pubDate>Thu, 16 Feb 2023 15:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;타인을 설득하는 일, 늘 어렵습니다. 문제는 우리는 살면서 너무 자주 타인을 설득해야 한다는 거죠.장은수 대표님께 고민을 말했더니 『스토리만이 살 길』이란 책을 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[언러닝 : 낡은 지식을 버려야 새로운 학습이 시작된다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/589</link>
+            <guid>https://www.longblack.co/note/589</guid>
+            <pubDate>Fri, 17 Feb 2023 15:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C와, 배울 게 산더미예요. 지난주까진 저 챗GPT라는 거 공부하기 바빴거든요? 이번 주는 주변에서 온통 본디bondee라는 메신저 이야기를 하는 거예요. 다음 주는<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #76에선, 전기차·배터리 시장, 기후 위기와 겨울 레저, 방송통신위원회와 언론, 튀르키예·시리아 지진에 관해 이야기합니다. (북저널리즘)]]></title>
