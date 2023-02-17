@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 23:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 01:51:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 Z세대 여가 시간엔 다들 ‘이거’ 한대! 이주의 유행템 3]]></title>
+            <link>https://www.careet.net/1020</link>
+            <guid>https://www.careet.net/1020</guid>
+            <pubDate>Fri, 17 Feb 2023 01:50:34 GMT</pubDate>
+            <content:encoded><![CDATA[온·오프라인을 망라한 Z세대 취미 유행템 3]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/520b9ad6-cf60-4494-8edb-81b1f07072aa_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쉿 여기서만 보세요! 14세 이하, 알파세대만 쓰는 앱 15]]></title>
             <link>https://www.careet.net/1016</link>

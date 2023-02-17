@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 23:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 01:51:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7127?fr=category</guid>
             <pubDate>Sat, 04 Feb 2023 20:20:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 Z세대 여가 시간엔 다들 ‘이거’ 한대! 이주의 유행템 3 (캐릿)]]></title>
+            <link>https://www.careet.net/1020</link>
+            <guid>https://www.careet.net/1020</guid>
+            <pubDate>Fri, 17 Feb 2023 01:50:34 GMT</pubDate>
+            <content:encoded><![CDATA[온·오프라인을 망라한 Z세대 취미 유행템 3]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/520b9ad6-cf60-4494-8edb-81b1f07072aa_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쉿 여기서만 보세요! 14세 이하, 알파세대만 쓰는 앱 15 (캐릿)]]></title>
@@ -356,18 +364,18 @@
             <content:encoded><![CDATA[눈 없는 스키장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전기차, 배터리 업계는 총성 없는 전쟁 중이다. 치킨 게임 속 우리의 전략은 무엇인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59443</link>
-            <guid>https://www.bookjournalism.com/books/59443</guid>
-            <pubDate>Wed, 15 Feb 2023 16:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[전기차 표류기]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59400</link>
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전기차, 배터리 업계는 총성 없는 전쟁 중이다. 치킨 게임 속 우리의 전략은 무엇인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59443</link>
+            <guid>https://www.bookjournalism.com/books/59443</guid>
+            <pubDate>Wed, 15 Feb 2023 16:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[전기차 표류기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트랜스휴머니즘(transhumanism)은 마치 디스토피아적인 악몽처럼 들릴 수도 있지만, 여기에 필요한 기술적 진보의 일부는 생각보다 더 가까이에 와 있다. (북저널리즘)]]></title>
