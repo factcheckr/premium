@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-02-18T14:19:04.731Z</updated>
+    <updated>2023-02-18T15:21:41.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[언러닝 : 낡은 지식을 버려야 새로운 학습이 시작된다]]></title>
-        <id>https://www.longblack.co/note/589</id>
-        <link href="https://www.longblack.co/note/589"/>
-        <updated>2023-02-17T15:22:00.954Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C &nbsp;와, 배울 게 산더미예요. 지난주까진 저 챗GPT라는 거 공부하기 바빴거든요? 이번 주는 주변에서 온통 본디bondee라는 메신저 이야기를 하는 거예요. 다음 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-02-18T15:20:43.286Z</updated>
+        <content type="html"><![CDATA[K가 메모한 지난주 롱블랙의 문장
+
+“제게 협업은 ‘내가 아는 만큼’만 일하는 방식을 뜻해요. 남이 잘하는 분야까지 끼어들면, 필요 없는 잡음만 일어날 뿐이죠. 제 역할은 친구들의 장단점을 읽고, 각자 잘하는 일을 해나가도록 돕는 거였어요. 그렇게 하니까 친구들도 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
