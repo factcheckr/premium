@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-02-17T23:22:39.371Z</updated>
+    <updated>2023-02-18T01:46:33.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/589</id>
         <link href="https://www.longblack.co/note/589"/>
         <updated>2023-02-17T15:22:00.954Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C와, 배울 게 산더미예요. 지난주까진 저 챗GPT라는 거 공부하기 바빴거든요? 이번 주는 주변에서 온통 본디bondee라는 메신저 이야기를 하는 거예요. 다음 주는<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C &nbsp;와, 배울 게 산더미예요. 지난주까진 저 챗GPT라는 거 공부하기 바빴거든요? 이번 주는 주변에서 온통 본디bondee라는 메신저 이야기를 하는 거예요. 다음 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
