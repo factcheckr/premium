@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-02-19T15:21:16.337Z</updated>
+    <updated>2023-02-19T16:28:08.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/584</id>
         <link href="https://www.longblack.co/note/584"/>
         <updated>2023-02-19T15:20:18.118Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;술 문화가 변하고 있단 걸 느낍니다. 이제 사람들은 술의 맛과 향은 물론 산지와 만든 사람이 누구인지 따져요. 술과 페어링paring하기 좋은 음식을 공부합니다.<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;술 문화가 변하고 있단 걸 느낍니다. 이제 사람들은 술의 맛과 향은 물론 산지와 만든 사람이 누구인지 따져요. 술과 페어링하기 좋은 음식을 공부합니다. 취향을 탐<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
