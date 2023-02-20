@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 14:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 15:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,11 +358,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[바네사 케이 : LVMH 출신 와인 마케터, ‘찬란한 기억’을 와인에 녹이다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/584</link>
-            <guid>https://www.longblack.co/note/584</guid>
-            <pubDate>Sun, 19 Feb 2023 15:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;술 문화가 변하고 있단 걸 느낍니다. 이제 사람들은 술의 맛과 향은 물론 산지와 만든 사람이 누구인지 따져요. 술과 페어링하기 좋은 음식을 공부합니다. 취향을 탐<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[로사노 페레티 : ‘세계에서 가장 비싼 헤어컷’은 무엇이 다른가 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/585</link>
+            <guid>https://www.longblack.co/note/585</guid>
+            <pubDate>Mon, 20 Feb 2023 15:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;레이디 가가, 제니퍼 로렌스, 나오미 캠벨, 나탈리 포트만… 이 스타들의 공통점이 뭔지 알아? 모두 같은 헤어 디자이너의 관리를 받았단 거야. 로사노 페레티Ros<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대퇴사의 시대는 끝났다. 대해고의 시대가 시작된다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59610</link>
+            <guid>https://www.bookjournalism.com/books/59610</guid>
+            <pubDate>Mon, 20 Feb 2023 15:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[CJ ENM의 칼바람]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미국 최대 스포츠 이벤트 NFL 슈퍼볼이 도박판이 됐다. 중독에 대해 다시 질문할 때다. (북저널리즘)]]></title>
@@ -440,13 +447,6 @@
             <guid>https://www.bookjournalism.com/audio/59240</guid>
             <pubDate>Fri, 10 Feb 2023 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[기본과 새로움 사이 줄다리기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT와 MS 합작의 파급력이 만만치 않다. 지금의 소동은 새로운 시대의 시작을 알리는 건 아닐까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59216</link>
-            <guid>https://www.bookjournalism.com/books/59216</guid>
-            <pubDate>Thu, 09 Feb 2023 15:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[프로메테우스, 그 이후]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-02-20T14:22:00.686Z</updated>
+    <updated>2023-02-20T15:23:38.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[대퇴사의 시대는 끝났다. 대해고의 시대가 시작된다.]]></title>
+        <id>https://www.bookjournalism.com/books/59610</id>
+        <link href="https://www.bookjournalism.com/books/59610"/>
+        <updated>2023-02-20T15:23:26.598Z</updated>
+        <content type="html"><![CDATA[CJ ENM의 칼바람]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 최대 스포츠 이벤트 NFL 슈퍼볼이 도박판이 됐다. 중독에 대해 다시 질문할 때다.]]></title>
         <id>https://www.bookjournalism.com/books/59592</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/59240"/>
         <updated>2023-02-10T10:25:11.438Z</updated>
         <content type="html"><![CDATA[기본과 새로움 사이 줄다리기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챗GPT와 MS 합작의 파급력이 만만치 않다. 지금의 소동은 새로운 시대의 시작을 알리는 건 아닐까?]]></title>
-        <id>https://www.bookjournalism.com/books/59216</id>
-        <link href="https://www.bookjournalism.com/books/59216"/>
-        <updated>2023-02-09T15:23:47.129Z</updated>
-        <content type="html"><![CDATA[프로메테우스, 그 이후]]></content>
     </entry>
 </feed>
