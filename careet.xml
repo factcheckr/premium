@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 23:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 01:49:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매월 있는 기념일, 어떻게 챙겨야 주목 받을까?]]></title>
+            <link>https://www.careet.net/1021</link>
+            <guid>https://www.careet.net/1021</guid>
+            <pubDate>Mon, 20 Feb 2023 01:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 꼽은 올해 발렌타인데이 마케팅 승자는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/32f5e32f-a421-4128-a291-0ad527ff2009_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 Z세대 여가 시간엔 다들 ‘이거’ 한대! 이주의 유행템 3]]></title>
             <link>https://www.careet.net/1020</link>
