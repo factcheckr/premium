@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 06:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 07:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상황별 영어 비즈니스 이메일 표현 모음.zip (퍼블리)]]></title>
+            <link>https://publy.co/content/7148?fr=category</link>
+            <guid>https://publy.co/content/7148?fr=category</guid>
+            <pubDate>Mon, 20 Feb 2023 07:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 20분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팀장을 위한 공지문/메일 양식 모음 (퍼블리)]]></title>
             <link>https://publy.co/content/7142?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7118?fr=category</guid>
             <pubDate>Wed, 08 Feb 2023 07:19:07 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[노션 원페이지로 프로젝트 꼼꼼하게 관리하는 법(템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7131?fr=category</link>
-            <guid>https://publy.co/content/7131?fr=category</guid>
-            <pubDate>Tue, 07 Feb 2023 09:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매월 있는 기념일, 어떻게 챙겨야 주목 받을까? (캐릿)]]></title>
