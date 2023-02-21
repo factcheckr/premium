@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-02-21T15:23:55.728Z</updated>
+    <updated>2023-02-21T16:29:29.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/586</id>
         <link href="https://www.longblack.co/note/586"/>
         <updated>2023-02-21T15:22:57.276Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;명품 브랜드 발렌티노Valentino가 쇼윈도 디스플레이를 협찬하고, 프라다PRADA가 이곳에서만 파는 독점 백을 론칭하는 백화점 있어요. 바로 미국 뉴욕의 버그<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;명품 브랜드 발렌티노VALENTINO가 쇼윈도 디스플레이를 협찬하고, 프라다PRADA가 이곳에서만 파는 독점 백을 론칭하는 백화점이&nbsp;있어요. 바로 미국 뉴욕의 버<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
