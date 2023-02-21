@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 23:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 01:50:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 64.3% 메타버스 온라인 행사 불편하다고 느낀다]]></title>
+            <link>https://www.careet.net/1019</link>
+            <guid>https://www.careet.net/1019</guid>
+            <pubDate>Tue, 21 Feb 2023 01:49:09 GMT</pubDate>
+            <content:encoded><![CDATA[메타버스 온라인 행사를 기획하신다면 필독!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/22c09499-42ad-4be1-a97b-d3eb20ed1262_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[매월 있는 기념일, 어떻게 챙겨야 주목 받을까?]]></title>
             <link>https://www.careet.net/1021</link>
