@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-02-22T07:20:46.178Z</updated>
+    <updated>2023-02-22T09:22:50.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[지진학자들은 지진을 어느 정도 예측한다. 하지만 인간의 행동은 데이터를 비껴간다.]]></title>
+        <id>https://www.bookjournalism.com/books/59628</id>
+        <link href="https://www.bookjournalism.com/books/59628"/>
+        <updated>2023-02-22T09:22:39.002Z</updated>
+        <content type="html"><![CDATA[예측 불가능한 것을 예측하기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로알드 달의 소설이 수백 개의 표현을 수정·삭제한 뒤 재출간됐다. 논란이 거세다.]]></title>
         <id>https://www.bookjournalism.com/books/59670</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/59317"/>
         <updated>2023-02-13T15:24:30.130Z</updated>
         <content type="html"><![CDATA[방송이란 무엇인가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 정찰 풍선에 실린 것은 전략인가 실책인가. 중국이 진실 게임을 걸어왔다.]]></title>
-        <id>https://www.bookjournalism.com/books/59278</id>
-        <link href="https://www.bookjournalism.com/books/59278"/>
-        <updated>2023-02-12T15:21:05.308Z</updated>
-        <content type="html"><![CDATA[풍선은 꼼수를 싣고]]></content>
     </entry>
 </feed>
