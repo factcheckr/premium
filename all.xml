@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 14:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 15:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,11 +374,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[신유미 : 뉴욕 대표 백화점 버그도프 굿맨, 차별화는 독점에 있다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/586</link>
-            <guid>https://www.longblack.co/note/586</guid>
-            <pubDate>Tue, 21 Feb 2023 15:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;명품 브랜드 발렌티노VALENTINO가 쇼윈도 디스플레이를 협찬하고, 프라다PRADA가 이곳에서만 파는 독점 백을 론칭하는 백화점이&nbsp;있어요. 바로 미국 뉴욕의 버<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[크리스 베반스 : 편안함으로 슈퍼스타들의 패션을 완성하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/587</link>
+            <guid>https://www.longblack.co/note/587</guid>
+            <pubDate>Wed, 22 Feb 2023 15:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;NBA의 전설 르브론 제임스Lebron James, 팝 스타 존 레전드John Legend, 테니스 황제 로저 페더러Roger Federer. 이들 슈퍼스타의 ‘<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[법원이 처음으로 동성 배우자의 건강보험 피부양자 자격을 인정했다. 가족의 확장을 기대할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59726</link>
+            <guid>https://www.bookjournalism.com/books/59726</guid>
+            <pubDate>Wed, 22 Feb 2023 15:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[가족의 확장]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지진학자들은 지진을 어느 정도 예측한다. 하지만 인간의 행동은 데이터를 비껴간다. (북저널리즘)]]></title>
@@ -456,13 +463,6 @@
             <guid>https://www.bookjournalism.com/books/59379</guid>
             <pubDate>Tue, 14 Feb 2023 15:23:43 GMT</pubDate>
             <content:encoded><![CDATA[지진 다시 생각하기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[방통위가 개점휴업 상태다. 종편 때문이다. 방송과 뉴스의 미래가 불안하다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59317</link>
-            <guid>https://www.bookjournalism.com/books/59317</guid>
-            <pubDate>Mon, 13 Feb 2023 15:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[방송이란 무엇인가]]></content:encoded>
         </item>
     </channel>
 </rss>
