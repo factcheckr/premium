@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 23:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 01:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[N개국에서 앱스토어 차트 1위한 글로벌 Z세대 픽 앱은?]]></title>
+            <link>https://www.careet.net/1023</link>
+            <guid>https://www.careet.net/1023</guid>
+            <pubDate>Wed, 22 Feb 2023 01:45:35 GMT</pubDate>
+            <content:encoded><![CDATA[소셜 미디어부터 사진 앱까지 지금 뜨는 앱 3]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/a0c850cc-d7c4-435a-968f-1642ac59ba0c_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 64.3% 메타버스 온라인 행사 불편하다고 느낀다]]></title>
             <link>https://www.careet.net/1019</link>
