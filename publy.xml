@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-02-22T23:22:32.145Z</updated>
+    <updated>2023-02-23T01:44:30.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 팀장의 콘텐츠 리더십: 조직에 의존하지 않고 나의 콘텐츠로 나아가는 법]]></title>
+        <id>https://publy.co/content/7147?fr=category</id>
+        <link href="https://publy.co/content/7147?fr=category"/>
+        <updated>2023-02-23T01:43:14.019Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나를 잘 돌보는 힘, 생활력 트래커 작성법(pdf 템플릿 제공)]]></title>
         <id>https://publy.co/content/7145?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7134?fr=category"/>
         <updated>2023-02-10T08:26:32.323Z</updated>
         <content type="html"><![CDATA[아티클 · 4분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀장을 위한 1:1 면담 커리큘럼]]></title>
-        <id>https://publy.co/content/7138?fr=category</id>
-        <link href="https://publy.co/content/7138?fr=category"/>
-        <updated>2023-02-09T07:19:34.520Z</updated>
-        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
     </entry>
 </feed>

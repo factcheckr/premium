@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 23:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 01:44:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥스트 인생네컷! Z세대의 새로운 문화 ‘프린팅박스’를 소개합니다]]></title>
+            <link>https://www.careet.net/1022</link>
+            <guid>https://www.careet.net/1022</guid>
+            <pubDate>Thu, 23 Feb 2023 01:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대의 관심을 단번에 사로잡는 이벤트를 기획하고 싶다면?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/80239212-d73f-4f03-8c7c-56fa8887c8fa_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[N개국에서 앱스토어 차트 1위한 글로벌 Z세대 픽 앱은?]]></title>
             <link>https://www.careet.net/1023</link>
