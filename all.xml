@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 05:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 06:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제 2의 전성기를 노린다! 기업 리브랜딩 사례 13가지 모음 (퍼블리)]]></title>
+            <link>https://publy.co/content/7125?fr=category</link>
+            <guid>https://publy.co/content/7125?fr=category</guid>
+            <pubDate>Thu, 23 Feb 2023 06:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 16분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[요즘 팀장의 콘텐츠 리더십: 조직에 의존하지 않고 나의 콘텐츠로 나아가는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/7147?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7132?fr=category</guid>
             <pubDate>Mon, 13 Feb 2023 07:19:56 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고민 시간을 반으로 줄여주는 제안서 PPT 템플릿(feat. 디자인 소스) (퍼블리)]]></title>
-            <link>https://publy.co/content/7134?fr=category</link>
-            <guid>https://publy.co/content/7134?fr=category</guid>
-            <pubDate>Fri, 10 Feb 2023 08:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 4분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[넥스트 인생네컷! Z세대의 새로운 문화 ‘프린팅박스’를 소개합니다 (캐릿)]]></title>
