@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 14:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 15:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,11 +382,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[크리스 베반스 : 편안함으로 슈퍼스타들의 패션을 완성하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/587</link>
-            <guid>https://www.longblack.co/note/587</guid>
-            <pubDate>Wed, 22 Feb 2023 15:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;NBA의 전설 르브론 제임스Lebron James, 팝 스타 존 레전드John Legend, 테니스 황제 로저 페더러Roger Federer. 이들 슈퍼스타의 ‘<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[김세홍 : 작고 디테일한 드라마로, 뉴요커의 한식 감도를 높이다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/588</link>
+            <guid>https://www.longblack.co/note/588</guid>
+            <pubDate>Thu, 23 Feb 2023 15:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;오이지 미OIJI MI는 지금 뉴욕에서 가장 주목받는 한식 파인 다이닝 레스토랑입니다. 문을 연 지 5개월 만에 미쉐린 원스타를 받았어요. 2022년 5월 뉴욕 <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아가 우크라이나를 침공한 지 1년이 됐다. 무엇이 변했고, 무엇을 잃었나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59775</link>
+            <guid>https://www.bookjournalism.com/books/59775</guid>
+            <pubDate>Thu, 23 Feb 2023 15:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[전쟁이 남긴 기록들]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[법원이 처음으로 동성 배우자의 건강보험 피부양자 자격을 인정했다. 가족의 확장을 기대할 수 있을까? (북저널리즘)]]></title>
@@ -464,13 +471,6 @@
             <guid>https://www.bookjournalism.com/books/59296</guid>
             <pubDate>Wed, 15 Feb 2023 08:29:04 GMT</pubDate>
             <content:encoded><![CDATA[공상과학이 현실이 될 때]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[예견된 재난의 시대는 글로벌의 대응 모델이 변해야 한다고 말한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59379</link>
-            <guid>https://www.bookjournalism.com/books/59379</guid>
-            <pubDate>Tue, 14 Feb 2023 15:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[지진 다시 생각하기]]></content:encoded>
         </item>
     </channel>
 </rss>

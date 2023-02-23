@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-02-23T14:22:47.797Z</updated>
+    <updated>2023-02-23T15:23:39.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[크리스 베반스 : 편안함으로 슈퍼스타들의 패션을 완성하다]]></title>
-        <id>https://www.longblack.co/note/587</id>
-        <link href="https://www.longblack.co/note/587"/>
-        <updated>2023-02-22T15:23:09.170Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;NBA의 전설 르브론 제임스Lebron James, 팝 스타 존 레전드John Legend, 테니스 황제 로저 페더러Roger Federer. 이들 슈퍼스타의 ‘<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[김세홍 : 작고 디테일한 드라마로, 뉴요커의 한식 감도를 높이다]]></title>
+        <id>https://www.longblack.co/note/588</id>
+        <link href="https://www.longblack.co/note/588"/>
+        <updated>2023-02-23T15:22:39.150Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;오이지 미OIJI MI는 지금 뉴욕에서 가장 주목받는 한식 파인 다이닝 레스토랑입니다. 문을 연 지 5개월 만에 미쉐린 원스타를 받았어요. 2022년 5월 뉴욕 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
