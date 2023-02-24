@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 09:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 10:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -397,6 +397,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;오이지 미OIJI MI는 지금 뉴욕에서 가장 주목받는 한식 파인 다이닝 레스토랑입니다. 문을 연 지 5개월 만에 미쉐린 원스타를 받았어요. 2022년 5월 뉴욕 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 라디오의 에피소드 #77에선, CJ ENM 구조조정, 동성 배우자 건보 피부양자 자격 인정 판결, 러-우 전쟁 1년, 로알드 달 소설 재출간에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/59823</link>
+            <guid>https://www.bookjournalism.com/audio/59823</guid>
+            <pubDate>Fri, 24 Feb 2023 10:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[변화는 세상을 다시 쓴다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[러시아가 우크라이나를 침공한 지 1년이 됐다. 무엇을 잃었고, 무엇을 배웠나. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59775</link>
             <guid>https://www.bookjournalism.com/books/59775</guid>
@@ -472,13 +479,6 @@
             <guid>https://www.bookjournalism.com/books/59443</guid>
             <pubDate>Wed, 15 Feb 2023 16:31:38 GMT</pubDate>
             <content:encoded><![CDATA[전기차 표류기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[예견된 재난의 시대는 글로벌의 대응 모델이 변해야 한다고 말한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59379</link>
-            <guid>https://www.bookjournalism.com/books/59379</guid>
-            <pubDate>Fri, 24 Feb 2023 06:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[지진 다시 생각하기]]></content:encoded>
         </item>
     </channel>
 </rss>
