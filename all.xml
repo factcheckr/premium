@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 23:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 01:46:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7132?fr=category</guid>
             <pubDate>Mon, 13 Feb 2023 07:19:56 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[이주의 유행템] 웹예능부터 숏폼까지, 요즘 Z세대가 보는 콘텐츠는? (캐릿)]]></title>
+            <link>https://www.careet.net/1024</link>
+            <guid>https://www.careet.net/1024</guid>
+            <pubDate>Fri, 24 Feb 2023 01:45:38 GMT</pubDate>
+            <content:encoded><![CDATA[캐릿이 대신 크리에이터 트렌드 모니터링해드립니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e2ad28a1-a4ca-405e-bf01-9f94e000eb60_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넥스트 인생네컷! Z세대의 새로운 문화 ‘프린팅박스’를 소개합니다 (캐릿)]]></title>
@@ -389,18 +397,11 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;오이지 미OIJI MI는 지금 뉴욕에서 가장 주목받는 한식 파인 다이닝 레스토랑입니다. 문을 연 지 5개월 만에 미쉐린 원스타를 받았어요. 2022년 5월 뉴욕 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아가 우크라이나를 침공한 지 1년이 됐다. 무엇이 변했고, 무엇을 잃었나. (북저널리즘)]]></title>
+            <title><![CDATA[러시아가 우크라이나를 침공한 지 1년이 됐다. 무엇을 잃었고, 무엇을 배웠나. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59775</link>
             <guid>https://www.bookjournalism.com/books/59775</guid>
             <pubDate>Thu, 23 Feb 2023 15:23:28 GMT</pubDate>
             <content:encoded><![CDATA[전쟁이 남긴 기록들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[법원이 처음으로 동성 배우자의 건강보험 피부양자 자격을 인정했다. 가족의 확장을 기대할 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59726</link>
-            <guid>https://www.bookjournalism.com/books/59726</guid>
-            <pubDate>Wed, 22 Feb 2023 15:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[가족의 확장]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
@@ -408,6 +409,13 @@
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[법원이 처음으로 동성 배우자의 건강보험 피부양자 자격을 인정했다. 가족의 확장을 기대할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59726</link>
+            <guid>https://www.bookjournalism.com/books/59726</guid>
+            <pubDate>Wed, 22 Feb 2023 15:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[가족의 확장]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지진학자들은 지진을 어느 정도 예측한다. 하지만 인간의 행동은 데이터를 비껴간다. (북저널리즘)]]></title>

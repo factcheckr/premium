@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 23:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 01:46:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이주의 유행템] 웹예능부터 숏폼까지, 요즘 Z세대가 보는 콘텐츠는?]]></title>
+            <link>https://www.careet.net/1024</link>
+            <guid>https://www.careet.net/1024</guid>
+            <pubDate>Fri, 24 Feb 2023 01:45:38 GMT</pubDate>
+            <content:encoded><![CDATA[캐릿이 대신 크리에이터 트렌드 모니터링해드립니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e2ad28a1-a4ca-405e-bf01-9f94e000eb60_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넥스트 인생네컷! Z세대의 새로운 문화 ‘프린팅박스’를 소개합니다]]></title>
             <link>https://www.careet.net/1022</link>
