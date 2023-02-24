@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 05:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 06:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일잘러가 말하는 성공의 힘은? 현직자 인터뷰 모음 (퍼블리)]]></title>
+            <link>https://publy.co/content/7153?fr=category</link>
+            <guid>https://publy.co/content/7153?fr=category</guid>
+            <pubDate>Fri, 24 Feb 2023 06:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[아티클]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[제 2의 전성기를 노린다! 기업 리브랜딩 사례 13가지 모음 (퍼블리)]]></title>
             <link>https://publy.co/content/7125?fr=category</link>
@@ -68,13 +75,6 @@
             <link>https://publy.co/content/7130?fr=category</link>
             <guid>https://publy.co/content/7130?fr=category</guid>
             <pubDate>Wed, 15 Feb 2023 06:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무신사, 배민, 토스는 마케팅에 얼마나 쓸까? 마케팅 비용 레퍼런스 모음 2편 (퍼블리)]]></title>
-            <link>https://publy.co/content/7132?fr=category</link>
-            <guid>https://publy.co/content/7132?fr=category</guid>
-            <pubDate>Mon, 13 Feb 2023 07:19:56 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
         </item>
         <item>
@@ -474,11 +474,11 @@
             <content:encoded><![CDATA[전기차 표류기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트랜스휴머니즘(transhumanism)은 마치 디스토피아적인 악몽처럼 들릴 수도 있지만, 여기에 필요한 기술적 진보의 일부는 생각보다 더 가까이에 와 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59296</link>
-            <guid>https://www.bookjournalism.com/books/59296</guid>
-            <pubDate>Wed, 15 Feb 2023 08:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[공상과학이 현실이 될 때]]></content:encoded>
+            <title><![CDATA[예견된 재난의 시대는 글로벌의 대응 모델이 변해야 한다고 말한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59379</link>
+            <guid>https://www.bookjournalism.com/books/59379</guid>
+            <pubDate>Fri, 24 Feb 2023 06:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[지진 다시 생각하기]]></content:encoded>
         </item>
     </channel>
 </rss>
