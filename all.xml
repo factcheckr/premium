@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 14:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 15:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,13 +390,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 25 Feb 2023 15:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[L이 메모한 지난주 롱블랙의 문장
-
-“세상에 변화를 일으키고 싶다면, 경쟁자의 질투와 시기는 감수해야 해요. 모두 나를 밀어내고 싶어 했어요. 내가 남다른 비전과 재능을 뽐내고, 결국엔 업계의 룰을 바꿀 것이란 걸 알았거든요. 원래 평범한 사람은 변화를 두려워해요.<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[배스킨라빈스 : 프리미엄 아이스크림 1위의 명암, 재무제표로 읽다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/591</link>
+            <guid>https://www.longblack.co/note/591</guid>
+            <pubDate>Sun, 26 Feb 2023 15:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;C가 아이스크림 러버잖아. 선물 좀 하려고 카카오 선물하기 들어갔거든. 아이스크림 선물 1위부터 20위까지 전부 배스킨라빈스더라. 다른 아이스크림 브랜드는 보이지<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[돈의 전쟁이 일어나고 있다. 달러의 아성에 도전하는 자, 누구인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59877</link>
+            <guid>https://www.bookjournalism.com/books/59877</guid>
+            <pubDate>Sun, 26 Feb 2023 15:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[탈달러 사인]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #77에선, CJ ENM 구조조정, 동성 배우자 건보 피부양자 자격 인정 판결, 러-우 전쟁 1년, 로알드 달 소설 재출간에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -474,13 +479,6 @@
             <guid>https://www.bookjournalism.com/books/59532</guid>
             <pubDate>Thu, 16 Feb 2023 15:23:00 GMT</pubDate>
             <content:encoded><![CDATA[눈 없는 스키장]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전기차, 배터리 업계는 총성 없는 전쟁 중이다. 치킨 게임 속 우리의 전략은 무엇인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59443</link>
-            <guid>https://www.bookjournalism.com/books/59443</guid>
-            <pubDate>Wed, 15 Feb 2023 16:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[전기차 표류기]]></content:encoded>
         </item>
     </channel>
 </rss>

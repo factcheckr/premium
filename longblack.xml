@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-02-26T14:19:41.018Z</updated>
+    <updated>2023-02-26T15:21:32.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-02-25T15:20:06.155Z</updated>
-        <content type="html"><![CDATA[L이 메모한 지난주 롱블랙의 문장
-
-“세상에 변화를 일으키고 싶다면, 경쟁자의 질투와 시기는 감수해야 해요. 모두 나를 밀어내고 싶어 했어요. 내가 남다른 비전과 재능을 뽐내고, 결국엔 업계의 룰을 바꿀 것이란 걸 알았거든요. 원래 평범한 사람은 변화를 두려워해요.<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[배스킨라빈스 : 프리미엄 아이스크림 1위의 명암, 재무제표로 읽다]]></title>
+        <id>https://www.longblack.co/note/591</id>
+        <link href="https://www.longblack.co/note/591"/>
+        <updated>2023-02-26T15:20:32.355Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;C가 아이스크림 러버잖아. 선물 좀 하려고 카카오 선물하기 들어갔거든. 아이스크림 선물 1위부터 20위까지 전부 배스킨라빈스더라. 다른 아이스크림 브랜드는 보이지<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
