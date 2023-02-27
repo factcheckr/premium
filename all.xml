@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 02:54:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:28:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7130?fr=category</guid>
             <pubDate>Wed, 15 Feb 2023 06:28:05 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 뜨는 브랜드는 전시회를 한다? ‘전시 마케팅’ 레퍼런스 모음! (캐릿)]]></title>
+            <link>https://www.careet.net/1025</link>
+            <guid>https://www.careet.net/1025</guid>
+            <pubDate>Mon, 27 Feb 2023 03:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[하리보부터 러쉬까지! Z세대가 브랜드 전시를 찾는 이유는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/4b2ce5d9-7404-46e1-971f-e942d49ceaa0_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[이주의 유행템] 웹예능부터 숏폼까지, 요즘 Z세대가 보는 콘텐츠는? (캐릿)]]></title>
