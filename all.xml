@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 14:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 15:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,11 +398,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[배스킨라빈스 : 프리미엄 아이스크림 1위의 명암, 재무제표로 읽다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/591</link>
-            <guid>https://www.longblack.co/note/591</guid>
-            <pubDate>Sun, 26 Feb 2023 15:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;C가 아이스크림 러버잖아. 선물 좀 하려고 카카오 선물하기 들어갔거든. 아이스크림 선물 1위부터 20위까지 전부 배스킨라빈스더라. 다른 아이스크림 브랜드는 보이지<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[F45 : 런닝머신도, 거울도 없이 38만명을 모은 피트니스 커뮤니티 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/592</link>
+            <guid>https://www.longblack.co/note/592</guid>
+            <pubDate>Mon, 27 Feb 2023 15:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;헬스 끊어놓고 안 간 지 한 달 째예요. 운동을 안 했더니 살은 찌는데, 헬스장 가려면 또 발이 안 떨어진단 말이죠.고민을 말했더니, K가 “F45 같이 다니자”<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국수본 제2대 본부장으로 임명됐던 정순신 변호사가 하루 만에 낙마했다. 의미가 깊다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59920</link>
+            <guid>https://www.bookjournalism.com/books/59920</guid>
+            <pubDate>Mon, 27 Feb 2023 15:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[부조리의 얼굴]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[돈의 전쟁이 일어나고 있다. 달러의 아성에 도전하는 자, 누구인가? (북저널리즘)]]></title>
@@ -480,13 +487,6 @@
             <guid>https://www.bookjournalism.com/audio/59565</guid>
             <pubDate>Fri, 17 Feb 2023 10:24:22 GMT</pubDate>
             <content:encoded><![CDATA[우리에게는 새로운 청사진이 필요하다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[겨울은 따뜻해졌고 스키장은 녹고 있다. 겨울 스포츠의 미래는 어떤 모습일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59532</link>
-            <guid>https://www.bookjournalism.com/books/59532</guid>
-            <pubDate>Thu, 16 Feb 2023 15:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[눈 없는 스키장]]></content:encoded>
         </item>
     </channel>
 </rss>

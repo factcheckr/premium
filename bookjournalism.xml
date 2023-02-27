@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-02-27T14:21:46.472Z</updated>
+    <updated>2023-02-27T15:24:15.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[국수본 제2대 본부장으로 임명됐던 정순신 변호사가 하루 만에 낙마했다. 의미가 깊다.]]></title>
+        <id>https://www.bookjournalism.com/books/59920</id>
+        <link href="https://www.bookjournalism.com/books/59920"/>
+        <updated>2023-02-27T15:24:04.144Z</updated>
+        <content type="html"><![CDATA[부조리의 얼굴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈의 전쟁이 일어나고 있다. 달러의 아성에 도전하는 자, 누구인가?]]></title>
         <id>https://www.bookjournalism.com/books/59877</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/59565"/>
         <updated>2023-02-17T10:24:22.271Z</updated>
         <content type="html"><![CDATA[우리에게는 새로운 청사진이 필요하다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울은 따뜻해졌고 스키장은 녹고 있다. 겨울 스포츠의 미래는 어떤 모습일까?]]></title>
-        <id>https://www.bookjournalism.com/books/59532</id>
-        <link href="https://www.bookjournalism.com/books/59532"/>
-        <updated>2023-02-16T15:23:00.163Z</updated>
-        <content type="html"><![CDATA[눈 없는 스키장]]></content>
     </entry>
 </feed>
