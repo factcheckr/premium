@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 07:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 08:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사례로 보는 신규 사업 기획서 작성 5단계(PPT 파일 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7152?fr=category</link>
+            <guid>https://publy.co/content/7152?fr=category</guid>
+            <pubDate>Mon, 27 Feb 2023 08:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[일잘러가 말하는 성공의 힘은? 현직자 인터뷰 모음 (퍼블리)]]></title>
             <link>https://publy.co/content/7153?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7139?fr=category</guid>
             <pubDate>Wed, 15 Feb 2023 08:27:58 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[채널톡 영업비밀: 비즈니스 성장을 위한 CX 액션 아이템 6가지 (퍼블리)]]></title>
-            <link>https://publy.co/content/7130?fr=category</link>
-            <guid>https://publy.co/content/7130?fr=category</guid>
-            <pubDate>Wed, 15 Feb 2023 06:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 뜨는 브랜드는 전시회를 한다? ‘전시 마케팅’ 레퍼런스 모음! (캐릿)]]></title>
