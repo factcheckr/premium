@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-02-28T06:30:34.262Z</updated>
+    <updated>2023-02-28T07:22:45.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[공간 노트: 선택받는 공간이 주는 인사이트 모음집]]></title>
+        <id>https://publy.co/content/7151?fr=category</id>
+        <link href="https://publy.co/content/7151?fr=category"/>
+        <updated>2023-02-28T07:21:27.844Z</updated>
+        <content type="html"><![CDATA[아티클 · 2분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사례로 보는 신규 사업 기획서 작성 5단계(PPT 파일 제공)]]></title>
         <id>https://publy.co/content/7152?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7144?fr=category"/>
         <updated>2023-02-16T08:26:58.651Z</updated>
         <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기록하기 전까지는 읽은 게 아니다 : 독서 기록법(독서 대시보드 템플릿 제공)]]></title>
-        <id>https://publy.co/content/7139?fr=category</id>
-        <link href="https://publy.co/content/7139?fr=category"/>
-        <updated>2023-02-15T08:27:58.787Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>

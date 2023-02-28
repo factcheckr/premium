@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 06:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 07:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공간 노트: 선택받는 공간이 주는 인사이트 모음집 (퍼블리)]]></title>
+            <link>https://publy.co/content/7151?fr=category</link>
+            <guid>https://publy.co/content/7151?fr=category</guid>
+            <pubDate>Tue, 28 Feb 2023 07:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[사례로 보는 신규 사업 기획서 작성 5단계(PPT 파일 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/7152?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7144?fr=category</guid>
             <pubDate>Thu, 16 Feb 2023 08:26:58 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기록하기 전까지는 읽은 게 아니다 : 독서 기록법(독서 대시보드 템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7139?fr=category</link>
-            <guid>https://publy.co/content/7139?fr=category</guid>
-            <pubDate>Wed, 15 Feb 2023 08:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2월 인급동 모아보기] 사내뷰공업, 킥서비스 인기 원인 분석해봄 (캐릿)]]></title>
