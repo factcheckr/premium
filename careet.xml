@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 23:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 01:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 인급동 모아보기] 사내뷰공업, 킥서비스 인기 원인 분석해봄]]></title>
+            <link>https://www.careet.net/1017</link>
+            <guid>https://www.careet.net/1017</guid>
+            <pubDate>Tue, 28 Feb 2023 01:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[영상 콘텐츠 전문가가 분석한 유튜브 콘텐츠 트렌드]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/b979087c-fb65-4782-9297-1ca6c9d46b61_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 뜨는 브랜드는 전시회를 한다? ‘전시 마케팅’ 레퍼런스 모음!]]></title>
             <link>https://www.careet.net/1025</link>
