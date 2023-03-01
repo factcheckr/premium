@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 14:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 15:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,11 +406,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202212/7fe28d84-2599-4897-a139-b45617822013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[조향사 오하니 : 이순신‧세종대왕, 역사 속 인물을 향수로 기억하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/593</link>
-            <guid>https://www.longblack.co/note/593</guid>
-            <pubDate>Tue, 28 Feb 2023 15:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;오늘은 3·1절입니다. 104주년 3·1절을 기념해 여러분께 소개하고 싶은 향수가 있습니다. 향수 이름이 세종대왕, 신사임당, 이순신, 허난설헌이에요.어떤 향이 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[리바이스 : 25년 만에 최고 실적, 청바지 브랜드는 어떻게 부활했나 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/594</link>
+            <guid>https://www.longblack.co/note/594</guid>
+            <pubDate>Wed, 01 Mar 2023 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;재밌는 뉴스를 하나 봤어. 세계 최초의 청바지 리바이스 501이 150주년을 맞았대. 마릴린 먼로부터 스티브 잡스, 버락 오바마, 켄달 제너까지 이 청바지를 입었<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[간호법을 둘러싼 의료계의 갈등이 심화한다. 대중은 외면한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59966</link>
+            <guid>https://www.bookjournalism.com/books/59966</guid>
+            <pubDate>Wed, 01 Mar 2023 15:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[간호법 갈등, 누구의 책임인가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[달러 헤게모니는 미국이 철저히 지켜내고 있다. 확장의 열망을 가진 중국으로서는 용인할 수 없다. (북저널리즘)]]></title>
@@ -488,13 +495,6 @@
             <guid>https://www.bookjournalism.com/books/59592</guid>
             <pubDate>Sun, 19 Feb 2023 15:21:05 GMT</pubDate>
             <content:encoded><![CDATA[도박판을 깐 자, 누구인가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여기 한 트랜스젠더 여성 운동선수가 있다. 남성부와 여성부 중 어느 경기를 뛰어야 하는가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59456</link>
-            <guid>https://www.bookjournalism.com/books/59456</guid>
-            <pubDate>Sun, 19 Feb 2023 15:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[모두의 운동장]]></content:encoded>
         </item>
     </channel>
 </rss>

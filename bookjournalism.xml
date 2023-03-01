@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-03-01T14:21:45.192Z</updated>
+    <updated>2023-03-01T15:24:37.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[간호법을 둘러싼 의료계의 갈등이 심화한다. 대중은 외면한다.]]></title>
+        <id>https://www.bookjournalism.com/books/59966</id>
+        <link href="https://www.bookjournalism.com/books/59966"/>
+        <updated>2023-03-01T15:24:27.050Z</updated>
+        <content type="html"><![CDATA[간호법 갈등, 누구의 책임인가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달러 헤게모니는 미국이 철저히 지켜내고 있다. 확장의 열망을 가진 중국으로서는 용인할 수 없다.]]></title>
         <id>https://www.bookjournalism.com/books/59885</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/59592"/>
         <updated>2023-02-19T15:21:05.575Z</updated>
         <content type="html"><![CDATA[도박판을 깐 자, 누구인가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여기 한 트랜스젠더 여성 운동선수가 있다. 남성부와 여성부 중 어느 경기를 뛰어야 하는가?]]></title>
-        <id>https://www.bookjournalism.com/books/59456</id>
-        <link href="https://www.bookjournalism.com/books/59456"/>
-        <updated>2023-02-19T15:21:05.577Z</updated>
-        <content type="html"><![CDATA[모두의 운동장]]></content>
     </entry>
 </feed>
