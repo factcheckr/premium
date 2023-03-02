@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 01:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 02:58:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,6 +260,13 @@
             <content:encoded><![CDATA[간호법 갈등, 누구의 책임인가]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[달러 헤게모니는 미국이 철저히 지켜내고 있다. 확장의 열망을 가진 중국으로서는 용인할 수 없다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59885</link>
             <guid>https://www.bookjournalism.com/books/59885</guid>
@@ -272,13 +279,6 @@
             <guid>https://www.bookjournalism.com/books/59920</guid>
             <pubDate>Mon, 27 Feb 2023 15:24:04 GMT</pubDate>
             <content:encoded><![CDATA[부조리의 얼굴]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[돈의 전쟁이 일어나고 있다. 달러의 아성에 도전하는 자, 누구인가? (북저널리즘)]]></title>
