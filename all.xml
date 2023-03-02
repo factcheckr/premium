@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 06:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 07:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고객의 지갑이 열리는 카피 100개 모음 (feat. 뷰티 브랜드) (퍼블리)]]></title>
+            <link>https://publy.co/content/7137?fr=category</link>
+            <guid>https://publy.co/content/7137?fr=category</guid>
+            <pubDate>Thu, 02 Mar 2023 07:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[공간 노트: 선택받는 공간이 주는 인사이트 모음집 (퍼블리)]]></title>
             <link>https://publy.co/content/7151?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7143?fr=category</guid>
             <pubDate>Fri, 17 Feb 2023 07:19:03 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["요즘" 면접 예상 질문 100개 모음 (답변 가이드 및 역질문 15종 추가 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7144?fr=category</link>
-            <guid>https://publy.co/content/7144?fr=category</guid>
-            <pubDate>Thu, 16 Feb 2023 08:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘여러분 너무 보고 싶었어↗’ 어디서 시작된 밈일까? 최신 유행어 뜻 & 유래 모음 (캐릿)]]></title>
