@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 20:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 21:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -257,7 +257,7 @@
             <link>https://www.bookjournalism.com/books/60043</link>
             <guid>https://www.bookjournalism.com/books/60043</guid>
             <pubDate>Thu, 02 Mar 2023 15:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[스마트도시를 꿈꾸는 자, 누구인가]]></content:encoded>
+            <content:encoded><![CDATA[시진핑의 스마트시티, 하이난]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[간호법을 둘러싼 의료계의 갈등이 심화한다. 대중은 외면한다. (북저널리즘)]]></title>
