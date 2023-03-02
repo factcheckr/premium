@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 14:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 15:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,11 +246,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[리바이스 : 25년 만에 최고 실적, 청바지 브랜드는 어떻게 부활했나 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/594</link>
-            <guid>https://www.longblack.co/note/594</guid>
-            <pubDate>Wed, 01 Mar 2023 15:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;재밌는 뉴스를 하나 봤어. 세계 최초의 청바지 리바이스 501이 150주년을 맞았대. 마릴린 먼로부터 스티브 잡스, 버락 오바마, 켄달 제너까지 이 청바지를 입었<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[이정모 : 털보 과학 소통가, 과학관을 '체험의 성지'로 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/604</link>
+            <guid>https://www.longblack.co/note/604</guid>
+            <pubDate>Thu, 02 Mar 2023 15:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;인공 토네이도가 몸을 휘감아요. 지진을 두 발로 느낄 수도 있죠. 천문대에 올라 태양의 흑점을 관측하기도 해요. 국제 우주정거장에서 빛나는 지구를 바라볼 수도 있<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하이난은 ‘제2의 홍콩’을 꿈꾼다. 스마트시티의 옥석이 가려진다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60043</link>
+            <guid>https://www.bookjournalism.com/books/60043</guid>
+            <pubDate>Thu, 02 Mar 2023 15:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[스마트도시를 꿈꾸는 자, 누구인가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[간호법을 둘러싼 의료계의 갈등이 심화한다. 대중은 외면한다. (북저널리즘)]]></title>
@@ -328,13 +335,6 @@
             <guid>https://www.bookjournalism.com/books/59610</guid>
             <pubDate>Mon, 20 Feb 2023 15:23:26 GMT</pubDate>
             <content:encoded><![CDATA[CJ ENM의 칼바람]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국 최대 스포츠 이벤트 NFL 슈퍼볼이 도박판이 됐다. 중독에 대해 다시 질문할 때다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59592</link>
-            <guid>https://www.bookjournalism.com/books/59592</guid>
-            <pubDate>Sun, 19 Feb 2023 15:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[도박판을 깐 자, 누구인가]]></content:encoded>
         </item>
     </channel>
 </rss>
