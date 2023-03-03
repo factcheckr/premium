@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 05:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 07:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <content:encoded><![CDATA[아티클]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제 2의 전성기를 노린다! 기업 리브랜딩 사례 13가지 모음 (퍼블리)]]></title>
+            <title><![CDATA[제2의 전성기를 노린다! 기업 리브랜딩 사례 13가지 모음 (퍼블리)]]></title>
             <link>https://publy.co/content/7125?fr=category</link>
             <guid>https://publy.co/content/7125?fr=category</guid>
             <pubDate>Thu, 23 Feb 2023 06:26:23 GMT</pubDate>
