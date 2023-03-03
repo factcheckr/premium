@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 14:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 15:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,11 +254,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이정모 : 털보 과학 소통가, 과학관을 '체험의 성지'로 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/604</link>
-            <guid>https://www.longblack.co/note/604</guid>
-            <pubDate>Thu, 02 Mar 2023 15:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;인공 토네이도가 몸을 휘감아요. 지진을 두 발로 느낄 수도 있죠. 천문대에 올라 태양의 흑점을 관측하기도 해요. 국제 우주정거장에서 빛나는 지구를 바라볼 수도 있<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[데이터는 어떻게 인생의 무기가 되는가 : 당신은 더 나은 결정을 할 수 있다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/596</link>
+            <guid>https://www.longblack.co/note/596</guid>
+            <pubDate>Fri, 03 Mar 2023 15:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;“노란 숲속에 길이 둘로 갈리어 있었다. 안타깝게도 두 길을 동시에 갈 수 없는한 사람 여행자이기에, 오랫동안 서 있었다.”&nbsp;로버트 프로스트Robert Frost<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하이난은 ‘제2의 홍콩’을 꿈꾼다. 스마트시티의 옥석이 가려진다. (북저널리즘)]]></title>
