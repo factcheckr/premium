@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-03-05T14:19:22.969Z</updated>
+    <updated>2023-03-05T15:21:32.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[국민의 돈을 수익성이 확실치 않은 곳에 투자하는 것이 정당한가?]]></title>
+        <id>https://www.bookjournalism.com/books/60060</id>
+        <link href="https://www.bookjournalism.com/books/60060"/>
+        <updated>2023-03-05T15:21:20.402Z</updated>
+        <content type="html"><![CDATA[연기금과 ESG 투자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이난은 ‘제2의 홍콩’을 꿈꾼다. 스마트시티의 옥석이 가려진다.]]></title>
         <id>https://www.bookjournalism.com/books/60043</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/59670"/>
         <updated>2023-02-21T15:23:44.480Z</updated>
         <content type="html"><![CDATA[무엇이 올바른 작품인가?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대퇴사의 시대는 끝났다. 대해고의 시대가 시작된다.]]></title>
-        <id>https://www.bookjournalism.com/books/59610</id>
-        <link href="https://www.bookjournalism.com/books/59610"/>
-        <updated>2023-02-20T15:23:26.598Z</updated>
-        <content type="html"><![CDATA[CJ ENM의 칼바람]]></content>
     </entry>
 </feed>

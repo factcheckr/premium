@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-03-05T14:19:22.967Z</updated>
+    <updated>2023-03-05T15:21:32.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-03-04T15:20:51.734Z</updated>
-        <content type="html"><![CDATA[C이 주목한 지난주 롱블랙의 문장
-
-"운동을 수단이 아닌 라이프스타일로 바라보는 첫 단계는 나를 남과 비교하지 않는 거예요. 그래서 F45에는 거울이 없어요. 거울이 없으면 내 얼굴이 얼마나 땀범벅이 됐는지 신경 쓰지 않아도 돼요. 다른 사람은 얼마나 빨리 진도를 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[본디 : 인스타그램을 뛰어넘는 넥스트 SNS는 왜 못 나올까]]></title>
+        <id>https://www.longblack.co/note/597</id>
+        <link href="https://www.longblack.co/note/597"/>
+        <updated>2023-03-05T15:20:32.005Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;“너도 본디할래?”“야, 이제 본디에 아무도 없어.”불과 2주 만인 것 같아요. 너도나도 본디Bondee*가 유행이라더니, 열기가 확 식었어요! 싸이월드와 제페토<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
