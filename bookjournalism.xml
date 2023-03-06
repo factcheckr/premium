@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-03-06T14:21:33.033Z</updated>
+    <updated>2023-03-06T15:25:15.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다.]]></title>
+        <id>https://www.bookjournalism.com/books/60100</id>
+        <link href="https://www.bookjournalism.com/books/60100"/>
+        <updated>2023-03-06T15:25:04.912Z</updated>
+        <content type="html"><![CDATA[일제 강제징용 피해자 배상안은 반쪽짜리인가?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의 돈을 수익성이 확실치 않은 곳에 투자하는 것이 정당한가?]]></title>
         <id>https://www.bookjournalism.com/books/60060</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/59628"/>
         <updated>2023-02-22T09:22:39.002Z</updated>
         <content type="html"><![CDATA[예측 불가능한 것을 예측하기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로알드 달의 소설이 수백 개의 표현을 수정·삭제한 뒤 재출간됐다. 논란이 거세다.]]></title>
-        <id>https://www.bookjournalism.com/books/59670</id>
-        <link href="https://www.bookjournalism.com/books/59670"/>
-        <updated>2023-02-21T15:23:44.480Z</updated>
-        <content type="html"><![CDATA[무엇이 올바른 작품인가?]]></content>
     </entry>
 </feed>
