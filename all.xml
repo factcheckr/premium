@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 08:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 09:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 상식사전: 전공은 아니지만 꼭 알아야 할 이야기 (퍼블리)]]></title>
+            <link>https://publy.co/content/7157?fr=category</link>
+            <guid>https://publy.co/content/7157?fr=category</guid>
+            <pubDate>Mon, 06 Mar 2023 09:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[고객의 지갑이 열리는 카피 100개 모음 (feat. 뷰티 브랜드) (퍼블리)]]></title>
             <link>https://publy.co/content/7137?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7142?fr=category</guid>
             <pubDate>Fri, 17 Feb 2023 07:19:03 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 5분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3일 만에 끝내는 면접 준비: 예상 질문부터 가이드까지! (퍼블리)]]></title>
-            <link>https://publy.co/content/7143?fr=category</link>
-            <guid>https://publy.co/content/7143?fr=category</guid>
-            <pubDate>Fri, 17 Feb 2023 07:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 알아서 입소문 내는 온라인 마케팅 레퍼런스 2 (캐릿)]]></title>

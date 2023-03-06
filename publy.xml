@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-03-06T08:29:22.288Z</updated>
+    <updated>2023-03-06T09:23:18.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 상식사전: 전공은 아니지만 꼭 알아야 할 이야기]]></title>
+        <id>https://publy.co/content/7157?fr=category</id>
+        <link href="https://publy.co/content/7157?fr=category"/>
+        <updated>2023-03-06T09:22:07.533Z</updated>
+        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고객의 지갑이 열리는 카피 100개 모음 (feat. 뷰티 브랜드)]]></title>
         <id>https://publy.co/content/7137?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7142?fr=category"/>
         <updated>2023-02-17T07:19:03.902Z</updated>
         <content type="html"><![CDATA[아티클 · 5분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3일 만에 끝내는 면접 준비: 예상 질문부터 가이드까지!]]></title>
-        <id>https://publy.co/content/7143?fr=category</id>
-        <link href="https://publy.co/content/7143?fr=category"/>
-        <updated>2023-02-17T07:19:03.905Z</updated>
-        <content type="html"><![CDATA[아티클 · 2분 분량]]></content>
     </entry>
 </feed>
