@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-03-05T23:22:17.661Z</updated>
+    <updated>2023-03-06T01:51:09.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[연기금과 ESG 투자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하이난은 ‘제2의 홍콩’을 꿈꾼다. 스마트시티의 옥석이 가려진다.]]></title>
-        <id>https://www.bookjournalism.com/books/60043</id>
-        <link href="https://www.bookjournalism.com/books/60043"/>
-        <updated>2023-03-02T15:25:00.113Z</updated>
-        <content type="html"><![CDATA[시진핑의 스마트시티, 하이난]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
         <id>https://www.bookjournalism.com/books/59400</id>
         <link href="https://www.bookjournalism.com/books/59400"/>
         <updated>2023-02-15T02:54:09.298Z</updated>
         <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이난은 ‘제2의 홍콩’을 꿈꾼다. 스마트시티의 옥석이 가려진다.]]></title>
+        <id>https://www.bookjournalism.com/books/60043</id>
+        <link href="https://www.bookjournalism.com/books/60043"/>
+        <updated>2023-03-02T15:25:00.113Z</updated>
+        <content type="html"><![CDATA[시진핑의 스마트시티, 하이난]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[간호법을 둘러싼 의료계의 갈등이 심화한다. 대중은 외면한다.]]></title>

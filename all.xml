@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 23:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 01:51:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,7 +78,15 @@
             <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘K-POP 댄스 추는 공룡’부터 ‘밀키스 제로’까지! 이 주의 Z세대 유행템 4 (캐릿)]]></title>
+            <title><![CDATA[Z세대가 알아서 입소문 내는 온라인 마케팅 레퍼런스 2 (캐릿)]]></title>
+            <link>https://www.careet.net/1027</link>
+            <guid>https://www.careet.net/1027</guid>
+            <pubDate>Mon, 06 Mar 2023 01:49:59 GMT</pubDate>
+            <content:encoded><![CDATA[SNS에서 화제가 되는 온라인 마케팅을 기획하고 싶다면?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/95633849-2ddb-477e-8abf-52ca16250fcf_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘K-POP 댄스 추는 공룡’부터 ‘밀키스 제로’까지! 이주의 Z세대 유행템 4 (캐릿)]]></title>
             <link>https://www.careet.net/1029</link>
             <guid>https://www.careet.net/1029</guid>
             <pubDate>Fri, 03 Mar 2023 03:33:59 GMT</pubDate>
@@ -268,18 +276,18 @@
             <content:encoded><![CDATA[연기금과 ESG 투자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이난은 ‘제2의 홍콩’을 꿈꾼다. 스마트시티의 옥석이 가려진다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60043</link>
-            <guid>https://www.bookjournalism.com/books/60043</guid>
-            <pubDate>Thu, 02 Mar 2023 15:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[시진핑의 스마트시티, 하이난]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59400</link>
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하이난은 ‘제2의 홍콩’을 꿈꾼다. 스마트시티의 옥석이 가려진다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60043</link>
+            <guid>https://www.bookjournalism.com/books/60043</guid>
+            <pubDate>Thu, 02 Mar 2023 15:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[시진핑의 스마트시티, 하이난]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[간호법을 둘러싼 의료계의 갈등이 심화한다. 대중은 외면한다. (북저널리즘)]]></title>
