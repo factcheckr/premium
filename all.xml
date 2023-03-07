@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 01:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 03:04:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,7 +94,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/95633849-2ddb-477e-8abf-52ca16250fcf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[‘K-POP 댄스 추는 공룡’부터 ‘밀키스 제로’까지! 이주의 Z세대 유행템 4 (캐릿)]]></title>
+            <title><![CDATA[‘K-POP 댄스 추는 고질라’부터 ‘밀키스 제로’까지! 이주의 Z세대 유행템 4 (캐릿)]]></title>
             <link>https://www.careet.net/1029</link>
             <guid>https://www.careet.net/1029</guid>
             <pubDate>Fri, 03 Mar 2023 03:33:59 GMT</pubDate>
@@ -368,18 +368,18 @@
             <content:encoded><![CDATA[일제 강제징용 피해자 배상안은 반쪽짜리인가?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국민의 돈을 수익성이 확실치 않은 곳에 투자하는 것이 정당한가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60060</link>
-            <guid>https://www.bookjournalism.com/books/60060</guid>
-            <pubDate>Sun, 05 Mar 2023 15:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[연기금과 ESG 투자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59400</link>
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국민의 돈을 수익성이 확실치 않은 곳에 투자하는 것이 정당한가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60060</link>
+            <guid>https://www.bookjournalism.com/books/60060</guid>
+            <pubDate>Sun, 05 Mar 2023 15:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[연기금과 ESG 투자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하이난은 ‘제2의 홍콩’을 꿈꾼다. 스마트시티의 옥석이 가려진다. (북저널리즘)]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-03-07T01:56:13.562Z</updated>
+    <updated>2023-03-07T03:04:41.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[일제 강제징용 피해자 배상안은 반쪽짜리인가?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민의 돈을 수익성이 확실치 않은 곳에 투자하는 것이 정당한가?]]></title>
-        <id>https://www.bookjournalism.com/books/60060</id>
-        <link href="https://www.bookjournalism.com/books/60060"/>
-        <updated>2023-03-06T22:22:21.074Z</updated>
-        <content type="html"><![CDATA[연기금과 ESG 투자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
         <id>https://www.bookjournalism.com/books/59400</id>
         <link href="https://www.bookjournalism.com/books/59400"/>
         <updated>2023-03-06T22:22:21.077Z</updated>
         <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민의 돈을 수익성이 확실치 않은 곳에 투자하는 것이 정당한가?]]></title>
+        <id>https://www.bookjournalism.com/books/60060</id>
+        <link href="https://www.bookjournalism.com/books/60060"/>
+        <updated>2023-03-06T22:22:21.074Z</updated>
+        <content type="html"><![CDATA[연기금과 ESG 투자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하이난은 ‘제2의 홍콩’을 꿈꾼다. 스마트시티의 옥석이 가려진다.]]></title>
