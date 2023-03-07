@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 14:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 15:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,11 +270,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[와플하우스 : 24시 미국 기사식당이 ‘국민 팬덤’을 만든 전략 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/602</link>
-            <guid>https://www.longblack.co/note/602</guid>
-            <pubDate>Mon, 06 Mar 2023 15:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;술 마신 다음 날, 미국인은 어디로 해장하러 갈까요. 1위가 타코벨, 2위가 맥도날드, 3위가 ‘와플하우스Waffle House’ 래요. 처음 들어봤다고요?미국에<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[콜린스 : 누적 판매 2500만 개 인센스, 지극히 사적인 순간을 공략하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/605</link>
+            <guid>https://www.longblack.co/note/605</guid>
+            <pubDate>Tue, 07 Mar 2023 15:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;심심하면 올리브영에 가요. 이것저것 구경하는데, 노란색, 주황색, 카키색, 남색 등 색색의 틴케이스가 눈에 띄어요. 콜린스collins라는 브랜드의 인센스래요! <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -361,6 +361,13 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[대해고 이후 구글의 분위기가 심상치 않다. 내 책상은 내가 챙겨야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60127</link>
+            <guid>https://www.bookjournalism.com/books/60127</guid>
+            <pubDate>Tue, 07 Mar 2023 15:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[구글의 대해고, 무엇이 문제인가]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60100</link>
             <guid>https://www.bookjournalism.com/books/60100</guid>
@@ -436,13 +443,6 @@
             <guid>https://www.bookjournalism.com/books/59726</guid>
             <pubDate>Wed, 22 Feb 2023 15:23:57 GMT</pubDate>
             <content:encoded><![CDATA[가족의 확장]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지진학자들은 지진을 어느 정도 예측한다. 하지만 인간의 행동은 데이터를 비껴간다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59628</link>
-            <guid>https://www.bookjournalism.com/books/59628</guid>
-            <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
     </channel>
 </rss>
