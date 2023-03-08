@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-03-08T07:20:29.857Z</updated>
+    <updated>2023-03-08T08:28:46.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[시민들은 국가 붕괴의 날을 선언했다. 정치에 붙은 불은 이제 경제로도 번지고 있다.]]></title>
+        <id>https://www.bookjournalism.com/books/60052</id>
+        <link href="https://www.bookjournalism.com/books/60052"/>
+        <updated>2023-03-08T08:28:36.268Z</updated>
+        <content type="html"><![CDATA[이스라엘이 분노하다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대해고 이후 구글의 분위기가 심상치 않다. 내 책상은 내가 챙겨야 한다.]]></title>
         <id>https://www.bookjournalism.com/books/60127</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/59775"/>
         <updated>2023-03-06T22:22:21.085Z</updated>
         <content type="html"><![CDATA[전쟁이 남긴 기록들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법원이 처음으로 동성 배우자의 건강보험 피부양자 자격을 인정했다. 가족의 확장을 기대할 수 있을까?]]></title>
-        <id>https://www.bookjournalism.com/books/59726</id>
-        <link href="https://www.bookjournalism.com/books/59726"/>
-        <updated>2023-03-06T22:22:21.087Z</updated>
-        <content type="html"><![CDATA[가족의 확장]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 07:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 08:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누구든 할 수 있다! ChatGPT로 업무 시간을 반으로 줄이는 법 (퍼블리)]]></title>
+            <link>https://publy.co/content/7158?fr=category</link>
+            <guid>https://publy.co/content/7158?fr=category</guid>
+            <pubDate>Wed, 08 Mar 2023 08:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 6분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[AI 상식사전: 전공은 아니지만 꼭 알아야 할 이야기 (퍼블리)]]></title>
             <link>https://publy.co/content/7157?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7148?fr=category</guid>
             <pubDate>Mon, 20 Feb 2023 07:19:50 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 20분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팀장을 위한 공지문/메일 양식 모음 (퍼블리)]]></title>
-            <link>https://publy.co/content/7142?fr=category</link>
-            <guid>https://publy.co/content/7142?fr=category</guid>
-            <pubDate>Fri, 17 Feb 2023 07:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 5분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대 지원자가 역량 100% 발휘하게 만드는 면접관의 태도는? (캐릿)]]></title>
@@ -369,6 +369,13 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[시민들은 국가 붕괴의 날을 선언했다. 정치에 붙은 불은 이제 경제로도 번지고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60052</link>
+            <guid>https://www.bookjournalism.com/books/60052</guid>
+            <pubDate>Wed, 08 Mar 2023 08:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[이스라엘이 분노하다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대해고 이후 구글의 분위기가 심상치 않다. 내 책상은 내가 챙겨야 한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60127</link>
             <guid>https://www.bookjournalism.com/books/60127</guid>
@@ -444,13 +451,6 @@
             <guid>https://www.bookjournalism.com/books/59775</guid>
             <pubDate>Thu, 23 Feb 2023 15:23:28 GMT</pubDate>
             <content:encoded><![CDATA[전쟁이 남긴 기록들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[법원이 처음으로 동성 배우자의 건강보험 피부양자 자격을 인정했다. 가족의 확장을 기대할 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59726</link>
-            <guid>https://www.bookjournalism.com/books/59726</guid>
-            <pubDate>Wed, 22 Feb 2023 15:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[가족의 확장]]></content:encoded>
         </item>
     </channel>
 </rss>

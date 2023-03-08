@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-03-08T07:20:29.845Z</updated>
+    <updated>2023-03-08T08:28:46.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[누구든 할 수 있다! ChatGPT로 업무 시간을 반으로 줄이는 법]]></title>
+        <id>https://publy.co/content/7158?fr=category</id>
+        <link href="https://publy.co/content/7158?fr=category"/>
+        <updated>2023-03-08T08:27:33.292Z</updated>
+        <content type="html"><![CDATA[아티클 · 6분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 상식사전: 전공은 아니지만 꼭 알아야 할 이야기]]></title>
         <id>https://publy.co/content/7157?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7148?fr=category"/>
         <updated>2023-02-20T07:19:50.635Z</updated>
         <content type="html"><![CDATA[아티클 · 20분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀장을 위한 공지문/메일 양식 모음]]></title>
-        <id>https://publy.co/content/7142?fr=category</id>
-        <link href="https://publy.co/content/7142?fr=category"/>
-        <updated>2023-02-17T07:19:03.902Z</updated>
-        <content type="html"><![CDATA[아티클 · 5분 분량]]></content>
     </entry>
 </feed>
