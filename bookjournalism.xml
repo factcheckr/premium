@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-03-09T08:29:15.705Z</updated>
+    <updated>2023-03-09T09:23:29.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://www.bookjournalism.com/books/60100</id>
         <link href="https://www.bookjournalism.com/books/60100"/>
         <updated>2023-03-06T22:22:21.072Z</updated>
-        <content type="html"><![CDATA[일제 강제징용 피해자 배상안은 반쪽짜리인가?]]></content>
+        <content type="html"><![CDATA[일제 강제징용 피해자 배상안은 반쪽짜리인가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국민의 돈을 수익성이 확실치 않은 곳에 투자하는 것이 정당한가?]]></title>
