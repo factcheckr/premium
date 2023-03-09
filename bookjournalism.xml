@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-03-09T14:21:59.880Z</updated>
+    <updated>2023-03-09T15:25:51.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[암호화폐 은행 실버게이트가 문을 닫았다. 이 시장에 남은 것은 희망인가 위기인가.]]></title>
+        <id>https://www.bookjournalism.com/books/60171</id>
+        <link href="https://www.bookjournalism.com/books/60171"/>
+        <updated>2023-03-09T15:25:40.891Z</updated>
+        <content type="html"><![CDATA[실버게이트 사태로 보는 암호화폐의 미래]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도면만 있으면 누구나 생산자가 되는 시대가 올까.]]></title>
         <id>https://www.bookjournalism.com/books/60141</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/59877"/>
         <updated>2023-03-06T22:22:21.083Z</updated>
         <content type="html"><![CDATA[탈달러 사인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #77에선, CJ ENM 구조조정, 동성 배우자 건보 피부양자 자격 인정 판결, 러-우 전쟁 1년, 로알드 달 소설 재출간에 관해 이야기합니다.]]></title>
-        <id>https://www.bookjournalism.com/audio/59823</id>
-        <link href="https://www.bookjournalism.com/audio/59823"/>
-        <updated>2023-03-06T22:22:21.084Z</updated>
-        <content type="html"><![CDATA[변화는 세상을 다시 쓴다]]></content>
     </entry>
 </feed>
