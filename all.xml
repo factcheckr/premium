@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 07:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 08:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10일 천하 '본디(bondee)' 열풍, 왜 핫 했다가 확 식었을까? (퍼블리)]]></title>
+            <link>https://publy.co/content/7149?fr=category</link>
+            <guid>https://publy.co/content/7149?fr=category</guid>
+            <pubDate>Thu, 09 Mar 2023 08:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[누구든 할 수 있다! ChatGPT로 업무 시간을 반으로 줄이는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/7158?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7145?fr=category</guid>
             <pubDate>Tue, 21 Feb 2023 07:19:25 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[상황별 영어 비즈니스 이메일 표현 모음.zip (퍼블리)]]></title>
-            <link>https://publy.co/content/7148?fr=category</link>
-            <guid>https://publy.co/content/7148?fr=category</guid>
-            <pubDate>Mon, 20 Feb 2023 07:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 20분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대 지원자가 역량 100% 발휘하게 만드는 면접관의 태도는? (캐릿)]]></title>
