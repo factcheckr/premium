@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 11:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 12:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7145?fr=category</guid>
             <pubDate>Tue, 21 Feb 2023 07:19:25 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 힙한 브랜드는 다 ‘클래스 마케팅’ 한다며? (캐릿)]]></title>
+            <link>https://www.careet.net/1036</link>
+            <guid>https://www.careet.net/1036</guid>
+            <pubDate>Thu, 09 Mar 2023 12:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대에게 호평받은 분야별 ‘클래스 마케팅’ 사례 6]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/c9e2378d-3110-4771-862b-5168132ed3c8_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 지원자가 역량 100% 발휘하게 만드는 면접관의 태도는? (캐릿)]]></title>
