@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 14:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 15:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,11 +294,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[그라더스 : 의료용 신발에 감도를 더해, 걸음에 집중한 브랜드를 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/615</link>
-            <guid>https://www.longblack.co/note/615</guid>
-            <pubDate>Thu, 09 Mar 2023 15:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;평발입니다. 신발을 신중하게 골라요. 잘 맞는 신발을 신어야 오래 걸을 수 있거든요. 최근 지켜보는 브랜드가 있습니다. 그라더스grds. 라틴어로 ‘걸음gradu<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[낯선 사람에게 말을 걸면 : 당신의 친구도 한때는 낯선 사람이었다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/618</link>
+            <guid>https://www.longblack.co/note/618</guid>
+            <pubDate>Fri, 10 Mar 2023 15:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K아침 출근길, 기분 좋은 순간들이 있어요. 종종 엘리베이터에서 만난 이웃과 인사를 나눠요. 제가 먼저 “안녕하세요” 하고 인사를 건네는 일, 나름 용기가 필요하답니<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
