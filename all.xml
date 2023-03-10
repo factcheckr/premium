@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 23:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 01:53:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7145?fr=category</guid>
             <pubDate>Tue, 21 Feb 2023 07:19:25 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[핫플 팔로우업! 젠틀몬스터, 최고심 팝업 스토어가 오픈런 핫플로 뜬 이유 (캐릿)]]></title>
+            <link>https://www.careet.net/1035</link>
+            <guid>https://www.careet.net/1035</guid>
+            <pubDate>Fri, 10 Mar 2023 01:52:39 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 참여하는 숏폼 챌린지의 특징]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/9128be86-7923-4264-919b-01df3dda3013_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[요즘 힙한 브랜드는 다 ‘클래스 마케팅’ 한다며? (캐릿)]]></title>
@@ -384,18 +392,18 @@
             <content:encoded><![CDATA[실버게이트 사태로 보는 암호화폐의 미래]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[도면만 있으면 누구나 생산자가 되는 시대가 올까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60141</link>
-            <guid>https://www.bookjournalism.com/books/60141</guid>
-            <pubDate>Wed, 08 Mar 2023 15:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[3D 프린팅과 생산 혁명]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59400</link>
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도면만 있으면 누구나 생산자가 되는 시대가 올까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60141</link>
+            <guid>https://www.bookjournalism.com/books/60141</guid>
+            <pubDate>Wed, 08 Mar 2023 15:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[3D 프린팅과 생산 혁명]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시민들은 국가 붕괴의 날을 선언했다. 정치에 붙은 불은 이제 경제로도 번지고 있다. (북저널리즘)]]></title>
