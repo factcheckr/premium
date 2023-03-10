@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 06:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 07:28:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 찾아온 번아웃, 회복을 위한 처방전 (퍼블리)]]></title>
+            <link>https://publy.co/content/7154?fr=category</link>
+            <guid>https://publy.co/content/7154?fr=category</guid>
+            <pubDate>Fri, 10 Mar 2023 07:27:36 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[10일 천하 '본디(bondee)' 열풍, 왜 핫 했다가 확 식었을까? (퍼블리)]]></title>
             <link>https://publy.co/content/7149?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7147?fr=category</guid>
             <pubDate>Thu, 23 Feb 2023 01:43:14 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나를 잘 돌보는 힘, 생활력 트래커 작성법(pdf 템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7145?fr=category</link>
-            <guid>https://publy.co/content/7145?fr=category</guid>
-            <pubDate>Tue, 21 Feb 2023 07:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[핫플 팔로우업! 젠틀몬스터, 최고심 팝업 스토어가 오픈런 핫플로 뜬 이유 (캐릿)]]></title>
