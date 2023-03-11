@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-03-11T05:19:26.728Z</updated>
+    <updated>2023-03-11T06:25:43.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/618</id>
         <link href="https://www.longblack.co/note/618"/>
         <updated>2023-03-10T15:22:07.822Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K아침 출근길, 기분 좋은 순간들이 있어요. 종종 엘리베이터에서 만난 이웃과 인사를 나눠요. 제가 먼저 “안녕하세요” 하고 인사를 건네는 일, 나름 용기가 필요하답니<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;아침 출근길, 기분 좋은 순간들이 있어요. 종종 엘리베이터에서 만난 이웃과 인사를 나눠요. 제가 먼저 “안녕하세요” 하고 인사를 건네는 일, 나름 용기가 필요하답<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
