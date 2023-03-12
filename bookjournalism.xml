@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-03-12T14:18:41.745Z</updated>
+    <updated>2023-03-12T15:20:51.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[플랫폼이 지배한 세상이다. 알고리즘 바깥에는 무엇이 있을까.]]></title>
+        <id>https://www.bookjournalism.com/books/60164</id>
+        <link href="https://www.bookjournalism.com/books/60164"/>
+        <updated>2023-03-12T15:20:40.359Z</updated>
+        <content type="html"><![CDATA[악당이 된 빅테크에 맞서기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[암호화폐 은행 실버게이트가 문을 닫았다. 이 시장에 남은 것은 희망인가 위기인가.]]></title>
         <id>https://www.bookjournalism.com/books/60171</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/59920"/>
         <updated>2023-03-06T22:22:21.082Z</updated>
         <content type="html"><![CDATA[부조리의 얼굴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈의 전쟁이 일어나고 있다. 달러의 아성에 도전하는 자, 누구인가?]]></title>
-        <id>https://www.bookjournalism.com/books/59877</id>
-        <link href="https://www.bookjournalism.com/books/59877"/>
-        <updated>2023-03-06T22:22:21.083Z</updated>
-        <content type="html"><![CDATA[탈달러 사인]]></content>
     </entry>
 </feed>
