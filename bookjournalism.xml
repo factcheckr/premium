@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-03-12T20:21:34.092Z</updated>
+    <updated>2023-03-12T21:18:31.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
-        <title type="html"><![CDATA[플랫폼이 지배한 세상이다. 알고리즘 바깥에는 무엇이 있을까.]]></title>
+        <title type="html"><![CDATA[플랫폼이 지배하는 세상이다. 알고리즘 바깥에는 무엇이 있을까.]]></title>
         <id>https://www.bookjournalism.com/books/60164</id>
         <link href="https://www.bookjournalism.com/books/60164"/>
         <updated>2023-03-12T15:20:40.359Z</updated>

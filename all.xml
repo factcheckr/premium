@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 20:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 21:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -385,7 +385,7 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[플랫폼이 지배한 세상이다. 알고리즘 바깥에는 무엇이 있을까. (북저널리즘)]]></title>
+            <title><![CDATA[플랫폼이 지배하는 세상이다. 알고리즘 바깥에는 무엇이 있을까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60164</link>
             <guid>https://www.bookjournalism.com/books/60164</guid>
             <pubDate>Sun, 12 Mar 2023 15:20:40 GMT</pubDate>
