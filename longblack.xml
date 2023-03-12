@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-03-12T22:19:44.834Z</updated>
+    <updated>2023-03-12T23:21:14.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/609</id>
         <link href="https://www.longblack.co/note/609"/>
         <updated>2023-03-12T15:19:53.596Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B서울 종로구 런던동. 북촌한옥마을과 고즈넉한 카페가 모인 계동의 또 다른 별명입니다. 여기서 런던은 수제 베이글 가게 ‘런던베이글뮤지엄’을 말해요. 베이글을 사려는<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;서울 종로구 런던동. 북촌한옥마을과 고즈넉한 카페가 모인 계동의 또 다른 별명입니다. 여기서 런던은 수제 베이글 가게 ‘런던베이글뮤지엄’을 말해요. 베이글을 사려<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
