@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-03-12T23:21:14.720Z</updated>
+    <updated>2023-03-13T01:44:04.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[악당이 된 빅테크에 맞서기]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[암호화폐 은행 실버게이트가 문을 닫았다. 이 시장에 남은 것은 희망인가 위기인가.]]></title>
-        <id>https://www.bookjournalism.com/books/60171</id>
-        <link href="https://www.bookjournalism.com/books/60171"/>
-        <updated>2023-03-09T15:25:40.891Z</updated>
-        <content type="html"><![CDATA[실버게이트 사태로 보는 암호화폐의 미래]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
         <id>https://www.bookjournalism.com/books/59400</id>
         <link href="https://www.bookjournalism.com/books/59400"/>
         <updated>2023-03-06T22:22:21.077Z</updated>
         <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[암호화폐 은행 실버게이트가 문을 닫았다. 이 시장에 남은 것은 희망인가 위기인가.]]></title>
+        <id>https://www.bookjournalism.com/books/60171</id>
+        <link href="https://www.bookjournalism.com/books/60171"/>
+        <updated>2023-03-09T15:25:40.891Z</updated>
+        <content type="html"><![CDATA[실버게이트 사태로 보는 암호화폐의 미래]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도면만 있으면 누구나 생산자가 되는 시대가 올까.]]></title>

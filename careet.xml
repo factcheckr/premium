@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 23:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 01:44:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세는 ‘커스텀’! 맞춤형 마케팅 레퍼런스 2]]></title>
+            <link>https://www.careet.net/1032</link>
+            <guid>https://www.careet.net/1032</guid>
+            <pubDate>Mon, 13 Mar 2023 01:42:27 GMT</pubDate>
+            <content:encoded><![CDATA[최신 유행을 마케팅에 발 빠르게 적용한 사례 2]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/1b436fc6-46a4-4bfb-9234-4eb7b7f8ab02_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[핫플 팔로우업! 젠틀몬스터, 최고심 팝업 스토어가 오픈런 핫플로 뜬 이유]]></title>
             <link>https://www.careet.net/1035</link>
