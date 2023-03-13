@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 06:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 07:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 스프레드 시트 대시보드 작성법(실습 파일 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7156?fr=category</link>
+            <guid>https://publy.co/content/7156?fr=category</guid>
+            <pubDate>Mon, 13 Mar 2023 07:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 6분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[또 찾아온 번아웃, 회복을 위한 처방전 (퍼블리)]]></title>
             <link>https://publy.co/content/7154?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7125?fr=category</guid>
             <pubDate>Thu, 23 Feb 2023 06:26:23 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 16분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요즘 팀장의 콘텐츠 리더십: 조직에 의존하지 않고 나의 콘텐츠로 나아가는 법 (퍼블리)]]></title>
-            <link>https://publy.co/content/7147?fr=category</link>
-            <guid>https://publy.co/content/7147?fr=category</guid>
-            <pubDate>Thu, 23 Feb 2023 01:43:14 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대세는 ‘커스텀’! 맞춤형 마케팅 레퍼런스 2 (캐릿)]]></title>
