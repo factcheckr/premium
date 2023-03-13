@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 14:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 15:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,11 +302,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[런던베이글뮤지엄 : 기억을 집요하게 되살려, 런던 골목의 감성을 재현하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/609</link>
-            <guid>https://www.longblack.co/note/609</guid>
-            <pubDate>Sun, 12 Mar 2023 15:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;서울 종로구 런던동. 북촌한옥마을과 고즈넉한 카페가 모인 계동의 또 다른 별명입니다. 여기서 런던은 수제 베이글 가게 ‘런던베이글뮤지엄’을 말해요. 베이글을 사려<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[우크라이나 크리에이티브 캠페인 : 창의성은 어떻게 전쟁에 맞서나 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/612</link>
+            <guid>https://www.longblack.co/note/612</guid>
+            <pubDate>Mon, 13 Mar 2023 15:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;2022년 2월 24일. 러시아가 우크라이나를 침공한 날이에요. 그로부터 1년이 지났어요. 많은 사람이 사흘 안에 우크라이나가 백기를 들 거라 예상했죠. 하지만 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -393,6 +393,13 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[금리가 올라도 은행이 망할 수 있다. 채권 때문이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60250</link>
+            <guid>https://www.bookjournalism.com/books/60250</guid>
+            <pubDate>Mon, 13 Mar 2023 15:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[실리콘밸리은행이 파산한 진짜 이유]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[플랫폼이 지배하는 세상이다. 알고리즘 바깥에는 무엇이 있을까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60164</link>
             <guid>https://www.bookjournalism.com/books/60164</guid>
@@ -468,13 +475,6 @@
             <guid>https://www.bookjournalism.com/books/59885</guid>
             <pubDate>Wed, 01 Mar 2023 08:29:30 GMT</pubDate>
             <content:encoded><![CDATA[화폐, 권력, 그리고 소리 없는 전쟁]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국수본 제2대 본부장으로 임명됐던 정순신 변호사가 하루 만에 낙마했다. 의미가 깊다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59920</link>
-            <guid>https://www.bookjournalism.com/books/59920</guid>
-            <pubDate>Mon, 27 Feb 2023 15:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[부조리의 얼굴]]></content:encoded>
         </item>
     </channel>
 </rss>
