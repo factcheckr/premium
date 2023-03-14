@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2023-03-14T20:28:44.781Z</updated>
+    <updated>2023-03-14T21:19:26.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.bookjournalism.com/books/60321</id>
         <link href="https://www.bookjournalism.com/books/60321"/>
         <updated>2023-03-14T15:28:13.328Z</updated>
-        <content type="html"><![CDATA[산불을 막을 방법]]></content>
+        <content type="html"><![CDATA[산불이 만드는 악의 고리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금리가 올라도 은행이 망할 수 있다. 채권 때문이다.]]></title>

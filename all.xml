@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 20:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 21:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -405,7 +405,7 @@
             <link>https://www.bookjournalism.com/books/60321</link>
             <guid>https://www.bookjournalism.com/books/60321</guid>
             <pubDate>Tue, 14 Mar 2023 15:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[산불을 막을 방법]]></content:encoded>
+            <content:encoded><![CDATA[산불이 만드는 악의 고리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[금리가 올라도 은행이 망할 수 있다. 채권 때문이다. (북저널리즘)]]></title>
