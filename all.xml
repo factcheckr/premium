@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 07:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 08:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신의 칼퇴를 책임질 앱 서비스 제안서 PPT 템플릿 (퍼블리)]]></title>
+            <link>https://publy.co/content/7162?fr=category</link>
+            <guid>https://publy.co/content/7162?fr=category</guid>
+            <pubDate>Wed, 15 Mar 2023 08:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 6분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내] 퍼블리 앱  설치하고 앱 전용 콘텐츠 읽어보세요! (퍼블리)]]></title>
+            <link>https://publy.co/content/7169?fr=category</link>
+            <guid>https://publy.co/content/7169?fr=category</guid>
+            <pubDate>Wed, 15 Mar 2023 08:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[아직도 감으로 하고 있다면? 데이터 드리븐 상세페이지 작성 노하우 (퍼블리)]]></title>
             <link>https://publy.co/content/7150?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/7137?fr=category</guid>
             <pubDate>Thu, 02 Mar 2023 07:19:32 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공간 노트: 선택받는 공간이 주는 인사이트 모음집 (퍼블리)]]></title>
-            <link>https://publy.co/content/7151?fr=category</link>
-            <guid>https://publy.co/content/7151?fr=category</guid>
-            <pubDate>Tue, 28 Feb 2023 07:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사례로 보는 신규 사업 기획서 작성 5단계(PPT 파일 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7152?fr=category</link>
-            <guid>https://publy.co/content/7152?fr=category</guid>
-            <pubDate>Mon, 27 Feb 2023 08:28:24 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메신저에 답장하지 않고 ‘좋아요’만 누르는 후배의 심리는? (캐릿)]]></title>
@@ -409,6 +409,13 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[공상과학 출판사 한 곳이 AI 소설 러쉬로 마비되었다. 내 서가에도 AI 작가의 책이 있을지 모른다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60246</link>
+            <guid>https://www.bookjournalism.com/books/60246</guid>
+            <pubDate>Wed, 15 Mar 2023 08:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[도구 없는 작가의 탄생]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[제주 대표 축제가 멈췄다. 기후 재난의 고리를 만드는 산불 때문이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60321</link>
             <guid>https://www.bookjournalism.com/books/60321</guid>
@@ -484,13 +491,6 @@
             <guid>https://www.bookjournalism.com/books/60043</guid>
             <pubDate>Thu, 02 Mar 2023 15:25:00 GMT</pubDate>
             <content:encoded><![CDATA[시진핑의 스마트시티, 하이난]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[간호법을 둘러싼 의료계의 갈등이 심화한다. 대중은 외면한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59966</link>
-            <guid>https://www.bookjournalism.com/books/59966</guid>
-            <pubDate>Wed, 01 Mar 2023 15:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[간호법 갈등, 누구의 책임인가]]></content:encoded>
         </item>
     </channel>
 </rss>
