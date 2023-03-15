@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 23:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 01:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7152?fr=category</guid>
             <pubDate>Mon, 27 Feb 2023 08:28:24 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[메신저에 답장하지 않고 ‘좋아요’만 누르는 후배의 심리는? (캐릿)]]></title>
+            <link>https://www.careet.net/1040</link>
+            <guid>https://www.careet.net/1040</guid>
+            <pubDate>Wed, 15 Mar 2023 01:41:08 GMT</pubDate>
+            <content:encoded><![CDATA[선배 메신저에 대답해달라고 말하면 꼰대일까요?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/16d5d199-0ada-4902-a35a-29f6c50c988b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[캐릿 에디터도 참고하는 드립 잘 치는 계정 12 (캐릿)]]></title>
