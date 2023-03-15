@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 02:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 03:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -416,6 +416,13 @@
             <content:encoded><![CDATA[산불이 만드는 악의 고리]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[금리가 올라도 은행이 망할 수 있다. 채권 때문이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60250</link>
             <guid>https://www.bookjournalism.com/books/60250</guid>
@@ -428,13 +435,6 @@
             <guid>https://www.bookjournalism.com/books/60164</guid>
             <pubDate>Sun, 12 Mar 2023 15:20:40 GMT</pubDate>
             <content:encoded><![CDATA[악당이 된 빅테크에 맞서기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[암호화폐 은행 실버게이트가 문을 닫았다. 이 시장에 남은 것은 희망인가 위기인가. (북저널리즘)]]></title>
