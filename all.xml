@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 09:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 10:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -414,6 +414,7 @@
             <guid>https://www.bookjournalism.com/books/60246</guid>
             <pubDate>Wed, 15 Mar 2023 08:27:22 GMT</pubDate>
             <content:encoded><![CDATA[도구 없는 작가의 탄생]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/521148/w/646/230315.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주 대표 축제가 멈췄다. 기후 재난의 고리를 만드는 산불 때문이다. (북저널리즘)]]></title>
@@ -421,6 +422,7 @@
             <guid>https://www.bookjournalism.com/books/60321</guid>
             <pubDate>Tue, 14 Mar 2023 15:28:13 GMT</pubDate>
             <content:encoded><![CDATA[산불이 만드는 악의 고리]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/521031/w/646/e230315.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
@@ -428,6 +430,7 @@
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/521143/w/646/note1.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[금리가 올라도 은행이 망할 수 있다. 채권 때문이다. (북저널리즘)]]></title>
@@ -435,6 +438,7 @@
             <guid>https://www.bookjournalism.com/books/60250</guid>
             <pubDate>Mon, 13 Mar 2023 15:22:31 GMT</pubDate>
             <content:encoded><![CDATA[실리콘밸리은행이 파산한 진짜 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/520267/w/646/e230314.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[플랫폼이 지배하는 세상이다. 알고리즘 바깥에는 무엇이 있을까. (북저널리즘)]]></title>
@@ -442,6 +446,7 @@
             <guid>https://www.bookjournalism.com/books/60164</guid>
             <pubDate>Sun, 12 Mar 2023 15:20:40 GMT</pubDate>
             <content:encoded><![CDATA[악당이 된 빅테크에 맞서기]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/519798/w/646/e2303131.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[암호화폐 은행 실버게이트가 문을 닫았다. 이 시장에 남은 것은 희망인가 위기인가. (북저널리즘)]]></title>
@@ -449,6 +454,7 @@
             <guid>https://www.bookjournalism.com/books/60171</guid>
             <pubDate>Thu, 09 Mar 2023 15:25:40 GMT</pubDate>
             <content:encoded><![CDATA[실버게이트 사태로 보는 암호화폐의 미래]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/519245/w/646/e2303101.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도면만 있으면 누구나 생산자가 되는 시대가 올까. (북저널리즘)]]></title>
@@ -456,6 +462,7 @@
             <guid>https://www.bookjournalism.com/books/60141</guid>
             <pubDate>Wed, 08 Mar 2023 15:24:15 GMT</pubDate>
             <content:encoded><![CDATA[3D 프린팅과 생산 혁명]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/518361/w/646/e230309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시민들은 국가 붕괴의 날을 선언했다. 정치에 붙은 불은 이제 경제로도 번지고 있다. (북저널리즘)]]></title>
@@ -463,6 +470,7 @@
             <guid>https://www.bookjournalism.com/books/60052</guid>
             <pubDate>Wed, 08 Mar 2023 08:28:36 GMT</pubDate>
             <content:encoded><![CDATA[이스라엘이 분노하다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/518092/w/646/eb230307_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대해고 이후 구글의 분위기가 심상치 않다. 내 책상은 내가 챙겨야 한다. (북저널리즘)]]></title>
@@ -470,6 +478,7 @@
             <guid>https://www.bookjournalism.com/books/60127</guid>
             <pubDate>Tue, 07 Mar 2023 15:22:45 GMT</pubDate>
             <content:encoded><![CDATA[구글의 대해고, 무엇이 문제인가]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/518237/w/646/e2303081.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -477,6 +486,7 @@
             <guid>https://www.bookjournalism.com/books/60100</guid>
             <pubDate>Mon, 06 Mar 2023 15:25:04 GMT</pubDate>
             <content:encoded><![CDATA[일제 강제징용 피해자 배상안은 반쪽짜리인가]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/518527/w/646/e2303072.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국민의 돈을 수익성이 확실치 않은 곳에 투자하는 것이 정당한가? (북저널리즘)]]></title>
@@ -484,6 +494,7 @@
             <guid>https://www.bookjournalism.com/books/60060</guid>
             <pubDate>Sun, 05 Mar 2023 15:21:20 GMT</pubDate>
             <content:encoded><![CDATA[연기금과 ESG 투자]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/517814/w/646/e230303.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[하이난은 ‘제2의 홍콩’을 꿈꾼다. 스마트시티의 옥석이 가려진다. (북저널리즘)]]></title>
@@ -491,6 +502,7 @@
             <guid>https://www.bookjournalism.com/books/60043</guid>
             <pubDate>Thu, 02 Mar 2023 15:25:00 GMT</pubDate>
             <content:encoded><![CDATA[시진핑의 스마트시티, 하이난]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/517387/w/646/e2303027.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
