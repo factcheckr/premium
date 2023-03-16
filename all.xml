@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 14:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 15:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,11 +326,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[조향사 조 말론 : 부엌에서 만든 ‘상류층의 향’으로, 향수의 문법을 바꾸다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/619</link>
-            <guid>https://www.longblack.co/note/619</guid>
-            <pubDate>Wed, 15 Mar 2023 15:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전 재밌는 향수를 선물 받았어요. 조 러브스Jo Loves의 붓으로 바르는 향수! 18ml 용량의 얇고 긴 향수병을 손에 쥐고, 아래쪽을 펌핑해요. 그럼 반<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[아워플래닛 : 인왕산 자락의 미식 클래스, 지속가능한 식탁을 말하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/613</link>
+            <guid>https://www.longblack.co/note/613</guid>
+            <pubDate>Thu, 16 Mar 2023 15:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;한국인이 2022년 한 해 동안 구글에서 가장 많이 검색한 키워드가 무엇이었는지 아시나요? 기후변화였어요. 저도 환경 이슈에 관심이 많아요. 하지만 일상에서 환경<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -415,6 +415,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60445</link>
+            <guid>https://www.bookjournalism.com/books/60445</guid>
+            <pubDate>Thu, 16 Mar 2023 15:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[한일 정상회담과 일본의 속내]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/521958/w/646/%EB%8C%80%EC%A7%80%201-1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국에서는 주 69시간 근로 제도가, 미국에서는 미성년자의 노동 규제 완화가 논의된다. (북저널리즘)]]></title>
@@ -503,14 +511,6 @@
             <pubDate>Mon, 06 Mar 2023 15:25:04 GMT</pubDate>
             <content:encoded><![CDATA[일제 강제징용 피해자 배상안은 반쪽짜리인가]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/518527/w/646/e2303072.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의 돈을 수익성이 확실치 않은 곳에 투자하는 것이 정당한가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60060</link>
-            <guid>https://www.bookjournalism.com/books/60060</guid>
-            <pubDate>Sun, 05 Mar 2023 15:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[연기금과 ESG 투자]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/517814/w/646/e230303.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

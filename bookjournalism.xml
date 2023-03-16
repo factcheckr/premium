@@ -4,9 +4,16 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 14:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 15:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://www.bookjournalism.com/books/60445</link>
+            <guid>https://www.bookjournalism.com/books/60445</guid>
+            <pubDate>Thu, 16 Mar 2023 15:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[한일 정상회담과 일본의 속내]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/521958/w/646/%EB%8C%80%EC%A7%80%201-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국에서는 주 69시간 근로 제도가, 미국에서는 미성년자의 노동 규제 완화가 논의된다.]]></title>
             <link>https://www.bookjournalism.com/books/60415</link>
@@ -94,14 +101,6 @@
             <pubDate>Mon, 06 Mar 2023 22:22:21 GMT</pubDate>
             <content:encoded><![CDATA[일제 강제징용 피해자 배상안은 반쪽짜리인가]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/518527/w/646/e2303072.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의 돈을 수익성이 확실치 않은 곳에 투자하는 것이 정당한가?]]></title>
-            <link>https://www.bookjournalism.com/books/60060</link>
-            <guid>https://www.bookjournalism.com/books/60060</guid>
-            <pubDate>Mon, 06 Mar 2023 22:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[연기금과 ESG 투자]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/517814/w/646/e230303.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
