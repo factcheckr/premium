@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 07:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 08:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OS, TES, FFS 3가지 시트로 정리하는 팀장의 인사평가서 작성법 (퍼블리)]]></title>
+            <link>https://publy.co/content/7159?fr=category</link>
+            <guid>https://publy.co/content/7159?fr=category</guid>
+            <pubDate>Thu, 16 Mar 2023 08:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[칼퇴를 책임질 앱 서비스 제안서 PPT 템플릿 (퍼블리)]]></title>
             <link>https://publy.co/content/7162?fr=category</link>
@@ -57,7 +64,7 @@
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[누구든 할 수 있다! ChatGPT로 업무 시간을 반으로 줄이는 법 (퍼블리)]]></title>
+            <title><![CDATA[ChatGPT 활용법: 누구든 할 수 있다! ChatGPT로 업무 시간을 반으로 줄이는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/7158?fr=category</link>
             <guid>https://publy.co/content/7158?fr=category</guid>
             <pubDate>Wed, 08 Mar 2023 08:27:33 GMT</pubDate>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7157?fr=category</guid>
             <pubDate>Mon, 06 Mar 2023 09:22:07 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고객의 지갑이 열리는 카피 100개 모음 (feat. 뷰티 브랜드) (퍼블리)]]></title>
-            <link>https://publy.co/content/7137?fr=category</link>
-            <guid>https://publy.co/content/7137?fr=category</guid>
-            <pubDate>Thu, 02 Mar 2023 07:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 삼각지 랜드마크 ‘테디뵈르하우스’ 기획자는 어디서 영감을 얻을까? (캐릿)]]></title>
@@ -326,7 +326,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[조 말론 : 부엌에서 만든 ‘상류층의 향’으로, 향수의 문법을 바꾸다 (롱블랙)]]></title>
+            <title><![CDATA[조향사 조 말론 : 부엌에서 만든 ‘상류층의 향’으로, 향수의 문법을 바꾸다 (롱블랙)]]></title>
             <link>https://www.longblack.co/note/619</link>
             <guid>https://www.longblack.co/note/619</guid>
             <pubDate>Wed, 15 Mar 2023 15:22:29 GMT</pubDate>
