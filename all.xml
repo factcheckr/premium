@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 15:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 16:33:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -417,12 +417,12 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (북저널리즘)]]></title>
+            <title><![CDATA[이번 정상회담은 한일 관계의 새로운 장을 열 것이다. 일본 정부는 어떤 욕심을 가지고 있을까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60445</link>
             <guid>https://www.bookjournalism.com/books/60445</guid>
             <pubDate>Thu, 16 Mar 2023 15:24:02 GMT</pubDate>
             <content:encoded><![CDATA[한일 정상회담과 일본의 속내]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/521958/w/646/%EB%8C%80%EC%A7%80%201-1.png" length="0" type="image/png"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522067/w/646/%EB%8C%80%EC%A7%80%201-1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국에서는 주 69시간 근로 제도가, 미국에서는 미성년자의 노동 규제 완화가 논의된다. (북저널리즘)]]></title>
