@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 14:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 15:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,11 +334,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아워플래닛 : 인왕산 자락의 미식 클래스, 지속가능한 식탁을 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/613</link>
-            <guid>https://www.longblack.co/note/613</guid>
-            <pubDate>Thu, 16 Mar 2023 15:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;한국인이 2022년 한 해 동안 구글에서 가장 많이 검색한 키워드가 무엇이었는지 아시나요? 기후변화였어요. 저도 환경 이슈에 관심이 많아요. 하지만 일상에서 환경<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[예민함이 너의 무기다 : 타고난 예민함을 탁월함으로 바꾸는 법 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/614</link>
+            <guid>https://www.longblack.co/note/614</guid>
+            <pubDate>Fri, 17 Mar 2023 15:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;오랜만에 친구를 만났습니다. 승진도 빠르고 연봉도 높고, 승승장구하는 친구예요. 그런데 속으론 스트레스를 많이 받고 있다고 하더군요. 아무리 성과가 좋아도 마음이<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
