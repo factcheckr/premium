@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 05:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 06:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ChatGPT로 원하는 결과 얻는 프롬프트(명령어) 세팅법 (템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7146?fr=category</link>
+            <guid>https://publy.co/content/7146?fr=category</guid>
+            <pubDate>Fri, 17 Mar 2023 06:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[슬슬 일본이나 가볼까? 영감을 주는 도쿄 핫플 5곳 (퍼블리)]]></title>
+            <link>https://publy.co/content/7171?fr=category</link>
+            <guid>https://publy.co/content/7171?fr=category</guid>
+            <pubDate>Fri, 17 Mar 2023 06:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[OS, TES, FFS 3가지 시트로 정리하는 팀장의 인사평가서 작성법 (퍼블리)]]></title>
             <link>https://publy.co/content/7159?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/7149?fr=category</guid>
             <pubDate>Thu, 09 Mar 2023 08:28:02 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ChatGPT 활용법: 누구든 할 수 있다! ChatGPT로 업무 시간을 반으로 줄이는 법 (퍼블리)]]></title>
-            <link>https://publy.co/content/7158?fr=category</link>
-            <guid>https://publy.co/content/7158?fr=category</guid>
-            <pubDate>Wed, 08 Mar 2023 08:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 6분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AI 상식사전: 전공은 아니지만 꼭 알아야 할 이야기 (퍼블리)]]></title>
-            <link>https://publy.co/content/7157?fr=category</link>
-            <guid>https://publy.co/content/7157?fr=category</guid>
-            <pubDate>Mon, 06 Mar 2023 09:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[품절은 기본, 판매 사이트까지 다운시킨 이주의 Z세대 유행템 4 (캐릿)]]></title>
