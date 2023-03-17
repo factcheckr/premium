@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 23:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 01:40:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7157?fr=category</guid>
             <pubDate>Mon, 06 Mar 2023 09:22:07 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[품절은 기본, 판매 사이트까지 다운시킨 이주의 Z세대 유행템 4 (캐릿)]]></title>
+            <link>https://www.careet.net/1044</link>
+            <guid>https://www.careet.net/1044</guid>
+            <pubDate>Fri, 17 Mar 2023 01:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[양파 쿵야 팝업부터 산리오 체크카드까지. 주목할만한 유행템 알려드립니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/df2b519a-83c8-4467-8d8a-4b3f03189b7b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 삼각지 랜드마크 ‘테디뵈르하우스’ 기획자는 어디서 영감을 얻을까? (캐릿)]]></title>
