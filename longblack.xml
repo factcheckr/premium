@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-03-19T14:18:32.995Z</updated>
+    <updated>2023-03-19T15:20:44.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-03-18T15:21:08.581Z</updated>
-        <content type="html"><![CDATA[B가 주목한 지난주 롱블랙의 문장
-
-“제가 좋다고 생각한 건 일반적이지 않아도, 어딘가에 분명히 좋아하는 분이 계실 거라 생각합니다. 좋아하는 걸 성실하게 보여주면, 접점을 가진 분이 찾아주실 거예요. 외면하지 않으실 것을 압니다. 비주류가 주류로 바뀌는 날이 분명<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[JYP : 엔터 경영권 분쟁 속 조용한 강자, 경쟁력을 분석하다]]></title>
+        <id>https://www.longblack.co/note/620</id>
+        <link href="https://www.longblack.co/note/620"/>
+        <updated>2023-03-19T15:19:45.781Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;올 초를 뜨겁게 달군 ‘SM 인수전’이 일단락 됐어. 그 와중에 흥미로운 기사를 봤지. 외국인 투자자들이 JYP엔터테인먼트(이하 JYP) 주식을 쓸어담고 있대. <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
