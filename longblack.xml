@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-03-19T03:23:23.990Z</updated>
+    <updated>2023-03-19T04:25:52.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.longblack.co/weekend</id>
         <link href="https://www.longblack.co/weekend"/>
         <updated>2023-03-18T15:21:08.581Z</updated>
-        <content type="html"><![CDATA[C이 주목한 지난주 롱블랙의 문장
+        <content type="html"><![CDATA[B가 주목한 지난주 롱블랙의 문장
 
 “제가 좋다고 생각한 건 일반적이지 않아도, 어딘가에 분명히 좋아하는 분이 계실 거라 생각합니다. 좋아하는 걸 성실하게 보여주면, 접점을 가진 분이 찾아주실 거예요. 외면하지 않으실 것을 압니다. 비주류가 주류로 바뀌는 날이 분명<span class="circle-punctuation"></span>]]></content>
     </entry>

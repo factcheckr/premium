@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 03:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 04:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,7 +338,7 @@
             <link>https://www.longblack.co/weekend</link>
             <guid>https://www.longblack.co/weekend</guid>
             <pubDate>Sat, 18 Mar 2023 15:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[C이 주목한 지난주 롱블랙의 문장
+            <content:encoded><![CDATA[B가 주목한 지난주 롱블랙의 문장
 
 “제가 좋다고 생각한 건 일반적이지 않아도, 어딘가에 분명히 좋아하는 분이 계실 거라 생각합니다. 좋아하는 걸 성실하게 보여주면, 접점을 가진 분이 찾아주실 거예요. 외면하지 않으실 것을 압니다. 비주류가 주류로 바뀌는 날이 분명<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
