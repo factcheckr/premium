@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 23:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 01:44:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7149?fr=category</guid>
             <pubDate>Thu, 09 Mar 2023 08:28:02 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[N주년 이벤트 어차피 해야 한다면 이렇게! 기념일 마케팅으로 화제되는 법 (캐릿)]]></title>
+            <link>https://www.careet.net/1045</link>
+            <guid>https://www.careet.net/1045</guid>
+            <pubDate>Mon, 20 Mar 2023 01:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[이 주의 일 잘한 브랜드: 이마트&amp;마리끌레르]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/43b8abae-66f4-4d5f-a7fd-6818ee2baa70_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[품절은 기본, 판매 사이트까지 다운시킨 이주의 Z세대 유행템 4 (캐릿)]]></title>
@@ -433,6 +441,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522543/w/646/e230320.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522547/w/646/note1.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[북저널리즘 위크엔드, 첫 번째 에피소드에서는 반도체 클러스터 조성, 계란 가격에 얽힌 문제, GPT-4와 인공지능의 법적 지위에 관해 이야기합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/60487</link>
             <guid>https://www.bookjournalism.com/audio/60487</guid>
@@ -447,14 +463,6 @@
             <pubDate>Thu, 16 Mar 2023 15:24:02 GMT</pubDate>
             <content:encoded><![CDATA[한일 정상회담과 일본의 속내]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522067/w/646/%EB%8C%80%EC%A7%80%201-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522148/w/646/note1.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[한국에서는 주 69시간 근로 제도가, 미국에서는 미성년자의 노동 규제 완화가 논의된다. (북저널리즘)]]></title>
