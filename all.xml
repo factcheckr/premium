@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 17:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 18:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,6 +433,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[지금까지 우리는 정치적 효능감을 도둑맞아왔다. 다음번엔 안된다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60569</link>
+            <guid>https://www.bookjournalism.com/books/60569</guid>
+            <pubDate>Mon, 20 Mar 2023 18:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[1등이 아니어도 이기는 방법]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522754/w/646/e230321.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[이란과 사우디가 국교 정상화에 합의했다. 다극화 시대의 레퍼런스다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60524</link>
             <guid>https://www.bookjournalism.com/books/60524</guid>
@@ -519,14 +527,6 @@
             <pubDate>Wed, 08 Mar 2023 15:24:15 GMT</pubDate>
             <content:encoded><![CDATA[3D 프린팅과 생산 혁명]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/518361/w/646/e230309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시민들은 국가 붕괴의 날을 선언했다. 정치에 붙은 불은 이제 경제로도 번지고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60052</link>
-            <guid>https://www.bookjournalism.com/books/60052</guid>
-            <pubDate>Wed, 08 Mar 2023 08:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[이스라엘이 분노하다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/518092/w/646/eb230307_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
