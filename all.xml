@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 21:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 22:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -441,12 +441,12 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유엔 세계행복보고서가 발간됐다. 우리나라는 관용(Generosity) 수준이 몹시 낮다. (북저널리즘)]]></title>
+            <title><![CDATA[유엔 세계행복보고서가 발간됐다. 우리나라는 관용 수준이 몹시 낮다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60615</link>
             <guid>https://www.bookjournalism.com/books/60615</guid>
             <pubDate>Tue, 21 Mar 2023 15:19:17 GMT</pubDate>
             <content:encoded><![CDATA[우리나라가 행복하지 않은 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523345/w/646/e230322.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523526/w/646/e230322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금까지 우리는 정치적 효능감을 도둑맞아왔다. 다음번엔 안 된다. (북저널리즘)]]></title>
