@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 14:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 15:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,11 +350,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아크테릭스 : 35년차 등산복 브랜드가 힙스터들의 교복이 된 이유 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/625</link>
-            <guid>https://www.longblack.co/note/625</guid>
-            <pubDate>Mon, 20 Mar 2023 15:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;요즘 거리에서 이 브랜드의 바람막이가 유독 눈에 띄어요. 특히 제 또래 남자들이 즐겨 입죠. 바로 아크테릭스Arc'teryx. ‘이재용 패딩’으로 유명한 그 브랜<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[섬세이 : 바디드라이어 브랜드, 도심 속 정원으로 와우 포인트를 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/623</link>
+            <guid>https://www.longblack.co/note/623</guid>
+            <pubDate>Tue, 21 Mar 2023 15:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;친구랑 요즘 인기라는 전시를 보러 서울숲에 갔어요. 전시 이름은 ‘섬세이 테라리움’. 서걱거리는 모래 위를 맨발로 밟고, 우거진 갈대숲에서 살랑거리는 바람을 맞았<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -439,6 +439,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유엔 세계행복보고서가 발간됐다. 우리나라는 관용(Generosity) 수준이 몹시 낮다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60615</link>
+            <guid>https://www.bookjournalism.com/books/60615</guid>
+            <pubDate>Tue, 21 Mar 2023 15:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라가 행복하지 않은 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523345/w/646/e230322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금까지 우리는 정치적 효능감을 도둑맞아왔다. 다음번엔 안 된다. (북저널리즘)]]></title>
@@ -527,14 +535,6 @@
             <pubDate>Thu, 09 Mar 2023 15:25:40 GMT</pubDate>
             <content:encoded><![CDATA[실버게이트 사태로 보는 암호화폐의 미래]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/519245/w/646/e2303101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도면만 있으면 누구나 생산자가 되는 시대가 올까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60141</link>
-            <guid>https://www.bookjournalism.com/books/60141</guid>
-            <pubDate>Wed, 08 Mar 2023 15:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[3D 프린팅과 생산 혁명]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/518361/w/646/e230309.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
