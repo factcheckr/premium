@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-03-21T07:20:07.624Z</updated>
+    <updated>2023-03-21T08:26:12.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[콘텐츠 마케터의 프로젝트/디자인 기획안 작성 노하우(워드, PPT 템플릿 제공)]]></title>
+        <id>https://publy.co/content/7161?fr=category</id>
+        <link href="https://publy.co/content/7161?fr=category"/>
+        <updated>2023-03-21T08:24:56.835Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디테일의 발견 1편: 고객을 배려하는 한 끗]]></title>
+        <id>https://publy.co/content/7163?fr=category</id>
+        <link href="https://publy.co/content/7163?fr=category"/>
+        <updated>2023-03-21T08:24:56.838Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<슬램덩크> 벤치마킹: 팀원들의 잠재력을 이끌어내고픈 팀장을 위한 포인트 5]]></title>
         <id>https://publy.co/content/7160?fr=category</id>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/7155?fr=category"/>
         <updated>2023-03-14T08:29:25.714Z</updated>
         <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 스프레드 시트 대시보드 작성법(실습 파일 제공)]]></title>
-        <id>https://publy.co/content/7156?fr=category</id>
-        <link href="https://publy.co/content/7156?fr=category"/>
-        <updated>2023-03-13T07:18:52.927Z</updated>
-        <content type="html"><![CDATA[아티클 · 6분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 찾아온 번아웃, 회복을 위한 처방전]]></title>
-        <id>https://publy.co/content/7154?fr=category</id>
-        <link href="https://publy.co/content/7154?fr=category"/>
-        <updated>2023-03-10T07:27:36.996Z</updated>
-        <content type="html"><![CDATA[아티클 · 2분 분량]]></content>
     </entry>
 </feed>

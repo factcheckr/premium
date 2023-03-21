@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 07:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 08:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘텐츠 마케터의 프로젝트/디자인 기획안 작성 노하우(워드, PPT 템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7161?fr=category</link>
+            <guid>https://publy.co/content/7161?fr=category</guid>
+            <pubDate>Tue, 21 Mar 2023 08:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디테일의 발견 1편: 고객을 배려하는 한 끗 (퍼블리)]]></title>
+            <link>https://publy.co/content/7163?fr=category</link>
+            <guid>https://publy.co/content/7163?fr=category</guid>
+            <pubDate>Tue, 21 Mar 2023 08:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[<슬램덩크> 벤치마킹: 팀원들의 잠재력을 이끌어내고픈 팀장을 위한 포인트 5 (퍼블리)]]></title>
             <link>https://publy.co/content/7160?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/7155?fr=category</guid>
             <pubDate>Tue, 14 Mar 2023 08:29:25 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구글 스프레드 시트 대시보드 작성법(실습 파일 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7156?fr=category</link>
-            <guid>https://publy.co/content/7156?fr=category</guid>
-            <pubDate>Mon, 13 Mar 2023 07:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 6분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[또 찾아온 번아웃, 회복을 위한 처방전 (퍼블리)]]></title>
-            <link>https://publy.co/content/7154?fr=category</link>
-            <guid>https://publy.co/content/7154?fr=category</guid>
-            <pubDate>Fri, 10 Mar 2023 07:27:36 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대 37.4%는 직접 숏폼 영상을 찍어본 경험이 있다고? (캐릿)]]></title>
