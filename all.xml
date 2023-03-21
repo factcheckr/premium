@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 23:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 01:30:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,6 +100,14 @@
             <pubDate>Thu, 16 Mar 2023 01:41:06 GMT</pubDate>
             <content:encoded><![CDATA[인플루언서 기획자에게 듣는 셀프 브랜딩 노하우까지!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/a0bcaad6-a31a-425f-b45e-77d36c03a271_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대 37.4%는 직접 숏폼 영상을 찍어본 경험이 있다고? (캐릿)]]></title>
+            <link>https://www.careet.net/1039</link>
+            <guid>https://www.careet.net/1039</guid>
+            <pubDate>Tue, 21 Mar 2023 01:29:54 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 280명을 대상으로 진행한 숏폼 이용 관련 미니 서베이!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/0af27cf2-2595-4a56-9fa3-45ecceea8f49_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[메신저에 답장하지 않고 ‘좋아요’만 누르는 후배의 심리는? (캐릿)]]></title>
@@ -433,12 +441,12 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지금까지 우리는 정치적 효능감을 도둑맞아왔다. 다음번엔 안된다. (북저널리즘)]]></title>
+            <title><![CDATA[지금까지 우리는 정치적 효능감을 도둑맞아왔다. 다음번엔 안 된다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60569</link>
             <guid>https://www.bookjournalism.com/books/60569</guid>
             <pubDate>Mon, 20 Mar 2023 18:27:24 GMT</pubDate>
             <content:encoded><![CDATA[1등만 이기는 선거 제도]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522838/w/646/e230321.png" length="0" type="image/png"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522842/w/646/e230321.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이란과 사우디가 국교 정상화에 합의했다. 다극화 시대의 레퍼런스다. (북저널리즘)]]></title>
