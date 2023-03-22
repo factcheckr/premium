@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 01:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 02:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEW 굿즈 트렌드! 부적 사려고 2시간 웨이팅하는 Z세대 근황]]></title>
+            <link>https://www.careet.net/1049</link>
+            <guid>https://www.careet.net/1049</guid>
+            <pubDate>Wed, 22 Mar 2023 02:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대에게 화제된 부적 굿즈를 모았습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/00053171-cac2-4d34-8939-d1f89469fdc0_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 37.4%는 직접 숏폼 영상을 찍어본 경험이 있다고?]]></title>
             <link>https://www.careet.net/1039</link>
