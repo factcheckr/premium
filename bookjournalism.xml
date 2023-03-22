@@ -4,16 +4,16 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 03:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 04:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[유엔 세계행복보고서가 발간됐다. 우리나라는 관용 수준이 몹시 낮다.]]></title>
+            <title><![CDATA[유엔 세계행복보고서가 발간됐다. 우리나라는 관용 수준이 낮다.]]></title>
             <link>https://www.bookjournalism.com/books/60615</link>
             <guid>https://www.bookjournalism.com/books/60615</guid>
             <pubDate>Tue, 21 Mar 2023 15:19:17 GMT</pubDate>
             <content:encoded><![CDATA[우리나라가 행복하지 않은 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523526/w/646/e230322.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523647/w/646/e230322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
@@ -64,6 +64,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/521431/w/646/e2303162.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[공상과학 출판사 한 곳이 AI 소설 러쉬로 마비되었다. 내 서가에도 AI 작가의 책이 있을지 모른다.]]></title>
+            <link>https://www.bookjournalism.com/books/60246</link>
+            <guid>https://www.bookjournalism.com/books/60246</guid>
+            <pubDate>Wed, 22 Mar 2023 04:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[도구 없는 작가의 탄생]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523625/w/646/230315.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제주 대표 축제가 멈췄다. 기후 재난의 고리를 만드는 산불 때문이다.]]></title>
             <link>https://www.bookjournalism.com/books/60321</link>
             <guid>https://www.bookjournalism.com/books/60321</guid>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 Mar 2023 15:25:40 GMT</pubDate>
             <content:encoded><![CDATA[실버게이트 사태로 보는 암호화폐의 미래]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/519245/w/646/e2303101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도면만 있으면 누구나 생산자가 되는 시대가 올까.]]></title>
-            <link>https://www.bookjournalism.com/books/60141</link>
-            <guid>https://www.bookjournalism.com/books/60141</guid>
-            <pubDate>Wed, 22 Mar 2023 03:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[3D 프린팅과 생산 혁명]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/518361/w/646/e230309.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
