@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-03-22T06:26:15.869Z</updated>
+    <updated>2023-03-22T07:20:09.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[MZ가 주목하는 19가지 브랜드 인스타그램 부계정 뜯어보기]]></title>
+        <id>https://publy.co/content/7126?fr=category</id>
+        <link href="https://publy.co/content/7126?fr=category"/>
+        <updated>2023-03-22T07:17:51.774Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콘텐츠 마케터의 프로젝트/디자인 기획안 작성 노하우(워드, PPT 템플릿 제공)]]></title>
         <id>https://publy.co/content/7161?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7150?fr=category"/>
         <updated>2023-03-14T08:29:25.712Z</updated>
         <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리더의 3가지 오해: 팀장이 되면 회사생활이 조금은 달라질 줄 알았다]]></title>
-        <id>https://publy.co/content/7155?fr=category</id>
-        <link href="https://publy.co/content/7155?fr=category"/>
-        <updated>2023-03-14T08:29:25.714Z</updated>
-        <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
     </entry>
 </feed>

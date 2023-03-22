@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 06:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 07:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ가 주목하는 19가지 브랜드 인스타그램 부계정 뜯어보기 (퍼블리)]]></title>
+            <link>https://publy.co/content/7126?fr=category</link>
+            <guid>https://publy.co/content/7126?fr=category</guid>
+            <pubDate>Wed, 22 Mar 2023 07:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[콘텐츠 마케터의 프로젝트/디자인 기획안 작성 노하우(워드, PPT 템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/7161?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7150?fr=category</guid>
             <pubDate>Tue, 14 Mar 2023 08:29:25 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리더의 3가지 오해: 팀장이 되면 회사생활이 조금은 달라질 줄 알았다 (퍼블리)]]></title>
-            <link>https://publy.co/content/7155?fr=category</link>
-            <guid>https://publy.co/content/7155?fr=category</guid>
-            <pubDate>Tue, 14 Mar 2023 08:29:25 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NEW 굿즈 트렌드! 부적 사려고 2시간 웨이팅하는 Z세대 근황 (캐릿)]]></title>
@@ -494,7 +494,7 @@
             <guid>https://www.bookjournalism.com/books/60445</guid>
             <pubDate>Thu, 16 Mar 2023 15:24:02 GMT</pubDate>
             <content:encoded><![CDATA[한일 정상회담과 일본의 속내]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522067/w/646/%EB%8C%80%EC%A7%80%201-1.png" length="0" type="image/png"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523867/w/646/e230317.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국에서는 주 69시간 근로 제도가, 미국에서는 미성년자의 노동 규제 완화가 논의된다. (북저널리즘)]]></title>
