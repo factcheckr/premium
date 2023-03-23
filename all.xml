@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 19:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 20:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -457,6 +457,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오세훈 서울시장의 그레이트 한강 프로젝트가 화제다. 누구를 위한 것인지 물어야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60720</link>
+            <guid>https://www.bookjournalism.com/books/60720</guid>
+            <pubDate>Thu, 23 Mar 2023 20:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[서울링과 세빛섬의 공통점]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524072/w/646/e230324.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[간편한 도구를 넘어서는 인공지능이 출현하기 위해서는 데이터의 제도적, 기술적 빗장이 열려야 한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60596</link>
             <guid>https://www.bookjournalism.com/books/60596</guid>
@@ -543,14 +551,6 @@
             <pubDate>Tue, 14 Mar 2023 15:28:13 GMT</pubDate>
             <content:encoded><![CDATA[산불이 만드는 악의 고리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/521031/w/646/e230315.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금리가 올라도 은행이 망할 수 있다. 채권 때문이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60250</link>
-            <guid>https://www.bookjournalism.com/books/60250</guid>
-            <pubDate>Mon, 13 Mar 2023 15:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[실리콘밸리은행이 파산한 진짜 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/520267/w/646/e230314.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
