@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 07:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 08:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기획자의 생각 정리법: 기획력을 키우는 한 끗(노션 템플릿 2종 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7177?fr=category</link>
+            <guid>https://publy.co/content/7177?fr=category</guid>
+            <pubDate>Thu, 23 Mar 2023 08:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[MZ가 주목하는 19가지 브랜드 인스타그램 부계정 뜯어보기 (퍼블리)]]></title>
             <link>https://publy.co/content/7126?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7169?fr=category</guid>
             <pubDate>Wed, 15 Mar 2023 08:26:19 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아직도 감으로 하고 있다면? 데이터 드리븐 상세페이지 작성 노하우 (퍼블리)]]></title>
-            <link>https://publy.co/content/7150?fr=category</link>
-            <guid>https://publy.co/content/7150?fr=category</guid>
-            <pubDate>Tue, 14 Mar 2023 08:29:25 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대에 대한 오해와 편견, 캐릿 1020 자문단이 해명합니다 (캐릿)]]></title>
