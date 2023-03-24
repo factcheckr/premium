@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 14:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 15:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,11 +374,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[내셔널데이캘린더 : 가짜 기념일을 모아, 25만 명이 따르는 달력이 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/622</link>
-            <guid>https://www.longblack.co/note/622</guid>
-            <pubDate>Thu, 23 Mar 2023 15:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;3월24일, 오늘이 ‘칵테일의 날National Cocktail Day’인 것 아셨나요? 이틀 전에는 ‘빈둥거리는 날National Goof Off Day’이었어<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[처칠의 검은 개 카프카의 쥐 : 그들도 약점투성이 인간이었다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/631</link>
+            <guid>https://www.longblack.co/note/631</guid>
+            <pubDate>Fri, 24 Mar 2023 15:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;약점이 없는 사람이 있을까요? 아마 없을 겁니다. 그래도 가끔 불안해요. 제가 남들보다 약점이 많은 건 아닐까 하고요. 뒤처지지는 않을까 하는 걱정도 들죠. &nbsp;&nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
