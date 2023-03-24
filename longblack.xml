@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-03-23T23:21:55.439Z</updated>
+    <updated>2023-03-24T01:36:00.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/622</id>
         <link href="https://www.longblack.co/note/622"/>
         <updated>2023-03-23T15:20:47.765Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C3월24일, 오늘이 ‘칵테일의 날National Cocktail Day’인 것 아셨나요? 이틀 전에는 ‘빈둥거리는 날National Goof Off Day’이었어요<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;3월24일, 오늘이 ‘칵테일의 날National Cocktail Day’인 것 아셨나요? 이틀 전에는 ‘빈둥거리는 날National Goof Off Day’이었어<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

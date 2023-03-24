@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 23:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 01:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524072/w/646/e230324.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Mon, 06 Mar 2023 22:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524257/w/646/note1.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[간편한 도구를 넘어서는 인공지능이 출현하기 위해서는 데이터의 제도적, 기술적 빗장이 열려야 한다.]]></title>
             <link>https://www.bookjournalism.com/books/60596</link>
             <guid>https://www.bookjournalism.com/books/60596</guid>
             <pubDate>Wed, 22 Mar 2023 15:23:18 GMT</pubDate>
             <content:encoded><![CDATA[챗GPT는 암 치료제를 개발할 수 있을까?]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523795/w/646/e230323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Mon, 06 Mar 2023 22:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523598/w/646/note1.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[아카데미 수상작은 최고의 영화일까. 그런 기대는 필패를 불러올 것이다.]]></title>
