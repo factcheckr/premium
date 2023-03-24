@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 06:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 07:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일잘러가 되는 생산성 UP 노하우 모음 (퍼블리)]]></title>
+            <link>https://publy.co/content/7180?fr=category</link>
+            <guid>https://publy.co/content/7180?fr=category</guid>
+            <pubDate>Fri, 24 Mar 2023 07:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디테일의 발견 2편: 고객의 문제를 해결해주는 한 끗 (퍼블리)]]></title>
+            <link>https://publy.co/content/7164?fr=category</link>
+            <guid>https://publy.co/content/7164?fr=category</guid>
+            <pubDate>Fri, 24 Mar 2023 07:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[기획자의 생각 정리법: 기획력을 키우는 한 끗(노션 템플릿 2종 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/7177?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/7159?fr=category</guid>
             <pubDate>Thu, 16 Mar 2023 08:26:57 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[칼퇴를 책임질 앱 서비스 제안서 PPT 템플릿 (퍼블리)]]></title>
-            <link>https://publy.co/content/7162?fr=category</link>
-            <guid>https://publy.co/content/7162?fr=category</guid>
-            <pubDate>Wed, 15 Mar 2023 08:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 6분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내] 퍼블리 앱  설치하고 앱 전용 콘텐츠 읽어보세요! (퍼블리)]]></title>
-            <link>https://publy.co/content/7169?fr=category</link>
-            <guid>https://publy.co/content/7169?fr=category</guid>
-            <pubDate>Wed, 15 Mar 2023 08:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이주의 유행템 4] 현 시각 한남동에서 가장 핫한 랜드마크는? (캐릿)]]></title>
