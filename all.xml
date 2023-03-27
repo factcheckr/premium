@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 23:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 01:35:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7159?fr=category</guid>
             <pubDate>Thu, 16 Mar 2023 08:26:57 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 밈 7개 속성 과외! 퀴즈 풀면서 재미있게 유행어 공부하기 (캐릿)]]></title>
+            <link>https://www.careet.net/1048</link>
+            <guid>https://www.careet.net/1048</guid>
+            <pubDate>Mon, 27 Mar 2023 01:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[캐릿 구독자가 내 오쏘몰이다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/df65ed4e-9f93-461e-be25-cab7d2ff265f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[이주의 유행템 4] 현 시각 한남동에서 가장 핫한 랜드마크는? (캐릿)]]></title>
@@ -473,6 +481,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524799/w/646/e2303271.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524940/w/646/note1.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[북저널리즘 위크엔드, 두 번째 에피소드에서는 논란 속에 통과된 양곡관리법, 재개된 서커스와 동물 복지의 문제, 이노스페이스의 우주 진출에 관해 이야기합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/60751</link>
             <guid>https://www.bookjournalism.com/audio/60751</guid>
@@ -495,14 +511,6 @@
             <pubDate>Thu, 23 Mar 2023 20:21:46 GMT</pubDate>
             <content:encoded><![CDATA[서울링과 세빛섬의 공통점]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524072/w/646/e230324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524257/w/646/note1.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[간편한 도구를 넘어서는 인공지능이 출현하기 위해서는 데이터의 제도적, 기술적 빗장이 열려야 한다. (북저널리즘)]]></title>

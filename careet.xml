@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 23:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 01:35:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 밈 7개 속성 과외! 퀴즈 풀면서 재미있게 유행어 공부하기]]></title>
+            <link>https://www.careet.net/1048</link>
+            <guid>https://www.careet.net/1048</guid>
+            <pubDate>Mon, 27 Mar 2023 01:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[캐릿 구독자가 내 오쏘몰이다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/df65ed4e-9f93-461e-be25-cab7d2ff265f_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이주의 유행템 4] 현 시각 한남동에서 가장 핫한 랜드마크는?]]></title>
             <link>https://www.careet.net/1051</link>
