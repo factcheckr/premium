@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 14:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 15:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,11 +382,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[시리얼 : 어른이를 잡은 40조 시장, 3대 트렌드로 읽다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/626</link>
-            <guid>https://www.longblack.co/note/626</guid>
-            <pubDate>Sun, 26 Mar 2023 15:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;요즘 초코 과자가 든 시리얼이 인기더라. 아이보다 어른들이 더 찾아서 사 먹더라고. 문득 시리얼 시장이 궁금해졌어. 바로 글로벌 시장 규모부터 찾아봤지. 와우, <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[콘디토리오븐 : 월간 신상 구움과자로, 뾰족한 디저트의 시대를 내다보다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/629</link>
+            <guid>https://www.longblack.co/note/629</guid>
+            <pubDate>Mon, 27 Mar 2023 15:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 BK가 빌려간 책을 돌려주며 선물을 건넵니다. 금박 문양의 종이 뚜껑이 달린 길쭉한 오동나무 상자예요. 뚜껑을 여니 작은 까눌레가 조르르 담겨있더군요. 크기가 엄지 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -471,6 +471,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 대통령에 대한 MZ세대의 평가는 차갑다. 몇 가지 사건으로 설명할 수 있는 수치가 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60855</link>
+            <guid>https://www.bookjournalism.com/books/60855</guid>
+            <pubDate>Mon, 27 Mar 2023 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[대통령의 MZ 퍼포먼스가 불러올 여파]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525110/w/646/e230328.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[미국은 틱톡을 금지하고 싶어 한다. 이미 문화가 된 현상은 사라질 수 있을까. (북저널리즘)]]></title>
@@ -559,14 +567,6 @@
             <pubDate>Fri, 17 Mar 2023 08:26:42 GMT</pubDate>
             <content:encoded><![CDATA[3월 18일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522416/w/646/contents_thumb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 정상회담은 한일 관계의 새로운 장을 열 것이다. 일본 정부는 어떤 욕심을 가지고 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60445</link>
-            <guid>https://www.bookjournalism.com/books/60445</guid>
-            <pubDate>Thu, 16 Mar 2023 15:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[한일 정상회담과 일본의 속내]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524069/w/646/e230317.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

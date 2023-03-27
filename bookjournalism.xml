@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 14:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 15:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 대통령에 대한 MZ세대의 평가는 차갑다. 몇 가지 사건으로 설명할 수 있는 수치가 아니다.]]></title>
+            <link>https://www.bookjournalism.com/books/60855</link>
+            <guid>https://www.bookjournalism.com/books/60855</guid>
+            <pubDate>Mon, 27 Mar 2023 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[대통령의 MZ 퍼포먼스가 불러올 여파]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525110/w/646/e230328.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미국은 틱톡을 금지하고 싶어 한다. 이미 문화가 된 현상은 사라질 수 있을까.]]></title>
             <link>https://www.bookjournalism.com/books/60730</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 17 Mar 2023 08:26:42 GMT</pubDate>
             <content:encoded><![CDATA[3월 18일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522416/w/646/contents_thumb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 정상회담은 한일 관계의 새로운 장을 열 것이다. 일본 정부는 어떤 욕심을 가지고 있을까.]]></title>
-            <link>https://www.bookjournalism.com/books/60445</link>
-            <guid>https://www.bookjournalism.com/books/60445</guid>
-            <pubDate>Thu, 16 Mar 2023 15:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[한일 정상회담과 일본의 속내]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524069/w/646/e230317.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
