@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-03-27T07:20:41.380Z</updated>
+    <updated>2023-03-27T08:27:55.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[서비스 기획자의 문서 4종 템플릿 세트(WBS, 요구사항정의서 등)]]></title>
+        <id>https://publy.co/content/7184?fr=category</id>
+        <link href="https://publy.co/content/7184?fr=category"/>
+        <updated>2023-03-27T08:26:34.943Z</updated>
+        <content type="html"><![CDATA[아티클 · 5분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일잘러가 되는 생산성 UP 노하우 모음]]></title>
         <id>https://publy.co/content/7180?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7171?fr=category"/>
         <updated>2023-03-17T06:24:28.196Z</updated>
         <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OS, TES, FFS 3가지 시트로 정리하는 팀장의 인사평가서 작성법]]></title>
-        <id>https://publy.co/content/7159?fr=category</id>
-        <link href="https://publy.co/content/7159?fr=category"/>
-        <updated>2023-03-16T08:26:57.794Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
     </entry>
 </feed>

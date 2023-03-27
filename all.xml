@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 07:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 08:27:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서비스 기획자의 문서 4종 템플릿 세트(WBS, 요구사항정의서 등) (퍼블리)]]></title>
+            <link>https://publy.co/content/7184?fr=category</link>
+            <guid>https://publy.co/content/7184?fr=category</guid>
+            <pubDate>Mon, 27 Mar 2023 08:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 5분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[일잘러가 되는 생산성 UP 노하우 모음 (퍼블리)]]></title>
             <link>https://publy.co/content/7180?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7171?fr=category</guid>
             <pubDate>Fri, 17 Mar 2023 06:24:28 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[OS, TES, FFS 3가지 시트로 정리하는 팀장의 인사평가서 작성법 (퍼블리)]]></title>
-            <link>https://publy.co/content/7159?fr=category</link>
-            <guid>https://publy.co/content/7159?fr=category</guid>
-            <pubDate>Thu, 16 Mar 2023 08:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 밈 7개 속성 과외! 퀴즈 풀면서 재미있게 유행어 공부하기 (캐릿)]]></title>
@@ -486,7 +486,7 @@
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524940/w/646/note1.gif" length="0" type="image/gif"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525025/w/646/note1.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 두 번째 에피소드에서는 논란 속에 통과된 양곡관리법, 재개된 서커스와 동물 복지의 문제, 이노스페이스의 우주 진출에 관해 이야기합니다. (북저널리즘)]]></title>
