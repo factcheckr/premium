@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 14:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 15:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,11 +390,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[콘디토리오븐 : 월간 신상 구움과자로, 뾰족한 디저트의 시대를 내다보다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/629</link>
-            <guid>https://www.longblack.co/note/629</guid>
-            <pubDate>Mon, 27 Mar 2023 15:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;K가 빌려간 책을 돌려주며 선물을 건넵니다. 금박 문양의 종이 뚜껑이 달린 길쭉한 오동나무 상자예요. 뚜껑을 여니 작은 까눌레가 조르르 담겨있더군요. 크기가 엄지<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[알렉상드르 아르노 : LVMH의 차남, 티파니앤코와 리모와를 혁신하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/633</link>
+            <guid>https://www.longblack.co/note/633</guid>
+            <pubDate>Tue, 28 Mar 2023 15:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L지난주 유통업계가 떠들썩했어. 럭셔리 제국 LVMH의 수장, 베르나르 아르노Bernard Arnault 회장이 한국을 찾았거든. 2박 3일 동안 더현대 서울, 디올<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -479,6 +479,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡이 로켓 배송을 일반 판매자에게도 확장한다. 값을 치르는 것은 쿠팡이 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60949</link>
+            <guid>https://www.bookjournalism.com/books/60949</guid>
+            <pubDate>Tue, 28 Mar 2023 15:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[네이버를 이긴 쿠팡의 유통 전략]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525371/w/646/e230329.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[윤석열 대통령에 대한 MZ세대의 평가는 차갑다. 몇 가지 사건으로 설명할 수 있는 수치가 아니다. (북저널리즘)]]></title>
@@ -567,14 +575,6 @@
             <pubDate>Sun, 19 Mar 2023 20:22:19 GMT</pubDate>
             <content:encoded><![CDATA[사우디아라비아의 외교가 말하는 것]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522543/w/646/e230320.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 첫 번째 에피소드에서는 반도체 클러스터 조성, 계란 가격에 얽힌 문제, GPT-4와 인공지능의 법적 지위에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/60487</link>
-            <guid>https://www.bookjournalism.com/audio/60487</guid>
-            <pubDate>Fri, 17 Mar 2023 08:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[3월 18일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/522416/w/646/contents_thumb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
