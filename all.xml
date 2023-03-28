@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 23:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 01:40:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7171?fr=category</guid>
             <pubDate>Fri, 17 Mar 2023 06:24:28 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레퍼런스로 킵! 참고하기 좋은 영화 마케팅 사례 모음 (캐릿)]]></title>
+            <link>https://www.careet.net/1050</link>
+            <guid>https://www.careet.net/1050</guid>
+            <pubDate>Tue, 28 Mar 2023 01:38:55 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;스즈메의 문단속&gt;부터 &lt;소울메이트&gt;까지. Z세대 덕후 맘 좀 아는 영화 마케팅!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/6da6d69e-b579-438f-895f-cad617e13649_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[요즘 밈 7개 속성 과외! 퀴즈 풀면서 재미있게 유행어 공부하기 (캐릿)]]></title>
@@ -386,7 +394,7 @@
             <link>https://www.longblack.co/note/629</link>
             <guid>https://www.longblack.co/note/629</guid>
             <pubDate>Mon, 27 Mar 2023 15:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 BK가 빌려간 책을 돌려주며 선물을 건넵니다. 금박 문양의 종이 뚜껑이 달린 길쭉한 오동나무 상자예요. 뚜껑을 여니 작은 까눌레가 조르르 담겨있더군요. 크기가 엄지 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;K가 빌려간 책을 돌려주며 선물을 건넵니다. 금박 문양의 종이 뚜껑이 달린 길쭉한 오동나무 상자예요. 뚜껑을 여니 작은 까눌레가 조르르 담겨있더군요. 크기가 엄지<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -494,7 +502,7 @@
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525025/w/646/note1.gif" length="0" type="image/gif"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525138/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 두 번째 에피소드에서는 논란 속에 통과된 양곡관리법, 재개된 서커스와 동물 복지의 문제, 이노스페이스의 우주 진출에 관해 이야기합니다. (북저널리즘)]]></title>
