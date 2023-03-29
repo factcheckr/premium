@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 01:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 02:51:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -497,20 +497,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525371/w/646/e230329.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525485/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 대통령에 대한 MZ세대의 평가는 차갑다. 몇 가지 사건으로 설명할 수 있는 수치가 아니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60855</link>
             <guid>https://www.bookjournalism.com/books/60855</guid>
             <pubDate>Mon, 27 Mar 2023 15:23:30 GMT</pubDate>
             <content:encoded><![CDATA[대통령의 MZ 퍼포먼스가 불러올 여파]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525110/w/646/e230328.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525148/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[미국은 틱톡을 금지하고 싶어 한다. 이미 문화가 된 현상은 사라질 수 있을까. (북저널리즘)]]></title>
