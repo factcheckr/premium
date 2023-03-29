@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 06:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 07:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개발자와 한 번에 커뮤니케이션 하는 법 (feat. 설계서 작성 팁) (퍼블리)]]></title>
+            <link>https://publy.co/content/7173?fr=category</link>
+            <guid>https://publy.co/content/7173?fr=category</guid>
+            <pubDate>Wed, 29 Mar 2023 07:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[광고하지 않아도 줄 선다? 리브랜딩으로 재탄생한 월악산 유스호스텔 편 (퍼블리)]]></title>
             <link>https://publy.co/content/7167?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7161?fr=category</guid>
             <pubDate>Tue, 21 Mar 2023 08:24:56 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디테일의 발견 1편: 고객을 배려하는 한 끗 (퍼블리)]]></title>
-            <link>https://publy.co/content/7163?fr=category</link>
-            <guid>https://publy.co/content/7163?fr=category</guid>
-            <pubDate>Tue, 21 Mar 2023 08:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[F&B 담당자라면 주목! 요즘 MZ세대의 상차림은 이렇습니다. (캐릿)]]></title>
