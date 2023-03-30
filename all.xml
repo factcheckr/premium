@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 02:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 03:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -505,6 +505,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525739/w/646/e2303302.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/526698/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[머지않아 여성 우주 비행사가 달을 밟을 것이다. 인류에게는 50년 만이지만, 여성에게는 처음이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60835</link>
             <guid>https://www.bookjournalism.com/books/60835</guid>
@@ -519,14 +527,6 @@
             <pubDate>Tue, 28 Mar 2023 15:23:43 GMT</pubDate>
             <content:encoded><![CDATA[네이버를 이긴 쿠팡의 유통 전략]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525371/w/646/e230329.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525485/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[윤석열 대통령에 대한 MZ세대의 평가는 차갑다. 몇 가지 사건으로 설명할 수 있는 수치가 아니다. (북저널리즘)]]></title>
