@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 06:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 07:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ChatGPT 더 빠르고 쉽게 활용하려면? 구글스프레드시트 자동화 방법(템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7174?fr=category</link>
+            <guid>https://publy.co/content/7174?fr=category</guid>
+            <pubDate>Thu, 30 Mar 2023 07:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[팀원이 따라오게 만드는 업무 로드맵 설계법 (구글스프레드 시트 템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7166?fr=category</link>
+            <guid>https://publy.co/content/7166?fr=category</guid>
+            <pubDate>Thu, 30 Mar 2023 07:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[개발자와 한 번에 커뮤니케이션 하는 법 (feat. 설계서 작성 팁) (퍼블리)]]></title>
             <link>https://publy.co/content/7173?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/7177?fr=category</guid>
             <pubDate>Thu, 23 Mar 2023 08:24:56 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MZ가 주목하는 19가지 브랜드 인스타그램 부계정 뜯어보기 (퍼블리)]]></title>
-            <link>https://publy.co/content/7126?fr=category</link>
-            <guid>https://publy.co/content/7126?fr=category</guid>
-            <pubDate>Wed, 22 Mar 2023 07:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콘텐츠 마케터의 프로젝트/디자인 기획안 작성 노하우(워드, PPT 템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7161?fr=category</link>
-            <guid>https://publy.co/content/7161?fr=category</guid>
-            <pubDate>Tue, 21 Mar 2023 08:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이돌만큼 커진 프로게이머 팬덤! e스포츠 트렌드 5분 과외 (캐릿)]]></title>
