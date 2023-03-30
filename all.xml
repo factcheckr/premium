@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 14:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 15:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,11 +406,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/de2ca32c-3b59-483e-9947-c0054391a5a3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[핸드호스피탈리티: 소줏집과 돼지곰탕집으로 뉴요커를 줄 세운 기획의 비결 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/628</link>
-            <guid>https://www.longblack.co/note/628</guid>
-            <pubDate>Wed, 29 Mar 2023 18:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;뉴욕에서 활약하는 한식 셰프를 여럿 인터뷰했습니다. 그 때마다 언급되는 인물이 있었어요. 뉴욕 외식업계의 큰손이라 불리는 외식 브랜드 기획사 ‘핸드 호스피탈리티H<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[초크보이 : 무인양품·디즈니가 선택한 초크 아티스트, 창의성을 말하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/636</link>
+            <guid>https://www.longblack.co/note/636</guid>
+            <pubDate>Thu, 30 Mar 2023 15:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;성수동에서 흥미로운 전시를 하더라고요! 제목은 ‘초크보이와 WHW(What a Hand-Written World!)’*. 초크보이가 누구냐고요? 일본의 초크 아티<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -495,6 +495,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[초개인화 시대, 콘텐츠를 생산하고 소비하는 방식이 바뀌었다. 개개인의 메일함은 어느 때보다 효과적인 마케팅의 도착지다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60872</link>
+            <guid>https://www.bookjournalism.com/books/60872</guid>
+            <pubDate>Thu, 30 Mar 2023 15:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[내일의 뉴스레터]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/526759/w/646/89_newsletter.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멸종된 매머드의 DNA로 만들어진 미트볼이 공개되었다. 배양육은 인류에게 새로운 기회를 줄 것인가. (북저널리즘)]]></title>
@@ -583,14 +591,6 @@
             <pubDate>Wed, 22 Mar 2023 08:25:40 GMT</pubDate>
             <content:encoded><![CDATA[오스카는 너무 시끄럽다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523891/w/646/eb230322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유엔 세계행복보고서가 발간됐다. 우리나라는 관용 수준이 낮다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60615</link>
-            <guid>https://www.bookjournalism.com/books/60615</guid>
-            <pubDate>Tue, 21 Mar 2023 15:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라가 행복하지 않은 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523647/w/646/e230322.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
