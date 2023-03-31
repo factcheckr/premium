@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 23:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 01:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7177?fr=category</guid>
             <pubDate>Thu, 23 Mar 2023 08:24:56 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한눈에 쏙! 이미지로 보는 분야별 1분기 트렌드 (캐릿)]]></title>
+            <link>https://www.careet.net/1053</link>
+            <guid>https://www.careet.net/1053</guid>
+            <pubDate>Fri, 31 Mar 2023 01:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[이거 안 보면 손해! 1분기 트렌드 총정리는 이 콘텐츠 하나로 끝내세요]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/84844e43-9cf2-4fba-873d-63c5efba6274_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아이돌만큼 커진 프로게이머 팬덤! e스포츠 트렌드 5분 과외 (캐릿)]]></title>
