@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-03-31T01:38:31.620Z</updated>
+    <updated>2023-03-31T02:40:20.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(웹소설) 팀장님, 죄송하지만 사라져주셔야겠어요]]></title>
+        <id>https://publy.co/content/7190?fr=category</id>
+        <link href="https://publy.co/content/7190?fr=category"/>
+        <updated>2023-03-31T02:38:43.069Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장비빨은 나의 힘! 일에 진심인 직장인들을 위한 추천템]]></title>
+        <id>https://publy.co/content/7189?fr=category</id>
+        <link href="https://publy.co/content/7189?fr=category"/>
+        <updated>2023-03-31T02:38:43.076Z</updated>
+        <content type="html"><![CDATA[아티클 · 5분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맥주 고민할 시간에 한 잔이라도 더, 맥주 추천 31]]></title>
+        <id>https://publy.co/content/7188?fr=category</id>
+        <link href="https://publy.co/content/7188?fr=category"/>
+        <updated>2023-03-31T02:38:43.077Z</updated>
+        <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chat GPT도 모를걸? 테헤란로 회사원을 위한 회식 장소 30]]></title>
+        <id>https://publy.co/content/7187?fr=category</id>
+        <link href="https://publy.co/content/7187?fr=category"/>
+        <updated>2023-03-31T02:38:43.078Z</updated>
+        <content type="html"><![CDATA[아티클 · 5분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT 더 빠르고 쉽게 활용하려면? 구글스프레드시트 자동화 방법(템플릿 제공)]]></title>
         <id>https://publy.co/content/7174?fr=category</id>
@@ -46,33 +74,5 @@
         <link href="https://publy.co/content/7170?fr=category"/>
         <updated>2023-03-28T08:26:48.493Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서비스 기획자의 문서 4종 템플릿 세트(WBS, 요구사항정의서 등)]]></title>
-        <id>https://publy.co/content/7184?fr=category</id>
-        <link href="https://publy.co/content/7184?fr=category"/>
-        <updated>2023-03-27T08:26:34.943Z</updated>
-        <content type="html"><![CDATA[아티클 · 5분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일잘러가 되는 생산성 UP 노하우 모음]]></title>
-        <id>https://publy.co/content/7180?fr=category</id>
-        <link href="https://publy.co/content/7180?fr=category"/>
-        <updated>2023-03-24T07:17:44.469Z</updated>
-        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디테일의 발견 2편: 고객의 문제를 해결해주는 한 끗]]></title>
-        <id>https://publy.co/content/7164?fr=category</id>
-        <link href="https://publy.co/content/7164?fr=category"/>
-        <updated>2023-03-24T07:17:44.471Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기획자의 생각 정리법: 기획력을 키우는 한 끗(노션 템플릿 2종 제공)]]></title>
-        <id>https://publy.co/content/7177?fr=category</id>
-        <link href="https://publy.co/content/7177?fr=category"/>
-        <updated>2023-03-23T08:24:56.429Z</updated>
-        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
     </entry>
 </feed>
