@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-04-02T14:17:29.266Z</updated>
+    <updated>2023-04-02T15:19:48.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-04-01T15:18:44.569Z</updated>
-        <content type="html"><![CDATA[K가 주목한 이번주 롱블랙의 문장
-
-“수십, 수백 명의 사람들과 외식업을 운영할 때도, 그들에게 뭘 해줄 수 있을까 생각하면 결국 ‘웃음’으로 존중하기 같아요. 리더가 과민하게 ‘혁신’에만 매달리면, 남에게 웃어 보일 수가 없어요. 심각한 표정이 구성원의 기분까지 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[야놀자 : 키치한 마케팅으로 숙박을 뒤바꾼 유니콘, 재무제표로 읽다]]></title>
+        <id>https://www.longblack.co/note/637</id>
+        <link href="https://www.longblack.co/note/637"/>
+        <updated>2023-04-02T15:18:51.753Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;춘천에 벚꽃 보러 다녀왔어. 사람들 많더라. 야놀자에 들어가서 호텔 예약하려는데, 여기어때 광고가 뜨더라고. 요즘 여기어때 많이 보이네?기사 찾아보니 최근 여기어<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
