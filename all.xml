@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 06:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 07:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ChatGPT를 나만의 영어 멘토로: 영어 공부 활용법(단어장 템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7194?fr=category</link>
+            <guid>https://publy.co/content/7194?fr=category</guid>
+            <pubDate>Mon, 03 Apr 2023 07:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[(웹소설) 팀장님, 죄송하지만 사라져주셔야겠어요 (퍼블리)]]></title>
             <link>https://publy.co/content/7190?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7165?fr=category</guid>
             <pubDate>Tue, 28 Mar 2023 08:26:48 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[생산성 200% 높여주는 마케터의 커뮤니케이션 노하우(노션 체크리스트 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7170?fr=category</link>
-            <guid>https://publy.co/content/7170?fr=category</guid>
-            <pubDate>Tue, 28 Mar 2023 08:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 가장 트렌디한 홍보 방식이 전단지라고? (캐릿)]]></title>

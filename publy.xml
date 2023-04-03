@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-04-03T06:26:35.718Z</updated>
+    <updated>2023-04-03T07:19:13.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT를 나만의 영어 멘토로: 영어 공부 활용법(단어장 템플릿 제공)]]></title>
+        <id>https://publy.co/content/7194?fr=category</id>
+        <link href="https://publy.co/content/7194?fr=category"/>
+        <updated>2023-04-03T07:17:53.989Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(웹소설) 팀장님, 죄송하지만 사라져주셔야겠어요]]></title>
         <id>https://publy.co/content/7190?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7165?fr=category"/>
         <updated>2023-03-28T08:26:48.484Z</updated>
         <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생산성 200% 높여주는 마케터의 커뮤니케이션 노하우(노션 체크리스트 제공)]]></title>
-        <id>https://publy.co/content/7170?fr=category</id>
-        <link href="https://publy.co/content/7170?fr=category"/>
-        <updated>2023-03-28T08:26:48.493Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
