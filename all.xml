@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 14:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 15:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,11 +262,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[야놀자 : 키치한 마케팅으로 숙박을 뒤바꾼 유니콘, 재무제표로 읽다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/637</link>
-            <guid>https://www.longblack.co/note/637</guid>
-            <pubDate>Sun, 02 Apr 2023 15:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;춘천에 벚꽃 보러 다녀왔어. 사람들 많더라. 야놀자에 들어가서 호텔 예약하려는데, 여기어때 광고가 뜨더라고. 요즘 여기어때 많이 보이네?기사 찾아보니 최근 여기어<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[마우리치오 카텔란 : 리움에 10만 명 모은 악동, 예술에 대해 말하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/627</link>
+            <guid>https://www.longblack.co/note/627</guid>
+            <pubDate>Mon, 03 Apr 2023 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;요즘 한남동에서 활기가 느껴져요. 리움미술관에서 열린 한 작가의 전시 덕분일 겁니다. 마우리치오 카텔란Maurizio Cattelan의 전시 「WE」. 두 달 만<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -351,6 +351,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나무를 심기에는 식목일이 너무 덥다. 책임을 물어야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61138</link>
+            <guid>https://www.bookjournalism.com/books/61138</guid>
+            <pubDate>Mon, 03 Apr 2023 15:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[기후 위기, 시민이 할 일]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/527329/w/646/e230404.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[중국 빅테크 기업 알리바바가 사업을 6개 부문으로 나눈다. 릴레이 기업 분할의 신호탄이 될 수 있다. (북저널리즘)]]></title>
@@ -439,14 +447,6 @@
             <pubDate>Fri, 24 Mar 2023 08:24:13 GMT</pubDate>
             <content:encoded><![CDATA[공공디자인 시대]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525326/w/646/88_publicdesign.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 두 번째 에피소드에서는 논란 속에 통과된 양곡관리법, 재개된 서커스와 동물 복지의 문제, 이노스페이스의 우주 진출에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/60751</link>
-            <guid>https://www.bookjournalism.com/audio/60751</guid>
-            <pubDate>Fri, 24 Mar 2023 08:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[3월 25일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524346/w/646/contents_thumb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

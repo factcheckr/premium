@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 14:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 15:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나무를 심기에는 식목일이 너무 덥다. 책임을 물어야 한다.]]></title>
+            <link>https://www.bookjournalism.com/books/61138</link>
+            <guid>https://www.bookjournalism.com/books/61138</guid>
+            <pubDate>Mon, 03 Apr 2023 15:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[기후 위기, 시민이 할 일]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/527329/w/646/e230404.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중국 빅테크 기업 알리바바가 사업을 6개 부문으로 나눈다. 릴레이 기업 분할의 신호탄이 될 수 있다.]]></title>
             <link>https://www.bookjournalism.com/books/61061</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 24 Mar 2023 08:24:13 GMT</pubDate>
             <content:encoded><![CDATA[공공디자인 시대]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525326/w/646/88_publicdesign.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 두 번째 에피소드에서는 논란 속에 통과된 양곡관리법, 재개된 서커스와 동물 복지의 문제, 이노스페이스의 우주 진출에 관해 이야기합니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/60751</link>
-            <guid>https://www.bookjournalism.com/audio/60751</guid>
-            <pubDate>Fri, 24 Mar 2023 08:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[3월 25일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524346/w/646/contents_thumb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
