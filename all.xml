@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 23:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 01:38:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7165?fr=category</guid>
             <pubDate>Tue, 28 Mar 2023 08:26:48 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더 뜨기 전에 콜라보하세요! Z세대 픽 라이징 캐릭터9 (캐릿)]]></title>
+            <link>https://www.careet.net/1038</link>
+            <guid>https://www.careet.net/1038</guid>
+            <pubDate>Tue, 04 Apr 2023 01:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[이 캐릭터 중 몇 개나 알고 계세요? 요즘 Z세대 사이에서 뜨는 캐릭터!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/a57550ca-35a5-4d48-8a99-7573f8737c6c_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[요즘 가장 트렌디한 홍보 방식이 전단지라고? (캐릿)]]></title>
