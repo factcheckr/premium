@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 14:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 15:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,11 +270,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[마우리치오 카텔란 : 리움에 10만 명 모은 악동, 예술에 대해 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/627</link>
-            <guid>https://www.longblack.co/note/627</guid>
-            <pubDate>Mon, 03 Apr 2023 15:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;요즘 한남동에서 활기가 느껴져요. 리움미술관에서 열린 한 작가의 전시 덕분일 겁니다. 마우리치오 카텔란Maurizio Cattelan의 전시 「WE」. 두 달 만<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[사업가 김소영 : 책발전소와 브론테, 자신을 넘어선 브랜드를 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/638</link>
+            <guid>https://www.longblack.co/note/638</guid>
+            <pubDate>Tue, 04 Apr 2023 15:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;서교동을 지나다 재밌는 이름의 서점을 하나 발견했어요. ‘당인리책발전소.’ 망원동 1번 출구로 나와 옆 골목가를 100미터 쯤 걷다 보면 나오는, 빨간 벽돌 건물<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -359,6 +359,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국 대학은 최악의 가성비를 자랑하는 이념 전쟁터가 됐다. 한국도 유사한 미래를 앞두고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61194</link>
+            <guid>https://www.bookjournalism.com/books/61194</guid>
+            <pubDate>Tue, 04 Apr 2023 15:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[미국 젊은이가 대학을 싫어하는 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/527537/w/646/e230405.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[나무를 심기에는 식목일이 너무 덥다. 책임을 물어야 한다. (북저널리즘)]]></title>
@@ -447,14 +455,6 @@
             <pubDate>Sun, 26 Mar 2023 15:19:28 GMT</pubDate>
             <content:encoded><![CDATA[틱톡 금지가 미국에 남길 흔적]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524799/w/646/e2303271.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 살고 싶은 도시는 어떤 모습인가? 일상 곳곳에 숨은 공공디자인을 7가지 키워드로 읽는다 (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60349</link>
-            <guid>https://www.bookjournalism.com/books/60349</guid>
-            <pubDate>Fri, 24 Mar 2023 08:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[공공디자인 시대]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525326/w/646/88_publicdesign.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
