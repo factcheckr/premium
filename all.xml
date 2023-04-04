@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 06:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 07:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀장 사용 설명서: 팀원과 함께 제대로 된 팀을 만드는 방법 (퍼블리)]]></title>
+            <link>https://publy.co/content/7181?fr=category</link>
+            <guid>https://publy.co/content/7181?fr=category</guid>
+            <pubDate>Tue, 04 Apr 2023 07:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엑셀로 데이터 시각화 하는 법 총정리(예제 파일 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7179?fr=category</link>
+            <guid>https://publy.co/content/7179?fr=category</guid>
+            <pubDate>Tue, 04 Apr 2023 07:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[ChatGPT를 나만의 영어 멘토로: 영어 공부 활용법(단어장 템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/7194?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/7173?fr=category</guid>
             <pubDate>Wed, 29 Mar 2023 07:18:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[광고하지 않아도 줄 선다? 리브랜딩으로 재탄생한 월악산 유스호스텔 편 (퍼블리)]]></title>
-            <link>https://publy.co/content/7167?fr=category</link>
-            <guid>https://publy.co/content/7167?fr=category</guid>
-            <pubDate>Tue, 28 Mar 2023 08:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버 기획자가 브랜드를 읽는 시선: 네스프레소, 젠틀몬스터, 리모와 (퍼블리)]]></title>
-            <link>https://publy.co/content/7165?fr=category</link>
-            <guid>https://publy.co/content/7165?fr=category</guid>
-            <pubDate>Tue, 28 Mar 2023 08:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[더 뜨기 전에 콜라보하세요! Z세대 픽 라이징 캐릭터9 (캐릿)]]></title>
