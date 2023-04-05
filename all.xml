@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 10:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 11:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,6 +369,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[네안데르탈인은 우리 인류보다 강했다. 그러나 강한 자가 살아남는 게 아니라, 살아남는 자가 강한 법이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61150</link>
+            <guid>https://www.bookjournalism.com/books/61150</guid>
+            <pubDate>Wed, 05 Apr 2023 11:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[대멸종의 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/527863/w/646/eb230405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국 대학은 최악의 가성비를 자랑하는 이념 전쟁터가 됐다. 한국도 유사한 미래를 앞두고 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61194</link>
             <guid>https://www.bookjournalism.com/books/61194</guid>
@@ -455,14 +463,6 @@
             <pubDate>Mon, 27 Mar 2023 15:23:30 GMT</pubDate>
             <content:encoded><![CDATA[대통령의 MZ 퍼포먼스가 불러올 여파]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525110/w/646/e230328.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미국은 틱톡을 금지하고 싶어 한다. 이미 문화가 된 현상은 사라질 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60730</link>
-            <guid>https://www.bookjournalism.com/books/60730</guid>
-            <pubDate>Sun, 26 Mar 2023 15:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[틱톡 금지가 미국에 남길 흔적]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524799/w/646/e2303271.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
