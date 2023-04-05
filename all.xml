@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 09:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 10:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마케터를 위한 프로젝트 기획서 작성법(MS 엑셀 템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/7176?fr=category</link>
+            <guid>https://publy.co/content/7176?fr=category</guid>
+            <pubDate>Wed, 05 Apr 2023 10:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팀장 사용 설명서: 팀원과 함께 제대로 된 팀을 만드는 방법 (퍼블리)]]></title>
             <link>https://publy.co/content/7181?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7166?fr=category</guid>
             <pubDate>Thu, 30 Mar 2023 07:18:34 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[개발자와 한 번에 커뮤니케이션 하는 법 (feat. 설계서 작성 팁) (퍼블리)]]></title>
-            <link>https://publy.co/content/7173?fr=category</link>
-            <guid>https://publy.co/content/7173?fr=category</guid>
-            <pubDate>Wed, 29 Mar 2023 07:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[현직 PD가 분석한 ‘인급동’ 단골 채널의 공통점 (캐릿)]]></title>
