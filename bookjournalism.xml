@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 14:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 15:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[입시와 취업에 학폭 가해 기록이 반영된다. 엄정한 대응은 해법이 될까.]]></title>
+            <link>https://www.bookjournalism.com/books/61226</link>
+            <guid>https://www.bookjournalism.com/books/61226</guid>
+            <pubDate>Wed, 05 Apr 2023 15:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[학교 폭력을 해결할 방법]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/528523/w/646/e230406.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네안데르탈인은 우리 인류보다 강했다. 그러나 강한 자가 살아남는 게 아니라, 살아남는 자가 강한 법이다.]]></title>
             <link>https://www.bookjournalism.com/books/61150</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 28 Mar 2023 15:23:43 GMT</pubDate>
             <content:encoded><![CDATA[네이버를 이긴 쿠팡의 유통 전략]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525371/w/646/e230329.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 대통령에 대한 MZ세대의 평가는 차갑다. 몇 가지 사건으로 설명할 수 있는 수치가 아니다.]]></title>
-            <link>https://www.bookjournalism.com/books/60855</link>
-            <guid>https://www.bookjournalism.com/books/60855</guid>
-            <pubDate>Mon, 27 Mar 2023 15:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[대통령의 MZ 퍼포먼스가 불러올 여파]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525110/w/646/e230328.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
