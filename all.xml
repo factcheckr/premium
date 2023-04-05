@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 23:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 01:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7173?fr=category</guid>
             <pubDate>Wed, 29 Mar 2023 07:18:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현직 PD가 분석한 ‘인급동’ 단골 채널의 공통점 (캐릿)]]></title>
+            <link>https://www.careet.net/1054</link>
+            <guid>https://www.careet.net/1054</guid>
+            <pubDate>Wed, 05 Apr 2023 01:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[헤어몬부터 총몇명까지. 3월 인급동 특징 분석!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/36689727-8668-4bde-ba34-8097ff38ff43_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[더 뜨기 전에 콜라보하세요! Z세대 픽 라이징 캐릭터9 (캐릿)]]></title>
