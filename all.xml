@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 23:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 01:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7166?fr=category</guid>
             <pubDate>Thu, 30 Mar 2023 07:18:34 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고등학교 인기 동아리를 보면 10대 트렌드가 보인다! 인기 동아리.list (캐릿)]]></title>
+            <link>https://www.careet.net/1056</link>
+            <guid>https://www.careet.net/1056</guid>
+            <pubDate>Thu, 06 Apr 2023 01:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[중고등학교 동아리 근황! 성우 동아리가 왜 인기야?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/0e08532e-80b7-46a2-8599-a29f302e23c3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[현직 PD가 분석한 ‘인급동’ 단골 채널의 공통점 (캐릿)]]></title>
