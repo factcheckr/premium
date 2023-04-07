@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 23:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 01:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이주의 유행템] 주말 이틀 동안 55만 명이 다녀간 팝업이 있다고?]]></title>
+            <link>https://www.careet.net/1058</link>
+            <guid>https://www.careet.net/1058</guid>
+            <pubDate>Fri, 07 Apr 2023 01:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[만우절 유행 아이템부터 요즘 뜨는 사진 구도까지 모두 모았습니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/4290a393-f019-4e7f-92e5-17b3324bcbb7_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[고등학교 인기 동아리를 보면 10대 트렌드가 보인다! 인기 동아리.list]]></title>
             <link>https://www.careet.net/1056</link>
