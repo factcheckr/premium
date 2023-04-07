@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-04-07T07:19:01.718Z</updated>
+    <updated>2023-04-07T08:24:25.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10년의 미래를 알고 싶다면: 2023 MWC 박람회-1. 로봇의 시대는 바로 지금]]></title>
+        <id>https://publy.co/content/7191?fr=category</id>
+        <link href="https://publy.co/content/7191?fr=category"/>
+        <updated>2023-04-07T08:23:13.756Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[직장 내 커뮤니케이션의 귀재가 되는 법]]></title>
         <id>https://publy.co/content/7198?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7187?fr=category"/>
         <updated>2023-03-31T02:38:43.078Z</updated>
         <content type="html"><![CDATA[아티클 · 5분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 더 빠르고 쉽게 활용하려면? 구글스프레드시트 자동화 방법(템플릿 제공)]]></title>
-        <id>https://publy.co/content/7174?fr=category</id>
-        <link href="https://publy.co/content/7174?fr=category"/>
-        <updated>2023-03-30T07:18:34.238Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>

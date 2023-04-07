@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 07:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 08:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10년의 미래를 알고 싶다면: 2023 MWC 박람회-1. 로봇의 시대는 바로 지금 (퍼블리)]]></title>
+            <link>https://publy.co/content/7191?fr=category</link>
+            <guid>https://publy.co/content/7191?fr=category</guid>
+            <pubDate>Fri, 07 Apr 2023 08:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[직장 내 커뮤니케이션의 귀재가 되는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/7198?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7187?fr=category</guid>
             <pubDate>Fri, 31 Mar 2023 02:38:43 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 5분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ChatGPT 더 빠르고 쉽게 활용하려면? 구글스프레드시트 자동화 방법(템플릿 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7174?fr=category</link>
-            <guid>https://publy.co/content/7174?fr=category</guid>
-            <pubDate>Thu, 30 Mar 2023 07:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이주의 유행템] 주말 이틀 동안 55만 명이 다녀간 팝업이 있다고? (캐릿)]]></title>
@@ -385,6 +385,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 위크엔드, 네 번째 에피소드에서는 노르웨이의 연어세와 과거에 갇힌 영화관, 모두를 위한 도시의 모습에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/61298</link>
+            <guid>https://www.bookjournalism.com/audio/61298</guid>
+            <pubDate>Fri, 07 Apr 2023 08:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[4월 8일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529171/w/646/contents_thumb.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[양곡관리법 개정안에 거부권을 행사한 정부가 대안을 제시했지만 부족하다. 한 발 나아간 논의를 해야 한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61276</link>
             <guid>https://www.bookjournalism.com/books/61276</guid>
@@ -471,14 +479,6 @@
             <pubDate>Wed, 29 Mar 2023 18:30:10 GMT</pubDate>
             <content:encoded><![CDATA[육식에 얽힌 인류의 책임]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525739/w/646/e2303302.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[머지않아 여성 우주 비행사가 달을 밟을 것이다. 인류에게는 50년 만이지만, 여성에게는 처음이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60835</link>
-            <guid>https://www.bookjournalism.com/books/60835</guid>
-            <pubDate>Wed, 29 Mar 2023 08:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[달을 밟을 최초의 여성]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/527273/w/646/eb230329.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
