@@ -2,17 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-04-09T14:16:54.154Z</updated>
+    <updated>2023-04-09T15:19:20.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-04-08T15:17:43.944Z</updated>
-        <content type="html"><![CDATA[K가 주목한 이번주 롱블랙의 문장
-
-“지금은 시스템 안에서 일하되, 계속 질문을 던지려 합니다. 제가&nbsp;(세상에)&nbsp;고분고분하게 되면, 저는 더 이상 성장하지 않을 거예요. 그동안 저는 필요한 곳에 늘 긴장감을 만드는 방해꾼이었어요. 앞으로도 그렇게 할 생각입니다.”
-<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[장강명 : 마음 편한 소설은 쓰고 싶지 않습니다]]></title>
+        <id>https://www.longblack.co/note/642</id>
+        <link href="https://www.longblack.co/note/642"/>
+        <updated>2023-04-09T15:18:25.049Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;얼마 전 한 소설의 영화화 소식이 들려왔습니다. 장강명의 『한국이 싫어서』. 도발적인 제목이죠. ‘한국이 싫은’ 청년 세대를 다뤘습니다. 경쟁에 지쳐 호주로 떠난<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

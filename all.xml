@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 14:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 15:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,14 +294,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 08 Apr 2023 15:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[K가 주목한 이번주 롱블랙의 문장
-
-“지금은 시스템 안에서 일하되, 계속 질문을 던지려 합니다. 제가&nbsp;(세상에)&nbsp;고분고분하게 되면, 저는 더 이상 성장하지 않을 거예요. 그동안 저는 필요한 곳에 늘 긴장감을 만드는 방해꾼이었어요. 앞으로도 그렇게 할 생각입니다.”
-<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[장강명 : 마음 편한 소설은 쓰고 싶지 않습니다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/642</link>
+            <guid>https://www.longblack.co/note/642</guid>
+            <pubDate>Sun, 09 Apr 2023 15:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;얼마 전 한 소설의 영화화 소식이 들려왔습니다. 장강명의 『한국이 싫어서』. 도발적인 제목이죠. ‘한국이 싫은’ 청년 세대를 다뤘습니다. 경쟁에 지쳐 호주로 떠난<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -386,6 +383,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구글이 슈퍼컴퓨터를 공개했다. 인공지능 학습의 새 지평을 열겠다는 포부다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61310</link>
+            <guid>https://www.bookjournalism.com/books/61310</guid>
+            <pubDate>Sun, 09 Apr 2023 15:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[구글의 새 라이벌, 엔비디아]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529187/w/646/ex230407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 네 번째 에피소드에서는 노르웨이의 연어세와 과거에 갇힌 영화관, 모두를 위한 도시의 모습에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -474,14 +479,6 @@
             <pubDate>Thu, 30 Mar 2023 15:22:40 GMT</pubDate>
             <content:encoded><![CDATA[내일의 뉴스레터]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/527319/w/646/89_newsletter.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멸종된 매머드의 DNA로 만들어진 미트볼이 공개되었다. 배양육은 인류에게 새로운 기회를 줄 것인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/60971</link>
-            <guid>https://www.bookjournalism.com/books/60971</guid>
-            <pubDate>Wed, 29 Mar 2023 18:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[육식에 얽힌 인류의 책임]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/525739/w/646/e2303302.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
