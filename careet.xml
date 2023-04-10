@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 01:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 02:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네컷사진, AI 필터 말고! Z세대 공략한 ‘NEW 포토 마케팅’]]></title>
+            <link>https://www.careet.net/1060</link>
+            <guid>https://www.careet.net/1060</guid>
+            <pubDate>Mon, 10 Apr 2023 02:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[조회 수 1000만, 해시태그 1만! 부러운 결과 자랑하는 온라인 마케팅 3]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/85ef23a1-dfb0-4fc7-bc97-a74f32c90a22_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이주의 유행템] 주말 이틀 동안 55만 명이 다녀간 팝업이 있다고?]]></title>
             <link>https://www.careet.net/1058</link>
