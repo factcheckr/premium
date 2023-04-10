@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 07:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 08:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['차별화하기 너무 어려워요!' 경쟁사보다 돋보이는 제안서 작성하는 법 (퍼블리)]]></title>
+            <link>https://publy.co/content/7192?fr=category</link>
+            <guid>https://publy.co/content/7192?fr=category</guid>
+            <pubDate>Mon, 10 Apr 2023 08:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[10년의 미래를 알고 싶다면: 2023 MWC 박람회-1. 로봇의 시대는 바로 지금 (퍼블리)]]></title>
             <link>https://publy.co/content/7191?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7188?fr=category</guid>
             <pubDate>Fri, 31 Mar 2023 02:38:43 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Chat GPT도 모를걸? 테헤란로 회사원을 위한 회식 장소 30 (퍼블리)]]></title>
-            <link>https://publy.co/content/7187?fr=category</link>
-            <guid>https://publy.co/content/7187?fr=category</guid>
-            <pubDate>Fri, 31 Mar 2023 02:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 5분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네컷사진, AI 필터 말고! Z세대 공략한 ‘NEW 포토 마케팅’ (캐릿)]]></title>
