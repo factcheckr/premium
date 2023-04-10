@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 14:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 15:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9년이 지난 일이지만 참사는 아직도 진행 중이다.]]></title>
+            <link>https://www.bookjournalism.com/books/61316</link>
+            <guid>https://www.bookjournalism.com/books/61316</guid>
+            <pubDate>Mon, 10 Apr 2023 15:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[세월호, 아직 회복 중]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529368/w/646/e230411.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글이 슈퍼컴퓨터를 공개했다. 인공지능 학습의 새 지평을 열겠다는 포부다.]]></title>
             <link>https://www.bookjournalism.com/books/61310</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 30 Mar 2023 16:28:20 GMT</pubDate>
             <content:encoded><![CDATA[애플의 다음 미래, 혼합 현실]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/526819/w/646/e230331.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[초개인화 시대, 콘텐츠를 생산하고 소비하는 방식이 바뀌었다. 개개인의 메일함은 어느 때보다 효과적인 마케팅의 도착지다.]]></title>
-            <link>https://www.bookjournalism.com/books/60872</link>
-            <guid>https://www.bookjournalism.com/books/60872</guid>
-            <pubDate>Thu, 30 Mar 2023 15:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[내일의 뉴스레터]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/527319/w/646/89_newsletter.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
