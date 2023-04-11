@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 14:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 15:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,11 +302,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[맥도날드 : 팬들의 팬이 된 맥도날드, 마케팅에서 답을 찾다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/643</link>
-            <guid>https://www.longblack.co/note/643</guid>
-            <pubDate>Mon, 10 Apr 2023 15:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;세상에서 가장 혁신적인 기업은 어디일까요? 바로 챗 GPT의 오픈AI! 미국 경제지 패스트컴퍼니Fast Company가 2023년 꼽은 세계 50대 혁신기업에서 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[쿠보타 오사무 : ‘조제’부터 ‘드라이브 마이 카’까지, 23년 차 PD의 감각 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/644</link>
+            <guid>https://www.longblack.co/note/644</guid>
+            <pubDate>Tue, 11 Apr 2023 15:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;2004년 한국에서 개봉한 「조제, 호랑이 그리고 물고기들(이하 조제)」. 2021년 첫 선을 보인 「드라이브 마이 카」. 이들 작품의 공통점을 아시나요? 재개봉<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -391,6 +391,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리는 지금 당장, 사라지는 언어를 구해야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61364</link>
+            <guid>https://www.bookjournalism.com/books/61364</guid>
+            <pubDate>Tue, 11 Apr 2023 15:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[사라지는 언어가 말하는 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529540/w/646/e230412.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[9년이 지난 일이지만 참사는 아직도 진행 중이다. (북저널리즘)]]></title>
@@ -479,14 +487,6 @@
             <pubDate>Fri, 31 Mar 2023 08:25:48 GMT</pubDate>
             <content:encoded><![CDATA[4월 1일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/526981/w/646/contents_thumb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[혁신은 창조의 힘으로 이루어지지 않는다. 애플은 타이밍을 잘 안다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61039</link>
-            <guid>https://www.bookjournalism.com/books/61039</guid>
-            <pubDate>Thu, 30 Mar 2023 16:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[애플의 다음 미래, 혼합 현실]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/526819/w/646/e230331.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
