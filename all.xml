@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 06:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 07:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탁월한 리더의 말 그릇: 리더 대화의 기본 원칙 4단계 (퍼블리)]]></title>
+            <link>https://publy.co/content/7178?fr=category</link>
+            <guid>https://publy.co/content/7178?fr=category</guid>
+            <pubDate>Tue, 11 Apr 2023 07:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['차별화하기 너무 어려워요!' 경쟁사보다 돋보이는 제안서 작성하는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/7192?fr=category</link>
@@ -50,7 +57,7 @@
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ChatGPT를 나만의 영어 멘토로: 영어 공부 활용법(단어장 템플릿 제공) (퍼블리)]]></title>
+            <title><![CDATA[챗GPT를 나만의 영어 멘토로: 영어 공부 활용법(단어장 템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/7194?fr=category</link>
             <guid>https://publy.co/content/7194?fr=category</guid>
             <pubDate>Mon, 03 Apr 2023 07:17:53 GMT</pubDate>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7189?fr=category</guid>
             <pubDate>Fri, 31 Mar 2023 02:38:43 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 5분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맥주 고민할 시간에 한 잔이라도 더, 맥주 추천 31 (퍼블리)]]></title>
-            <link>https://publy.co/content/7188?fr=category</link>
-            <guid>https://publy.co/content/7188?fr=category</guid>
-            <pubDate>Fri, 31 Mar 2023 02:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네컷사진, AI 필터 말고! Z세대 공략한 ‘NEW 포토 마케팅’ (캐릿)]]></title>
