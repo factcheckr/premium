@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 23:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 01:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7189?fr=category</guid>
             <pubDate>Fri, 31 Mar 2023 02:38:43 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 5분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023년 Z세대가 대외활동에서 원하는 것은? feat. 소통 꿀팁 (캐릿)]]></title>
+            <link>https://www.careet.net/1062</link>
+            <guid>https://www.careet.net/1062</guid>
+            <pubDate>Wed, 12 Apr 2023 01:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[대외활동 A to Z 대외활동으로 Z세대 의견 청취하는 방법]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/5269953a-5ad2-46ff-b9d8-ac8566c3b47d_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네컷사진, AI 필터 말고! Z세대 공략한 ‘NEW 포토 마케팅’ (캐릿)]]></title>
