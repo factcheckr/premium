@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 13:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 14:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -494,7 +494,7 @@
             <guid>https://www.bookjournalism.com/books/61061</guid>
             <pubDate>Sun, 02 Apr 2023 15:19:40 GMT</pubDate>
             <content:encoded><![CDATA[알리바바 기업 분할의 함의]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/527165/w/646/9ACD33FD-88F4-4C7C-B7CC-B3861C38E2F8.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529680/w/646/9ACD33FD-88F4-4C7C-B7CC-B3861C38E2F8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
