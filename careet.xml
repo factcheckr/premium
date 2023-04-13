@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 23:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 01:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥스트 틱톡 등장! 10대 10명 중 10명이 사용한다는 앱, ‘캡컷’이 뭐야?]]></title>
+            <link>https://www.careet.net/1061</link>
+            <guid>https://www.careet.net/1061</guid>
+            <pubDate>Thu, 13 Apr 2023 01:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[틱톡을 제치고 성장 중이라는 앱, 캡컷에 대한 모든 것]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/2c6782ef-c283-4ed3-9406-74a15830e947_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2023년 Z세대가 대외활동에서 원하는 것은? feat. 소통 꿀팁]]></title>
             <link>https://www.careet.net/1062</link>
