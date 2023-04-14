@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-04-14T14:18:23.387Z</updated>
+    <updated>2023-04-14T15:20:25.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[파리 : 헤밍웨이의 책방부터 루이비통 갤러리까지, 일상이 예술이 되다]]></title>
-        <id>https://www.longblack.co/note/651</id>
-        <link href="https://www.longblack.co/note/651"/>
-        <updated>2023-04-13T15:20:22.619Z</updated>
-        <content type="html"><![CDATA[<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[인공지능의 시대, 인생의 의미 : 중요한 것은 최적화가 아니라 만족이다]]></title>
+        <id>https://www.longblack.co/note/646</id>
+        <link href="https://www.longblack.co/note/646"/>
+        <updated>2023-04-14T15:19:30.677Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;지난 1월, 제가 AI마케팅 리포트 쓴 적 있잖아요! 그때 “인공지능은 포토샵이나 엑셀 같은 업무 도구”라고 생각하면 마음이 편안해진다고 말했죠. 흑, 사실… 그<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
