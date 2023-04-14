@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 02:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 03:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -425,20 +425,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529851/w/646/e2304142.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/530120/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[마크롱 프랑스 대통령이 유럽의 리더가 되고자 한다. 하지만 위기의 연속이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61380</link>
             <guid>https://www.bookjournalism.com/books/61380</guid>
             <pubDate>Wed, 12 Apr 2023 15:21:03 GMT</pubDate>
             <content:encoded><![CDATA[마크롱의 위기, EU의 위기]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529681/w/646/e230413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529848/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[참사 이후, 아이들에게 힘이 되어준 것은 그 무엇도 아닌, ‘관계’였다. (북저널리즘)]]></title>
