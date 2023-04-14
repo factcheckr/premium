@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 23:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 01:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 1020은 다 한다는 ‘절약방(a.k.a 거지방)’, 대체 왜 유행이야?]]></title>
+            <link>https://www.careet.net/1064</link>
+            <guid>https://www.careet.net/1064</guid>
+            <pubDate>Fri, 14 Apr 2023 01:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[3천 명 방문한 팝업 스토어부터 3백만 조회 수 나온 숏폼 채널까지! 이주의 트렌드 4]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/4ec99dfe-7161-43e5-a465-9dfbad23c1c6_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넥스트 틱톡 등장! 10대 10명 중 10명이 사용한다는 앱, ‘캡컷’이 뭐야?]]></title>
             <link>https://www.careet.net/1061</link>
