@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 14:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 15:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,13 +326,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 15 Apr 2023 15:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[B가 메모한 이번주 롱블랙의 문장
-
-“우리는 욕망이 좌절되거나 두려움이 실현될 때 고통을 느낍니다. 소설 속 인물이 가장 피하고 싶었던 사태를 맞거나, 간절히 원했던 꿈이 무너질 때 독자는 공감합니다. 그리고 ‘이 고통이 왜 생겼을까’ 고민하는 지점에 메시지가 실려<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[송길영 2 : 빅데이터 전문가가 나이듦에 주목하는 이유 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/645</link>
+            <guid>https://www.longblack.co/note/645</guid>
+            <pubDate>Sun, 16 Apr 2023 15:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;마인드 마이너Mind Miner. 빅데이터 전문가 송길영이 정의하는 송길영입니다. 데이터 밑에 깔린 사람들의 욕망을 캐내고 해석합니다.마음을 캐는 사람, 송길영 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -417,6 +415,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공론장의 환상은 트위터와 함께 사라질 것인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61399</link>
+            <guid>https://www.bookjournalism.com/books/61399</guid>
+            <pubDate>Sun, 16 Apr 2023 15:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[트위터의 미래, 공론장의 미래]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/530457/w/646/ex230414.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 다섯 번째 에피소드에서는 챗GPT의 유려한 헛소리와 테슬라의 ESS 공장, 파리 올림픽에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -505,14 +511,6 @@
             <pubDate>Wed, 05 Apr 2023 15:23:47 GMT</pubDate>
             <content:encoded><![CDATA[학교 폭력을 해결할 방법]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/528523/w/646/e230406.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네안데르탈인은 우리 인류보다 강했다. 그러나 강한 자가 살아남는 게 아니라, 살아남는 자가 강한 법이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61150</link>
-            <guid>https://www.bookjournalism.com/books/61150</guid>
-            <pubDate>Wed, 05 Apr 2023 11:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[대멸종의 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/527863/w/646/eb230405.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

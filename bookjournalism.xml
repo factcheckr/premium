@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 14:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 15:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공론장의 환상은 트위터와 함께 사라질 것인가.]]></title>
+            <link>https://www.bookjournalism.com/books/61399</link>
+            <guid>https://www.bookjournalism.com/books/61399</guid>
+            <pubDate>Sun, 16 Apr 2023 15:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[트위터의 미래, 공론장의 미래]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/530457/w/646/ex230414.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 다섯 번째 에피소드에서는 챗GPT의 유려한 헛소리와 테슬라의 ESS 공장, 파리 올림픽에 관해 이야기합니다.]]></title>
             <link>https://www.bookjournalism.com/audio/61417</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 05 Apr 2023 15:23:47 GMT</pubDate>
             <content:encoded><![CDATA[학교 폭력을 해결할 방법]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/528523/w/646/e230406.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네안데르탈인은 우리 인류보다 강했다. 그러나 강한 자가 살아남는 게 아니라, 살아남는 자가 강한 법이다.]]></title>
-            <link>https://www.bookjournalism.com/books/61150</link>
-            <guid>https://www.bookjournalism.com/books/61150</guid>
-            <pubDate>Wed, 05 Apr 2023 11:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[대멸종의 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/527863/w/646/eb230405.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

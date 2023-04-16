@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-04-16T14:17:11.870Z</updated>
+    <updated>2023-04-16T15:19:24.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-04-15T15:18:22.699Z</updated>
-        <content type="html"><![CDATA[B가 메모한 이번주 롱블랙의 문장
-
-“우리는 욕망이 좌절되거나 두려움이 실현될 때 고통을 느낍니다. 소설 속 인물이 가장 피하고 싶었던 사태를 맞거나, 간절히 원했던 꿈이 무너질 때 독자는 공감합니다. 그리고 ‘이 고통이 왜 생겼을까’ 고민하는 지점에 메시지가 실려<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[송길영 2 : 빅데이터 전문가가 나이듦에 주목하는 이유]]></title>
+        <id>https://www.longblack.co/note/645</id>
+        <link href="https://www.longblack.co/note/645"/>
+        <updated>2023-04-16T15:18:25.838Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;마인드 마이너Mind Miner. 빅데이터 전문가 송길영이 정의하는 송길영입니다. 데이터 밑에 깔린 사람들의 욕망을 캐내고 해석합니다.마음을 캐는 사람, 송길영 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
