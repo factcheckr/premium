@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 23:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 01:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 16 Apr 2023 15:19:14 GMT</pubDate>
             <content:encoded><![CDATA[트위터의 미래, 공론장의 미래]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/530457/w/646/ex230414.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Mon, 06 Mar 2023 22:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/530548/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 다섯 번째 에피소드에서는 챗GPT의 유려한 헛소리와 테슬라의 ESS 공장, 파리 올림픽에 관해 이야기합니다.]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Thu, 13 Apr 2023 15:21:09 GMT</pubDate>
             <content:encoded><![CDATA[탄소 감축안의 역설]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529851/w/646/e2304142.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Mon, 06 Mar 2023 22:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/530120/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[마크롱 프랑스 대통령이 유럽의 리더가 되고자 한다. 하지만 위기의 연속이다.]]></title>
