@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 23:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 02:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,7 +78,15 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7198?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/04/04/1680592686_EPIKQdQ0gIfoBw2zpaxAhEPfk0Oa9Io96HWvsDVs.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 2분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#777"></path></svg></button></div></div><div><a href="/content/7198?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">직장 내 커뮤니케이션의 귀재가 되는 법</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성수·한남 말고 신당·약수! 핫플 옆 ‘위성 동네’가 뜬다 (캐릿)]]></title>
+            <title><![CDATA[남들보다 빨리 보세요! 콜라보하기 좋은 라이프스타일 굿즈 브랜드 20 (캐릿)]]></title>
+            <link>https://www.careet.net/1059</link>
+            <guid>https://www.careet.net/1059</guid>
+            <pubDate>Wed, 19 Apr 2023 02:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[굿즈 기획 전에 꼭 봐야할 콘텐츠]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/f50c81b9-3d33-49fd-b003-c530b53b0359_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[성수·한남 말고 신당·약수! 핫플 옆 ‘위성동네’가 뜬다 (캐릿)]]></title>
             <link>https://www.careet.net/1057</link>
             <guid>https://www.careet.net/1057</guid>
             <pubDate>Tue, 18 Apr 2023 02:34:11 GMT</pubDate>
@@ -441,20 +449,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/531134/w/646/e230419.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/531536/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[장애와 비장애의 구분이 희미해지고 있다. 탈시설은 장애인만의 문제가 아니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61490</link>
             <guid>https://www.bookjournalism.com/books/61490</guid>
             <pubDate>Mon, 17 Apr 2023 15:21:11 GMT</pubDate>
             <content:encoded><![CDATA[모두의 문제, 탈시설]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/530671/w/646/e230418.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/530856/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[공론장의 환상은 트위터와 함께 사라질 것인가. (북저널리즘)]]></title>

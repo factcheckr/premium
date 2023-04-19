@@ -4,11 +4,19 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 23:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 02:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[성수·한남 말고 신당·약수! 핫플 옆 ‘위성 동네’가 뜬다]]></title>
+            <title><![CDATA[남들보다 빨리 보세요! 콜라보하기 좋은 라이프스타일 굿즈 브랜드 20]]></title>
+            <link>https://www.careet.net/1059</link>
+            <guid>https://www.careet.net/1059</guid>
+            <pubDate>Wed, 19 Apr 2023 02:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[굿즈 기획 전에 꼭 봐야할 콘텐츠]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/f50c81b9-3d33-49fd-b003-c530b53b0359_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[성수·한남 말고 신당·약수! 핫플 옆 ‘위성동네’가 뜬다]]></title>
             <link>https://www.careet.net/1057</link>
             <guid>https://www.careet.net/1057</guid>
             <pubDate>Tue, 18 Apr 2023 02:34:11 GMT</pubDate>
