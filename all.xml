@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 14:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 15:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,11 +350,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[CU : 연 7조원 매출의 트렌드 실험실, 재무제표로 읽다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/655</link>
-            <guid>https://www.longblack.co/note/655</guid>
-            <pubDate>Tue, 18 Apr 2023 15:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;요새 편의점 어디 가? C는 크림빵에 빠져서 CU 다닌다더라. 뭐, 연세우유 크림빵? 지난해는 원소주 산다고 GS25 앞에 줄 서더니…&nbsp;요즘 편의점들, 실적이 장<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[트래쉬버스터즈 : 오렌지색 다회용기로, 쓰레기 사냥하는 스타트업 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/650</link>
+            <guid>https://www.longblack.co/note/650</guid>
+            <pubDate>Wed, 19 Apr 2023 15:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;지난 주말, 페스티벌에 갔어요. 점심을 먹으려는데 주황색 포크며, 접시며 다회용기를 빌려주더라고요? 축제에서 일회용 쓰레기를 만들지 않을 수 있다니! 기분이 산뜻<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -439,6 +439,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애플이 출시한 고금리의 애플 통장은 금융 시장의 지각 변동을 불러온다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61566</link>
+            <guid>https://www.bookjournalism.com/books/61566</guid>
+            <pubDate>Wed, 19 Apr 2023 15:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[은행이 되려 하는 애플]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/531801/w/646/e230420.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[즐거운 식탁을 위해서는 완벽한 맥주가 필요하다. 과학은 그걸 해냈다. (북저널리즘)]]></title>
@@ -527,14 +535,6 @@
             <pubDate>Mon, 10 Apr 2023 15:19:21 GMT</pubDate>
             <content:encoded><![CDATA[세월호, 아직 회복 중]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529368/w/646/e230411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글이 슈퍼컴퓨터를 공개했다. 인공지능 학습의 새 지평을 열겠다는 포부다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61310</link>
-            <guid>https://www.bookjournalism.com/books/61310</guid>
-            <pubDate>Sun, 09 Apr 2023 15:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[구글의 새 라이벌, 엔비디아]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529288/w/646/ex230407.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

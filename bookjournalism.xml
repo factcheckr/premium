@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 14:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 15:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플이 출시한 고금리의 애플 통장은 금융 시장의 지각 변동을 불러온다.]]></title>
+            <link>https://www.bookjournalism.com/books/61566</link>
+            <guid>https://www.bookjournalism.com/books/61566</guid>
+            <pubDate>Wed, 19 Apr 2023 15:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[은행이 되려 하는 애플]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/531801/w/646/e230420.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[즐거운 식탁을 위해서는 완벽한 맥주가 필요하다. 과학은 그걸 해냈다.]]></title>
             <link>https://www.bookjournalism.com/books/61473</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 10 Apr 2023 15:19:21 GMT</pubDate>
             <content:encoded><![CDATA[세월호, 아직 회복 중]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529368/w/646/e230411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글이 슈퍼컴퓨터를 공개했다. 인공지능 학습의 새 지평을 열겠다는 포부다.]]></title>
-            <link>https://www.bookjournalism.com/books/61310</link>
-            <guid>https://www.bookjournalism.com/books/61310</guid>
-            <pubDate>Sun, 09 Apr 2023 15:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[구글의 새 라이벌, 엔비디아]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529288/w/646/ex230407.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
