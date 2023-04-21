@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 01:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 02:37:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -465,20 +465,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/532000/w/646/ex230420.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/532005/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[애플이 출시한 고금리의 애플 통장은 금융 시장의 지각 변동을 불러온다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61566</link>
             <guid>https://www.bookjournalism.com/books/61566</guid>
             <pubDate>Wed, 19 Apr 2023 15:21:10 GMT</pubDate>
             <content:encoded><![CDATA[은행이 되려 하는 애플]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/531801/w/646/e230420.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Wed, 15 Feb 2023 02:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/531828/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[즐거운 식탁을 위해서는 완벽한 맥주가 필요하다. 과학은 그걸 해냈다. (북저널리즘)]]></title>
