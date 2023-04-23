@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 14:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 15:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,13 +366,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 22 Apr 2023 15:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[C가 밑줄 친 이번주 롱블랙의 문장
-
-“저는 업계의 룰을 몰랐어요. 이전에 없던 방식으로 식물을 팔았죠. 룰을 깨트린 덕분에 세컨드 웨이브를 일으킬 수 있었던 거예요. 시장을 파괴한 사람이 그 시장을 지배한다고 생각해요. 한 업계가 변할 때, 그 중심에 전문가가 있<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[민주킴 : 사랑하고 꿈꾸고 용감해져라, 패션으로 마음을 디자인하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/657</link>
+            <guid>https://www.longblack.co/note/657</guid>
+            <pubDate>Sun, 23 Apr 2023 15:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;민주킴MINJUKIM 이라고 들어봤어? 지금 가장 주목받는 패션 디자이너야. 넷플릭스의 패션 서바이벌 프로그램 &lt;넥스트 인 패션Next in Fashion&gt;과 H<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -457,6 +455,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[식구에게 식사는 의례였다. 의례가 바뀌었다는 건, 가족 문화 전체가 변했다는 말일 수도 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61586</link>
+            <guid>https://www.bookjournalism.com/books/61586</guid>
+            <pubDate>Sun, 23 Apr 2023 15:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[밀키트를 고르는 밀레니얼 가족]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/532180/w/646/ex230421.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 여섯 번째 에피소드에서는 불편한 정치 이야기와 돈이 되는 관광, 되돌아 보는 팬데믹에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -545,14 +551,6 @@
             <pubDate>Wed, 12 Apr 2023 15:21:03 GMT</pubDate>
             <content:encoded><![CDATA[마크롱의 위기, EU의 위기]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529681/w/646/e230413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참사 이후, 아이들에게 힘이 되어준 것은 그 무엇도 아닌, ‘관계’였다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61337</link>
-            <guid>https://www.bookjournalism.com/books/61337</guid>
-            <pubDate>Wed, 12 Apr 2023 08:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[세월호 이후, 희망의 근거]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529679/w/646/IMG_7366.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

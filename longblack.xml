@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-04-23T14:17:15.114Z</updated>
+    <updated>2023-04-23T15:19:07.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-04-22T15:18:25.928Z</updated>
-        <content type="html"><![CDATA[C가 밑줄 친 이번주 롱블랙의 문장
-
-“저는 업계의 룰을 몰랐어요. 이전에 없던 방식으로 식물을 팔았죠. 룰을 깨트린 덕분에 세컨드 웨이브를 일으킬 수 있었던 거예요. 시장을 파괴한 사람이 그 시장을 지배한다고 생각해요. 한 업계가 변할 때, 그 중심에 전문가가 있<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[민주킴 : 사랑하고 꿈꾸고 용감해져라, 패션으로 마음을 디자인하다]]></title>
+        <id>https://www.longblack.co/note/657</id>
+        <link href="https://www.longblack.co/note/657"/>
+        <updated>2023-04-23T15:18:16.479Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;민주킴MINJUKIM 이라고 들어봤어? 지금 가장 주목받는 패션 디자이너야. 넷플릭스의 패션 서바이벌 프로그램 &lt;넥스트 인 패션Next in Fashion&gt;과 H<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
