@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 14:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 15:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전쟁은 힘과 돈 때문에 시작된다. 그런데 21세기, 또 다른 이유가 추가되었다.]]></title>
+            <link>https://www.bookjournalism.com/books/61673</link>
+            <guid>https://www.bookjournalism.com/books/61673</guid>
+            <pubDate>Mon, 24 Apr 2023 15:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[수단 내전이 시작된 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/532546/w/646/e230425.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식구에게 식사는 의례였다. 의례가 바뀌었다는 건, 가족 문화 전체가 변했다는 말일 수도 있다.]]></title>
             <link>https://www.bookjournalism.com/books/61586</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 13 Apr 2023 15:21:09 GMT</pubDate>
             <content:encoded><![CDATA[탄소 감축안의 역설]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529851/w/646/e2304142.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마크롱 프랑스 대통령이 유럽의 리더가 되고자 한다. 하지만 위기의 연속이다.]]></title>
-            <link>https://www.bookjournalism.com/books/61380</link>
-            <guid>https://www.bookjournalism.com/books/61380</guid>
-            <pubDate>Wed, 12 Apr 2023 15:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[마크롱의 위기, EU의 위기]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529681/w/646/e230413.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

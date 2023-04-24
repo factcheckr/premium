@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 14:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 15:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,11 +374,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[민주킴 : 사랑하고 꿈꾸고 용감해져라, 패션으로 마음을 디자인하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/657</link>
-            <guid>https://www.longblack.co/note/657</guid>
-            <pubDate>Sun, 23 Apr 2023 15:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;민주킴MINJUKIM 이라고 들어봤어? 지금 가장 주목받는 패션 디자이너야. 넷플릭스의 패션 서바이벌 프로그램 &lt;넥스트 인 패션Next in Fashion&gt;과 H<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[한화이글스 : 이야기의 힘, 승부를 초월한 팬덤을 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/658</link>
+            <guid>https://www.longblack.co/note/658</guid>
+            <pubDate>Mon, 24 Apr 2023 15:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B야구의 계절입니다. 저는 부처의 마음으로 연꽃을 피운다는 한화이글스의 팬입니다. 맞습니다. 3년 연속 최하위. 한화는 고전 중입니다.하지만 저는 우리 선수들이 자랑<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -463,6 +463,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전쟁은 힘과 돈 때문에 시작된다. 그런데 21세기, 또 다른 이유가 추가되었다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61673</link>
+            <guid>https://www.bookjournalism.com/books/61673</guid>
+            <pubDate>Mon, 24 Apr 2023 15:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[수단 내전이 시작된 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/532546/w/646/e230425.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[식구에게 식사는 의례였다. 의례가 바뀌었다는 건, 가족 문화 전체가 변했다는 말일 수도 있다. (북저널리즘)]]></title>
@@ -551,14 +559,6 @@
             <pubDate>Thu, 13 Apr 2023 15:21:09 GMT</pubDate>
             <content:encoded><![CDATA[탄소 감축안의 역설]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529851/w/646/e2304142.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마크롱 프랑스 대통령이 유럽의 리더가 되고자 한다. 하지만 위기의 연속이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61380</link>
-            <guid>https://www.bookjournalism.com/books/61380</guid>
-            <pubDate>Wed, 12 Apr 2023 15:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[마크롱의 위기, EU의 위기]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529681/w/646/e230413.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
