@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-04-24T23:19:52.737Z</updated>
+    <updated>2023-04-25T01:36:06.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/658</id>
         <link href="https://www.longblack.co/note/658"/>
         <updated>2023-04-24T15:20:40.089Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B야구의 계절입니다. 저는 부처의 마음으로 연꽃을 피운다는 한화이글스의 팬입니다. 맞습니다. 3년 연속 최하위. 한화는 고전 중입니다.하지만 저는 우리 선수들이 자랑<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;야구의 계절입니다. 저는 부처의 마음으로 연꽃을 피운다는 한화이글스의 팬입니다. 맞습니다. 3년 연속 최하위. 한화는 고전 중입니다.하지만 저는 우리 선수들이 자<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
