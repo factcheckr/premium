@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 23:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 01:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 취업 준비생이 현직자에게 궁금한 것 5가지]]></title>
+            <link>https://www.careet.net/1067</link>
+            <guid>https://www.careet.net/1067</guid>
+            <pubDate>Wed, 26 Apr 2023 01:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[직무에 찰떡인 사람, 아닌 사람 기준을 딱 정해주세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/e9b4da78-f77a-4960-aad9-426e1e234fd6_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[데이터] 주기적으로 운동하는 Z세대가 91.2%나 된다고?]]></title>
             <link>https://www.careet.net/1066</link>
