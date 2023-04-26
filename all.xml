@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 14:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 15:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,11 +390,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[블랭크 스트리트 : ‘적당한 커피’로 뉴욕을 파고들어, Z세대 스타벅스를 꿈꾸다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/659</link>
-            <guid>https://www.longblack.co/note/659</guid>
-            <pubDate>Tue, 25 Apr 2023 15:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;뉴욕 커피 시장에 신예가 등장했어. 블랭크 스트리트Blank Street라는 브랜드야. 2020년 커피트럭으로 시작해서 3년도 안 돼 8700만 달러(약 1160<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[아트부산 : 도전하는 아트페어, 부산을 영컬렉터의 도시로 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/660</link>
+            <guid>https://www.longblack.co/note/660</guid>
+            <pubDate>Wed, 26 Apr 2023 15:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;5월의 부산은 이걸로 들썩여요. 바로 아트부산! 2022년엔 10만 명이 다녀갔어요. 총 746억원의 매출을 냈다죠. 2021년엔 방탄소년단의 RM도, 래퍼 사이<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -479,6 +479,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공화당이 AI의 이미지로 바이든 시대의 미래를 그렸다. 디스토피아는 AI의 탓인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61766</link>
+            <guid>https://www.bookjournalism.com/books/61766</guid>
+            <pubDate>Wed, 26 Apr 2023 15:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[딥페이크는 죄가 없다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/533514/w/646/e230427.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[행복하고 건강한 미래를 위해서는 과거로 돌아가야 한다. 우리 선조들이 그랬듯, 뜀박질을 함으로써. (북저널리즘)]]></title>
@@ -567,14 +575,6 @@
             <pubDate>Mon, 17 Apr 2023 15:21:11 GMT</pubDate>
             <content:encoded><![CDATA[모두의 문제, 탈시설]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/530671/w/646/e230418.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공론장의 환상은 트위터와 함께 사라질 것인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61399</link>
-            <guid>https://www.bookjournalism.com/books/61399</guid>
-            <pubDate>Sun, 16 Apr 2023 15:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[트위터의 미래, 공론장의 미래]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/530457/w/646/ex230414.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
