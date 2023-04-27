@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 23:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 01:36:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 81.6%는 팝업스토어 여는 브랜드를 긍정적으로 평가한다. 왜일까?]]></title>
+            <link>https://www.careet.net/1070</link>
+            <guid>https://www.careet.net/1070</guid>
+            <pubDate>Thu, 27 Apr 2023 01:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[이제 Z세대 외출 코스는 ‘밥-팝업스토어-카페-영화관’입니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/32bd08c0-b61f-446a-a08f-cb352f8ea018_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 취업 준비생이 현직자에게 궁금한 것 5가지]]></title>
             <link>https://www.careet.net/1067</link>
