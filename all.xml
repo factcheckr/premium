@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 14:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 15:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,11 +398,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아트부산 : 도전하는 아트페어, 부산을 영컬렉터의 도시로 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/660</link>
-            <guid>https://www.longblack.co/note/660</guid>
-            <pubDate>Wed, 26 Apr 2023 15:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;5월의 부산은 이걸로 들썩여요. 바로 아트부산! 2022년엔 10만 명이 다녀갔어요. 총 746억원의 매출을 냈다죠. 2021년엔 방탄소년단의 RM도, 래퍼 사이<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[도쿄 : 수제 양조장과 맞춤형 문구, 골목을 살리는 젊은 장인들 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/661</link>
+            <guid>https://www.longblack.co/note/661</guid>
+            <pubDate>Thu, 27 Apr 2023 15:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;저니 프라이데이가 돌아왔습니다. 오늘의 행선지는 도쿄입니다. 인천공항에서 두 시간 반. 마음만 먹으면 언제든 갈 수 있는 곳이죠.시부야 하면 뭐가 떠오르세요? 스<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -487,6 +487,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[게임 포화의 시대, 살아남은 게임은 세상을 바꿨다. 미운 오리였던 게임은 어떻게 새로움의 아이콘이 됐나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61648</link>
+            <guid>https://www.bookjournalism.com/books/61648</guid>
+            <pubDate>Thu, 27 Apr 2023 15:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[세상을 바꾼 게임들]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/533643/w/646/90_game.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공화당이 AI의 이미지로 바이든 시대의 미래를 그렸다. 디스토피아는 AI의 탓인가? (북저널리즘)]]></title>
@@ -575,14 +583,6 @@
             <pubDate>Tue, 18 Apr 2023 15:24:26 GMT</pubDate>
             <content:encoded><![CDATA[지금 스포츠가 주목받는 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/531134/w/646/e230419.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장애와 비장애의 구분이 희미해지고 있다. 탈시설은 장애인만의 문제가 아니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61490</link>
-            <guid>https://www.bookjournalism.com/books/61490</guid>
-            <pubDate>Mon, 17 Apr 2023 15:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[모두의 문제, 탈시설]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/530671/w/646/e230418.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
