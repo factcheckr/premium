@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 17:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 18:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -489,6 +489,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[여행 플랫폼 기업들이 리뷰 생태계를 확장한다. 기술이 문화를 만들 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61781</link>
+            <guid>https://www.bookjournalism.com/books/61781</guid>
+            <pubDate>Thu, 27 Apr 2023 18:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[트래블 테크가 바꾸는 리뷰 생태계]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/533681/w/646/ex230427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[게임 포화의 시대, 살아남은 게임은 세상을 바꿨다. 미운 오리였던 게임은 어떻게 새로움의 아이콘이 됐나? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61648</link>
             <guid>https://www.bookjournalism.com/books/61648</guid>
@@ -575,14 +583,6 @@
             <pubDate>Wed, 19 Apr 2023 08:37:57 GMT</pubDate>
             <content:encoded><![CDATA[양조장에서 탄생한 과학]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/532295/w/646/eb230419.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포츠 팬들의 ‘운명 공동체’ 정신은 미디어 업계의 돌파구가 된다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61510</link>
-            <guid>https://www.bookjournalism.com/books/61510</guid>
-            <pubDate>Tue, 18 Apr 2023 15:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[지금 스포츠가 주목받는 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/531134/w/646/e230419.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
