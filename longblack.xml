@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-04-29T14:16:54.640Z</updated>
+    <updated>2023-04-29T15:18:49.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[휴먼카인드 : 인간은 정말 이기적일까? 팩트체크를 하다]]></title>
-        <id>https://www.longblack.co/note/662</id>
-        <link href="https://www.longblack.co/note/662"/>
-        <updated>2023-04-28T15:20:02.904Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;‘인간은 이기적이다’. 통념과도 같은 말이죠. 마키아벨리, 홉스, 니체, 존 애덤스, 프로이트. 위대한 사상가들도 입을 모아 인간은 이기적이라고 했어요.그런데 그<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-04-29T15:17:52.446Z</updated>
+        <content type="html"><![CDATA[C가 밑줄 친 이번주 롱블랙의 문장
+
+“저는 업계의 룰을 몰랐어요. 이전에 없던 방식으로 식물을 팔았죠. 룰을 깨트린 덕분에 세컨드 웨이브를 일으킬 수 있었던 거예요. 시장을 파괴한 사람이 그 시장을 지배한다고 생각해요. 한 업계가 변할 때, 그 중심에 전문가가 있<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

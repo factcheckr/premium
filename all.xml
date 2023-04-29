@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 14:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 15:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,11 +406,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[휴먼카인드 : 인간은 정말 이기적일까? 팩트체크를 하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/662</link>
-            <guid>https://www.longblack.co/note/662</guid>
-            <pubDate>Fri, 28 Apr 2023 15:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;‘인간은 이기적이다’. 통념과도 같은 말이죠. 마키아벨리, 홉스, 니체, 존 애덤스, 프로이트. 위대한 사상가들도 입을 모아 인간은 이기적이라고 했어요.그런데 그<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 29 Apr 2023 15:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[C가 밑줄 친 이번주 롱블랙의 문장
+
+“저는 업계의 룰을 몰랐어요. 이전에 없던 방식으로 식물을 팔았죠. 룰을 깨트린 덕분에 세컨드 웨이브를 일으킬 수 있었던 거예요. 시장을 파괴한 사람이 그 시장을 지배한다고 생각해요. 한 업계가 변할 때, 그 중심에 전문가가 있<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
