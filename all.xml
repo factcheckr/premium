@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 14:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 15:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,11 +406,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/e3ef7423-a86d-425f-a4e9-0584bc345252_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[고도원 : 좋은 콘텐츠는, 한 사람의 가슴에 꽂히는 편지와 같다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/673</link>
-            <guid>https://www.longblack.co/note/673</guid>
-            <pubDate>Sun, 30 Apr 2023 15:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;어머니가 아침마다 보내주시던 글이 있습니다. ‘고도원의 아침편지’. 책 구절이 짧게 적혀있고, 이에 대한 고도원 님의 해석이 곁들여져 있습니다. 읽고 나면, 기분<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[신카이마코토 : 빛의 마술사, 애니메이션 성공 공식을 다시 쓰다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/663</link>
+            <guid>https://www.longblack.co/note/663</guid>
+            <pubDate>Mon, 01 May 2023 15:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;요즘 다들 ‘스즈메’, ‘스즈메’ 하더라고요? 무슨 소린가 했더니 일본 애니메이션 「스즈메의 문단속」이 흥행 중이래요. 국내 개봉 두 달 만에 누적 관객 500만<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -495,6 +495,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[달 표면에 묻힌 막대한 자원을 향해 각국이 경쟁하고 있다. 일론 머스크는 화성을 향한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61815</link>
+            <guid>https://www.bookjournalism.com/books/61815</guid>
+            <pubDate>Mon, 01 May 2023 15:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[스페이스X가 화성에 건설할 세계]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534209/w/646/e230503.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[IRA 대응책으로 국내 배터리 기업이 완성차 업체와 합작공장을 건설한다. 중요한 것은 10년 뒤다. (북저널리즘)]]></title>
@@ -583,14 +591,6 @@
             <pubDate>Fri, 21 Apr 2023 08:24:43 GMT</pubDate>
             <content:encoded><![CDATA[4월 22일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/532155/w/646/contents_thumb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[손석희 특파원과 조선일보가 허위 광고에 이용되고 있다. 구글 때문이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61597</link>
-            <guid>https://www.bookjournalism.com/books/61597</guid>
-            <pubDate>Thu, 20 Apr 2023 15:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스 불신의 시대]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/532000/w/646/ex230420.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

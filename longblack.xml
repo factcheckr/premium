@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-05-01T14:18:41.561Z</updated>
+    <updated>2023-05-01T15:20:20.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[고도원 : 좋은 콘텐츠는, 한 사람의 가슴에 꽂히는 편지와 같다]]></title>
-        <id>https://www.longblack.co/note/673</id>
-        <link href="https://www.longblack.co/note/673"/>
-        <updated>2023-04-30T15:17:55.080Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;어머니가 아침마다 보내주시던 글이 있습니다. ‘고도원의 아침편지’. 책 구절이 짧게 적혀있고, 이에 대한 고도원 님의 해석이 곁들여져 있습니다. 읽고 나면, 기분<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[신카이마코토 : 빛의 마술사, 애니메이션 성공 공식을 다시 쓰다]]></title>
+        <id>https://www.longblack.co/note/663</id>
+        <link href="https://www.longblack.co/note/663"/>
+        <updated>2023-05-01T15:19:23.073Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;요즘 다들 ‘스즈메’, ‘스즈메’ 하더라고요? 무슨 소린가 했더니 일본 애니메이션 「스즈메의 문단속」이 흥행 중이래요. 국내 개봉 두 달 만에 누적 관객 500만<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
