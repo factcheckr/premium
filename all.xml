@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 21:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 22:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -501,8 +501,8 @@
             <link>https://www.bookjournalism.com/books/61815</link>
             <guid>https://www.bookjournalism.com/books/61815</guid>
             <pubDate>Mon, 01 May 2023 15:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[스페이스X가 화성에 건설할 세계]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534209/w/646/e230503.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[스페이스X의 우주 독과점]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534275/w/646/e230503.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[IRA 대응책으로 국내 배터리 기업이 완성차 업체와 합작공장을 건설한다. 중요한 것은 10년 뒤다. (북저널리즘)]]></title>
