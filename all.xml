@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 14:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 15:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,11 +246,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/e0a7e93f-7cbc-4d68-8411-767a004b8bbe_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[신카이마코토 : 빛의 마술사, 애니메이션 성공 공식을 다시 쓰다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/663</link>
-            <guid>https://www.longblack.co/note/663</guid>
-            <pubDate>Mon, 01 May 2023 15:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;요즘 다들 ‘스즈메’, ‘스즈메’ 하더라고요? 무슨 소린가 했더니 일본 애니메이션 「스즈메의 문단속」이 흥행 중이래요. 국내 개봉 두 달 만에 누적 관객 500만<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[Who gives a crap : 신경 쓰이는 화장지를 팔아, 147억을 기부하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/669</link>
+            <guid>https://www.longblack.co/note/669</guid>
+            <pubDate>Tue, 02 May 2023 15:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C &nbsp;번 돈의 반만 가져가는 회사가 있대요. 나머지 반은? 기부해요! 지금까지 기부한 금액이 1100만 달러(약 147억원)가 넘어요. 수익이 2200만 달러(약 2<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -335,6 +335,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2010년대 호황을 맞았던 디지털 언론들이 무너진다. 소셜 미디어 이후의 미디어는 정말 독립해야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61860</link>
+            <guid>https://www.bookjournalism.com/books/61860</guid>
+            <pubDate>Tue, 02 May 2023 15:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[버즈피드의 몰락과 뉴미디어의 길]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534431/w/646/ex230502.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[달 표면에 묻힌 막대한 자원을 향해 각국이 경쟁하고 있다. 일론 머스크는 화성을 향한다. (북저널리즘)]]></title>
@@ -423,14 +431,6 @@
             <pubDate>Sun, 23 Apr 2023 15:19:00 GMT</pubDate>
             <content:encoded><![CDATA[밀키트를 고르는 밀레니얼 가족]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/532180/w/646/ex230421.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 여섯 번째 에피소드에서는 불편한 정치 이야기와 돈이 되는 관광, 되돌아 보는 팬데믹에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/61614</link>
-            <guid>https://www.bookjournalism.com/audio/61614</guid>
-            <pubDate>Fri, 21 Apr 2023 08:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[4월 22일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/532155/w/646/contents_thumb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
