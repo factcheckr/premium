@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 23:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 01:34:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 인급동 총정리] 현직 PD 등판! 최신 유튜브 콘텐츠 흐름 분석]]></title>
+            <link>https://www.careet.net/1071</link>
+            <guid>https://www.careet.net/1071</guid>
+            <pubDate>Wed, 03 May 2023 01:33:49 GMT</pubDate>
+            <content:encoded><![CDATA[4월 유튜브 인급동에서 찾은 트렌드는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/20581321-fc5d-41bc-8588-b3f09a9ad9bb_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[X세대와 Z세대의 마음을 동시에 사로잡으려면? ‘#엄빠랑’에 주목하세요]]></title>
             <link>https://www.careet.net/1069</link>
