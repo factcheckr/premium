@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 07:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 08:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -345,6 +345,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[에베레스트는 한때 대담한 등반가만이 도전하는 전설의 존재였다. 요즘에는 완전한 관광 산업이 그 자리를 메우고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61857</link>
+            <guid>https://www.bookjournalism.com/books/61857</guid>
+            <pubDate>Wed, 03 May 2023 08:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[목숨을 건 집착, 에베레스트]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534874/w/646/eb230503.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2010년대 호황을 맞았던 디지털 언론들이 무너진다. 소셜 미디어 이후의 미디어는 정말 독립해야 한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61860</link>
             <guid>https://www.bookjournalism.com/books/61860</guid>
@@ -431,14 +439,6 @@
             <pubDate>Mon, 24 Apr 2023 15:21:27 GMT</pubDate>
             <content:encoded><![CDATA[수단 내전이 시작된 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/532546/w/646/e230425.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식구에게 식사는 의례였다. 의례가 바뀌었다는 건, 가족 문화 전체가 변했다는 말일 수도 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61586</link>
-            <guid>https://www.bookjournalism.com/books/61586</guid>
-            <pubDate>Sun, 23 Apr 2023 15:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[밀키트를 고르는 밀레니얼 가족]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/532180/w/646/ex230421.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
