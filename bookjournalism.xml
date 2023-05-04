@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 23:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 01:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 03 May 2023 15:20:15 GMT</pubDate>
             <content:encoded><![CDATA[인구 대국이 된 인도]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534910/w/646/e2305051.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/535334/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[에베레스트는 한때 대담한 등반가만이 도전하는 전설의 존재였다. 요즘에는 완전한 관광 산업이 그 자리를 메우고 있다.]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Tue, 02 May 2023 15:22:13 GMT</pubDate>
             <content:encoded><![CDATA[버즈피드의 몰락과 뉴미디어의 길]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534431/w/646/ex230502.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534685/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[달 표면에 묻힌 막대한 자원을 향해 각국이 경쟁하고 있다. 일론 머스크는 화성을 향한다.]]></title>

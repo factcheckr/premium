@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 23:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 01:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7186?fr=category</guid>
             <pubDate>Tue, 02 May 2023 08:22:36 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7186?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/04/18/1681782231_iJbmilqeUdnSGjDjd8UNFrWeO2kB5myvVMCTVf7K.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 8분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#777"></path></svg></button></div></div><div><a href="/content/7186?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">인플루언서 마케팅에 필요한 필수 문서 작성법(템플릿 3종 제공)</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[이주의 유행템] 주말이면 3시간 웨이팅, 요즘 뜨는 셀프 스튜디오의 비밀은? (캐릿)]]></title>
+            <link>https://www.careet.net/1076</link>
+            <guid>https://www.careet.net/1076</guid>
+            <pubDate>Thu, 04 May 2023 01:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[이주의 유행템: 유튜브 채널부터 굿즈까지]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/9baaee75-d2ce-4ff7-b754-2a4f426be3c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[4월 인급동 총정리] 현직 PD 등판! 최신 유튜브 콘텐츠 흐름 분석 (캐릿)]]></title>
@@ -353,6 +361,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534910/w/646/e2305051.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/535334/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[에베레스트는 한때 대담한 등반가만이 도전하는 전설의 존재였다. 요즘에는 완전한 관광 산업이 그 자리를 메우고 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61857</link>
             <guid>https://www.bookjournalism.com/books/61857</guid>
@@ -367,14 +383,6 @@
             <pubDate>Tue, 02 May 2023 15:22:13 GMT</pubDate>
             <content:encoded><![CDATA[버즈피드의 몰락과 뉴미디어의 길]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534431/w/646/ex230502.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534685/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[달 표면에 묻힌 막대한 자원을 향해 각국이 경쟁하고 있다. 일론 머스크는 화성을 향한다. (북저널리즘)]]></title>
