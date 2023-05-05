@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 07:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 08:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북저널리즘 위크엔드, 여덟 번째 에피소드에서는 디즈니의 흑인 인어공주와 생각 읽는 인공지능, 울산 교육의 거목 노옥희 전 교육감에 관해 이야기합니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/61988</link>
+            <guid>https://www.bookjournalism.com/audio/61988</guid>
+            <pubDate>Fri, 05 May 2023 08:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[5월 6일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/535394/w/646/contents_thumb_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[울산은 모든 아이들을 품어주는 도시다. 한 교사가 그런 울산을 만들었다.]]></title>
             <link>https://www.bookjournalism.com/books/61871</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 26 Apr 2023 15:21:03 GMT</pubDate>
             <content:encoded><![CDATA[딥페이크는 죄가 없다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/533514/w/646/e230427.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행복하고 건강한 미래를 위해서는 과거로 돌아가야 한다. 우리 선조들이 그랬듯, 뜀박질을 함으로써.]]></title>
-            <link>https://www.bookjournalism.com/books/61626</link>
-            <guid>https://www.bookjournalism.com/books/61626</guid>
-            <pubDate>Wed, 26 Apr 2023 08:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 나아가는, 달리기]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/533505/w/646/eb230426.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
