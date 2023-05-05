@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 14:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 15:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,11 +262,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/e0a7e93f-7cbc-4d68-8411-767a004b8bbe_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[프라하 : 라벤더 와인부터 중세 가정식까지, 도시가 ‘낭만’을 파는 법 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/671</link>
-            <guid>https://www.longblack.co/note/671</guid>
-            <pubDate>Thu, 04 May 2023 15:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;사랑하는 사람과 딱 한 도시만 여행할 수 있다면, 어디로 가실 건가요? 저는 프라하Prague를 고르고 싶습니다. 10년 전 배낭여행에서 본 풍경을 지금도 잊지 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[얼스어스 : 안녕하세요, 포장이 되지 않는 이상한 카페입니다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/680</link>
+            <guid>https://www.longblack.co/note/680</guid>
+            <pubDate>Fri, 05 May 2023 15:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;롱블랙 피플은 카페 고를 때 뭐 봐요? 저는 무조건 디저트! 벌써 4년째 단골인 디저트 카페가 있어요. 연남동에 있는 얼스어스earth us.얼스어스는 국내 첫 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
