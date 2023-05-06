@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-05-06T14:17:16.735Z</updated>
+    <updated>2023-05-06T15:18:30.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[얼스어스 : 안녕하세요, 포장이 되지 않는 이상한 카페입니다]]></title>
-        <id>https://www.longblack.co/note/680</id>
-        <link href="https://www.longblack.co/note/680"/>
-        <updated>2023-05-05T15:19:34.685Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;롱블랙 피플은 카페 고를 때 뭐 봐요? 저는 무조건 디저트! 벌써 4년째 단골인 디저트 카페가 있어요. 연남동에 있는 얼스어스earth us.얼스어스는 국내 최초<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-05-06T15:17:33.048Z</updated>
+        <content type="html"><![CDATA[B가 영감 받은 이번주 롱블랙 문장
+
+“제가 보내는 건 편지고, 편지는 대상이 있잖아요. 몇백만에 무작위로 뿌려지는 게 아니고요. 그래서 한 사람의 마음에 꽂히게끔, 타깃팅이 정교하게 된 콘텐츠가 좋은 콘텐츠라고 생각해요. 한 사람에게 꽂혀서, 그 사람의 마음을 움<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

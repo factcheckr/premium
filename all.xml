@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 14:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 15:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,11 +262,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/e0a7e93f-7cbc-4d68-8411-767a004b8bbe_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[얼스어스 : 안녕하세요, 포장이 되지 않는 이상한 카페입니다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/680</link>
-            <guid>https://www.longblack.co/note/680</guid>
-            <pubDate>Fri, 05 May 2023 15:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;롱블랙 피플은 카페 고를 때 뭐 봐요? 저는 무조건 디저트! 벌써 4년째 단골인 디저트 카페가 있어요. 연남동에 있는 얼스어스earth us.얼스어스는 국내 최초<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 06 May 2023 15:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[B가 영감 받은 이번주 롱블랙 문장
+
+“제가 보내는 건 편지고, 편지는 대상이 있잖아요. 몇백만에 무작위로 뿌려지는 게 아니고요. 그래서 한 사람의 마음에 꽂히게끔, 타깃팅이 정교하게 된 콘텐츠가 좋은 콘텐츠라고 생각해요. 한 사람에게 꽂혀서, 그 사람의 마음을 움<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
