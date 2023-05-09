@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 15:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 16:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,7 +374,7 @@
             <guid>https://www.bookjournalism.com/books/62126</guid>
             <pubDate>Tue, 09 May 2023 15:20:38 GMT</pubDate>
             <content:encoded><![CDATA[영국 대관식이 감추는 것]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/537447/w/646/e230510.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/537561/w/646/e230510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WHO가 코로나19 비상사태를 해제했다. 팬데믹은 끝났지만, 숙제는 남았다. (북저널리즘)]]></title>
