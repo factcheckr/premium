@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 14:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 15:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,11 +278,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/e0a7e93f-7cbc-4d68-8411-767a004b8bbe_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[마스터카드 : 브랜드 스토리텔링은 끝났다, 스토리메이킹 하라 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/676</link>
-            <guid>https://www.longblack.co/note/676</guid>
-            <pubDate>Mon, 08 May 2023 15:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L혹시 빨간색 원과 노란색 원이 겹쳐 있으면 뭐가 생각나? 나는 마스터카드mastercard! 신용카드 오른쪽 하단에 있는 그 로고 말야. 그런데 어느샌가 로고에서 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[댄싱사이더 : 충주 사과밭의 사이더 양조장, 2030 니치마켓을 일으키다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/677</link>
+            <guid>https://www.longblack.co/note/677</guid>
+            <pubDate>Tue, 09 May 2023 15:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;지역이 힙해지고 있어요! 감자빵 먹으러 춘천에 가고, 로컬 편집숍 구경하러 부산에 가요. 롱블랙과 『트렌드 코리아』 팀이 로컬에 주목한 이유죠.오늘부터 5주간, <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -367,6 +367,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[70년 만에 영국 국왕의 대관식이 열렸다. 그 성대함과 화려함은 영국의 민낯을 감추고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/62126</link>
+            <guid>https://www.bookjournalism.com/books/62126</guid>
+            <pubDate>Tue, 09 May 2023 15:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[영국 대관식이 감추는 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/537447/w/646/e230510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WHO가 코로나19 비상사태를 해제했다. 팬데믹은 끝났지만, 숙제는 남았다. (북저널리즘)]]></title>
@@ -455,14 +463,6 @@
             <pubDate>Fri, 28 Apr 2023 08:24:01 GMT</pubDate>
             <content:encoded><![CDATA[4월 29일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/533943/w/646/contents_thumb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[여행 플랫폼 기업들이 리뷰 생태계를 확장한다. 기술이 문화를 만들 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61781</link>
-            <guid>https://www.bookjournalism.com/books/61781</guid>
-            <pubDate>Thu, 27 Apr 2023 18:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[트래블 테크가 바꾸는 리뷰 생태계]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/533681/w/646/ex230427.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
