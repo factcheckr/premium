@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 06:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 07:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,7 +86,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/777abd3d-7e73-44d3-a8c0-c75e61f09e1b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[누가 자꾸 노잼이래? Z세대 반응 뜨거운 공공기관 마케팅.zip (캐릿)]]></title>
+            <title><![CDATA[누가 자꾸 노잼이래? Z세대 반응 뜨거운 공공 마케팅.zip (캐릿)]]></title>
             <link>https://www.careet.net/1074</link>
             <guid>https://www.careet.net/1074</guid>
             <pubDate>Tue, 09 May 2023 01:35:00 GMT</pubDate>
