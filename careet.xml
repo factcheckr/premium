@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 02:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 03:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 팔로워 6만 마케터 ‘제레박’이 알려주는 MZ 타깃 커뮤니티 운영법]]></title>
+            <link>https://www.careet.net/1077</link>
+            <guid>https://www.careet.net/1077</guid>
+            <pubDate>Thu, 11 May 2023 03:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[6천여 명이 활발하게 참여 중인 커뮤니티를 만든 비밀!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/dd3eec81-f8ea-48cd-ad5c-f8ae69610720_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[캐릿이 Z세대 스마트폰 털어옴! 관심사별 인기 앱 TOP 22]]></title>
             <link>https://www.careet.net/1079</link>
