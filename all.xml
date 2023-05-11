@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 14:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 15:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,11 +294,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/e0a7e93f-7cbc-4d68-8411-767a004b8bbe_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[리로드 : 도쿄 빈티지 천국의 2층 상가, ‘옛 동네’의 감각을 되살리다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/678</link>
-            <guid>https://www.longblack.co/note/678</guid>
-            <pubDate>Wed, 10 May 2023 15:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;도쿄의 젊은 세대라면 한 번쯤 찾는 ‘빈티지 천국’이 있습니다. 시모키타자와. 인스타그램에서 영어로 ‘shimokitazawa’를 검색하면, 해시태그를 단 게시물<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[바르셀로나 : 벼룩 시장·심야 영화 상영회로 노동자의 ‘축제’를 열다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/679</link>
+            <guid>https://www.longblack.co/note/679</guid>
+            <pubDate>Thu, 11 May 2023 15:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;치열하게 살다 보면, 가끔은 ‘여유 있는 삶’이 그립죠. 해변에 앉아 일렁이는 파도를 바라보거나, 조용한 카페에서 갓 내린 커피를 음미하고 싶을 때가 있잖아요.일<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -383,6 +383,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[실리콘밸리의 억만장자들이 핵융합 스타트업에 투자한다. 핵융합이 성공하면 에너지 패러다임의 전환이 일어난다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/62210</link>
+            <guid>https://www.bookjournalism.com/books/62210</guid>
+            <pubDate>Thu, 11 May 2023 15:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[핵융합 기술의 미래]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/538360/w/646/ex230511.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[은퇴 이후의 삶을 책임지기에 지금의 안전망은 너무 헐겁다. 기술은 그 대안이 될 수 있다. (북저널리즘)]]></title>
@@ -471,14 +479,6 @@
             <pubDate>Tue, 02 May 2023 15:22:13 GMT</pubDate>
             <content:encoded><![CDATA[버즈피드의 몰락과 뉴미디어의 길]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534431/w/646/ex230502.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달 표면에 묻힌 막대한 자원을 향해 각국이 경쟁하고 있다. 일론 머스크는 화성을 향한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61815</link>
-            <guid>https://www.bookjournalism.com/books/61815</guid>
-            <pubDate>Mon, 01 May 2023 15:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[스페이스X의 우주 독과점]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534275/w/646/e230503.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
