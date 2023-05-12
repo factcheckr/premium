@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 14:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 15:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,11 +302,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/e0a7e93f-7cbc-4d68-8411-767a004b8bbe_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[바르셀로나 : 벼룩 시장·심야 영화 상영회로 노동자의 ‘축제’를 열다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/679</link>
-            <guid>https://www.longblack.co/note/679</guid>
-            <pubDate>Thu, 11 May 2023 15:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;치열하게 살다 보면, 가끔은 ‘여유 있는 삶’이 그립죠. 해변에 앉아 일렁이는 파도를 바라보거나, 조용한 카페에서 갓 내린 커피를 음미하고 싶을 때가 있잖아요.일<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[아이 웨이웨이 : 예술계의 이단아, 억압을 향해 가운뎃손가락을 들어올리다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/674</link>
+            <guid>https://www.longblack.co/note/674</guid>
+            <pubDate>Fri, 12 May 2023 15:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;천안문을 향해 가운뎃손가락을 날린 사진을 본 적이 있나요? 이 사진, 예술작품이라고 합니다. 중국의 반체제 예술가 아이 웨이웨이Ai Weiwei의 작품이에요.&nbsp;이<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
