@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 07:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 08:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -75,7 +75,7 @@
             <link>https://publy.co/content/7200?fr=category</link>
             <guid>https://publy.co/content/7200?fr=category</guid>
             <pubDate>Fri, 12 May 2023 07:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7200?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/04/26/1682479449_gAISatJGCra0krMKEwqg12HheI6iyFNR282gfmNM.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 12분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#777"></path></svg></button></div></div><div><a href="/content/7200?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">한 눈에 보는 디지털 비서, 구글스프레드시트 자동화 7종 템플릿</h6></a></div></div></div></div>]]></content:encoded>
+            <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7200?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/04/26/1682479449_gAISatJGCra0krMKEwqg12HheI6iyFNR282gfmNM.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 12분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#777"></path></svg></button></div></div><div><a href="/content/7200?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">프로젝트 관리부터 개인 관리까지, 7가지 구글 스프레드시트 템플릿</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 10대가 인스타보다 많이 쓴다는 익명 칭찬 앱, ‘하입(HYPE)’ 아세요? (캐릿)]]></title>
@@ -393,6 +393,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 위크엔드, 아홉 번째 에피소드에서는 메마른 메콩강과 우크라이나의 대반격, 서울퀴어문화축제와 차별금지법에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/62227</link>
+            <guid>https://www.bookjournalism.com/audio/62227</guid>
+            <pubDate>Fri, 12 May 2023 08:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[5월 13일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/538415/w/646/contents_thumb_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[실리콘밸리의 억만장자들이 핵융합 스타트업에 투자한다. 핵융합이 성공하면 에너지 패러다임의 전환이 일어난다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/62210</link>
             <guid>https://www.bookjournalism.com/books/62210</guid>
@@ -479,14 +487,6 @@
             <pubDate>Wed, 03 May 2023 08:23:57 GMT</pubDate>
             <content:encoded><![CDATA[목숨을 건 집착, 에베레스트]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534874/w/646/eb230503.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2010년대 호황을 맞았던 디지털 언론들이 무너진다. 소셜 미디어 이후의 미디어는 정말 독립해야 한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61860</link>
-            <guid>https://www.bookjournalism.com/books/61860</guid>
-            <pubDate>Tue, 02 May 2023 15:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[버즈피드의 몰락과 뉴미디어의 길]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534431/w/646/ex230502.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
