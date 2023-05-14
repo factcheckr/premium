@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 16:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 17:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,6 +393,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[전 세계가 간첩 색출 작전에 나섰다. 우리나라도 안전하지 않다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/62240</link>
+            <guid>https://www.bookjournalism.com/books/62240</guid>
+            <pubDate>Sun, 14 May 2023 17:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[스파이 색출 전쟁의 실체]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/538587/w/646/e230512.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[북저널리즘 위크엔드, 아홉 번째 에피소드에서는 메마른 메콩강과 우크라이나의 대반격, 서울퀴어문화축제와 차별금지법에 관해 이야기합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/62227</link>
             <guid>https://www.bookjournalism.com/audio/62227</guid>
@@ -479,14 +487,6 @@
             <pubDate>Wed, 03 May 2023 15:20:15 GMT</pubDate>
             <content:encoded><![CDATA[인구 대국이 된 인도]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534910/w/646/e2305051.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에베레스트는 한때 대담한 등반가만이 도전하는 전설의 존재였다. 요즘에는 완전한 관광 산업이 그 자리를 메우고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61857</link>
-            <guid>https://www.bookjournalism.com/books/61857</guid>
-            <pubDate>Wed, 03 May 2023 08:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[목숨을 건 집착, 에베레스트]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534874/w/646/eb230503.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
