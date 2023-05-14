@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-05-14T14:17:35.138Z</updated>
+    <updated>2023-05-14T15:18:46.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-05-13T15:17:27.617Z</updated>
-        <content type="html"><![CDATA[B가 좋아한 이번주 롱블랙 문장
-
-“남이 날 어떻게 평가하건, 그건 내가 결정할 수 있는 일이 아니에요. 가치를 높여 달라고 구걸할 수도 없죠. 믿을 수 있는 건 오직 ‘나’입니다. 내가 내 일의 가장 냉철한 ‘비평가’가 돼야 해요. 나만큼 나를 강하게 비판할 사람<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[골목길 연구자 모종린 : 전국 220곳 골목을 누비며, 로컬의 성공 비결을 읽다]]></title>
+        <id>https://www.longblack.co/note/682</id>
+        <link href="https://www.longblack.co/note/682"/>
+        <updated>2023-05-14T15:17:49.860Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K전 로컬 브랜드를 좋아해요. 우리 동네엔 없는, 그 지역에서만 가능한 경험을 주잖아요. 요즘은 로컬 브랜드가 지역을 넘어서도 인기를 끌더라고요. 지난주에 C가 소개<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

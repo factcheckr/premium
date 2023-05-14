@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 14:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 15:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,13 +302,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/e0a7e93f-7cbc-4d68-8411-767a004b8bbe_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 13 May 2023 15:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[B가 좋아한 이번주 롱블랙 문장
-
-“남이 날 어떻게 평가하건, 그건 내가 결정할 수 있는 일이 아니에요. 가치를 높여 달라고 구걸할 수도 없죠. 믿을 수 있는 건 오직 ‘나’입니다. 내가 내 일의 가장 냉철한 ‘비평가’가 돼야 해요. 나만큼 나를 강하게 비판할 사람<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[골목길 연구자 모종린 : 전국 220곳 골목을 누비며, 로컬의 성공 비결을 읽다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/682</link>
+            <guid>https://www.longblack.co/note/682</guid>
+            <pubDate>Sun, 14 May 2023 15:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K전 로컬 브랜드를 좋아해요. 우리 동네엔 없는, 그 지역에서만 가능한 경험을 주잖아요. 요즘은 로컬 브랜드가 지역을 넘어서도 인기를 끌더라고요. 지난주에 C가 소개<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
