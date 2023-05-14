@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-05-14T22:18:03.803Z</updated>
+    <updated>2023-05-14T23:19:30.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/682</id>
         <link href="https://www.longblack.co/note/682"/>
         <updated>2023-05-14T15:17:49.860Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K전 로컬 브랜드를 좋아해요. 우리 동네엔 없는, 그 지역에서만 가능한 경험을 주잖아요. 요즘은 로컬 브랜드가 지역을 넘어서도 인기를 끌더라고요. 지난주에 C가 소개<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;전 로컬 브랜드를 좋아해요. 우리 동네엔 없는, 그 지역에서만 가능한 경험을 주잖아요. 요즘은 로컬 브랜드가 지역을 넘어서도 인기를 끌더라고요. 지난주에 C가 소<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
