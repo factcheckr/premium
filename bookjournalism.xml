@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 14:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 17:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[덥다. 설탕 가격이 오른다. 전쟁이 길어진다. 설탕 가격이 오른다.]]></title>
+            <link>https://www.bookjournalism.com/books/62258</link>
+            <guid>https://www.bookjournalism.com/books/62258</guid>
+            <pubDate>Mon, 15 May 2023 17:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[백설탕이 아니라 금설탕]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/538794/w/646/e230516.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 세계가 간첩 색출 작전에 나섰다. 우리나라도 안전하지 않다.]]></title>
             <link>https://www.bookjournalism.com/books/62240</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 04 May 2023 20:20:47 GMT</pubDate>
             <content:encoded><![CDATA[오비추어리, 교육감 노옥희]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/536192/w/646/d230505_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인도의 인구가 중국을 추월했다. 세계 질서에서 인도의 영향력도 커지고 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/61941</link>
-            <guid>https://www.bookjournalism.com/books/61941</guid>
-            <pubDate>Wed, 03 May 2023 15:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[인구 대국이 된 인도]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/534910/w/646/e2305051.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
