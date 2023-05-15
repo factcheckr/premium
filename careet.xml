@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 23:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 01:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 뽑았다! 기억에 남은 팝업스토어 13]]></title>
+            <link>https://www.careet.net/1072</link>
+            <guid>https://www.careet.net/1072</guid>
+            <pubDate>Mon, 15 May 2023 01:37:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘팝업스토어에 방문한 후에 이 브랜드 이미지가 긍정적으로 변했어요.’ 특징 5가지를 모았습니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/d97febdb-f570-436a-9fd6-406b25326d7c_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 10대가 인스타보다 많이 쓴다는 익명 칭찬 앱, ‘하입(HYPE)’ 아세요?]]></title>
             <link>https://www.careet.net/1081</link>
