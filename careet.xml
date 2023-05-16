@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 23:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 01:38:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 요즘 뜨는 행사·이벤트·핫플 찾을 때 참고하는 계정 13]]></title>
+            <link>https://www.careet.net/1078</link>
+            <guid>https://www.careet.net/1078</guid>
+            <pubDate>Tue, 16 May 2023 01:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[일프로클럽, 블림프, POPS 모르는 사람은 클릭!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/e5fcf31f-e347-4e98-bb0a-735416de84ab_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 뽑았다! 기억에 남은 팝업스토어 13]]></title>
             <link>https://www.careet.net/1072</link>
