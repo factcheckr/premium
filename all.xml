@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 14:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 15:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,11 +326,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/e0a7e93f-7cbc-4d68-8411-767a004b8bbe_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[해녀의 부엌 : 연극이 된 제주 해녀의 삶, 잊지 못할 해산물 다이닝을 창조하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/684</link>
-            <guid>https://www.longblack.co/note/684</guid>
-            <pubDate>Tue, 16 May 2023 16:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;여러분이 기억하는 제주는 어떤가요? 1월 1일 성산일출봉에서 바라본 태양, 우도에서 먹은 땅콩 아이스크림, 애월 바다에서 즐긴 카약까지. 많은 분이 ‘여행의 설렘<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[Kith : 보그부터 BMW, 스타워즈까지, ‘컬래버 장인’ 된 뉴욕 편집숍 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/691</link>
+            <guid>https://www.longblack.co/note/691</guid>
+            <pubDate>Wed, 17 May 2023 15:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;BMW와 스타워즈, 뉴발란스와 나이키의 공통점. 뭔지 아세요? 뉴욕의 편집숍 ‘키스Kith’와 컬래버레이션&nbsp;했다는 거예요!&nbsp;패션 브랜드는 물론, 자동차와 캐릭터까<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -415,6 +415,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기술의 개방과 민주화는 웹2.0을 넘어설 수 있을까? 플랫폼의 독점 이후에는 탈중앙을 지향하는 프로토콜이 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/62326</link>
+            <guid>https://www.bookjournalism.com/books/62326</guid>
+            <pubDate>Wed, 17 May 2023 15:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[웹3.0이 그리는 미래]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/539569/w/646/e230518.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[38억 년 전, 태양계에는 엄청난 격변이 있었다. 지금도 그 안에는 엄청나게 많은 소행성이 존재한다. (북저널리즘)]]></title>
@@ -503,14 +511,6 @@
             <pubDate>Tue, 09 May 2023 15:20:38 GMT</pubDate>
             <content:encoded><![CDATA[영국 대관식이 감추는 것]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/537561/w/646/e230510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHO가 코로나19 비상사태를 해제했다. 팬데믹은 끝났지만, 숙제는 남았다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/62104</link>
-            <guid>https://www.bookjournalism.com/books/62104</guid>
-            <pubDate>Mon, 08 May 2023 15:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[감염병 재난의 종료]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/538558/w/646/e230509.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
