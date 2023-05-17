@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 07:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 08:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 초등학생은 용돈 어디에 쓸까? 학교 끝나고 뭐 할까?]]></title>
+            <link>https://www.careet.net/1083</link>
+            <guid>https://www.careet.net/1083</guid>
+            <pubDate>Wed, 17 May 2023 08:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[무인문구점 굿즈부터 모바일 피파까지, 초등학교 인기 아이템을 모았습니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/a4389223-94ab-4a35-8eb1-79794224a08d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 요즘 뜨는 행사·이벤트·핫플 찾을 때 참고하는 계정 13]]></title>
             <link>https://www.careet.net/1078</link>
