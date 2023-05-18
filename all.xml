@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 16:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 17:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -425,6 +425,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나라를 지킬 사람이 없다. 포용이 안보의 문제가 되는 시대가 왔다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/62337</link>
+            <guid>https://www.bookjournalism.com/books/62337</guid>
+            <pubDate>Thu, 18 May 2023 17:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[통계에 없는 다문화 군인]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/539689/w/646/ex230518.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기술의 개방과 민주화는 웹2.0을 넘어설 수 있을까? 플랫폼의 독점 이후에는 탈중앙을 지향하는 프로토콜이 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/62326</link>
             <guid>https://www.bookjournalism.com/books/62326</guid>
@@ -511,14 +519,6 @@
             <pubDate>Wed, 10 May 2023 08:24:08 GMT</pubDate>
             <content:encoded><![CDATA[선택지 없는 선택권]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/537783/w/646/eb230510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[70년 만에 영국 국왕의 대관식이 열렸다. 그 성대함과 화려함은 영국의 민낯을 감추고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/62126</link>
-            <guid>https://www.bookjournalism.com/books/62126</guid>
-            <pubDate>Tue, 09 May 2023 15:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[영국 대관식이 감추는 것]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/537561/w/646/e230510.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
