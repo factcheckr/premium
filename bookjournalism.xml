@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 01:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 02:36:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 17 May 2023 15:20:23 GMT</pubDate>
             <content:encoded><![CDATA[웹3.0이 그리는 미래]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/539569/w/646/e230518.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/539684/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[38억 년 전, 태양계에는 엄청난 격변이 있었다. 지금도 그 안에는 엄청나게 많은 소행성이 존재한다.]]></title>
@@ -38,14 +46,6 @@
             <pubDate>Tue, 16 May 2023 16:27:49 GMT</pubDate>
             <content:encoded><![CDATA[딥페이크의 얼굴]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/536963/w/646/91_deepfake_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/539482/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[덥다. 설탕 가격이 오른다. 전쟁이 길어진다. 설탕 가격이 오른다.]]></title>
