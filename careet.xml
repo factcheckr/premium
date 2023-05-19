@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 23:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 01:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 쇼츠, 릴스에 자주 보이는 기싸움좌 ‘에디’가 대체 누구야?]]></title>
+            <link>https://www.careet.net/1086</link>
+            <guid>https://www.careet.net/1086</guid>
+            <pubDate>Fri, 19 May 2023 01:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[한 시간에 30개 이상 팔리는 유행템 알려드림!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/8232fdff-f65a-45f5-8c5c-c15abdae7bfa_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘o99’가 뭔지 아세요? 해외 Z세대의 최신 유행 모음]]></title>
             <link>https://www.careet.net/1082</link>
