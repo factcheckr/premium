@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 07:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 08:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북저널리즘 위크엔드, 열 번째 에피소드에서는 새로운 꿈을 꾸는 VR 게임과 TV, 예측 불가능성을 넘어서야 하는 지진에 관해 이야기합니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/62346</link>
+            <guid>https://www.bookjournalism.com/audio/62346</guid>
+            <pubDate>Fri, 19 May 2023 08:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[5월 20일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/540102/w/646/contents_thumb_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[나라를 지킬 사람이 없다. 포용이 안보의 문제가 되는 시대가 왔다.]]></title>
             <link>https://www.bookjournalism.com/books/62337</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 10 May 2023 15:21:49 GMT</pubDate>
             <content:encoded><![CDATA[노인 포화 시대의 기술]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/537800/w/646/e230511.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조력 자살은 선택의 문제처럼 치장된다. 누군가에게 이것은 전혀 선택이 아니다.]]></title>
-            <link>https://www.bookjournalism.com/books/62095</link>
-            <guid>https://www.bookjournalism.com/books/62095</guid>
-            <pubDate>Wed, 10 May 2023 08:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[선택지 없는 선택권]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/537783/w/646/eb230510.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
