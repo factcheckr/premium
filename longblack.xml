@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-05-20T14:18:02.897Z</updated>
+    <updated>2023-05-20T15:18:27.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[김찬용 : 1세대 전시해설가, 예술에 빠져드는 지름길을 안내하다]]></title>
-        <id>https://www.longblack.co/note/692</id>
-        <link href="https://www.longblack.co/note/692"/>
-        <updated>2023-05-19T15:18:58.990Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;‘미술 관람이 부자들의 취미’라고 이야기하는 사람은 이제 없습니다. 젊은 연인부터 노부부까지, 미술관은 항상 사람으로 북적이죠. 티켓 예약이 하늘의 별 따기인 곳<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-05-20T15:17:29.779Z</updated>
+        <content type="html"><![CDATA[C가 좋아한 이번주 롱블랙 문장
+
+“음악을 어떻게 하면 잘 만드냐고들 물으세요. 좋은 음악이 나올 때까지 앉아있는 것 말고는 노하우가 없어요. 음악은 영감inspiration이 아니라 엉덩이로 만드는 거예요. 전 취미가 없어요. 음악만 하거든요. 그건 제가 음악 만<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
