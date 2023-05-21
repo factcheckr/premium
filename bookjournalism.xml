@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 14:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 15:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하루살이가 골칫거리가 됐다. 진짜 문제는 보이지 않는 곤충들이다.]]></title>
+            <link>https://www.bookjournalism.com/books/62360</link>
+            <guid>https://www.bookjournalism.com/books/62360</guid>
+            <pubDate>Sun, 21 May 2023 15:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[사라지는 곤충]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/540292/w/646/e230519.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 열 번째 에피소드에서는 새로운 꿈을 꾸는 VR 게임과 TV, 예측 불가능성을 넘어서야 하는 지진에 관해 이야기합니다.]]></title>
             <link>https://www.bookjournalism.com/audio/62346</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 11 May 2023 15:20:31 GMT</pubDate>
             <content:encoded><![CDATA[핵융합 기술의 미래]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/538360/w/646/ex230511.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은퇴 이후의 삶을 책임지기에 지금의 안전망은 너무 헐겁다. 기술은 그 대안이 될 수 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/62191</link>
-            <guid>https://www.bookjournalism.com/books/62191</guid>
-            <pubDate>Wed, 10 May 2023 15:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[노인 포화 시대의 기술]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/537800/w/646/e230511.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
