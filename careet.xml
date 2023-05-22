@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 23:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 01:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이주의 일 잘한 브랜드] Z세대는 어떤 메시지가 담긴 광고에 호감을 가질까?]]></title>
+            <link>https://www.careet.net/1087</link>
+            <guid>https://www.careet.net/1087</guid>
+            <pubDate>Mon, 22 May 2023 01:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[팬덤 문화, 이벤트 속의 이벤트 활용해 입소문 얻은 마케팅 사례 3]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/db33ca2d-9233-43d9-8889-248c561a37d2_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 쇼츠, 릴스에 자주 보이는 기싸움좌 ‘에디’가 대체 누구야?]]></title>
             <link>https://www.careet.net/1086</link>
