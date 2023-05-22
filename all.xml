@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 14:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 15:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,11 +350,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/e0a7e93f-7cbc-4d68-8411-767a004b8bbe_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김해김 : 관종력과 실험 정신으로, 파리 패션계를 사로잡다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/693</link>
-            <guid>https://www.longblack.co/note/693</guid>
-            <pubDate>Sun, 21 May 2023 15:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;한국보다 파리에서 먼저 주목받은 패션 브랜드가 있어요. 김해김KIMHEKIM. 네, 맞습니다. 김해 김씨란 뜻이에요. 디자이너 김인태가 그의 본관과 성씨를 따서 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[메가커피 : 20년 저가 카페 시장의 신흥 리더, 재무제표로 읽다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/695</link>
+            <guid>https://www.longblack.co/note/695</guid>
+            <pubDate>Mon, 22 May 2023 15:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 Ｌ롱블랙 피플, 하루에 커피 몇 잔이나 마셔? 나는 서너 잔. 요즘 물가가 장난 아니잖아. 그래서 가끔 찾게 되는 카페 브랜드가 있어. 바로 메가MGC커피(이하 메가<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -439,6 +439,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[태평양이 뜨거워진다. 엘니뇨가 온다. 폭염, 가뭄, 홍수가 일어난다. 엘니뇨는 어떻게 발생할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/62393</link>
+            <guid>https://www.bookjournalism.com/books/62393</guid>
+            <pubDate>Mon, 22 May 2023 15:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[엘니뇨는 어떻게 생길까]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/540387/w/646/e2305231.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하루살이가 골칫거리가 됐다. 진짜 문제는 보이지 않는 곤충들이다. (북저널리즘)]]></title>
@@ -527,14 +535,6 @@
             <pubDate>Fri, 12 May 2023 08:23:09 GMT</pubDate>
             <content:encoded><![CDATA[5월 13일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/538415/w/646/contents_thumb_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[실리콘밸리의 억만장자들이 핵융합 스타트업에 투자한다. 핵융합이 성공하면 에너지 패러다임의 전환이 일어난다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/62210</link>
-            <guid>https://www.bookjournalism.com/books/62210</guid>
-            <pubDate>Thu, 11 May 2023 15:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[핵융합 기술의 미래]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/538360/w/646/ex230511.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
