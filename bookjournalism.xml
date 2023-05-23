@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 14:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 15:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왕따가 된 러시아가 중국에 항구를 바쳤다. 동해를 품은 우리가 큰일 났다.]]></title>
+            <link>https://www.bookjournalism.com/books/62460</link>
+            <guid>https://www.bookjournalism.com/books/62460</guid>
+            <pubDate>Tue, 23 May 2023 15:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[블라디보스토크를 얻은 중국]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541264/w/646/e2305241.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[태평양이 뜨거워진다. 엘니뇨가 온다. 폭염, 가뭄, 홍수가 일어난다. 엘니뇨는 어떻게 발생할까?]]></title>
             <link>https://www.bookjournalism.com/books/62393</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 14 May 2023 17:16:17 GMT</pubDate>
             <content:encoded><![CDATA[스파이 색출 전쟁의 실체]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/538587/w/646/e230512.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 아홉 번째 에피소드에서는 메마른 메콩강과 우크라이나의 대반격, 서울퀴어문화축제와 차별금지법에 관해 이야기합니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/62227</link>
-            <guid>https://www.bookjournalism.com/audio/62227</guid>
-            <pubDate>Fri, 12 May 2023 08:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[5월 13일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/538415/w/646/contents_thumb_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
