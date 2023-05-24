@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 15:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 16:26:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대우조선해양이 ‘한화오션’으로 재탄생했다. 한화는 록히드마틴이 될 수 있을까?]]></title>
+            <link>https://www.bookjournalism.com/books/62567</link>
+            <guid>https://www.bookjournalism.com/books/62567</guid>
+            <pubDate>Wed, 24 May 2023 16:26:21 GMT</pubDate>
+            <content:encoded><![CDATA[해양에서 찾은 한화의 미래]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541658/w/646/e2305251.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세계가 해온 30년 동안의 노력이 미국 때문에 실패했다. 허망한 결과다. 하지만 포기할 수는 없다.]]></title>
             <link>https://www.bookjournalism.com/books/62544</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 16 May 2023 16:27:49 GMT</pubDate>
             <content:encoded><![CDATA[딥페이크의 얼굴]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/536963/w/646/91_deepfake_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덥다. 설탕 가격이 오른다. 전쟁이 길어진다. 설탕 가격이 오른다.]]></title>
-            <link>https://www.bookjournalism.com/books/62258</link>
-            <guid>https://www.bookjournalism.com/books/62258</guid>
-            <pubDate>Mon, 15 May 2023 17:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[백설탕이 아니라 금설탕]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/538794/w/646/e230516.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
