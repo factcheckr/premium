@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 23:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 01:36:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[캐릿 서베이] Z세대 63.8%는 ‘인플루언서’가 되고 싶어 한다, 그 이유는?]]></title>
+            <link>https://www.careet.net/1089</link>
+            <guid>https://www.careet.net/1089</guid>
+            <pubDate>Thu, 25 May 2023 01:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 34.1%, ‘셀프 브랜딩’을 위해 인플루언서가 되고 싶다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/3f1e61fb-45ae-45e0-aede-b926620a9ad6_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[카드뉴스] 최신 급상승 데이터에 숨은 분야별 MZ세대 트렌드]]></title>
             <link>https://www.careet.net/1090</link>
