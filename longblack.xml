@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-05-25T22:18:37.091Z</updated>
+    <updated>2023-05-25T23:19:51.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/698</id>
         <link href="https://www.longblack.co/note/698"/>
         <updated>2023-05-25T15:18:30.004Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;고백하나 할게요. 전 사실 반지 덕후예요! 지금도 제 손엔 네 개의 반지가 끼워져 있죠. 집에 돌아오면 잘 닦아서 보관해 놓고, 계속 보며 힐링할 정도예요.최근에<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;고백 하나 할게요. 전 사실 반지 덕후예요! 지금도 제 손엔 네 개의 반지가 끼워져 있죠. 집에 돌아오면 잘 닦아서 보관해 놓고, 계속 보며 힐링할 정도예요.최근<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
