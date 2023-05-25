@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 14:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 15:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,11 +374,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/e0a7e93f-7cbc-4d68-8411-767a004b8bbe_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[IWA : 돔페리뇽 출신 양조가, 스토리로 마시는 사케를 기획하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/697</link>
-            <guid>https://www.longblack.co/note/697</guid>
-            <pubDate>Wed, 24 May 2023 15:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;여기 전 돔페리뇽 최고양조책임자가 만든 사케가 있습니다. 게다가 이 사케, 새하얀 설산의 양조장에서 주조됩니다. 심지어 양조장을 만든 이는 일본의 유명 건축가 쿠<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[누니주얼리 : 좌판에서 백화점까지, 보석을 세공하듯 브랜드를 다듬다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/698</link>
+            <guid>https://www.longblack.co/note/698</guid>
+            <pubDate>Thu, 25 May 2023 15:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;고백하나 할게요. 전 사실 반지 덕후예요! 지금도 제 손엔 네 개의 반지가 끼워져 있죠. 집에 돌아오면 잘 닦아서 보관해 놓고, 계속 보며 힐링할 정도예요.최근에<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -465,6 +465,22 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[영미권에서 폐경기에 대한 복지 제도가 확대하고 있다. 여성의 생애 주기를 아는 것이 저출산 대책의 시작이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/62594</link>
+            <guid>https://www.bookjournalism.com/books/62594</guid>
+            <pubDate>Thu, 25 May 2023 15:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[여성의 생애 주기를 논해야 하는 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541946/w/646/e230526.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2023년 초까지 11개의 유니콘이 아프리카에서 탄생했다. 우리가 몰랐던 아프리카, 그곳에 스타트업이 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/62420</link>
+            <guid>https://www.bookjournalism.com/books/62420</guid>
+            <pubDate>Thu, 25 May 2023 15:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[아프리카 스타트업]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541991/w/646/93_africa.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[대우조선해양이 ‘한화오션’으로 재탄생했다. 한화는 바다에서 미래를 찾는다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/62567</link>
             <guid>https://www.bookjournalism.com/books/62567</guid>
@@ -543,22 +559,6 @@
             <pubDate>Wed, 17 May 2023 08:26:44 GMT</pubDate>
             <content:encoded><![CDATA[지구를 지켜라]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/539556/w/646/eb230517.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년층이 태국의 개혁을 이끌었다. 입헌군주제의 그늘 아래 있던 태국이 변하고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/62273</link>
-            <guid>https://www.bookjournalism.com/books/62273</guid>
-            <pubDate>Tue, 16 May 2023 16:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[태국에 등장한 젊은 개혁]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/539361/w/646/e230517.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 이미지와 새로운 얼굴의 시대다. 얼굴 불신의 시대 앞에서 물어야 할 것은 무엇인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/62116</link>
-            <guid>https://www.bookjournalism.com/books/62116</guid>
-            <pubDate>Tue, 16 May 2023 16:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[딥페이크의 얼굴]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/536963/w/646/91_deepfake_2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
