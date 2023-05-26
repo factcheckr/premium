@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 23:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 01:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘젤다 휴가’가 뭐야? 요즘 Z세대는 이거 하려고 휴가 내는 중!]]></title>
+            <link>https://www.careet.net/1091</link>
+            <guid>https://www.careet.net/1091</guid>
+            <pubDate>Fri, 26 May 2023 01:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 화제인 AI 서비스, 게임, 굿즈, 유튜브 채널 총정리]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/436d0c3b-19e4-45e5-9171-c42729947f83_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[캐릿 서베이] Z세대 63.8%는 ‘인플루언서’가 되고 싶어 한다, 그 이유는?]]></title>
             <link>https://www.careet.net/1089</link>
