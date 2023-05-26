@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 01:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 02:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -489,20 +489,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542017/w/646/93_africa.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542023/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[대우조선해양이 ‘한화오션’으로 재탄생했다. 한화는 바다에서 미래를 찾는다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/62567</link>
             <guid>https://www.bookjournalism.com/books/62567</guid>
             <pubDate>Wed, 24 May 2023 18:24:22 GMT</pubDate>
             <content:encoded><![CDATA[록히드마틴이 되려는 한화]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541710/w/646/e2305251.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541787/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[세계가 해온 30년 동안의 노력이 미국 때문에 실패했다. 허망한 결과다. 하지만 포기할 수는 없다. (북저널리즘)]]></title>
