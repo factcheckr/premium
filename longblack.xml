@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-05-29T06:25:18.032Z</updated>
+    <updated>2023-05-29T07:19:07.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/700</id>
         <link href="https://www.longblack.co/note/700"/>
         <updated>2023-05-28T15:18:27.645Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C저 지금 양양이에요! EDMElectronic Dance Music 페스티벌 ‘디 에어하우스The Air House’에 왔거든요. 지금도 음악이 멈추지 않아요. 비<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;&nbsp;저 지금 양양이에요! EDMElectronic Dance Music 페스티벌 ‘디 에어하우스The Air House’에 왔거든요. 지금도 음악이 멈추지 않아요.<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
