@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 14:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 15:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,11 +390,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/e0a7e93f-7cbc-4d68-8411-767a004b8bbe_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[글로우서울 : 호우주의보와 청수당, 온천집...영화 같은 공간 경험의 탄생 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/701</link>
-            <guid>https://www.longblack.co/note/701</guid>
-            <pubDate>Mon, 29 May 2023 15:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;요즘 인스타그램에서 눈에 띈 공간이 있어요. 서울 이태원에 있는 ‘호우주의보’. 365일 비가 내리는 카페입니다. 오픈 한 달 만에 ‘#호우주의보’ 해시태그는 5<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[코스모스 리조트 : 송곳산에 고릴라 세계관을 입혀, 울릉도를 브랜딩하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/686</link>
+            <guid>https://www.longblack.co/note/686</guid>
+            <pubDate>Tue, 30 May 2023 15:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B사람마다 여행 스타일이 다르죠. 전 번잡한 생각을 내려놓을 만한 조용한 곳이 좋습니다. 그래서 찾은 곳이 울릉도. 배로만 6시간이 걸리는 쉽지 않은 여행지예요. 울<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -479,6 +479,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴럴링크가 FDA로부터 인체 실험을 승인받았다. 기대와 우려가 공존한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/62775</link>
+            <guid>https://www.bookjournalism.com/books/62775</guid>
+            <pubDate>Tue, 30 May 2023 15:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[뇌에 칩 심는 일론 머스크]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542972/w/646/e2305313.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴욕시가 가라앉는다. 저지대는 매년 여름을 걱정한다. 무엇이 기형적인 도시 풍경을 만들었나? (북저널리즘)]]></title>
@@ -567,14 +575,6 @@
             <pubDate>Sun, 21 May 2023 15:18:21 GMT</pubDate>
             <content:encoded><![CDATA[사라지는 곤충]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/540292/w/646/e230519.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 열 번째 에피소드에서는 새로운 꿈을 꾸는 VR 게임과 TV, 예측 불가능성을 넘어서야 하는 지진에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/62346</link>
-            <guid>https://www.bookjournalism.com/audio/62346</guid>
-            <pubDate>Fri, 19 May 2023 08:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[5월 20일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/540102/w/646/contents_thumb_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
