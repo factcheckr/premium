@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 01:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 02:57:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542972/w/646/e2305313.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543104/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뉴욕시가 가라앉는다. 저지대는 매년 여름을 걱정한다. 무엇이 기형적인 도시 풍경을 만들었나?]]></title>
             <link>https://www.bookjournalism.com/books/62600</link>
             <guid>https://www.bookjournalism.com/books/62600</guid>
             <pubDate>Mon, 29 May 2023 15:19:35 GMT</pubDate>
             <content:encoded><![CDATA[뉴욕의 침몰을 막을 상상력]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542242/w/646/e230529.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542685/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 신간 《아프리카 스타트업》의 저자인 이종현 국제개발협력학 박사에게 왜 지금 아프리카를 주목해야 하는지 물었습니다.]]></title>
