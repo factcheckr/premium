@@ -4,9 +4,25 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 07:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 08:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금으로부터 100년 전, 일본에서 대지진이 일어났다. 재난은 트라우마를 남긴다. 바다 건너 한국에도 어떤 트라우마가 남았다.]]></title>
+            <link>https://www.bookjournalism.com/books/62773</link>
+            <guid>https://www.bookjournalism.com/books/62773</guid>
+            <pubDate>Wed, 31 May 2023 08:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[간토 대지진 100년, 한국이 잊지 못한 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543324/w/646/eb230531.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모든 베스트셀러 뒤엔 비상한 에디터가 있다. 독자를 매료하고 시장을 창출하는 기획은 무엇이 다른가? 20년 경력 에디터의 시선으로 세상을 읽는다.]]></title>
+            <link>https://www.bookjournalism.com/books/62589</link>
+            <guid>https://www.bookjournalism.com/books/62589</guid>
+            <pubDate>Wed, 31 May 2023 08:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[에디터의 일]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543370/w/646/93_editor.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴럴링크가 FDA로부터 인체 실험을 승인받았다. 기대와 우려가 공존한다.]]></title>
             <link>https://www.bookjournalism.com/books/62775</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 23 May 2023 15:22:01 GMT</pubDate>
             <content:encoded><![CDATA[블라디보스토크를 얻은 중국]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541264/w/646/e2305241.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[태평양이 뜨거워진다. 엘니뇨가 온다. 폭염, 가뭄, 홍수가 일어난다. 엘니뇨는 어떻게 발생할까?]]></title>
-            <link>https://www.bookjournalism.com/books/62393</link>
-            <guid>https://www.bookjournalism.com/books/62393</guid>
-            <pubDate>Mon, 22 May 2023 15:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[엘니뇨는 어떻게 생길까]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541111/w/646/e2305231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루살이가 골칫거리가 됐다. 진짜 문제는 보이지 않는 곤충들이다.]]></title>
-            <link>https://www.bookjournalism.com/books/62360</link>
-            <guid>https://www.bookjournalism.com/books/62360</guid>
-            <pubDate>Sun, 21 May 2023 15:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[사라지는 곤충]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/540292/w/646/e230519.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
