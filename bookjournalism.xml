@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 14:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 15:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한이 우주발사체를 쏘아 올렸다. 시민을 불안케 한 것은 재난 문자였다.]]></title>
+            <link>https://www.bookjournalism.com/books/62837</link>
+            <guid>https://www.bookjournalism.com/books/62837</guid>
+            <pubDate>Wed, 31 May 2023 15:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[재난이 된 재난 문자]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543385/w/646/e230601.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금으로부터 100년 전, 일본에서 대지진이 일어났다. 재난은 트라우마를 남긴다. 바다 건너 한국에도 어떤 트라우마가 남았다.]]></title>
             <link>https://www.bookjournalism.com/books/62773</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 24 May 2023 08:24:39 GMT</pubDate>
             <content:encoded><![CDATA[유일한 선택]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541640/w/646/eb230524.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왕따가 된 러시아가 중국에 항구를 바쳤다. 동해를 품은 우리가 큰일 났다.]]></title>
-            <link>https://www.bookjournalism.com/books/62460</link>
-            <guid>https://www.bookjournalism.com/books/62460</guid>
-            <pubDate>Tue, 23 May 2023 15:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[블라디보스토크를 얻은 중국]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541264/w/646/e2305241.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
