@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-05-30T23:19:19.055Z</updated>
+    <updated>2023-05-31T01:52:50.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/686</id>
         <link href="https://www.longblack.co/note/686"/>
         <updated>2023-05-30T15:19:33.065Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B사람마다 여행 스타일이 다르죠. 전 번잡한 생각을 내려놓을 만한 조용한 곳이 좋습니다. 그래서 찾은 곳이 울릉도. 배로만 6시간이 걸리는 쉽지 않은 여행지예요. 울<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;사람마다 여행 스타일이 다르죠. 전 번잡한 생각을 내려놓을 만한 조용한 곳이 좋습니다. 그래서 찾은 곳이 울릉도. 배로만 6시간이 걸리는 쉽지 않은 여행지예요. <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
