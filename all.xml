@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 14:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 15:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,11 +254,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[미라이 편의점 : 소멸되던 마을의 폐교, 세상 가장 아름다운 편의점이 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/712</link>
-            <guid>https://www.longblack.co/note/712</guid>
-            <pubDate>Wed, 31 May 2023 15:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;부산 서구, 강원 평창, 경기 가평, 충남 태안… 이들 지역의 공통점이 뭔지 아세요? ‘소멸*’이 우려된다는 겁니다. 도농격차와 인구절벽이 원인이니 해결이 쉽지 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[NPO 마케팅 리포트 : 자선단체의 생존법, 크리에이티비티에서 찾다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/713</link>
+            <guid>https://www.longblack.co/note/713</guid>
+            <pubDate>Thu, 01 Jun 2023 15:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;칸 라이언즈, D&amp;AD 펜슬 같은 국제광고제를 보니 눈에 띄는 마케팅 흐름이 하나 있어요. 매해 NPO*, 자선단체의 캠페인이 주목받는 거예요! 광고제 수상을 휩<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -343,6 +343,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대는 자발적으로 야근하는 세대다. 이들의 열정도 자발적일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/62850</link>
+            <guid>https://www.bookjournalism.com/books/62850</guid>
+            <pubDate>Thu, 01 Jun 2023 15:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[워커 홀릭 Z세대]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543589/w/646/IMG_1163.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[북한이 우주발사체를 쏘아 올렸다. 시민을 불안케 한 것은 재난 문자였다. (북저널리즘)]]></title>
@@ -431,14 +439,6 @@
             <pubDate>Wed, 24 May 2023 18:24:22 GMT</pubDate>
             <content:encoded><![CDATA[록히드마틴이 되려는 한화]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541710/w/646/e2305251.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세계가 해온 30년 동안의 노력이 미국 때문에 실패했다. 허망한 결과다. 하지만 포기할 수는 없다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/62544</link>
-            <guid>https://www.bookjournalism.com/books/62544</guid>
-            <pubDate>Wed, 24 May 2023 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[유일한 선택]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541640/w/646/eb230524.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
