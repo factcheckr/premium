@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 02:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 03:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -353,6 +353,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543468/w/646/e230601.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543496/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[지금으로부터 100년 전, 일본에서 대지진이 일어났다. 재난은 트라우마를 남긴다. 바다 건너 한국에도 어떤 트라우마가 남았다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/62773</link>
             <guid>https://www.bookjournalism.com/books/62773</guid>
@@ -375,14 +383,6 @@
             <pubDate>Tue, 30 May 2023 15:20:20 GMT</pubDate>
             <content:encoded><![CDATA[뇌에 칩 심는 일론 머스크]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542972/w/646/e2305313.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543104/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뉴욕시가 가라앉는다. 저지대는 매년 여름을 걱정한다. 무엇이 기형적인 도시 풍경을 만들었나? (북저널리즘)]]></title>
