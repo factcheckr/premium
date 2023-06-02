@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-06-02T15:20:34.007Z</updated>
+    <updated>2023-06-02T16:24:39.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[안녕하세요, 시간입니다 : 아껴쓰지 마시고 늘려쓰세요]]></title>
+        <title type="html"><![CDATA[안녕하세요, 시간입니다 : 아껴쓰지 마시고 선명하게 쓰세요]]></title>
         <id>https://www.longblack.co/note/699</id>
         <link href="https://www.longblack.co/note/699"/>
         <updated>2023-06-02T15:19:36.520Z</updated>
