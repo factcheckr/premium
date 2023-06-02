@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 14:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 15:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,11 +262,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[NPO 마케팅 리포트 : 비영리단체의 생존법, 크리에이티비티에서 찾다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/713</link>
-            <guid>https://www.longblack.co/note/713</guid>
-            <pubDate>Thu, 01 Jun 2023 15:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;칸 라이언즈, D&amp;AD 펜슬 같은 국제광고제를 보니 눈에 띄는 마케팅 흐름이 하나 있어요. 매해 NPO*, 비영리단체의 캠페인이 주목받는 거예요! 광고제 수상을 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[안녕하세요, 시간입니다 : 아껴쓰지 마시고 늘려쓰세요 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/699</link>
+            <guid>https://www.longblack.co/note/699</guid>
+            <pubDate>Fri, 02 Jun 2023 15:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C벌써 6월이에요. 2023년의 절반이 다 될 동안 전 뭘 했을까요! 엄청 바쁘게 살았는데 뭘 했는지는 막상 떠오르는 게 없네요. 불안감이 몰려오려는 찰나, 김지원 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
