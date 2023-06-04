@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 14:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 15:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,13 +262,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 03 Jun 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[B가 간직하고 싶은 이번주 롱블랙 문장
-
-“편의점을 만들 때 30년 후를 생각했습니다. 아이들이 어떤 모습으로 성장하면 좋을까, 어떻게 하면 아이들에게 건강한 자극을 줄까 생각했죠. 단순히 ‘쇼핑할 때의 불편’만 해결하겠다고 생각했다면, 미라이 편의점은 나오지 않았<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[윤태호 : 독자가 공감하는 만화는, 그림으로만 만들어지지 않는다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/705</link>
+            <guid>https://www.longblack.co/note/705</guid>
+            <pubDate>Sun, 04 Jun 2023 15:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;사회 초년생 시절, 이 만화에 위로받은 분들 많으실 겁니다. 윤태호 작가의 『미생』. 저도 신입사원 장그래, 안영이, 한석율, 장백기를 보며, ‘나만 서툰 게 아<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -353,6 +351,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[독일과 스페인이 딸기를 두고 싸운다. 난감한 건 스페인의 중앙 정부, 웃는 건 스페인의 극우다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/62875</link>
+            <guid>https://www.bookjournalism.com/books/62875</guid>
+            <pubDate>Sun, 04 Jun 2023 15:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[갈등의 씨앗이 된 딸기]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/545595/w/646/e230605.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 열두 번째 에피소드에서는 중국의 청년 실업률과 압구정동 아파트의 재건축, 토크 뉴스와 알고리즘에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -441,14 +447,6 @@
             <pubDate>Thu, 25 May 2023 15:19:16 GMT</pubDate>
             <content:encoded><![CDATA[여성의 생애 주기를 논해야 하는 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541946/w/646/e230526.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년 초까지 11개의 유니콘이 아프리카에서 탄생했다. 우리가 몰랐던 아프리카, 그곳에 스타트업이 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/62420</link>
-            <guid>https://www.bookjournalism.com/books/62420</guid>
-            <pubDate>Thu, 25 May 2023 15:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[아프리카 스타트업]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542347/w/646/93_africa.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
