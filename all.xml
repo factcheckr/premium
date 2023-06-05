@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 14:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 15:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,11 +270,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[윤태호 : 독자가 공감하는 만화는, 그림으로만 만들어지지 않는다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/705</link>
-            <guid>https://www.longblack.co/note/705</guid>
-            <pubDate>Sun, 04 Jun 2023 15:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;사회 초년생 시절, 이 만화에 위로받은 분들 많으실 겁니다. 윤태호 작가의 『미생』. 저도 신입사원 장그래, 안영이, 한석율, 장백기를 보며, ‘나만 서툰 게 아<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[스마트 브레비티 : 26초 만에 독자를 사로잡는, 디지털 시대의 글쓰기 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/706</link>
+            <guid>https://www.longblack.co/note/706</guid>
+            <pubDate>Mon, 05 Jun 2023 15:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;글 쓰는 거 좋아하세요? 전 점점 어렵게 느껴져요! 모레까지 광고 카피 뽑아야 하는데, 이것저것 써봐도 꽂히는 게 없네요. 흠, 이상해요. 친구랑 카톡하고 인스타<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -359,6 +359,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[역사는 현재의 현명한 선택을 위한 레퍼런스이자, 미래를 전망할 수 있는 근거다. 지나간 결정적 순간이 그리는 미래는 어떤 모습일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61668</link>
+            <guid>https://www.bookjournalism.com/books/61668</guid>
+            <pubDate>Mon, 05 Jun 2023 15:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[결정적 순간]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/545917/w/646/230606_thm.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[독일과 스페인이 딸기를 두고 싸운다. 난감한 건 스페인의 중앙 정부, 웃는 건 스페인의 극우다. (북저널리즘)]]></title>
@@ -447,14 +455,6 @@
             <pubDate>Fri, 26 May 2023 08:23:27 GMT</pubDate>
             <content:encoded><![CDATA[5월 27일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542283/w/646/contents_thumb_0527.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영미권에서 폐경기에 대한 복지 제도가 확대하고 있다. 여성의 생애 주기를 아는 것이 저출산 대책의 시작이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/62594</link>
-            <guid>https://www.bookjournalism.com/books/62594</guid>
-            <pubDate>Thu, 25 May 2023 15:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[여성의 생애 주기를 논해야 하는 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541946/w/646/e230526.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
