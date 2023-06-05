@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 23:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 01:55:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[담당자 누굴까? 요즘 비주얼 트렌드 잘 파악한 브랜드]]></title>
+            <link>https://www.careet.net/1097</link>
+            <guid>https://www.careet.net/1097</guid>
+            <pubDate>Mon, 05 Jun 2023 01:54:17 GMT</pubDate>
+            <content:encoded><![CDATA[이 주의 일 잘한 브랜드: BBQ, 농심, 에스파, 삼성전자 갤럭시]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/34f959c0-542c-474f-9e0e-a5443123da1c_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[경쟁사 마케터는 아직 모름! 실무에 써먹을 수 있는 1020 덕질 문화.zip]]></title>
             <link>https://www.careet.net/1088</link>
