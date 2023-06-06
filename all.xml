@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 14:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 15:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,11 +270,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[스마트 브레비티 : 26초 만에 독자를 사로잡는, 디지털 시대의 글쓰기 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/706</link>
-            <guid>https://www.longblack.co/note/706</guid>
-            <pubDate>Mon, 05 Jun 2023 15:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;글 쓰는 거 좋아하세요? 전 점점 어렵게 느껴져요! 모레까지 광고 카피 뽑아야 하는데, 이것저것 써봐도 꽂히는 게 없네요. 흠, 이상해요. 친구랑 카톡하고 인스타<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[Root Square : 6000평 벌판에 선 스마트팜, 낭만의 광장이 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/687</link>
+            <guid>https://www.longblack.co/note/687</guid>
+            <pubDate>Tue, 06 Jun 2023 15:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;일본의 세계적 디자이너 하라 켄야와 건축가 최욱, 민성진의 공통점이 있습니다. 충북 진천군 이월면에 집을 지었다는 거예요. 서울 남부터미널에서 이월터미널까지 고속<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -359,6 +359,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강원특별자치도가 출범한다. 마냥 환영하기 힘들다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63028</link>
+            <guid>https://www.bookjournalism.com/books/63028</guid>
+            <pubDate>Tue, 06 Jun 2023 15:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[강원특별자치도, 성장의 청구서]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/546043/w/646/e2320607.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역사는 현재의 현명한 선택을 위한 레퍼런스이자, 미래를 전망할 수 있는 근거다. 지나간 결정적 순간이 그리는 미래는 어떤 모습일까. (북저널리즘)]]></title>
@@ -447,14 +455,6 @@
             <pubDate>Sun, 28 May 2023 15:19:15 GMT</pubDate>
             <content:encoded><![CDATA[스페셜 북토크 ; 아프리카 스타트업]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542309/w/646/93_africa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 열한 번째 에피소드에서는 시위가 일어난 몰도바와 우울증갤러리, 위키피디아와 인공지능에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/62623</link>
-            <guid>https://www.bookjournalism.com/audio/62623</guid>
-            <pubDate>Fri, 26 May 2023 08:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[5월 27일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542283/w/646/contents_thumb_0527.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
