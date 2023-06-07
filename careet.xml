@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 09:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 10:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ChatGPT가 바꾼 캠퍼스 풍경, 대학생 100인에게 물었습니다]]></title>
+            <link>https://www.careet.net/1095</link>
+            <guid>https://www.careet.net/1095</guid>
+            <pubDate>Wed, 07 Jun 2023 10:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[대학생 76%, ChatGPT 이용해본 적 있다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/800f708c-328d-47ef-9baa-2c3b8aef9187_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[담당자 누굴까? 요즘 비주얼 트렌드 잘 파악한 브랜드]]></title>
             <link>https://www.careet.net/1097</link>
