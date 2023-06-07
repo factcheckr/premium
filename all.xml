@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 07:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 08:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -361,6 +361,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[가장 가혹하고, 가장 숭고하며, 가장 추앙받는 자동차 경주. 르망 24시 레이스 100년의 역사에는 무슨 이야기가 담겨 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63011</link>
+            <guid>https://www.bookjournalism.com/books/63011</guid>
+            <pubDate>Wed, 07 Jun 2023 08:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[속도와 인내의 레이스]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/547026/w/646/eb230607.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강원특별자치도가 출범한다. 마냥 환영하기 힘들다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/63028</link>
             <guid>https://www.bookjournalism.com/books/63028</guid>
@@ -382,7 +390,7 @@
             <guid>https://www.bookjournalism.com/books/61668</guid>
             <pubDate>Mon, 05 Jun 2023 15:20:13 GMT</pubDate>
             <content:encoded><![CDATA[결정적 순간]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/546346/w/646/230606_thm.png" length="0" type="image/png"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/547045/w/646/230606_thm.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[독일과 스페인이 딸기를 두고 싸운다. 난감한 건 스페인의 중앙 정부, 웃는 건 스페인의 극우다. (북저널리즘)]]></title>
@@ -447,14 +455,6 @@
             <pubDate>Mon, 29 May 2023 15:19:35 GMT</pubDate>
             <content:encoded><![CDATA[뉴욕의 침몰을 막을 상상력]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542242/w/646/e230529.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 신간 《아프리카 스타트업》의 저자인 이종현 국제개발협력학 박사에게 왜 지금 아프리카를 주목해야 하는지 물었습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/62557</link>
-            <guid>https://www.bookjournalism.com/audio/62557</guid>
-            <pubDate>Sun, 28 May 2023 15:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜 북토크 ; 아프리카 스타트업]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542309/w/646/93_africa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
