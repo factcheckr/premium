@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-06-08T15:20:28.802Z</updated>
+    <updated>2023-06-08T16:25:28.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/709</id>
         <link href="https://www.longblack.co/note/709"/>
         <updated>2023-06-08T15:19:31.917Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;매일 새 이벤트가 열리는 성수동. 최근엔 ‘국내 최대 규모’의 도심 속 양조장이 들어섰대요. 약 100평 부지, 350평 건물에 지하 1층, 지상 6층 높이의 콘<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;매일 새 이벤트가 열리는 성수동. 최근엔 ‘국내 최대 규모’의 도심 속 양조장이 들어섰대요. 약 100평 부지, 350평 건물에 지하 1층, 지상 6층 높이의 공<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
