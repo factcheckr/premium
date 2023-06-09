@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 07:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 08:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -385,6 +385,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 위크엔드, 열세 번째 에피소드에서는 사우디아라비아의 스포츠 워싱과 사라지는 러시앤캐시, 트랜스젠더의 스포츠 권리에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/63250</link>
+            <guid>https://www.bookjournalism.com/audio/63250</guid>
+            <pubDate>Fri, 09 Jun 2023 08:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[6월 10일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548912/w/646/contents_thumb_230610.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[브랜드 아파트는 한국 사회 불평등의 상징이 되었다. 우리가 사는 곳이 정말로 우리 자신을 말해줄까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/63165</link>
             <guid>https://www.bookjournalism.com/books/63165</guid>
@@ -471,14 +479,6 @@
             <pubDate>Wed, 31 May 2023 08:28:46 GMT</pubDate>
             <content:encoded><![CDATA[간토 대지진 100년, 한국이 잊지 못한 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543324/w/646/eb230531.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 베스트셀러 뒤엔 비상한 에디터가 있다. 독자를 매료하고 시장을 창출하는 기획은 무엇이 다른가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/62589</link>
-            <guid>https://www.bookjournalism.com/books/62589</guid>
-            <pubDate>Wed, 31 May 2023 08:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[에디터의 일]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/546950/w/646/93_editor.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
