@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 14:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 15:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,11 +294,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[서울브루어리 : 성수동 7층 양조장, '술 마시는 기분'을 설계하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/709</link>
-            <guid>https://www.longblack.co/note/709</guid>
-            <pubDate>Thu, 08 Jun 2023 15:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;매일 새 이벤트가 열리는 성수동. 최근엔 ‘국내 최대 규모’의 도심 속 양조장이 들어섰대요. 약 100평 부지, 350평 건물에 지하 1층, 지상 6층 높이의 공<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[수박빈티지 : 비즈니스맨이 된 목사, 브랜딩에 뻘짓을 더하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/710</link>
+            <guid>https://www.longblack.co/note/710</guid>
+            <pubDate>Fri, 09 Jun 2023 15:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;요즘 빈티지 패션에 관심이 생겼어요. 처음엔 환경에 좋을 거라고 생각해서 입었죠. 한 옷을 오래도록 입는 데 동참하는 거니까요. 입다 보니 편하고, 디자인도 흔치<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
