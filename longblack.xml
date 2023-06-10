@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-06-10T14:17:03.947Z</updated>
+    <updated>2023-06-10T15:18:27.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[수박빈티지 : 비즈니스맨이 된 목사, 브랜딩에 뻘짓을 더하다]]></title>
-        <id>https://www.longblack.co/note/710</id>
-        <link href="https://www.longblack.co/note/710"/>
-        <updated>2023-06-09T15:18:56.767Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;요즘 빈티지 패션에 관심이 생겼어요. 처음엔 환경에 좋을 거라고 생각해서 입었죠. 한 옷을 오래도록 입는 데 동참하는 거니까요. 입다 보니 편하고, 디자인도 흔치<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-06-10T15:17:32.118Z</updated>
+        <content type="html"><![CDATA[K가 메모한 이번주 롱블랙 문장
+
+“우리가 할 일은 귀촌을 경험할 콘텐츠를 만드는 거였어요. 스마트팜으로 사람들의 ‘귀농 욕구’를 우선 충족하는 거죠. 스마트팜이 농촌 콘텐츠의 트렌드가 될 거라 생각했습니다. ‘스마트팜을 콘텐츠로 보여주자, 진천의 자랑을 만들자’는<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
