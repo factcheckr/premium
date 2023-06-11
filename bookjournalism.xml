@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 14:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 15:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 경제가 반등하고 있다. 한국 경제는 저성장 국면을 앞두고 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/63273</link>
+            <guid>https://www.bookjournalism.com/books/63273</guid>
+            <pubDate>Sun, 11 Jun 2023 15:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[살아나는 일본 경제]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548958/w/646/e230612.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모빌리티는 시대정신이다. 가장 빠르고 편한 것을 위해, 산업 간 경계는 무너지고 있다.]]></title>
             <link>https://www.bookjournalism.com/books/63118</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Jun 2023 15:20:12 GMT</pubDate>
             <content:encoded><![CDATA[워커 홀릭 Z세대]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543589/w/646/IMG_1163.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한이 우주발사체를 쏘아 올렸다. 시민을 불안케 한 것은 재난 문자였다.]]></title>
-            <link>https://www.bookjournalism.com/books/62837</link>
-            <guid>https://www.bookjournalism.com/books/62837</guid>
-            <pubDate>Wed, 31 May 2023 15:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[재난이 된 재난 문자]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543468/w/646/e230601.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

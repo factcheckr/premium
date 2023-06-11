@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-06-11T14:17:02.899Z</updated>
+    <updated>2023-06-11T15:18:42.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-06-10T15:17:32.118Z</updated>
-        <content type="html"><![CDATA[K가 메모한 이번주 롱블랙 문장
-
-“우리가 할 일은 귀촌을 경험할 콘텐츠를 만드는 거였어요. 스마트팜으로 사람들의 ‘귀농 욕구’를 우선 충족하는 거죠. 스마트팜이 농촌 콘텐츠의 트렌드가 될 거라 생각했습니다. ‘스마트팜을 콘텐츠로 보여주자, 진천의 자랑을 만들자’는<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[최인아 : 일을 열심히 하는 것과, 인생을 잘 사는 건 다르지 않다]]></title>
+        <id>https://www.longblack.co/note/716</id>
+        <link href="https://www.longblack.co/note/716"/>
+        <updated>2023-06-11T15:17:43.523Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;정신없이 일을 쳐내다 보면 문득, ‘내가 가는 방향이 맞나’ 싶을 때가 있습니다. 그럴 때면 저는 서점을 찾습니다. 서가에 놓인 책을 찬찬히 훑으며 깨달음을 줄 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

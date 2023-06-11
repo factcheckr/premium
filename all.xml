@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 14:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 15:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,13 +294,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 10 Jun 2023 15:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[K가 메모한 이번주 롱블랙 문장
-
-“우리가 할 일은 귀촌을 경험할 콘텐츠를 만드는 거였어요. 스마트팜으로 사람들의 ‘귀농 욕구’를 우선 충족하는 거죠. 스마트팜이 농촌 콘텐츠의 트렌드가 될 거라 생각했습니다. ‘스마트팜을 콘텐츠로 보여주자, 진천의 자랑을 만들자’는<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[최인아 : 일을 열심히 하는 것과, 인생을 잘 사는 건 다르지 않다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/716</link>
+            <guid>https://www.longblack.co/note/716</guid>
+            <pubDate>Sun, 11 Jun 2023 15:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;정신없이 일을 쳐내다 보면 문득, ‘내가 가는 방향이 맞나’ 싶을 때가 있습니다. 그럴 때면 저는 서점을 찾습니다. 서가에 놓인 책을 찬찬히 훑으며 깨달음을 줄 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -385,6 +383,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일본 경제가 반등하고 있다. 한국 경제는 저성장 국면을 앞두고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63273</link>
+            <guid>https://www.bookjournalism.com/books/63273</guid>
+            <pubDate>Sun, 11 Jun 2023 15:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[살아나는 일본 경제]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548958/w/646/e230612.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모빌리티는 시대정신이다. 가장 빠르고 편한 것을 위해, 산업 간 경계는 무너지고 있다. (북저널리즘)]]></title>
@@ -473,14 +479,6 @@
             <pubDate>Thu, 01 Jun 2023 15:20:12 GMT</pubDate>
             <content:encoded><![CDATA[워커 홀릭 Z세대]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543589/w/646/IMG_1163.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한이 우주발사체를 쏘아 올렸다. 시민을 불안케 한 것은 재난 문자였다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/62837</link>
-            <guid>https://www.bookjournalism.com/books/62837</guid>
-            <pubDate>Wed, 31 May 2023 15:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[재난이 된 재난 문자]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543468/w/646/e230601.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
