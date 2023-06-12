@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 14:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 15:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,11 +302,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[최인아 : 일을 열심히 하는 것과, 인생을 잘 사는 건 다르지 않다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/716</link>
-            <guid>https://www.longblack.co/note/716</guid>
-            <pubDate>Sun, 11 Jun 2023 15:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;정신없이 일을 쳐내다 보면 문득, ‘내가 가는 방향이 맞나’ 싶을 때가 있습니다. 그럴 때면 저는 서점을 찾습니다. 서가에 놓인 책을 찬찬히 훑으며 깨달음을 줄 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[크록스 : 모래밭에서 태어난 못난이 신발, 오스카의 레드카펫을 밟다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/719</link>
+            <guid>https://www.longblack.co/note/719</guid>
+            <pubDate>Mon, 12 Jun 2023 15:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;이런 반전이 있을까? ‘최악의 발명품’ ‘플라스틱 말발굽’이라 놀림당하던 신발이, 세계 10대 풋웨어 브랜드(비운동화 기준)가 됐어. 감이 오지? 맞아. 13개의<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
