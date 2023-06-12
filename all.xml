@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 17:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 18:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,6 +393,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[샘 알트먼이 방한했다. 인공지능 위협론을 넘어, 그가 제시하는 미래는 무엇인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63293</link>
+            <guid>https://www.bookjournalism.com/books/63293</guid>
+            <pubDate>Mon, 12 Jun 2023 18:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[샘 알트먼의 기본소득, 월드코인]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/549514/w/646/ex230612%20%281%29.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 경제가 반등하고 있다. 한국 경제는 저성장 국면을 앞두고 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/63273</link>
             <guid>https://www.bookjournalism.com/books/63273</guid>
@@ -479,14 +487,6 @@
             <pubDate>Fri, 02 Jun 2023 08:22:51 GMT</pubDate>
             <content:encoded><![CDATA[6월 3일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543622/w/646/contents_thumb_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대는 자발적으로 야근하는 세대다. 이들의 열정도 자발적일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/62850</link>
-            <guid>https://www.bookjournalism.com/books/62850</guid>
-            <pubDate>Thu, 01 Jun 2023 15:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[워커 홀릭 Z세대]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543589/w/646/IMG_1163.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
