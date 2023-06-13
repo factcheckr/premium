@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 14:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 15:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,11 +310,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[크록스 : 모래밭에서 태어난 못난이 신발, 오스카의 레드카펫을 밟다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/719</link>
-            <guid>https://www.longblack.co/note/719</guid>
-            <pubDate>Mon, 12 Jun 2023 15:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;이런 반전이 있을까? ‘최악의 발명품’ ‘플라스틱 말발굽’이라 놀림당하던 신발이, 세계 10대 풋웨어 브랜드(비운동화 기준)가 됐어. 감이 오지? 맞아. 13개의<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[추상미 : 118년 광장시장, 빈대떡집 손녀가 핫플레이스로 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/720</link>
+            <guid>https://www.longblack.co/note/720</guid>
+            <pubDate>Tue, 13 Jun 2023 15:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;한국 최초의 상설 시장이 어딘지 아세요? 바로 ‘광장시장’이에요. 1905년 문 열어 올해로 118년입니다. 지금은 동네 주민부터 외국인까지 두루 찾는 서울의 대<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -399,6 +399,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[20세기 이탈리아의 마지막 스트롱맨 베를루스코니 전 총리가 사망했다. 그의 방식은 21세기에도 유효하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63307</link>
+            <guid>https://www.bookjournalism.com/books/63307</guid>
+            <pubDate>Tue, 13 Jun 2023 15:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[이탈리안 스트롱맨의 죽음]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/549750/w/646/e230613.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[샘 알트먼이 방한했다. 인공지능 위협론을 넘어, 그가 제시하는 미래는 무엇인가. (북저널리즘)]]></title>
@@ -487,14 +495,6 @@
             <pubDate>Sun, 04 Jun 2023 15:18:37 GMT</pubDate>
             <content:encoded><![CDATA[갈등의 씨앗이 된 딸기]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/545595/w/646/e230605.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 열두 번째 에피소드에서는 중국의 청년 실업률과 압구정동 아파트의 재건축, 토크 뉴스와 알고리즘에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/62865</link>
-            <guid>https://www.bookjournalism.com/audio/62865</guid>
-            <pubDate>Fri, 02 Jun 2023 08:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[6월 3일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/543622/w/646/contents_thumb_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
