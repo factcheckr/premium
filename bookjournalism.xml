@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 01:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 02:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/549514/w/646/ex230612%20%281%29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/549524/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[일본 경제가 반등하고 있다. 한국 경제는 저성장 국면을 앞두고 있다.]]></title>
             <link>https://www.bookjournalism.com/books/63273</link>
             <guid>https://www.bookjournalism.com/books/63273</guid>
             <pubDate>Sun, 11 Jun 2023 15:18:34 GMT</pubDate>
             <content:encoded><![CDATA[살아나는 일본 경제]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548958/w/646/e230612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/549326/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[모빌리티는 시대정신이다. 가장 빠르고 편한 것을 위해, 산업 간 경계는 무너지고 있다.]]></title>
