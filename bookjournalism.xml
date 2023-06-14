@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 07:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 08:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구의 지상 환경을 파괴해 온 인류는 같은 방식으로 우주도 오염시키고 있다. 대가를 치를 것 역시 인간이다.]]></title>
+            <link>https://www.bookjournalism.com/books/63288</link>
+            <guid>https://www.bookjournalism.com/books/63288</guid>
+            <pubDate>Wed, 14 Jun 2023 08:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[쓰레기는 제발 집으로 가져가 주세요]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550285/w/646/eb230614.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20세기 이탈리아의 마지막 스트롱맨 베를루스코니 전 총리가 사망했다. 그의 방식은 21세기에도 유효하다.]]></title>
             <link>https://www.bookjournalism.com/books/63307</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 05 Jun 2023 15:20:13 GMT</pubDate>
             <content:encoded><![CDATA[결정적 순간]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548914/w/646/230606_thm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[독일과 스페인이 딸기를 두고 싸운다. 난감한 건 스페인의 중앙 정부, 웃는 건 스페인의 극우다.]]></title>
-            <link>https://www.bookjournalism.com/books/62875</link>
-            <guid>https://www.bookjournalism.com/books/62875</guid>
-            <pubDate>Sun, 04 Jun 2023 15:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[갈등의 씨앗이 된 딸기]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/545595/w/646/e230605.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
