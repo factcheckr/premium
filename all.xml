@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 14:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 15:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,11 +318,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[추상미 : 118년 광장시장, 빈대떡집 손녀가 핫플레이스로 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/720</link>
-            <guid>https://www.longblack.co/note/720</guid>
-            <pubDate>Tue, 13 Jun 2023 15:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;한국 최초의 상설 시장이 어딘지 아세요? 바로 ‘광장시장’이에요. 1905년 문 열어 올해로 118년입니다. 지금은 동네 주민부터 외국인까지 두루 찾는 서울의 대<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[사바나 바나나스 : 미국의 괴짜 야구팀, 춤으로 680만 팬을 사로잡다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/721</link>
+            <guid>https://www.longblack.co/note/721</guid>
+            <pubDate>Wed, 14 Jun 2023 15:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;K가 재밌는 영상을 보여줬어요. 야구선수가 벌건 불이 붙은 배트를 들고 타석에 서요. 옆에선 노란 유니폼을 입은 선수들이 둠칫둠칫 춤을 추죠. ‘사바나 바나나스S<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -407,6 +407,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강릉이 커피콩빵 원조 논란으로 시끄럽다. 이 논란의 본질은 이야기가 사라진 지역에 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63346</link>
+            <guid>https://www.bookjournalism.com/books/63346</guid>
+            <pubDate>Wed, 14 Jun 2023 15:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[지역에는 이야기가 필요하다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550350/w/646/e230615.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지구의 지상 환경을 파괴해 온 인류는 같은 방식으로 우주도 오염시키고 있다. 대가를 치를 것 역시 인간이다. (북저널리즘)]]></title>
@@ -495,14 +503,6 @@
             <pubDate>Tue, 06 Jun 2023 15:20:15 GMT</pubDate>
             <content:encoded><![CDATA[강원특별자치도, 성장의 청구서]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/546043/w/646/e2320607.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역사는 현재의 현명한 선택을 위한 레퍼런스이자, 미래를 전망할 수 있는 근거다. 지나간 결정적 순간이 그리는 미래는 어떤 모습일까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61668</link>
-            <guid>https://www.bookjournalism.com/books/61668</guid>
-            <pubDate>Mon, 05 Jun 2023 15:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[결정적 순간]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548914/w/646/230606_thm.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
