@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 01:45:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 02:43:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 14 Jun 2023 15:20:04 GMT</pubDate>
             <content:encoded><![CDATA[지역에는 이야기가 필요하다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550350/w/646/e230615.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550491/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[지구의 지상 환경을 파괴해 온 인류는 같은 방식으로 우주도 오염시키고 있다. 대가를 치를 것 역시 인간이다.]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Tue, 13 Jun 2023 15:19:05 GMT</pubDate>
             <content:encoded><![CDATA[이탈리안 스트롱맨의 죽음]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/549750/w/646/e230613.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550136/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[샘 알트먼이 방한했다. 인공지능 위협론을 넘어, 그가 제시하는 미래는 무엇인가.]]></title>
