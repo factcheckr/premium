@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 14:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 15:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검색 시장이 변했다. 네이버도 변하고 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/63369</link>
+            <guid>https://www.bookjournalism.com/books/63369</guid>
+            <pubDate>Thu, 15 Jun 2023 15:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[네이버의 위기와 기회 요인]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550532/w/646/e230616.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[강릉이 커피콩빵 원조 논란으로 시끄럽다. 이 논란의 본질은 이야기가 사라진 지역에 있다.]]></title>
             <link>https://www.bookjournalism.com/books/63346</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 07 Jun 2023 08:25:28 GMT</pubDate>
             <content:encoded><![CDATA[속도와 인내의 레이스]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/547026/w/646/eb230607.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강원특별자치도가 출범한다. 마냥 환영하기 힘들다.]]></title>
-            <link>https://www.bookjournalism.com/books/63028</link>
-            <guid>https://www.bookjournalism.com/books/63028</guid>
-            <pubDate>Tue, 06 Jun 2023 15:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[강원특별자치도, 성장의 청구서]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/546043/w/646/e2320607.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

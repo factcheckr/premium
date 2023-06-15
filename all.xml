@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 14:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 15:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,11 +326,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[사바나 바나나스 : 미국의 괴짜 야구팀, 춤으로 680만 팬을 사로잡다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/721</link>
-            <guid>https://www.longblack.co/note/721</guid>
-            <pubDate>Wed, 14 Jun 2023 15:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;K가 재밌는 영상을 보여줬어요. 야구선수가 벌건 불이 붙은 배트를 들고 타석에 서요. 옆에선 노란 유니폼을 입은 선수들이 둠칫둠칫 춤을 추죠. ‘사바나 바나나스S<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[이충걸 : GQ 초대 편집장, 문장으로 독자를 압도하는 법 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/722</link>
+            <guid>https://www.longblack.co/note/722</guid>
+            <pubDate>Thu, 15 Jun 2023 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;저를 에디터라는 직업으로 이끈 잡지가 있습니다. 남성지 《GQ》. 저변을 넓혀주는 소재, 화려한 레이아웃, 멋진 모델들의 화보… 하지만 가장 좋았던 건 《GQ》만<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -415,6 +415,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[검색 시장이 변했다. 네이버도 변하고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63369</link>
+            <guid>https://www.bookjournalism.com/books/63369</guid>
+            <pubDate>Thu, 15 Jun 2023 15:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[네이버의 위기와 기회 요인]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550532/w/646/e230616.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[강릉이 커피콩빵 원조 논란으로 시끄럽다. 이 논란의 본질은 이야기가 사라진 지역에 있다. (북저널리즘)]]></title>
@@ -503,14 +511,6 @@
             <pubDate>Wed, 07 Jun 2023 08:25:28 GMT</pubDate>
             <content:encoded><![CDATA[속도와 인내의 레이스]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/547026/w/646/eb230607.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강원특별자치도가 출범한다. 마냥 환영하기 힘들다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/63028</link>
-            <guid>https://www.bookjournalism.com/books/63028</guid>
-            <pubDate>Tue, 06 Jun 2023 15:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[강원특별자치도, 성장의 청구서]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/546043/w/646/e2320607.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
