@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 14:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 15:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,11 +334,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이충걸 : GQ 초대 편집장, 문장으로 독자를 압도하는 법 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/722</link>
-            <guid>https://www.longblack.co/note/722</guid>
-            <pubDate>Thu, 15 Jun 2023 15:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;저를 에디터라는 직업으로 이끈 잡지가 있습니다. 남성지 《GQ》. 저변을 넓혀주는 소재, 화려한 레이아웃, 멋진 모델들의 화보… 하지만 가장 좋았던 건 《GQ》만<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 X 트렌드콘서트 2023 : 로컬의 시대, 유일무이한 경험을 말하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/735</link>
+            <guid>https://www.longblack.co/note/735</guid>
+            <pubDate>Fri, 16 Jun 2023 15:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K지난 8일, 서울 연희동. 연남장延南場은 연남동과 연희동을 잇는 굴다리 옆에 있습니다. 4층 붉은 벽돌 건물엔 세월의 흔적이 가득합니다. 1988년 지어진 이 건물<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
