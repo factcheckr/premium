@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 23:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 01:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7229?fr=category</guid>
             <pubDate>Fri, 02 Jun 2023 07:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7229?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/06/02/1685681070_bOFpyyrYHhIzfJeBQOQMCWH9aLi90cVOxarlSWZ5.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 10분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7229?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">번아웃 주의보, 당장 시도해볼 수 있는 11가지 방법</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[누가 먼저 콜라보할까? 제2의 최고심, 대박난 캐릭터의 등장 (캐릿)]]></title>
+            <link>https://www.careet.net/1104</link>
+            <guid>https://www.careet.net/1104</guid>
+            <pubDate>Fri, 16 Jun 2023 01:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[바로 써 먹을 수 있는 사진 트렌드 알려드림]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/f185a835-0556-4d93-bcb3-a7feffcfc313_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[캐릿 1020 자문단 제보! 지금 쓰면 센스 있다고 칭찬받을 최신 밈 6 (캐릿)]]></title>

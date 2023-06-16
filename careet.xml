@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 23:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 01:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누가 먼저 콜라보할까? 제2의 최고심, 대박난 캐릭터의 등장]]></title>
+            <link>https://www.careet.net/1104</link>
+            <guid>https://www.careet.net/1104</guid>
+            <pubDate>Fri, 16 Jun 2023 01:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[바로 써 먹을 수 있는 사진 트렌드 알려드림]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/f185a835-0556-4d93-bcb3-a7feffcfc313_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[캐릿 1020 자문단 제보! 지금 쓰면 센스 있다고 칭찬받을 최신 밈 6]]></title>
             <link>https://www.careet.net/1105</link>
