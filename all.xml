@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 14:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 15:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,11 +334,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 X 트렌드콘서트 2023 : 로컬의 시대, 유일무이한 경험을 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/735</link>
-            <guid>https://www.longblack.co/note/735</guid>
-            <pubDate>Fri, 16 Jun 2023 15:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K지난 8일, 서울 연희동. 연남장延南場은 연남동과 연희동을 잇는 굴다리 옆에 있습니다. 4층 붉은 벽돌 건물엔 세월의 흔적이 가득합니다. 1988년 지어진 이 건물<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 17 Jun 2023 15:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[B가 주목한 이번주 롱블랙 문장
+
+“일하는 사람이 자신을 브랜딩하려면 마땅히 일로써 승부를 봐야 합니다. 브랜딩이란 스스로를 존중하는 것, 그리고 다른 사람의 존중을 얻어내는 것이에요. 일을 잘하지 않고서는 일터에서 인정받는 브랜드가 되는 것도 어렵습니다. 자신의 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
