@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-06-18T22:18:39.561Z</updated>
+    <updated>2023-06-18T23:19:59.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/724</id>
         <link href="https://www.longblack.co/note/724"/>
         <updated>2023-06-18T15:18:12.287Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B무인양품無印良品이란 브랜드를 좋아합니다. 간결한 디자인도 좋지만 브랜드의 정신이 마음에 들어요. ‘이것이 갖고 싶다’는 욕망이 아닌, ‘이것으로 충분하다’는 깨달음<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;무인양품無印良品이란 브랜드를 좋아합니다. 간결한 디자인도 좋지만 브랜드의 정신이 마음에 들어요. ‘이것이 갖고 싶다’는 욕망이 아닌, ‘이것으로 충분하다’는 깨달<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
