@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 14:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 15:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거부권 정국이다. 대통령에게 절충이 없다. 여당이 없다. 정치가 없다.]]></title>
+            <link>https://www.bookjournalism.com/books/63386</link>
+            <guid>https://www.bookjournalism.com/books/63386</guid>
+            <pubDate>Sun, 18 Jun 2023 15:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령이 정치를 하지 않는다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551036/w/646/ex230619.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 열네 번째 에피소드에서는 알쏭달쏭한 비즈니스 언어와 한중 관계, 종이책 《의사들은 왜 그래?》에 관해 이야기합니다.]]></title>
             <link>https://www.bookjournalism.com/audio/63377</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 08 Jun 2023 15:20:20 GMT</pubDate>
             <content:encoded><![CDATA[브랜드 아파트와 불평등 한국 사회]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548358/w/646/ex230608.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘애플 비전 프로’가 공개됐다. 애플은 이를 헤드셋이 아니라 ‘공간 컴퓨터’로 정의한다.]]></title>
-            <link>https://www.bookjournalism.com/books/63108</link>
-            <guid>https://www.bookjournalism.com/books/63108</guid>
-            <pubDate>Wed, 07 Jun 2023 19:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[애플 비전 프로, 컴퓨팅의 미래]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/547182/w/646/e230608.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
