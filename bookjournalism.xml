@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 15:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 16:29:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영미권 최대 커뮤니티 레딧에 불이 꺼졌다. 돈을 벌겠다는 CEO의 결정 때문이다.]]></title>
+            <link>https://www.bookjournalism.com/books/63417</link>
+            <guid>https://www.bookjournalism.com/books/63417</guid>
+            <pubDate>Mon, 19 Jun 2023 16:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[돈이 되고 싶은 커뮤니티, 레딧]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551056/w/646/ex230619.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거부권 정국이다. 대통령에게 절충이 없다. 여당이 없다. 정치가 없다.]]></title>
             <link>https://www.bookjournalism.com/books/63386</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 09 Jun 2023 08:22:52 GMT</pubDate>
             <content:encoded><![CDATA[6월 10일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548912/w/646/contents_thumb_230610.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜드 아파트는 한국 사회 불평등의 상징이 되었다. 우리가 사는 곳이 정말로 우리 자신을 말해줄까.]]></title>
-            <link>https://www.bookjournalism.com/books/63165</link>
-            <guid>https://www.bookjournalism.com/books/63165</guid>
-            <pubDate>Thu, 08 Jun 2023 15:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드 아파트와 불평등 한국 사회]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548358/w/646/ex230608.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
