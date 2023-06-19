@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 23:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 01:46:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜드 팬, 일반 소비자 모두 만족시킨 브랜드 공간 2]]></title>
+            <link>https://www.careet.net/1106</link>
+            <guid>https://www.careet.net/1106</guid>
+            <pubDate>Mon, 19 Jun 2023 01:45:51 GMT</pubDate>
+            <content:encoded><![CDATA[성수, 홍대 말고 어디에 팝업스토어 열지 고민된다면 클릭!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/f56cfe7a-b838-4271-a933-a1cf2eb7af25_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[누가 먼저 콜라보할까? 제2의 최고심, 대박난 캐릭터의 등장]]></title>
             <link>https://www.careet.net/1104</link>
