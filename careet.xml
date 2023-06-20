@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 07:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 08:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 100명에게 물었습니다. 2023년 상반기 트렌드는 무엇이었나요?]]></title>
+            <link>https://www.careet.net/1100</link>
+            <guid>https://www.careet.net/1100</guid>
+            <pubDate>Tue, 20 Jun 2023 08:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 요즘 유행이라고 생각하는 것]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/0ac88407-c300-41e7-a0f3-58227077eec7_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[브랜드 팬, 일반 소비자 모두 만족시킨 브랜드 공간 2]]></title>
             <link>https://www.careet.net/1106</link>
