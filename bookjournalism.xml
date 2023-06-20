@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 15:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 16:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑스포 유치전이 뜨겁다. “부산은 준비됐다”는 윤석열 대통령의 말은 사실일까.]]></title>
+            <link>https://www.bookjournalism.com/books/63430</link>
+            <guid>https://www.bookjournalism.com/books/63430</guid>
+            <pubDate>Tue, 20 Jun 2023 16:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[부산 엑스포 유치의 꿈과 열망]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551775/w/646/ex230620.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영미권 최대 커뮤니티 레딧에 불이 꺼졌다. 돈을 벌겠다는 CEO의 결정 때문이다.]]></title>
             <link>https://www.bookjournalism.com/books/63417</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 09 Jun 2023 16:24:56 GMT</pubDate>
             <content:encoded><![CDATA[미래, 모빌리티]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548939/w/646/94_mobility.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 열세 번째 에피소드에서는 사우디아라비아의 스포츠 워싱과 사라지는 러시앤캐시, 트랜스젠더의 스포츠 권리에 관해 이야기합니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/63250</link>
-            <guid>https://www.bookjournalism.com/audio/63250</guid>
-            <pubDate>Fri, 09 Jun 2023 08:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[6월 10일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548912/w/646/contents_thumb_230610.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
