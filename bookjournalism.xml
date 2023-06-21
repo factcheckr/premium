@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 14:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 15:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페셜올림픽이 열렸다. 스포츠 워싱에 관한 질문을 던진다.]]></title>
+            <link>https://www.bookjournalism.com/books/63478</link>
+            <guid>https://www.bookjournalism.com/books/63478</guid>
+            <pubDate>Wed, 21 Jun 2023 15:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜올림픽의 의미]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552187/w/646/ex230621.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화는 색다른 경험이다. 우주가 우리 삶에 들어오면, 그 색다름의 질이 달라진다.]]></title>
             <link>https://www.bookjournalism.com/books/63460</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 12 Jun 2023 18:24:29 GMT</pubDate>
             <content:encoded><![CDATA[샘 알트먼의 기본소득, 월드코인]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/549514/w/646/ex230612%20%281%29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 경제가 반등하고 있다. 한국 경제는 저성장 국면을 앞두고 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/63273</link>
-            <guid>https://www.bookjournalism.com/books/63273</guid>
-            <pubDate>Sun, 11 Jun 2023 15:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[살아나는 일본 경제]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548958/w/646/e230612.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

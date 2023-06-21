@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 14:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 15:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,11 +358,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[도정한 : 남양주에서 숙성한 3000개 오크통, K위스키의 미래가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/726</link>
-            <guid>https://www.longblack.co/note/726</guid>
-            <pubDate>Tue, 20 Jun 2023 15:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;그거 알아? 이달 16일 한국에서도 숙성한 지 만 3년*을 넘긴 싱글몰트Single Malt** 위스키가 탄생했대! 이제 한국도 어엿한 싱글몰트 위스키 제조국이 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[슈퍼플라스틱 : 바보 고양이와 허세 토끼로, 엉망진창 디즈니를 꿈꾸다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/727</link>
+            <guid>https://www.longblack.co/note/727</guid>
+            <pubDate>Wed, 21 Jun 2023 15:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;충격적인 뉴스를 봤어요. 가상 인플루언서들이 어느새 찬밥 신세가 됐다는 내용이었죠. 얼마 전까지만 해도 CF 모델이며 앰버서더며 잘 나가던 친구들이었는데…!해외는<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -447,6 +447,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스페셜올림픽이 열렸다. 스포츠 워싱에 관한 질문을 던진다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63478</link>
+            <guid>https://www.bookjournalism.com/books/63478</guid>
+            <pubDate>Wed, 21 Jun 2023 15:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜올림픽의 의미]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552187/w/646/ex230621.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화는 색다른 경험이다. 우주가 우리 삶에 들어오면, 그 색다름의 질이 달라진다. (북저널리즘)]]></title>
@@ -535,14 +543,6 @@
             <pubDate>Mon, 12 Jun 2023 18:24:29 GMT</pubDate>
             <content:encoded><![CDATA[샘 알트먼의 기본소득, 월드코인]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/549514/w/646/ex230612%20%281%29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 경제가 반등하고 있다. 한국 경제는 저성장 국면을 앞두고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/63273</link>
-            <guid>https://www.bookjournalism.com/books/63273</guid>
-            <pubDate>Sun, 11 Jun 2023 15:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[살아나는 일본 경제]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548958/w/646/e230612.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
