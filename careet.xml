@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 23:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 01:43:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 15 Jun 2023 05:18:46 GMT</pubDate>
             <content:encoded><![CDATA[캐릿이 검증했으니까 안심하고 쓰셔도 됩니다]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/c2ebe6c5-aa83-4b65-ac1e-00ec987d5eda_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🥕 SNS 콘텐츠 제작할 때 참고하세요! Z세대는 다 아는 전단지 밈]]></title>
+            <link>https://www.careet.net/1103</link>
+            <guid>https://www.careet.net/1103</guid>
+            <pubDate>Wed, 21 Jun 2023 01:42:22 GMT</pubDate>
+            <content:encoded><![CDATA[“치악산 복숭아 당도최고”가 왜 밈이야?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/8a2db368-6256-4a96-b3ca-f39324144210_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[힙한 MZ 취미! 등산, 골프 가고 ‘여자 축구’가 뜬다고?]]></title>
