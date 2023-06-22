@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 05:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 06:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 21 Jun 2023 15:20:09 GMT</pubDate>
             <content:encoded><![CDATA[스페셜올림픽의 의미]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552187/w/646/ex230621.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552236/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[영화는 색다른 경험이다. 우주가 우리 삶에 들어오면, 그 색다름의 질이 달라진다.]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Tue, 20 Jun 2023 16:29:37 GMT</pubDate>
             <content:encoded><![CDATA[부산 엑스포 유치의 꿈과 열망]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551775/w/646/ex230620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 02:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551920/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[영미권 최대 커뮤니티 레딧에 불이 꺼졌다. 돈을 벌겠다는 CEO의 결정 때문이다.]]></title>
