@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 17:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 18:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -457,6 +457,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[중구의 마지막 종합 병원이 사라진다. 한국의 현주소가 드러난다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63534</link>
+            <guid>https://www.bookjournalism.com/books/63534</guid>
+            <pubDate>Thu, 22 Jun 2023 18:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[백병원 폐원은 시작에 불과하다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552248/w/646/ex230622.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스페셜올림픽이 열렸다. 스포츠 워싱에 관한 질문을 던진다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/63478</link>
             <guid>https://www.bookjournalism.com/books/63478</guid>
@@ -543,14 +551,6 @@
             <pubDate>Tue, 13 Jun 2023 15:19:05 GMT</pubDate>
             <content:encoded><![CDATA[이탈리안 스트롱맨의 죽음]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/549750/w/646/e230613.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[샘 알트먼이 방한했다. 인공지능 위협론을 넘어, 그가 제시하는 미래는 무엇인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/63293</link>
-            <guid>https://www.bookjournalism.com/books/63293</guid>
-            <pubDate>Mon, 12 Jun 2023 18:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[샘 알트먼의 기본소득, 월드코인]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/549514/w/646/ex230612%20%281%29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
