@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 23:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 01:58:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[취준생 에디션] 현직 마케터 18인이 이야기하는 ‘마케터 되는 법’]]></title>
+            <link>https://www.careet.net/1108</link>
+            <guid>https://www.careet.net/1108</guid>
+            <pubDate>Fri, 23 Jun 2023 01:57:23 GMT</pubDate>
+            <content:encoded><![CDATA[우아한형제들, CJ ENM, 신한카드 등 18개 기업 마케터가 말하는 실무의 모든 것]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/822257ef-fc51-4745-883c-c742522e3ff0_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1020의 여름방학 계획 1위로 뜨고 있다는 ‘굳이데이’가 뭐야?]]></title>
             <link>https://www.careet.net/1111</link>
