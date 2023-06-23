@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 09:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 10:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,7 +90,7 @@
             <link>https://www.careet.net/1111</link>
             <guid>https://www.careet.net/1111</guid>
             <pubDate>Thu, 22 Jun 2023 09:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대의 여름방학 트렌드 4]]></content:encoded>
+            <content:encoded><![CDATA[Z세대는 여름에 ‘이거’ 하면서 시간 보낸대! 이주의 유행템  4]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/30aaf2e2-7e66-42b4-a53f-f8ed5aa5e3b5_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
