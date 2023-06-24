@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-06-24T14:19:28.802Z</updated>
+    <updated>2023-06-24T15:22:16.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[혼자 있는 시간의 힘 : 무리 지어 다니며 성공한 사람은 없다]]></title>
-        <id>https://www.longblack.co/note/729</id>
-        <link href="https://www.longblack.co/note/729"/>
-        <updated>2023-06-23T15:21:46.052Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;요즘 혼자 있는 시간이 거의 없습니다. 회사에서는 팀원들과 함께하고, 주말에는 친구들을 만나기 바쁘죠. 누군가와 함께 있는 게 익숙해서일까요. 가끔 혼자 있는 주<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-06-24T15:21:17.326Z</updated>
+        <content type="html"><![CDATA[B가 메모한 이번주 롱블랙 문장
+
+“본업이 아닌 활동에 미래가 잠들어 있습니다. 당장은 도움이 안 될 것 같아도, 몸을 던져 하는 행위에는 일의 본질이 숨어 있지요. 눈앞의 문을 열었을 때, 거기에 본질이 있을지, 없을지는 아무도 모릅니다. 하지만 문을 열지 않으면<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
