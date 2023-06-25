@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 07:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 08:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -465,6 +465,102 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 위크엔드, 열다섯 번째 에피소드에서는 헌터 부츠와 영국의 흥망성쇠, 청소년 펜타닐 문제와, 종이책 《서점 여행자의 노트》에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/63551</link>
+            <guid>https://www.bookjournalism.com/audio/63551</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[6월 24일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552485/w/646/contents_thumb_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[중구의 마지막 종합 병원이 사라진다. 한국의 현주소가 드러난다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63534</link>
+            <guid>https://www.bookjournalism.com/books/63534</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[백병원 폐원은 시작에 불과하다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552248/w/646/ex230622.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페셜올림픽이 열렸다. 스포츠 워싱에 관한 질문을 던진다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63478</link>
+            <guid>https://www.bookjournalism.com/books/63478</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜올림픽의 의미]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552187/w/646/ex230621.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552236/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[영화는 색다른 경험이다. 우주가 우리 삶에 들어오면, 그 색다름의 질이 달라진다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63460</link>
+            <guid>https://www.bookjournalism.com/books/63460</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[영화의 위대한 도약]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552066/w/646/eb230621.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑스포 유치전이 뜨겁다. “부산은 준비됐다”는 윤석열 대통령의 말은 사실일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63430</link>
+            <guid>https://www.bookjournalism.com/books/63430</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[부산 엑스포 유치의 꿈과 열망]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551775/w/646/ex230620.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영미권 최대 커뮤니티 레딧에 불이 꺼졌다. 돈을 벌겠다는 CEO의 결정 때문이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63417</link>
+            <guid>https://www.bookjournalism.com/books/63417</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[돈이 되고 싶은 커뮤니티, 레딧]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551056/w/646/ex230619.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거부권 정국이다. 대통령에게 절충이 없다. 여당이 없다. 정치가 없다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63386</link>
+            <guid>https://www.bookjournalism.com/books/63386</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[대통령이 정치를 하지 않는다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551036/w/646/ex230619.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 위크엔드, 열네 번째 에피소드에서는 알쏭달쏭한 비즈니스 언어와 한중 관계, 종이책 《의사들은 왜 그래?》에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/63377</link>
+            <guid>https://www.bookjournalism.com/audio/63377</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[6월 17일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550839/w/646/R230615_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검색 시장이 변했다. 네이버도 변하고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63369</link>
+            <guid>https://www.bookjournalism.com/books/63369</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[네이버의 위기와 기회 요인]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550532/w/646/e230616.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[강릉이 커피콩빵 원조 논란으로 시끄럽다. 이 논란의 본질은 이야기가 사라진 지역에 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63346</link>
+            <guid>https://www.bookjournalism.com/books/63346</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[지역에는 이야기가 필요하다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550350/w/646/e230615.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지구의 지상 환경을 파괴해 온 인류는 같은 방식으로 우주도 오염시키고 있다. 대가를 치를 것 역시 인간이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63288</link>
+            <guid>https://www.bookjournalism.com/books/63288</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[쓰레기는 제발 집으로 가져가 주세요]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550285/w/646/eb230614.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
