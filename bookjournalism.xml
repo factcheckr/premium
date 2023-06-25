@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 14:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 15:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대 사회의 난민은 국경에서만 탄생하지 않는다. 패러다임을 바꿔야 한다.]]></title>
+            <link>https://www.bookjournalism.com/books/63502</link>
+            <guid>https://www.bookjournalism.com/books/63502</guid>
+            <pubDate>Sun, 25 Jun 2023 15:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[2023년의 새로운 난민]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552489/w/646/IMG_1437.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 열다섯 번째 에피소드에서는 헌터 부츠와 영국의 흥망성쇠, 청소년 펜타닐 문제와, 종이책 《서점 여행자의 노트》에 관해 이야기합니다.]]></title>
             <link>https://www.bookjournalism.com/audio/63551</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
             <content:encoded><![CDATA[지역에는 이야기가 필요하다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550350/w/646/e230615.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구의 지상 환경을 파괴해 온 인류는 같은 방식으로 우주도 오염시키고 있다. 대가를 치를 것 역시 인간이다.]]></title>
-            <link>https://www.bookjournalism.com/books/63288</link>
-            <guid>https://www.bookjournalism.com/books/63288</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[쓰레기는 제발 집으로 가져가 주세요]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550285/w/646/eb230614.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

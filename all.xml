@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 14:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 15:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,13 +374,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 24 Jun 2023 15:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[B가 메모한 이번주 롱블랙 문장
-
-“본업이 아닌 활동에 미래가 잠들어 있습니다. 당장은 도움이 안 될 것 같아도, 몸을 던져 하는 행위에는 일의 본질이 숨어 있지요. 눈앞의 문을 열었을 때, 거기에 본질이 있을지, 없을지는 아무도 모릅니다. 하지만 문을 열지 않으면<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[켈리타앤컴퍼니 : 성심당과 간송미술관, 깊이 공부한 디자인엔 ‘격’이 깃든다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/732</link>
+            <guid>https://www.longblack.co/note/732</guid>
+            <pubDate>Sun, 25 Jun 2023 15:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;사람에게 고유한 지문이 있다면, 브랜드엔 로고가 있습니다. 디자이너들은 BI라고 부르죠. ‘브랜드 아이덴티티Brand Identity’. 말 그대로 ‘브랜드 정체<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -465,6 +463,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현대 사회의 난민은 국경에서만 탄생하지 않는다. 패러다임을 바꿔야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63502</link>
+            <guid>https://www.bookjournalism.com/books/63502</guid>
+            <pubDate>Sun, 25 Jun 2023 15:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[2023년의 새로운 난민]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552489/w/646/IMG_1437.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 열다섯 번째 에피소드에서는 헌터 부츠와 영국의 흥망성쇠, 청소년 펜타닐 문제와, 종이책 《서점 여행자의 노트》에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -553,14 +559,6 @@
             <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
             <content:encoded><![CDATA[지역에는 이야기가 필요하다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550350/w/646/e230615.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구의 지상 환경을 파괴해 온 인류는 같은 방식으로 우주도 오염시키고 있다. 대가를 치를 것 역시 인간이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/63288</link>
-            <guid>https://www.bookjournalism.com/books/63288</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[쓰레기는 제발 집으로 가져가 주세요]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550285/w/646/eb230614.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
