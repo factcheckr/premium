@@ -4,9 +4,25 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 14:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 15:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3M이 13조 원의 합의금을 지불한다. 어떤 기업들은 먼저 말하거나 인정하지 않는다.]]></title>
+            <link>https://www.bookjournalism.com/books/63636</link>
+            <guid>https://www.bookjournalism.com/books/63636</guid>
+            <pubDate>Mon, 26 Jun 2023 15:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[영원한 화학물질의 가치]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553084/w/646/ex230626_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘이 정치, 사회, 환경, 우주, 법, 다섯 분야의 전문가에게 지금 깊이 되돌아봐야 할 역사의 중요한 한 장면을 물었다]]></title>
+            <link>https://www.bookjournalism.com/books/61668</link>
+            <guid>https://www.bookjournalism.com/books/61668</guid>
+            <pubDate>Mon, 26 Jun 2023 15:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[결정적 순간]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553061/w/646/95_moments.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대 사회의 난민은 국경에서만 탄생하지 않는다. 패러다임을 바꿔야 한다.]]></title>
             <link>https://www.bookjournalism.com/books/63502</link>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
             <content:encoded><![CDATA[6월 17일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550839/w/646/R230615_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검색 시장이 변했다. 네이버도 변하고 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/63369</link>
-            <guid>https://www.bookjournalism.com/books/63369</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[네이버의 위기와 기회 요인]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550532/w/646/e230616.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강릉이 커피콩빵 원조 논란으로 시끄럽다. 이 논란의 본질은 이야기가 사라진 지역에 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/63346</link>
-            <guid>https://www.bookjournalism.com/books/63346</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[지역에는 이야기가 필요하다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550350/w/646/e230615.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
