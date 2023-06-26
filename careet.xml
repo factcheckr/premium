@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 23:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 02:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이팅만 30분, 향수 뿌린 책으로 MZ 불러 모은 ‘문학 마케팅’]]></title>
+            <link>https://www.careet.net/1112</link>
+            <guid>https://www.careet.net/1112</guid>
+            <pubDate>Mon, 26 Jun 2023 02:00:35 GMT</pubDate>
+            <content:encoded><![CDATA[책 안 읽을 것 같은 MZ세대가 소설가와 브랜드의 콜라보를 반기는 이유는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/185e3436-0f76-428c-bc6c-cf2f21be9a55_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[취준생 에디션] 현직 마케터 18인이 이야기하는 ‘마케터 되는 법’]]></title>
             <link>https://www.careet.net/1108</link>
@@ -32,12 +40,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/8a2db368-6256-4a96-b3ca-f39324144210_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Z세대 100명에게 물었습니다. 2023년 상반기 트렌드는 무엇이었나요?]]></title>
+            <title><![CDATA[Z세대가 직접 뽑은 2023년 상반기 트렌드]]></title>
             <link>https://www.careet.net/1100</link>
             <guid>https://www.careet.net/1100</guid>
             <pubDate>Tue, 20 Jun 2023 08:27:27 GMT</pubDate>
             <content:encoded><![CDATA[Z세대가 요즘 유행이라고 생각하는 것]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/0ac88407-c300-41e7-a0f3-58227077eec7_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/9c76e37e-9754-4de1-a5db-cc9f5c93b100_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[브랜드 팬, 일반 소비자 모두 만족시킨 브랜드 공간 2]]></title>
@@ -80,12 +88,12 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/6b6deef9-2e3b-402b-b541-e67a7715b1e1_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이것만 보면 요즘 유튜브 트렌드 정복 가능! 2023 상반기 인급동 총정리]]></title>
+            <title><![CDATA[2023 상반기 인기 급상승 동영상 총정리]]></title>
             <link>https://www.careet.net/1102</link>
             <guid>https://www.careet.net/1102</guid>
             <pubDate>Mon, 12 Jun 2023 04:22:11 GMT</pubDate>
             <content:encoded><![CDATA[제작자 기획자 주목! 인급동 오르려면 어떻게 해야 할까?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/58994d2c-ec15-401d-b6c6-b7186e743b5c_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/0a5555f4-347d-459a-9511-f3919be998b1_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[면접, 회의 전 꼭 읽고 가야 할 이주의 유행템 4]]></title>
