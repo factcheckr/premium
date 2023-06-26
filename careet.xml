@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 02:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.careet.net/1100</guid>
             <pubDate>Tue, 20 Jun 2023 08:27:27 GMT</pubDate>
             <content:encoded><![CDATA[Z세대가 요즘 유행이라고 생각하는 것]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/9c76e37e-9754-4de1-a5db-cc9f5c93b100_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/7b7076fc-e01a-4f7c-9239-de0700540fe6_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[브랜드 팬, 일반 소비자 모두 만족시킨 브랜드 공간 2]]></title>
@@ -93,7 +93,7 @@
             <guid>https://www.careet.net/1102</guid>
             <pubDate>Mon, 12 Jun 2023 04:22:11 GMT</pubDate>
             <content:encoded><![CDATA[제작자 기획자 주목! 인급동 오르려면 어떻게 해야 할까?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/0a5555f4-347d-459a-9511-f3919be998b1_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/b68d9109-9f13-41d4-9bac-164c7b9ead02_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[면접, 회의 전 꼭 읽고 가야 할 이주의 유행템 4]]></title>
