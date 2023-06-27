@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 23:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 02:02:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멤버십 아깝지 않은 캐릿 베스트 콘텐츠 10]]></title>
+            <link>https://www.careet.net/1110</link>
+            <guid>https://www.careet.net/1110</guid>
+            <pubDate>Tue, 27 Jun 2023 02:01:10 GMT</pubDate>
+            <content:encoded><![CDATA[나만 놓치고 있었나? 상반기 콘텐츠 10분 복습하기]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/6ca35bcb-baae-4412-abc4-f8e9a35f5706_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[웨이팅만 30분, 향수 뿌린 책으로 MZ 불러 모은 ‘문학 마케팅’]]></title>
             <link>https://www.careet.net/1112</link>

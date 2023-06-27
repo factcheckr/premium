@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-06-26T23:22:39.484Z</updated>
+    <updated>2023-06-27T02:02:22.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/733</id>
         <link href="https://www.longblack.co/note/733"/>
         <updated>2023-06-26T15:21:20.629Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;오랜만에 줄 이어폰을 꺼냈어! 한때 내가 좋아했던 보스BOSE 제품이야. 문득 ‘요즘 보스는 뭐하려나?’ 궁금하더라. 무선 아이폰이 대세인 시대에 말야.와, 생각<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;오랜만에 줄 이어폰을 꺼냈어! 한때 내가 좋아했던 보스BOSE 제품이야. 문득 ‘요즘 보스는 뭐하려나?’ 궁금하더라. 무선 이어폰이 대세인 시대에 말야.와, 생각<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
