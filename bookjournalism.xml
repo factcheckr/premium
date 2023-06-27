@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 14:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 15:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀프 스토리지가 새로운 트렌드가 됐다.  도시에 필요한 공간은 무엇인지 묻는다.]]></title>
+            <link>https://www.bookjournalism.com/books/63647</link>
+            <guid>https://www.bookjournalism.com/books/63647</guid>
+            <pubDate>Tue, 27 Jun 2023 15:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[셀프 스토리지는 왜 트렌드가 됐을까]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553572/w/646/ex230627.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3M이 13조 원의 합의금을 지불한다. 어떤 기업들은 먼저 말하거나 인정하지 않는다.]]></title>
             <link>https://www.bookjournalism.com/books/63636</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
             <content:encoded><![CDATA[대통령이 정치를 하지 않는다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551036/w/646/ex230619.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 열네 번째 에피소드에서는 알쏭달쏭한 비즈니스 언어와 한중 관계, 종이책 《의사들은 왜 그래?》에 관해 이야기합니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/63377</link>
-            <guid>https://www.bookjournalism.com/audio/63377</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[6월 17일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550839/w/646/R230615_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

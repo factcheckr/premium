@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 14:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 15:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,11 +390,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[BOSE : 60년 역사의 오디오 브랜드, 음악에 집중해 애플에 맞서다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/733</link>
-            <guid>https://www.longblack.co/note/733</guid>
-            <pubDate>Mon, 26 Jun 2023 15:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;오랜만에 줄 이어폰을 꺼냈어! 한때 내가 좋아했던 보스BOSE 제품이야. 문득 ‘요즘 보스는 뭐하려나?’ 궁금하더라. 무선 이어폰이 대세인 시대에 말야.와, 생각<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[븟 : 연 2만 벌 팔리는 조리복, 요리사의 가치를 높이다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/734</link>
+            <guid>https://www.longblack.co/note/734</guid>
+            <pubDate>Tue, 27 Jun 2023 15:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;셰프가 나오는 방송을 즐겨 봐요. 솟구치는 불과 땀 흘리며 씨름하는 모습이 멋있거든요. 각양각색의 조리복을 보는 재미도 있고요. 이연복 셰프는 흰 차이나 카라, <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -479,6 +479,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[셀프 스토리지가 새로운 트렌드가 됐다.  도시에 필요한 공간은 무엇인지 묻는다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63647</link>
+            <guid>https://www.bookjournalism.com/books/63647</guid>
+            <pubDate>Tue, 27 Jun 2023 15:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[셀프 스토리지는 왜 트렌드가 됐을까]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553572/w/646/ex230627.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3M이 13조 원의 합의금을 지불한다. 어떤 기업들은 먼저 말하거나 인정하지 않는다. (북저널리즘)]]></title>
@@ -567,14 +575,6 @@
             <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
             <content:encoded><![CDATA[대통령이 정치를 하지 않는다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551036/w/646/ex230619.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 열네 번째 에피소드에서는 알쏭달쏭한 비즈니스 언어와 한중 관계, 종이책 《의사들은 왜 그래?》에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/63377</link>
-            <guid>https://www.bookjournalism.com/audio/63377</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[6월 17일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550839/w/646/R230615_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
