@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 14:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 15:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,11 +398,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[븟 : 연 2만 벌 팔리는 조리복, 요리사의 가치를 높이다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/734</link>
-            <guid>https://www.longblack.co/note/734</guid>
-            <pubDate>Tue, 27 Jun 2023 15:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;셰프가 나오는 방송을 즐겨 봐요. 솟구치는 불과 땀 흘리며 씨름하는 모습이 멋있거든요. 각양각색의 조리복을 보는 재미도 있고요. 이연복 셰프는 흰 차이나 카라, <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[칸 라이언즈 : 나이키부터 파타고니아까지, 크리에이티브 트렌드를 읽다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/737</link>
+            <guid>https://www.longblack.co/note/737</guid>
+            <pubDate>Wed, 28 Jun 2023 15:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C범죄 드라마의 마지막 장면. 영안실 침대 위에 한 여성이 누워있어요. 그런데 갑자기 눈을 번쩍 뜨고 말을 하는 거예요! “이건 예상 못 했는데… 미안해 얘들아, 생<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -487,6 +487,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배속과 건너뛰기가 생활화됐다. 원인은 정보 과부하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63704</link>
+            <guid>https://www.bookjournalism.com/books/63704</guid>
+            <pubDate>Wed, 28 Jun 2023 15:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[팟패스터의 시대, 정보의 가치]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553902/w/646/ex230628.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[대마초는 전 세계에서 이미지 변신을 시도하고 있다. 약물이 아니라, 마치 약품처럼. 여기에는 근거가 있을까. 대마초는 정말 괜찮을까. (북저널리즘)]]></title>
@@ -575,14 +583,6 @@
             <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
             <content:encoded><![CDATA[부산 엑스포 유치의 꿈과 열망]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551775/w/646/ex230620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영미권 최대 커뮤니티 레딧에 불이 꺼졌다. 돈을 벌겠다는 CEO의 결정 때문이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/63417</link>
-            <guid>https://www.bookjournalism.com/books/63417</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[돈이 되고 싶은 커뮤니티, 레딧]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551056/w/646/ex230619.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
