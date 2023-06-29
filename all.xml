@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 10:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 11:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,7 +382,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/9baaee75-d2ce-4ff7-b754-2a4f426be3c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[4월 인급동 총정리] 현직 PD 등판! 최신 유튜브 콘텐츠 흐름 분석 (캐릿)]]></title>
+            <title><![CDATA[최신 유튜브 콘텐츠 흐름 분석 (캐릿)]]></title>
             <link>https://www.careet.net/1071</link>
             <guid>https://www.careet.net/1071</guid>
             <pubDate>Wed, 17 May 2023 13:22:07 GMT</pubDate>
