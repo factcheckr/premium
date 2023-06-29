@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-06-28T23:23:03.807Z</updated>
+    <updated>2023-06-29T03:36:59.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/737</id>
         <link href="https://www.longblack.co/note/737"/>
         <updated>2023-06-28T15:22:14.416Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C범죄 드라마의 마지막 장면. 영안실 침대 위에 한 여성이 누워있어요. 그런데 갑자기 눈을 번쩍 뜨고 말을 하는 거예요! “이건 예상 못 했는데… 미안해 얘들아, 생<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;범죄 드라마의 마지막 장면. 영안실 침대 위에 한 여성이 누워있어요. 그런데 갑자기 눈을 번쩍 뜨고 말을 하는 거예요! “이건 예상 못 했는데… 미안해 얘들아, <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
