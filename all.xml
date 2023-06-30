@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 14:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 15:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -414,11 +414,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[카메라타 : 진공관 스피커와 1만여 장의 LP로, 사색의 공간을 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/736</link>
-            <guid>https://www.longblack.co/note/736</guid>
-            <pubDate>Thu, 29 Jun 2023 15:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;부모님이 공간을 하나 추천하셨어요. 라디오 감성을 느끼고 싶을 때 찾는 곳이라 하셨죠. 황인용뮤직스페이스카메라타(이하 카메라타). 파주 헤이리 마을에 있어요. &nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[주의력 연습 : 스마트폰을 켤 때마다 뭘 할지 잊어버렸던 당신에게 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/738</link>
+            <guid>https://www.longblack.co/note/738</guid>
+            <pubDate>Fri, 30 Jun 2023 15:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;“방금 무슨 이야기하고 있었죠?” C와 아이디어 회의를 하다가 제가 한 말입니다. 분명 C를 쳐다보고 있었는데, 무슨 말을 했는지조차 생각나지 않았어요. 이때만이<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
