@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 01:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 02:56:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,7 +518,15 @@
             <guid>https://www.bookjournalism.com/books/63692</guid>
             <pubDate>Thu, 29 Jun 2023 15:22:08 GMT</pubDate>
             <content:encoded><![CDATA[재개발의 정치학]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/554317/w/646/96thm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/554996/w/646/96thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/554993/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[배속과 건너뛰기가 생활화됐다. 원인은 정보 과부하다. (북저널리즘)]]></title>
@@ -527,14 +535,6 @@
             <pubDate>Wed, 28 Jun 2023 15:23:03 GMT</pubDate>
             <content:encoded><![CDATA[팟패스터의 시대, 정보의 가치]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553902/w/646/ex230628.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/554156/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[대마초는 전 세계에서 이미지 변신을 시도하고 있다. 약물이 아니라, 마치 약품처럼. 여기에는 근거가 있을까. 대마초는 정말 괜찮을까. (북저널리즘)]]></title>
