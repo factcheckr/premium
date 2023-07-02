@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-07-02T14:18:38.072Z</updated>
+    <updated>2023-07-02T15:20:24.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-07-01T15:19:34.045Z</updated>
-        <content type="html"><![CDATA[C가 메모한 이번주 롱블랙 문장
-
-“저에게 일이란 ‘나 자신을 증명하는 삶의 과정’이에요. 사람은 태어날 때부터 죽어가고, 그 과정은 내가 한 선택들로 채워집니다. 직업은 그 사람이 한 선택을 가장 잘 보여주는 지표라고 생각해요. 방법은 달라졌어도, 전 여전히 요리<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[에어로케이 : 청주의 작은 항공사는 왜 콘텐츠 맛집이 됐나]]></title>
+        <id>https://www.longblack.co/note/739</id>
+        <link href="https://www.longblack.co/note/739"/>
+        <updated>2023-07-02T15:19:26.389Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;얼마 전 월스트리트저널Wall Street Journal과 NHK가 한국 항공사를 주목했어요. 청주국제공항 거점항공사인 ‘에어로케이Aero K’예요.&nbsp;‘젠더리스 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
