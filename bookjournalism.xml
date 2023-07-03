@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 14:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 15:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[말레이시아에 ‘할랄’ 한우를 수출한다. 너무 많기 때문이다. 그런데 소비자 가격은 그대로다.]]></title>
+            <link>https://www.bookjournalism.com/books/63875</link>
+            <guid>https://www.bookjournalism.com/books/63875</guid>
+            <pubDate>Mon, 03 Jul 2023 15:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[한우, 공급 과잉인데 비싼 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/555614/w/646/ex230703.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[푸틴의 세계가 무너진다. 우크라이나 평화 회담이 열린다. 골든타임은 지금인가.]]></title>
             <link>https://www.bookjournalism.com/books/63860</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 25 Jun 2023 15:21:56 GMT</pubDate>
             <content:encoded><![CDATA[2023년의 새로운 난민]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552489/w/646/IMG_1437.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 열다섯 번째 에피소드에서는 헌터 부츠와 영국의 흥망성쇠, 청소년 펜타닐 문제와, 종이책 《서점 여행자의 노트》에 관해 이야기합니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/63551</link>
-            <guid>https://www.bookjournalism.com/audio/63551</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[6월 24일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552485/w/646/contents_thumb_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

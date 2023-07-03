@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 14:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 15:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,11 +254,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/b5cd1587-28db-41ec-a384-fd9c6de5a90f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[에어로케이 : 청주의 작은 항공사는 왜 콘텐츠 맛집이 됐나 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/739</link>
-            <guid>https://www.longblack.co/note/739</guid>
-            <pubDate>Sun, 02 Jul 2023 15:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;얼마 전 월스트리트저널Wall Street Journal과 NHK가 한국 항공사를 주목했어요. 청주국제공항 거점항공사인 ‘에어로케이Aero K’예요.&nbsp;‘젠더리스 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[케이크 : 지구를 생각한 스웨덴 바이크, 라이더 문화의 편견을 깨다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/740</link>
+            <guid>https://www.longblack.co/note/740</guid>
+            <pubDate>Mon, 03 Jul 2023 15:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;저 압구정 놀러 갔다가 재미있는 가게를 발견했어요. 유리창에 대문짝만하게 케이크CAKE라고 써 있는 거예요. 그런데 웬 오토바이를 전시해 놓았더라고요. 케이크 가<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -343,6 +343,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[말레이시아에 ‘할랄’ 한우를 수출한다. 너무 많기 때문이다. 그런데 소비자 가격은 그대로다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63875</link>
+            <guid>https://www.bookjournalism.com/books/63875</guid>
+            <pubDate>Mon, 03 Jul 2023 15:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[한우, 공급 과잉인데 비싼 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/555614/w/646/ex230703.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[푸틴의 세계가 무너진다. 우크라이나 평화 회담이 열린다. 골든타임은 지금인가. (북저널리즘)]]></title>
@@ -431,14 +439,6 @@
             <pubDate>Sun, 25 Jun 2023 15:21:56 GMT</pubDate>
             <content:encoded><![CDATA[2023년의 새로운 난민]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552489/w/646/IMG_1437.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 열다섯 번째 에피소드에서는 헌터 부츠와 영국의 흥망성쇠, 청소년 펜타닐 문제와, 종이책 《서점 여행자의 노트》에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/63551</link>
-            <guid>https://www.bookjournalism.com/audio/63551</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[6월 24일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552485/w/646/contents_thumb_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
