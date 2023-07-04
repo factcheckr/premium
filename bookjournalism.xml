@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 15:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 16:29:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘중독자’ 트위터 유저들이 쫓겨났다. 그들은 휴대폰 밖 현실 세상이 아니라, 다른 SNS로 떠나고 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/63894</link>
+            <guid>https://www.bookjournalism.com/books/63894</guid>
+            <pubDate>Tue, 04 Jul 2023 16:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[넥스트 트위터의 가능성]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/555987/w/646/ex230704.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[북저널리즘 파운더스, 첫 번째 인터뷰 주인공은 북저널리즘 이연대 대표입니다. 세상에 없던 지식 구독 서비스를 만들었습니다.]]></title>
             <link>https://www.bookjournalism.com/audio/63905</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 26 Jun 2023 15:22:08 GMT</pubDate>
             <content:encoded><![CDATA[영원한 화학물질의 가치]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553084/w/646/ex230626_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘이 정치, 사회, 환경, 우주, 법, 다섯 분야의 전문가에게 지금 깊이 되돌아봐야 할 역사의 중요한 한 장면을 물었다]]></title>
-            <link>https://www.bookjournalism.com/books/61668</link>
-            <guid>https://www.bookjournalism.com/books/61668</guid>
-            <pubDate>Mon, 26 Jun 2023 15:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[결정적 순간]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553061/w/646/95_moments.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
