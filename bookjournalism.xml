@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 07:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 08:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북저널리즘 파운더스, 첫 번째 인터뷰 주인공은 북저널리즘 이연대 대표입니다. 세상에 없던 지식 구독 서비스를 만들었습니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/63905</link>
+            <guid>https://www.bookjournalism.com/audio/63905</guid>
+            <pubDate>Tue, 04 Jul 2023 08:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[7월 4일, FOUNDERS]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/555816/w/646/logo_founders_contents_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[말레이시아에 ‘할랄’ 한우를 수출한다. 너무 많기 때문이다. 그런데 소비자 가격은 그대로다.]]></title>
             <link>https://www.bookjournalism.com/books/63875</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 26 Jun 2023 15:22:08 GMT</pubDate>
             <content:encoded><![CDATA[결정적 순간]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553061/w/646/95_moments.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대 사회의 난민은 국경에서만 탄생하지 않는다. 패러다임을 바꿔야 한다.]]></title>
-            <link>https://www.bookjournalism.com/books/63502</link>
-            <guid>https://www.bookjournalism.com/books/63502</guid>
-            <pubDate>Sun, 25 Jun 2023 15:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023년의 새로운 난민]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552489/w/646/IMG_1437.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
