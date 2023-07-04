@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 23:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 01:58:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[데이터] MZ세대는 주말에 웹소설을 86.2분이나 본다?]]></title>
+            <link>https://www.careet.net/1114</link>
+            <guid>https://www.careet.net/1114</guid>
+            <pubDate>Tue, 04 Jul 2023 01:57:50 GMT</pubDate>
+            <content:encoded><![CDATA[웹소설이 달성한 시장 규모 1조원! 더 이상 웹소설은 일부 매니아층의 전유물이 아니다.&nbsp;]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/95bab0ba-1a76-418b-b487-e5c4ee69fc7f_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 대학생들은 MT 어디로 가요? 가서 뭐 하고 노나요?]]></title>
             <link>https://www.careet.net/1115</link>
