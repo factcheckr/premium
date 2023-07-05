@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 16:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 17:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -361,6 +361,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[라면은 경제가 아니다. 탄생부터 정치였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63961</link>
+            <guid>https://www.bookjournalism.com/books/63961</guid>
+            <pubDate>Wed, 05 Jul 2023 17:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[라면 정치사]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/556225/w/646/ex230705.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[수산 양식은 인간이 물고기를 먹을 수 있는 지속 가능한 방식일까. 바다에게, 물고기에게 이는 그저 잔인한 이야기다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/63842</link>
             <guid>https://www.bookjournalism.com/books/63842</guid>
@@ -447,14 +455,6 @@
             <pubDate>Wed, 28 Jun 2023 08:28:56 GMT</pubDate>
             <content:encoded><![CDATA[대마, 악 혹은 약?]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553762/w/646/IMG_0967.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀프 스토리지가 새로운 트렌드가 됐다.  도시에 필요한 공간은 무엇인지 묻는다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/63647</link>
-            <guid>https://www.bookjournalism.com/books/63647</guid>
-            <pubDate>Tue, 27 Jun 2023 15:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[셀프 스토리지는 왜 트렌드가 됐을까]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553572/w/646/ex230627.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
