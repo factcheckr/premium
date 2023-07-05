@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 23:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 01:57:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기숙사 한 달 살기, 마르크스 생일카페? 달라진 캠퍼스 문화 싹 정리함!]]></title>
+            <link>https://www.careet.net/1109</link>
+            <guid>https://www.careet.net/1109</guid>
+            <pubDate>Wed, 05 Jul 2023 01:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[캠페인 프로모션 담당자들 무조건 클릭!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/7295e458-6a77-4e20-b916-f67861614c75_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[데이터] MZ세대는 주말에 웹소설을 86.2분이나 본다?]]></title>
             <link>https://www.careet.net/1114</link>
