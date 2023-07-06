@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 02:00:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 03:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -377,6 +377,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/556225/w/646/ex230705.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/556314/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[수산 양식은 인간이 물고기를 먹을 수 있는 지속 가능한 방식일까. 바다에게, 물고기에게 이는 그저 잔인한 이야기다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/63842</link>
             <guid>https://www.bookjournalism.com/books/63842</guid>
@@ -391,14 +399,6 @@
             <pubDate>Tue, 04 Jul 2023 16:29:02 GMT</pubDate>
             <content:encoded><![CDATA[넥스트 트위터의 가능성]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/555987/w/646/ex230704.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/556032/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 파운더스, 첫 번째 인터뷰 주인공은 북저널리즘 이연대 대표입니다. 세상에 없던 지식 구독 서비스를 만들었습니다. (북저널리즘)]]></title>
