@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 23:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 01:58:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타 공지 채널부터 AI 커버 도네이션까지! Z세대가 주목한 이주의 SNS 이슈]]></title>
+            <link>https://www.careet.net/1122</link>
+            <guid>https://www.careet.net/1122</guid>
+            <pubDate>Fri, 07 Jul 2023 01:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[이주의 유행템 소개해드립니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/69a71393-d96b-4df9-b0e8-809caa52121c_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대학교 굿즈를 보면 Z세대에게 인정받는 굿즈 트렌드를 알 수 있다!]]></title>
             <link>https://www.careet.net/1117</link>
