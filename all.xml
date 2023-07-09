@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 14:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 15:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,14 +286,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/b5cd1587-28db-41ec-a384-fd9c6de5a90f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 08 Jul 2023 15:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[K가 밑줄 친 이번주 롱블랙 문장
-
-“항공사는 진입장벽이 높은 사업이에요. 여기에 도전하겠다는, 그것도 ‘자유롭고 신선한 문화’를 가진 항공사를 만들겠다는 약속에 매력을 느꼈죠. 모든 사업은 ‘첫 약속’이 중요하거든요. 바꾸기가 어려우니까요.”
-&lt;a target=<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[베르나르 베르베르 : 백지는 고칠 수 없다, 무엇이든 쓰는 것이 시작이다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/748</link>
+            <guid>https://www.longblack.co/note/748</guid>
+            <pubDate>Sun, 09 Jul 2023 15:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B베르나르 베르베르Bernard Werber. 오랜만에 듣는 익숙한 이름이죠? 프랑스 작가인 그가 한국 독자들과 처음 만난 건 1993년. 1991년 작 『개미』가 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -378,6 +375,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모든 의류 기업이 패스트패션화된다. 쉬인의 문제는 쉬인만의 것이 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63972</link>
+            <guid>https://www.bookjournalism.com/books/63972</guid>
+            <pubDate>Sun, 09 Jul 2023 15:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[패션 트렌드가 ESG를 망치는 방법]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/557586/w/646/IMG_1557.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 열일곱 번째 에피소드에서는 운동하는 미국 정치인과 꿈을 꾸는 문어, 종이책 《재개발의 정치학》에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -466,14 +471,6 @@
             <pubDate>Thu, 29 Jun 2023 16:28:57 GMT</pubDate>
             <content:encoded><![CDATA[늙은 도시와 아픈 노인에게 필요한 것]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/554561/w/646/ex230629.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은마아파트는 재건축에 성공할 수 있을까? 도시 계획 이면의 암투로 아파트 공화국을 읽는다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/63692</link>
-            <guid>https://www.bookjournalism.com/books/63692</guid>
-            <pubDate>Thu, 29 Jun 2023 15:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[재개발의 정치학]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/557209/w/646/96thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

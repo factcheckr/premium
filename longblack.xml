@@ -2,17 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-07-09T14:18:47.234Z</updated>
+    <updated>2023-07-09T15:21:01.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-07-08T15:19:57.886Z</updated>
-        <content type="html"><![CDATA[K가 밑줄 친 이번주 롱블랙 문장
-
-“항공사는 진입장벽이 높은 사업이에요. 여기에 도전하겠다는, 그것도 ‘자유롭고 신선한 문화’를 가진 항공사를 만들겠다는 약속에 매력을 느꼈죠. 모든 사업은 ‘첫 약속’이 중요하거든요. 바꾸기가 어려우니까요.”
-&lt;a target=<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[베르나르 베르베르 : 백지는 고칠 수 없다, 무엇이든 쓰는 것이 시작이다]]></title>
+        <id>https://www.longblack.co/note/748</id>
+        <link href="https://www.longblack.co/note/748"/>
+        <updated>2023-07-09T15:20:05.923Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B베르나르 베르베르Bernard Werber. 오랜만에 듣는 익숙한 이름이죠? 프랑스 작가인 그가 한국 독자들과 처음 만난 건 1993년. 1991년 작 『개미』가 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
