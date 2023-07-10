@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 10:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 11:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/c6534a77-ba2e-4860-9444-71dbc3b7f967_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[인스타 공지 채널부터 AI 커버 도네이션까지! Z세대가 주목한 이주의 SNS 이슈]]></title>
+            <title><![CDATA[‘스레드’부터 ‘AI 커버 도네이션’까지! Z세대가 주목한 이주의 SNS 이슈]]></title>
             <link>https://www.careet.net/1122</link>
             <guid>https://www.careet.net/1122</guid>
             <pubDate>Fri, 07 Jul 2023 01:57:35 GMT</pubDate>
