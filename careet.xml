@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 23:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 01:59:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출시 전부터 주목 받으려면? ‘스포 마케팅’을 하셔야 합니다]]></title>
+            <link>https://www.careet.net/1120</link>
+            <guid>https://www.careet.net/1120</guid>
+            <pubDate>Mon, 10 Jul 2023 01:58:21 GMT</pubDate>
+            <content:encoded><![CDATA[QR 코드부터 암호까지 스포 마케팅 잘하는 방법 5가지]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/c6534a77-ba2e-4860-9444-71dbc3b7f967_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인스타 공지 채널부터 AI 커버 도네이션까지! Z세대가 주목한 이주의 SNS 이슈]]></title>
             <link>https://www.careet.net/1122</link>
