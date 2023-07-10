@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-07-10T03:06:35.428Z</updated>
+    <updated>2023-07-10T04:26:12.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/748</id>
         <link href="https://www.longblack.co/note/748"/>
         <updated>2023-07-09T15:20:05.923Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B베르나르 베르베르Bernard Werber. 오랜만에 듣는 익숙한 이름이죠? 프랑스 작가인 그가 한국 독자들과 처음 만난 건 1993년. 1991년 작 『개미』가 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;베르나르 베르베르Bernard Werber. 오랜만에 듣는 익숙한 이름이죠? 프랑스 작가인 그가 한국 독자들과 처음 만난 건 1993년. 1991년 작 『개미』가<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 03:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 04:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,7 +298,7 @@
             <link>https://www.longblack.co/note/748</link>
             <guid>https://www.longblack.co/note/748</guid>
             <pubDate>Sun, 09 Jul 2023 15:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B베르나르 베르베르Bernard Werber. 오랜만에 듣는 익숙한 이름이죠? 프랑스 작가인 그가 한국 독자들과 처음 만난 건 1993년. 1991년 작 『개미』가 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;베르나르 베르베르Bernard Werber. 오랜만에 듣는 익숙한 이름이죠? 프랑스 작가인 그가 한국 독자들과 처음 만난 건 1993년. 1991년 작 『개미』가<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
