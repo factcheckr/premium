@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 17:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 18:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -397,8 +397,8 @@
             <link>https://www.bookjournalism.com/books/64128</link>
             <guid>https://www.bookjournalism.com/books/64128</guid>
             <pubDate>Tue, 11 Jul 2023 16:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕타임스식 디지털 혁신의 부작용]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/558680/w/646/ex230711.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[뉴욕타임스식 혁신의 부작용]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/558707/w/646/ex230711.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알츠하이머 치매 치료제가 시장에 풀린다. 1년에 3500만 원이다. (북저널리즘)]]></title>
