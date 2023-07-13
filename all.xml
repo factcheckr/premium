@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 04:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 05:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7252?fr=category</guid>
             <pubDate>Thu, 06 Jul 2023 13:36:29 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7252?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/06/28/1687920392_pSQYSzInjQcscbWw6JOSNK2NM57HAQDslS4DIIGR.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 8분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7252?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">팀 업무가 정체됐을 때 리더가 할 수 있는 6가지 방법</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“팝업스토어 100개 가봤습니다.” 마케터의 영감 기록 훔쳐보기 (캐릿)]]></title>
+            <link>https://www.careet.net/1119</link>
+            <guid>https://www.careet.net/1119</guid>
+            <pubDate>Thu, 13 Jul 2023 05:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[마케터에게 영감을 준 팝업스토어 21]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/effcb441-180b-4f4e-9f78-7a531113c5a6_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[해외 Z세대가 돈 쓰고 간다는 국내 ‘K-POP 핫플’ 알려드림 (캐릿)]]></title>
