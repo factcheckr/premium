@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 02:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 03:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -409,6 +409,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/559437/w/646/ex230712.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/559455/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[웃게 만드는 사람에게 끌리는 건 본능이다. 우리는 더 많이 웃어야 하기 때문이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/64091</link>
             <guid>https://www.bookjournalism.com/books/64091</guid>
@@ -423,14 +431,6 @@
             <pubDate>Tue, 11 Jul 2023 16:28:33 GMT</pubDate>
             <content:encoded><![CDATA[뉴욕타임스식 혁신의 부작용]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/558707/w/646/ex230711.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/558747/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[알츠하이머 치매 치료제가 시장에 풀린다. 1년에 3500만 원이다. (북저널리즘)]]></title>
