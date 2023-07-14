@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 07:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 08:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -417,6 +417,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 위크엔드, 열여덟 번째 에피소드에서는 이혼 복지 제도와 친환경 비행, 종이책 《인류세 시나리오》에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/64235</link>
+            <guid>https://www.bookjournalism.com/audio/64235</guid>
+            <pubDate>Fri, 14 Jul 2023 08:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[7월 15일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/559669/w/646/r230715_contents_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[태평양 섬나라가 미중 경쟁 격전지로 떠올랐다. 힘의 논리만으로 태평양도서국을 설명할 수 없다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/64202</link>
             <guid>https://www.bookjournalism.com/books/64202</guid>
@@ -503,14 +511,6 @@
             <pubDate>Wed, 05 Jul 2023 08:29:05 GMT</pubDate>
             <content:encoded><![CDATA[문어는 알고 있다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/556214/w/646/eb230705.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘중독자’ 트위터 유저들이 쫓겨났다. 그들은 휴대폰 밖 현실 세상이 아니라, 다른 SNS로 떠나고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/63894</link>
-            <guid>https://www.bookjournalism.com/books/63894</guid>
-            <pubDate>Tue, 04 Jul 2023 16:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[넥스트 트위터의 가능성]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/555987/w/646/ex230704.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
