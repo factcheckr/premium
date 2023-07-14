@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 23:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 02:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[100만 명이 반응했다! 나만 몰랐던 이주의 유행템 3]]></title>
+            <link>https://www.careet.net/1134</link>
+            <guid>https://www.careet.net/1134</guid>
+            <pubDate>Fri, 14 Jul 2023 01:59:38 GMT</pubDate>
+            <content:encoded><![CDATA[성수동에 공항이 생겼다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/116f73c7-c0e2-40f5-9e33-d357115c940b_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“팝업스토어 100개 가봤습니다.” 마케터의 영감 기록 훔쳐보기]]></title>
             <link>https://www.careet.net/1119</link>
