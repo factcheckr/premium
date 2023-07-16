@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-07-16T14:19:30.089Z</updated>
+    <updated>2023-07-16T15:21:05.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-07-15T15:19:41.163Z</updated>
-        <content type="html"><![CDATA[C가 좋아한 이번주 롱블랙 문장
-
-“과거 브랜드는 ‘확실한 품질’의 상징이었어요. 제품이나 서비스가 확실히 괜찮다, 경쟁사 대비 우월하다는 표식과 같았죠. 품질이 상향 평준화된 지금은 다릅니다. 이제 사람들이 사는 건 물건보다는 의미입니다. 브랜드 고유의 언어와 세<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[유현준 : ‘좋은 도시’를 사유할수록, 우리는 더 다정한 이웃이 된다]]></title>
+        <id>https://www.longblack.co/note/752</id>
+        <link href="https://www.longblack.co/note/752"/>
+        <updated>2023-07-16T15:20:10.546Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;히말라야에서 등산객을 돕는 셰르파*는, 산을 오르다 가끔 한자리에 머뭅니다. 분주한 몸의 속도를 영혼이 따라잡을 수 있게 기다리는 거라고 해요. 숨을 고르는 동안<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
