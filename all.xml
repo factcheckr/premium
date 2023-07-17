@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 14:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 15:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,11 +334,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/b5cd1587-28db-41ec-a384-fd9c6de5a90f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[유현준 : ‘좋은 도시’를 사유할수록, 우리는 더 다정한 이웃이 된다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/752</link>
-            <guid>https://www.longblack.co/note/752</guid>
-            <pubDate>Sun, 16 Jul 2023 15:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;히말라야에서 등산객을 돕는 셰르파*는, 산을 오르다 가끔 한자리에 머뭅니다. 분주한 몸의 속도를 영혼이 따라잡을 수 있게 기다리는 거라고 해요. 숨을 고르는 동안<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[애나 램키 : 도파민네이션의 저자, 중독 사회에 경고하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/753</link>
+            <guid>https://www.longblack.co/note/753</guid>
+            <pubDate>Mon, 17 Jul 2023 15:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;“담배를 끊기는 쉽다. 나는 수백 번이나 담배를 끊었다.”미국 소설가 마크 트웨인Mark Twain이 남긴 고백입니다. 1905년, 자신의 일흔 살 생일 잔치에서<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -423,6 +423,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도시는 물을 거스른다. 그러나 물은 제 갈 길을 가기 마련이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/64290</link>
+            <guid>https://www.bookjournalism.com/books/64290</guid>
+            <pubDate>Mon, 17 Jul 2023 15:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[도시의 원죄]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/560687/w/646/ex230717.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정당 현수막이 내려가고, 정치의 말은 땅으로 떨어졌다. 시민들은 박수를 쳤다. (북저널리즘)]]></title>
@@ -511,14 +519,6 @@
             <pubDate>Thu, 06 Jul 2023 16:30:12 GMT</pubDate>
             <content:encoded><![CDATA[제약·바이오는 어떻게 돈을 벌까?]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/556872/w/646/ex230706.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라면은 경제가 아니다. 탄생부터 정치였다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/63961</link>
-            <guid>https://www.bookjournalism.com/books/63961</guid>
-            <pubDate>Wed, 05 Jul 2023 17:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[라면 정치사]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/556225/w/646/ex230705.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

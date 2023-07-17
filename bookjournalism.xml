@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 14:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 15:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도시는 물을 거스른다. 그러나 물은 제 갈 길을 가기 마련이다.]]></title>
+            <link>https://www.bookjournalism.com/books/64290</link>
+            <guid>https://www.bookjournalism.com/books/64290</guid>
+            <pubDate>Mon, 17 Jul 2023 15:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[도시의 원죄]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/560687/w/646/ex230717.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정당 현수막이 내려가고, 정치의 말은 땅으로 떨어졌다. 시민들은 박수를 쳤다.]]></title>
             <link>https://www.bookjournalism.com/books/64213</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 06 Jul 2023 16:30:12 GMT</pubDate>
             <content:encoded><![CDATA[제약·바이오는 어떻게 돈을 벌까?]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/556872/w/646/ex230706.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라면은 경제가 아니다. 탄생부터 정치였다.]]></title>
-            <link>https://www.bookjournalism.com/books/63961</link>
-            <guid>https://www.bookjournalism.com/books/63961</guid>
-            <pubDate>Wed, 05 Jul 2023 17:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[라면 정치사]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/556225/w/646/ex230705.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
