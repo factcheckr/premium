@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 02:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 03:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -441,20 +441,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/560687/w/646/ex230717.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/560703/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[정당 현수막이 내려가고, 정치의 말은 땅으로 떨어졌다. 시민들은 박수를 쳤다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/64213</link>
             <guid>https://www.bookjournalism.com/books/64213</guid>
             <pubDate>Sun, 16 Jul 2023 15:20:56 GMT</pubDate>
             <content:encoded><![CDATA[정당 현수막은 왜 시끄러울까]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/559795/w/646/ex230714%20%281%29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/560604/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 열여덟 번째 에피소드에서는 이혼 복지 제도와 친환경 비행, 종이책 《인류세 시나리오》에 관해 이야기합니다. (북저널리즘)]]></title>
