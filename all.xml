@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 23:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 02:57:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7281?fr=category</guid>
             <pubDate>Fri, 07 Jul 2023 07:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7281?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/07/06/1688636362_OZa6AAtJXbo2hSzO2oWnCcvKLfVBX9nqRf5XLSW1.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 4분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7281?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">요즘 직장인의 자기계발 리포트 (by. 퍼블리)</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[그거 아세요? Z세대는 유튜브 뮤직 TOP 100 듣는대요 (캐릿)]]></title>
+            <link>https://www.careet.net/1132</link>
+            <guid>https://www.careet.net/1132</guid>
+            <pubDate>Wed, 19 Jul 2023 02:55:55 GMT</pubDate>
+            <content:encoded><![CDATA[올 상반기, 눈에 띄는 음악 트렌드 총정리]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/1220e256-6e78-4604-9e6f-07ee284fc100_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[핸드크림 보정법이 뭐야? Z세대 사진 트렌드 업데이트 ver. (캐릿)]]></title>
@@ -441,20 +449,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/560784/w/646/ex230718.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/560893/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[도시는 물을 거스른다. 그러나 물은 제 갈 길을 가기 마련이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/64290</link>
             <guid>https://www.bookjournalism.com/books/64290</guid>
             <pubDate>Mon, 17 Jul 2023 15:23:24 GMT</pubDate>
             <content:encoded><![CDATA[도시의 원죄]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/560687/w/646/ex230717.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/560703/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[정당 현수막이 내려가고, 정치의 말은 땅으로 떨어졌다. 시민들은 박수를 쳤다. (북저널리즘)]]></title>
