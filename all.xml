@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 07:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 08:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -441,6 +441,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[남태평양 위 작은 섬에서의 전쟁이 지금의 영국과 아르헨티나를 만들었다. 전쟁은 외교로 얼굴을 바꾸어 지금도 진행 중이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/64297</link>
+            <guid>https://www.bookjournalism.com/books/64297</guid>
+            <pubDate>Wed, 19 Jul 2023 08:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[포클랜드 전쟁, 선을 긋다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/561747/w/646/ed230719.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘 꼭 알아야 할 국내외 이슈를 선별해 브리핑합니다. 월~금 오전에 전해 드리는 주요 뉴스 브리핑를 주차별로 엮었습니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/64349</link>
             <guid>https://www.bookjournalism.com/books/64349</guid>
@@ -527,14 +535,6 @@
             <pubDate>Mon, 10 Jul 2023 17:20:24 GMT</pubDate>
             <content:encoded><![CDATA[치매의 비용]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/558113/w/646/ex230710.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 의류 기업이 패스트패션화된다. 쉬인의 문제는 쉬인만의 것이 아니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/63972</link>
-            <guid>https://www.bookjournalism.com/books/63972</guid>
-            <pubDate>Sun, 09 Jul 2023 15:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[패션 트렌드가 ESG를 망치는 방법]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/557586/w/646/IMG_1557.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
