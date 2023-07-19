@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 04:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 05:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -441,19 +441,12 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BREIFING MONTHLY
-2023.06.19-2023.07.19
-
-매월 꼭 알아야 할 국내외 이슈를 선별해 브리핑합니다. 월요일에서 금요일, 매일 여덟 개의 뉴스 브리핑을 주차별로 엮었습니다. 단편적인 사실 전달이 아닌, 주요 뉴스를 에디터의 관점으로 해설합니다. 
-
-국내 매체는 물론 《월스트리트저널》, 《뉴욕타임스》, 《파이낸셜타임스》 같은 전통적인 매체부터 더버지(The Verge), 악시오스(Axios), 쿼츠(Quartz)와 같은 새로운 매체까지 모니터링해 미래를 전망할 수 있는 소식을 엄선하고, 짧고 강력하게 정리해 전달합니다.
-
-Briefing Monthly와 함께 이달의 이슈를 놓치지 않고... (북저널리즘)]]></title>
+            <title><![CDATA[오늘 꼭 알아야 할 국내외 이슈를 선별해 브리핑합니다. 월~금 오전에 전해 드리는 주요 뉴스 브리핑를 주차별로 엮었습니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/64349</link>
             <guid>https://www.bookjournalism.com/books/64349</guid>
             <pubDate>Wed, 19 Jul 2023 03:58:30 GMT</pubDate>
             <content:encoded><![CDATA[BRIEFING MONTHLY]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/561729/w/646/earth.gif" length="0" type="image/gif"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/561793/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[코로나19 팬데믹이 만든 교육 공백은 미래에 빚이 되어 돌아온다. 학력 격차와는 다른 학습 결손의 문제다. (북저널리즘)]]></title>
