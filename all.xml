@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 19:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 20:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -449,6 +449,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[엘리엇이 보낸 국정 농단 청구서가 날아왔다. 누구의 책임인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/64487</link>
+            <guid>https://www.bookjournalism.com/books/64487</guid>
+            <pubDate>Thu, 20 Jul 2023 20:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[국정 농단의 비용]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562419/w/646/ex230720.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[친환경 스니커즈 스타트업 올버즈가 위기다. 혁신의 문제는 좋은 가치가 아니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/64433</link>
             <guid>https://www.bookjournalism.com/books/64433</guid>
@@ -535,14 +543,6 @@
             <pubDate>Wed, 12 Jul 2023 08:28:00 GMT</pubDate>
             <content:encoded><![CDATA[웃음이 밝히는 인간의 마음]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/559119/w/646/eb230712.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[《뉴욕타임스》가 스포츠부를 없애고 뉴미디어 ‘디 애슬레틱’으로 그 자리를 채운다. 한국 언론도 그렇게 될까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/64128</link>
-            <guid>https://www.bookjournalism.com/books/64128</guid>
-            <pubDate>Tue, 11 Jul 2023 16:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕타임스식 혁신의 부작용]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/558707/w/646/ex230711.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
