@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 14:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 15:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,11 +358,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/b5cd1587-28db-41ec-a384-fd9c6de5a90f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[정현채 : 죽음을 사유하는 것은, 삶을 사유하는 것이다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/754</link>
-            <guid>https://www.longblack.co/note/754</guid>
-            <pubDate>Wed, 19 Jul 2023 15:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;어느덧 &lt;사유, 한 주&gt; 네 번째 노트입니다. 한 달 전, 롱블랙은 다섯 가지의 사유 주제를 꼽으며 죽음을 빼놓을 순 없겠다고 생각했습니다. 인간이라면 누구나, <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[정지우 : 세상엔 100가지 사랑이 있고, 우린 모두 단 하나의 사랑을 한다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/756</link>
+            <guid>https://www.longblack.co/note/756</guid>
+            <pubDate>Thu, 20 Jul 2023 15:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;사랑. 이 단어를 보면, 당신은 어떤 생각이 드나요? 저는 한 장면이 떠올라요. 수년 전 초여름 밤의 풍경이죠. 좋아하는 사람의 손을 처음 잡은 날이었어요. 선선<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
