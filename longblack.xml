@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-07-23T14:16:24.805Z</updated>
+    <updated>2023-07-23T15:18:20.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-07-22T15:17:30.941Z</updated>
-        <content type="html"><![CDATA[C가 좋아한 이번주 롱블랙 문장
-
-”전 여러분이 진화론을 꼭 공부해 보셨으면 합니다. 세상의 흐름이나 전개가 보이거든요. 또 모든 것은 ‘진화’라는 걸 알면, 마음이 절로 평안해집니다. 현재에 동요하지 않을 수 있죠. 인간 역시 결국 모든 생명과 한 가족이라는 사실<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[힌지 : 만남은 게임이 아니다, 진지한 데이팅 앱의 탄생]]></title>
+        <id>https://www.longblack.co/note/760</id>
+        <link href="https://www.longblack.co/note/760"/>
+        <updated>2023-07-23T15:17:22.249Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;회사 후배가 얼마 전에 애인이 생겼대. 소개받았냐고 물어보니까, 틴더tinder에서 만났다는 거야. 요즘은 데이팅 앱으로 인연을 찾는 사람들이 꽤 많다면서.흠, <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
