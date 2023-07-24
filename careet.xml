@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 01:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 02:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 일 잘한 브랜드: 롯데웰푸드, 하나금융그룹]]></title>
+            <link>https://www.careet.net/1137</link>
+            <guid>https://www.careet.net/1137</guid>
+            <pubDate>Mon, 24 Jul 2023 02:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 반응이 좋아서 이벤트 기간을 연장했다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/b5d11a0d-9400-4274-986a-0fe6f2cf89c2_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이주의 유행템] 조회 수 100만! ‘VIP 간접 체험’이 뜨는 이유]]></title>
             <link>https://www.careet.net/1136</link>
