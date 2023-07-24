@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 23:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 01:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -465,6 +465,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562773/w/646/IMG_2085.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562809/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[북저널리즘 위크엔드, 열아홉 번째 에피소드에서는 극우 유튜브 레드필과 새마을금고, 종이책 《미래, 모빌리티》에 관해 이야기합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/64501</link>
             <guid>https://www.bookjournalism.com/audio/64501</guid>
@@ -479,14 +487,6 @@
             <pubDate>Thu, 20 Jul 2023 20:19:56 GMT</pubDate>
             <content:encoded><![CDATA[국정 농단의 비용]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562419/w/646/ex230720.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562526/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[친환경 스니커즈 스타트업 올버즈가 위기다. 혁신의 문제는 좋은 가치가 아니다. (북저널리즘)]]></title>
