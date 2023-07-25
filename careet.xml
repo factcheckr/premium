@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 01:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 02:50:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 틱톡에서 ‘고딩 둘이 브랜드 만들기’ 챌린지가 유행 중?]]></title>
+            <link>https://www.careet.net/1126</link>
+            <guid>https://www.careet.net/1126</guid>
+            <pubDate>Tue, 25 Jul 2023 02:49:32 GMT</pubDate>
+            <content:encoded><![CDATA[학교 다니면서 어떻게 브랜드를 만든다는 걸까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/f77ccffc-7551-4534-b8f6-e0892b541f9b_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이주의 일 잘한 브랜드: 롯데웰푸드, 하나금융그룹]]></title>
             <link>https://www.careet.net/1137</link>
