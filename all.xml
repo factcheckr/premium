@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 14:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 15:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,11 +382,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/b5cd1587-28db-41ec-a384-fd9c6de5a90f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[마더그라운드 : 생산가와 만든 이를 공개하는 운동화, 좋은 발자국을 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/764</link>
-            <guid>https://www.longblack.co/note/764</guid>
-            <pubDate>Mon, 24 Jul 2023 15:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;마더그라운드Mother Ground라는 스니커즈 브랜드 아세요? 전 ‘이효리 운동화’로 처음 알았어요! 가수 이효리 씨가 마더그라운드 티셔츠를 입고 춤추는 릴스도<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[임경선 작가 : 창작자는 누구보다, 자기 자신과 사이가 좋아야 한다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/766</link>
+            <guid>https://www.longblack.co/note/766</guid>
+            <pubDate>Tue, 25 Jul 2023 15:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;베르나르 베르베르는 지난 30년간 총 30권의 책을 펴냈습니다. 무라카미 하루키는 지난 44년간 총 52권을 써냈죠. 매년 한두 권의 책을 써낸다는 건, 보통 성<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -471,6 +471,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파랑새가 역사 속으로 사라졌다. 브랜드 X는 트위터를 넘어설 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/64581</link>
+            <guid>https://www.bookjournalism.com/books/64581</guid>
+            <pubDate>Tue, 25 Jul 2023 15:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 리브랜딩, X는 성공할까?]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563361/w/646/ex230725.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시에서, 집 안에서 채소를 키우는 사람들. 먹거리의 고정관념이 뒤집힌다. (북저널리즘)]]></title>
@@ -559,14 +567,6 @@
             <pubDate>Sun, 16 Jul 2023 15:20:56 GMT</pubDate>
             <content:encoded><![CDATA[정당 현수막은 왜 시끄러울까]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/561834/w/646/ex230714.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 열여덟 번째 에피소드에서는 이혼 복지 제도와 친환경 비행, 종이책 《인류세 시나리오》에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/64235</link>
-            <guid>https://www.bookjournalism.com/audio/64235</guid>
-            <pubDate>Fri, 14 Jul 2023 08:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[7월 15일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/559669/w/646/r230715_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
