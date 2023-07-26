@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 23:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 01:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기획에 영감을 주는 ‘레전드 썰’ 모음]]></title>
+            <link>https://www.careet.net/1118</link>
+            <guid>https://www.careet.net/1118</guid>
+            <pubDate>Wed, 26 Jul 2023 01:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[1020은 고사성어처럼 외우고 있다는 썰 13]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/c6d72fad-4f2b-443b-8f12-52ead0c47786_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 틱톡에서 ‘고딩 둘이 브랜드 만들기’ 챌린지가 유행 중?]]></title>
             <link>https://www.careet.net/1126</link>
