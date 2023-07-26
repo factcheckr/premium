@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 14:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 15:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,11 +390,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/b5cd1587-28db-41ec-a384-fd9c6de5a90f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[임경선 작가 : 창작자는 누구보다, 자기 자신과 사이가 좋아야 한다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/766</link>
-            <guid>https://www.longblack.co/note/766</guid>
-            <pubDate>Tue, 25 Jul 2023 15:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;베르나르 베르베르는 지난 30년간 총 30권의 책을 펴냈습니다. 무라카미 하루키는 지난 44년간 총 52권을 써냈죠. 매년 한두 권의 책을 써낸다는 건, 보통 성<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[할리데이비슨 : 혼다에 밀렸던 미국 바이크의 자존심, 130만 커뮤니티로 부활하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/765</link>
+            <guid>https://www.longblack.co/note/765</guid>
+            <pubDate>Wed, 26 Jul 2023 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;혹시 전 세계에서 가장 많이 새겨진 문신 소재가 뭔지 알아? 1위는 어머니이고, 다음은 할리데이비슨Harley-Davidson이래. 맞아, 그 모터사이클 브랜드!<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
