@@ -4,9 +4,41 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 14:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 15:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터를 볼 때 문제의 뿌리와 가능성을 찾을 수 있다. 데이터를 통해 우리 사회의 불안, 다양성, 환경, 미래를 분석한다.]]></title>
+            <link>https://www.bookjournalism.com/books/64680</link>
+            <guid>https://www.bookjournalism.com/books/64680</guid>
+            <pubDate>Thu, 27 Jul 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[설명하기 지친 사람을 위한 데이터]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565137/w/646/98_thumbnail.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예멘 앞바다에 방치된 유조선은 대재앙을 예고한다. 유엔이 위험을 무릅쓰고 인류를 구해내려 한다.]]></title>
+            <link>https://www.bookjournalism.com/books/64654</link>
+            <guid>https://www.bookjournalism.com/books/64654</guid>
+            <pubDate>Thu, 27 Jul 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[세계를 위해 유엔이 할 수 있는 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565218/w/646/ex230727.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토스, 당근마켓, 리멤버, 오늘의집, 런드리고는 어떻게 사용자 경험을 ‘재정의(Redefining)’해 시장을 점령했나.]]></title>
+            <link>https://www.bookjournalism.com/books/64579</link>
+            <guid>https://www.bookjournalism.com/books/64579</guid>
+            <pubDate>Thu, 27 Jul 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[리디파이닝 REDEFINING]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/564899/w/646/99_thumbnail.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트렌드를 살피기 위해서는 먼저 시대의 욕망을 봐야 한다. 소비와 비즈니스의 비밀, 시간과 말이 고이는 구조로 지금의 트렌드를 날카롭게 읽어 낸다.]]></title>
+            <link>https://www.bookjournalism.com/books/64569</link>
+            <guid>https://www.bookjournalism.com/books/64569</guid>
+            <pubDate>Thu, 27 Jul 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[욕망으로 쓰는 트렌드 보고서]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563933/w/646/97_thumbnail.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[일본의 젊은 공무원들이 스타트업으로 이직하고 있다. 각자가 그리는 혁신의 모습은 다르다.]]></title>
             <link>https://www.bookjournalism.com/books/64646</link>
@@ -70,38 +102,6 @@
             <pubDate>Thu, 20 Jul 2023 20:19:56 GMT</pubDate>
             <content:encoded><![CDATA[국정 농단의 비용]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562419/w/646/ex230720.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경 스니커즈 스타트업 올버즈가 위기다. 혁신의 문제는 좋은 가치가 아니다.]]></title>
-            <link>https://www.bookjournalism.com/books/64433</link>
-            <guid>https://www.bookjournalism.com/books/64433</guid>
-            <pubDate>Wed, 19 Jul 2023 21:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[길 잃은 혁신의 운동화]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562277/w/646/ex230719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남태평양 위 작은 섬에서의 전쟁이 지금의 영국과 아르헨티나를 만들었다. 전쟁은 외교로 얼굴을 바꾸어 지금도 진행 중이다.]]></title>
-            <link>https://www.bookjournalism.com/books/64297</link>
-            <guid>https://www.bookjournalism.com/books/64297</guid>
-            <pubDate>Wed, 19 Jul 2023 08:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[포클랜드 전쟁, 선을 긋다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/561747/w/646/ed230719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 꼭 알아야 할 국내외 이슈를 선별해 브리핑합니다. 월~금 오전에 전해 드리는 주요 뉴스 브리핑를 주차별로 엮었습니다.]]></title>
-            <link>https://www.bookjournalism.com/books/64349</link>
-            <guid>https://www.bookjournalism.com/books/64349</guid>
-            <pubDate>Wed, 19 Jul 2023 03:58:30 GMT</pubDate>
-            <content:encoded><![CDATA[BRIEFING MONTHLY]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/561793/w/646/earth.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 팬데믹이 만든 교육 공백은 미래에 빚이 되어 돌아온다. 학력 격차와는 다른 학습 결손의 문제다.]]></title>
-            <link>https://www.bookjournalism.com/books/64310</link>
-            <guid>https://www.bookjournalism.com/books/64310</guid>
-            <pubDate>Tue, 18 Jul 2023 15:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 팬데믹이 학생에게 끼친 영향]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/560784/w/646/ex230718.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
