@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 01:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 02:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10대가 궁금하다면 절대 몰라서는 안 될 문화 ‘합작’]]></title>
+            <link>https://www.careet.net/1144</link>
+            <guid>https://www.careet.net/1144</guid>
+            <pubDate>Thu, 27 Jul 2023 02:29:30 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 10대가 모르는 사람이랑 노래 부르고, 그림 그리고 노는 이유]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/f47aa9b7-3ac7-4248-a3f9-27787c523261_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기획에 영감을 주는 ‘레전드 썰’ 모음]]></title>
             <link>https://www.careet.net/1118</link>

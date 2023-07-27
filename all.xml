@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 01:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 02:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7285?fr=category</guid>
             <pubDate>Mon, 17 Jul 2023 06:27:38 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7285?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/07/17/1689571048_Ce0VPsluf46hQH3FNyuD3TXcflw1wApOyTHRtjI1.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 2분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7285?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">7월 2주차 아티클 형광펜 모음</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10대가 궁금하다면 절대 몰라서는 안 될 문화 ‘합작’ (캐릿)]]></title>
+            <link>https://www.careet.net/1144</link>
+            <guid>https://www.careet.net/1144</guid>
+            <pubDate>Thu, 27 Jul 2023 02:29:30 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 10대가 모르는 사람이랑 노래 부르고, 그림 그리고 노는 이유]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202307/f47aa9b7-3ac7-4248-a3f9-27787c523261_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[기획에 영감을 주는 ‘레전드 썰’ 모음 (캐릿)]]></title>
@@ -489,6 +497,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563901/w/646/ex230726_3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563914/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[상상에는 돈이 들지 않는다. 그러나 상상을 실현시키려면 돈이 필요하다. 수십억 달러의 운명을 쥔 에어 택시가 곧 도심의 상공을 가르며 나타날 것이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/64529</link>
             <guid>https://www.bookjournalism.com/books/64529</guid>
@@ -503,14 +519,6 @@
             <pubDate>Tue, 25 Jul 2023 15:22:11 GMT</pubDate>
             <content:encoded><![CDATA[트위터 리브랜딩, X는 성공할까?]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563361/w/646/ex230725.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563399/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[도시에서, 집 안에서 채소를 키우는 사람들. 먹거리의 고정관념이 뒤집힌다. (북저널리즘)]]></title>

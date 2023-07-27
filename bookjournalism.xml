@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 01:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 02:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 26 Jul 2023 17:17:27 GMT</pubDate>
             <content:encoded><![CDATA[스타트업 강국으로 거듭나려는 일본의 실험]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563901/w/646/ex230726_3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563914/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[상상에는 돈이 들지 않는다. 그러나 상상을 실현시키려면 돈이 필요하다. 수십억 달러의 운명을 쥔 에어 택시가 곧 도심의 상공을 가르며 나타날 것이다.]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Tue, 25 Jul 2023 15:22:11 GMT</pubDate>
             <content:encoded><![CDATA[트위터 리브랜딩, X는 성공할까?]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563361/w/646/ex230725.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563399/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[도시에서, 집 안에서 채소를 키우는 사람들. 먹거리의 고정관념이 뒤집힌다.]]></title>
