@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 07:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 08:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북저널리즘 위크엔드, 스무 번째 에피소드에서는 미국 청문회에 등장한 UFO와 장기주의,  종이책 《번아웃 세대》에 관해 이야기합니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/64767</link>
+            <guid>https://www.bookjournalism.com/audio/64767</guid>
+            <pubDate>Fri, 28 Jul 2023 08:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[7월 29일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565536/w/646/r230729_contents_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토스, 당근마켓, 리멤버, 오늘의집, 런드리고는 어떻게 사용자 경험을 ‘재정의(Redefining)’해 시장을 점령했나.]]></title>
             <link>https://www.bookjournalism.com/books/64579</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 21 Jul 2023 08:24:01 GMT</pubDate>
             <content:encoded><![CDATA[7월 22일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562640/w/646/r230722_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리엇이 보낸 국정 농단 청구서가 날아왔다. 누구의 책임인가.]]></title>
-            <link>https://www.bookjournalism.com/books/64487</link>
-            <guid>https://www.bookjournalism.com/books/64487</guid>
-            <pubDate>Thu, 20 Jul 2023 20:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[국정 농단의 비용]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562419/w/646/ex230720.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
