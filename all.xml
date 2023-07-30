@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 14:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 15:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,14 +406,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/b5cd1587-28db-41ec-a384-fd9c6de5a90f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 29 Jul 2023 15:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[L이 좋아한 이번주 롱블랙 문장
-
-“전 정말 운이 좋았습니다. 그런데 운이라는 건, 일단 엄청나게 애써야 오더라고요. 그럼 이를 지켜보는 사람이 도움을 줍니다. 일단 해보세요. 퇴로를 끊고, 몰입해 보시기 바랍니다. 애쓰는 것 없이는 아무것도 없습니다.”
-&lt;a t<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[배우 이순재 : 아흔의 현역, 바닥부터 쌓은 기본을 말하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/776</link>
+            <guid>https://www.longblack.co/note/776</guid>
+            <pubDate>Sun, 30 Jul 2023 15:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;2023년 6월 중순, 연극 「리어왕」을 봤습니다. 이 연극을 놓치고 싶지 않았던 건 리어왕 역을 맡은 이순재 배우 때문입니다. 한국 나이로 올해 아흔. 연기 경<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -498,6 +495,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장기간 이어진 폭염으로 미국과 유럽의 도로가 파손됐다. 폭염에 적응하기 위한 각국의 노력을 알아 본다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/64772</link>
+            <guid>https://www.bookjournalism.com/books/64772</guid>
+            <pubDate>Sun, 30 Jul 2023 15:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[폭염에 적응하는 방법]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565610/w/646/ex230728.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 스무 번째 에피소드에서는 미국 청문회에 등장한 UFO와 장기주의,  종이책 《번아웃 세대》에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -586,14 +591,6 @@
             <pubDate>Sun, 23 Jul 2023 15:18:10 GMT</pubDate>
             <content:encoded><![CDATA[기술의 파도 앞에 선 영화]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562870/w/646/IMG_2085.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 열아홉 번째 에피소드에서는 극우 유튜브 레드필과 새마을금고, 종이책 《미래, 모빌리티》에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/64501</link>
-            <guid>https://www.bookjournalism.com/audio/64501</guid>
-            <pubDate>Fri, 21 Jul 2023 08:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[7월 22일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562640/w/646/r230722_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
