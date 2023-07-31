@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 14:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 15:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -414,11 +414,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/b5cd1587-28db-41ec-a384-fd9c6de5a90f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[배우 이순재 : 아흔의 현역, 바닥부터 쌓은 기본을 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/776</link>
-            <guid>https://www.longblack.co/note/776</guid>
-            <pubDate>Sun, 30 Jul 2023 15:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;2023년 6월 중순, 연극 「리어왕」을 봤습니다. 이 연극을 놓치고 싶지 않았던 건 리어왕 역을 맡은 이순재 배우 때문입니다. 한국 나이로 올해 아흔. 연기 경<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[뉴발란스 : 117년 된 대디슈즈, 본질을 지키며 쿨한 브랜드가 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/771</link>
+            <guid>https://www.longblack.co/note/771</guid>
+            <pubDate>Mon, 31 Jul 2023 15:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L나 얼마 전에 뉴스 보다가 놀랐어. 뉴발란스 한국 매출이 2022년에 아디다스를 제쳤다는 거야. 무려 7000억원! 오, 뉴발란스가 아디다스를?찾아보니까 글로벌 실<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -505,6 +505,22 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인류는 과학으로 한계를 돌파해 왔다. 초전도체는 또 다른 과학혁명의 순간이 될까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/64809</link>
+            <guid>https://www.bookjournalism.com/books/64809</guid>
+            <pubDate>Mon, 31 Jul 2023 15:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[초전도체 대소동; LK-99]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565766/w/646/ex230731.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[행복한 삶을 쌓아 올릴 수 있는 도시의 정의가 달라지고 있습니다. 개발과 팽창이 아닌, 환대와 포용이 키워드입니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/64326</link>
+            <guid>https://www.bookjournalism.com/books/64326</guid>
+            <pubDate>Mon, 31 Jul 2023 15:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[ISSUE 15. UNIVERSE]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/561822/w/646/bkjnthread15_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장기간 이어진 폭염으로 미국과 유럽의 도로가 파손됐다. 폭염에 적응하기 위한 각국의 노력을 알아 본다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/64772</link>
             <guid>https://www.bookjournalism.com/books/64772</guid>
@@ -583,22 +599,6 @@
             <pubDate>Tue, 25 Jul 2023 15:22:11 GMT</pubDate>
             <content:encoded><![CDATA[트위터 리브랜딩, X는 성공할까?]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563361/w/646/ex230725.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시에서, 집 안에서 채소를 키우는 사람들. 먹거리의 고정관념이 뒤집힌다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/64556</link>
-            <guid>https://www.bookjournalism.com/books/64556</guid>
-            <pubDate>Mon, 24 Jul 2023 15:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[홈파밍 이면의 위기와 기회]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562906/w/646/ex230724.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[할리우드가 AI를 두려워한다. 영화에게 기술은 위협일까, 기회일까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/64511</link>
-            <guid>https://www.bookjournalism.com/books/64511</guid>
-            <pubDate>Sun, 23 Jul 2023 15:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[기술의 파도 앞에 선 영화]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562870/w/646/IMG_2085.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
