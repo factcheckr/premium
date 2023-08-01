@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 01:59:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 02:42:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -521,20 +521,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/561822/w/646/bkjnthread15_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565885/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[장기간 이어진 폭염으로 미국과 유럽의 도로가 파손됐다. 폭염에 적응하기 위한 각국의 노력을 알아 본다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/64772</link>
             <guid>https://www.bookjournalism.com/books/64772</guid>
             <pubDate>Sun, 30 Jul 2023 15:17:52 GMT</pubDate>
             <content:encoded><![CDATA[폭염에 적응하는 방법]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565610/w/646/ex230728.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565674/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 스무 번째 에피소드에서는 미국 청문회에 등장한 UFO와 장기주의,  종이책 《번아웃 세대》에 관해 이야기합니다. (북저널리즘)]]></title>
