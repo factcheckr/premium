@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 23:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 01:59:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -418,7 +418,7 @@
             <link>https://www.longblack.co/note/771</link>
             <guid>https://www.longblack.co/note/771</guid>
             <pubDate>Mon, 31 Jul 2023 15:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L나 얼마 전에 뉴스 보다가 놀랐어. 뉴발란스 한국 매출이 2022년에 아디다스를 제쳤다는 거야. 무려 7000억원! 오, 뉴발란스가 아디다스를?찾아보니까 글로벌 실<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;나 얼마 전에 뉴스 보다가 놀랐어. 뉴발란스 한국 매출이 2022년에 아디다스를 제쳤다는 거야. 무려 7000억원! 오, 뉴발란스가 아디다스를?찾아보니까 글로벌 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>

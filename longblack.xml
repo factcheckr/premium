@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-07-31T23:18:47.635Z</updated>
+    <updated>2023-08-01T01:59:49.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/771</id>
         <link href="https://www.longblack.co/note/771"/>
         <updated>2023-07-31T15:20:17.714Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 L나 얼마 전에 뉴스 보다가 놀랐어. 뉴발란스 한국 매출이 2022년에 아디다스를 제쳤다는 거야. 무려 7000억원! 오, 뉴발란스가 아디다스를?찾아보니까 글로벌 실<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;나 얼마 전에 뉴스 보다가 놀랐어. 뉴발란스 한국 매출이 2022년에 아디다스를 제쳤다는 거야. 무려 7000억원! 오, 뉴발란스가 아디다스를?찾아보니까 글로벌 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
