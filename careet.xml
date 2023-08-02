@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 23:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 01:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구독자 20만 기념! 캐릿 트렌드 레터 담당자가 영업 비밀 풉니다]]></title>
+            <link>https://www.careet.net/1138</link>
+            <guid>https://www.careet.net/1138</guid>
+            <pubDate>Wed, 02 Aug 2023 01:32:04 GMT</pubDate>
+            <content:encoded><![CDATA[1. SNS에 공유하고 싶게 하는 썸네일을 만들 것]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/dc9ffc5b-ae38-4f83-b7bc-57695bda9902_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이중 몇 개나 아세요? 요즘 뜨는 밈 6개 속성 과외]]></title>
             <link>https://www.careet.net/1142</link>

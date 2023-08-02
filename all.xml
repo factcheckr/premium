@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 23:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 01:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7283?fr=category</guid>
             <pubDate>Thu, 20 Jul 2023 07:17:02 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7283?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/07/20/1689823703_DOLXHnPqfRC6ZuXIYHs17iHvLa0tsbGXjinjAGV2.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 8분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7283?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">이것저것 다 해내고 싶다면? 타임박싱 프로젝트 관리법(노션 템플릿 제공)</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구독자 20만 기념! 캐릿 트렌드 레터 담당자가 영업 비밀 풉니다 (캐릿)]]></title>
+            <link>https://www.careet.net/1138</link>
+            <guid>https://www.careet.net/1138</guid>
+            <pubDate>Wed, 02 Aug 2023 01:32:04 GMT</pubDate>
+            <content:encoded><![CDATA[1. SNS에 공유하고 싶게 하는 썸네일을 만들 것]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/dc9ffc5b-ae38-4f83-b7bc-57695bda9902_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이중 몇 개나 아세요? 요즘 뜨는 밈 6개 속성 과외 (캐릿)]]></title>
@@ -258,7 +266,7 @@
             <link>https://www.longblack.co/note/769</link>
             <guid>https://www.longblack.co/note/769</guid>
             <pubDate>Tue, 01 Aug 2023 15:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L &nbsp;요즘 거리에서 이 옷 본 사람 많지 않아? 가슴께에 ‘Martin Kim’이라고 커다랗게 적힌 티셔츠 말야. 혹시 ‘마틴 김’이라고 읽는 사람은 없겠지?&nbsp;마뗑킴<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L &nbsp;요즘 거리에서 이 옷 본 사람 많지 않아? 가슴께에 ‘Martin Kim’이라고 커다랗게 적힌 티셔츠 말야. 마뗑킴. 이 브랜드가 요즘 난리야. 론칭 5년 만에<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>

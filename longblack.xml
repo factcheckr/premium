@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-08-01T23:18:54.236Z</updated>
+    <updated>2023-08-02T01:33:13.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/769</id>
         <link href="https://www.longblack.co/note/769"/>
         <updated>2023-08-01T15:19:35.003Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 L &nbsp;요즘 거리에서 이 옷 본 사람 많지 않아? 가슴께에 ‘Martin Kim’이라고 커다랗게 적힌 티셔츠 말야. 혹시 ‘마틴 김’이라고 읽는 사람은 없겠지?&nbsp;마뗑킴<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L &nbsp;요즘 거리에서 이 옷 본 사람 많지 않아? 가슴께에 ‘Martin Kim’이라고 커다랗게 적힌 티셔츠 말야. 마뗑킴. 이 브랜드가 요즘 난리야. 론칭 5년 만에<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
