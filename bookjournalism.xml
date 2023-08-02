@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 03:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 04:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 31 Jul 2023 15:21:04 GMT</pubDate>
             <content:encoded><![CDATA[초전도체 대소동; LK-99]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565766/w/646/ex230731.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행복한 삶을 쌓아 올릴 수 있는 도시의 정의가 달라지고 있습니다. 개발과 팽창이 아닌, 환대와 포용이 키워드입니다.]]></title>
-            <link>https://www.bookjournalism.com/books/64326</link>
-            <guid>https://www.bookjournalism.com/books/64326</guid>
-            <pubDate>Mon, 31 Jul 2023 15:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[ISSUE 15. UNIVERSE]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/561822/w/646/bkjnthread15_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장기간 이어진 폭염으로 미국과 유럽의 도로가 파손됐다. 폭염에 적응하기 위한 각국의 노력을 알아 본다.]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 26 Jul 2023 08:23:57 GMT</pubDate>
             <content:encoded><![CDATA[하늘을 나는 택시]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563734/w/646/eb230726.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파랑새가 역사 속으로 사라졌다. 브랜드 X는 트위터를 넘어설 수 있을까?]]></title>
+            <link>https://www.bookjournalism.com/books/64581</link>
+            <guid>https://www.bookjournalism.com/books/64581</guid>
+            <pubDate>Wed, 02 Aug 2023 04:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[트위터 리브랜딩, X는 성공할까?]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563361/w/646/ex230725.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
