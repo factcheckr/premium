@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 14:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 15:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,11 +262,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[하고엘앤에프 : ‘매출 500억’  마뗑킴 투자사가 브랜드를 키우는 법 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/769</link>
-            <guid>https://www.longblack.co/note/769</guid>
-            <pubDate>Tue, 01 Aug 2023 15:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L &nbsp;요즘 거리에서 이 옷 본 사람 많지 않아? 가슴께에 ‘Matin Kim’이라고 커다랗게 적힌 티셔츠 말야. 마뗑킴. 이 브랜드가 요즘 난리야. 론칭 5년 만에 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[바비 : “악마는 열심히 일하지만, 바비 마케팅팀은 더 열심히 일한다” (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/774</link>
+            <guid>https://www.longblack.co/note/774</guid>
+            <pubDate>Wed, 02 Aug 2023 15:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;전 세계가 온통 핑크빛이에요. 영화 「바비」 때문이죠! 개봉한 지 5일 만에 미국에서만 2억1400만달러(약 2735억원), 전 세계에서 4억7000만달러(약 6<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -351,6 +351,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중요한 건 무언가를 허위로 규정하는 과정이다. 미디어 리터러시는 한 걸음 더 나아가야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/64892</link>
+            <guid>https://www.bookjournalism.com/books/64892</guid>
+            <pubDate>Wed, 02 Aug 2023 15:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[누가, 왜 이 정보를 허위라 규정하나?]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566677/w/646/ex230802.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼중수소와 일상의 재난은 눈에 보이지 않는다. 가시적인 토론과 이미 지나온 역사는 후쿠시마 오염수 방류를 막을 단서다. (북저널리즘)]]></title>
@@ -439,14 +447,6 @@
             <pubDate>Thu, 27 Jul 2023 15:18:44 GMT</pubDate>
             <content:encoded><![CDATA[욕망으로 쓰는 트렌드 보고서]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563933/w/646/97_thumbnail.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일본의 젊은 공무원들이 스타트업으로 이직하고 있다. 각자가 그리는 혁신의 모습은 다르다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/64646</link>
-            <guid>https://www.bookjournalism.com/books/64646</guid>
-            <pubDate>Wed, 26 Jul 2023 17:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[스타트업 강국으로 거듭나려는 일본의 실험]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563901/w/646/ex230726_3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
