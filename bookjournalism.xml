@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 01:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 02:30:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 01 Aug 2023 16:23:33 GMT</pubDate>
             <content:encoded><![CDATA[이스라엘 사법 개혁에 반대하는 대안 없는 목소리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566114/w/646/ex230801.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566639/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[인류는 과학으로 한계를 돌파해 왔다. 초전도체는 또 다른 과학혁명의 순간이 될까?]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Mon, 31 Jul 2023 15:21:04 GMT</pubDate>
             <content:encoded><![CDATA[ISSUE 15. UNIVERSE]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/561822/w/646/bkjnthread15_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565885/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[장기간 이어진 폭염으로 미국과 유럽의 도로가 파손됐다. 폭염에 적응하기 위한 각국의 노력을 알아 본다.]]></title>
