@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 23:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 01:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -446,7 +446,7 @@
             <guid>https://www.bookjournalism.com/books/64569</guid>
             <pubDate>Thu, 27 Jul 2023 15:18:44 GMT</pubDate>
             <content:encoded><![CDATA[욕망으로 쓰는 트렌드 보고서]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563933/w/646/97_thumbnail.png" length="0" type="image/png"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566850/w/646/97_thumbnail.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
