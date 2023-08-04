@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 23:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 01:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고양이 하트부터 빵빵이 팝업까지. 이주의 유행템 3]]></title>
+            <link>https://www.careet.net/1149</link>
+            <guid>https://www.careet.net/1149</guid>
+            <pubDate>Fri, 04 Aug 2023 01:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 뜨는 유행템, Z세대가 직접 요약해 드립니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/e0428c83-3eec-4409-af73-6879de29ee52_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 누가 명동에 가요, 외국인 Z세대가 뽑은 한국 여행 필수 코스 5]]></title>
             <link>https://www.careet.net/1141</link>
