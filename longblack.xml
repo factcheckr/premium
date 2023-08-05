@@ -2,14 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-08-05T14:16:18.649Z</updated>
+    <updated>2023-08-05T15:17:19.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[웅크린 감정 : 민망함을 마주하고 한 단계 나아가기]]></title>
-        <id>https://www.longblack.co/note/775</id>
-        <link href="https://www.longblack.co/note/775"/>
-        <updated>2023-08-04T15:18:41.991Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;얼마 전 K와 제주도로 휴가를 다녀왔습니다. 사람들과 어울리고 싶어 게스트하우스에 머물렀어요. 막상 모르는 사람 사이에 있으니 공기가 어색하더군요. 괜히 설익은 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-08-05T15:16:22.906Z</updated>
+        <content type="html"><![CDATA[B가 메모한 이번주 롱블랙 문장
+
+“반성이 있으면 축적이 되죠. 오늘 내가 대사를 씹었다, 이 표현을 제대로 못했다, 돌아봐야 해요. 무엇을 못했고 왜 못했는지를 분석하지 않으면 발전이 없어요. 촬영 끝났다고 박수치고 술 마시면 남는 게 없어요.”
+&lt;a targe<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
