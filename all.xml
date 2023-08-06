@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 14:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 15:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,14 +278,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 05 Aug 2023 15:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[B가 메모한 이번주 롱블랙 문장
-
-“반성이 있으면 축적이 되죠. 오늘 내가 대사를 씹었다, 이 표현을 제대로 못했다, 돌아봐야 해요. 무엇을 못했고 왜 못했는지를 분석하지 않으면 발전이 없어요. 촬영 끝났다고 박수치고 술 마시면 남는 게 없어요.”
-&lt;a targe<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[청기와타운 : 여권 없이 떠나는 LA 고깃집, 힙 아닌 스테디를 꿈꾸다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/777</link>
+            <guid>https://www.longblack.co/note/777</guid>
+            <pubDate>Sun, 06 Aug 2023 15:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;숯불고기에 와인을 기울이는 모습. 요즘 인스타그램에서 자주 본 사진이에요. 레트로 느낌의 촌스러운 듯, 이국적인 공간. 2020년 4월 서울 영등포에 처음 문을 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
