@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 23:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 01:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[역대급 폭염에도 Z세대 오프라인으로 불러낸 이벤트 3]]></title>
+            <link>https://www.careet.net/1151</link>
+            <guid>https://www.careet.net/1151</guid>
+            <pubDate>Mon, 07 Aug 2023 01:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[대기 인원만 1800명 몰린 상영회 이벤트가 있다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/89d2732a-4ba5-4c0e-9f86-04a08a372c6e_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘고양이 하트’? 요즘 뜨는 사진 포즈부터 핫한 팝업까지. 이주의 유행템 3]]></title>
             <link>https://www.careet.net/1149</link>
