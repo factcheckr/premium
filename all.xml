@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 14:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 15:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[청기와타운 : 여권 없이 떠나는 LA 고깃집, 힙 아닌 스테디를 꿈꾸다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/777</link>
-            <guid>https://www.longblack.co/note/777</guid>
-            <pubDate>Sun, 06 Aug 2023 15:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;숯불고기에 와인을 기울이는 모습. 요즘 인스타그램에서 자주 본 사진이에요. 레트로 느낌의 촌스러운 듯, 이국적인 공간. 2020년 4월 서울 영등포에 처음 문을 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[산펠레그리노 : ‘섬세한 입가심’을 강조한 탄산수, 파인다이닝을 장악하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/779</link>
+            <guid>https://www.longblack.co/note/779</guid>
+            <pubDate>Mon, 07 Aug 2023 15:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;할리우드 배우 스탠리 투치Stanley Tucci를 아시나요? 영화 「악마는 프라다를 입는다」에선 주인공에게 옷을 골라준 상사였고, 「킹스맨」에선 ‘멀린’으로 활<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -375,6 +375,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이돌 음반의 주인공은 음악이 아니라 포토 카드다. 팬덤은 소비의 굴레에 빠져들었다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/64966</link>
+            <guid>https://www.bookjournalism.com/books/64966</guid>
+            <pubDate>Mon, 07 Aug 2023 15:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌 앨범과 포토 카드의 주객전도]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/568349/w/646/ex230807.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠적했던 알리바바의 창업자 마윈이 농업 기술에 투자하고 있다. 새로운 도전이 의미하는 바는 무엇인가. (북저널리즘)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Fri, 28 Jul 2023 08:22:58 GMT</pubDate>
             <content:encoded><![CDATA[7월 29일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565536/w/646/r230729_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스, 당근마켓, 리멤버, 오늘의집, 런드리고는 어떻게 사용자 경험을 ‘재정의(Redefining)’해 시장을 점령했나. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/64579</link>
-            <guid>https://www.bookjournalism.com/books/64579</guid>
-            <pubDate>Thu, 27 Jul 2023 15:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[리디파이닝 REDEFINING]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/567075/w/646/99_thumbnail.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
