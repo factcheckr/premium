@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 01:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 02:33:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/569513/w/646/ex230808.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/569595/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[아이돌 음반의 주인공은 음악이 아니라 포토 카드다. 팬덤은 소비의 굴레에 빠져들었다.]]></title>
             <link>https://www.bookjournalism.com/books/64966</link>
             <guid>https://www.bookjournalism.com/books/64966</guid>
             <pubDate>Mon, 07 Aug 2023 15:19:39 GMT</pubDate>
             <content:encoded><![CDATA[아이돌 앨범과 포토 카드의 주객전도]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/568349/w/646/ex230807.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/569093/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[잠적했던 알리바바의 창업자 마윈이 농업 기술에 투자하고 있다. 새로운 도전이 의미하는 바는 무엇인가.]]></title>
