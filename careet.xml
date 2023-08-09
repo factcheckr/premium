@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 02:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 03:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 3대 욕구: 식욕 수면욕 그리고 셀프 분석 욕구!? ‘셀프 분석 세대’ 리포트]]></title>
+            <link>https://www.careet.net/1153</link>
+            <guid>https://www.careet.net/1153</guid>
+            <pubDate>Wed, 09 Aug 2023 03:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[50만 원 짜리 컨설팅이 매진! Z세대의 새로운 소비 트렌드]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/d753cfb2-6d57-47a4-a021-fa0f1a36c403_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[4년 연속 매진된 슈퍼 이벤트, ‘랜다시’ 기획자는 어디서 영감을 얻을까]]></title>
             <link>https://www.careet.net/1145</link>
