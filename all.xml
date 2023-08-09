@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 07:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 08:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,6 +393,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[세계의 위기 상황에 음악도 역할이 있다. 모든 게 잘될 거라는, 우리는 이어져 있다는 위로 말이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/64954</link>
+            <guid>https://www.bookjournalism.com/books/64954</guid>
+            <pubDate>Wed, 09 Aug 2023 08:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[음악은 할 수 있다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/569777/w/646/eb230809_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[니제르에서 쿠데타가 일어났다. 서방국의 시각에서 벗어나 아프리카의 민주주의를 본다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/65101</link>
             <guid>https://www.bookjournalism.com/books/65101</guid>
@@ -479,14 +487,6 @@
             <pubDate>Wed, 02 Aug 2023 05:18:18 GMT</pubDate>
             <content:encoded><![CDATA[ISSUE 15. UNIVERSE]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566817/w/646/bkjnthread15_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장기간 이어진 폭염으로 미국과 유럽의 도로가 파손됐다. 폭염에 적응하기 위한 각국의 노력을 알아 본다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/64772</link>
-            <guid>https://www.bookjournalism.com/books/64772</guid>
-            <pubDate>Sun, 30 Jul 2023 15:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[폭염에 적응하는 방법]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565610/w/646/ex230728.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
