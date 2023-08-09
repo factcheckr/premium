@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 14:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 15:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,11 +302,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[나가오카 겐메이 : 물건과 오래 관계 맺는 것이 좋은 디자인이다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/778</link>
-            <guid>https://www.longblack.co/note/778</guid>
-            <pubDate>Tue, 08 Aug 2023 15:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;누군가 “오래 쓸 수 있는 물건”이라고 하면, 귀가 쫑긋해져요. 2년 전 B가 제게 한남동 디앤디파트먼트D&amp;DEPARTMENT(이하 디앤디) 서울점을 소개했을 때<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[뮈글러 : 마돈나부터 블랙핑크까지, 시대를 초월한 스타일을 창조하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/781</link>
+            <guid>https://www.longblack.co/note/781</guid>
+            <pubDate>Wed, 09 Aug 2023 15:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;블랙핑크가 ‘2023 코첼라*’에서, 비욘세가 투어에서 무대 의상으로 입은 옷. 인스타그램 팔로워 수 세계 5위(3억9500만)인 카일리 제너가 사랑하는 옷. 올<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -391,6 +391,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구주를 거래하는 세컨더리 시장이 뜨고 있다. VC와 스타트업 모두 새로운 도전에 직면했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/65166</link>
+            <guid>https://www.bookjournalism.com/books/65166</guid>
+            <pubDate>Wed, 09 Aug 2023 15:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[세컨더리와 스타트업 생태계]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/570273/w/646/ex230809.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[세계의 위기 상황에 음악도 역할이 있다. 모든 게 잘될 거라는, 우리는 이어져 있다는 위로 말이다. (북저널리즘)]]></title>
@@ -479,14 +487,6 @@
             <pubDate>Mon, 31 Jul 2023 15:21:04 GMT</pubDate>
             <content:encoded><![CDATA[초전도체 대소동; LK-99]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565766/w/646/ex230731.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세계관은 세계를 바라보는 시선입니다. 무엇을 보고 무엇을 외면할지를 결정해 버리죠. 편협한 프레임은 우리를 가두지만, 혁신의 프레임은 미래를 약속합니다. 여러분의 세계관, 시야각은 얼마나 되나요? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/64326</link>
-            <guid>https://www.bookjournalism.com/books/64326</guid>
-            <pubDate>Wed, 02 Aug 2023 05:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[ISSUE 15. UNIVERSE]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566817/w/646/bkjnthread15_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
