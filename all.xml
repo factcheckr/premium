@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 10:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 11:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[undefined (퍼블리)]]></title>
+            <link>https://publy.co/content/7301?fr=category</link>
+            <guid>https://publy.co/content/7301?fr=category</guid>
+            <pubDate>Thu, 10 Aug 2023 11:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7301?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/07/28/1690517872_FlChqIWqmoaKTYaHdnXxYOSPesQHl3R5E3PTDqB1.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 10분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7301?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">서울 라이프스타일 기획자 3인: 밀리언 아카이브, 포인트오브뷰, 프로젝트 렌트</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[undefined (퍼블리)]]></title>
             <link>https://publy.co/content/7307?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/7288?fr=category</guid>
             <pubDate>Thu, 03 Aug 2023 15:19:22 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7288?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/07/31/1690776699_mvXEs5xOupwkLlLaPhRuHWmdfI8pS5OskE2rB8eR.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 9분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7288?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">현업에 필요한 ‘이기는 프로덕트 전략’ 짜는 법</h6></a></div></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (퍼블리)]]></title>
-            <link>https://publy.co/content/7304?fr=category</link>
-            <guid>https://publy.co/content/7304?fr=category</guid>
-            <pubDate>Thu, 03 Aug 2023 15:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7304?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/07/31/1690780632_bhSq1TiO3HF0uALSsSrtP477PkVGekZ8MP2vFMre.png?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 2분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7304?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">7월 4주차 퍼블리 아티클 형광펜 모음</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[개강 총회를 점심에 한다고? 180도 달라진 캠퍼스 음주 문화 (캐릿)]]></title>
