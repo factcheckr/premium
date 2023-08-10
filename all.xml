@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 16:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 17:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -401,6 +401,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[동시다발적 흉기 난동 사건에 당국이 다양한 대응책을 내놨다. 실효적 예방책은 보이지 않는다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/65214</link>
+            <guid>https://www.bookjournalism.com/books/65214</guid>
+            <pubDate>Thu, 10 Aug 2023 17:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[흉기 난동, 시민을 불안하게 하는 것들]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/570834/w/646/ex230810.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구주를 거래하는 세컨더리 시장이 뜨고 있다. VC와 스타트업 모두 새로운 도전에 직면했다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/65166</link>
             <guid>https://www.bookjournalism.com/books/65166</guid>
@@ -487,14 +495,6 @@
             <pubDate>Tue, 01 Aug 2023 16:23:33 GMT</pubDate>
             <content:encoded><![CDATA[이스라엘 사법 개혁에 반대하는 대안 없는 목소리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566114/w/646/ex230801.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인류는 과학으로 한계를 돌파해 왔다. 초전도체는 또 다른 과학혁명의 순간이 될까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/64809</link>
-            <guid>https://www.bookjournalism.com/books/64809</guid>
-            <pubDate>Mon, 31 Jul 2023 15:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[초전도체 대소동; LK-99]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565766/w/646/ex230731.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
