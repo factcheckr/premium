@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 01:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 02:38:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개강 총회를 점심에 한다고? 180도 달라진 캠퍼스 음주 문화]]></title>
+            <link>https://www.careet.net/1147</link>
+            <guid>https://www.careet.net/1147</guid>
+            <pubDate>Thu, 10 Aug 2023 02:37:45 GMT</pubDate>
+            <content:encoded><![CDATA[“운동한 게 아까워서 술을 끊었어요”]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/33486d56-07b2-485a-80b6-9aec5a524a0d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 3대 욕구: 식욕 수면욕 그리고 셀프 분석 욕구!? ‘셀프 분석 세대’ 리포트]]></title>
             <link>https://www.careet.net/1153</link>
