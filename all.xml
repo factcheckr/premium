@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 02:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 03:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7288?fr=category</guid>
             <pubDate>Thu, 03 Aug 2023 15:19:22 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7288?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/07/31/1690776699_mvXEs5xOupwkLlLaPhRuHWmdfI8pS5OskE2rB8eR.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 9분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7288?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">현업에 필요한 ‘이기는 프로덕트 전략’ 짜는 법</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[옆 자리 신입 사원도 모르는 이주의 유행템 3 (캐릿)]]></title>
+            <link>https://www.careet.net/1154</link>
+            <guid>https://www.careet.net/1154</guid>
+            <pubDate>Fri, 11 Aug 2023 03:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[나만 빼고 다 아는 대세 게임부터 트위치 문화, F&amp;B 아이템까지]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/36f5831a-39b3-4b9f-a82a-67a9975c74b9_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[개강 총회를 점심에 한다고? 180도 달라진 캠퍼스 음주 문화 (캐릿)]]></title>
@@ -409,20 +417,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/570834/w/646/ex230810.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/571158/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[구주를 거래하는 세컨더리 시장이 뜨고 있다. VC와 스타트업 모두 새로운 도전에 직면했다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/65166</link>
             <guid>https://www.bookjournalism.com/books/65166</guid>
             <pubDate>Wed, 09 Aug 2023 15:22:30 GMT</pubDate>
             <content:encoded><![CDATA[세컨더리와 스타트업 생태계]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/571149/w/646/ex230809.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/570541/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[세계의 위기 상황에 음악도 역할이 있다. 모든 게 잘될 거라는, 우리는 이어져 있다는 위로 말이다. (북저널리즘)]]></title>
