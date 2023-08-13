@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 14:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 15:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,13 +318,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 12 Aug 2023 15:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[K가 메모한 이번주 롱블랙 문장
-
-“재활용품 가게에 다닐 때, 미래 디자인의 실마리를 찾았어요. 유행이 아닌 기능미로 사용할 수 있는 물건이 있다는 것. 사용자의 상상에 따라 쓰레기가 생활용품이 될 수 있다는 것. 그러면서 ‘태어난 지 40년 이상 된 물건을 모아놓<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[피오나 배 : 한국을 알리는 PR 전문가, "네트워크보다 기획이 먼저다" (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/780</link>
+            <guid>https://www.longblack.co/note/780</guid>
+            <pubDate>Sun, 13 Aug 2023 15:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;2022년 9월 세계적인 명성의 영국 아트 출판사 탬즈앤허드슨Thames&amp;Hudeson이, 한국 현대문화를 다룬 책을 펴냈어요. 『Make Break Remix』<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -409,6 +407,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[손정의 회장은 AI가 세계를 바꿀 것이라 말한다. 이 예언은 다가오는 9월을 향할까, 2400년을 향할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/65231</link>
+            <guid>https://www.bookjournalism.com/books/65231</guid>
+            <pubDate>Sun, 13 Aug 2023 15:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[소프트뱅크와 AI 버블]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/570829/w/646/ex230811.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 스물두 번째 에피소드에서는 잼버리 사태와 팁 문화, 종이책 《설명하기 지친 사람을 위한 데이터》에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -497,14 +503,6 @@
             <pubDate>Wed, 02 Aug 2023 15:19:35 GMT</pubDate>
             <content:encoded><![CDATA[누가, 왜 이 정보를 허위라 규정하나?]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566677/w/646/ex230802.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼중수소와 일상의 재난은 눈에 보이지 않는다. 가시적인 토론과 이미 지나온 역사는 후쿠시마 오염수 방류를 막을 단서다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/64643</link>
-            <guid>https://www.bookjournalism.com/books/64643</guid>
-            <pubDate>Wed, 02 Aug 2023 08:29:25 GMT</pubDate>
-            <content:encoded><![CDATA[역사가 망각한 쓰레기]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566888/w/646/eb230802.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

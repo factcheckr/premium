@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-08-13T14:15:41.103Z</updated>
+    <updated>2023-08-13T15:17:46.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-08-12T15:16:39.045Z</updated>
-        <content type="html"><![CDATA[K가 메모한 이번주 롱블랙 문장
-
-“재활용품 가게에 다닐 때, 미래 디자인의 실마리를 찾았어요. 유행이 아닌 기능미로 사용할 수 있는 물건이 있다는 것. 사용자의 상상에 따라 쓰레기가 생활용품이 될 수 있다는 것. 그러면서 ‘태어난 지 40년 이상 된 물건을 모아놓<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[피오나 배 : 한국을 알리는 PR 전문가, "네트워크보다 기획이 먼저다"]]></title>
+        <id>https://www.longblack.co/note/780</id>
+        <link href="https://www.longblack.co/note/780"/>
+        <updated>2023-08-13T15:16:48.961Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;2022년 9월 세계적인 명성의 영국 아트 출판사 탬즈앤허드슨Thames&amp;Hudeson이, 한국 현대문화를 다룬 책을 펴냈어요. 『Make Break Remix』<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 14:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 15:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손정의 회장은 AI가 세계를 바꿀 것이라 말한다. 이 예언은 다가오는 9월을 향할까, 2400년을 향할까?]]></title>
+            <link>https://www.bookjournalism.com/books/65231</link>
+            <guid>https://www.bookjournalism.com/books/65231</guid>
+            <pubDate>Sun, 13 Aug 2023 15:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[소프트뱅크와 AI 버블]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/570829/w/646/ex230811.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 스물두 번째 에피소드에서는 잼버리 사태와 팁 문화, 종이책 《설명하기 지친 사람을 위한 데이터》에 관해 이야기합니다.]]></title>
             <link>https://www.bookjournalism.com/audio/65267</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 02 Aug 2023 15:19:35 GMT</pubDate>
             <content:encoded><![CDATA[누가, 왜 이 정보를 허위라 규정하나?]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566677/w/646/ex230802.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼중수소와 일상의 재난은 눈에 보이지 않는다. 가시적인 토론과 이미 지나온 역사는 후쿠시마 오염수 방류를 막을 단서다.]]></title>
-            <link>https://www.bookjournalism.com/books/64643</link>
-            <guid>https://www.bookjournalism.com/books/64643</guid>
-            <pubDate>Wed, 02 Aug 2023 08:29:25 GMT</pubDate>
-            <content:encoded><![CDATA[역사가 망각한 쓰레기]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566888/w/646/eb230802.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
