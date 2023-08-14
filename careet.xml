@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 01:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 02:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이벤트, 이렇게 하면 잘할 수 있다! 스탠드오일, 빽다방, 롯데ON]]></title>
+            <link>https://www.careet.net/1155</link>
+            <guid>https://www.careet.net/1155</guid>
+            <pubDate>Mon, 14 Aug 2023 02:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 이벤트 잘해서 커뮤니티 바이럴까지 되는 방법]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/04af95ec-b493-41d3-ad9c-0ee332f1b0eb_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[옆 자리 신입 사원도 모르는 이주의 유행템 3]]></title>
             <link>https://www.careet.net/1154</link>
