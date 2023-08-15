@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 21:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 22:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나라를 세운 시기를 특정하자는 주장이 다시 고개를 든다. 모순이다.]]></title>
+            <link>https://www.bookjournalism.com/books/65297</link>
+            <guid>https://www.bookjournalism.com/books/65297</guid>
+            <pubDate>Tue, 15 Aug 2023 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[건국절, 나쁜 논란]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/572576/w/646/ex230814.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[일과 삶의 고민을 해결해 줄 인터뷰를 모았습니다. 북저널리즘 Talks를 구독해 보세요.]]></title>
             <link>https://www.bookjournalism.com/books/64906</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 04 Aug 2023 08:23:20 GMT</pubDate>
             <content:encoded><![CDATA[8월 5일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566972/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 FIFA 호주·뉴질랜드 여자 월드컵이 흥행을 이어간다. 이전 대회와 어떤 점이 달라졌나.]]></title>
-            <link>https://www.bookjournalism.com/books/64922</link>
-            <guid>https://www.bookjournalism.com/books/64922</guid>
-            <pubDate>Thu, 03 Aug 2023 15:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[2023 여자 월드컵은 무엇이 달라졌나]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566901/w/646/EX230803.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
