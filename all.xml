@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 14:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 15:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,11 +326,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[모리함 : 인생을 풍요롭게 하는 건, 아주 작은 삶의 조각들이다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/787</link>
-            <guid>https://www.longblack.co/note/787</guid>
-            <pubDate>Mon, 14 Aug 2023 15:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;광복절. 기억에 대해 말하기 좋은 날입니다. 만약 기억을 볼 수 있고, 만질 수 있다면 얼마나 좋을까요. 오늘은 기억을 물성화하는 브랜드의 이야기를 전할까 합니다<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[포커스미디어코리아 : 엘리베이터TV, 아파트 단지에 스며들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/786</link>
+            <guid>https://www.longblack.co/note/786</guid>
+            <pubDate>Tue, 15 Aug 2023 15:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;‘무농약 국산콩 콩나물 1290원, 오직 컬리에서만’, ‘힐스테이트 입주민 여러분 위한 배민 쿠폰’, ‘오늘 낮 2시에서 4시까지 아파트 정화조 청소 예정입니다’<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
