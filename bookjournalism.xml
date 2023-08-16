@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 14:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 15:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청년과 서민을 위해 주담대 만기가 길어졌다. 결국, 청년도 서민도 빚에 갇혔다.]]></title>
+            <link>https://www.bookjournalism.com/books/65377</link>
+            <guid>https://www.bookjournalism.com/books/65377</guid>
+            <pubDate>Wed, 16 Aug 2023 15:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[50년 주담대와 빚의 족쇄]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573117/w/646/ex230816.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성이 직장을 잃는 게 아니라, 직장이 여성을 잃는 것이다. 여성이 겪는 문제를 직시해야 해결할 수 있다.]]></title>
             <link>https://www.bookjournalism.com/books/65265</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 07 Aug 2023 15:19:39 GMT</pubDate>
             <content:encoded><![CDATA[아이돌 앨범과 포토 카드의 주객전도]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/568349/w/646/ex230807.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠적했던 알리바바의 창업자 마윈이 농업 기술에 투자하고 있다. 새로운 도전이 의미하는 바는 무엇인가.]]></title>
-            <link>https://www.bookjournalism.com/books/64957</link>
-            <guid>https://www.bookjournalism.com/books/64957</guid>
-            <pubDate>Sun, 06 Aug 2023 18:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[마윈은 왜 농업과 함께 돌아왔나]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/567150/w/646/ex230804_2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
