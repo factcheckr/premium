@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 03:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 04:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 대학생들은 무인 편의점에서 공부한다? 대학가 무인 매장 근황 5]]></title>
+            <link>https://www.careet.net/1159</link>
+            <guid>https://www.careet.net/1159</guid>
+            <pubDate>Wed, 16 Aug 2023 04:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[취준생은 면접 보러 회사 말고 ‘무인 면접 스튜디오’ 감]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/e15e95c3-4056-4448-99ec-d5eef76bc7c9_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이벤트, 이렇게 하면 잘할 수 있다! 스탠드오일, 빽다방, 롯데ON]]></title>
             <link>https://www.careet.net/1155</link>
