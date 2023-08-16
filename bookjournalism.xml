@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 07:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 08:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성이 직장을 잃는 게 아니라, 직장이 여성을 잃는 것이다. 여성이 겪는 문제를 직시해야 해결할 수 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/65265</link>
+            <guid>https://www.bookjournalism.com/books/65265</guid>
+            <pubDate>Wed, 16 Aug 2023 08:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[여성을 잃는 직장]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/572750/w/646/eb230816.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나라를 세운 시기를 특정하자는 주장이 다시 고개를 든다. 모순이다.]]></title>
             <link>https://www.bookjournalism.com/books/65297</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 06 Aug 2023 18:21:16 GMT</pubDate>
             <content:encoded><![CDATA[마윈은 왜 농업과 함께 돌아왔나]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/567150/w/646/ex230804_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 스물한 번째 에피소드에서는 MZ세대의 유전자 검사 열풍과 백열 전구의 멸종, 종이책 《전쟁을 짊어진 사람들》에 관해 이야기합니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/64943</link>
-            <guid>https://www.bookjournalism.com/audio/64943</guid>
-            <pubDate>Fri, 04 Aug 2023 08:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[8월 5일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566972/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
