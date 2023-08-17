@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 02:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 03:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,14 @@
             <pubDate>Wed, 16 Aug 2023 04:21:29 GMT</pubDate>
             <content:encoded><![CDATA[취준생은 면접 보러 회사 말고 ‘무인 면접 스튜디오’ 감]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/e15e95c3-4056-4448-99ec-d5eef76bc7c9_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스 아직 해요? Z세대 타깃 서비스 흥망성쇠 근황 (캐릿)]]></title>
+            <link>https://www.careet.net/1157</link>
+            <guid>https://www.careet.net/1157</guid>
+            <pubDate>Thu, 17 Aug 2023 03:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[제페토, 로블록스부터 번개장터까지! Z세대 타깃 서비스, 아직도 잘 나갈까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/f6f0620a-244d-47cc-9f42-fa33677a2892_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이벤트, 이렇게 하면 잘할 수 있다! 스탠드오일, 빽다방, 롯데ON (캐릿)]]></title>
@@ -433,6 +441,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573117/w/646/ex230816.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573196/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[여성이 직장을 잃는 게 아니라, 직장이 여성을 잃는 것이다. 여성이 겪는 문제를 직시해야 해결할 수 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/65265</link>
             <guid>https://www.bookjournalism.com/books/65265</guid>
@@ -447,14 +463,6 @@
             <pubDate>Tue, 15 Aug 2023 22:18:10 GMT</pubDate>
             <content:encoded><![CDATA[건국절, 나쁜 논란]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/572576/w/646/ex230814.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/572705/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[일과 삶의 고민을 해결해 줄 인터뷰를 모았습니다. 북저널리즘 Talks를 구독해 보세요. (북저널리즘)]]></title>

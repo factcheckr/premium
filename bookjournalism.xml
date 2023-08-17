@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 02:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 03:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 16 Aug 2023 15:19:16 GMT</pubDate>
             <content:encoded><![CDATA[50년 주담대와 빚의 족쇄]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573117/w/646/ex230816.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573196/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[여성이 직장을 잃는 게 아니라, 직장이 여성을 잃는 것이다. 여성이 겪는 문제를 직시해야 해결할 수 있다.]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Tue, 15 Aug 2023 22:18:10 GMT</pubDate>
             <content:encoded><![CDATA[건국절, 나쁜 논란]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/572576/w/646/ex230814.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/572705/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[일과 삶의 고민을 해결해 줄 인터뷰를 모았습니다. 북저널리즘 Talks를 구독해 보세요.]]></title>
