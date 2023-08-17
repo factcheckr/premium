@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 14:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 15:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,11 +342,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[파리 생제르맹 FC : 가장 프랑스다운 매력으로, 글로벌 브랜드를 꿈꾸다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/789</link>
-            <guid>https://www.longblack.co/note/789</guid>
-            <pubDate>Wed, 16 Aug 2023 15:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;축구 팬들의 새벽이 시끌벅적해지고 있어요! 유럽 축구 리그가 하나둘 개막하기 때문이죠. 최근 들어 한국 팬들의 관심을 한몸에 받는 구단이 있대요. 바로 ‘파리 생<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[집무실 : 감도를 더한 공유오피스, 일터의 선택권을 넓히다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/792</link>
+            <guid>https://www.longblack.co/note/792</guid>
+            <pubDate>Thu, 17 Aug 2023 15:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K카페에서 일하는 걸 좋아해요. 하지만 시끄럽게 느껴질 때가 있죠. 그렇다고 스터디 카페에 가자니 타이핑을 맘껏 할 수 없더라고요. B가 ‘집무실’이라는 공간을 추천<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -431,6 +431,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[각자도생의 착취 도시 서울에서 베를린을 보다. 사고 싶은 도시가 아닌 살고 싶은 도시는 어떻게 만들어지나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/64985</link>
+            <guid>https://www.bookjournalism.com/books/64985</guid>
+            <pubDate>Thu, 17 Aug 2023 15:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[반란의 도시, 베를린]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573193/w/646/100_berlin_thm3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청년과 서민을 위해 주담대 만기가 길어졌다. 결국, 청년도 서민도 빚에 갇혔다. (북저널리즘)]]></title>
@@ -519,14 +527,6 @@
             <pubDate>Tue, 08 Aug 2023 15:20:24 GMT</pubDate>
             <content:encoded><![CDATA[아프리카 민주주의는 무엇인가]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/569513/w/646/ex230808.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 음반의 주인공은 음악이 아니라 포토 카드다. 팬덤은 소비의 굴레에 빠져들었다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/64966</link>
-            <guid>https://www.bookjournalism.com/books/64966</guid>
-            <pubDate>Mon, 07 Aug 2023 15:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌 앨범과 포토 카드의 주객전도]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/568349/w/646/ex230807.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 14:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 15:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[각자도생의 착취 도시 서울에서 베를린을 보다. 사고 싶은 도시가 아닌 살고 싶은 도시는 어떻게 만들어지나?]]></title>
+            <link>https://www.bookjournalism.com/books/64985</link>
+            <guid>https://www.bookjournalism.com/books/64985</guid>
+            <pubDate>Thu, 17 Aug 2023 15:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[반란의 도시, 베를린]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573193/w/646/100_berlin_thm3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청년과 서민을 위해 주담대 만기가 길어졌다. 결국, 청년도 서민도 빚에 갇혔다.]]></title>
             <link>https://www.bookjournalism.com/books/65377</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 08 Aug 2023 15:20:24 GMT</pubDate>
             <content:encoded><![CDATA[아프리카 민주주의는 무엇인가]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/569513/w/646/ex230808.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 음반의 주인공은 음악이 아니라 포토 카드다. 팬덤은 소비의 굴레에 빠져들었다.]]></title>
-            <link>https://www.bookjournalism.com/books/64966</link>
-            <guid>https://www.bookjournalism.com/books/64966</guid>
-            <pubDate>Mon, 07 Aug 2023 15:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌 앨범과 포토 카드의 주객전도]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/568349/w/646/ex230807.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
