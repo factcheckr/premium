@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-08-17T06:23:43.369Z</updated>
+    <updated>2023-08-17T07:17:12.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
+        <id>https://publy.co/content/7308?fr=category</id>
+        <link href="https://publy.co/content/7308?fr=category"/>
+        <updated>2023-08-17T07:15:54.696Z</updated>
+        <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7308?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/16/1692151299_XLHQnY6wnDp1InlYdMghheeTK5tiioLyAUV9GfNu.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 13분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7308?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">예시와 함께 보는 회의 진행법 : 기획 리뷰, 스크럼, 회고 미팅</h6></a></div></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
         <id>https://publy.co/content/7311?fr=category</id>
         <link href="https://publy.co/content/7311?fr=category"/>
         <updated>2023-08-16T06:22:33.805Z</updated>
         <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7311?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/16/1692144739_FR6QjFiBnRp3UKjxTPnrLG4n3JFPIdrLRvVkXEmS.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 5분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7311?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">재테크에 써먹는 경제기사 읽기 (템플릿 제공)</h6></a></div></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
+        <title type="html"><![CDATA[2]]></title>
         <id>https://publy.co/content/7310?fr=category</id>
         <link href="https://publy.co/content/7310?fr=category"/>
         <updated>2023-08-16T06:22:33.808Z</updated>
         <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7310?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/16/1692145506_MSW8rxuOSTm59eldv3hD9ttTnuc9yFrycSYbYjMO.png?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 10분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7310?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">3단계 위임 레벨에 따른 리더의 권한 위임 노하우 (위임 레벨 설정 템플릿 제공)</h6></a></div></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://publy.co/content/7295?fr=category</id>
         <link href="https://publy.co/content/7295?fr=category"/>
         <updated>2023-08-14T07:16:43.530Z</updated>
         <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7295?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/14/1691985409_ze4ET50rSeI59DD2NSUKRWS97DC2qEILR5qP4pgC.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 11분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7295?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">잘 되는 기업 블로그의 콘텐츠 사례 10가지</h6></a></div></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://publy.co/content/7318?fr=category</id>
         <link href="https://publy.co/content/7318?fr=category"/>
         <updated>2023-08-14T06:22:57.506Z</updated>
         <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7318?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/14/1691990823_f6tyjuh2Mb5loPWoUIr4sSHzAxyXJEYqAM8sv9KT.png?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 </p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7318?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">8월 2주차 퍼블리 아티클 형광펜 모음</h6></a></div></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://publy.co/content/7301?fr=category</id>
         <link href="https://publy.co/content/7301?fr=category"/>
         <updated>2023-08-10T11:16:05.717Z</updated>
         <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7301?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/07/28/1690517872_FlChqIWqmoaKTYaHdnXxYOSPesQHl3R5E3PTDqB1.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 10분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7301?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">서울 라이프스타일 기획자 3인: 밀리언 아카이브, 포인트오브뷰, 프로젝트 렌트</h6></a></div></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
+        <title type="html"><![CDATA[6]]></title>
         <id>https://publy.co/content/7307?fr=category</id>
         <link href="https://publy.co/content/7307?fr=category"/>
         <updated>2023-08-09T07:17:01.258Z</updated>
         <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7307?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/09/1691544267_dASW7mIrvOIz0ufmYur3tT9WDw7i7VtlsOMWr7YB.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 10분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7307?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">콜드 콜&amp;콜드 메일로 잠재고객 확보 성공 높이는 법</h6></a></div></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://publy.co/content/7302?fr=category</id>
         <link href="https://publy.co/content/7302?fr=category"/>
         <updated>2023-08-08T08:22:39.053Z</updated>
         <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7302?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/08/1691455849_RCsVvlk8cSWt4SmU4oMwxY7UtnD3Tikr6MUx2HR4.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 9분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7302?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">리더의 매뉴얼 만들기: 평소보다 조금 더 하는 힘으로 평균 이상의 성과 내는 법</h6></a></div></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://publy.co/content/7303?fr=category</id>
         <link href="https://publy.co/content/7303?fr=category"/>
         <updated>2023-08-07T08:28:40.823Z</updated>
         <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7303?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/07/1691380391_pcUuaBdVvffmOwatf2Nr0IUugKF1mEQApDWvUkaB.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 11분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7303?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">시장에서 살아남기 위한 '생존형 경쟁사 공략법 4단계'</h6></a></div></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8]]></title>
+        <title type="html"><![CDATA[9]]></title>
         <id>https://publy.co/content/7306?fr=category</id>
         <link href="https://publy.co/content/7306?fr=category"/>
         <updated>2023-08-04T07:16:25.563Z</updated>
         <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7306?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/04/1691120708_VOLegr9p0BzjoOUyvUTpWL4QIpb4IYDyXezLT6Kh.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 8분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7306?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">잠재 고객, 어떻게 발굴하나요?(영업 미팅 노트 템플릿 제공)</h6></a></div></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9]]></title>
-        <id>https://publy.co/content/7305?fr=category</id>
-        <link href="https://publy.co/content/7305?fr=category"/>
-        <updated>2023-08-07T03:18:31.835Z</updated>
-        <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7305?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/02/1690969963_9YwGSGAfIpzwOOtxLlRH501wT78Ana3NAKmJW6G4.png?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 2분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7305?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">8월 1주차 퍼블리 아티클 형광펜 모음</h6></a></div></div></div></div>]]></content>
     </entry>
 </feed>
