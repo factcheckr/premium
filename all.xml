@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 14:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 15:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,11 +350,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[집무실 : 감도를 더한 공유오피스, 일터의 선택권을 넓히다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/792</link>
-            <guid>https://www.longblack.co/note/792</guid>
-            <pubDate>Thu, 17 Aug 2023 15:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;카페에서 일하는 걸 좋아해요. 하지만 시끄럽게 느껴질 때가 있죠. 그렇다고 스터디 카페에 가자니 타이핑을 맘껏 할 수 없더라고요. B가 ‘집무실’이라는 공간을 추<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[귤엔터테인먼트 : 제주 유기견을 아이돌로 키워 안방에 데뷔시키다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/790</link>
+            <guid>https://www.longblack.co/note/790</guid>
+            <pubDate>Fri, 18 Aug 2023 15:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;롱블랙 프렌즈 K&nbsp;오늘은 ‘세계 유기 동물의 날International Homeless Animals’ Day’*이에요. 여름 휴가철마다 버림받는 반려동물이 늘자, 미국 국제동물<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
