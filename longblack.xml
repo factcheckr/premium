@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-08-18T07:17:31.426Z</updated>
+    <updated>2023-08-18T08:22:31.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/792</id>
         <link href="https://www.longblack.co/note/792"/>
         <updated>2023-08-17T15:17:49.808Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K카페에서 일하는 걸 좋아해요. 하지만 시끄럽게 느껴질 때가 있죠. 그렇다고 스터디 카페에 가자니 타이핑을 맘껏 할 수 없더라고요. B가 ‘집무실’이라는 공간을 추천<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;카페에서 일하는 걸 좋아해요. 하지만 시끄럽게 느껴질 때가 있죠. 그렇다고 스터디 카페에 가자니 타이핑을 맘껏 할 수 없더라고요. B가 ‘집무실’이라는 공간을 추<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

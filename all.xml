@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 07:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 08:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -354,7 +354,7 @@
             <link>https://www.longblack.co/note/792</link>
             <guid>https://www.longblack.co/note/792</guid>
             <pubDate>Thu, 17 Aug 2023 15:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K카페에서 일하는 걸 좋아해요. 하지만 시끄럽게 느껴질 때가 있죠. 그렇다고 스터디 카페에 가자니 타이핑을 맘껏 할 수 없더라고요. B가 ‘집무실’이라는 공간을 추천<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;카페에서 일하는 걸 좋아해요. 하지만 시끄럽게 느껴질 때가 있죠. 그렇다고 스터디 카페에 가자니 타이핑을 맘껏 할 수 없더라고요. B가 ‘집무실’이라는 공간을 추<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -439,6 +439,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 위크엔드, 스물세 번째 에피소드에서는 떠오르는 전기차 기업과 달라진 여름 휴가, 전자책 〈역사가 망각한 쓰레기〉에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/65448</link>
+            <guid>https://www.bookjournalism.com/audio/65448</guid>
+            <pubDate>Fri, 18 Aug 2023 08:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[8월 19일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573474/w/646/thumb_contents_thumb%20%281%29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시는 모두의 것이다. 그래야만 도시가 강해진다. (북저널리즘)]]></title>
@@ -527,14 +535,6 @@
             <pubDate>Wed, 09 Aug 2023 15:22:30 GMT</pubDate>
             <content:encoded><![CDATA[세컨더리와 스타트업 생태계]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/571149/w/646/ex230809.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세계의 위기 상황에 음악도 역할이 있다. 모든 게 잘될 거라는, 우리는 이어져 있다는 위로 말이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/64954</link>
-            <guid>https://www.bookjournalism.com/books/64954</guid>
-            <pubDate>Wed, 09 Aug 2023 08:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[음악은 할 수 있다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/569827/w/646/eb230809_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
