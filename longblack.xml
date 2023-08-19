@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-08-19T14:15:35.320Z</updated>
+    <updated>2023-08-19T15:17:03.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[귤엔터테인먼트 : 제주 유기견을 아이돌로 키워 안방에 데뷔시키다]]></title>
-        <id>https://www.longblack.co/note/790</id>
-        <link href="https://www.longblack.co/note/790"/>
-        <updated>2023-08-18T15:18:07.339Z</updated>
-        <content type="html"><![CDATA[&nbsp;롱블랙 프렌즈 K&nbsp;오늘은 ‘세계 유기 동물의 날International Homeless Animals’ Day’*이에요. 여름 휴가철마다 버림받는 반려동물이 늘자, 미국 국제동물<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-08-19T15:16:07.372Z</updated>
+        <content type="html"><![CDATA[C가 좋아한 이번주 롱블랙 문장
+
+“중요한 건 10명, 100명을 아는 게 아니에요. 단 두 명이라도, 내가 흥미 있는 사람을 만나는 게 중요해요. 그분의 일과 철학을 이해하고 싶은 사람이요. 그럼 오래가는 관계가 돼요. ‘저 사람은 영향력 있으니까 친해져야겠다’는<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
