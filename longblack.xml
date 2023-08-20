@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-08-20T14:15:22.657Z</updated>
+    <updated>2023-08-20T15:17:32.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-08-19T15:16:07.372Z</updated>
-        <content type="html"><![CDATA[C가 좋아한 이번주 롱블랙 문장
-
-“중요한 건 10명, 100명을 아는 게 아니에요. 단 두 명이라도, 내가 흥미 있는 사람을 만나는 게 중요해요. 그분의 일과 철학을 이해하고 싶은 사람이요. 그럼 오래가는 관계가 돼요. ‘저 사람은 영향력 있으니까 친해져야겠다’는<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[신우석 : 돌고래유괴단, 크리에이티브 성공 공식을 새로 쓰다]]></title>
+        <id>https://www.longblack.co/note/793</id>
+        <link href="https://www.longblack.co/note/793"/>
+        <updated>2023-08-20T15:16:15.673Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;그런 사람이 있죠. 평범하지 않은 사람. 좀 이상한 사람. 처음 보면 영 주인공감이 아니에요. 독특해서, 이상해서, 비주류라서 주목받지 못하죠. 하지만 이내 도드<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

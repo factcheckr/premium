@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 14:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 15:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,13 +350,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 19 Aug 2023 15:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[C가 좋아한 이번주 롱블랙 문장
-
-“중요한 건 10명, 100명을 아는 게 아니에요. 단 두 명이라도, 내가 흥미 있는 사람을 만나는 게 중요해요. 그분의 일과 철학을 이해하고 싶은 사람이요. 그럼 오래가는 관계가 돼요. ‘저 사람은 영향력 있으니까 친해져야겠다’는<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[신우석 : 돌고래유괴단, 크리에이티브 성공 공식을 새로 쓰다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/793</link>
+            <guid>https://www.longblack.co/note/793</guid>
+            <pubDate>Sun, 20 Aug 2023 15:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;그런 사람이 있죠. 평범하지 않은 사람. 좀 이상한 사람. 처음 보면 영 주인공감이 아니에요. 독특해서, 이상해서, 비주류라서 주목받지 못하죠. 하지만 이내 도드<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
