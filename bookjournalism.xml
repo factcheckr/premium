@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 18:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 19:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 캠프 데이비드에서 한미일 3국이 새 시대를 열었다. 실익보다 중요한 것은 회담의 실체다.]]></title>
+            <link>https://www.bookjournalism.com/books/65463</link>
+            <guid>https://www.bookjournalism.com/books/65463</guid>
+            <pubDate>Sun, 20 Aug 2023 19:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[한미일 관계의 리디파이닝]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573609/w/646/ex230818.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 스물세 번째 에피소드에서는 떠오르는 전기차 기업과 달라진 여름 휴가, 전자책 〈역사가 망각한 쓰레기〉에 관해 이야기합니다.]]></title>
             <link>https://www.bookjournalism.com/audio/65448</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 10 Aug 2023 17:18:14 GMT</pubDate>
             <content:encoded><![CDATA[흉기 난동, 시민을 불안하게 하는 것들]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/570834/w/646/ex230810.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구주를 거래하는 세컨더리 시장이 뜨고 있다. VC와 스타트업 모두 새로운 도전에 직면했다.]]></title>
-            <link>https://www.bookjournalism.com/books/65166</link>
-            <guid>https://www.bookjournalism.com/books/65166</guid>
-            <pubDate>Wed, 09 Aug 2023 15:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[세컨더리와 스타트업 생태계]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/571149/w/646/ex230809.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
