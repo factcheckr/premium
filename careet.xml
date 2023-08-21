@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 23:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 01:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회사에서 무알콜 맥주? 직장인 5대 예의 논쟁, Z세대는 이렇게 생각함]]></title>
+            <link>https://www.careet.net/1160</link>
+            <guid>https://www.careet.net/1160</guid>
+            <pubDate>Mon, 21 Aug 2023 01:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[밀레니얼의 고민, Z세대가 답해드립니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/283d6578-45ec-45b0-aeb7-cb584cb285ea_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[연휴 동안 놓친 트렌드 복습하세요! 이주의 유행템 4]]></title>
             <link>https://www.careet.net/1158</link>
