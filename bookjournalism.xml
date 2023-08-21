@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 14:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 15:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[절박한 부모들이 나쁜 선택을 한다. 그 선택의 이유는 기울어진 의료 접근권이다.]]></title>
+            <link>https://www.bookjournalism.com/books/65459</link>
+            <guid>https://www.bookjournalism.com/books/65459</guid>
+            <pubDate>Mon, 21 Aug 2023 15:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[왕의 DNA를 신봉하는 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/574041/w/646/IMG_5349.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[미국 캠프 데이비드에서 한미일 3국이 새 시대를 열었다. 실익보다 중요한 것은 회담의 실체다.]]></title>
             <link>https://www.bookjournalism.com/books/65463</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 11 Aug 2023 09:17:49 GMT</pubDate>
             <content:encoded><![CDATA[8월 12일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/571217/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동시다발적 흉기 난동 사건에 당국이 다양한 대응책을 내놨다. 실효적 예방책은 보이지 않는다.]]></title>
-            <link>https://www.bookjournalism.com/books/65214</link>
-            <guid>https://www.bookjournalism.com/books/65214</guid>
-            <pubDate>Thu, 10 Aug 2023 17:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[흉기 난동, 시민을 불안하게 하는 것들]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/570834/w/646/ex230810.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
