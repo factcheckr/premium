@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 01:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 02:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -457,6 +457,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573609/w/646/ex230818.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573681/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[북저널리즘 위크엔드, 스물세 번째 에피소드에서는 떠오르는 전기차 기업과 달라진 여름 휴가, 전자책 〈역사가 망각한 쓰레기〉에 관해 이야기합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/65448</link>
             <guid>https://www.bookjournalism.com/audio/65448</guid>
@@ -479,14 +487,6 @@
             <pubDate>Thu, 17 Aug 2023 15:18:59 GMT</pubDate>
             <content:encoded><![CDATA[반란의 도시, 베를린]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573416/w/646/100_berlin_thm3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573419/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[청년과 서민을 위해 주담대 만기가 길어졌다. 결국, 청년도 서민도 빚에 갇혔다. (북저널리즘)]]></title>
