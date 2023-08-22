@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 14:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 15:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스트림플레이션 시대다. 소비자는 시험에 들고 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/65540</link>
+            <guid>https://www.bookjournalism.com/books/65540</guid>
+            <pubDate>Tue, 22 Aug 2023 15:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[구독 경제는 어떻게 무너지는가]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/574256/w/646/ex230822.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[절박한 부모들이 나쁜 선택을 한다. 그 선택의 이유는 기울어진 의료 접근권이다.]]></title>
             <link>https://www.bookjournalism.com/books/65459</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 13 Aug 2023 15:17:37 GMT</pubDate>
             <content:encoded><![CDATA[소프트뱅크와 AI 버블]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/570829/w/646/ex230811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 스물두 번째 에피소드에서는 잼버리 사태와 팁 문화, 종이책 《설명하기 지친 사람을 위한 데이터》에 관해 이야기합니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/65267</link>
-            <guid>https://www.bookjournalism.com/audio/65267</guid>
-            <pubDate>Fri, 11 Aug 2023 09:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[8월 12일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/571217/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

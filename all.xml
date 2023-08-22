@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 14:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 15:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,11 +366,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[하인즈 : 세계 1등 케첩 맛집, ‘생기 마케팅’으로 MZ를 사로잡다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/794</link>
-            <guid>https://www.longblack.co/note/794</guid>
-            <pubDate>Mon, 21 Aug 2023 15:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;얼마 전 C와 성수동 햄버거 가게를 갔어. 테이블에 거꾸로 세워진 케첩 병이 있었지. C가 병을 가리키며 말하더라. “요즘 마케터들이 하인즈Heinz 얘기 많이 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[피식대학 : 치열하게 고민한 코미디는 우습지 않고, 웃기다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/795</link>
+            <guid>https://www.longblack.co/note/795</guid>
+            <pubDate>Tue, 22 Aug 2023 15:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;지금 유튜브는 ‘코미디 전성기’예요. &lt;개그콘서트&gt;와 &lt;웃찾사&gt;가 사라진 2010년대 말, 코미디언들이 유튜브로 무대를 옮기면서 시작됐죠. 지금은 코미디 채널만 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -455,6 +455,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스트림플레이션 시대다. 소비자는 시험에 들고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/65540</link>
+            <guid>https://www.bookjournalism.com/books/65540</guid>
+            <pubDate>Tue, 22 Aug 2023 15:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[구독 경제는 어떻게 무너지는가]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/574256/w/646/ex230822.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[절박한 부모들이 나쁜 선택을 한다. 그 선택의 이유는 기울어진 의료 접근권이다. (북저널리즘)]]></title>
@@ -543,14 +551,6 @@
             <pubDate>Sun, 13 Aug 2023 15:17:37 GMT</pubDate>
             <content:encoded><![CDATA[소프트뱅크와 AI 버블]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/570829/w/646/ex230811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 스물두 번째 에피소드에서는 잼버리 사태와 팁 문화, 종이책 《설명하기 지친 사람을 위한 데이터》에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/65267</link>
-            <guid>https://www.bookjournalism.com/audio/65267</guid>
-            <pubDate>Fri, 11 Aug 2023 09:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[8월 12일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/571217/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
