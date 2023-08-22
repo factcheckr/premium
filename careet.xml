@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 04:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 05:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대에게 먹히는 AI 마케팅의 비밀은? 일 잘한 레퍼런스 2]]></title>
+            <link>https://www.careet.net/1161</link>
+            <guid>https://www.careet.net/1161</guid>
+            <pubDate>Tue, 22 Aug 2023 05:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[지금 주목할 키워드 ‘AI’, 마케팅엔 어떻게 적용할 수 있을까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/01b9fb11-9639-4f9f-895b-819d314bad23_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[회사에서 무알콜 맥주? 직장인 5대 예의 논쟁, Z세대는 이렇게 생각함]]></title>
             <link>https://www.careet.net/1160</link>

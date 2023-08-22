@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 04:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 05:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7302?fr=category</guid>
             <pubDate>Tue, 08 Aug 2023 08:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7302?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/08/1691455849_RCsVvlk8cSWt4SmU4oMwxY7UtnD3Tikr6MUx2HR4.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 9분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7302?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">리더의 매뉴얼 만들기: 평소보다 조금 더 하는 힘으로 평균 이상의 성과 내는 법</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대에게 먹히는 AI 마케팅의 비밀은? 일 잘한 레퍼런스 2 (캐릿)]]></title>
+            <link>https://www.careet.net/1161</link>
+            <guid>https://www.careet.net/1161</guid>
+            <pubDate>Tue, 22 Aug 2023 05:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[지금 주목할 키워드 ‘AI’, 마케팅엔 어떻게 적용할 수 있을까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/01b9fb11-9639-4f9f-895b-819d314bad23_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[회사에서 무알콜 맥주? 직장인 5대 예의 논쟁, Z세대는 이렇게 생각함 (캐릿)]]></title>
