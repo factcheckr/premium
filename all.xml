@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 14:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 15:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,11 +382,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아이슬란드 관광청 : 무슨 문제가 있나요? 그럼 아이슬란드로 오세요! (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/796</link>
-            <guid>https://www.longblack.co/note/796</guid>
-            <pubDate>Wed, 23 Aug 2023 15:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;언젠가 꼭 가보고 싶은 나라가 있어요. 아이슬란드Iceland! 휘황찬란한 오로라, 유빙이 둥둥 떠다니는 호수, 빙하 동굴에, 헨기포스Hengifoss 폭포까지…<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[진화사고 : 인간의 창조성은, 자연의 진화를 닮았다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/797</link>
+            <guid>https://www.longblack.co/note/797</guid>
+            <pubDate>Thu, 24 Aug 2023 15:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;전 창의성과 거리가 먼 사람입니다. 번뜩이는 아이디어가 부족하죠. 언커먼 위크를 기획하며, 어떻게 하면 좀 더 창의적인 사람이 될 수 있을지 고민했습니다.그러다 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -471,6 +471,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[테마주 열풍이 국내 증시를 덮쳤다. 테마주 강세가 이어지면서 ‘빚투’ 규모는 20조 원을 넘겼다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/65640</link>
+            <guid>https://www.bookjournalism.com/books/65640</guid>
+            <pubDate>Thu, 24 Aug 2023 15:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[테마주 열풍과 밈 주식]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/574978/w/646/ex230824.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보령으로 탈바꿈한 보령제약이 우주 사업에 손을 댄다. 느린 혁신의 리스크를 줄이기 위함이다. (북저널리즘)]]></title>
@@ -559,14 +567,6 @@
             <pubDate>Wed, 16 Aug 2023 08:23:36 GMT</pubDate>
             <content:encoded><![CDATA[여성을 잃는 직장]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/572750/w/646/eb230816.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나라를 세운 시기를 특정하자는 주장이 다시 고개를 든다. 모순이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/65297</link>
-            <guid>https://www.bookjournalism.com/books/65297</guid>
-            <pubDate>Tue, 15 Aug 2023 22:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[건국절, 나쁜 논란]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/572576/w/646/ex230814.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
