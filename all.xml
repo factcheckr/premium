@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 23:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 01:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7295?fr=category</guid>
             <pubDate>Thu, 24 Aug 2023 13:22:49 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7295?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/14/1691985409_ze4ET50rSeI59DD2NSUKRWS97DC2qEILR5qP4pgC.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 11분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7295?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">잘 되는 기업 블로그의 콘텐츠 사례 10가지</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오픈 3일 전부터 텐트치고 기다리는 핫플레이스! 이주의 유행템 3 (캐릿)]]></title>
+            <link>https://www.careet.net/1168</link>
+            <guid>https://www.careet.net/1168</guid>
+            <pubDate>Fri, 25 Aug 2023 01:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[한 달 만에 500만 명이 다운 받은 갓생 앱이 있다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/a139a79f-6ef0-4862-a1d3-25bfccdaa4d9_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[탕후루 왜 이렇게 유행이야? Z세대 F&B 트렌드 최신판 정리해드림 (캐릿)]]></title>

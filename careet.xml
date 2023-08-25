@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 23:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 01:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈 3일 전부터 텐트치고 기다리는 핫플레이스! 이주의 유행템 3]]></title>
+            <link>https://www.careet.net/1168</link>
+            <guid>https://www.careet.net/1168</guid>
+            <pubDate>Fri, 25 Aug 2023 01:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[한 달 만에 500만 명이 다운 받은 갓생 앱이 있다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/a139a79f-6ef0-4862-a1d3-25bfccdaa4d9_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[탕후루 왜 이렇게 유행이야? Z세대 F&B 트렌드 최신판 정리해드림]]></title>
             <link>https://www.careet.net/1163</link>
