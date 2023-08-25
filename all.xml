@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 08:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 09:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -481,6 +481,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 위크엔드, 스물네 번째 에피소드에서는 인공 다이아몬드와 양자컴퓨터, 북저널리즘의 100번째 시리즈 《반란의 도시, 베를린》에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/65634</link>
+            <guid>https://www.bookjournalism.com/audio/65634</guid>
+            <pubDate>Fri, 25 Aug 2023 09:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 8월 26일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575184/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[테마주 열풍이 국내 증시를 덮쳤다. 테마주 강세가 이어지면서 ‘빚투’ 규모는 20조 원을 넘겼다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/65640</link>
             <guid>https://www.bookjournalism.com/books/65640</guid>
@@ -541,8 +549,8 @@
             <link>https://www.bookjournalism.com/audio/65448</link>
             <guid>https://www.bookjournalism.com/audio/65448</guid>
             <pubDate>Fri, 18 Aug 2023 08:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[8월 19일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573596/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2023년 8월 19일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575187/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시는 모두의 것이다. 그래야만 도시가 강해진다. (북저널리즘)]]></title>
@@ -567,14 +575,6 @@
             <pubDate>Wed, 16 Aug 2023 15:19:16 GMT</pubDate>
             <content:encoded><![CDATA[50년 주담대와 빚의 족쇄]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573117/w/646/ex230816.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성이 직장을 잃는 게 아니라, 직장이 여성을 잃는 것이다. 여성이 겪는 문제를 직시해야 해결할 수 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/65265</link>
-            <guid>https://www.bookjournalism.com/books/65265</guid>
-            <pubDate>Wed, 16 Aug 2023 08:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[여성을 잃는 직장]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/572750/w/646/eb230816.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
