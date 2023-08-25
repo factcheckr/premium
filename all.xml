@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 14:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 15:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,11 +390,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[진화사고 : 인간의 창조성은, 자연의 진화를 닮았다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/797</link>
-            <guid>https://www.longblack.co/note/797</guid>
-            <pubDate>Thu, 24 Aug 2023 15:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;전 창의성과 거리가 먼 사람입니다. 번뜩이는 아이디어가 부족하죠. 언커먼 위크를 기획하며, 어떻게 하면 좀 더 창의적인 사람이 될 수 있을지 고민했습니다.그러다 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[다른 의견 : 싸우자는 게 아니에요, 생산적인 대화를 해보자는 거죠 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/805</link>
+            <guid>https://www.longblack.co/note/805</guid>
+            <pubDate>Fri, 25 Aug 2023 15:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K직장에서 다른 의견을 말하는 건 쉽지 않습니다. 상대가 누구든요. 사이가 불편해지면 곤란하잖아요. ‘말해봤자 안 들을 것 같다’는 생각에 입을 다물기도 하죠.&nbsp;김지<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
