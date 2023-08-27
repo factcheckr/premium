@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 14:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 15:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,13 +390,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 26 Aug 2023 15:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[K가 좋아한 이번주 롱블랙 문장
-
-“‘야, 이거 웃기지 않아?’라는 말에 한 명이라도 반응이 안 좋으면, 실패한 아이디어로 정해요. 아무리 아쉬워도 절대 쓰지 않죠. 듣자마자 본능적으로 웃어야 한다고 생각해요. 그래야 우리의 에너지가 고스란히 보는 사람에게 전달되지<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[이나모리 가즈오 : 마음의 모양에 따라, 인생이라는 그림은 바뀐다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/798</link>
+            <guid>https://www.longblack.co/note/798</guid>
+            <pubDate>Sun, 27 Aug 2023 15:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;지난 24일에 좋아하는 책을 한 권 집어 들었습니다. 고故 이나모리 가즈오 회장이 쓴 『왜 일하는가』입니다. 일본에서 ‘경영의 신’으로 불리던 그는 지난해 8월<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -481,6 +479,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[돛을 올린 카길이 꿈꾸는 세계에 탈탄소는 없다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/65661</link>
+            <guid>https://www.bookjournalism.com/books/65661</guid>
+            <pubDate>Sun, 27 Aug 2023 15:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[카길이 가는 길, 우리가 먹는 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575432/w/646/ex230825.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 스물네 번째 에피소드에서는 인공 다이아몬드와 양자컴퓨터, 북저널리즘의 100번째 시리즈 《반란의 도시, 베를린》에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -569,14 +575,6 @@
             <pubDate>Thu, 17 Aug 2023 15:18:59 GMT</pubDate>
             <content:encoded><![CDATA[반란의 도시, 베를린]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573416/w/646/100_berlin_thm3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년과 서민을 위해 주담대 만기가 길어졌다. 결국, 청년도 서민도 빚에 갇혔다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/65377</link>
-            <guid>https://www.bookjournalism.com/books/65377</guid>
-            <pubDate>Wed, 16 Aug 2023 15:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[50년 주담대와 빚의 족쇄]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573117/w/646/ex230816.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

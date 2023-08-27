@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 14:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 15:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돛을 올린 카길이 꿈꾸는 세계에 탈탄소는 없다.]]></title>
+            <link>https://www.bookjournalism.com/books/65661</link>
+            <guid>https://www.bookjournalism.com/books/65661</guid>
+            <pubDate>Sun, 27 Aug 2023 15:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[카길이 가는 길, 우리가 먹는 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575432/w/646/ex230825.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 스물네 번째 에피소드에서는 인공 다이아몬드와 양자컴퓨터, 북저널리즘의 100번째 시리즈 《반란의 도시, 베를린》에 관해 이야기합니다.]]></title>
             <link>https://www.bookjournalism.com/audio/65634</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 17 Aug 2023 15:18:59 GMT</pubDate>
             <content:encoded><![CDATA[반란의 도시, 베를린]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573416/w/646/100_berlin_thm3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년과 서민을 위해 주담대 만기가 길어졌다. 결국, 청년도 서민도 빚에 갇혔다.]]></title>
-            <link>https://www.bookjournalism.com/books/65377</link>
-            <guid>https://www.bookjournalism.com/books/65377</guid>
-            <pubDate>Wed, 16 Aug 2023 15:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[50년 주담대와 빚의 족쇄]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573117/w/646/ex230816.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
