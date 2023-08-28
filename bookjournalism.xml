@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 14:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 15:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 영화계의 진짜 문제는 따로 있다. 관객도 제작사도 극장도 실패할 기회를 잃어버렸다.]]></title>
+            <link>https://www.bookjournalism.com/books/65732</link>
+            <guid>https://www.bookjournalism.com/books/65732</guid>
+            <pubDate>Mon, 28 Aug 2023 15:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[불타는 티켓, 유령 관객]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575655/w/646/ex230828.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 17 Aug 2023 22:17:37 GMT</pubDate>
             <content:encoded><![CDATA[모두의 해변을 지키려는 도시민들]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573404/w/646/ex230817.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[각자도생의 착취 도시 서울에서 베를린을 보다. 사고 싶은 도시가 아닌 살고 싶은 도시는 어떻게 만들어지나?]]></title>
-            <link>https://www.bookjournalism.com/books/64985</link>
-            <guid>https://www.bookjournalism.com/books/64985</guid>
-            <pubDate>Thu, 17 Aug 2023 15:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[반란의 도시, 베를린]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573416/w/646/100_berlin_thm3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
