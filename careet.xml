@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 23:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 01:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대학생 200명에게 물었다 “요즘 뭐가 유행이에요?”]]></title>
+            <link>https://www.careet.net/1170</link>
+            <guid>https://www.careet.net/1170</guid>
+            <pubDate>Tue, 29 Aug 2023 01:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[격세지감! 이전과 달라진 대학 생활 총정리]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/a7d00903-8b78-4ad8-8551-f0248d7a6966_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[팝업스토어만 아셨나요? 요즘 오프라인 마케팅 트렌드는 ‘게릴라 이벤트’]]></title>
             <link>https://www.careet.net/1166</link>
