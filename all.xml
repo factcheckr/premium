@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 14:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 15:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,11 +406,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[보안여관 : 전시장이 된 여관, 변방의 문화를 소개해 35만명을 모으다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/799</link>
-            <guid>https://www.longblack.co/note/799</guid>
-            <pubDate>Mon, 28 Aug 2023 15:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;경복궁역 근처 돌담길을 따라 걷다 보면 통의동이 나옵니다. 낮은 건물들 사이로 ‘통의동 보안여관’이라 적힌, 낡은 간판 하나가 눈길을 끌죠. 짙은 고동색 건물과 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[베자 : 마케팅하지 않는 스니커즈, 현실적인 친환경으로 팬덤을 모으다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/800</link>
+            <guid>https://www.longblack.co/note/800</guid>
+            <pubDate>Tue, 29 Aug 2023 15:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;요즘 ESG 경영이 트렌드가 됐잖아요! 그런데 그만큼 그린워싱도 많다죠. 그럼 이런 건 어때요?“우리는 조세 피난처의 은행을 통해 거래합니다”“신발 가죽에 쓰이는<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -495,6 +495,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인도의 모디 총리가 ‘메이크 인 인디아’ 정책을 편다. 양날의 검이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/65768</link>
+            <guid>https://www.bookjournalism.com/books/65768</guid>
+            <pubDate>Tue, 29 Aug 2023 15:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[인도를 기회로 보기 전에 살펴야 할 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/576020/w/646/ex230829.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -583,14 +591,6 @@
             <pubDate>Fri, 18 Aug 2023 08:22:22 GMT</pubDate>
             <content:encoded><![CDATA[2023년 8월 19일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575187/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시는 모두의 것이다. 그래야만 도시가 강해진다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/65430</link>
-            <guid>https://www.bookjournalism.com/books/65430</guid>
-            <pubDate>Thu, 17 Aug 2023 22:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[모두의 해변을 지키려는 도시민들]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573404/w/646/ex230817.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
