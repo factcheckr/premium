@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 23:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 01:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 요즘 자주 쓴다고 검증해 준 밈 3]]></title>
+            <link>https://www.careet.net/1164</link>
+            <guid>https://www.careet.net/1164</guid>
+            <pubDate>Wed, 30 Aug 2023 01:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[3분만 투자하면 최신 유행 드립 마스터 가능!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/7851644c-7c90-4c3d-91e8-9815b63f4d23_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대학생 200명에게 물었다 “요즘 뭐가 유행이에요?”]]></title>
             <link>https://www.careet.net/1170</link>
