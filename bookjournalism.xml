@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 07:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 08:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인류는 한 세기 만에 전기차를 도로에 복귀시켰다. 더 높아진 밀도, 더 빨라진 충전 속도를 갖춘 배터리 혁신 덕분이다. 이제는 바다와 하늘도 노리고 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/65722</link>
+            <guid>https://www.bookjournalism.com/books/65722</guid>
+            <pubDate>Wed, 30 Aug 2023 08:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[배터리, 이동을 바꾸는 혁신]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/576547/w/646/eb230830.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 20 Aug 2023 19:15:17 GMT</pubDate>
             <content:encoded><![CDATA[한미일 관계의 리디파이닝]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573609/w/646/ex230818.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 위크엔드, 스물세 번째 에피소드에서는 떠오르는 전기차 기업과 달라진 여름 휴가, 전자책 〈역사가 망각한 쓰레기〉에 관해 이야기합니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/65448</link>
-            <guid>https://www.bookjournalism.com/audio/65448</guid>
-            <pubDate>Fri, 18 Aug 2023 08:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 8월 19일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575187/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
