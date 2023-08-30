@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 14:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 15:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -414,11 +414,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[베자 : 마케팅하지 않는 스니커즈, 현실적인 친환경으로 팬덤을 모으다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/800</link>
-            <guid>https://www.longblack.co/note/800</guid>
-            <pubDate>Tue, 29 Aug 2023 15:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;요즘 ESG 경영이 트렌드가 됐잖아요! 그런데 그만큼 그린워싱도 많다죠. 그럼 이런 건 어때요?“우리는 조세 피난처의 은행을 통해 거래합니다”“신발 가죽에 쓰이는<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[긱블 : 쓸모없는 것만 만드는 괴짜들, 과학공학의 무대를 세우다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/801</link>
+            <guid>https://www.longblack.co/note/801</guid>
+            <pubDate>Wed, 30 Aug 2023 15:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;'치킨 무 뜯어주는 기계', '오줌싸는 로봇 개', '물수제비 100번 튕겨주는 기계'. 어디에 써야 할지 알 수 없는 작품들입니다. 큰 쓸모는 없어 보이지만 제<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -503,6 +503,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트럼프가 돌아온다. 세계의 운명을 쥔 미국 유권자들은 어떤 선택을 할까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/65801</link>
+            <guid>https://www.bookjournalism.com/books/65801</guid>
+            <pubDate>Wed, 30 Aug 2023 15:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[세계에 드리운 트럼프의 그림자]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/576643/w/646/ex230830.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인류는 한 세기 만에 전기차를 도로에 복귀시켰다. 더 높아진 밀도, 더 빨라진 충전 속도를 갖춘 배터리 혁신 덕분이다. 이제는 바다와 하늘도 노리고 있다. (북저널리즘)]]></title>
@@ -591,14 +599,6 @@
             <pubDate>Mon, 21 Aug 2023 15:19:21 GMT</pubDate>
             <content:encoded><![CDATA[왕의 DNA를 신봉하는 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/574041/w/646/IMG_5349.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 캠프 데이비드에서 한미일 3국이 새 시대를 열었다. 실익보다 중요한 것은 회담의 실체다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/65463</link>
-            <guid>https://www.bookjournalism.com/books/65463</guid>
-            <pubDate>Sun, 20 Aug 2023 19:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[한미일 관계의 리디파이닝]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573609/w/646/ex230818.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

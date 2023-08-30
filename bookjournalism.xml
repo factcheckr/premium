@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 14:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 15:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트럼프가 돌아온다. 세계의 운명을 쥔 미국 유권자들은 어떤 선택을 할까.]]></title>
+            <link>https://www.bookjournalism.com/books/65801</link>
+            <guid>https://www.bookjournalism.com/books/65801</guid>
+            <pubDate>Wed, 30 Aug 2023 15:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[세계에 드리운 트럼프의 그림자]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/576643/w/646/ex230830.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인류는 한 세기 만에 전기차를 도로에 복귀시켰다. 더 높아진 밀도, 더 빨라진 충전 속도를 갖춘 배터리 혁신 덕분이다. 이제는 바다와 하늘도 노리고 있다.]]></title>
             <link>https://www.bookjournalism.com/books/65722</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 21 Aug 2023 15:19:21 GMT</pubDate>
             <content:encoded><![CDATA[왕의 DNA를 신봉하는 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/574041/w/646/IMG_5349.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 캠프 데이비드에서 한미일 3국이 새 시대를 열었다. 실익보다 중요한 것은 회담의 실체다.]]></title>
-            <link>https://www.bookjournalism.com/books/65463</link>
-            <guid>https://www.bookjournalism.com/books/65463</guid>
-            <pubDate>Sun, 20 Aug 2023 19:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[한미일 관계의 리디파이닝]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/573609/w/646/ex230818.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
