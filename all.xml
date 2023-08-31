@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 14:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 15:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -422,11 +422,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/92fcebfa-ddef-45d4-802a-1bf4027bdedf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[긱블 : 쓸모없는 것만 만드는 괴짜들, 과학공학의 무대를 세우다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/801</link>
-            <guid>https://www.longblack.co/note/801</guid>
-            <pubDate>Wed, 30 Aug 2023 15:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;'치킨 무 뜯어주는 기계', '오줌싸는 로봇 개', '물수제비 100번 튕겨주는 기계'. 어디에 써야 할지 알 수 없는 작품들입니다. 큰 쓸모는 없어 보이지만 제<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[크리에이터 이코노미 : 틱톡과 유튜브의 시대, 성공 방정식을 찾다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/802</link>
+            <guid>https://www.longblack.co/note/802</guid>
+            <pubDate>Thu, 31 Aug 2023 15:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;“나도 일 관두고 크리에이터나 할까 봐.”직장인이라면 습관적으로 뱉는 말이죠. 크리에이터는 분명 매력적인 직업입니다. 경제적 성공, 자아실현을 동시에 이룬 것처럼<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -513,6 +513,22 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[쏟아지는 업무 툴은 디지털 부채와 스크린 무호흡증을 부른다. 생산성의 시대에서 기술은 왜 리스크가 되는가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/65826</link>
+            <guid>https://www.bookjournalism.com/books/65826</guid>
+            <pubDate>Thu, 31 Aug 2023 15:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[AI 시대 생산성의 역설]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/577497/w/646/ex230831.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[페이스북도 아마존도, 카카오도 쿠팡도 더 이상은 혁신이 아닙니다. 최악의 투자 불황 시대라지만, 기회를 알아차리는 사람들은 여전히 도전합니다. 날씨가, 물가가, 취업 시장이 어제와 전혀 다른 내일을 경고하는 지금, 미래를 설계 중인 창업가들의 시선을 《스레드》가 따라가 봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/65414</link>
+            <guid>https://www.bookjournalism.com/books/65414</guid>
+            <pubDate>Thu, 31 Aug 2023 15:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[ISSUE 16. FOUNDERS]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575010/w/646/bkjnthread16_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -591,22 +607,6 @@
             <pubDate>Wed, 23 Aug 2023 08:23:48 GMT</pubDate>
             <content:encoded><![CDATA[비싸지는 휴일]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/574544/w/646/eb230823.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트림플레이션 시대다. 소비자는 시험에 들고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/65540</link>
-            <guid>https://www.bookjournalism.com/books/65540</guid>
-            <pubDate>Tue, 22 Aug 2023 15:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[구독 경제는 어떻게 무너지는가]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/574256/w/646/ex230822.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[절박한 부모들이 나쁜 선택을 한다. 그 선택의 이유는 기울어진 의료 접근권이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/65459</link>
-            <guid>https://www.bookjournalism.com/books/65459</guid>
-            <pubDate>Mon, 21 Aug 2023 15:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[왕의 DNA를 신봉하는 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/574041/w/646/IMG_5349.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
