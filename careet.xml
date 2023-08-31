@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 01:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 02:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그래머블의 기준이 바뀌었다! 새로운 비주얼 트렌드 ‘포토 덤프’]]></title>
+            <link>https://www.careet.net/1167</link>
+            <guid>https://www.careet.net/1167</guid>
+            <pubDate>Thu, 31 Aug 2023 02:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 Z세대가 SNS에 망한 사진 골라서 올리는 이유는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6aab47bc-3ec3-45b2-95ac-c946ec32ed69_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 요즘 자주 쓴다고 검증해 준 밈 3]]></title>
             <link>https://www.careet.net/1164</link>
