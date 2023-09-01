@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 23:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 01:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/577504/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[쏟아지는 업무 툴은 디지털 부채와 스크린 무호흡증을 부른다. 생산성의 시대에서 기술은 왜 리스크가 되는가?]]></title>
             <link>https://www.bookjournalism.com/books/65826</link>
@@ -22,14 +30,6 @@
             <pubDate>Thu, 31 Aug 2023 15:19:49 GMT</pubDate>
             <content:encoded><![CDATA[ISSUE 16. FOUNDERS]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575010/w/646/bkjnthread16_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/577245/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[트럼프가 돌아온다. 세계의 운명을 쥔 미국 유권자들은 어떤 선택을 할까.]]></title>
