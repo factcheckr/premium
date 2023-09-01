@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 14:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 15:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,11 +262,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[크리에이터 이코노미 : 틱톡과 유튜브의 시대, 성공 방정식을 찾다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/802</link>
-            <guid>https://www.longblack.co/note/802</guid>
-            <pubDate>Thu, 31 Aug 2023 15:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;“나도 일 관두고 크리에이터나 할까 봐.”직장인이라면 습관적으로 뱉는 말이죠. 크리에이터는 분명 매력적인 직업입니다. 경제적 성공, 자아실현을 동시에 이룬 것처럼<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[소통하는 신체 : 온몸이 귀가 될 때, 마음을 얻는 대화는 시작된다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/814</link>
+            <guid>https://www.longblack.co/note/814</guid>
+            <pubDate>Fri, 01 Sep 2023 15:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;우리는 대화의 기술만 잘 배우면 상대를 설득할 수 있다고 생각해요. 하지만 아니에요. 소통은 입으로만 하는 게 아니라 몸으로 하는 겁니다. 상대 말을 주의 깊게 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
