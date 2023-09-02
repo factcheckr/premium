@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-09-02T14:16:12.877Z</updated>
+    <updated>2023-09-02T15:17:33.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[소통하는 신체 : 온몸이 귀가 될 때, 마음을 얻는 대화는 시작된다]]></title>
-        <id>https://www.longblack.co/note/814</id>
-        <link href="https://www.longblack.co/note/814"/>
-        <updated>2023-09-01T15:18:22.680Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;우리는 대화의 기술만 잘 배우면 상대를 설득할 수 있다고 생각해요. 하지만 아니에요. 소통은 입으로만 하는 게 아니라 몸으로 하는 겁니다. 상대 말을 주의 깊게 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-09-02T15:16:39.128Z</updated>
+        <content type="html"><![CDATA[B가 좋아한 이번주 롱블랙 문장
+
+“무엇보다 중요한 것은 ‘사고방식’이 바람직한 방향으로 뻗어있어야 한다는 사실이다. 그렇지 않으면 아무리 뛰어난 능력과 강한 열정을 지니고 있다고 하더라도 그것은 재능을 썩히는 일이며, 결과적으로는 사회에 해를 끼치는 결과를 낳을 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
