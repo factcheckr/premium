@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-09-03T14:16:47.727Z</updated>
+    <updated>2023-09-03T15:18:18.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-09-02T15:16:39.128Z</updated>
-        <content type="html"><![CDATA[B가 좋아한 이번주 롱블랙 문장
-
-“무엇보다 중요한 것은 ‘사고방식’이 바람직한 방향으로 뻗어있어야 한다는 사실이다. 그렇지 않으면 아무리 뛰어난 능력과 강한 열정을 지니고 있다고 하더라도 그것은 재능을 썩히는 일이며, 결과적으로는 사회에 해를 끼치는 결과를 낳을 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[모나미 : 60년 국민 볼펜 153, 생존을 넘은 진화를 꿈꾸다]]></title>
+        <id>https://www.longblack.co/note/808</id>
+        <link href="https://www.longblack.co/note/808"/>
+        <updated>2023-09-03T15:17:22.016Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L나 아이패드 바꿨거든. 친구가 축하한다면서 애플 펜슬 케이스를 선물해 주더라. 그런데 이 케이스, 모나미 153 볼펜이랑 똑같이 생겼어! 뭐지? 알고 보니 디지털 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
