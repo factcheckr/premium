@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-09-04T04:22:09.573Z</updated>
+    <updated>2023-09-04T05:18:15.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/808</id>
         <link href="https://www.longblack.co/note/808"/>
         <updated>2023-09-03T15:17:22.016Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 L나 아이패드 바꿨거든. 친구가 축하한다면서 애플 펜슬 케이스를 선물해 주더라. 그런데 이 케이스, 모나미 153 볼펜이랑 똑같이 생겼어! 뭐지? 알고 보니 디지털 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;나 아이패드 바꿨거든. 친구가 축하한다면서 애플 펜슬 케이스를 선물해 주더라. 그런데 이 케이스, 모나미 153 볼펜이랑 똑같이 생겼어! 뭐지? 알고 보니 디지털<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
