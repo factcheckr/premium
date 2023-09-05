@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 02:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 03:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벤치마킹하기 좋은 업사이클링 굿즈 레퍼런스 8]]></title>
+            <link>https://www.careet.net/1165</link>
+            <guid>https://www.careet.net/1165</guid>
+            <pubDate>Tue, 05 Sep 2023 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[굿즈 트렌드! 업사이클링 제품이 이렇게 다양해졌어?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/f343f5a4-2d3c-4780-951c-7490ad1cf7f5_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘뉴진스X스포티파이’ 팝업 담당자 등판! Z세대가 칭찬한 콜라보 캠페인 2]]></title>
             <link>https://www.careet.net/1173</link>
