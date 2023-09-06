@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 14:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 15:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈뉴스타파〉의 보도가 스캔들이 되었다. POST NAVER 시대를 알리는 알람이다.]]></title>
+            <link>https://www.bookjournalism.com/books/66018</link>
+            <guid>https://www.bookjournalism.com/books/66018</guid>
+            <pubDate>Wed, 06 Sep 2023 15:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[한국 언론의 성골과 진골]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579316/w/646/ex230906.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방법은 다양하다. 독극물, 총격, 비행기 추락 사고, 창문 밖으로의 미스터리한 추락까지. 푸틴은 다음 프리고진에게 어떤 죽음을 선사할까.]]></title>
             <link>https://www.bookjournalism.com/books/65850</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 29 Aug 2023 15:20:01 GMT</pubDate>
             <content:encoded><![CDATA[인도를 기회로 보기 전에 살펴야 할 것]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/576020/w/646/ex230829.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 영화계의 진짜 문제는 따로 있다. 관객도 제작사도 극장도 실패할 기회를 잃어버렸다.]]></title>
-            <link>https://www.bookjournalism.com/books/65732</link>
-            <guid>https://www.bookjournalism.com/books/65732</guid>
-            <pubDate>Mon, 28 Aug 2023 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[불타는 티켓, 유령 관객]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575655/w/646/ex230828.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

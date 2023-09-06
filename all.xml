@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 14:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 15:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[황윤민 : ‘보통다움’을 무기로 10개의 F&B 브랜드를 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/810</link>
-            <guid>https://www.longblack.co/note/810</guid>
-            <pubDate>Tue, 05 Sep 2023 15:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;힙당동이라 불리는 신당동에 핫플 치킨집이 있다고 해서 다녀왔어요. 이름이 발라닭. 오픈한 지 9개월 됐는데, 주말이면 300~400명이 몰리는 곳이죠. 이름만큼 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[프리즈 서울 : 잡지에서 출발한 세계 2대 아트페어, 서울을 주목하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/812</link>
+            <guid>https://www.longblack.co/note/812</guid>
+            <pubDate>Wed, 06 Sep 2023 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;지난해부터 9월이면 국내 아트 시장을 흔드는 손이 하나 등장했어. 아트페어, 프리즈Frieze 서울! 2022년 첫해엔 나흘간 7만 명이 다녀갔지. 판매 총액 추<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -375,6 +375,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[〈뉴스타파〉의 보도가 스캔들이 되었다. POST NAVER 시대를 알리는 알람이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66018</link>
+            <guid>https://www.bookjournalism.com/books/66018</guid>
+            <pubDate>Wed, 06 Sep 2023 15:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[한국 언론의 성골과 진골]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579316/w/646/ex230906.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방법은 다양하다. 독극물, 총격, 비행기 추락 사고, 창문 밖으로의 미스터리한 추락까지. 푸틴은 다음 프리고진에게 어떤 죽음을 선사할까. (북저널리즘)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Tue, 29 Aug 2023 15:20:01 GMT</pubDate>
             <content:encoded><![CDATA[인도를 기회로 보기 전에 살펴야 할 것]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/576020/w/646/ex230829.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 영화계의 진짜 문제는 따로 있다. 관객도 제작사도 극장도 실패할 기회를 잃어버렸다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/65732</link>
-            <guid>https://www.bookjournalism.com/books/65732</guid>
-            <pubDate>Mon, 28 Aug 2023 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[불타는 티켓, 유령 관객]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575655/w/646/ex230828.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
