@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 14:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 15:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,11 +294,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[프리즈 서울 : 잡지에서 출발한 세계 2대 아트페어, 서울을 주목하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/812</link>
-            <guid>https://www.longblack.co/note/812</guid>
-            <pubDate>Wed, 06 Sep 2023 15:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;지난해부터 9월이면 국내 아트 시장을 흔드는 손이 하나 등장했어. 아트페어, 프리즈Frieze 서울! 2022년 첫해엔 나흘간 7만 명이 다녀갔지. 판매 총액 추<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[풋티지브라더스 : 탐스와 그라미치를 발굴한 형제, 감도는 디깅에서 나온다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/813</link>
+            <guid>https://www.longblack.co/note/813</guid>
+            <pubDate>Thu, 07 Sep 2023 15:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K양복을 살 일이 있어 B에게 물어보니, 링크 하나를 보내줬어요. 유튜브 채널 ‘풋티지 브라더스’. 형제가 운영하는 채널이었어요. 구독자는 5만7000명. 큰 숫자는<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
