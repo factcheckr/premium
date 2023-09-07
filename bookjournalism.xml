@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 18:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 19:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램은 건재하다. 이용자가 쓰고 싶은 모습이 아닐 뿐이다.]]></title>
+            <link>https://www.bookjournalism.com/books/66044</link>
+            <guid>https://www.bookjournalism.com/books/66044</guid>
+            <pubDate>Thu, 07 Sep 2023 19:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[소셜 미디어의 죽음]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579469/w/646/ex230907.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[〈뉴스타파〉의 보도가 스캔들이 되었다. POST NAVER 시대를 알리는 알람이다.]]></title>
             <link>https://www.bookjournalism.com/books/66018</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 30 Aug 2023 08:23:42 GMT</pubDate>
             <content:encoded><![CDATA[배터리, 이동을 바꾸는 혁신]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/576547/w/646/eb230830.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인도의 모디 총리가 ‘메이크 인 인디아’ 정책을 편다. 양날의 검이다.]]></title>
-            <link>https://www.bookjournalism.com/books/65768</link>
-            <guid>https://www.bookjournalism.com/books/65768</guid>
-            <pubDate>Tue, 29 Aug 2023 15:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[인도를 기회로 보기 전에 살펴야 할 것]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/576020/w/646/ex230829.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
