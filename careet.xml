@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 23:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 01:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘푸바오’만큼 인기인 에버랜드 스타가 탄생했다고? 이주의 유행템 4]]></title>
+            <link>https://www.careet.net/1175</link>
+            <guid>https://www.careet.net/1175</guid>
+            <pubDate>Fri, 08 Sep 2023 01:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[조회 수 200만 돌파! 요즘 틱톡 맛집은 ‘에버랜드’라며?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/e0138d78-a66b-4007-ad0f-5f75796c7837_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘스벅’만큼 자주 간다고? 요즘 Z세대 사이에서 뜨는 ‘카페 3 대장’ 알려드림]]></title>
             <link>https://www.careet.net/1174</link>
