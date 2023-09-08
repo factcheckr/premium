@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 12:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 13:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,6 +393,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[작은 집 운동과 자동차의 개인 정보, 북저널리즘의 17번째 시리즈 《버닝맨, 혁신을 실험하다》에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/66059</link>
+            <guid>https://www.bookjournalism.com/audio/66059</guid>
+            <pubDate>Fri, 08 Sep 2023 13:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 9월 9일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579607/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인스타그램은 건재하다. 이용자가 쓰고 싶은 모습이 아닐 뿐이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/66044</link>
             <guid>https://www.bookjournalism.com/books/66044</guid>
@@ -479,14 +487,6 @@
             <pubDate>Wed, 30 Aug 2023 15:20:03 GMT</pubDate>
             <content:encoded><![CDATA[세계에 드리운 트럼프의 그림자]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/576643/w/646/ex230830.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인류는 한 세기 만에 전기차를 도로에 복귀시켰다. 더 높아진 밀도, 더 빨라진 충전 속도를 갖춘 배터리 혁신 덕분이다. 이제는 바다와 하늘도 노리고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/65722</link>
-            <guid>https://www.bookjournalism.com/books/65722</guid>
-            <pubDate>Wed, 30 Aug 2023 08:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[배터리, 이동을 바꾸는 혁신]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/576547/w/646/eb230830.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
