@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 13:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 14:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,8 +76,8 @@
             <link>https://www.bookjournalism.com/audio/65842</link>
             <guid>https://www.bookjournalism.com/audio/65842</guid>
             <pubDate>Fri, 01 Sep 2023 08:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 1일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/578160/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2023년 9월 2일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/578162/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쏟아지는 업무 툴은 디지털 부채와 스크린 무호흡증을 부른다. 생산성의 시대에서 기술은 왜 리스크가 되는가?]]></title>
