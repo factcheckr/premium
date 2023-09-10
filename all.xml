@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 14:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 15:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,14 +302,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 09 Sep 2023 15:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[K가 좋아한 이번주 롱블랙 문장
-
-“F&amp;B의 본질은 먹는 것입니다. 그리고 우리는 매일 먹지요. 사람들은 특별함을 원하면서도, 결국 익숙한 것을 선택한다고 생각해요. 평범함을 잘 받아들이면서도, 그 안에 한 끗의 비기를 심는 균형감을 길러나가고 싶습니다.”
-&lt;a <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[에너지 드링크 리포트 : 넥스트 음료 트렌드, 95조원 시장을 읽다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/816</link>
+            <guid>https://www.longblack.co/note/816</guid>
+            <pubDate>Sun, 10 Sep 2023 15:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;얼마 전에 K랑 밥 먹었어. 운동 시작했다고 식단 관리하더라. 그러면서 가방에서 에너지 음료를 꺼내 마시는 거야. 야근하냐니까, 헬스장 간대. 에너지 드링크, ‘<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -394,6 +391,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소셜 미디어 시대의 프로파간다는 더 은밀하고 더 노골적이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66036</link>
+            <guid>https://www.bookjournalism.com/books/66036</guid>
+            <pubDate>Sun, 10 Sep 2023 15:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[틱톡 프로파간다의 시대]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579682/w/646/ex230908.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[작은 집 운동과 자동차의 개인 정보, 북저널리즘의 17번째 시리즈 《버닝맨, 혁신을 실험하다》에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -482,14 +487,6 @@
             <pubDate>Thu, 31 Aug 2023 15:19:49 GMT</pubDate>
             <content:encoded><![CDATA[ISSUE 16. FOUNDERS]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575607/w/646/bkjnthread16_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프가 돌아온다. 세계의 운명을 쥔 미국 유권자들은 어떤 선택을 할까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/65801</link>
-            <guid>https://www.bookjournalism.com/books/65801</guid>
-            <pubDate>Wed, 30 Aug 2023 15:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[세계에 드리운 트럼프의 그림자]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/576643/w/646/ex230830.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
