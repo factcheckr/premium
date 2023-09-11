@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 02:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 03:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7329?fr=category</guid>
             <pubDate>Thu, 07 Sep 2023 12:34:16 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7329?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/08/31/1693461534_jagkiHp5EAQGCL2yIFR8IfpA8CWOmEXMmAnXINwQ.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 5분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7329?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">원온원(1on1)이 부담스러운 리더를 위한 원온원 질문 77개 모음</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘체리피커’는 가라! Z세대가 찐으로 참여하게 만든 온/오프라인 이벤트 2 (캐릿)]]></title>
+            <link>https://www.careet.net/1178</link>
+            <guid>https://www.careet.net/1178</guid>
+            <pubDate>Mon, 11 Sep 2023 03:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[앱 다운로드 이벤트부터 유튜브 콘텐츠 팝업까지. 이 주의 일 잘한 사례 모음]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/00e45eb0-7785-4809-8d47-7579fceb2ad4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘푸바오’만큼 인기인 에버랜드 스타가 탄생했다고? 이주의 유행템 4 (캐릿)]]></title>

@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 02:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 03:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘체리피커’는 가라! Z세대가 찐으로 참여하게 만든 온/오프라인 이벤트 2]]></title>
+            <link>https://www.careet.net/1178</link>
+            <guid>https://www.careet.net/1178</guid>
+            <pubDate>Mon, 11 Sep 2023 03:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[앱 다운로드 이벤트부터 유튜브 콘텐츠 팝업까지. 이 주의 일 잘한 사례 모음]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/00e45eb0-7785-4809-8d47-7579fceb2ad4_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘푸바오’만큼 인기인 에버랜드 스타가 탄생했다고? 이주의 유행템 4]]></title>
             <link>https://www.careet.net/1175</link>
