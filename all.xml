@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 14:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 15:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,11 +310,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[에너지 드링크 리포트 : 넥스트 음료 트렌드, 90조원 시장을 읽다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/816</link>
-            <guid>https://www.longblack.co/note/816</guid>
-            <pubDate>Sun, 10 Sep 2023 15:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;얼마 전에 K랑 밥 먹었어. 운동 시작했다고 식단 관리하더라. 그러면서 가방에서 에너지 음료를 꺼내 마시는 거야. 야근하냐니까, 헬스장 간대. 에너지 드링크, ‘<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[세광그린푸드 : 교대이층집부터 산청숯불가든까지, ‘레트로 한식’을 개척하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/817</link>
+            <guid>https://www.longblack.co/note/817</guid>
+            <pubDate>Mon, 11 Sep 2023 15:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;C가 을지로에서 독특한 고깃집을 발견했대요. 페인트 가게와 조명 가게 사이 좁은 골목길을 따라 같이 들어갔어요. 갑자기 3미터 높이의 숯가마가 나타났죠. 진흙이 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -399,6 +399,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[분교생을 향한 혐오가 고연전에 얼룩을 남겼다. 우리 사회가 불행한 탓이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66103</link>
+            <guid>https://www.bookjournalism.com/books/66103</guid>
+            <pubDate>Mon, 11 Sep 2023 15:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[고연전이 드러낸 시험능력주의]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579835/w/646/ex230911.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -487,14 +495,6 @@
             <pubDate>Thu, 31 Aug 2023 15:19:49 GMT</pubDate>
             <content:encoded><![CDATA[AI 시대 생산성의 역설]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/577497/w/646/ex230831.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최악의 투자 불황 시대라지만 기회를 알아차리는 사람들은 여전히 도전합니다. 미래를 설계 중인 창업가들의 시선을 따라가 봅니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/65414</link>
-            <guid>https://www.bookjournalism.com/books/65414</guid>
-            <pubDate>Thu, 31 Aug 2023 15:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[ISSUE 16. FOUNDERS]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575607/w/646/bkjnthread16_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
