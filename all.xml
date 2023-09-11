@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 01:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 02:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,7 +302,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[에너지 드링크 리포트 : 넥스트 음료 트렌드, 95조원 시장을 읽다 (롱블랙)]]></title>
+            <title><![CDATA[에너지 드링크 리포트 : 넥스트 음료 트렌드, 90조원 시장을 읽다 (롱블랙)]]></title>
             <link>https://www.longblack.co/note/816</link>
             <guid>https://www.longblack.co/note/816</guid>
             <pubDate>Sun, 10 Sep 2023 15:16:59 GMT</pubDate>
@@ -393,6 +393,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579755/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[소셜 미디어 시대의 프로파간다는 더 은밀하고 더 노골적이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/66036</link>
             <guid>https://www.bookjournalism.com/books/66036</guid>
@@ -431,14 +439,6 @@
             <pubDate>Wed, 06 Sep 2023 08:23:41 GMT</pubDate>
             <content:encoded><![CDATA[푸틴이 선사한 최후]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579219/w/646/eb230905.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579066/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[유럽 최강국 독일이 유럽의 병자로 거듭나게 생겼다. 우리의 미래일 수 있다. (북저널리즘)]]></title>
