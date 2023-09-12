@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 16:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 17:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플과 화웨이가 신제품을 놓고 격돌한다. 그 이면엔 시진핑 정부의 불안이 읽힌다.]]></title>
+            <link>https://www.bookjournalism.com/books/66123</link>
+            <guid>https://www.bookjournalism.com/books/66123</guid>
+            <pubDate>Tue, 12 Sep 2023 17:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 일곱 가지 쇼크와 화웨이]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/580161/w/646/ex230912.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Sep 2023 08:23:21 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 2일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/578162/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏟아지는 업무 툴은 디지털 부채와 스크린 무호흡증을 부른다. 생산성의 시대에서 기술은 왜 리스크가 되는가?]]></title>
-            <link>https://www.bookjournalism.com/books/65826</link>
-            <guid>https://www.bookjournalism.com/books/65826</guid>
-            <pubDate>Thu, 31 Aug 2023 15:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[AI 시대 생산성의 역설]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/577497/w/646/ex230831.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
