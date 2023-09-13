@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 01:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 02:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/580297/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[애플과 화웨이가 신제품을 놓고 격돌한다. 그 이면엔 시진핑 정부의 불안이 읽힌다.]]></title>
             <link>https://www.bookjournalism.com/books/66123</link>
@@ -14,14 +22,6 @@
             <pubDate>Tue, 12 Sep 2023 17:17:42 GMT</pubDate>
             <content:encoded><![CDATA[중국의 일곱 가지 쇼크와 화웨이]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/580161/w/646/ex230912.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/580027/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[분교생을 향한 혐오가 고연전에 얼룩을 남겼다. 우리 사회가 불행한 탓이다.]]></title>
