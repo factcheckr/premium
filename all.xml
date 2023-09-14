@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 14:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 15:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,11 +334,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[오니버스 : 매일 건네는 인사가 다른 커피 가게, 도쿄의 카페 신을 바꾸다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/831</link>
-            <guid>https://www.longblack.co/note/831</guid>
-            <pubDate>Wed, 13 Sep 2023 15:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;도쿄의 나카메구로. 낮은 담장과 아기자기한 가게가 즐비한 골목여행 명소예요. 그중 오래된 목조 가옥 한 채가 눈에 띕니다. 주말이면 수백 명씩 다녀가요. 오니버스<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[페이지터너 : 숲속 재즈 공연과 낭독회로 내향인들의 축제를 열다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/819</link>
+            <guid>https://www.longblack.co/note/819</guid>
+            <pubDate>Thu, 14 Sep 2023 15:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K가을이 되니 자꾸 밖에 나가고 싶어져요. 공원에서 샌드위치 먹고, 도토리 줍고, 바람을 느끼고… 음악까지 있으면 금상첨화겠네요.저만 그런 게 아닐 겁니다. 가을에 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -423,6 +423,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구글은 검색의 표준을 만들었다. 반독점법이 새로운 상상력을 위해 나섰다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66147</link>
+            <guid>https://www.bookjournalism.com/books/66147</guid>
+            <pubDate>Thu, 14 Sep 2023 15:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 독점한 건 문화다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/580919/w/646/ex230914.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -511,14 +519,6 @@
             <pubDate>Tue, 05 Sep 2023 15:19:47 GMT</pubDate>
             <content:encoded><![CDATA[독일 경제가 위기인 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/578685/w/646/ex230905.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기후 문화 전쟁이 시작됐다. 전쟁의 향방은 미디어에 달렸다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/65881</link>
-            <guid>https://www.bookjournalism.com/books/65881</guid>
-            <pubDate>Mon, 04 Sep 2023 15:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[기후 문화 전쟁의 종군 기자]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579063/w/646/ex230904.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
