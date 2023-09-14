@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 17:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 18:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -332,6 +332,13 @@
             <pubDate>Tue, 01 Aug 2023 05:27:19 GMT</pubDate>
             <content:encoded><![CDATA[SNS 밈, 또 생겼습니다!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[페이지터너 : 숲속 재즈 공연과 낭독회로 내향인들의 축제를 열다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/819</link>
+            <guid>https://www.longblack.co/note/819</guid>
+            <pubDate>Thu, 14 Sep 2023 18:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K가을이 되니 자꾸 밖에 나가고 싶어져요. 공원에서 샌드위치 먹고, 도토리 줍고, 바람을 느끼고… 음악까지 있으면 금상첨화겠네요.저만 그런 게 아닐 겁니다. 가을에 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
