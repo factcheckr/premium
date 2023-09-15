@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 14:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 15:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,11 +342,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[페이지터너 : 숲속 재즈 공연과 낭독회로 내향인들의 축제를 열다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/819</link>
-            <guid>https://www.longblack.co/note/819</guid>
-            <pubDate>Thu, 14 Sep 2023 18:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;가을이 되니 자꾸 밖에 나가고 싶어져요. 공원에서 샌드위치 먹고, 도토리 줍고, 바람을 느끼고… 음악까지 있으면 금상첨화겠네요.저만 그런 게 아닐 겁니다. 가을에<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[The Good Enough Job : 일에 매몰되지 않고 많은 ‘나’를 돌보는 법 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/815</link>
+            <guid>https://www.longblack.co/note/815</guid>
+            <pubDate>Fri, 15 Sep 2023 15:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;저는 제 일을 사랑해요! 하루에 가장 많은 시간을 일하는 데 쓰죠. 주말 중 하루 일하는 것도 어느샌가 루틴이 됐어요. 가장 친한 친구도 실은…. 동료들이에요!음<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
