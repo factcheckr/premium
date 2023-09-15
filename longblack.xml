@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-09-14T23:19:04.091Z</updated>
+    <updated>2023-09-15T01:17:09.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/819</id>
         <link href="https://www.longblack.co/note/819"/>
         <updated>2023-09-14T18:22:46.331Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K가을이 되니 자꾸 밖에 나가고 싶어져요. 공원에서 샌드위치 먹고, 도토리 줍고, 바람을 느끼고… 음악까지 있으면 금상첨화겠네요.저만 그런 게 아닐 겁니다. 가을에 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;가을이 되니 자꾸 밖에 나가고 싶어져요. 공원에서 샌드위치 먹고, 도토리 줍고, 바람을 느끼고… 음악까지 있으면 금상첨화겠네요.저만 그런 게 아닐 겁니다. 가을에<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
