@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 14:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 15:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,11 +342,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[The Good Enough Job : 일에 매몰되지 않고 많은 ‘나’를 돌보는 법 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/815</link>
-            <guid>https://www.longblack.co/note/815</guid>
-            <pubDate>Fri, 15 Sep 2023 15:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;저는 제 일을 사랑해요! 하루에 가장 많은 시간을 일하는 데 쓰죠. 주말 중 하루 일하는 것도 어느샌가 루틴이 됐어요. 가장 친한 친구도 실은…. 동료들이에요!음<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 16 Sep 2023 15:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[K가 좋아한 이번주 롱블랙 문장
+
+“공연은 문화의 씨앗을 뿌리는 일이라고 생각해요. 젊었을 때 잊지 못할 감동을 한번 받고 나면, 되풀이해서 음악을 찾잖아요. 시간이 지나면서 씨앗이 거목이 된 거죠. 저희가 운영하는 재즈 클럽도, 페스티벌도 모두 씨앗을 뿌리는 일이<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
