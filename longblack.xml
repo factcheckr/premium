@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-09-17T14:16:27.135Z</updated>
+    <updated>2023-09-17T15:18:09.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-09-16T15:16:36.007Z</updated>
-        <content type="html"><![CDATA[K가 좋아한 이번주 롱블랙 문장
-
-“공연은 문화의 씨앗을 뿌리는 일이라고 생각해요. 젊었을 때 잊지 못할 감동을 한번 받고 나면, 되풀이해서 음악을 찾잖아요. 시간이 지나면서 씨앗이 거목이 된 거죠. 저희가 운영하는 재즈 클럽도, 페스티벌도 모두 씨앗을 뿌리는 일이<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[나영석 : 중요한 건, 기획의 심지를 지키는 것이다]]></title>
+        <id>https://www.longblack.co/note/821</id>
+        <link href="https://www.longblack.co/note/821"/>
+        <updated>2023-09-17T15:17:16.064Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;여러분, 그거 아세요? 롱블랙이 어느덧 2주년을 앞두고 있어요! 지난 2년간 600여 개 노트, 580만여 글자로 비즈니스 리더들의 남다른 감각을 전해왔죠.2주년<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
