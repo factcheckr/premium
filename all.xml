@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 17:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 18:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -441,6 +441,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스마트폰과 태블릿PC에 익숙한 세대에게도 긴 글을 읽고 써야 하는 이유가 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66254</link>
+            <guid>https://www.bookjournalism.com/books/66254</guid>
+            <pubDate>Mon, 18 Sep 2023 18:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[잘파세대의 독수리 타법]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/581781/w/646/ex230918.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -527,14 +535,6 @@
             <pubDate>Thu, 07 Sep 2023 19:15:30 GMT</pubDate>
             <content:encoded><![CDATA[소셜 미디어의 죽음]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579469/w/646/ex230907.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈뉴스타파〉의 보도가 스캔들이 되었다. POST NAVER 시대를 알리는 알람이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66018</link>
-            <guid>https://www.bookjournalism.com/books/66018</guid>
-            <pubDate>Wed, 06 Sep 2023 15:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[한국 언론의 성골과 진골]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579316/w/646/ex230906.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
