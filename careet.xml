@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 05:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 06:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남자 Z세대 팬덤이 큰 인플루언서 40인 리스트]]></title>
+            <link>https://www.careet.net/1184</link>
+            <guid>https://www.careet.net/1184</guid>
+            <pubDate>Tue, 19 Sep 2023 06:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[“남자 Z세대가 좋아하는 인플루언서 없을까?” 분야별로 싹 정리해드림]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/c42c9869-193c-4173-a309-a6ff6823eae1_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지하 주차장을 동굴로 바꿨다고? 콘셉트 잘 살린 마케팅 사례 3]]></title>
             <link>https://www.careet.net/1182</link>
