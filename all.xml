@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 17:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 18:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -449,6 +449,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[모두가 아마존의 성장은 끝났다고 말한다. 제시의 생각은 다르다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66282</link>
+            <guid>https://www.bookjournalism.com/books/66282</guid>
+            <pubDate>Tue, 19 Sep 2023 18:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[아마존의 네 번째 기둥]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/581937/w/646/ex230919.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -535,14 +543,6 @@
             <pubDate>Fri, 08 Sep 2023 13:21:54 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 9일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579607/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램은 건재하다. 이용자가 쓰고 싶은 모습이 아닐 뿐이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66044</link>
-            <guid>https://www.bookjournalism.com/books/66044</guid>
-            <pubDate>Thu, 07 Sep 2023 19:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 미디어의 죽음]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579469/w/646/ex230907.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
