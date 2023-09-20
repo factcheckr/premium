@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 07:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 08:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당뇨 치료제는 현대판 만병통치약이 됐다. 그러나 마법의 열쇠는 없다. 날씬한 몸에 대한 환상이 가리는 불편한 진실이 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/66250</link>
+            <guid>https://www.bookjournalism.com/books/66250</guid>
+            <pubDate>Wed, 20 Sep 2023 08:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[세상을 날씬하게]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582069/w/646/eb230920.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 10 Sep 2023 15:17:42 GMT</pubDate>
             <content:encoded><![CDATA[틱톡 프로파간다의 시대]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579682/w/646/ex230908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작은 집 운동과 자동차의 개인 정보, 북저널리즘의 17번째 시리즈 《버닝맨, 혁신을 실험하다》에 관해 이야기합니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/66059</link>
-            <guid>https://www.bookjournalism.com/audio/66059</guid>
-            <pubDate>Fri, 08 Sep 2023 13:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 9일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579607/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
