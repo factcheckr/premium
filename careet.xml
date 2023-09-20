@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 04:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 05:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘낭만’은 왜 Z세대의 화두가 되었을까?]]></title>
+            <link>https://www.careet.net/1181</link>
+            <guid>https://www.careet.net/1181</guid>
+            <pubDate>Wed, 20 Sep 2023 05:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[낭만과 관련한 콘텐츠, 굿즈, 이벤트 사례 총정리]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/8102a405-aea0-43ca-8c09-f45fc08fd0b5_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[남자 Z세대 팬덤이 큰 인플루언서 40인 리스트]]></title>
             <link>https://www.careet.net/1184</link>
