@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 15:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 16:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -465,6 +465,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[옥토버 페스트에서 워키즘(wokeism)이 논란의 도마에 올랐다. 축제는 어떻게 변해가고 있는가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66339</link>
+            <guid>https://www.bookjournalism.com/books/66339</guid>
+            <pubDate>Thu, 21 Sep 2023 16:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[축제는 계속되어야 한다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582471/w/646/ex230921.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -551,14 +559,6 @@
             <pubDate>Tue, 12 Sep 2023 17:17:42 GMT</pubDate>
             <content:encoded><![CDATA[중국의 일곱 가지 쇼크와 화웨이]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/580161/w/646/ex230912.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분교생을 향한 혐오가 고연전에 얼룩을 남겼다. 우리 사회가 불행한 탓이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66103</link>
-            <guid>https://www.bookjournalism.com/books/66103</guid>
-            <pubDate>Mon, 11 Sep 2023 15:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[고연전이 드러낸 시험능력주의]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579835/w/646/ex230911.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
