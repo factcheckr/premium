@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 23:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 01:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“Z세대 팀원이 어려우세요?” Z세대 맞춤형 업무 시스템이 필요합니다]]></title>
+            <link>https://www.careet.net/1152</link>
+            <guid>https://www.careet.net/1152</guid>
+            <pubDate>Thu, 21 Sep 2023 01:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 팀원과 3년간 일해본 팀장이 추천합니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/6ba7b654-5367-4261-8c9b-7ae5d3d44a7b_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘낭만’은 왜 Z세대의 화두가 되었을까?]]></title>
             <link>https://www.careet.net/1181</link>
