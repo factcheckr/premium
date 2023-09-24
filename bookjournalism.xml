@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 14:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 15:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[월터 아이작슨이 쓴 일론 머스크 전기가 화제다. 아이작슨의 글쓰기 비결은 뭘까.]]></title>
+            <link>https://www.bookjournalism.com/books/66370</link>
+            <guid>https://www.bookjournalism.com/books/66370</guid>
+            <pubDate>Sun, 24 Sep 2023 15:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[월터 아이작슨처럼 쓰려면]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583290/w/646/IMG_5775.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[사라지는 별과 항저우 아시안게임, 북저널리즘의 57번째 시리즈 《중동 라이벌리즘》에 관해 이야기합니다.]]></title>
             <link>https://www.bookjournalism.com/audio/66384</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 13 Sep 2023 15:19:57 GMT</pubDate>
             <content:encoded><![CDATA[공채, 취업, 계급]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/580848/w/646/ex230913.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전염병은 끝났고, 도시는 여전히 비었다. 동료들은 컴퓨터 속에 존재한다. 새로운 근무 방식은 혁신을 만들 수 있을까.]]></title>
-            <link>https://www.bookjournalism.com/books/66066</link>
-            <guid>https://www.bookjournalism.com/books/66066</guid>
-            <pubDate>Wed, 13 Sep 2023 08:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[굿바이, 오피스]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579795/w/646/eb230913.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

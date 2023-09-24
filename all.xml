@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 14:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 15:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,13 +382,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 23 Sep 2023 15:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[L이 밑줄 친 세스 고딘의 문장
-
-“여러분이 마케팅이라고 부르는 것들, 특히 포장에 집중하는 건 안타깝습니다. 마케팅은 포장이 아니에요. 당신이 전하는 이야기, 삶의 방식, 당신이 대변하는 것, 영향력, 정체성, 연결, 효과, 이 모든 것입니다. 대기업 마케팅팀이 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[선우정아 : 기꺼이 힘들어하고 버티어내, 마침내 장르가 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/830</link>
+            <guid>https://www.longblack.co/note/830</guid>
+            <pubDate>Sun, 24 Sep 2023 15:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C &nbsp;주말에 서울숲재즈페스티벌에 다녀왔어요. 잔디밭에 돗자리를 깔고 앉아, 와인을 마시며 듣는 재즈란! 청명한 하늘 아래 즐긴 낮 공연도 좋았지만, 저녁 8시 마지막<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -473,6 +471,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[월터 아이작슨이 쓴 일론 머스크 전기가 화제다. 아이작슨의 글쓰기 비결은 뭘까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66370</link>
+            <guid>https://www.bookjournalism.com/books/66370</guid>
+            <pubDate>Sun, 24 Sep 2023 15:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[월터 아이작슨처럼 쓰려면]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583290/w/646/IMG_5775.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[사라지는 별과 항저우 아시안게임, 북저널리즘의 57번째 시리즈 《중동 라이벌리즘》에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -561,14 +567,6 @@
             <pubDate>Wed, 13 Sep 2023 15:19:57 GMT</pubDate>
             <content:encoded><![CDATA[공채, 취업, 계급]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/580848/w/646/ex230913.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전염병은 끝났고, 도시는 여전히 비었다. 동료들은 컴퓨터 속에 존재한다. 새로운 근무 방식은 혁신을 만들 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66066</link>
-            <guid>https://www.bookjournalism.com/books/66066</guid>
-            <pubDate>Wed, 13 Sep 2023 08:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[굿바이, 오피스]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579795/w/646/eb230913.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

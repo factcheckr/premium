@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-09-24T14:16:23.337Z</updated>
+    <updated>2023-09-24T15:17:35.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-09-23T15:17:01.563Z</updated>
-        <content type="html"><![CDATA[L이 밑줄 친 세스 고딘의 문장
-
-“여러분이 마케팅이라고 부르는 것들, 특히 포장에 집중하는 건 안타깝습니다. 마케팅은 포장이 아니에요. 당신이 전하는 이야기, 삶의 방식, 당신이 대변하는 것, 영향력, 정체성, 연결, 효과, 이 모든 것입니다. 대기업 마케팅팀이 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[선우정아 : 기꺼이 힘들어하고 버티어내, 마침내 장르가 되다]]></title>
+        <id>https://www.longblack.co/note/830</id>
+        <link href="https://www.longblack.co/note/830"/>
+        <updated>2023-09-24T15:16:44.586Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C &nbsp;주말에 서울숲재즈페스티벌에 다녀왔어요. 잔디밭에 돗자리를 깔고 앉아, 와인을 마시며 듣는 재즈란! 청명한 하늘 아래 즐긴 낮 공연도 좋았지만, 저녁 8시 마지막<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
