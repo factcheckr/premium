@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 23:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 01:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘승훈이 됨’이 무슨 뜻? 유튜브 댓글에 자주 보이는 최신 밈 3]]></title>
+            <link>https://www.careet.net/1185</link>
+            <guid>https://www.careet.net/1185</guid>
+            <pubDate>Mon, 25 Sep 2023 01:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[‘승훈이 됨=잘 모르겠어요’라는 뜻이라고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/deca04f6-3ebd-4998-a0bf-e56cbe60689f_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[남들보다 빨리 보세요! 요즘 대학생이 주목하는 유행템 3]]></title>
             <link>https://www.careet.net/1187</link>
