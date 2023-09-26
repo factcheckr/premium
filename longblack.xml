@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-09-26T21:16:46.394Z</updated>
+    <updated>2023-09-26T22:18:44.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/837</id>
         <link href="https://www.longblack.co/note/837"/>
         <updated>2023-09-26T15:19:55.687Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B추석 연휴에 뭐 하시나요? 연휴에 읽을 책을 찾다 이 책이 눈에 들어왔어요. 『시대예보: 핵개인의 시대』. 빅데이터 전문가로 알려진 송길영 작가의 신간이에요.시대를<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;추석 연휴에 뭐 하시나요? 연휴에 읽을 책을 찾다 이 책이 눈에 들어왔어요. 『시대예보: 핵개인의 시대』. 빅데이터 전문가로 알려진 송길영 작가의 신간이에요.시대<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
