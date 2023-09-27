@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 23:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 01:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 사이에서 ‘섭외 미쳤다!’는 반응을 얻고 싶다면? 섭외 마케팅 2]]></title>
+            <link>https://www.careet.net/1188</link>
+            <guid>https://www.careet.net/1188</guid>
+            <pubDate>Wed, 27 Sep 2023 01:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[섭외부터 활용까지 Z세대 반응 좋았던 포인트는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/e2bb354e-dcf4-44d5-9e48-73e0edf7c465_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘이런’ 어른 되고 싶어요! 윗세대와 달라진 Z세대의 롤 모델은?]]></title>
             <link>https://www.careet.net/1192</link>
