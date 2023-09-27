@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 01:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 02:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -497,20 +497,20 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/584253/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[잘파 세대에게 네트워킹은 타인이 아닌 새로운 나와의 만남이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/66201</link>
             <guid>https://www.bookjournalism.com/books/66201</guid>
             <pubDate>Tue, 26 Sep 2023 15:20:38 GMT</pubDate>
             <content:encoded><![CDATA[취향을 통한 네트워킹, 무드보드]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583843/w/646/moodboard.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583854/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[팬덤 당원들은 정당이 아니라 한 명의 정치인을 선택한다. (북저널리즘)]]></title>
