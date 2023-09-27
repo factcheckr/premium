@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 14:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 15:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,11 +406,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[시대예보 : 송길영 “핵개인의 시대, 당신만의 뗏목을 만들어라” (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/837</link>
-            <guid>https://www.longblack.co/note/837</guid>
-            <pubDate>Tue, 26 Sep 2023 15:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;추석 연휴에 뭐 하시나요? 연휴에 읽을 책을 찾다 이 책이 눈에 들어왔어요. 『시대예보: 핵개인의 시대』. 빅데이터 전문가로 알려진 송길영 작가의 신간이에요.시대<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[벽제갈비 : 37년 갈빗집, 부엌의 장인들을 무대 위에 세우다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/832</link>
+            <guid>https://www.longblack.co/note/832</guid>
+            <pubDate>Wed, 27 Sep 2023 15:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;명장. 기술이 뛰어난 사람을 가리키는 말이죠. 이름난 셰프가 많아진 요즘이지만, 여전히 부엌 뒤편에 머무는 명장들도 있습니다. 당신이 한평생 일궈낸 맛을 찾는 단<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -495,6 +495,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사람들은 목표를 향한 기약 없는 질주보다 작은 성취감에 주목하기 시작했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66432</link>
+            <guid>https://www.bookjournalism.com/books/66432</guid>
+            <pubDate>Wed, 27 Sep 2023 15:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[몸과 머리로 쓰는 극복의 서사, 볼더링]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/584378/w/646/bouldering.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -583,14 +591,6 @@
             <pubDate>Sun, 17 Sep 2023 15:18:00 GMT</pubDate>
             <content:encoded><![CDATA[스톡 시장으로 나가는 버켄스탁]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/581564/w/646/ex230915.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직장인 스트레스와 AI 시대의 데이터 라벨링 노동자, 북저널리즘의 64번째 시리즈 《불안한 어른》에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/66222</link>
-            <guid>https://www.bookjournalism.com/audio/66222</guid>
-            <pubDate>Fri, 15 Sep 2023 08:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 16일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/581329/w/646/thumb_apple.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
