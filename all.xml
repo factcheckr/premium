@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 14:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 15:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,11 +406,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[벽제갈비 : 37년 갈빗집, 부엌의 장인들을 무대 위에 세우다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/832</link>
-            <guid>https://www.longblack.co/note/832</guid>
-            <pubDate>Wed, 27 Sep 2023 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;명장. 기술이 뛰어난 사람을 가리키는 말이죠. 이름난 셰프가 많아진 요즘이지만, 여전히 부엌 뒤편에 머무는 명장들도 있습니다. 당신이 한평생 일궈낸 맛을 찾는 단<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[돈의문박물관마을 : 야외 방탈출과 골목 마켓, 100살 마을이 박물관이 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/833</link>
+            <guid>https://www.longblack.co/note/833</guid>
+            <pubDate>Thu, 28 Sep 2023 15:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;수제 사탕, 전통 떡, 햇밤… 이번 연휴, 서울에 ‘한가위 플리마켓’이 열리는 곳이 있다는 거 아세요? 종로구의 돈의문박물관마을이에요.나지막한 한옥과 건물 40채<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -495,6 +495,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[작은만큼 뾰족하다. 마이크로 트렌드는 거대한 변화의 단서이자 단초다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66418</link>
+            <guid>https://www.bookjournalism.com/books/66418</guid>
+            <pubDate>Thu, 28 Sep 2023 15:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[소음의 시대에 집중을 위한 소리, 싱잉볼]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/584997/w/646/singingbowl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사람들은 목표를 향한 기약 없는 질주보다 작은 성취감에 주목하기 시작했다. (북저널리즘)]]></title>
@@ -583,14 +591,6 @@
             <pubDate>Mon, 18 Sep 2023 18:24:25 GMT</pubDate>
             <content:encoded><![CDATA[잘파 세대의 독수리 타법]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/581935/w/646/ex230918.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이 회사의 행보를 따라가면, 전 세계의 취향과 경제적 고민의 흐름이 보인다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66238</link>
-            <guid>https://www.bookjournalism.com/books/66238</guid>
-            <pubDate>Sun, 17 Sep 2023 15:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[스톡 시장으로 나가는 버켄스탁]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/581564/w/646/ex230915.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
