@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-09-29T21:16:51.797Z</updated>
+    <updated>2023-09-29T22:18:05.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/834</id>
         <link href="https://www.longblack.co/note/834"/>
         <updated>2023-09-29T15:19:09.577Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;&nbsp;추석 송편 드셨나요? 가족과 여행을 떠난 분도 계시겠죠. 저는 부모님 댁으로 내려왔습니다. 김치찌개와 멸치볶음이 놓인 밥상이 반가웠어요.명절이면 자연스럽게 떠오<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K &nbsp;추석 송편 드셨나요? 가족과 여행을 떠난 분도 계시겠죠. 저는 부모님 댁으로 내려왔습니다. 김치찌개와 멸치볶음이 놓인 밥상이 반가웠어요.명절이면 자연스럽게 떠오<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
