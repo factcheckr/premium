@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 14:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 15:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,11 +406,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[돈의문박물관마을 : 야외 방탈출과 골목 마켓, 100살 마을이 박물관이 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/833</link>
-            <guid>https://www.longblack.co/note/833</guid>
-            <pubDate>Thu, 28 Sep 2023 15:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;수제 사탕, 전통 떡, 햇밤… 이번 연휴, 서울에 ‘한가위 플리마켓’이 열리는 곳이 있다는 거 아세요? 종로구의 돈의문박물관마을이에요.나지막한 한옥과 건물 40채<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[소이프 : 열여덟 청년들의 홀로서기 이야기, 디자인이 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/834</link>
+            <guid>https://www.longblack.co/note/834</guid>
+            <pubDate>Fri, 29 Sep 2023 15:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;&nbsp;추석 송편 드셨나요? 가족과 여행을 떠난 분도 계시겠죠. 저는 부모님 댁으로 내려왔습니다. 김치찌개와 멸치볶음이 놓인 밥상이 반가웠어요.명절이면 자연스럽게 떠오<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -495,6 +495,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마이크로 트렌드는 작다. 작은 만큼 뾰족하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66411</link>
+            <guid>https://www.bookjournalism.com/books/66411</guid>
+            <pubDate>Fri, 29 Sep 2023 15:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[23/24 FW Micro Trend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/584063/w/646/all_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아르헨티나의 대선과 오디오북, 북저널리즘의 84번째 시리즈 《한국에서 박사하기》에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -583,14 +591,6 @@
             <pubDate>Wed, 20 Sep 2023 08:24:21 GMT</pubDate>
             <content:encoded><![CDATA[세상을 날씬하게]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582069/w/646/eb230920.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모두가 아마존의 성장은 끝났다고 말한다. 제시의 생각은 다르다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66282</link>
-            <guid>https://www.bookjournalism.com/books/66282</guid>
-            <pubDate>Tue, 19 Sep 2023 18:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[아마존의 네 번째 기둥]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582131/w/646/ex230919.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
