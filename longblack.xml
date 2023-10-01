@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-10-01T14:16:23.785Z</updated>
+    <updated>2023-10-01T15:17:42.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-09-30T15:16:48.420Z</updated>
-        <content type="html"><![CDATA[B가 밑줄 친 송길영 작가의 문장
-
-핵개인이 되려면 전제가 필요합니다. 자기가 원하는 것이 무엇인지  이해하고 있어야 해요. 그 일을 하며 차오르는 기쁨을 느껴본 적이 있어야 해요. 누군가에게 선망되기에 선택한 것이 아니라 그 일을 좋아서 할 때 바로 그 일을 하는<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[여유재순 : 아흔살 작가의 애플 펜슬 드로잉, 삶의 여백을 채색하다]]></title>
+        <id>https://www.longblack.co/note/835</id>
+        <link href="https://www.longblack.co/note/835"/>
+        <updated>2023-10-01T15:16:51.544Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;인스타그램에서 그림 하나를 봤어요. 노을을 배경으로 집 한 채와 나무 여러 그루가 서 있었죠. 쓸쓸한 감정이 들 법도 한 그림인데, 이상하게 따뜻한 느낌이 들었어<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
