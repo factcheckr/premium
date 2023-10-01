@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-10-01T01:26:34.445Z</updated>
+    <updated>2023-10-01T02:30:58.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,9 +10,8 @@
         <id>https://www.longblack.co/weekend</id>
         <link href="https://www.longblack.co/weekend"/>
         <updated>2023-09-30T15:16:48.420Z</updated>
-        <content type="html"><![CDATA[B이 밑줄 친 송길영 작가의 문장
+        <content type="html"><![CDATA[B가 밑줄 친 송길영 작가의 문장
 
-기능을 이야기하는 사람은 당위를 이야기하는 사람을 이길 수가 없어요. 당위에 대한 이야기는 사회적인 수용도가 높기 때문입니다. 더 많은 사람들이 공감하고, 그래서 더 탁월한 이야기가 되는 거예요. 
-&lt;a target="_blan<span class="circle-punctuation"></span>]]></content>
+핵개인이 되려면 전제가 필요합니다. 자기가 원하는 것이 무엇인지  이해하고 있어야 해요. 그 일을 하며 차오르는 기쁨을 느껴본 적이 있어야 해요. 누군가에게 선망되기에 선택한 것이 아니라 그 일을 좋아서 할 때 바로 그 일을 하는<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
