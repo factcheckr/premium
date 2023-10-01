@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 17:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 18:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국의 피노키오와 잠수부가 세계를 흔든다. 한국 게임의 지형도가 바뀌는 순간이다.]]></title>
+            <link>https://www.bookjournalism.com/books/66573</link>
+            <guid>https://www.bookjournalism.com/books/66573</guid>
+            <pubDate>Sun, 01 Oct 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[전환기의 K게임]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/585250/w/646/ex230930.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[선택받고 살아남으려면 더 자극적인 이야기와 이미지가 필요합니다. 그래서 우리 시대의 미디어는 망가져 버렸습니다. 사유와 경험을 담아 전달하는 단단한 그릇이 되지 못하고 조각난 자극만 담긴 비닐봉지로 전락해 버렸죠.]]></title>
             <link>https://www.bookjournalism.com/books/66196</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 21 Sep 2023 16:23:47 GMT</pubDate>
             <content:encoded><![CDATA[축제는 계속되어야 한다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582471/w/646/ex230921.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기술은 건강함이라는 신화를 개인의 몫으로 만든다.]]></title>
-            <link>https://www.bookjournalism.com/books/66297</link>
-            <guid>https://www.bookjournalism.com/books/66297</guid>
-            <pubDate>Wed, 20 Sep 2023 15:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[애플은 정신 건강의 구원자일까?]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582240/w/646/ex230920.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
