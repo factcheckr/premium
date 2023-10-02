@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 14:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 15:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,11 +406,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[여유재순 : 아흔살 작가의 애플 펜슬 드로잉, 삶의 여백을 채색하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/835</link>
-            <guid>https://www.longblack.co/note/835</guid>
-            <pubDate>Sun, 01 Oct 2023 15:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;인스타그램에서 그림 하나를 봤어요. 노을을 배경으로 집 한 채와 나무 여러 그루가 서 있었죠. 쓸쓸한 감정이 들 법도 한 그림인데, 이상하게 따뜻한 느낌이 들었어<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[한동일 : 한국 최초의 바티칸 변호사, 30년 공부로 한계를 넘다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/838</link>
+            <guid>https://www.longblack.co/note/838</guid>
+            <pubDate>Mon, 02 Oct 2023 15:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;‘공부는 시작만 있을 뿐, 끝이 없다’고 하죠. 학교만 졸업하면 해방일 줄 알았건만. 교실 밖은 공부할 것 투성이였죠. 직업 찾는 일부터 사람 사귀는 일, 건강을<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -495,6 +495,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[동네 상권으로 돈 벌기, 당근은 아직 못했지만 카카오는 도전한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66540</link>
+            <guid>https://www.bookjournalism.com/books/66540</guid>
+            <pubDate>Mon, 02 Oct 2023 15:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 우리 동네로 찾아온다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/585118/w/646/culture.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국의 피노키오와 잠수부가 세계를 흔든다. 한국 게임의 지형도가 바뀌는 순간이다. (북저널리즘)]]></title>
@@ -583,14 +591,6 @@
             <pubDate>Fri, 22 Sep 2023 08:23:49 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 23일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583199/w/646/thumb_apple.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옥토버 페스트에서 워키즘(wokeism)이 논란의 도마에 올랐다. 축제는 어떻게 변해가고 있는가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66339</link>
-            <guid>https://www.bookjournalism.com/books/66339</guid>
-            <pubDate>Thu, 21 Sep 2023 16:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[축제는 계속되어야 한다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582471/w/646/ex230921.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
