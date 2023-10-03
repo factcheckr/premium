@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 14:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 15:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,11 +406,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/9b251d6d-e1df-4cfd-97f7-f327ac629ec3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한동일 : 한국 최초의 바티칸 변호사, 30년 공부로 한계를 넘다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/838</link>
-            <guid>https://www.longblack.co/note/838</guid>
-            <pubDate>Mon, 02 Oct 2023 15:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;‘공부는 시작만 있을 뿐, 끝이 없다’고 하죠. 학교만 졸업하면 해방일 줄 알았건만. 교실 밖은 공부할 것 투성이였죠. 직업 찾는 일부터 사람 사귀는 일, 건강을<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[토마스 헤더윅 : 지금 우리에겐, 이야기와 영혼이 깃든 건축이 필요하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/839</link>
+            <guid>https://www.longblack.co/note/839</guid>
+            <pubDate>Tue, 03 Oct 2023 15:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;혹시 가장 좋아하는 건물이 있으신가요? 북촌이나 서촌처럼 좋아하는 장소는 쉽게 떠올라도, 건축물이 떠오르는 사람은 많지 않을 거예요. 비슷비슷한 건물들에 둘러싸여<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -495,6 +495,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오버투어리즘이 도시를 거대한 세트장으로 만들고 있다. 지속 가능한 관광이 필요하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66604</link>
+            <guid>https://www.bookjournalism.com/books/66604</guid>
+            <pubDate>Tue, 03 Oct 2023 15:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[관광객 때문에 못 살겠다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/585875/w/646/society.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동네 상권으로 돈 벌기, 당근은 아직 못했지만 카카오는 도전한다. (북저널리즘)]]></title>
@@ -583,14 +591,6 @@
             <pubDate>Sun, 24 Sep 2023 15:17:27 GMT</pubDate>
             <content:encoded><![CDATA[월터 아이작슨처럼 쓰려면]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583290/w/646/IMG_5775.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라지는 별과 항저우 아시안게임, 북저널리즘의 57번째 시리즈 《중동 라이벌리즘》에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/66384</link>
-            <guid>https://www.bookjournalism.com/audio/66384</guid>
-            <pubDate>Fri, 22 Sep 2023 08:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 23일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583199/w/646/thumb_apple.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
