@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 15:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 16:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[전미자동차노조 파업이 미국 대선 정국을 뒤흔들고 있다. 승자에 따라 우리의 명운도 바뀐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66637</link>
+            <guid>https://www.bookjournalism.com/books/66637</guid>
+            <pubDate>Wed, 04 Oct 2023 16:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[이대로면 바이든이 진다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/586224/w/646/ex.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여성복의 혁신가, 전쟁 스파이, 혹은 저항가. 샤넬이 세계사에 남긴 유산은 패션에 그치지 않는다. 그의 진짜 삶은 어떤 모습이었을까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/66484</link>
             <guid>https://www.bookjournalism.com/books/66484</guid>
@@ -415,14 +423,6 @@
             <pubDate>Wed, 04 Oct 2023 09:20:02 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 23일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583199/w/646/thumb_apple.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옥토버 페스트에서 워키즘(wokeism)이 논란의 도마에 올랐다. 축제는 어떻게 변해가고 있는가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66339</link>
-            <guid>https://www.bookjournalism.com/books/66339</guid>
-            <pubDate>Wed, 04 Oct 2023 09:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[축제는 계속되어야 한다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582471/w/646/ex230921.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
