@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 23:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 01:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조회수 37억 회! 영미권에선 ‘저주의 음료’가 유행 중? 캐릿에만 있는 해외 트렌드]]></title>
+            <link>https://www.careet.net/1189</link>
+            <guid>https://www.careet.net/1189</guid>
+            <pubDate>Thu, 05 Oct 2023 01:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[현지에 사는 Z세대가 아니면 알기 어려운 해외 트렌드 모음]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/905b6757-2d3e-4b60-8389-3ca19078e37f_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“이런 오해는 억울해요!” 사회 초년생이 회사에서 겪은 Z세대에 대한 선입견 5]]></title>
             <link>https://www.careet.net/1191</link>
