@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-10-05T04:22:19.927Z</updated>
+    <updated>2023-10-05T05:18:26.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/843</id>
         <link href="https://www.longblack.co/note/843"/>
         <updated>2023-10-04T15:20:43.635Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C넷플릭스에 「오징어게임」 실사판 예능이 곧 나온대요. 그런데 K가 그러더라고요. “그거 해외 유튜버가 한 적 있는데?” 아, 기억났어요! 크리에이터 이코노미 노트에<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;넷플릭스에 「오징어게임」 실사판 예능이 곧 나온대요. 그런데 K가 그러더라고요. “그거 해외 유튜버가 한 적 있는데?” 아, 기억났어요! 크리에이터 이코노미 노트<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
