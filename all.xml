@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 20:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 21:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -337,6 +337,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[거대 가마솥은 지방 자치가 무력하다는 증거다. 무엇이 지역의 정치를 바꿀 수 있나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66658</link>
+            <guid>https://www.bookjournalism.com/books/66658</guid>
+            <pubDate>Thu, 05 Oct 2023 21:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[괴산 가마솥이 만들어진 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/586726/w/646/politics.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -423,14 +431,6 @@
             <pubDate>Wed, 04 Oct 2023 09:20:02 GMT</pubDate>
             <content:encoded><![CDATA[월터 아이작슨처럼 쓰려면]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583290/w/646/IMG_5775.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라지는 별과 항저우 아시안게임, 북저널리즘의 57번째 시리즈 《중동 라이벌리즘》에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/66384</link>
-            <guid>https://www.bookjournalism.com/audio/66384</guid>
-            <pubDate>Wed, 04 Oct 2023 09:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 23일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583199/w/646/thumb_apple.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
