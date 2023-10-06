@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 23:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 01:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“요즘 뭐가 유행이지” 이미지로 모아보는 분야별 유행템]]></title>
+            <link>https://www.careet.net/1186</link>
+            <guid>https://www.careet.net/1186</guid>
+            <pubDate>Fri, 06 Oct 2023 01:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[남들보다 빠르게 4분기를 준비해 보세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/f884f483-6911-45a2-a516-6eb135259f77_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[조회수 37억 회! 영미권에선 ‘저주의 음료’가 유행 중? 캐릿에만 있는 해외 트렌드]]></title>
             <link>https://www.careet.net/1189</link>
