@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 07:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 08:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -345,6 +345,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[롱코비드와 탕후루, 북저널리즘 시리즈 《노동 4.0》에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/66696</link>
+            <guid>https://www.bookjournalism.com/audio/66696</guid>
+            <pubDate>Fri, 06 Oct 2023 08:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 7일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/586917/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -431,14 +439,6 @@
             <pubDate>Mon, 25 Sep 2023 18:25:05 GMT</pubDate>
             <content:encoded><![CDATA[지배하려는 당원, 개딸]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583792/w/646/ex230925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월터 아이작슨이 쓴 일론 머스크 전기가 화제다. 아이작슨의 글쓰기 비결은 뭘까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66370</link>
-            <guid>https://www.bookjournalism.com/books/66370</guid>
-            <pubDate>Wed, 04 Oct 2023 09:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[월터 아이작슨처럼 쓰려면]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583290/w/646/IMG_5775.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
