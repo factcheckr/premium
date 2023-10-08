@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 14:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 15:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,13 +254,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 07 Oct 2023 15:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[K가 새겨들은 토마스 헤더윅의 문장
-
-“혹자는 ‘다른 사람을 신경 쓰면서 뭔가를 만들면 안 된다’고 말하죠. 그러면 멍청해진다고요. 전 그 말을 믿지 않아요. 사람들이 내가 하는 일을 어떻게 느끼고, 보고, 경험할지 상상하세요. 거기서 영감을 얻으세요. 창작에 깊이<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[디올연구소 : “불편함은 또 다른 가능성”, 누구에게나 선명한 글자를 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/846</link>
+            <guid>https://www.longblack.co/note/846</guid>
+            <pubDate>Sun, 08 Oct 2023 15:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B세종대왕은 1443년 훈민정음을 만들었습니다. 백성들을 위해서였죠. 글을 읽지 못해 억울한 일을 당하거나, 배움에서 소외되지 않도록요.&nbsp;2023년 대한민국의 문맹률<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>

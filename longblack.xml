@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-10-08T14:16:07.521Z</updated>
+    <updated>2023-10-08T15:18:04.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-10-07T15:17:05.574Z</updated>
-        <content type="html"><![CDATA[K가 새겨들은 토마스 헤더윅의 문장
-
-“혹자는 ‘다른 사람을 신경 쓰면서 뭔가를 만들면 안 된다’고 말하죠. 그러면 멍청해진다고요. 전 그 말을 믿지 않아요. 사람들이 내가 하는 일을 어떻게 느끼고, 보고, 경험할지 상상하세요. 거기서 영감을 얻으세요. 창작에 깊이<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[디올연구소 : “불편함은 또 다른 가능성”, 누구에게나 선명한 글자를 만들다]]></title>
+        <id>https://www.longblack.co/note/846</id>
+        <link href="https://www.longblack.co/note/846"/>
+        <updated>2023-10-08T15:17:11.477Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B세종대왕은 1443년 훈민정음을 만들었습니다. 백성들을 위해서였죠. 글을 읽지 못해 억울한 일을 당하거나, 배움에서 소외되지 않도록요.&nbsp;2023년 대한민국의 문맹률<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
