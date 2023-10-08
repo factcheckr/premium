@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 21:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 22:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -345,6 +345,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[제577돌, 한글은 발전하고 변화한다. 타이포그래피는 예술이자 브랜딩이고 솔루션이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66651</link>
+            <guid>https://www.bookjournalism.com/books/66651</guid>
+            <pubDate>Sun, 08 Oct 2023 22:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[당신의 읽기를 돕는 디자인]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587590/w/646/work.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[롱코비드와 탕후루, 북저널리즘 시리즈 《노동 4.0》에 관해 이야기합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/66696</link>
             <guid>https://www.bookjournalism.com/audio/66696</guid>
@@ -431,14 +439,6 @@
             <pubDate>Fri, 29 Sep 2023 08:23:28 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 30일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583923/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬덤 당원들은 정당이 아니라 한 명의 정치인을 선택한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66439</link>
-            <guid>https://www.bookjournalism.com/books/66439</guid>
-            <pubDate>Mon, 25 Sep 2023 18:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[지배하려는 당원, 개딸]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583792/w/646/ex230925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
