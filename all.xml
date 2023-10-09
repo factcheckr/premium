@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 14:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 15:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,11 +254,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[디올연구소 : “불편함은 또 다른 가능성”, 누구에게나 선명한 글자를 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/846</link>
-            <guid>https://www.longblack.co/note/846</guid>
-            <pubDate>Sun, 08 Oct 2023 15:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B세종대왕은 1443년 훈민정음을 만들었습니다. 백성들을 위해서였죠. 글을 읽지 못해 억울한 일을 당하거나, 배움에서 소외되지 않도록요.&nbsp;2023년 대한민국의 문맹률<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[데우스 엑스 마키나 : 예순 살 히피가 만든 브랜드,  문화 그 자체가 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/847</link>
+            <guid>https://www.longblack.co/note/847</guid>
+            <pubDate>Mon, 09 Oct 2023 15:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L여기, “우리가 파는 건 철학”이라고 말하는 브랜드가 있어. 매장을 스토어가 아닌 템플temple, 즉 사원이라고 부르는 곳이지. 시드니, 밀라노, 발리, 도쿄, <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -343,6 +343,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리는 매일 플라스틱을 먹는다. 어떻게 처리할지보다 언제까지 만들지가 중요할 수도 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66708</link>
+            <guid>https://www.bookjournalism.com/books/66708</guid>
+            <pubDate>Mon, 09 Oct 2023 15:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[플라스틱을 버리는 방법]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587030/w/646/climate.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제577돌, 한글은 발전하고 변화한다. 타이포그래피는 예술이자 브랜딩이고 솔루션이다. (북저널리즘)]]></title>
@@ -431,14 +439,6 @@
             <pubDate>Fri, 29 Sep 2023 15:19:54 GMT</pubDate>
             <content:encoded><![CDATA[23/24 FW Micro Trend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/584063/w/646/all_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아르헨티나의 대선과 오디오북, 북저널리즘의 84번째 시리즈 《한국에서 박사하기》에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/66448</link>
-            <guid>https://www.bookjournalism.com/audio/66448</guid>
-            <pubDate>Fri, 29 Sep 2023 08:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 9월 30일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583923/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
