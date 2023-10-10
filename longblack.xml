@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-10-10T15:20:34.563Z</updated>
+    <updated>2023-10-10T16:25:33.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/848</id>
         <link href="https://www.longblack.co/note/848"/>
         <updated>2023-10-10T15:19:40.926Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C제가 수집하는 독특한 잡지가 있어요. 패키지가 검은색 쓰레기봉투, 티슈 갑, 석유통이에요! 또 종이비행기, 카세트테이프, 나뭇가지가 잡지에 붙어있기도 해요.&nbsp;이 잡<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;제가 수집하는 독특한 잡지가 있어요. 패키지가 검은색 쓰레기봉투, 티슈 갑, 석유통이에요! 또 종이비행기, 카세트테이프, 나뭇가지가 잡지에 붙어있기도 해요.&nbsp;이 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

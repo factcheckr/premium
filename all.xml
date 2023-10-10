@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 15:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 16:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,7 +266,7 @@
             <link>https://www.longblack.co/note/848</link>
             <guid>https://www.longblack.co/note/848</guid>
             <pubDate>Tue, 10 Oct 2023 15:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C제가 수집하는 독특한 잡지가 있어요. 패키지가 검은색 쓰레기봉투, 티슈 갑, 석유통이에요! 또 종이비행기, 카세트테이프, 나뭇가지가 잡지에 붙어있기도 해요.&nbsp;이 잡<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;제가 수집하는 독특한 잡지가 있어요. 패키지가 검은색 쓰레기봉투, 티슈 갑, 석유통이에요! 또 종이비행기, 카세트테이프, 나뭇가지가 잡지에 붙어있기도 해요.&nbsp;이 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
