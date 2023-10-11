@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 14:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 15:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,11 +270,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[러비시 팸진 : 사이드프로젝트로 만든 가족잡지, 광고제와 매니아의 선택을 받다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/848</link>
-            <guid>https://www.longblack.co/note/848</guid>
-            <pubDate>Tue, 10 Oct 2023 15:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;제가 수집하는 독특한 잡지가 있어요. 패키지가 검은색 쓰레기봉투, 티슈 갑, 석유통이에요! 또 종이비행기, 카세트테이프, 나뭇가지가 잡지에 붙어있기도 해요.&nbsp;이 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[K드라마 마켓 리포트 : “한국이 만들었지만 넷플릭스 것” 딜레마를 분석하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/849</link>
+            <guid>https://www.longblack.co/note/849</guid>
+            <pubDate>Wed, 11 Oct 2023 15:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;추석 연휴에 「무빙」 정주행했어. 와우, 너무 재밌더라. 요즘 넷플릭스·디즈니플러스를 한국 드라마가 접수한 거 알지? 넷플릭스 역대 인기 프로그램 100위에서 1<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -359,6 +359,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전 세계가 중동 전쟁에 휘말리고 있다. 이 와중에 한국이 언급된다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66792</link>
+            <guid>https://www.bookjournalism.com/books/66792</guid>
+            <pubDate>Wed, 11 Oct 2023 15:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[하마스와 이스라엘의 전쟁]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588011/w/646/ex231011.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무모하고 눈부신 산악계의 거장 라인홀트 메스너의 기네스 기록이 박탈당했다. 정말로 중요한 것은 진실일까, 도전 정신일까? (북저널리즘)]]></title>
@@ -447,14 +455,6 @@
             <pubDate>Tue, 03 Oct 2023 15:21:57 GMT</pubDate>
             <content:encoded><![CDATA[관광객 때문에 못 살겠다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587937/w/646/ex231004.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[동네 상권으로 돈 벌기, 당근은 아직 못했지만 카카오는 도전한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66540</link>
-            <guid>https://www.bookjournalism.com/books/66540</guid>
-            <pubDate>Mon, 02 Oct 2023 15:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 우리 동네로 찾아온다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/585118/w/646/culture.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
