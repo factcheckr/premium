@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 01:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 02:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“이게 왜 트렌드?” 마이크로 트렌드 시대에 대비하는 법]]></title>
+            <link>https://www.careet.net/1195</link>
+            <guid>https://www.careet.net/1195</guid>
+            <pubDate>Wed, 11 Oct 2023 02:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 트렌드 찾기 너무 어려워졌다고 생각하는 사람 클릭!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/4400bff0-295f-4608-9214-de64a48721af_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[회사 후배한테 ‘인스타 친구’ 신청해도 되나요?]]></title>
             <link>https://www.careet.net/1197</link>

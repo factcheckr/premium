@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 01:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 02:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587860/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[미국은 연봉 1억 3000만 원의 저숙련 노동자를 ‘급구’한다. 여성은 제외다.]]></title>
             <link>https://www.bookjournalism.com/books/66759</link>
@@ -14,14 +22,6 @@
             <pubDate>Tue, 10 Oct 2023 15:20:24 GMT</pubDate>
             <content:encoded><![CDATA[여성은 일자리에서 어떻게 배제되는가]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587815/w/646/ex231010_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587627/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[우리는 매일 플라스틱을 먹는다. 어떻게 처리할지보다 언제까지 만들지가 중요할 수도 있다.]]></title>
