@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 16:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 17:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,6 +369,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[작은 책상의 소박한 공연, 타이니 데스크가 한국에 들어왔다. 오리지널과는 다르다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66811</link>
+            <guid>https://www.bookjournalism.com/books/66811</guid>
+            <pubDate>Thu, 12 Oct 2023 17:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[작지 않은 한국의 타이니 데스크 콘서트]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588409/w/646/ex231012.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -455,14 +463,6 @@
             <pubDate>Wed, 04 Oct 2023 08:24:21 GMT</pubDate>
             <content:encoded><![CDATA[샤넬, 전쟁의 비밀을 품다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/586193/w/646/eb230927.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오버투어리즘이 도시를 거대한 세트장으로 만들고 있다. 지속 가능한 관광이 필요하다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66604</link>
-            <guid>https://www.bookjournalism.com/books/66604</guid>
-            <pubDate>Tue, 03 Oct 2023 15:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[관광객 때문에 못 살겠다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587937/w/646/ex231004.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
