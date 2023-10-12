@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 23:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 01:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[데이터] Z세대 31.5% ‘이것’이 있어야 직장생활에 안정감을 느낀다]]></title>
+            <link>https://www.careet.net/1196</link>
+            <guid>https://www.careet.net/1196</guid>
+            <pubDate>Thu, 12 Oct 2023 01:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대는 ‘조기 퇴근’을, 86세대는 ‘식대 지원’을!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/7086677b-2a60-402d-80b0-ff37b6c64c34_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“이게 왜 트렌드?” 마이크로 트렌드 시대에 대비하는 법]]></title>
             <link>https://www.careet.net/1195</link>
