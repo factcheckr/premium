@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-10-13T14:18:50.091Z</updated>
+    <updated>2023-10-13T15:20:17.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[작가 정보라 : 나의 이야기엔 교훈이 없다, 오싹한 즐거움만 있을 뿐]]></title>
-        <id>https://www.longblack.co/note/851</id>
-        <link href="https://www.longblack.co/note/851"/>
-        <updated>2023-10-12T15:19:42.193Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;한국 작가가 2023년 전미도서상National Book Award 번역 부문 최종 후보에 올랐다는 소식이 들려왔어요. 지난해 영국 부커상Man Booker Pr<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[이수부 키친 : 셰프가 스스로를 돌보며 요리하는, 원테이블 식당입니다]]></title>
+        <id>https://www.longblack.co/note/850</id>
+        <link href="https://www.longblack.co/note/850"/>
+        <updated>2023-10-13T15:19:24.931Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K &nbsp;긴 연휴 뒤 보낸 한주. 몸은 부쩍 고단했고, 마음은 평소보다 분주했어요. 이번 주말, 하루만은 차분하게 보내야겠습니다. 마음의 보양 차 예약한 식당이 있어요.<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

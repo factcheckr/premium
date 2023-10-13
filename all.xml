@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 14:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 15:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[작가 정보라 : 나의 이야기엔 교훈이 없다, 오싹한 즐거움만 있을 뿐 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/851</link>
-            <guid>https://www.longblack.co/note/851</guid>
-            <pubDate>Thu, 12 Oct 2023 15:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;한국 작가가 2023년 전미도서상National Book Award 번역 부문 최종 후보에 올랐다는 소식이 들려왔어요. 지난해 영국 부커상Man Booker Pr<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[이수부 키친 : 셰프가 스스로를 돌보며 요리하는, 원테이블 식당입니다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/850</link>
+            <guid>https://www.longblack.co/note/850</guid>
+            <pubDate>Fri, 13 Oct 2023 15:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K &nbsp;긴 연휴 뒤 보낸 한주. 몸은 부쩍 고단했고, 마음은 평소보다 분주했어요. 이번 주말, 하루만은 차분하게 보내야겠습니다. 마음의 보양 차 예약한 식당이 있어요.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
