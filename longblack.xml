@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-10-15T14:16:44.586Z</updated>
+    <updated>2023-10-15T15:17:46.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-10-14T15:17:07.916Z</updated>
-        <content type="html"><![CDATA[C가 좋아한 판 림의 문장
-
-“번아웃을 경험해 본 적이 없어요. 제가 사랑하는 일을 하니까요. 아내를 사랑하는 것에 번아웃을 느끼지는 않잖아요. 오히려 그 반대죠. 매일, 매년 아내에 대한 사랑은 더 깊어지고 강렬해져요. 업무도 마찬가지예요. 뭔가를 사랑한다면 번아<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[박진표 : 65만 팔로워의 아이즈매거진, MZ의 새로운 눈이 되다]]></title>
+        <id>https://www.longblack.co/note/852</id>
+        <link href="https://www.longblack.co/note/852"/>
+        <updated>2023-10-15T15:16:53.555Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;롱블랙 피플은 트렌드를 어떻게 파악해? 난 인스타그램에서 아이즈매거진eyesmag을 팔로우하고 있어. 눈길 끄는 소식부터 알면 유용한 정보까지, 웬만한 뉴스는 다<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

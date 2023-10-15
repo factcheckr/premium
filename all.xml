@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 14:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 15:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,13 +286,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 14 Oct 2023 15:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[C가 좋아한 판 림의 문장
-
-“번아웃을 경험해 본 적이 없어요. 제가 사랑하는 일을 하니까요. 아내를 사랑하는 것에 번아웃을 느끼지는 않잖아요. 오히려 그 반대죠. 매일, 매년 아내에 대한 사랑은 더 깊어지고 강렬해져요. 업무도 마찬가지예요. 뭔가를 사랑한다면 번아<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[박진표 : 65만 팔로워의 아이즈매거진, MZ의 새로운 눈이 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/852</link>
+            <guid>https://www.longblack.co/note/852</guid>
+            <pubDate>Sun, 15 Oct 2023 15:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;롱블랙 피플은 트렌드를 어떻게 파악해? 난 인스타그램에서 아이즈매거진eyesmag을 팔로우하고 있어. 눈길 끄는 소식부터 알면 유용한 정보까지, 웬만한 뉴스는 다<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -377,6 +375,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노벨 평화상 수상자 나르게스 모하마디의 표현은 사건이다. 표현은 언제 사건이 될까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66822</link>
+            <guid>https://www.bookjournalism.com/books/66822</guid>
+            <pubDate>Sun, 15 Oct 2023 15:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[노벨 평화상의 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588845/w/646/ex231013.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숏폼과 넷플릭스, 위기의 KBS에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -465,14 +471,6 @@
             <pubDate>Thu, 05 Oct 2023 21:16:54 GMT</pubDate>
             <content:encoded><![CDATA[괴산 가마솥이 만들어진 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587706/w/646/ex231006.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전미자동차노조 파업이 미국 대선 정국을 뒤흔들고 있다. 승자에 따라 우리의 명운도 바뀐다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66637</link>
-            <guid>https://www.bookjournalism.com/books/66637</guid>
-            <pubDate>Wed, 04 Oct 2023 16:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[이대로면 바이든이 진다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587940/w/646/ex231005.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
