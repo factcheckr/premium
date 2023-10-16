@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 23:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 01:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘이어북’이 뭐길래 이렇게 난리야? 매출 94억 원 달성한 AI 필터의 비밀]]></title>
+            <link>https://www.careet.net/1198</link>
+            <guid>https://www.careet.net/1198</guid>
+            <pubDate>Mon, 16 Oct 2023 01:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 칭찬한 이주의 일 잘한 브랜드 3]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/e001c22f-5a5a-4939-93a3-0b9e410bed39_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대는 지금 ‘현생’ 챌린지 중! 나만 모르는 이주의 유행템 4]]></title>
             <link>https://www.careet.net/1199</link>
