@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 14:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 15:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,11 +294,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[박진표 : 65만 팔로워의 아이즈매거진, MZ의 새로운 눈이 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/852</link>
-            <guid>https://www.longblack.co/note/852</guid>
-            <pubDate>Sun, 15 Oct 2023 15:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;롱블랙 피플은 트렌드를 어떻게 파악해? 난 인스타그램에서 아이즈매거진eyesmag을 팔로우하고 있어. 눈길 끄는 소식부터 알면 유용한 정보까지, 웬만한 뉴스는 다<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[디스이즈네버댓 : 14년째 힙한 패션 브랜드, 내일의 클래식을 꿈꾸다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/853</link>
+            <guid>https://www.longblack.co/note/853</guid>
+            <pubDate>Mon, 16 Oct 2023 15:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B요즘 하루 한 번은 마주치는 로고가 있습니다. thisisneverthat. 띄어쓰기도 없는 이 영문구가 적힌 후디나 맨투맨이 자주 보여요.&nbsp;패션 브랜드 디스이즈네<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -383,6 +383,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[승부사, 구영배 대표가 돌아왔다. 이번에는 보따리상의 디지털화다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66885</link>
+            <guid>https://www.bookjournalism.com/books/66885</guid>
+            <pubDate>Mon, 16 Oct 2023 15:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[소비의 방법을 바꾼 사람]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588967/w/646/ex231016.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -471,14 +479,6 @@
             <pubDate>Fri, 06 Oct 2023 08:23:58 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월 7일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/586917/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거대 가마솥은 지방 자치가 무력하다는 증거다. 무엇이 지역의 정치를 바꿀 수 있나? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66658</link>
-            <guid>https://www.bookjournalism.com/books/66658</guid>
-            <pubDate>Thu, 05 Oct 2023 21:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[괴산 가마솥이 만들어진 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587706/w/646/ex231006.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
