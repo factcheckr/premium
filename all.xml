@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 05:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 06:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -462,7 +462,7 @@
             <guid>https://www.bookjournalism.com/books/66708</guid>
             <pubDate>Mon, 09 Oct 2023 15:20:49 GMT</pubDate>
             <content:encoded><![CDATA[플라스틱을 버리는 방법]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587030/w/646/climate.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/589063/w/646/ex231009.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[권력이 욕망하는 미디어, 공영 방송 KBS가 힘을 잃어 간다. 다시 시민을 위한 방송이 되기 위해 KBS에는 무엇이 필요한가? (북저널리즘)]]></title>
