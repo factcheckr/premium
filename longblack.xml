@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-10-16T23:19:02.525Z</updated>
+    <updated>2023-10-17T01:18:37.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/853</id>
         <link href="https://www.longblack.co/note/853"/>
         <updated>2023-10-16T15:18:52.317Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B요즘 하루 한 번은 마주치는 로고가 있습니다. thisisneverthat. 띄어쓰기도 없는 이 영문구가 적힌 후디나 맨투맨이 자주 보여요.&nbsp;패션 브랜드 디스이즈네<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;요즘 하루 한 번은 마주치는 로고가 있습니다. thisisneverthat. 띄어쓰기도 없는 이 영문구가 적힌 후디나 맨투맨이 자주 보여요.&nbsp;패션 브랜드 디스이즈<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
