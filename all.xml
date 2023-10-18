@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 07:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 08:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -401,6 +401,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이스라엘과 팔레스타인은 왜 싸우는가. 이·팔 100년 전쟁은 드레퓌스 사건에서 시작한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/66950</link>
+            <guid>https://www.bookjournalism.com/books/66950</guid>
+            <pubDate>Wed, 18 Oct 2023 08:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[100년 전쟁의 기원이 된 세기의 재판]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590299/w/646/eb231018.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -487,14 +495,6 @@
             <pubDate>Tue, 10 Oct 2023 01:16:55 GMT</pubDate>
             <content:encoded><![CDATA[KBS 죽이기]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587929/w/646/101_KBS.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제577돌, 한글은 발전하고 변화한다. 타이포그래피는 예술이자 브랜딩이고 솔루션이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66651</link>
-            <guid>https://www.bookjournalism.com/books/66651</guid>
-            <pubDate>Sun, 08 Oct 2023 22:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[당신의 읽기를 돕는 디자인]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588257/w/646/ex231009_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
