@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 14:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 15:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,11 +318,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김도영 : 오픈런하는 과일 티셔츠, 좋아하는 일이 브랜드가 되기까지 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/855</link>
-            <guid>https://www.longblack.co/note/855</guid>
-            <pubDate>Wed, 18 Oct 2023 15:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;하얀색 다마스에서 망사 조끼를 입은 청년들이 내려요. 빨간색 과일 바구니를 꺼내죠. 과일을 파나보다 했는데, 바구니 안에는 돌돌 말아놓은 티셔츠만 보여요. 오픈 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[문승지 : ‘제로웨이스트 가구​’로, COS와 블루보틀, 덴마크 왕실을 사로잡다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/856</link>
+            <guid>https://www.longblack.co/note/856</guid>
+            <pubDate>Thu, 19 Oct 2023 15:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;덴마크 사람들은 첫 월급으로 의자를 산다고 해요. ‘몸을 편히 둘 곳’의 가치를 누구보다 잘 알기 때문이래요.&nbsp;덴마크 왕실 국고에 보관된 한국 디자이너의 의자가 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -407,6 +407,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울 강서구청장 보궐 선거에서 국민의힘이 참패했다. 대통령의 패배다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67010</link>
+            <guid>https://www.bookjournalism.com/books/67010</guid>
+            <pubDate>Thu, 19 Oct 2023 15:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[대통령이 졌다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590539/w/646/exx231019.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -495,14 +503,6 @@
             <pubDate>Tue, 10 Oct 2023 15:20:24 GMT</pubDate>
             <content:encoded><![CDATA[여성은 일자리에서 어떻게 배제되는가]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587815/w/646/ex231010_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 매일 플라스틱을 먹는다. 어떻게 처리할지보다 언제까지 만들지가 중요할 수도 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66708</link>
-            <guid>https://www.bookjournalism.com/books/66708</guid>
-            <pubDate>Mon, 09 Oct 2023 15:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[플라스틱을 버리는 방법]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/589063/w/646/ex231009.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
