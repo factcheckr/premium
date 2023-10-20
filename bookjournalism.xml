@@ -4,24 +4,24 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 23:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 01:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[서울 강서구청장 보궐 선거에서 국민의힘이 참패했다. 대통령의 패배다.]]></title>
-            <link>https://www.bookjournalism.com/books/67010</link>
-            <guid>https://www.bookjournalism.com/books/67010</guid>
-            <pubDate>Thu, 19 Oct 2023 15:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[대통령이 졌다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590539/w/646/exx231019.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
             <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590349/w/646/earth.gif" length="0" type="image/gif"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590588/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[보궐 선거 패배 이후 여당이 쇄신 작업을 시작했다. 여당은 왜 졌을까. 패배 과정을 복기하면 쇄신의 방향이 나온다.]]></title>
+            <link>https://www.bookjournalism.com/books/67010</link>
+            <guid>https://www.bookjournalism.com/books/67010</guid>
+            <pubDate>Thu, 19 Oct 2023 15:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[대통령이 졌다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590586/w/646/exx231019.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[미국자연사박물관이 과거를 반성한다. 우리도 우리의 현재를 성찰해야 한다.]]></title>

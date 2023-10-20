@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 23:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 01:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굿즈 나왔다 하면 품절! ‘펭수’의 뒤를 잇는 요즘 인기 IP는?]]></title>
+            <link>https://www.careet.net/1205</link>
+            <guid>https://www.careet.net/1205</guid>
+            <pubDate>Fri, 20 Oct 2023 01:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[바오 가족 굿즈부터 진돌까지. Z세대가 꼽은 이주의 유행템 3]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/77a2fd17-fbef-4cde-98cb-1849f6653543_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 굿즈의 시대! 23년차 굿즈 전문 기업 텐바이텐이 예측하는 2024 트렌드]]></title>
             <link>https://www.careet.net/1193</link>
