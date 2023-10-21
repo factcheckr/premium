@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 14:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 15:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,11 +326,15 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[기회의 심리학 : ‘운’을 ‘기회’로 만드는 사람의 뇌는 무엇이 다른가 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/858</link>
-            <guid>https://www.longblack.co/note/858</guid>
-            <pubDate>Fri, 20 Oct 2023 15:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;롱블랙 노트 속 인물들이 공통적으로 하는 말이 있습니다. “운이 좋았다”는 겁니다. 자연주의 정원의 대가로 꼽히는 베케의 김봉찬 대표도 이렇게 말했죠.&nbsp;“전 운<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 21 Oct 2023 15:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[B가 김명깊게 읽은 문승지의 문장    
+
+“10년간 잠도 잘 못 자고… 솔직히 많이 울었어요. 스물두 살에 갑자기 유명해졌는데, 실력이 없으면 아무것도 못 하는 걸 알고 고통스러웠죠. 후배들에게 묻곤 해요. ‘울고 싶을 만큼 간절히 디자인을 하고 싶냐’고.”
+
+<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
