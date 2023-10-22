@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 14:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 15:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,15 +326,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[B가 김명깊게 읽은 문승지의 문장    
-
-“10년간 잠도 잘 못 자고… 솔직히 많이 울었어요. 스물두 살에 갑자기 유명해졌는데, 실력이 없으면 아무것도 못 하는 걸 알고 고통스러웠죠. 후배들에게 묻곤 해요. ‘울고 싶을 만큼 간절히 디자인을 하고 싶냐’고.”
-
-<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[코니 : 120만개 판매 아기띠 브랜드의 흑자 성장 전략, 재무제표로 읽다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/859</link>
+            <guid>https://www.longblack.co/note/859</guid>
+            <pubDate>Sun, 22 Oct 2023 15:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L친구가 아기를 낳았어. 아기띠를 선물해 주고 싶었지. 육아 필수템이잖아. 폭풍 검색하는데 눈에 띄는 브랜드가 있더라.코니Konny. 아기띠가 독특하게 생겼어. 어깨<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -419,6 +415,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[은행의 계절이 돌아왔다. 악취 민원이 폭주한다. 나무가 뽑혀 나간다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67050</link>
+            <guid>https://www.bookjournalism.com/books/67050</guid>
+            <pubDate>Sun, 22 Oct 2023 15:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[은행나무 수난사]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/591016/w/646/ex231020.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[저물어 가는 담배 산업, 가짜 투자 광고에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -507,14 +511,6 @@
             <pubDate>Wed, 11 Oct 2023 15:20:15 GMT</pubDate>
             <content:encoded><![CDATA[하마스와 이스라엘의 전쟁]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588011/w/646/ex231011.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무모하고 눈부신 산악계의 거장 라인홀트 메스너의 기네스 기록이 박탈당했다. 정말로 중요한 것은 진실일까, 도전 정신일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66755</link>
-            <guid>https://www.bookjournalism.com/books/66755</guid>
-            <pubDate>Wed, 11 Oct 2023 08:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[산 사람, 라인홀트 메스너]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587945/w/646/eb231011_thm.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
