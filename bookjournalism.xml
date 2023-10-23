@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 14:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 15:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[의사들에게 돈이 전부는 아니다. 지역과 필수과를 살릴 방도가 여기에 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/67128</link>
+            <guid>https://www.bookjournalism.com/books/67128</guid>
+            <pubDate>Mon, 23 Oct 2023 15:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[의사 정원 확대 논란]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/592024/w/646/ex231023.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 12 Oct 2023 17:18:14 GMT</pubDate>
             <content:encoded><![CDATA[작지 않은 한국의 타이니 데스크 콘서트]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588409/w/646/ex231012.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계가 중동 전쟁에 휘말리고 있다. 이 와중에 한국이 언급된다.]]></title>
-            <link>https://www.bookjournalism.com/books/66792</link>
-            <guid>https://www.bookjournalism.com/books/66792</guid>
-            <pubDate>Wed, 11 Oct 2023 15:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[하마스와 이스라엘의 전쟁]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588011/w/646/ex231011.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

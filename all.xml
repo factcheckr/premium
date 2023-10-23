@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 14:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 15:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,11 +334,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[코니 : 120만개 판매 아기띠 브랜드의 흑자 성장 전략, 재무제표로 읽다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/859</link>
-            <guid>https://www.longblack.co/note/859</guid>
-            <pubDate>Sun, 22 Oct 2023 15:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L친구가 아기를 낳았어. 아기띠를 선물해 주고 싶었지. 육아 필수템이잖아. 폭풍 검색하는데 눈에 띄는 브랜드가 있더라.코니Konny. 아기띠가 독특하게 생겼어. 어깨<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[저스트절크 : 세계 1위 댄스팀, 투지와 투자로 100년 팀을 꿈꾸다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/860</link>
+            <guid>https://www.longblack.co/note/860</guid>
+            <pubDate>Mon, 23 Oct 2023 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C &nbsp;팔을 뻗은 각도. 다리를 들어 올리는 속도. 심지어 손가락 모양까지. 모두 자로 잰 듯 똑같아요. 갑자기 무슨 말이냐고요? 바로 댄스팀 저스트절크Just Jer<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -423,6 +423,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[의사들에게 돈이 전부는 아니다. 지역과 필수과를 살릴 방도가 여기에 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67128</link>
+            <guid>https://www.bookjournalism.com/books/67128</guid>
+            <pubDate>Mon, 23 Oct 2023 15:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[의사 정원 확대 논란]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/592024/w/646/ex231023.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -511,14 +519,6 @@
             <pubDate>Thu, 12 Oct 2023 17:18:14 GMT</pubDate>
             <content:encoded><![CDATA[작지 않은 한국의 타이니 데스크 콘서트]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588409/w/646/ex231012.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계가 중동 전쟁에 휘말리고 있다. 이 와중에 한국이 언급된다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66792</link>
-            <guid>https://www.bookjournalism.com/books/66792</guid>
-            <pubDate>Wed, 11 Oct 2023 15:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[하마스와 이스라엘의 전쟁]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588011/w/646/ex231011.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
