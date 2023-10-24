@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 21:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 22:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,6 +433,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[빈대가 출몰했다는 소식이 전국에서 들려온다. 공포가 퍼진다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67147</link>
+            <guid>https://www.bookjournalism.com/books/67147</guid>
+            <pubDate>Tue, 24 Oct 2023 22:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[빈대가 나타났다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/592266/w/646/ex231024.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -519,14 +527,6 @@
             <pubDate>Fri, 13 Oct 2023 08:24:16 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월 14일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588744/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작은 책상의 소박한 공연, 타이니 데스크가 한국에 들어왔다. 오리지널과는 다르다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66811</link>
-            <guid>https://www.bookjournalism.com/books/66811</guid>
-            <pubDate>Thu, 12 Oct 2023 17:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[작지 않은 한국의 타이니 데스크 콘서트]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588409/w/646/ex231012.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
