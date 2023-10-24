@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 02:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 03:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대학생 31.9%는 캠퍼스 이벤트 부스에 절대 참여하지 않는다, 그 이유는?]]></title>
+            <link>https://www.careet.net/1204</link>
+            <guid>https://www.careet.net/1204</guid>
+            <pubDate>Tue, 24 Oct 2023 03:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[캠퍼스 이벤트 부스, 과연 홍보 효과가 있을까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/36768c21-b671-4ed2-82b0-d32889508f0e_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[경쟁사 서비스 종료를 기회로! 신규 유저와 브랜드 이미지 모두 챙긴 브랜드]]></title>
             <link>https://www.careet.net/1208</link>
