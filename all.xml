@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 14:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 15:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,11 +350,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[잘파 리포트 : ‘Z+Alpha’, 비즈니스 키즈가 바꿀 글로벌 마케팅 트렌드 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/861</link>
-            <guid>https://www.longblack.co/note/861</guid>
-            <pubDate>Tue, 24 Oct 2023 15:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;세상에! 아날로그 시계를 못 읽는 십 대 아이들이 많대. 스마트폰 화면에 숫자로 뜨니까, 분침 시계를 읽을 필요가 없다는 거지.잘파Zalpha세대. Z세대와 알파<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[USM : 세계 최초 모듈 가구,  50년 역사의 세련된 고전이 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/862</link>
+            <guid>https://www.longblack.co/note/862</guid>
+            <pubDate>Wed, 25 Oct 2023 15:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 BUSM이란 스위스 가구 브랜드를 아시나요? 이름이 좀 낯선 분이라도, 막상 보면 눈에 익은 가구일 겁니다. 크롬과 스틸 소재의 둥근 파이프 프레임, 노랑·파랑 등 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -439,6 +439,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소가 아닌, 사람이 바이러스를 옮긴다. 접근법은 바뀌어야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67225</link>
+            <guid>https://www.bookjournalism.com/books/67225</guid>
+            <pubDate>Wed, 25 Oct 2023 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[살처분은 유일한 답일 수 없다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/593917/w/646/ex231025.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -527,14 +535,6 @@
             <pubDate>Sun, 15 Oct 2023 15:17:37 GMT</pubDate>
             <content:encoded><![CDATA[노벨 평화상의 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588845/w/646/ex231013.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숏폼과 넷플릭스, 위기의 KBS에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/66866</link>
-            <guid>https://www.bookjournalism.com/audio/66866</guid>
-            <pubDate>Fri, 13 Oct 2023 08:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 14일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588744/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
