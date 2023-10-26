@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 14:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 15:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대규모 전세 사기의 공범은 국가다. 전세자금대출제도에 문제가 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/67266</link>
+            <guid>https://www.bookjournalism.com/books/67266</guid>
+            <pubDate>Thu, 26 Oct 2023 15:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[전세 사기의 방법]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595169/w/646/ex231026.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 16 Oct 2023 15:19:36 GMT</pubDate>
             <content:encoded><![CDATA[소비의 방법을 바꾼 사람]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588967/w/646/ex231016.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노벨 평화상 수상자 나르게스 모하마디의 표현은 사건이다. 표현은 언제 사건이 될까?]]></title>
-            <link>https://www.bookjournalism.com/books/66822</link>
-            <guid>https://www.bookjournalism.com/books/66822</guid>
-            <pubDate>Sun, 15 Oct 2023 15:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[노벨 평화상의 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588845/w/646/ex231013.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
