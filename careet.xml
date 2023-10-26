@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 23:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 01:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 ‘이거’ 들어가면 완판이라고? 디자인 트렌드 7]]></title>
+            <link>https://www.careet.net/1201</link>
+            <guid>https://www.careet.net/1201</guid>
+            <pubDate>Thu, 26 Oct 2023 01:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 어떤 굿즈에 기꺼이 지갑을 여는지 알고 싶은 분 주목!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/49ee8529-6ee5-4ffd-82f8-cb99f16b20b5_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[웬만한 팝업스토어보다 낫다고? Z세대가 ‘생일카페’ 가는 이유]]></title>
             <link>https://www.careet.net/1190</link>
