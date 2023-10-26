@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-10-26T09:19:26.261Z</updated>
+    <updated>2023-10-26T10:20:34.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/862</id>
         <link href="https://www.longblack.co/note/862"/>
         <updated>2023-10-25T15:19:37.735Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;&nbsp;USM이란 스위스 가구 브랜드를 아시나요? 이름이 좀 낯선 분이라도, 막상 보면 눈에 익은 가구일 겁니다. 크롬과 스틸 소재의 둥근 파이프 프레임, 노랑·파랑 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;USM이란 스위스 가구 브랜드를 아시나요? 이름이 좀 낯선 분이라도, 막상 보면 눈에 익은 가구일 겁니다. 크롬과 스틸 소재의 둥근 파이프 프레임, 노랑·파랑 등<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
