@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 14:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 15:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,11 +366,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김환기 : 달과 점을 사랑한 화가를, 탄생 110주년에 돌아보다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/863</link>
-            <guid>https://www.longblack.co/note/863</guid>
-            <pubDate>Thu, 26 Oct 2023 15:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;지난 주말, 서울 부암동에 다녀왔습니다. 북악산과 인왕산 사이, 고즈넉한 동네죠. 쉬어갈 곳이 가득합니다. 개중 유독 마음 가는 공간이 있어요. 올해로 개관 31<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[천천히 읽기를 권함 : ‘다독’에 대한 집착을 버릴 때, 나만의 리듬이 생긴다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/866</link>
+            <guid>https://www.longblack.co/note/866</guid>
+            <pubDate>Fri, 27 Oct 2023 15:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;최근 독서모임에 다시 나가기 시작했어요. 한 달에 꼭 한 권씩 읽겠다고 다짐했는데, 올해도 두 달밖에 남지 않았네요. 내년부터로 미루지 말고, 지금 당장 시작하자<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -455,6 +455,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[냉정해지자. 이제는 성장할 개발 도상국이 없다. 성장이 멈춘 글로벌은 2020년대의 위기를 극복할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67286</link>
+            <guid>https://www.bookjournalism.com/books/67286</guid>
+            <pubDate>Fri, 27 Oct 2023 15:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[지구적 발전의 길고도 느린 죽음]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595616/w/646/102_earth.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사라지는 소 싸움, 새로운 미국의 하원의장에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -543,14 +551,6 @@
             <pubDate>Wed, 18 Oct 2023 08:24:12 GMT</pubDate>
             <content:encoded><![CDATA[100년 전쟁의 기원이 된 세기의 재판]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590345/w/646/eb231018.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 지하철이 총파업을 준비한다. 지하철이 멈추면 보이는 게 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66913</link>
-            <guid>https://www.bookjournalism.com/books/66913</guid>
-            <pubDate>Tue, 17 Oct 2023 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[서울 지하철이 멈추면 보이는 것]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/589230/w/646/ex231017.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
