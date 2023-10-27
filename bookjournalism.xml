@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 07:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 08:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사라지는 소 싸움, 새로운 미국의 하원의장에 관해 이야기합니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/67302</link>
+            <guid>https://www.bookjournalism.com/audio/67302</guid>
+            <pubDate>Fri, 27 Oct 2023 08:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 28일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595360/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 17 Oct 2023 21:17:15 GMT</pubDate>
             <content:encoded><![CDATA[서울 지하철이 멈추면 보이는 것]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/589230/w/646/ex231017.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[승부사, 구영배 대표가 돌아왔다. 이번에는 보따리상의 디지털화다.]]></title>
-            <link>https://www.bookjournalism.com/books/66885</link>
-            <guid>https://www.bookjournalism.com/books/66885</guid>
-            <pubDate>Mon, 16 Oct 2023 15:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[소비의 방법을 바꾼 사람]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588967/w/646/ex231016.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
