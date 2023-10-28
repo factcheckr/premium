@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-10-28T14:16:14.017Z</updated>
+    <updated>2023-10-28T15:18:58.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[천천히 읽기를 권함 : ‘다독’에 대한 집착을 버릴 때, 나만의 리듬이 생긴다]]></title>
-        <id>https://www.longblack.co/note/866</id>
-        <link href="https://www.longblack.co/note/866"/>
-        <updated>2023-10-27T15:18:27.674Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;최근 독서모임에 다시 나가기 시작했어요. 한 달에 꼭 한 권씩 읽겠다고 다짐했는데, 올해도 두 달밖에 남지 않았네요. 내년부터로 미루지 말고, 지금 당장 시작하자<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-10-28T15:18:06.282Z</updated>
+        <content type="html"><![CDATA[L이 메모한 황지영 교수의 문장    
+
+“불안을 내면화한 디지털 네이티브. 제가 정의하는 잘파세대입니다. 지금은 폴리크라이시스. 즉, 다중 위기의 시대예요. 코로나19와 경제위기에 연이은 전쟁까지. 모든 것이 불확실하죠. 생존 전략은? 가볍게 사는 겁니다. 마음을<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
