@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 14:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 15:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,13 +366,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 28 Oct 2023 15:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[L이 메모한 황지영 교수의 문장    
-
-“불안을 내면화한 디지털 네이티브. 제가 정의하는 잘파세대입니다. 지금은 폴리크라이시스. 즉, 다중 위기의 시대예요. 코로나19와 경제위기에 연이은 전쟁까지. 모든 것이 불확실하죠. 생존 전략은? 가볍게 사는 겁니다. 마음을<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[OOH 마케팅 리포트 : 태우고, 찢고, 붙이고, 부수고… 옥외광고는 진화 중 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/867</link>
+            <guid>https://www.longblack.co/note/867</guid>
+            <pubDate>Sun, 29 Oct 2023 15:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;자크뮈스의 대형 핸드백이 서울 종각역 시내 위에 떠 있어요. 두바이의 높이 828m 짜리 부르즈 할리파와 맞먹는 크기의 바비가, 인형 박스를 박차고 나오죠. 속눈<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -457,6 +455,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국에서 총기 난사 사건이 또 발생했다. 그래도 총기 규제는 강화되지 않는다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67279</link>
+            <guid>https://www.bookjournalism.com/books/67279</guid>
+            <pubDate>Sun, 29 Oct 2023 15:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[미국은 왜 총기 규제에 실패할까]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595416/w/646/ex231027.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[냉정해지자. 이제는 성장할 개발 도상국이 없다. 성장이 멈춘 글로벌은 2020년대의 위기를 극복할 수 있을까? (북저널리즘)]]></title>
@@ -545,14 +551,6 @@
             <pubDate>Wed, 18 Oct 2023 15:20:41 GMT</pubDate>
             <content:encoded><![CDATA[우생학의 유령 넘어서기]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590312/w/646/ex231018.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이스라엘과 팔레스타인은 왜 싸우는가. 이·팔 100년 전쟁은 드레퓌스 사건에서 시작한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66950</link>
-            <guid>https://www.bookjournalism.com/books/66950</guid>
-            <pubDate>Wed, 18 Oct 2023 08:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[100년 전쟁의 기원이 된 세기의 재판]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590345/w/646/eb231018.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
