@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 14:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 15:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아시아에도, 인도에도, 아프리카에도 공장이 갈 곳이 없다. 축소 경제의 시대다.]]></title>
+            <link>https://www.bookjournalism.com/books/67367</link>
+            <guid>https://www.bookjournalism.com/books/67367</guid>
+            <pubDate>Mon, 30 Oct 2023 15:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[세계의 공장이 갈 곳은 어디인가]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595956/w/646/ex231030.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 19 Oct 2023 15:20:18 GMT</pubDate>
             <content:encoded><![CDATA[대통령이 졌다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590586/w/646/exx231019.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미국자연사박물관이 과거를 반성한다. 우리도 우리의 현재를 성찰해야 한다.]]></title>
-            <link>https://www.bookjournalism.com/books/66967</link>
-            <guid>https://www.bookjournalism.com/books/66967</guid>
-            <pubDate>Wed, 18 Oct 2023 15:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[우생학의 유령 넘어서기]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590312/w/646/ex231018.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

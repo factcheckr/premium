@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 14:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 15:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,11 +374,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[OOH 마케팅 리포트 : 태우고, 찢고, 붙이고, 부수고… 옥외광고는 진화 중 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/867</link>
-            <guid>https://www.longblack.co/note/867</guid>
-            <pubDate>Sun, 29 Oct 2023 15:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;자크뮈스의 대형 핸드백이 서울 종각역 시내 위에 떠 있어요. 두바이의 높이 828m 짜리 부르즈 할리파와 맞먹는 크기의 바비가, 인형 박스를 박차고 나오죠. 속눈<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[살로몬 : 패션위크를 누빈 등산화로 보는 고프코어 트렌드 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/869</link>
+            <guid>https://www.longblack.co/note/869</guid>
+            <pubDate>Mon, 30 Oct 2023 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;산길을 달리는 트레일러닝Trail Running에 푹 빠졌어요. 잘 뛰고 싶어서 살로몬SALOMON 러닝화도 알아봤어요. C는 “작년에 사지 그랬냐”고 하더군요.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -463,6 +463,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아시아에도, 인도에도, 아프리카에도 공장이 갈 곳이 없다. 축소 경제의 시대다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67367</link>
+            <guid>https://www.bookjournalism.com/books/67367</guid>
+            <pubDate>Mon, 30 Oct 2023 15:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[세계의 공장이 갈 곳은 어디인가]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595956/w/646/ex231030.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -551,14 +559,6 @@
             <pubDate>Thu, 19 Oct 2023 15:20:18 GMT</pubDate>
             <content:encoded><![CDATA[대통령이 졌다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590586/w/646/exx231019.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미국자연사박물관이 과거를 반성한다. 우리도 우리의 현재를 성찰해야 한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66967</link>
-            <guid>https://www.bookjournalism.com/books/66967</guid>
-            <pubDate>Wed, 18 Oct 2023 15:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[우생학의 유령 넘어서기]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590312/w/646/ex231018.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
