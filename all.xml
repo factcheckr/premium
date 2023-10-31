@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 23:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 01:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7354?fr=category</guid>
             <pubDate>Thu, 19 Oct 2023 07:17:09 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7354?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/10/19/1697683347_hXse4fGhMrfnxql8zsvbRGZsMWOT1Urv5XqOYAXJ.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 13분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7354?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">기획 팀장이 알아야 할 숫자의 모든 것: 재무제표 해석 주요 포인트</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[초등학생 장래희망이 버튜버? 버추얼 프랜들리 세대 리포트 (캐릿)]]></title>
+            <link>https://www.careet.net/1210</link>
+            <guid>https://www.careet.net/1210</guid>
+            <pubDate>Tue, 31 Oct 2023 01:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 뜨는 버튜버 트렌드 싹 정리해드립니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/ca0e0b20-8680-4116-829a-914f3527cdd8_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘케이스 때문에 샀다’ Z세대 지갑 열게 만든 패키지 디자인 (캐릿)]]></title>
@@ -494,7 +502,7 @@
             <guid>https://www.bookjournalism.com/books/67286</guid>
             <pubDate>Fri, 27 Oct 2023 15:19:11 GMT</pubDate>
             <content:encoded><![CDATA[지구적 발전의 길고도 느린 죽음]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595616/w/646/102_earth.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595962/w/646/102_earth.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사라지는 소 싸움, 새로운 미국의 하원의장에 관해 이야기합니다. (북저널리즘)]]></title>

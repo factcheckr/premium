@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 23:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 01:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초등학생 장래희망이 버튜버? 버추얼 프랜들리 세대 리포트]]></title>
+            <link>https://www.careet.net/1210</link>
+            <guid>https://www.careet.net/1210</guid>
+            <pubDate>Tue, 31 Oct 2023 01:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 뜨는 버튜버 트렌드 싹 정리해드립니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/ca0e0b20-8680-4116-829a-914f3527cdd8_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘케이스 때문에 샀다’ Z세대 지갑 열게 만든 패키지 디자인]]></title>
             <link>https://www.careet.net/1213</link>
