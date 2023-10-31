@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 14:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 15:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,11 +382,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202308/6e6db71c-a2c3-4ade-8d73-ecca65e172b3_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[살로몬 : 패션위크를 누빈 등산화로 보는 고프코어 트렌드 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/869</link>
-            <guid>https://www.longblack.co/note/869</guid>
-            <pubDate>Mon, 30 Oct 2023 15:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;산길을 달리는 트레일러닝Trail Running에 푹 빠졌어요. 잘 뛰고 싶어서 살로몬SALOMON 러닝화도 알아봤어요. C는 “작년에 사지 그랬냐”고 하더군요.<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[김호영 : “해봐야 아는 거지!” 오늘을 끌어올리는 자신감과 실행력 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/870</link>
+            <guid>https://www.longblack.co/note/870</guid>
+            <pubDate>Tue, 31 Oct 2023 15:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;문득 처지는 날이 있습니다. 온갖 핑계를 대며 아무것도 하기 싫어져요. 제가 그럴 때면 C가 다가와 이렇게 말하곤 해요. “끌어올려~!”괜스레 힘이 나요. 김호영<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -471,6 +471,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김포의 서울 편입이 추진된다. 진짜 서울은 더 공고해진다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67387</link>
+            <guid>https://www.bookjournalism.com/books/67387</guid>
+            <pubDate>Tue, 31 Oct 2023 15:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[서울이 번진다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596198/w/646/ex231031.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -559,14 +567,6 @@
             <pubDate>Fri, 20 Oct 2023 12:36:00 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월 21일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590776/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보궐 선거 패배 이후 여당이 쇄신 작업을 시작했다. 여당은 왜 졌을까. 패배 과정을 복기하면 쇄신의 방향이 나온다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67010</link>
-            <guid>https://www.bookjournalism.com/books/67010</guid>
-            <pubDate>Thu, 19 Oct 2023 15:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[대통령이 졌다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590586/w/646/exx231019.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
