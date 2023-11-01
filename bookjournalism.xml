@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 14:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 15:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신기술과 문화 전쟁이 맥주 시장을 전장으로 삼았다.]]></title>
+            <link>https://www.bookjournalism.com/books/67454</link>
+            <guid>https://www.bookjournalism.com/books/67454</guid>
+            <pubDate>Wed, 01 Nov 2023 15:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[논란의 맥주]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596489/w/646/ex231101.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미국의 중동 개입은 실패할 위험이 크고, 표가 되지 않는다. 서안 지구와 가자 지구에는 수많은 평화상이 걸려 있지만, 선거에서 얻을 수 있는 보상은 거의 없다.]]></title>
             <link>https://www.bookjournalism.com/books/67408</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 23 Oct 2023 15:19:41 GMT</pubDate>
             <content:encoded><![CDATA[의사 정원 확대 논란]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/592100/w/646/ex231023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은행의 계절이 돌아왔다. 악취 민원이 폭주한다. 나무가 뽑혀 나간다.]]></title>
-            <link>https://www.bookjournalism.com/books/67050</link>
-            <guid>https://www.bookjournalism.com/books/67050</guid>
-            <pubDate>Sun, 22 Oct 2023 15:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[은행나무 수난사]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/591016/w/646/ex231020.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
