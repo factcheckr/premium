@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 07:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 08:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미국의 중동 개입은 실패할 위험이 크고, 표가 되지 않는다. 서안 지구와 가자 지구에는 수많은 평화상이 걸려 있지만, 선거에서 얻을 수 있는 보상은 거의 없다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67408</link>
+            <guid>https://www.bookjournalism.com/books/67408</guid>
+            <pubDate>Wed, 01 Nov 2023 08:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[미국, 중동 평화를 지켜라]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596466/w/646/f231101.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -415,14 +423,6 @@
             <pubDate>Sun, 22 Oct 2023 15:19:10 GMT</pubDate>
             <content:encoded><![CDATA[은행나무 수난사]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/591016/w/646/ex231020.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[저물어 가는 담배 산업, 가짜 투자 광고에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/67038</link>
-            <guid>https://www.bookjournalism.com/audio/67038</guid>
-            <pubDate>Fri, 20 Oct 2023 12:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 21일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/590776/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
