@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 23:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 01:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“휴대폰 사면 위젯부터 깔아요” Z세대 모바일 트렌드 4]]></title>
+            <link>https://www.careet.net/1203</link>
+            <guid>https://www.careet.net/1203</guid>
+            <pubDate>Thu, 02 Nov 2023 01:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 Z세대 모바일 트렌드는 ‘위젯’에서 시작된다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/c6a6493b-2729-4629-859e-a9ca38a32515_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대는 오픈채팅방 언제 써요? 요즘 핫한 옵챗방 리스트]]></title>
             <link>https://www.careet.net/1209</link>
