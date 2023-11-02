@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 14:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 15:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,11 +246,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[ACE&TATE : 실패까지 공개하는 솔직함으로, 유럽을 사로잡은 안경 브랜드 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/871</link>
-            <guid>https://www.longblack.co/note/871</guid>
-            <pubDate>Wed, 01 Nov 2023 15:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;난 그런 이야기가 좋아. 평범한 사람이 우연한 계기로 각성하는 거! 지키고자 하는 가치를 위해 물불 안 가리고, 열심히 싸우잖아.&nbsp;오늘 롱블랙이 소개할 브랜드가 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[노마드 인터뷰 : 떠돌이 1인 출판사, 샘 알트만·닉 보스트롬에게 삶을 묻다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/879</link>
+            <guid>https://www.longblack.co/note/879</guid>
+            <pubDate>Thu, 02 Nov 2023 15:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;여러분은 왜 롱블랙을 읽나요. 영감을 얻으려고? 트렌드 따라잡으려고? 여러 이유가 있겠지만, 많은 분들은 이렇게 이야기합니다. “나보다 앞서 간 사람들의 지혜를 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -335,6 +335,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[머스크는 국가보다 힘이 세다. 선출되지 않은 권력이 전쟁을 좌우하고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67477</link>
+            <guid>https://www.bookjournalism.com/books/67477</guid>
+            <pubDate>Thu, 02 Nov 2023 15:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[머스크는 별이 다섯 개]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596599/w/646/ex231102.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[신기술과 문화 전쟁이 맥주 시장을 전장으로 삼았다. (북저널리즘)]]></title>
@@ -423,14 +431,6 @@
             <pubDate>Tue, 24 Oct 2023 22:19:58 GMT</pubDate>
             <content:encoded><![CDATA[빈대가 나타났다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/592266/w/646/ex231024.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[의사들에게 돈이 전부는 아니다. 지역 의료와 필수과를 살릴 방도가 여기에 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67128</link>
-            <guid>https://www.bookjournalism.com/books/67128</guid>
-            <pubDate>Mon, 23 Oct 2023 15:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[의사 정원 확대 논란]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/592100/w/646/ex231023.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
