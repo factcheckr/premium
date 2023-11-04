@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-11-04T14:17:23.968Z</updated>
+    <updated>2023-11-04T15:18:56.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[삶은 예술로 빛난다 : 모든 삶은 각자의 이름이 붙은 작품이다]]></title>
-        <id>https://www.longblack.co/note/872</id>
-        <link href="https://www.longblack.co/note/872"/>
-        <updated>2023-11-03T15:18:52.380Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;지난주 김환기의 생애와 작품 세계를 소개한 노트, 읽어보셨나요. 전쟁 중에도 그림을 놓지 않았던 김환기. 그 열정과 간절함이 뇌리에 남습니다. 문득 그 잔상에, <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-11-04T15:18:06.327Z</updated>
+        <content type="html"><![CDATA[B가 기억하고 싶은 김호영 배우의 이야기    
+
+“저라고 맨날 텐션이 높은 건 아니에요. 조금 더 긍정적으로 생각하려고 할 때도 있고, 오늘은 다운되는 날인가보다 할 때도 있어요. 이럴 때도 있고 저럴 때도 있는 거니까요. 너무 애쓰지 않아요.  만약 에너지를 쓸<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 14:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 15:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,11 +254,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[삶은 예술로 빛난다 : 모든 삶은 각자의 이름이 붙은 작품이다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/872</link>
-            <guid>https://www.longblack.co/note/872</guid>
-            <pubDate>Fri, 03 Nov 2023 15:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;지난주 김환기의 생애와 작품 세계를 소개한 노트, 읽어보셨나요. 전쟁 중에도 그림을 놓지 않았던 김환기. 그 열정과 간절함이 뇌리에 남습니다. 문득 그 잔상에, <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 04 Nov 2023 15:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[B가 기억하고 싶은 김호영 배우의 이야기    
+
+“저라고 맨날 텐션이 높은 건 아니에요. 조금 더 긍정적으로 생각하려고 할 때도 있고, 오늘은 다운되는 날인가보다 할 때도 있어요. 이럴 때도 있고 저럴 때도 있는 거니까요. 너무 애쓰지 않아요.  만약 에너지를 쓸<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
