@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-11-05T14:16:22.348Z</updated>
+    <updated>2023-11-05T15:17:32.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-11-04T15:18:06.327Z</updated>
-        <content type="html"><![CDATA[B가 기억하고 싶은 김호영 배우의 이야기    
-
-“저라고 맨날 텐션이 높은 건 아니에요. 조금 더 긍정적으로 생각하려고 할 때도 있고, 오늘은 다운되는 날인가보다 할 때도 있어요. 이럴 때도 있고 저럴 때도 있는 거니까요. 너무 애쓰지 않아요.  만약 에너지를 쓸<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[칼하트 : 1890년대 철도노동자부터 MZ까지, 일하는 사람들의 옷이 되다]]></title>
+        <id>https://www.longblack.co/note/876</id>
+        <link href="https://www.longblack.co/note/876"/>
+        <updated>2023-11-05T15:16:43.341Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C &nbsp;#칼하트를 입는다는 건 끝내줘. 당신이 학생인지, 힙스터인지, 포크레인 기사인지, 아무도 모를걸.#Wearing carhartt gear is wild. Are<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
