@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 23:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 01:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7358?fr=category</guid>
             <pubDate>Tue, 24 Oct 2023 07:17:30 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7358?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/10/24/1698117382_8qb2Mi7znsqgFcv5wiNkEB3h9KzlDMb9hkWARioi.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 6분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7358?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">주니어 마케터도 따라 쓰는 그로스 실험 문서: (1)개념편</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대 팝업 시대, Z세대가 새삼스럽게 ‘김가네’에 주목한 이유는? (캐릿)]]></title>
+            <link>https://www.careet.net/1216</link>
+            <guid>https://www.careet.net/1216</guid>
+            <pubDate>Mon, 06 Nov 2023 01:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[1020이 ‘샤라웃’ 한 센스 있는 오프라인 이벤트, 팝업, 홍보물]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/54866d21-8f54-4c95-8448-6e0262b59d2a_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[영감 계정에 이어 ‘영감 팝업스토어’가 뜬다! 이주의 유행템 4 (캐릿)]]></title>
@@ -345,6 +353,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597084/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[새 대법원장이 온다. 역대 가장 보수적이고, 가장 다양성이 부족한 대법원이 될 수 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/67512</link>
             <guid>https://www.bookjournalism.com/books/67512</guid>
@@ -367,14 +383,6 @@
             <pubDate>Fri, 03 Nov 2023 08:24:07 GMT</pubDate>
             <content:encoded><![CDATA[2023년 11월 4일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596660/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Sun, 25 Jun 2023 08:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596603/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[머스크는 국가보다 힘이 세다. 선출되지 않은 권력이 전쟁을 좌우하고 있다. (북저널리즘)]]></title>
