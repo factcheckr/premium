@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 14:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 15:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,11 +262,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[칼하트 : 1890년대 철도노동자부터 MZ까지, 일하는 사람들의 옷이 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/876</link>
-            <guid>https://www.longblack.co/note/876</guid>
-            <pubDate>Sun, 05 Nov 2023 15:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C &nbsp;#칼하트를 입는다는 건 끝내줘. 당신이 학생인지, 힙스터인지, 포크레인 기사인지, 아무도 모를걸.#Wearing carhartt gear is wild. Are<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[강수진 : 스러지는 초심을 잡을 때, 발레도 삶도 나아간다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/875</link>
+            <guid>https://www.longblack.co/note/875</guid>
+            <pubDate>Mon, 06 Nov 2023 15:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;한 여인이 춤을 춰요. 그녀의 이름은 ‘타티아나Tatyana’. 순수한 그녀는 오만한 남자 ‘오네긴Onegin’을 사랑하지만, 운명의 장난으로 엇갈립니다. 세월이<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -351,6 +351,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI 규제에 관한 국제사회의 움직임이 공식화했다. 아직 승자는 알 수 없다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67506</link>
+            <guid>https://www.bookjournalism.com/books/67506</guid>
+            <pubDate>Mon, 06 Nov 2023 15:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[블레츨리 선언, 막후의 힘겨루기]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596740/w/646/ex231107.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -439,14 +447,6 @@
             <pubDate>Fri, 27 Oct 2023 15:19:11 GMT</pubDate>
             <content:encoded><![CDATA[지구적 발전의 길고도 느린 죽음]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595962/w/646/102_earth.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라지는 소 싸움, 새로운 미국의 하원의장에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/67302</link>
-            <guid>https://www.bookjournalism.com/audio/67302</guid>
-            <pubDate>Fri, 27 Oct 2023 08:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 28일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595360/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
