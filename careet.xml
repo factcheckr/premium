@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 23:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 01:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 Z세대는 어디에 ‘입덕’ 했을까?]]></title>
+            <link>https://www.careet.net/1220</link>
+            <guid>https://www.careet.net/1220</guid>
+            <pubDate>Tue, 07 Nov 2023 01:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대의 ‘최애’ 리스트 최신ver 싹 정리했습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/59c4e426-ed80-4e85-9935-145615c411fd_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대 팝업 시대, Z세대가 새삼스럽게 ‘김가네’에 주목한 이유는?]]></title>
             <link>https://www.careet.net/1216</link>
