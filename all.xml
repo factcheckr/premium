@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 14:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 15:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,11 +270,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[강수진 : 스러지는 초심을 잡을 때, 발레도 삶도 나아간다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/875</link>
-            <guid>https://www.longblack.co/note/875</guid>
-            <pubDate>Mon, 06 Nov 2023 15:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;한 여인이 춤을 춰요. 그녀의 이름은 ‘타티아나Tatyana’. 순수한 그녀는 오만한 남자 ‘오네긴Onegin’을 사랑하지만, 운명의 장난으로 엇갈립니다. 세월이<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[엄커피 : 아버지가 브라질에 뿌린 커피콩, 아들을 바리스타 챔피언으로 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/877</link>
+            <guid>https://www.longblack.co/note/877</guid>
+            <pubDate>Tue, 07 Nov 2023 15:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;월드 바리스타 챔피언. 아마 세계에서 커피를 가장 맛있게 내리는 사람이겠죠? 그런데 선발 기준에 눈에 띄는 게 있어요. ‘커피 시장에 어떤 롤모델이 될 것인가.’<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -359,6 +359,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[숨겨진 시장이 연결되기만 한다면, 문구 시장은 영생할지도 모른다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67580</link>
+            <guid>https://www.bookjournalism.com/books/67580</guid>
+            <pubDate>Tue, 07 Nov 2023 15:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 다이어리의 시대]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597413/w/646/ex231107.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -447,14 +455,6 @@
             <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[미국은 왜 총기 규제에 실패할까]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595416/w/646/ex231027.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[냉정해지자. 이제는 성장할 개발 도상국이 없다. 성장이 멈춘 글로벌은 2020년대의 위기를 극복할 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67286</link>
-            <guid>https://www.bookjournalism.com/books/67286</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[지구적 발전의 길고도 느린 죽음]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595962/w/646/102_earth.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
