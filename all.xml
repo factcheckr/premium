@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 14:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 15:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,11 +278,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[엄커피 : 아버지가 브라질에 뿌린 커피콩, 아들을 바리스타 챔피언으로 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/877</link>
-            <guid>https://www.longblack.co/note/877</guid>
-            <pubDate>Tue, 07 Nov 2023 15:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;월드 바리스타 챔피언. 아마 세계에서 커피를 가장 맛있게 내리는 사람이겠죠? 그런데 선발 기준에 눈에 띄는 게 있어요. ‘커피 시장에 어떤 롤모델이 될 것인가.’<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[오픈갤러리 : 내 거실이 갤러리, 미술 시장의 빈틈을 파고든 원화 구독 서비스 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/878</link>
+            <guid>https://www.longblack.co/note/878</guid>
+            <pubDate>Wed, 08 Nov 2023 15:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L얼마 전 B네 집에 놀러 갔는데, 거실에 못 보던 그림이 걸려있더라. 물감 결이 살아있는 걸 보니 원화原畵였어.내가 프리즈 서울에 다녀와 봐서 알잖아. 그림이 좀 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
