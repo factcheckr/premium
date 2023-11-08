@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 07:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 08:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,6 +369,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[AI는 사람이 필요 없는 기계 학습으로 여겨지고 있지만, 실은 지구 남반구의 값싼 노동력에 의존하고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67592</link>
+            <guid>https://www.bookjournalism.com/books/67592</guid>
+            <pubDate>Wed, 08 Nov 2023 08:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[AI 시대의 디지털 노동 착취]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597547/w/646/f231108c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -406,7 +414,7 @@
             <guid>https://www.bookjournalism.com/books/67401</guid>
             <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[도시를 달리는 사람들]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596409/w/646/103_running.png" length="0" type="image/png"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597551/w/646/103_running.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[로보택시의 현재와 미래, 빈곤국의 현실을 다룹니다. (북저널리즘)]]></title>
@@ -455,14 +463,6 @@
             <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[세계의 공장이 갈 곳은 어디인가]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595956/w/646/ex231030.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미국에서 총기 난사 사건이 또 발생했다. 그래도 총기 규제는 강화되지 않는다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67279</link>
-            <guid>https://www.bookjournalism.com/books/67279</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[미국은 왜 총기 규제에 실패할까]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595416/w/646/ex231027.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
