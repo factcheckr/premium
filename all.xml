@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 15:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 16:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,6 +369,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[도시의 모습을 결정하는 철학은 시민에게서 나와야 한다.. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67610</link>
+            <guid>https://www.bookjournalism.com/books/67610</guid>
+            <pubDate>Wed, 08 Nov 2023 16:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[서울로7017은 실패했나]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597615/w/646/ex231108.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[AI는 사람이 필요 없는 기계 학습으로 여겨지고 있지만, 실은 지구 남반구의 값싼 노동력에 의존하고 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/67592</link>
             <guid>https://www.bookjournalism.com/books/67592</guid>
@@ -455,14 +463,6 @@
             <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[서울이 번진다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596586/w/646/ex231031.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아시아에도, 인도에도, 아프리카에도 공장이 갈 곳이 없다. 축소 경제의 시대다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67367</link>
-            <guid>https://www.bookjournalism.com/books/67367</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[세계의 공장이 갈 곳은 어디인가]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/595956/w/646/ex231030.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
