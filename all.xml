@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 14:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 15:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[오픈갤러리 : 내 거실이 갤러리, 미술 시장의 빈틈을 파고든 원화 구독 서비스 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/878</link>
-            <guid>https://www.longblack.co/note/878</guid>
-            <pubDate>Wed, 08 Nov 2023 15:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L얼마 전 B네 집에 놀러 갔는데, 거실에 못 보던 그림이 걸려있더라. 물감 결이 살아있는 걸 보니 원화原畵였어.내가 프리즈 서울에 다녀와 봐서 알잖아. 그림이 좀 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[아루히 : 손님과의 케미스트리로, ‘스강신청’ 오마카세 집이 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/881</link>
+            <guid>https://www.longblack.co/note/881</guid>
+            <pubDate>Thu, 09 Nov 2023 15:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;얼마 전에 C와 스시 오마카세에 다녀왔어요. 사실 저는 오마카세를 그리 즐기지 않아요. 비싸고 너무 격을 차리는 느낌이라서요. 그래서 거절했는데, C가 “1년 만<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -377,6 +377,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[위워크가 미국 법원에 파산 보호를 신청했다. 창업자 애덤 뉴먼은 어디서 뭘 하고 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67626</link>
+            <guid>https://www.bookjournalism.com/books/67626</guid>
+            <pubDate>Thu, 09 Nov 2023 15:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[위워크 말고 플로우]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597924/w/646/ex231110.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -385,12 +393,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597636/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[도시의 모습을 결정하는 철학은 시민에게서 나와야 한다.. (북저널리즘)]]></title>
+            <title><![CDATA[도시의 모습을 결정하는 철학은 시민에게서 나와야 한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/67610</link>
             <guid>https://www.bookjournalism.com/books/67610</guid>
             <pubDate>Wed, 08 Nov 2023 16:25:40 GMT</pubDate>
             <content:encoded><![CDATA[서울로7017은 실패했나]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597615/w/646/ex231108.png" length="0" type="image/png"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597980/w/646/ex231108.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AI는 사람이 필요 없는 기계 학습으로 여겨지고 있지만, 실은 지구 남반구의 값싼 노동력에 의존하고 있다. (북저널리즘)]]></title>
@@ -398,7 +406,7 @@
             <guid>https://www.bookjournalism.com/books/67592</guid>
             <pubDate>Wed, 08 Nov 2023 08:23:17 GMT</pubDate>
             <content:encoded><![CDATA[AI 시대의 디지털 노동 착취]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597550/w/646/f231108c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597977/w/646/f231108c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숨겨진 시장이 연결되기만 한다면, 문구 시장은 영생할지도 모른다. (북저널리즘)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[미국, 중동 평화를 지켜라]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596466/w/646/f231101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김포의 서울 편입이 추진된다. 진짜 서울은 더 공고해진다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67387</link>
-            <guid>https://www.bookjournalism.com/books/67387</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[서울이 번진다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596586/w/646/ex231031.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 14:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 15:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위워크가 미국 법원에 파산 보호를 신청했다. 창업자 애덤 뉴먼은 어디서 뭘 하고 있을까.]]></title>
+            <link>https://www.bookjournalism.com/books/67626</link>
+            <guid>https://www.bookjournalism.com/books/67626</guid>
+            <pubDate>Thu, 09 Nov 2023 15:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[위워크 말고 플로우]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597924/w/646/ex231110.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -16,12 +24,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597636/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[도시의 모습을 결정하는 철학은 시민에게서 나와야 한다..]]></title>
+            <title><![CDATA[도시의 모습을 결정하는 철학은 시민에게서 나와야 한다.]]></title>
             <link>https://www.bookjournalism.com/books/67610</link>
             <guid>https://www.bookjournalism.com/books/67610</guid>
             <pubDate>Wed, 08 Nov 2023 16:25:40 GMT</pubDate>
             <content:encoded><![CDATA[서울로7017은 실패했나]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597615/w/646/ex231108.png" length="0" type="image/png"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597980/w/646/ex231108.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AI는 사람이 필요 없는 기계 학습으로 여겨지고 있지만, 실은 지구 남반구의 값싼 노동력에 의존하고 있다.]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.bookjournalism.com/books/67592</guid>
             <pubDate>Wed, 08 Nov 2023 08:23:17 GMT</pubDate>
             <content:encoded><![CDATA[AI 시대의 디지털 노동 착취]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597550/w/646/f231108c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597977/w/646/f231108c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숨겨진 시장이 연결되기만 한다면, 문구 시장은 영생할지도 모른다.]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[미국, 중동 평화를 지켜라]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596466/w/646/f231101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김포의 서울 편입이 추진된다. 진짜 서울은 더 공고해진다.]]></title>
-            <link>https://www.bookjournalism.com/books/67387</link>
-            <guid>https://www.bookjournalism.com/books/67387</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[서울이 번진다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596586/w/646/ex231031.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
