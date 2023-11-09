@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 23:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 01:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이소, 두끼, 아이브의 공통점은? 초통령! 알파세대 픽 브랜드·인물 리스트업]]></title>
+            <link>https://www.careet.net/1217</link>
+            <guid>https://www.careet.net/1217</guid>
+            <pubDate>Thu, 09 Nov 2023 01:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[알파세대가 좋아하는 브랜드와 인물을 정리했습니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/b9ffcfb6-091b-401e-ae46-877e1f3d8a0d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘공간 경험’도 스펙이 된다? 공간이 곧 정체성인 ‘스페이스덴티티’ 세대]]></title>
             <link>https://www.careet.net/1218</link>
