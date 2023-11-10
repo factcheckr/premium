@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 14:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 15:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,11 +294,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아루히 : 손님과의 케미스트리로, ‘스강신청’ 오마카세 집이 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/881</link>
-            <guid>https://www.longblack.co/note/881</guid>
-            <pubDate>Thu, 09 Nov 2023 15:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;얼마 전에 C와 스시 오마카세에 다녀왔어요. 사실 저는 오마카세를 그리 즐기지 않아요. 비싸고 너무 격을 차리는 느낌이라서요. 그래서 거절했는데, C가 “1년 만<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[First, Learn to practice : 조금 더 계속하는 바로 그 순간 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/882</link>
+            <guid>https://www.longblack.co/note/882</guid>
+            <pubDate>Fri, 10 Nov 2023 15:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;며칠 사이 살갗에 닿는 공기가 부쩍 차가워졌어요. 어느새 한 해의 끝자락에 접어들었네요. 하루하루 바삐 살다 보면, 그런 생각이 들 때가 있죠. “매일 열심히는<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
