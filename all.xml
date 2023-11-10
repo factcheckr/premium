@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 01:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 02:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,7 +398,7 @@
             <guid>https://www.bookjournalism.com/books/67626</guid>
             <pubDate>Thu, 09 Nov 2023 15:20:07 GMT</pubDate>
             <content:encoded><![CDATA[위워크 말고 플로우]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597924/w/646/ex231110.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598037/w/646/ex231110.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시의 모습을 결정하는 철학은 시민에게서 나와야 한다. (북저널리즘)]]></title>
@@ -438,7 +438,7 @@
             <guid>https://www.bookjournalism.com/books/67512</guid>
             <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[김명수 코트 이후]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596885/w/646/ex231103.png" length="0" type="image/png"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598039/w/646/ex231103.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서울, 비버튼, 교토에서 달리는 이들을 만나다. 달리기는 삶의 기준과 동력을 만드는 가장 원초적인 도구다. (북저널리즘)]]></title>
@@ -462,7 +462,7 @@
             <guid>https://www.bookjournalism.com/books/67477</guid>
             <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[머스크는 별이 다섯 개]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596599/w/646/ex231102.png" length="0" type="image/png"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598042/w/646/ex231102.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[신기술과 문화 전쟁이 맥주 시장을 전장으로 삼았다. (북저널리즘)]]></title>
