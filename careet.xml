@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 23:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 01:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 관심사에 우리 브랜드 정체성 더하는 방법, 브랜딩 레퍼런스 3]]></title>
+            <link>https://www.careet.net/1222</link>
+            <guid>https://www.careet.net/1222</guid>
+            <pubDate>Mon, 13 Nov 2023 01:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024년에는 ‘학생증’ 굿즈 만들어야 뜬다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/cd71cf13-536c-4504-8d60-b928e67475ca_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[편의점 20곳 돌아도 못 구하는 굿즈 등장! 이주의 유행템 4]]></title>
             <link>https://www.careet.net/1221</link>
