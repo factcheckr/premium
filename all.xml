@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 14:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 15:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,11 +302,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[조병수 : “100년 뒤 서울엔 산과 강, 바람이 있을까” 건축가가 묻다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/883</link>
-            <guid>https://www.longblack.co/note/883</guid>
-            <pubDate>Sun, 12 Nov 2023 15:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;지난달 27일, 제4회 서울도시건축비엔날레*가 막을 내렸어요. 역대 최다 인원인 92만여 명이 행사장을 찾았죠. 비엔날레의 부제는 ‘산길 물길 바람길의 도시 서울<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[애시드 리그 :  커피‧고수‧김치맛 식초, 4000개의 슈퍼마켓 매대를 꿰차다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/884</link>
+            <guid>https://www.longblack.co/note/884</guid>
+            <pubDate>Mon, 13 Nov 2023 15:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C &nbsp;프로필: 브라이트Bright, 스파이시Spicy, 캐러멜Caramel테이스팅 노트: 살구, 후추, 벌집, 감귤향수 브랜드 소개냐고요? 아뇨, 식초예요! 패키징도<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -391,6 +391,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[살충제가 빈대를 완벽하게 이겼던 역사는 없다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67718</link>
+            <guid>https://www.bookjournalism.com/books/67718</guid>
+            <pubDate>Mon, 13 Nov 2023 15:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[빈대를 잡기 위해 필요한 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598640/w/646/ex231114.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -479,14 +487,6 @@
             <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[2023년 11월 4일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596660/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크는 국가보다 힘이 세다. 선출되지 않은 권력이 전쟁을 좌우하고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67477</link>
-            <guid>https://www.bookjournalism.com/books/67477</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[머스크는 별이 다섯 개]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598042/w/646/ex231102.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
