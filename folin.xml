@@ -1,107 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>북저널리즘</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 19:15:32 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[살충제가 빈대를 완벽하게 이겼던 역사는 없다.]]></title>
-            <link>https://www.bookjournalism.com/books/67718</link>
-            <guid>https://www.bookjournalism.com/books/67718</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[빈대를 잡기 위해 필요한 것]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598640/w/646/ex231114.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598032/w/646/earth.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[중동과 우크라이나에서 전쟁이 벌어지고 있다. 그곳에 UN은 없다.]]></title>
-            <link>https://www.bookjournalism.com/books/67694</link>
-            <guid>https://www.bookjournalism.com/books/67694</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[안전을 보장하지 않는 UN 안보리]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598532/w/646/ex231113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일주일 앞으로 다가온 수능, 한국의 플라스틱을 다룹니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/67681</link>
-            <guid>https://www.bookjournalism.com/audio/67681</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 11월 11일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598178/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위워크가 미국 법원에 파산 보호를 신청했다. 창업자 애덤 뉴먼은 어디서 뭘 하고 있을까.]]></title>
-            <link>https://www.bookjournalism.com/books/67626</link>
-            <guid>https://www.bookjournalism.com/books/67626</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[위워크 말고 플로우]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598037/w/646/ex231110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시의 모습을 결정하는 철학은 시민에게서 나와야 한다.]]></title>
-            <link>https://www.bookjournalism.com/books/67610</link>
-            <guid>https://www.bookjournalism.com/books/67610</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[서울로7017은 실패했나]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597980/w/646/ex231108.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI는 사람이 필요 없는 기계 학습으로 여겨지고 있지만, 실은 지구 남반구의 값싼 노동력에 의존하고 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/67592</link>
-            <guid>https://www.bookjournalism.com/books/67592</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[AI 시대의 디지털 노동 착취]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597977/w/646/f231108c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨겨진 시장이 연결되기만 한다면, 문구 시장은 영생할지도 모른다.]]></title>
-            <link>https://www.bookjournalism.com/books/67580</link>
-            <guid>https://www.bookjournalism.com/books/67580</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 다이어리의 시대]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597413/w/646/ex231107.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 규제에 관한 국제사회의 움직임이 공식화했다. 아직 승자는 알 수 없다.]]></title>
-            <link>https://www.bookjournalism.com/books/67506</link>
-            <guid>https://www.bookjournalism.com/books/67506</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[블레츨리 선언, 막후의 힘겨루기]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596740/w/646/ex231107.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 대법원장이 온다. 역대 가장 보수적이고, 가장 다양성이 부족한 대법원이 될 수 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/67512</link>
-            <guid>https://www.bookjournalism.com/books/67512</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[김명수 코트 이후]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598039/w/646/ex231103.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울, 비버튼, 교토에서 달리는 이들을 만나다. 달리기는 삶의 기준과 동력을 만드는 가장 원초적인 도구다.]]></title>
-            <link>https://www.bookjournalism.com/books/67401</link>
-            <guid>https://www.bookjournalism.com/books/67401</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[도시를 달리는 사람들]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597705/w/646/103_running.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로보택시의 현재와 미래, 빈곤국의 현실을 다룹니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/67500</link>
-            <guid>https://www.bookjournalism.com/audio/67500</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 11월 4일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596660/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.bookjournalism.com/books</id>
+    <title>북저널리즘</title>
+    <updated>2023-11-13T20:18:35.346Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다.]]></title>
+        <id>https://www.bookjournalism.com/books/60100</id>
+        <link href="https://www.bookjournalism.com/books/60100"/>
+        <updated>2023-03-06T21:21:51.955Z</updated>
+        <content type="html"><![CDATA[일제 강제징용 피해자 배상안은 반쪽짜리인가?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민의 돈을 수익성이 확실치 않은 곳에 투자하는 것이 정당한가?]]></title>
+        <id>https://www.bookjournalism.com/books/60060</id>
+        <link href="https://www.bookjournalism.com/books/60060"/>
+        <updated>2023-03-06T21:21:51.955Z</updated>
+        <content type="html"><![CDATA[연기금과 ESG 투자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다.]]></title>
+        <id>https://www.bookjournalism.com/books/59400</id>
+        <link href="https://www.bookjournalism.com/books/59400"/>
+        <updated>2023-03-06T21:21:51.956Z</updated>
+        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이난은 ‘제2의 홍콩’을 꿈꾼다. 스마트시티의 옥석이 가려진다.]]></title>
+        <id>https://www.bookjournalism.com/books/60043</id>
+        <link href="https://www.bookjournalism.com/books/60043"/>
+        <updated>2023-03-06T21:21:51.956Z</updated>
+        <content type="html"><![CDATA[시진핑의 스마트시티, 하이난]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[간호법을 둘러싼 의료계의 갈등이 심화한다. 대중은 외면한다.]]></title>
+        <id>https://www.bookjournalism.com/books/59966</id>
+        <link href="https://www.bookjournalism.com/books/59966"/>
+        <updated>2023-03-06T21:21:51.958Z</updated>
+        <content type="html"><![CDATA[간호법 갈등, 누구의 책임인가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달러 헤게모니는 미국이 철저히 지켜내고 있다. 확장의 열망을 가진 중국으로서는 용인할 수 없다.]]></title>
+        <id>https://www.bookjournalism.com/books/59885</id>
+        <link href="https://www.bookjournalism.com/books/59885"/>
+        <updated>2023-03-06T21:21:51.960Z</updated>
+        <content type="html"><![CDATA[화폐, 권력, 그리고 소리 없는 전쟁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국수본 제2대 본부장으로 임명됐던 정순신 변호사가 하루 만에 낙마했다. 의미가 깊다.]]></title>
+        <id>https://www.bookjournalism.com/books/59920</id>
+        <link href="https://www.bookjournalism.com/books/59920"/>
+        <updated>2023-03-06T21:21:51.980Z</updated>
+        <content type="html"><![CDATA[부조리의 얼굴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈의 전쟁이 일어나고 있다. 달러의 아성에 도전하는 자, 누구인가?]]></title>
+        <id>https://www.bookjournalism.com/books/59877</id>
+        <link href="https://www.bookjournalism.com/books/59877"/>
+        <updated>2023-03-06T21:21:51.982Z</updated>
+        <content type="html"><![CDATA[탈달러 사인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #77에선, CJ ENM 구조조정, 동성 배우자 건보 피부양자 자격 인정 판결, 러-우 전쟁 1년, 로알드 달 소설 재출간에 관해 이야기합니다.]]></title>
+        <id>https://www.bookjournalism.com/audio/59823</id>
+        <link href="https://www.bookjournalism.com/audio/59823"/>
+        <updated>2023-03-06T21:21:51.984Z</updated>
+        <content type="html"><![CDATA[변화는 세상을 다시 쓴다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아가 우크라이나를 침공한 지 1년이 됐다. 무엇을 잃었고, 무엇을 배웠나.]]></title>
+        <id>https://www.bookjournalism.com/books/59775</id>
+        <link href="https://www.bookjournalism.com/books/59775"/>
+        <updated>2023-03-06T21:21:51.985Z</updated>
+        <content type="html"><![CDATA[전쟁이 남긴 기록들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[법원이 처음으로 동성 배우자의 건강보험 피부양자 자격을 인정했다. 가족의 확장을 기대할 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/59726</id>
+        <link href="https://www.bookjournalism.com/books/59726"/>
+        <updated>2023-03-06T21:21:51.986Z</updated>
+        <content type="html"><![CDATA[가족의 확장]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지진학자들은 지진을 어느 정도 예측한다. 하지만 인간의 행동은 데이터를 비껴간다.]]></title>
+        <id>https://www.bookjournalism.com/books/59628</id>
+        <link href="https://www.bookjournalism.com/books/59628"/>
+        <updated>2023-03-06T21:21:51.989Z</updated>
+        <content type="html"><![CDATA[예측 불가능한 것을 예측하기]]></content>
+    </entry>
+</feed>
