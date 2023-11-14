@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 06:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 07:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,7 +158,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[초등학생 장래희망이 버튜버? 버추얼 프랜들리 세대 리포트 (캐릿)]]></title>
+            <title><![CDATA[초등학생 장래희망이 버튜버? 버추얼 프렌들리 세대 리포트 (캐릿)]]></title>
             <link>https://www.careet.net/1210</link>
             <guid>https://www.careet.net/1210</guid>
             <pubDate>Tue, 31 Oct 2023 01:17:18 GMT</pubDate>
