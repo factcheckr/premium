@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 01:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 02:30:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -409,20 +409,20 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/599124/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[‘스위프트적인 가치’가 팬덤을 타고 정치에 나섰다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/67750</link>
             <guid>https://www.bookjournalism.com/books/67750</guid>
             <pubDate>Tue, 14 Nov 2023 15:20:26 GMT</pubDate>
             <content:encoded><![CDATA[스위프티의 정치]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598857/w/646/ex_231115_thum.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598725/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[살충제가 빈대를 완벽하게 이겼던 역사는 없다. (북저널리즘)]]></title>
