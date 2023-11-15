@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 14:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 15:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,11 +318,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[무스토이 : OMG와 슈퍼해피 정신으로, 아마존 1위 장난감이 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/893</link>
-            <guid>https://www.longblack.co/note/893</guid>
-            <pubDate>Tue, 14 Nov 2023 15:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;와, 믿기 어려운 장난감 광고를 봤어요! 오븐에 작은 반죽을 구우면, 90초 후 크게 부푼 봉제 인형이 튀어나와요. 갓 구운 빵처럼 따뜻하고, 달콤한 향기까지 나<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[번역가 안톤 허 : 말간 얼굴로, ‘죽음의 계곡’에서 죽도록 버티다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/886</link>
+            <guid>https://www.longblack.co/note/886</guid>
+            <pubDate>Wed, 15 Nov 2023 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;2023년 뉴욕타임스 베스트셀러 하드커버 분야* 1위, 2023년 전미도서상National Book Award, 2022년 부커상Booker Prize 번역 부문<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -407,6 +407,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[석유의 종말처럼 보이지만, 사실이 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67797</link>
+            <guid>https://www.bookjournalism.com/books/67797</guid>
+            <pubDate>Wed, 15 Nov 2023 15:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[석유 공룡 엑손모빌이 리튬 산업에 뛰어든 까닭]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/599193/w/646/ex_231116_thum.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[문명사적 위기의 시대다. 미래 도시의 청사진은 큰 것보다는 작은 것, 새로운 것보다는 오래된 것, 보이는 것보다는 보이지 않는 것에 있다. (북저널리즘)]]></title>
@@ -495,14 +503,6 @@
             <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[블레츨리 선언, 막후의 힘겨루기]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596740/w/646/ex231107.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 대법원장이 온다. 역대 가장 보수적이고, 가장 다양성이 부족한 대법원이 될 수 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67512</link>
-            <guid>https://www.bookjournalism.com/books/67512</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[김명수 코트 이후]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598039/w/646/ex231103.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
