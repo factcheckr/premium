@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 23:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 01:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘와 요즘은 이러고 논다고?’ 30대는 절대 모르는 요즘 중고등학교 문화 5]]></title>
+            <link>https://www.careet.net/1215</link>
+            <guid>https://www.careet.net/1215</guid>
+            <pubDate>Wed, 15 Nov 2023 01:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[수능 잘 보려고 '총장 포카' 들고 다니는 게 유행?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/9b0732c2-9786-43c4-90a9-512590d991ca_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2024년 Z세대 트렌드 예측합니다. ‘트라이브십’만 기억하세요!]]></title>
             <link>https://www.careet.net/1224</link>
