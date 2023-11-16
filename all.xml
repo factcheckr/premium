@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 22:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 23:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -330,7 +330,7 @@
             <link>https://www.longblack.co/note/895</link>
             <guid>https://www.longblack.co/note/895</guid>
             <pubDate>Thu, 16 Nov 2023 15:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B머리가 잘 돌아가지 않는 느낌이 들 때면 키보드에서 잠시 손을 뗍니다. 손에 펜을 쥐고 종이 위에 의미 없는 낙서를 시작해요. 옆 동료 얼굴을 그려봤다가, 책상 위<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;머리가 잘 돌아가지 않는 느낌이 들 때면 키보드에서 잠시 손을 뗍니다. 손에 펜을 쥐고 종이 위에 의미 없는 낙서를 시작해요. 옆 동료 얼굴을 그려봤다가, 책상 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
