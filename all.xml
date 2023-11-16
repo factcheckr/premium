@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 21:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 22:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -417,6 +417,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[관리되는 경쟁을 추구하기에는 양국의 불신이 너무 깊다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67813</link>
+            <guid>https://www.bookjournalism.com/books/67813</guid>
+            <pubDate>Thu, 16 Nov 2023 22:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[바이든과 시진핑이 만났다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/599273/w/646/ex231117thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -503,14 +511,6 @@
             <pubDate>Tue, 07 Nov 2023 15:19:40 GMT</pubDate>
             <content:encoded><![CDATA[디지털 다이어리의 시대]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/597413/w/646/ex231107.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 규제에 관한 국제사회의 움직임이 공식화했다. 아직 승자는 알 수 없다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67506</link>
-            <guid>https://www.bookjournalism.com/books/67506</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[블레츨리 선언, 막후의 힘겨루기]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596740/w/646/ex231107.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
