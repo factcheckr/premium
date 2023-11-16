@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 23:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 01:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7368?fr=category</guid>
             <pubDate>Wed, 01 Nov 2023 07:17:30 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7368?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/11/01/1698807355_X2uw9lDqWBuEWYxY8uCy7Yuz8h3AtMQDfgjiy6FW.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 13분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7368?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">카카오톡, 유튜브, 토스증권이 실험실을 활용하는 진짜 이유</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트렌드 모니터링하려면 필수로 구독해야 하는 계정 19 (캐릿)]]></title>
+            <link>https://www.careet.net/1225</link>
+            <guid>https://www.careet.net/1225</guid>
+            <pubDate>Thu, 16 Nov 2023 01:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[SNS 알고리즘을 Z세대처럼 바꾸는 법! 트렌드 모니터링 영업 비밀 공개합니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/0861f1b8-8446-4e72-bf0f-90a2f8938b23_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘와 요즘은 이러고 논다고?’ 30대는 절대 모르는 요즘 중고등학교 문화 5 (캐릿)]]></title>
@@ -409,6 +417,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/599226/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[석유의 종말처럼 보이지만, 사실이 아니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/67797</link>
             <guid>https://www.bookjournalism.com/books/67797</guid>
@@ -423,14 +439,6 @@
             <pubDate>Wed, 15 Nov 2023 08:24:52 GMT</pubDate>
             <content:encoded><![CDATA[메가 시티의 거대한 그림자]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/599122/w/646/ft_231115.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/599124/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[‘스위프트적인 가치’가 팬덤을 타고 정치에 나섰다. (북저널리즘)]]></title>

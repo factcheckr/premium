@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 23:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 01:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌드 모니터링하려면 필수로 구독해야 하는 계정 19]]></title>
+            <link>https://www.careet.net/1225</link>
+            <guid>https://www.careet.net/1225</guid>
+            <pubDate>Thu, 16 Nov 2023 01:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[SNS 알고리즘을 Z세대처럼 바꾸는 법! 트렌드 모니터링 영업 비밀 공개합니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/0861f1b8-8446-4e72-bf0f-90a2f8938b23_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘와 요즘은 이러고 논다고?’ 30대는 절대 모르는 요즘 중고등학교 문화 5]]></title>
             <link>https://www.careet.net/1215</link>
