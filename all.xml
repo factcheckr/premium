@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 14:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 15:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,11 +334,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[웬디 맥노튼 : 뉴욕타임즈 그래픽 저널리스트가, 낯선 이를 그리며 배운 것들 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/895</link>
-            <guid>https://www.longblack.co/note/895</guid>
-            <pubDate>Thu, 16 Nov 2023 15:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;머리가 잘 돌아가지 않는 느낌이 들 때면 키보드에서 잠시 손을 뗍니다. 손에 펜을 쥐고 종이 위에 의미 없는 낙서를 시작해요. 옆 동료 얼굴을 그려봤다가, 책상 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[전념 : 무한 탐색의 시대에, 온 마음을 쏟아 나를 던진다는 것 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/897</link>
+            <guid>https://www.longblack.co/note/897</guid>
+            <pubDate>Fri, 17 Nov 2023 15:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C오랜만에 사회초년생 후배와 만났어요. 롱블랙 커피를 한 잔씩 앞에 두고, 꽤나 진지한 대화를 나눴답니다. 후배는 “성공한 사람들을 보면 좋아하는 일이 분명했던데, <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
