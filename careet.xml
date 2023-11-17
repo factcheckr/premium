@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 23:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 01:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탕후루 다음은 이거? 이주의 유행템 3]]></title>
+            <link>https://www.careet.net/1227</link>
+            <guid>https://www.careet.net/1227</guid>
+            <pubDate>Fri, 17 Nov 2023 01:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[F&amp;B 신흥강자부터 Z세대 사이에서 뜨는 포토 스튜디오까지!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/4cbb5236-8d43-4745-b1ae-e8ec5b7d6f01_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트렌드 모니터링하려면 필수로 구독해야 하는 계정 19]]></title>
             <link>https://www.careet.net/1225</link>
