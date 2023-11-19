@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-11-19T14:17:12.706Z</updated>
+    <updated>2023-11-19T15:18:36.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-11-18T15:17:20.494Z</updated>
-        <content type="html"><![CDATA[K가 일요일에 기억하고 싶은 문장  
-
-“쌀쌀할 때도 테라스에 나가요. 두꺼운 옷을 입고 앉아있는 거죠. 그러다 보면, 봄이 왔을 때 내 몸이 알아요. 달력을 보지 않아도, 봄을 그대로 느낄 수 있는 거죠. 우리 몸은 자연과 맞닿는 걸 좋아해요. 어쩌다 산에 가면 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[마케터 숭 : 고유함을 묻고 기록하고 알릴 때, 나라는 브랜드는 태어난다]]></title>
+        <id>https://www.longblack.co/note/891</id>
+        <link href="https://www.longblack.co/note/891"/>
+        <updated>2023-11-19T15:17:48.815Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C &nbsp;일이 잘 안될 때, 어떻게 하세요? 전 ‘영감노트’라는 인스타그램 계정에 들어가요! 일상 속 통통 튀는 영감들이 모여있거든요.“이 터널 끝날 때까지 정한다. 가<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
