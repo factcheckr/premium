@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 23:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 01:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방문객 수보다 중요한 게 ‘체류 시간’! 이주의 팝업스토어 2]]></title>
+            <link>https://www.careet.net/1226</link>
+            <guid>https://www.careet.net/1226</guid>
+            <pubDate>Mon, 20 Nov 2023 01:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 쌍쌍바, 롤 팝업스토어에 한 시간 이상 머문 이유는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8bf3bacb-9f21-479e-8644-be3d177f54ad_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[탕후루 다음은 이거? 이주의 유행템 3]]></title>
             <link>https://www.careet.net/1227</link>
