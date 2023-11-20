@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 22:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 23:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -346,7 +346,7 @@
             <link>https://www.longblack.co/note/890</link>
             <guid>https://www.longblack.co/note/890</guid>
             <pubDate>Mon, 20 Nov 2023 15:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L날이 쌀쌀해지면서 차를 자주 마셔. 온수가 나오는 정수기를 사고 싶더라. 정수기 검색하니 코웨이가 제일 먼저 나와. 그래, 정수기 렌탈 1위 회사지.얼마나 잘하고 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;날이 쌀쌀해지면서 차를 자주 마셔. 온수가 나오는 정수기를 사고 싶더라. 정수기 검색하니 코웨이가 제일 먼저 나와. 그래, 정수기 렌탈 1위 회사지.얼마나 잘하고<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
