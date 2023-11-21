@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 23:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 01:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일잘러 되고 싶은 신입사원을 위한 ‘비즈니스 매너’ 가이드]]></title>
+            <link>https://www.careet.net/1228</link>
+            <guid>https://www.careet.net/1228</guid>
+            <pubDate>Tue, 21 Nov 2023 01:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[선배들이 안 알려주는 거, 캐릿이 알려드립니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/7b266c4e-ab04-4ed2-86a6-98eff28bba74_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방문객 수보다 중요한 건 ‘체류 시간’! 이주의 팝업스토어 2]]></title>
             <link>https://www.careet.net/1226</link>
