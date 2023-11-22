@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 07:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 08:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -449,6 +449,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[도파민에 중독된 21세기를 일찌감치 예언한 작가가 있었다. 그가 그려낸 디스토피아의 이름은 《멋진 신세계》다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67944</link>
+            <guid>https://www.bookjournalism.com/books/67944</guid>
+            <pubDate>Wed, 22 Nov 2023 08:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[멋진 인간들을 예언하다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/600977/w/646/f231122thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -535,14 +543,6 @@
             <pubDate>Sun, 12 Nov 2023 16:22:11 GMT</pubDate>
             <content:encoded><![CDATA[안전을 보장하지 않는 UN 안보리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598532/w/646/ex231113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일주일 앞으로 다가온 수능, 한국의 플라스틱을 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/67681</link>
-            <guid>https://www.bookjournalism.com/audio/67681</guid>
-            <pubDate>Fri, 10 Nov 2023 08:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 11월 11일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598178/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
