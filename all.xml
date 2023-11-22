@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 14:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 15:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,11 +358,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[요시다 유니 : 바나나와 사과로 조각한 초현실 아트, 10만명을 불러 모으다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/892</link>
-            <guid>https://www.longblack.co/note/892</guid>
-            <pubDate>Tue, 21 Nov 2023 15:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;반쪽이 모자이크 처리된 바나나와 사과, 그리고 햄버거. 실사를 찍은 뒤 CG 작업을 했나 싶지만 아니에요. 픽셀 하나하나가 진짜 과육, 진짜 빵이죠. 음식을 정육<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[플라밍고 에스테이트 : 브랜드가 된 대저택과 정원, “자연은 최후의 럭셔리다” (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/896</link>
+            <guid>https://www.longblack.co/note/896</guid>
+            <pubDate>Wed, 22 Nov 2023 15:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C &nbsp;L이랑 B랑 어쩌다 은퇴 이야길 했어요. L은 선글라스 끼고 유럽 여행을 다니는 할머니가 되겠대요. 대체 몇 살까지 일을 하겠다는 건지! B는 작은 책방을 열겠<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -447,6 +447,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일본 경제가 꿈틀댄다. 성공하든 실패하든 한국 경제가 긴장해야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/67969</link>
+            <guid>https://www.bookjournalism.com/books/67969</guid>
+            <pubDate>Wed, 22 Nov 2023 15:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[처음 만나는 일본]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/601114/w/646/ex_231123_thum.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[도파민에 중독된 21세기를 일찌감치 예언한 작가가 있었다. 그가 그려낸 디스토피아의 이름은 《멋진 신세계》다. (북저널리즘)]]></title>
@@ -535,14 +543,6 @@
             <pubDate>Mon, 13 Nov 2023 15:20:49 GMT</pubDate>
             <content:encoded><![CDATA[빈대를 잡기 위해 필요한 것]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598640/w/646/ex231114.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중동과 우크라이나에서 전쟁이 벌어지고 있다. 그곳에 UN은 없다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67694</link>
-            <guid>https://www.bookjournalism.com/books/67694</guid>
-            <pubDate>Sun, 12 Nov 2023 16:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[안전을 보장하지 않는 UN 안보리]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598532/w/646/ex231113.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
