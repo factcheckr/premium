@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 08:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 09:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페이스X의 화성 이주 계획과 항생제, 기후 식단을 다룹니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/68059</link>
+            <guid>https://www.bookjournalism.com/audio/68059</guid>
+            <pubDate>Fri, 24 Nov 2023 09:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 11월 25일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/601937/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 15 Nov 2023 08:24:52 GMT</pubDate>
             <content:encoded><![CDATA[메가 시티의 거대한 그림자]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/599122/w/646/ft_231115.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘스위프트적인 가치’가 팬덤을 타고 정치에 나섰다.]]></title>
-            <link>https://www.bookjournalism.com/books/67750</link>
-            <guid>https://www.bookjournalism.com/books/67750</guid>
-            <pubDate>Tue, 14 Nov 2023 15:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[스위프티의 정치]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/598857/w/646/ex_231115_thum.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
