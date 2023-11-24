@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 14:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 15:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,11 +374,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김상욱 : “과학은 결국 삶의 태도다”, 다정한 물리학자가 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/887</link>
-            <guid>https://www.longblack.co/note/887</guid>
-            <pubDate>Thu, 23 Nov 2023 15:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B“붉은 빛을 내는 구리의 산화철과 태양계 화성의 붉은 빛, 그리고 우리 몸의 붉은 피가 같은 원소예요. 경이롭고, 아름답지 않나요?”이렇게 시작하는 강연을 하나 들<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[불안의 밤에 고하는 말 : 세상의 욕망을 욕망하지 말 것 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/889</link>
+            <guid>https://www.longblack.co/note/889</guid>
+            <pubDate>Fri, 24 Nov 2023 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B하루에 세 잔씩 마시던 커피를 줄이고 있어요. 잠을 푹 자고 싶어서요. 한 친구는 제게 “양을 세지 말고, 내가 가진 축복을 세라”고 권했어요. 내가 가진 축복을 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
