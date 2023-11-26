@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-11-26T14:16:23.121Z</updated>
+    <updated>2023-11-26T15:18:08.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-11-25T15:17:06.568Z</updated>
-        <content type="html"><![CDATA[K가 좋아한 요시다 유니의 이야기
-
-“좋은 기획은 말없이 전달할 수 있어야 해요. 제 전시회에서는 어린이가 어른에게 설명해 줘요. ‘이건 이렇게 만든 거야, 저건 저렇게 보여.’ 그런 모습을 보면 기뻐요. ‘알 수 있는 사람만 알면 됐어’라는 마음은 제게 없어요. <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[미스치프 2 : 한국을 찾은 악동, “떠들썩한 장난이 세상을 바꾼다​”]]></title>
+        <id>https://www.longblack.co/note/899</id>
+        <link href="https://www.longblack.co/note/899"/>
+        <updated>2023-11-26T15:17:18.638Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C &nbsp;“아직도 전시장에서 사진만 찍고 있는가?”전시회에 떡하니 이런 문구가 적혀 있다면? 전 솔직히 뜨끔했어요. 도발적인 문구로 관객에게 말을 거는 이들은 누굴까요?<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

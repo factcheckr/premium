@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 14:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 15:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,13 +374,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202309/fdee5e47-6fe5-4387-9ef4-abc397e37aee_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 25 Nov 2023 15:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[K가 좋아한 요시다 유니의 이야기
-
-“좋은 기획은 말없이 전달할 수 있어야 해요. 제 전시회에서는 어린이가 어른에게 설명해 줘요. ‘이건 이렇게 만든 거야, 저건 저렇게 보여.’ 그런 모습을 보면 기뻐요. ‘알 수 있는 사람만 알면 됐어’라는 마음은 제게 없어요. <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[미스치프 2 : 한국을 찾은 악동, “떠들썩한 장난이 세상을 바꾼다​” (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/899</link>
+            <guid>https://www.longblack.co/note/899</guid>
+            <pubDate>Sun, 26 Nov 2023 15:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C &nbsp;“아직도 전시장에서 사진만 찍고 있는가?”전시회에 떡하니 이런 문구가 적혀 있다면? 전 솔직히 뜨끔했어요. 도발적인 문구로 관객에게 말을 거는 이들은 누굴까요?<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
