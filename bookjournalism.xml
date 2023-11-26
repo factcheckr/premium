@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 23:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 01:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/601723/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[효과적 가속주의냐, 효과적 이타주의냐. 오픈AI 혼란의 중심에 철학적 충돌이 있다.]]></title>
+            <title><![CDATA[오픈AI 혼란의 중심에 철학적 충돌이 있다.]]></title>
             <link>https://www.bookjournalism.com/books/67985</link>
             <guid>https://www.bookjournalism.com/books/67985</guid>
             <pubDate>Thu, 23 Nov 2023 15:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[AI의 결정적 순간]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/601720/w/646/ex231124thm.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[효과적 가속주의 vs. 효과적 이타주의]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/601953/w/646/ex231124thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 경제가 꿈틀댄다. 성공하든 실패하든 한국 경제가 긴장해야 한다.]]></title>
