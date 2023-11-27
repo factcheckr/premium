@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 20:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 21:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -477,8 +477,8 @@
             <link>https://www.bookjournalism.com/books/68114</link>
             <guid>https://www.bookjournalism.com/books/68114</guid>
             <pubDate>Mon, 27 Nov 2023 15:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[양양 땅값이 양양해서]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602410/w/646/ex231128thm.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[양양의 위기]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602451/w/646/ex231128thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노잼도시가 늘어 가는 동안, 서울은 인스타그래머블한 위세를 떨친다.한국의 지방 도시들은 어쩌다 노잼이 됐을까? (북저널리즘)]]></title>
