@@ -4,9 +4,25 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 14:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 15:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강원도 양양군 땅값이 평당 7000만 원을 넘었다. 매력적인 작은 가게들이 파도처럼 밀려난다.]]></title>
+            <link>https://www.bookjournalism.com/books/68114</link>
+            <guid>https://www.bookjournalism.com/books/68114</guid>
+            <pubDate>Mon, 27 Nov 2023 15:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[양양 땅값이 양양해서]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602410/w/646/ex231128thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노잼도시가 늘어 가는 동안, 서울은 인스타그래머블한 위세를 떨친다.한국의 지방 도시들은 어쩌다 노잼이 됐을까?]]></title>
+            <link>https://www.bookjournalism.com/books/68031</link>
+            <guid>https://www.bookjournalism.com/books/68031</guid>
+            <pubDate>Mon, 27 Nov 2023 15:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[대전은 왜 노잼도시가 되었나]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602259/w/646/104-thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 17 Nov 2023 11:16:35 GMT</pubDate>
             <content:encoded><![CDATA[2023년 11월 18일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/600021/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관리되는 경쟁을 추구하기에는 양국의 불신이 너무 깊다.]]></title>
-            <link>https://www.bookjournalism.com/books/67813</link>
-            <guid>https://www.bookjournalism.com/books/67813</guid>
-            <pubDate>Thu, 16 Nov 2023 22:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[바이든과 시진핑이 만났다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/599273/w/646/ex231117thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석유의 종말처럼 보이지만, 사실이 아니다.]]></title>
-            <link>https://www.bookjournalism.com/books/67797</link>
-            <guid>https://www.bookjournalism.com/books/67797</guid>
-            <pubDate>Wed, 15 Nov 2023 15:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[석유 공룡 엑손모빌이 리튬 산업에 뛰어든 까닭]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/599193/w/646/ex_231116_thum.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
