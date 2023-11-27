@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 23:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 01:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602155/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[친미 후보냐, 친중 후보냐. 대만 총통 선거에서 누가 당선되느냐에 따라 국제 외교, 안보 지형이 달라진다.]]></title>
             <link>https://www.bookjournalism.com/books/68070</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 24 Nov 2023 09:19:33 GMT</pubDate>
             <content:encoded><![CDATA[2023년 11월 25일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/601937/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/601723/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[오픈AI 혼란의 중심에 철학적 충돌이 있다.]]></title>
