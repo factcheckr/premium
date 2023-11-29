@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 17:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 18:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -489,6 +489,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[COP28의 핵심 의제는 ‘손실과 피해’ 기금의 작동 방식을 정하는 것이다. 그런데 선진국과 개도국의 생각 차이가 크다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68172</link>
+            <guid>https://www.bookjournalism.com/books/68172</guid>
+            <pubDate>Wed, 29 Nov 2023 18:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[COP28이 만들 기후 금융]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602850/w/646/ex231130thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 이상 글로벌 사우스 대전략은 한국과 직접 연관이 없는 머나먼 이슈가 아니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/68153</link>
             <guid>https://www.bookjournalism.com/books/68153</guid>
@@ -575,14 +583,6 @@
             <pubDate>Tue, 21 Nov 2023 15:21:03 GMT</pubDate>
             <content:encoded><![CDATA[스펙 인플레이션의 역설]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/600893/w/646/ex_231122_thum.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT의 아버지가 이직한다. 너무 똑똑해진 AI의 미래가 불안하다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67909</link>
-            <guid>https://www.bookjournalism.com/books/67909</guid>
-            <pubDate>Mon, 20 Nov 2023 15:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[샘 알트먼의 MS행]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/600542/w/646/ex_231121_thum.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
