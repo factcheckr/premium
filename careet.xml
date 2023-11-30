@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 23:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 01:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 생각하는 ‘컨셉 장인’, 블루밍테일의 트렌드를 내 것으로 만드는 노하우]]></title>
+            <link>https://www.careet.net/1238</link>
+            <guid>https://www.careet.net/1238</guid>
+            <pubDate>Thu, 30 Nov 2023 01:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[‘아이돌이 사랑한 굿즈’ 블루밍테일처럼 완판 브랜드가 되고 싶다면?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/2d77a726-bc4d-437b-a1ea-25ffee2ca475_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 감성이 어려운 영상 제작자 주목! Z세대가 반응하는 배경 음악 리스트]]></title>
             <link>https://www.careet.net/1219</link>
