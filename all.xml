@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 01:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 02:31:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -497,6 +497,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602870/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[COP28의 핵심 의제는 ‘손실과 피해’ 기금의 작동 방식을 정하는 것이다. 그런데 선진국과 개도국의 생각 차이가 크다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/68172</link>
             <guid>https://www.bookjournalism.com/books/68172</guid>
@@ -511,14 +519,6 @@
             <pubDate>Wed, 29 Nov 2023 08:25:02 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 사우스의 대항적 공존]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602768/w/646/f231129thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602670/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[탈진실의 시대다. 사전 속에는 진짜 진실이 있을까. (북저널리즘)]]></title>
