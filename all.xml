@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 14:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 15:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,11 +262,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[원형들 : 고수 맛·이끼 모양 케이크, 힙지로부터 레드벨벳까지 사로잡다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/903</link>
-            <guid>https://www.longblack.co/note/903</guid>
-            <pubDate>Thu, 30 Nov 2023 15:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;지난주에 서촌을 지나는데 걸그룹 레드벨벳이 팝업스토어를 열었더라고요? 와, 요즘은 아이돌도 팝업을 한다더니! 호기심에 가봤어요. 사당처럼 꾸며진 한옥에서 굿즈랑 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[명상록 수업 : 철학자의 삶을 택한 황제가 남긴 말들 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/904</link>
+            <guid>https://www.longblack.co/note/904</guid>
+            <pubDate>Fri, 01 Dec 2023 15:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;지난 1월 새해를 시작하며 동료들과 한 해의 목표를 이야기했었어요. 저는 “겸손한 사람이 되겠다”고 했었습니다. 늘 배우는 자세로 경건하게 살고 싶다는 바람이었<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
