@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 07:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 08:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -353,6 +353,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아마존의 물류 사업과 피묻은 아보카도를 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/68204</link>
+            <guid>https://www.bookjournalism.com/audio/68204</guid>
+            <pubDate>Fri, 01 Dec 2023 08:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 12월 2일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603278/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -439,14 +447,6 @@
             <pubDate>Wed, 22 Nov 2023 15:19:59 GMT</pubDate>
             <content:encoded><![CDATA[처음 만나는 일본]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/601114/w/646/ex_231123_thum.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[도파민에 중독된 21세기를 일찌감치 예언한 작가가 있었다. 그가 그려낸 디스토피아의 이름은 《멋진 신세계》다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67944</link>
-            <guid>https://www.bookjournalism.com/books/67944</guid>
-            <pubDate>Wed, 22 Nov 2023 08:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[멋진 인간들을 예언하다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/600977/w/646/f231122thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
