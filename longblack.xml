@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-12-03T14:16:36.387Z</updated>
+    <updated>2023-12-03T15:18:07.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-12-02T15:17:14.788Z</updated>
-        <content type="html"><![CDATA[C가 좋아한 미스치프의 이야기
-
-“우리는 회색지대에 있는 문제를 파고들려고 해요. 규칙을 어기는 것도 굉장히 좋아해요. 세상에는 구조적으로 불공정한 면이 있잖아요. 우리가 할 수 있는 조치는 무엇일까를 생각하죠. 좋은 행동으로 뻗어져 나가는 데 영향을 주고 싶을지도<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[스마트워터 vs 라이프워터 : 코카-콜라와 펩시코, 두 콜라 거인의 물 대결]]></title>
+        <id>https://www.longblack.co/note/907</id>
+        <link href="https://www.longblack.co/note/907"/>
+        <updated>2023-12-03T15:17:16.680Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L &nbsp;‘선의의 경쟁’으로 좋은 기록을 내는 스포츠 선수들이 있지. 라이벌 덕분에 함께 성장하는 거야. 비즈니스 세계에도 라이벌은 있어. 엎치락뒤치락 경쟁하면서 시장이<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
