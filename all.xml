@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 14:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 15:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,11 +270,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[스마트워터 vs 라이프워터 : 코카-콜라와 펩시코, 두 콜라 거인의 물 대결 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/907</link>
-            <guid>https://www.longblack.co/note/907</guid>
-            <pubDate>Sun, 03 Dec 2023 15:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L &nbsp;‘선의의 경쟁’으로 좋은 기록을 내는 스포츠 선수들이 있지. 라이벌 덕분에 함께 성장하는 거야. 비즈니스 세계에도 라이벌은 있어. 엎치락뒤치락 경쟁하면서 시장이<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[배우 안재홍 : 정봉이와 주오남, 캐릭터를 삼키기까지 걸어온 시간들 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/906</link>
+            <guid>https://www.longblack.co/note/906</guid>
+            <pubDate>Mon, 04 Dec 2023 15:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;“어떻게 저렇게 변신할까?” 올해 안재홍 배우를 보며 든 생각이에요. 봄에는 농구 영화 「리바운드」의 풋풋한 코치였는데, 여름엔 「마스크걸」의 ‘주오남’이 됐어요<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -359,6 +359,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중국발 2차 요소수 대란이 우려된다. 공급망도, 대기오염도 괜찮은지 점검할 때다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68229</link>
+            <guid>https://www.bookjournalism.com/books/68229</guid>
+            <pubDate>Mon, 04 Dec 2023 15:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[요소수가 질문한다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603506/w/646/ex231205thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -447,14 +455,6 @@
             <pubDate>Fri, 24 Nov 2023 09:19:33 GMT</pubDate>
             <content:encoded><![CDATA[2023년 11월 25일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/601937/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI 혼란의 중심에 철학적 충돌이 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/67985</link>
-            <guid>https://www.bookjournalism.com/books/67985</guid>
-            <pubDate>Thu, 23 Nov 2023 15:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[효과적 가속주의 vs. 효과적 이타주의]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/601953/w/646/ex231124thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
