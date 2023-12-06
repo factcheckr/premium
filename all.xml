@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 07:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 08:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -377,6 +377,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인류세가 온다. 인류세의 개념과 등장 배경부터 인류세 논의의 의의와 가능성까지 살펴본다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68261</link>
+            <guid>https://www.bookjournalism.com/books/68261</guid>
+            <pubDate>Wed, 06 Dec 2023 08:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[인류세와 환경 인문사회학의 혁신]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603875/w/646/f231206thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -463,14 +471,6 @@
             <pubDate>Mon, 27 Nov 2023 15:20:54 GMT</pubDate>
             <content:encoded><![CDATA[대전은 왜 노잼도시가 되었나]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603489/w/646/104-thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친미 후보냐, 친중 후보냐. 대만 총통 선거에서 누가 당선되느냐에 따라 국제 외교, 안보 지형이 달라진다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68070</link>
-            <guid>https://www.bookjournalism.com/books/68070</guid>
-            <pubDate>Sun, 26 Nov 2023 16:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[대만 총통과 양안 관계]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602082/w/646/ex231127thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
