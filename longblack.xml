@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-12-07T22:19:20.195Z</updated>
+    <updated>2023-12-07T23:20:08.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/912</id>
         <link href="https://www.longblack.co/note/912"/>
         <updated>2023-12-07T15:20:05.228Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B“지금처럼 살면 성공하겠지만, 삶을 지속하기는 어렵다.”2010년 방시혁 하이브 의장은 한 심리상담가로부터 충고를 듣습니다. 방 의장은 당시 히트곡을 연이어 발표한<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;“지금처럼 살면 성공하겠지만, 삶을 지속하기는 어렵다.”&nbsp;2010년 방시혁 하이브 의장은 한 심리상담가로부터 충고를 듣습니다. 방 의장은 당시 히트곡을 연이어 발<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
