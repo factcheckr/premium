@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 07:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 08:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,6 +393,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2024 트렌드와 김포시의 기후동행카드 협약, 주방 안의 문화전쟁에 대해 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/68315</link>
+            <guid>https://www.bookjournalism.com/audio/68315</guid>
+            <pubDate>Fri, 08 Dec 2023 08:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 12월 9일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/604431/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[동해에서 오징어가 잡히지 않는다. 그 많던 오징어는 어디로 갔을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/68295</link>
             <guid>https://www.bookjournalism.com/books/68295</guid>
@@ -479,14 +487,6 @@
             <pubDate>Wed, 29 Nov 2023 08:25:02 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 사우스의 대항적 공존]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602768/w/646/f231129thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈진실의 시대다. 사전 속에는 진짜 진실이 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68139</link>
-            <guid>https://www.bookjournalism.com/books/68139</guid>
-            <pubDate>Tue, 28 Nov 2023 15:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[사전에서 진실을 찾는 사람들]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602634/w/646/ex_231129_th.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
