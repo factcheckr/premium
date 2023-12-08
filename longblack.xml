@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-12-08T14:19:46.022Z</updated>
+    <updated>2023-12-08T15:21:11.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[주현덕 : 방시혁·RM의 멘탈 코치가 말하는, 심리학을 알아야 하는 이유]]></title>
-        <id>https://www.longblack.co/note/912</id>
-        <link href="https://www.longblack.co/note/912"/>
-        <updated>2023-12-07T15:20:05.228Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;“지금처럼 살면 성공하겠지만, 삶을 지속하기는 어렵다.”&nbsp;2010년 방시혁 하이브 의장은 한 심리상담가로부터 충고를 듣습니다. 방 의장은 당시 히트곡을 연이어 발<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[1%를 보는 눈 : 알고리즘이 따라올 수 없는 ‘인간 지능’에 대하여]]></title>
+        <id>https://www.longblack.co/note/910</id>
+        <link href="https://www.longblack.co/note/910"/>
+        <updated>2023-12-08T15:20:24.225Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B &nbsp;생성형 챗GPT의 시대라고 하죠. 유튜브 영상도, 그림도, 번역도 챗GPT 하나면 웬만큼은 뚝딱 해낼 수 있어요.그럼에도 인간만의 창의적인 안목이 있다고 저는 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

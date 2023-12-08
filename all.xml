@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 14:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 15:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,11 +302,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[주현덕 : 방시혁·RM의 멘탈 코치가 말하는, 심리학을 알아야 하는 이유 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/912</link>
-            <guid>https://www.longblack.co/note/912</guid>
-            <pubDate>Thu, 07 Dec 2023 15:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;“지금처럼 살면 성공하겠지만, 삶을 지속하기는 어렵다.”&nbsp;2010년 방시혁 하이브 의장은 한 심리상담가로부터 충고를 듣습니다. 방 의장은 당시 히트곡을 연이어 발<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[1%를 보는 눈 : 알고리즘이 따라올 수 없는 ‘인간 지능’에 대하여 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/910</link>
+            <guid>https://www.longblack.co/note/910</guid>
+            <pubDate>Fri, 08 Dec 2023 15:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;생성형 챗GPT의 시대라고 하죠. 유튜브 영상도, 그림도, 번역도 챗GPT 하나면 웬만큼은 뚝딱 해낼 수 있어요.그럼에도 인간만의 창의적인 안목이 있다고 저는 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
