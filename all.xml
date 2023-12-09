@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 14:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 15:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,11 +302,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[1%를 보는 눈 : 알고리즘이 따라올 수 없는 ‘인간 지능’에 대하여 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/910</link>
-            <guid>https://www.longblack.co/note/910</guid>
-            <pubDate>Fri, 08 Dec 2023 15:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;생성형 챗GPT의 시대라고 하죠. 유튜브 영상도, 그림도, 번역도 챗GPT 하나면 웬만큼은 뚝딱 해낼 수 있어요.그럼에도 인간만의 창의적인 안목이 있다고 저는 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 09 Dec 2023 15:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[B가 새겨들은 주현덕 멘탈케어 대표의 이야기
+
+“우리 세대는 특히 불쌍해, 도전과 성취를 경험할 기회가 없어. 이런 연민이 당신의 삶을 바꿀 수 없습니다. 자기 연민에 빠지면 점점 어려운 일은 피하려고 해요. 생각을 확장하고 도전해 볼 용기를 내지 않게 됩니다. 좀<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>

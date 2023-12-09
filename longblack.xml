@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-12-09T14:16:34.217Z</updated>
+    <updated>2023-12-09T15:18:06.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[1%를 보는 눈 : 알고리즘이 따라올 수 없는 ‘인간 지능’에 대하여]]></title>
-        <id>https://www.longblack.co/note/910</id>
-        <link href="https://www.longblack.co/note/910"/>
-        <updated>2023-12-08T15:20:24.225Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B &nbsp;생성형 챗GPT의 시대라고 하죠. 유튜브 영상도, 그림도, 번역도 챗GPT 하나면 웬만큼은 뚝딱 해낼 수 있어요.그럼에도 인간만의 창의적인 안목이 있다고 저는 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-12-09T15:17:16.765Z</updated>
+        <content type="html"><![CDATA[B가 새겨들은 주현덕 멘탈케어 대표의 이야기
+
+“우리 세대는 특히 불쌍해, 도전과 성취를 경험할 기회가 없어. 이런 연민이 당신의 삶을 바꿀 수 없습니다. 자기 연민에 빠지면 점점 어려운 일은 피하려고 해요. 생각을 확장하고 도전해 볼 용기를 내지 않게 됩니다. 좀<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
