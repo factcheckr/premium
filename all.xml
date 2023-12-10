@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 21:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 22:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -306,7 +306,7 @@
             <link>https://www.longblack.co/note/911</link>
             <guid>https://www.longblack.co/note/911</guid>
             <pubDate>Sun, 10 Dec 2023 15:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;&nbsp;가장자리가 투명한 결정結晶들이 가로 4개, 세로 5개씩 도열해 있어요. 보라색, 노란색, 상아색, 에메랄드색, 소라색, 주홍색… 보석 같기도, 아이스크림 같기도<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;가장자리가 투명한 결정結晶들이 가로 4개, 세로 5개씩 도열해 있어요. 보라색, 노란색, 상아색, 에메랄드색, 소라색, 주홍색… 보석 같기도, 아이스크림 같기도 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>

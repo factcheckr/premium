@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-12-10T21:16:25.433Z</updated>
+    <updated>2023-12-10T22:18:25.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/911</id>
         <link href="https://www.longblack.co/note/911"/>
         <updated>2023-12-10T15:17:33.135Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;&nbsp;가장자리가 투명한 결정結晶들이 가로 4개, 세로 5개씩 도열해 있어요. 보라색, 노란색, 상아색, 에메랄드색, 소라색, 주홍색… 보석 같기도, 아이스크림 같기도<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;가장자리가 투명한 결정結晶들이 가로 4개, 세로 5개씩 도열해 있어요. 보라색, 노란색, 상아색, 에메랄드색, 소라색, 주홍색… 보석 같기도, 아이스크림 같기도 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
