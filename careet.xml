@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 03:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 04:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 100인이 직접 투표한 ‘2023 일 잘한 브랜드 대상’]]></title>
+            <link>https://www.careet.net/1242</link>
+            <guid>https://www.careet.net/1242</guid>
+            <pubDate>Mon, 11 Dec 2023 04:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[올해 영예의 대상 주인공은 어떤 브랜드?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/3fb05384-d68a-4963-a700-910b7f4a5410_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 3대 화두 ‘도파민, 불안, 크리스마스’ 반영한 유행템 4]]></title>
             <link>https://www.careet.net/1246</link>
