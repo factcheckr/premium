@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 14:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 15:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,11 +310,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[구본창 : 버려진 비누와 백자 사진, 무인양품과 대영박물관을 사로잡다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/911</link>
-            <guid>https://www.longblack.co/note/911</guid>
-            <pubDate>Sun, 10 Dec 2023 15:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;가장자리가 투명한 결정結晶들이 가로 4개, 세로 5개씩 도열해 있어요. 보라색, 노란색, 상아색, 에메랄드색, 소라색, 주홍색… 보석 같기도, 아이스크림 같기도 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[슬러티 비건 : 발칙한 채식 버거, 1300억짜리 비즈니스가 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/916</link>
+            <guid>https://www.longblack.co/note/916</guid>
+            <pubDate>Mon, 11 Dec 2023 15:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;혹시 ‘비건 섹슈얼Veganism Sexual’이란 말을 들어보셨나요? 겉모습을 아무리 잘 꾸며도 환경을 생각하지 않으면, 멋지지 않다고 여기는 시대상을 보여주는<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -399,6 +399,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파나마에 가뭄이 들었다. 전 세계의 크리스마스가 가난해진다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68343</link>
+            <guid>https://www.bookjournalism.com/books/68343</guid>
+            <pubDate>Mon, 11 Dec 2023 15:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[파나마 운하가 막히면 일어나는 일]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/604866/w/646/e231212_m.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -487,14 +495,6 @@
             <pubDate>Thu, 30 Nov 2023 23:19:48 GMT</pubDate>
             <content:encoded><![CDATA[헨리 키신저, 1923-2023]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602968/w/646/ex231201thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COP28의 핵심 의제는 ‘손실과 피해’ 기금의 작동 방식을 정하는 것이다. 그런데 선진국과 개도국의 생각 차이가 크다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68172</link>
-            <guid>https://www.bookjournalism.com/books/68172</guid>
-            <pubDate>Wed, 29 Nov 2023 18:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[COP28이 만들 기후 금융]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602850/w/646/ex231130thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
