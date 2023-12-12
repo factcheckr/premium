@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 14:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 15:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,11 +318,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[슬러티 비건 : 발칙한 채식 버거, 1300억짜리 비즈니스가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/916</link>
-            <guid>https://www.longblack.co/note/916</guid>
-            <pubDate>Mon, 11 Dec 2023 15:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;혹시 ‘비건 섹슈얼Veganism Sexual’이란 말을 들어보셨나요? 겉모습을 아무리 잘 꾸며도 환경을 생각하지 않으면, 멋지지 않다고 여기는 시대상을 보여주는<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[난로회 최정윤 : 한식을 주인공으로, 세상에 없던 힙한 풍경을 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/917</link>
+            <guid>https://www.longblack.co/note/917</guid>
+            <pubDate>Tue, 12 Dec 2023 15:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K몽탄·고도식·카린지 등을 기획한 정동우 대표, 금토일샴페인빠의 한충희 대표, 청기와타운의 양지삼 대표, 벽제갈비의 김태경 부회장… 내로라하는 국내 F&amp;B 업계 인사<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -407,6 +407,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[불안한 혁신이 미래를 만든다. 반면 코스맥스는 맥도날드의 편안한 과거다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68373</link>
+            <guid>https://www.bookjournalism.com/books/68373</guid>
+            <pubDate>Tue, 12 Dec 2023 15:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[노스탤지어에 빠진 맥도날드]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605015/w/646/231213_exp_th.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -495,14 +503,6 @@
             <pubDate>Fri, 01 Dec 2023 08:24:49 GMT</pubDate>
             <content:encoded><![CDATA[2023년 12월 2일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603278/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헨리 키신저가 세상을 떠났다. 한 시대가 끝났다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68186</link>
-            <guid>https://www.bookjournalism.com/books/68186</guid>
-            <pubDate>Thu, 30 Nov 2023 23:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[헨리 키신저, 1923-2023]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602968/w/646/ex231201thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
