@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 14:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 15:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민의힘 혁신위원회가 성과 없이 조기 해산했다. 한국 정당의 혁신 기구는 왜 실패할까?]]></title>
+            <link>https://www.bookjournalism.com/books/68388</link>
+            <guid>https://www.bookjournalism.com/books/68388</guid>
+            <pubDate>Wed, 13 Dec 2023 15:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[혁신위는 왜 실패할까]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605908/w/646/ex231214thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 도시에는 새로운 이동 수단이 필요하다. 관건은 인간의 소유욕이다..]]></title>
             <link>https://www.bookjournalism.com/books/68385</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 04 Dec 2023 15:21:06 GMT</pubDate>
             <content:encoded><![CDATA[요소수가 질문한다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603506/w/646/ex231205thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 인구는 필연적으로 감소할 것이다. 20세기로 되돌리려 하지 말고 적응해야 한다.]]></title>
-            <link>https://www.bookjournalism.com/books/68213</link>
-            <guid>https://www.bookjournalism.com/books/68213</guid>
-            <pubDate>Sun, 03 Dec 2023 16:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[인구 감소는 정말 나쁜가]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603343/w/646/ex231204thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

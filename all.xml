@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 14:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 15:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,11 +326,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[난로회 최정윤 : 한식을 주인공으로, 세상에 없던 힙한 풍경을 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/917</link>
-            <guid>https://www.longblack.co/note/917</guid>
-            <pubDate>Tue, 12 Dec 2023 15:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;몽탄·고도식·카린지 등을 기획한 정동우 대표, 금토일샴페인빠의 한충희 대표, 청기와타운의 양지삼 대표, 벽제갈비의 김태현 부회장… 내로라하는 국내 F&amp;B 업계 인<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[피비파일로 : 이름만으로 비즈니스가 된다는 것 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/918</link>
+            <guid>https://www.longblack.co/note/918</guid>
+            <pubDate>Wed, 13 Dec 2023 15:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;혹시 한 5년간 업계를 떠나있다가 복귀하면, 당신의 위상은 어떨 것 같아? 최근 한 인물을 보면서 난 그런 생각에 잠겼었어. &nbsp;지난 10월30일이었지. 한 패션 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -415,6 +415,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국민의힘 혁신위원회가 성과 없이 조기 해산했다. 한국 정당의 혁신 기구는 왜 실패할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68388</link>
+            <guid>https://www.bookjournalism.com/books/68388</guid>
+            <pubDate>Wed, 13 Dec 2023 15:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[혁신위는 왜 실패할까]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605908/w/646/ex231214thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 도시에는 새로운 이동 수단이 필요하다. 관건은 인간의 소유욕이다.. (북저널리즘)]]></title>
@@ -503,14 +511,6 @@
             <pubDate>Mon, 04 Dec 2023 15:21:06 GMT</pubDate>
             <content:encoded><![CDATA[요소수가 질문한다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603506/w/646/ex231205thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 인구는 필연적으로 감소할 것이다. 20세기로 되돌리려 하지 말고 적응해야 한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68213</link>
-            <guid>https://www.bookjournalism.com/books/68213</guid>
-            <pubDate>Sun, 03 Dec 2023 16:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[인구 감소는 정말 나쁜가]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603343/w/646/ex231204thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
