@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 23:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 01:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7419?fr=category</guid>
             <pubDate>Fri, 01 Dec 2023 06:25:10 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7419?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/12/01/1701409697_WfnoONABrVvycY4Cs3isBb12mdPPYKMLk6q9Z3NO.png?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 2분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7419?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">11월 4주차 ~ 12월 1주차 퍼블리 아티클 형광펜 모음</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘로컬 힙’이 뜬다! 2024 로컬 마케팅 이렇게 하세요 (캐릿)]]></title>
+            <link>https://www.careet.net/1241</link>
+            <guid>https://www.careet.net/1241</guid>
+            <pubDate>Wed, 13 Dec 2023 01:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 지역 축제에 줄을 서고 있다고? 대체 왜?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/8f5018dd-e983-48fd-8852-ce1c7761231b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 100명에게 물었습니다 “내년에도 살아남을 트렌드는?” (캐릿)]]></title>
@@ -322,7 +330,7 @@
             <link>https://www.longblack.co/note/917</link>
             <guid>https://www.longblack.co/note/917</guid>
             <pubDate>Tue, 12 Dec 2023 15:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K몽탄·고도식·카린지 등을 기획한 정동우 대표, 금토일샴페인빠의 한충희 대표, 청기와타운의 양지삼 대표, 벽제갈비의 김태현 부회장… 내로라하는 국내 F&amp;B 업계 인사<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;몽탄·고도식·카린지 등을 기획한 정동우 대표, 금토일샴페인빠의 한충희 대표, 청기와타운의 양지삼 대표, 벽제갈비의 김태현 부회장… 내로라하는 국내 F&amp;B 업계 인<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -409,20 +417,20 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605035/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[불안한 혁신이 미래를 만든다. 반면 코스맥스는 맥도날드의 편안한 과거다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/68373</link>
             <guid>https://www.bookjournalism.com/books/68373</guid>
             <pubDate>Tue, 12 Dec 2023 15:21:12 GMT</pubDate>
             <content:encoded><![CDATA[노스탤지어에 빠진 맥도날드]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605015/w/646/231213_exp_th.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/604871/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[파나마에 가뭄이 들었다. 전 세계의 크리스마스가 가난해진다. (북저널리즘)]]></title>

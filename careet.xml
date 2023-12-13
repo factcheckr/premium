@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 23:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 01:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘로컬 힙’이 뜬다! 2024 로컬 마케팅 이렇게 하세요]]></title>
+            <link>https://www.careet.net/1241</link>
+            <guid>https://www.careet.net/1241</guid>
+            <pubDate>Wed, 13 Dec 2023 01:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 지역 축제에 줄을 서고 있다고? 대체 왜?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/8f5018dd-e983-48fd-8852-ce1c7761231b_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 100명에게 물었습니다 “내년에도 살아남을 트렌드는?”]]></title>
             <link>https://www.careet.net/1245</link>
