@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 23:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 01:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023년, 모르고 지나가면 안 되는 밈(meme) 타임라인]]></title>
+            <link>https://www.careet.net/1247</link>
+            <guid>https://www.careet.net/1247</guid>
+            <pubDate>Thu, 14 Dec 2023 01:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘폼 미쳤다’가 1월에 유행했었다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/3f6805f3-2796-4831-aaaa-c6d394157556_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘로컬 힙’이 뜬다! 2024 로컬 마케팅 이렇게 하세요]]></title>
             <link>https://www.careet.net/1241</link>

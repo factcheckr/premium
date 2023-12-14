@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 23:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 01:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7409?fr=category</guid>
             <pubDate>Mon, 04 Dec 2023 06:25:14 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7409?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/12/04/1701659869_EVISd1Y1pht5wbpE871RpfFM8zBZEtOC94IHsiJw.gif?fm=gif&amp;auto=format%2Ccompress&amp;gif-q=35&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 9분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7409?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">현실적인 새해 목표 로드맵 그리는 법(노션 템플릿 &amp;예시 제공)</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023년, 모르고 지나가면 안 되는 밈(meme) 타임라인 (캐릿)]]></title>
+            <link>https://www.careet.net/1247</link>
+            <guid>https://www.careet.net/1247</guid>
+            <pubDate>Thu, 14 Dec 2023 01:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘폼 미쳤다’가 1월에 유행했었다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/3f6805f3-2796-4831-aaaa-c6d394157556_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘로컬 힙’이 뜬다! 2024 로컬 마케팅 이렇게 하세요 (캐릿)]]></title>
@@ -417,6 +425,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605946/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[국민의힘 혁신위원회가 성과 없이 조기 해산했다. 한국 정당의 혁신 기구는 왜 실패할까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/68388</link>
             <guid>https://www.bookjournalism.com/books/68388</guid>
@@ -431,14 +447,6 @@
             <pubDate>Wed, 13 Dec 2023 08:24:30 GMT</pubDate>
             <content:encoded><![CDATA[도시의 미래는 모빌리티를 타고 온다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605732/w/646/f231213thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605035/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[불안한 혁신이 미래를 만든다. 반면 코스맥스는 맥도날드의 편안한 과거다. (북저널리즘)]]></title>
