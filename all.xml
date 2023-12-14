@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 14:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 15:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,11 +334,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[피비파일로 : 이름만으로 비즈니스가 된다는 것 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/918</link>
-            <guid>https://www.longblack.co/note/918</guid>
-            <pubDate>Wed, 13 Dec 2023 15:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;혹시 한 5년간 업계를 떠나있다가 복귀하면, 당신의 위상은 어떨 것 같아? 최근 한 인물을 보면서 난 그런 생각에 잠겼었어. &nbsp;지난 10월30일이었지. 한 패션 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[푸하하하프렌즈 : 하이브 사옥부터 성수연방까지, 일은 유쾌하게 건축은 진지하게 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/919</link>
+            <guid>https://www.longblack.co/note/919</guid>
+            <pubDate>Thu, 14 Dec 2023 15:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;오늘은 여러분께 창작 집단을 하나 소개하려 해요. 이름은 푸하하하프렌즈. 개그맨이냐고요? 올해로 10주년을 맞은 건축사사무소예요. 한승재, 한양규, 윤한진. 세 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -423,6 +423,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[로봇을 입고 근무하는 시대가 온다. 유토피아일까, 디스토피아일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68438</link>
+            <guid>https://www.bookjournalism.com/books/68438</guid>
+            <pubDate>Thu, 14 Dec 2023 15:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[현대차의 웨어러블 로봇 실험]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605990/w/646/e231215_thm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -511,14 +519,6 @@
             <pubDate>Tue, 05 Dec 2023 15:21:28 GMT</pubDate>
             <content:encoded><![CDATA[페미니즘은 집게손가락 논란을 해결할 수 없다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603632/w/646/231206_exp_th.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중국발 2차 요소수 대란이 우려된다. 공급망도, 대기오염도 괜찮은지 점검할 때다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68229</link>
-            <guid>https://www.bookjournalism.com/books/68229</guid>
-            <pubDate>Mon, 04 Dec 2023 15:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[요소수가 질문한다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603506/w/646/ex231205thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
