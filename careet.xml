@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 01:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 02:32:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/5deb297a-2a3b-4dad-a330-2cb4a468d4bc_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[2023년, 모르고 지나가면 안 되는 밈(meme) 타임라인]]></title>
+            <title><![CDATA[모르고 지나가면 안 되는 2023 밈(meme) 타임라인]]></title>
             <link>https://www.careet.net/1247</link>
             <guid>https://www.careet.net/1247</guid>
             <pubDate>Thu, 14 Dec 2023 01:19:23 GMT</pubDate>
