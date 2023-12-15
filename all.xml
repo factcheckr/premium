@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 08:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 09:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -465,12 +465,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605908/w/646/ex231214thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 도시에는 새로운 이동 수단이 필요하다. 관건은 인간의 소유욕이다.. (북저널리즘)]]></title>
+            <title><![CDATA[새로운 도시에는 새로운 이동 수단이 필요하다. 관건은 인간의 소유욕이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/68385</link>
             <guid>https://www.bookjournalism.com/books/68385</guid>
             <pubDate>Wed, 13 Dec 2023 08:24:30 GMT</pubDate>
             <content:encoded><![CDATA[도시의 미래는 모빌리티를 타고 온다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605732/w/646/f231213thm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/606369/w/646/f231213thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불안한 혁신이 미래를 만든다. 반면 코스맥스는 맥도날드의 편안한 과거다. (북저널리즘)]]></title>
