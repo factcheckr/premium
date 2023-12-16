@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-12-16T14:17:41.661Z</updated>
+    <updated>2023-12-16T15:18:18.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[나는 왜 무기력을 되풀이하는가 : 갓생 시대에, 열정에 대해 성찰하다]]></title>
-        <id>https://www.longblack.co/note/920</id>
-        <link href="https://www.longblack.co/note/920"/>
-        <updated>2023-12-15T15:19:59.773Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B &nbsp;지인들의 SNS 피드에, 이른바 ‘갓생’(신GOD처럼 성실한 인생) 이라는 단어가 자주 눈에 띕니다.&nbsp;요즘 청년들은 하루를 성실히 채우고, 다이어트를 해내고, <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-12-16T15:17:28.724Z</updated>
+        <content type="html"><![CDATA[B가 메모한 구본창 사진작가의 이야기
+
+“라디오 주파수를 돌리는 것처럼 일해요. 이 일을 하다가 다른 일로 넘어갈 때, 이전 일의 주파수는 작아지죠. 중요한 건 완전히 끄지는 않는 겁니다. 할 일을 ‘0’에 맞추면 안 돼요. 20%는 끄지 않고 남겨두면, 다시 돌아<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

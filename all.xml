@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 14:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 15:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,11 +342,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[나는 왜 무기력을 되풀이하는가 : 갓생 시대에, 열정에 대해 성찰하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/920</link>
-            <guid>https://www.longblack.co/note/920</guid>
-            <pubDate>Fri, 15 Dec 2023 15:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;지인들의 SNS 피드에, 이른바 ‘갓생’(신GOD처럼 성실한 인생) 이라는 단어가 자주 눈에 띕니다.&nbsp;요즘 청년들은 하루를 성실히 채우고, 다이어트를 해내고, <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 16 Dec 2023 15:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[B가 메모한 구본창 사진작가의 이야기
+
+“라디오 주파수를 돌리는 것처럼 일해요. 이 일을 하다가 다른 일로 넘어갈 때, 이전 일의 주파수는 작아지죠. 중요한 건 완전히 끄지는 않는 겁니다. 할 일을 ‘0’에 맞추면 안 돼요. 20%는 끄지 않고 남겨두면, 다시 돌아<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
