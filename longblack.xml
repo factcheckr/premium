@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-12-17T14:17:00.454Z</updated>
+    <updated>2023-12-17T15:18:23.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-12-16T15:17:28.724Z</updated>
-        <content type="html"><![CDATA[B가 메모한 구본창 사진작가의 이야기
-
-“라디오 주파수를 돌리는 것처럼 일해요. 이 일을 하다가 다른 일로 넘어갈 때, 이전 일의 주파수는 작아지죠. 중요한 건 완전히 끄지는 않는 겁니다. 할 일을 ‘0’에 맞추면 안 돼요. 20%는 끄지 않고 남겨두면, 다시 돌아<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[관점24 : 헬리녹스·이케아·마케터 숭, 핵개인의 시대를 말하다]]></title>
+        <id>https://www.longblack.co/note/921</id>
+        <link href="https://www.longblack.co/note/921"/>
+        <updated>2023-12-17T15:17:35.823Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;롱블랙은 지난 2년간 700여 개의 노트로 감각적인 혁신가들의 이야기를 전해왔어. 이들의 공통점이 뭐였을까? 트렌드보다 나에게 더 집중한다는 것! 비즈니스 리더는<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

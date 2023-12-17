@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 14:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 15:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,13 +342,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 16 Dec 2023 15:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[B가 메모한 구본창 사진작가의 이야기
-
-“라디오 주파수를 돌리는 것처럼 일해요. 이 일을 하다가 다른 일로 넘어갈 때, 이전 일의 주파수는 작아지죠. 중요한 건 완전히 끄지는 않는 겁니다. 할 일을 ‘0’에 맞추면 안 돼요. 20%는 끄지 않고 남겨두면, 다시 돌아<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[관점24 : 헬리녹스·이케아·마케터 숭, 핵개인의 시대를 말하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/921</link>
+            <guid>https://www.longblack.co/note/921</guid>
+            <pubDate>Sun, 17 Dec 2023 15:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;롱블랙은 지난 2년간 700여 개의 노트로 감각적인 혁신가들의 이야기를 전해왔어. 이들의 공통점이 뭐였을까? 트렌드보다 나에게 더 집중한다는 것! 비즈니스 리더는<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -433,6 +431,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[테슬라가 북유럽 노조와 대결하고 있다. 다음 상대는 독일, 어쩌면 미국이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68471</link>
+            <guid>https://www.bookjournalism.com/books/68471</guid>
+            <pubDate>Sun, 17 Dec 2023 15:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라의 적, 노조]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/606389/w/646/ex231218thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일론 머스크가 죽인 X와 나이 들기 싫은 Z세대, 기후 신춘문예를 다룹니다. (북저널리즘)]]></title>
@@ -521,14 +527,6 @@
             <pubDate>Wed, 06 Dec 2023 15:21:19 GMT</pubDate>
             <content:encoded><![CDATA[은행 달력의 마지막 장]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603925/w/646/IMG_1624.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[인류세가 온다. 인류세의 개념과 등장 배경부터 인류세 논의의 의의와 가능성까지 살펴본다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68261</link>
-            <guid>https://www.bookjournalism.com/books/68261</guid>
-            <pubDate>Wed, 06 Dec 2023 08:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[인류세와 환경 인문사회학의 혁신]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603875/w/646/f231206thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
