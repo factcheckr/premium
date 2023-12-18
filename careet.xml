@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 08:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 09:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 18 Dec 2023 01:21:03 GMT</pubDate>
             <content:encoded><![CDATA[SNS 이벤트 고민 중인 분들이라면 주목!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/257bb1a5-ec9b-4e96-b5d3-340ff7cb4f40_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿x대학내일20대연구소] 2023 Z세대 소비 데이터 총결산]]></title>
+            <link>https://www.careet.net/1250</link>
+            <guid>https://www.careet.net/1250</guid>
+            <pubDate>Mon, 18 Dec 2023 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 소비하고 즐긴 거의 모든 것]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/52b18640-f2d7-472b-b429-34bdbd47e887_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[“올해 이게 유행이었지?” 이미지 한 장으로 끝내는 2023 트렌드 회고]]></title>
