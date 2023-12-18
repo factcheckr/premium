@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 14:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 15:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[캐릿x대학내일20대연구소] 2023 Z세대 소비 데이터 총결산]]></title>
+            <link>https://www.careet.net/1250</link>
+            <guid>https://www.careet.net/1250</guid>
+            <pubDate>Mon, 18 Dec 2023 15:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 소비하고 즐긴 거의 모든 것]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/52b18640-f2d7-472b-b429-34bdbd47e887_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소비자 참여형 이벤트는 이렇게 하는 것! 이주의 일 잘한 브랜드 2]]></title>
             <link>https://www.careet.net/1249</link>
