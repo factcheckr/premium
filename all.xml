@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 15:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 16:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,7 +358,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[관점 24 : 포인트오브뷰·글로우서울·종가, 뉴헤리티지를 말하다 (롱블랙)]]></title>
+            <title><![CDATA[관점24 : 포인트오브뷰 · 글로우서울 · 종가, 뉴헤리티지를 말하다 (롱블랙)]]></title>
             <link>https://www.longblack.co/note/923</link>
             <guid>https://www.longblack.co/note/923</guid>
             <pubDate>Tue, 19 Dec 2023 15:19:17 GMT</pubDate>
