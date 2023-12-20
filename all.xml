@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 14:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 15:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,11 +366,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[관점24 : 포인트오브뷰 · 글로우서울 · 종가, 뉴헤리티지를 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/923</link>
-            <guid>https://www.longblack.co/note/923</guid>
-            <pubDate>Tue, 19 Dec 2023 15:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;전통 깊은 브랜드와 단지 오래된 브랜드를 가르는 기준은 무엇일까요? 헤리티지Heritage입니다. 적게는 수십 년, 길게는 수백 년간 이어온 브랜드의 히스토리에서<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[관점 24 : 브랜딩의 클리셰가 된 진정성, 그 핵심을 말하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/924</link>
+            <guid>https://www.longblack.co/note/924</guid>
+            <pubDate>Wed, 20 Dec 2023 15:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K &nbsp;어느덧 &lt;관점 24 : 비즈니스의 내일을 말하다&gt; 마지막 시간입니다. 이번 컨퍼런스에서 유독 제 마음을 끌어당긴 주제가 있었어요. 바로 ‘진정성’. 요즘 너도나<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -455,6 +455,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[논란의 개 식용 금지 특별법이 상임위 문턱을 넘었다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68525</link>
+            <guid>https://www.bookjournalism.com/books/68525</guid>
+            <pubDate>Wed, 20 Dec 2023 15:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[개 식용이 금지된다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/607208/w/646/e231221_thm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[시대에 뒤떨어진 음악가 라흐마니노프는 어떻게 20세기를 호령했나 (북저널리즘)]]></title>
@@ -543,14 +551,6 @@
             <pubDate>Mon, 11 Dec 2023 15:20:52 GMT</pubDate>
             <content:encoded><![CDATA[파나마 운하가 막히면 일어나는 일]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/604866/w/646/e231212_m.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU가 세계 최초로 AI 규제법에 합의했다. GDPR처럼 글로벌 표준이 될 수 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68321</link>
-            <guid>https://www.bookjournalism.com/books/68321</guid>
-            <pubDate>Sun, 10 Dec 2023 15:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최초의 AI 규제법]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/604731/w/646/ex231211thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
