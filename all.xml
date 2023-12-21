@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 14:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 15:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,11 +374,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[관점 24 : 브랜딩의 클리셰가 된 진정성, 그 핵심을 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/924</link>
-            <guid>https://www.longblack.co/note/924</guid>
-            <pubDate>Wed, 20 Dec 2023 15:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K &nbsp;어느덧 &lt;관점 24 : 비즈니스의 내일을 말하다&gt; 마지막 시간입니다. 이번 컨퍼런스에서 유독 제 마음을 끌어당긴 주제가 있었어요. 바로 ‘진정성’. 요즘 너도나<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[에디시옹 장물랭 : 1인 출판사, 180년 된 유럽의 고서적을 복각하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/925</link>
+            <guid>https://www.longblack.co/note/925</guid>
+            <pubDate>Thu, 21 Dec 2023 15:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;겨울에만 파는 책을 득템했어요! 지난달 열렸던 언리미티드 에디션에서요. 무려 1843년 출간된 찰스 디킨스Charles Dickens의 『크리스마스 캐롤』 초판본<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -463,6 +463,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[담벼락에 흩뿌려진 낙서도 예술이다. 모두 그렇지는 않다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68550</link>
+            <guid>https://www.bookjournalism.com/books/68550</guid>
+            <pubDate>Thu, 21 Dec 2023 15:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[경복궁 담벼락의 수난]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/607663/w/646/e231222_thm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -551,14 +559,6 @@
             <pubDate>Tue, 12 Dec 2023 15:21:12 GMT</pubDate>
             <content:encoded><![CDATA[노스탤지어에 빠진 맥도날드]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605015/w/646/231213_exp_th.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파나마에 가뭄이 들었다. 전 세계의 크리스마스가 가난해진다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68343</link>
-            <guid>https://www.bookjournalism.com/books/68343</guid>
-            <pubDate>Mon, 11 Dec 2023 15:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[파나마 운하가 막히면 일어나는 일]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/604866/w/646/e231212_m.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
