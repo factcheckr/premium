@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 14:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 15:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,11 +382,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[에디시옹 장물랭 : 1인 출판사, 180년 된 유럽의 고서적을 복각하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/925</link>
-            <guid>https://www.longblack.co/note/925</guid>
-            <pubDate>Thu, 21 Dec 2023 15:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;겨울에만 파는 책을 득템했어요! 지난달 열렸던 언리미티드 에디션에서요. 무려 1843년 출간된 찰스 디킨스Charles Dickens의 『크리스마스 캐롤』 초판본<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[찰스 슐츠 : 나는 인생에서 알아야 할 모든 지혜를 스누피에게 배웠다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/926</link>
+            <guid>https://www.longblack.co/note/926</guid>
+            <pubDate>Fri, 22 Dec 2023 15:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;“누구라도 좋으니 크리스마스에 대해 알고 있는 사람 없나요?”&nbsp;스누피의 친구 찰리 브라운의 외침이에요. 1965년 25분짜리 단편 애니메이션 ‘찰리 브라운 크리스<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
