@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 23:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 01:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제2의 ‘런던베이글뮤지엄’이 등장했다고? 이주의 유행템 4]]></title>
+            <link>https://www.careet.net/1253</link>
+            <guid>https://www.careet.net/1253</guid>
+            <pubDate>Fri, 22 Dec 2023 01:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[산리오를 이을 새로운 캐릭터 IP 등장!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/14b4c7f9-8c5d-411a-a162-4ca58f13d7b9_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[덕질이 스펙이 돼? 덕질로 포트폴리오 쌓은 덕업일치 아이콘 ‘야니’ 인터뷰]]></title>
             <link>https://www.careet.net/1251</link>
