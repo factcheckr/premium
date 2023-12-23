@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 14:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 15:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,11 +382,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[찰스 슐츠 : 나는 인생에서 알아야 할 모든 지혜를 스누피에게 배웠다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/926</link>
-            <guid>https://www.longblack.co/note/926</guid>
-            <pubDate>Fri, 22 Dec 2023 15:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;“누구라도 좋으니 크리스마스에 대해 알고 있는 사람 없나요?”&nbsp;스누피의 친구 찰리 브라운의 외침이에요. 1965년 25분짜리 단편 애니메이션 ‘찰리 브라운 크리스<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 23 Dec 2023 15:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[B가 메모한 김재원 대표의 이야기
+
+“브랜드는 문체가 중요해요. 사람으로 치면 옷 입는 스타일, 말투, 걸음걸이가 다 문체예요. 옷 입는 스타일은 우아한데, 말투가 예상 밖일 때 ‘깬다!’라고 표현하죠. 문체가 일치해야 신뢰를 줄 수 있어요. 퀄리티를 지키고, 집요<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>

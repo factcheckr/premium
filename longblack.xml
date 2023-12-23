@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-12-23T14:17:01.299Z</updated>
+    <updated>2023-12-23T15:18:24.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[찰스 슐츠 : 나는 인생에서 알아야 할 모든 지혜를 스누피에게 배웠다]]></title>
-        <id>https://www.longblack.co/note/926</id>
-        <link href="https://www.longblack.co/note/926"/>
-        <updated>2023-12-22T15:18:30.535Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;“누구라도 좋으니 크리스마스에 대해 알고 있는 사람 없나요?”&nbsp;스누피의 친구 찰리 브라운의 외침이에요. 1965년 25분짜리 단편 애니메이션 ‘찰리 브라운 크리스<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-12-23T15:17:37.973Z</updated>
+        <content type="html"><![CDATA[B가 메모한 김재원 대표의 이야기
+
+“브랜드는 문체가 중요해요. 사람으로 치면 옷 입는 스타일, 말투, 걸음걸이가 다 문체예요. 옷 입는 스타일은 우아한데, 말투가 예상 밖일 때 ‘깬다!’라고 표현하죠. 문체가 일치해야 신뢰를 줄 수 있어요. 퀄리티를 지키고, 집요<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
