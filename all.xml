@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 14:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 15:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,11 +398,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[감독 이재규 : ‘다모’ 부터 ‘정신병동에도 아침이 와요’까지, 그 감각의 비결 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/930</link>
-            <guid>https://www.longblack.co/note/930</guid>
-            <pubDate>Tue, 26 Dec 2023 15:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;올 한 해, 잘 마무리하고 계신가요? 다사다난했던 2023년. 차분히 마무리하고 싶어, OTT 시리즈를 하나 보기로 했습니다. 제목은 「정신병동에도 아침이 와요」<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[크럼블 : 테크기업처럼 만들어 패션 브랜드처럼 파는 1조 매출 쿠키 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/940</link>
+            <guid>https://www.longblack.co/note/940</guid>
+            <pubDate>Wed, 27 Dec 2023 15:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;틱톡에서 나이키, 스타벅스보다 팔로워가 많은 쿠키 브랜드를 아시나요? 미국의 쿠키 프랜차이즈 크럼블Crumbl! &nbsp;2021년 2월 틱톡 계정을 만든 지 단 6주 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -487,6 +487,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023년은 인류 역사상 가장 뜨거운 해였다. 올해 지구에는 어떤 일이 있었을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68618</link>
+            <guid>https://www.bookjournalism.com/books/68618</guid>
+            <pubDate>Wed, 27 Dec 2023 15:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[기후 위기 2023]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608409/w/646/ex231228thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -575,14 +583,6 @@
             <pubDate>Sun, 17 Dec 2023 15:18:16 GMT</pubDate>
             <content:encoded><![CDATA[테슬라의 적, 노조]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/606389/w/646/ex231218thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크가 죽인 X와 나이 들기 싫은 Z세대, 기후 신춘문예를 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/68449</link>
-            <guid>https://www.bookjournalism.com/audio/68449</guid>
-            <pubDate>Fri, 15 Dec 2023 08:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 12월 16일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/606320/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
