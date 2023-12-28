@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 14:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 15:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,11 +406,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[크럼블 : 테크기업처럼 만들어 패션 브랜드처럼 파는 1조 매출 쿠키 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/940</link>
-            <guid>https://www.longblack.co/note/940</guid>
-            <pubDate>Wed, 27 Dec 2023 15:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;틱톡에서 나이키, 스타벅스보다 팔로워가 많은 쿠키 브랜드를 아시나요? 미국의 쿠키 프랜차이즈 크럼블Crumbl! &nbsp;2021년 2월 틱톡 계정을 만든 지 단 6주 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[청주동물원 : 수의사가 기획한, 편안한 표정의 사자가 사는 동물원 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/931</link>
+            <guid>https://www.longblack.co/note/931</guid>
+            <pubDate>Thu, 28 Dec 2023 15:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K &nbsp;올해 여름, 사자 한 마리가 찍힌 영상이 화제였어요. 가로 14m, 세로 6m의 비좁은 실내 전시장에서 7년을 산 사자. 숨을 내쉴 때마다 갈비뼈가 보일 정도로<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -495,6 +495,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나에서는 전쟁이 계속되고 있다. 2024년에는 마침표를 찍을 가능성이 높다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68642</link>
+            <guid>https://www.bookjournalism.com/books/68642</guid>
+            <pubDate>Thu, 28 Dec 2023 15:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[잊힌 전쟁]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608545/w/646/e231229_thm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -583,14 +591,6 @@
             <pubDate>Mon, 18 Dec 2023 16:25:13 GMT</pubDate>
             <content:encoded><![CDATA[‘홍콩의 봄’은 요원하다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/606870/w/646/e231219_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라가 북유럽 노조와 대결하고 있다. 다음 상대는 독일, 어쩌면 미국이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68471</link>
-            <guid>https://www.bookjournalism.com/books/68471</guid>
-            <pubDate>Sun, 17 Dec 2023 15:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라의 적, 노조]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/606389/w/646/ex231218thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
