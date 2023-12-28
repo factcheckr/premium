@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-12-28T22:18:35.802Z</updated>
+    <updated>2023-12-28T23:19:55.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[청주동물원 : 수의사가 기획한, 편안한 표정의 사자가 사는 동물원]]></title>
+        <title type="html"><![CDATA[청주동물원 : 수의사가 기획한, 편안한 표정의 동물들이 사는 곳]]></title>
         <id>https://www.longblack.co/note/931</id>
         <link href="https://www.longblack.co/note/931"/>
         <updated>2023-12-28T15:18:23.350Z</updated>

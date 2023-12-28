@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 22:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 23:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,7 +406,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[청주동물원 : 수의사가 기획한, 편안한 표정의 사자가 사는 동물원 (롱블랙)]]></title>
+            <title><![CDATA[청주동물원 : 수의사가 기획한, 편안한 표정의 동물들이 사는 곳 (롱블랙)]]></title>
             <link>https://www.longblack.co/note/931</link>
             <guid>https://www.longblack.co/note/931</guid>
             <pubDate>Thu, 28 Dec 2023 15:18:23 GMT</pubDate>
