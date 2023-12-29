@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 07:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 08:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출판계와 CEO의 2023년, 총균쇠열을 다룹니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/68652</link>
+            <guid>https://www.bookjournalism.com/audio/68652</guid>
+            <pubDate>Fri, 29 Dec 2023 08:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 12월 30일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608661/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 19 Dec 2023 15:19:58 GMT</pubDate>
             <content:encoded><![CDATA[미래를 팔아 세운 벙커]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/606914/w/646/231220_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍콩은 모든 면에서 침몰하고 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/68487</link>
-            <guid>https://www.bookjournalism.com/books/68487</guid>
-            <pubDate>Mon, 18 Dec 2023 16:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘홍콩의 봄’은 요원하다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/606870/w/646/e231219_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
