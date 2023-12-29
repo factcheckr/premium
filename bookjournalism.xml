@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 23:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 01:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608637/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나에서는 전쟁이 계속되고 있다. 2024년에는 마침표를 찍을 가능성이 높다.]]></title>
             <link>https://www.bookjournalism.com/books/68642</link>
@@ -14,14 +22,6 @@
             <pubDate>Thu, 28 Dec 2023 15:19:08 GMT</pubDate>
             <content:encoded><![CDATA[잊힌 전쟁]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608545/w/646/e231229_thm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608534/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023년은 인류 역사상 가장 뜨거운 해였다. 올해 지구에는 어떤 일이 있었을까?]]></title>

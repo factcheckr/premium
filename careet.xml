@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 23:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 01:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회의·미팅 가기 전 읽고 가세요! 내가 놓친 트렌드 3]]></title>
+            <link>https://www.careet.net/1259</link>
+            <guid>https://www.careet.net/1259</guid>
+            <pubDate>Fri, 29 Dec 2023 01:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[하버드에서 연락왔다고 주접 떠는 게 유행이라고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202312/53e22556-7798-4e91-b616-ba66b07a7c7f_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이디어 싸움 어떻게 하면 이길 수 있을까? 일잘러의 영감 디깅법]]></title>
             <link>https://www.careet.net/1258</link>
