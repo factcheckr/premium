@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-12-30T14:16:50.511Z</updated>
+    <updated>2023-12-30T15:18:34.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[아침의 피아노 : 죽음을 앞둔 철학자가, 오늘을 찬미하며 써 내려간 메모]]></title>
-        <id>https://www.longblack.co/note/932</id>
-        <link href="https://www.longblack.co/note/932"/>
-        <updated>2023-12-29T15:18:16.943Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B &nbsp;헤어질 시간이 왔습니다. 한 해를 떠나보내는 시간, 우리는 크고 작은 이별도 하게 됩니다. 학기가 끝나고, 부서가 바뀌는 시기이니까요. 묵은해를 넘기기 전에 끊<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2023-12-30T15:17:39.943Z</updated>
+        <content type="html"><![CDATA[B가 메모한 이재규 감독의 이야기
+
+“내연기관 자동차와 전기차 사이에, 하이브리드 차가 있잖아요. 전 제가 그렇다고 생각해요. TV, 영화, OTT 모두에 발을 담가 봤죠. 지금 같은 과도기에는 저 같은 회색분자들이 유리하다고 생각해요. 이것저것 다 해본 게, 결국<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
