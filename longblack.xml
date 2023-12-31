@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-12-31T14:16:57.437Z</updated>
+    <updated>2023-12-31T15:18:22.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2023-12-30T15:17:39.943Z</updated>
-        <content type="html"><![CDATA[B가 메모한 이재규 감독의 이야기
-
-“내연기관 자동차와 전기차 사이에, 하이브리드 차가 있잖아요. 전 제가 그렇다고 생각해요. TV, 영화, OTT 모두에 발을 담가 봤죠. 지금 같은 과도기에는 저 같은 회색분자들이 유리하다고 생각해요. 이것저것 다 해본 게, 결국<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[야생의 식탁 : 마트 대신 숲으로 가, 새로운 삶의 방식을 만나다]]></title>
+        <id>https://www.longblack.co/note/933</id>
+        <link href="https://www.longblack.co/note/933"/>
+        <updated>2023-12-31T15:17:31.631Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;앞으로 1년을 어떻게 보내고 싶으신가요? 커다란 목표를 이루기에 1년은 짧게 느껴지기도 해요. 하지만 꾸준히 무언가를 하기엔 길게 다가오죠. 새벽 운동이나 일기 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
