@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 14:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 15:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미키마우스의 저작권이 만료됐다. 새로운 기회가 열렸다.]]></title>
+            <link>https://www.bookjournalism.com/books/68681</link>
+            <guid>https://www.bookjournalism.com/books/68681</guid>
+            <pubDate>Tue, 02 Jan 2024 15:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[무엇이든 될 수 있는 미키마우스]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608867/w/646/240103_exp_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 20 Dec 2023 15:16:49 GMT</pubDate>
             <content:encoded><![CDATA[개 식용이 금지된다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/607208/w/646/e231221_thm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[시대에 뒤떨어진 음악가 라흐마니노프는 어떻게 20세기를 호령했나]]></title>
-            <link>https://www.bookjournalism.com/books/68511</link>
-            <guid>https://www.bookjournalism.com/books/68511</guid>
-            <pubDate>Wed, 20 Dec 2023 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[시대를 관통한 음악가]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/607186/w/646/231220_feature_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
