@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 14:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 15:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아파르트헤이트를 포착한 사진작가, 피터 마구바네가 세상을 떠났다. 그는 한평생 카메라로 싸웠다.]]></title>
+            <link>https://www.bookjournalism.com/books/68710</link>
+            <guid>https://www.bookjournalism.com/books/68710</guid>
+            <pubDate>Wed, 03 Jan 2024 15:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[피터 마구바네, 1932-2024]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609155/w/646/ex240104thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기후가 변했다. 도시도 변해야 한다.]]></title>
             <link>https://www.bookjournalism.com/books/68697</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 22 Dec 2023 08:23:19 GMT</pubDate>
             <content:encoded><![CDATA[2023년 12월 23일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/607761/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[담벼락에 흩뿌려진 낙서도 예술이다. 모두 그렇지는 않다.]]></title>
-            <link>https://www.bookjournalism.com/books/68550</link>
-            <guid>https://www.bookjournalism.com/books/68550</guid>
-            <pubDate>Thu, 21 Dec 2023 15:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[경복궁 담벼락의 수난]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/607663/w/646/e231222_thm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

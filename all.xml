@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 14:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 15:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,11 +254,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8d9404a8-e675-4ed4-ab11-de07668659ca_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[바릴라 : 전 세계가 등 돌린 브랜드가 다시 정상에 오르기까지 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/936</link>
-            <guid>https://www.longblack.co/note/936</guid>
-            <pubDate>Tue, 02 Jan 2024 15:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;한 브랜드가 고꾸라진 이미지를 회복하는 데는 시간이 얼마나 걸릴까? 그것도 전 세계적으로 불매 운동이 일었던 브랜드라면 말이야. 여기, 이미지를 바꾸기 위해 ‘5<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[유홍준 : 500만부 답사기의 저자, 스테디셀러 콘텐츠를 말하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/937</link>
+            <guid>https://www.longblack.co/note/937</guid>
+            <pubDate>Wed, 03 Jan 2024 15:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;새해를 맞아 다시 마음에 새긴 말이 있어요.‘아는 만큼 보인다.’유홍준 미술사학자의 저서 『나의 문화유산답사기』 서문에 처음 등장한 말입니다.『나의 문화유산답사<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -343,6 +343,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아파르트헤이트를 포착한 사진작가, 피터 마구바네가 세상을 떠났다. 그는 한평생 카메라로 싸웠다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68710</link>
+            <guid>https://www.bookjournalism.com/books/68710</guid>
+            <pubDate>Wed, 03 Jan 2024 15:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[피터 마구바네, 1932-2024]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609155/w/646/ex240104thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기후가 변했다. 도시도 변해야 한다. (북저널리즘)]]></title>
@@ -431,14 +439,6 @@
             <pubDate>Fri, 22 Dec 2023 08:23:19 GMT</pubDate>
             <content:encoded><![CDATA[2023년 12월 23일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/607761/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[담벼락에 흩뿌려진 낙서도 예술이다. 모두 그렇지는 않다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68550</link>
-            <guid>https://www.bookjournalism.com/books/68550</guid>
-            <pubDate>Thu, 21 Dec 2023 15:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[경복궁 담벼락의 수난]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/607663/w/646/e231222_thm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
