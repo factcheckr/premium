@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 23:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 01:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7430?fr=category</guid>
             <pubDate>Fri, 22 Dec 2023 08:22:24 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7430?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/12/22/1703219327_25Sy6pNAbYl7ThMPw00bMHoBJlfp2jtKE2niemKw.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 13분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7430?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">팀 워크숍: 6개의 원온원 질문카드를 통한 리더의 대화 노하우 (출력용 질문카드 제공)</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“업무 지시는 이렇게 해주세요” 신입사원과 효율적으로 일하는 방법! (캐릿)]]></title>
+            <link>https://www.careet.net/1262</link>
+            <guid>https://www.careet.net/1262</guid>
+            <pubDate>Wed, 03 Jan 2024 01:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[밀레니얼이 묻고 Z세대가 답했습니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/acac4530-3d36-427a-94fc-6a0b741048b6_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2024년 월별 트렌드 미리보기 “Z세대 이슈 캘린더 나눔합니다” (캐릿)]]></title>
@@ -337,20 +345,20 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608909/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[미키마우스의 저작권이 만료됐다. 새로운 기회가 열렸다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/68681</link>
             <guid>https://www.bookjournalism.com/books/68681</guid>
             <pubDate>Tue, 02 Jan 2024 15:19:55 GMT</pubDate>
             <content:encoded><![CDATA[무엇이든 될 수 있는 미키마우스]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608867/w/646/240103_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608856/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024년, 청년 세대는 행복해질까? 데이터는 아니라고 말한다. (북저널리즘)]]></title>

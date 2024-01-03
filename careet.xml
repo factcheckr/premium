@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 23:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 01:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“업무 지시는 이렇게 해주세요” 신입사원과 효율적으로 일하는 방법!]]></title>
+            <link>https://www.careet.net/1262</link>
+            <guid>https://www.careet.net/1262</guid>
+            <pubDate>Wed, 03 Jan 2024 01:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[밀레니얼이 묻고 Z세대가 답했습니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/acac4530-3d36-427a-94fc-6a0b741048b6_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2024년 월별 트렌드 미리보기 “Z세대 이슈 캘린더 나눔합니다”]]></title>
             <link>https://www.careet.net/1256</link>
