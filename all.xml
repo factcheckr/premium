@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 02:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 03:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,12 +369,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609155/w/646/ex240104thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[선거, AI, 인플레이션 (북저널리즘)]]></title>
+            <title><![CDATA[2023년과 2024년을 아우르는 세 가지 키워드. 선거, AI, 인플레이션를 해설합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/68668</link>
             <guid>https://www.bookjournalism.com/books/68668</guid>
             <pubDate>Thu, 04 Jan 2024 02:30:27 GMT</pubDate>
             <content:encoded><![CDATA[ISSUE 19. 선거, AI, 인플레이션]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609684/w/646/thread19_thm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609692/w/646/thread19_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기후가 변했다. 도시도 변해야 한다. (북저널리즘)]]></title>
