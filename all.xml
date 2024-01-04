@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 23:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 01:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,7 +258,7 @@
             <link>https://www.longblack.co/note/937</link>
             <guid>https://www.longblack.co/note/937</guid>
             <pubDate>Wed, 03 Jan 2024 15:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;새해를 맞아 다시 마음에 새긴 말이 있어요.‘아는 만큼 보인다.’유홍준 미술사학자의 저서 『나의 문화유산답사기』 서문에 처음 등장한 말입니다.『나의 문화유산답사<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;새해를 맞아 다시 마음에 새긴 말이 있어요.‘아는 만큼 보인다.’유홍준 미술사학자의 저서 『나의 문화유산답사기』 서문에 처음 등장한 말입니다.『나의 문화유산답사기<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -345,6 +345,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609631/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[아파르트헤이트를 포착한 사진작가, 피터 마구바네가 세상을 떠났다. 그는 한평생 카메라로 싸웠다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/68710</link>
             <guid>https://www.bookjournalism.com/books/68710</guid>
@@ -359,14 +367,6 @@
             <pubDate>Wed, 03 Jan 2024 08:24:06 GMT</pubDate>
             <content:encoded><![CDATA[기후가 도시를 위협한다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608992/w/646/240103_feature_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608909/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[미키마우스의 저작권이 만료됐다. 새로운 기회가 열렸다. (북저널리즘)]]></title>
