@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 01:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 02:30:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐릿 200% 써 먹기! 일잘러들의 캐릿 활용 꿀팁 모음]]></title>
+            <link>https://www.careet.net/1255</link>
+            <guid>https://www.careet.net/1255</guid>
+            <pubDate>Thu, 04 Jan 2024 02:29:34 GMT</pubDate>
+            <content:encoded><![CDATA[이왕 구독한 캐릿, 어떻게 활용할 수 있을까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/f34fae0f-0c95-4464-821c-d29ce7460b55_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“업무 지시는 이렇게 해주세요” 신입사원과 효율적으로 일하는 방법!]]></title>
             <link>https://www.careet.net/1262</link>

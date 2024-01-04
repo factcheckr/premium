@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 01:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 02:30:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 03 Jan 2024 15:20:05 GMT</pubDate>
             <content:encoded><![CDATA[피터 마구바네, 1932-2024]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609155/w/646/ex240104thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선거, AI, 인플레이션]]></title>
+            <link>https://www.bookjournalism.com/books/68668</link>
+            <guid>https://www.bookjournalism.com/books/68668</guid>
+            <pubDate>Thu, 04 Jan 2024 02:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[ISSUE 19. 선거, AI, 인플레이션]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609684/w/646/thread19_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기후가 변했다. 도시도 변해야 한다.]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 24 Dec 2023 15:17:57 GMT</pubDate>
             <content:encoded><![CDATA[2023 북저널리즘 연말 결산]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/607986/w/646/231225thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인 제트기와 애플의 건강 관리, 요양에 대해 다룹니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/68561</link>
-            <guid>https://www.bookjournalism.com/audio/68561</guid>
-            <pubDate>Fri, 22 Dec 2023 08:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 12월 23일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/607761/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
