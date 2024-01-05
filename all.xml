@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 07:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 08:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -361,6 +361,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[명동의 대중교통과 바오밥나무, 엡스타인 리스트를 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/68765</link>
+            <guid>https://www.bookjournalism.com/audio/68765</guid>
+            <pubDate>Fri, 05 Jan 2024 08:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 1월 6일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609890/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -447,14 +455,6 @@
             <pubDate>Tue, 26 Dec 2023 15:18:57 GMT</pubDate>
             <content:encoded><![CDATA[정치적이고 중립적인 교실은 가능할까]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608319/w/646/231227_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년 트럼프 2기가 등장할 가능성이 크다. 트럼프가 재집권하면 어떤 일이 벌어질까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68539</link>
-            <guid>https://www.bookjournalism.com/books/68539</guid>
-            <pubDate>Mon, 25 Dec 2023 15:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[트럼프가 재집권하면]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/607906/w/646/ex231226thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
