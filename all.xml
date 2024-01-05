@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 14:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 15:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,11 +270,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8d9404a8-e675-4ed4-ab11-de07668659ca_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[키드슈퍼 : 유튜브로 옷을 배워, 루이비통과 스타벅스를 사로잡다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/944</link>
-            <guid>https://www.longblack.co/note/944</guid>
-            <pubDate>Thu, 04 Jan 2024 15:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;“Go Big or Go Home(할 거면 제대로 하고, 아니면 집에 가).”이렇게 말하는 패션 브랜드 창립자가 있어요. 며칠 전 33살이 된 뉴욕의 디자이너, <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[사랑을 지키는 법 : “결국, 사랑하는 사람이 이긴다” (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/938</link>
+            <guid>https://www.longblack.co/note/938</guid>
+            <pubDate>Fri, 05 Jan 2024 15:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;친구들과 2024년 새해 목표를 공유했어요! 공부하기, 운동하기, 버킷리스트 여행지로 떠나기… 그중 가장 멋졌던 목표는? ‘더 많이 사랑하기’였어요. &nbsp;사랑, 흔<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
