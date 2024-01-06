@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-01-06T14:17:54.560Z</updated>
+    <updated>2024-01-06T15:18:24.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[사랑을 지키는 법 : “결국, 사랑하는 사람이 이긴다”]]></title>
-        <id>https://www.longblack.co/note/938</id>
-        <link href="https://www.longblack.co/note/938"/>
-        <updated>2024-01-05T15:19:03.374Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;친구들과 2024년 새해 목표를 공유했어요! 공부하기, 운동하기, 버킷리스트 여행지로 떠나기… 그중 가장 멋졌던 목표는? ‘더 많이 사랑하기’였어요. &nbsp;사랑, 흔<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-01-06T15:17:32.695Z</updated>
+        <content type="html"><![CDATA[C가 메모한 민요한 도시곳간 대표의 이야기
+
+“얼마 전에 노트북에 담겨있던 사업계획서를 열어봤어요. 소름이 돋았어요. 모든 건 이 처음 사업계획서의 내용대로 되고 있더라고요. 그러면서 생각했죠. ‘아, 내가 무의식적으로 계속 이 계획서를 염두에 두고 살아왔구나. 꿈<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

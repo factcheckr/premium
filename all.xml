@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jan 2024 14:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 15:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,11 +270,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8d9404a8-e675-4ed4-ab11-de07668659ca_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[사랑을 지키는 법 : “결국, 사랑하는 사람이 이긴다” (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/938</link>
-            <guid>https://www.longblack.co/note/938</guid>
-            <pubDate>Fri, 05 Jan 2024 15:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;친구들과 2024년 새해 목표를 공유했어요! 공부하기, 운동하기, 버킷리스트 여행지로 떠나기… 그중 가장 멋졌던 목표는? ‘더 많이 사랑하기’였어요. &nbsp;사랑, 흔<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 06 Jan 2024 15:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[C가 메모한 민요한 도시곳간 대표의 이야기
+
+“얼마 전에 노트북에 담겨있던 사업계획서를 열어봤어요. 소름이 돋았어요. 모든 건 이 처음 사업계획서의 내용대로 되고 있더라고요. 그러면서 생각했죠. ‘아, 내가 무의식적으로 계속 이 계획서를 염두에 두고 살아왔구나. 꿈<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
