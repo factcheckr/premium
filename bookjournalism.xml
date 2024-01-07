@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 15:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 16:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1970년대 팔로알토에서 제록스는 미래를 발명했다. 그리고 잃어버렸다.]]></title>
+            <link>https://www.bookjournalism.com/books/68774</link>
+            <guid>https://www.bookjournalism.com/books/68774</guid>
+            <pubDate>Sun, 07 Jan 2024 16:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[제록스가 성공을 복사하지 못한 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609997/w/646/ex240108thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명동의 대중교통과 바오밥나무, 엡스타인 리스트를 다룹니다.]]></title>
             <link>https://www.bookjournalism.com/audio/68765</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 27 Dec 2023 15:19:02 GMT</pubDate>
             <content:encoded><![CDATA[기후 위기 2023]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608409/w/646/ex231228thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈서울의 봄〉이 보수 단체의 표적이 됐다. 교실 속 문화 전쟁의 작은 시작점일지 모른다.]]></title>
-            <link>https://www.bookjournalism.com/books/68601</link>
-            <guid>https://www.bookjournalism.com/books/68601</guid>
-            <pubDate>Tue, 26 Dec 2023 15:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[정치적이고 중립적인 교실은 가능할까]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608319/w/646/231227_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
