@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 14:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 15:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,13 +270,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8d9404a8-e675-4ed4-ab11-de07668659ca_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 06 Jan 2024 15:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[C가 메모한 민요한 도시곳간 대표의 이야기
-
-“얼마 전에 노트북에 담겨있던 사업계획서를 열어봤어요. 소름이 돋았어요. 모든 건 이 처음 사업계획서의 내용대로 되고 있더라고요. 그러면서 생각했죠. ‘아, 내가 무의식적으로 계속 이 계획서를 염두에 두고 살아왔구나. 꿈<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[셰인 패리시 : 전직 스파이, 월가와 실리콘밸리가 구독하는 뉴스레터를 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/945</link>
+            <guid>https://www.longblack.co/note/945</guid>
+            <pubDate>Sun, 07 Jan 2024 15:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L &nbsp;“나는 세 글자로 된 정보기관 ███에서 ██████의 책임자로 ██년을 보냈습니다. 차관 ███████ 밑에서 ██████로 일했고, 그건 세상에서 가장 흥미<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
