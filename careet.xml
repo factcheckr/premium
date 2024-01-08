@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 23:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 01:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 Z세대가 주목한 국내외 일 잘한 레퍼런스]]></title>
+            <link>https://www.careet.net/1263</link>
+            <guid>https://www.careet.net/1263</guid>
+            <pubDate>Mon, 08 Jan 2024 01:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[굿즈부터 영상 광고까지!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/b808f9cf-7973-40c8-8a16-5c3453f08bbf_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[새해 첫 트렌드 등장! 화제의 ‘페이커 게임’부터 BTS가 구독한 유튜버까지]]></title>
             <link>https://www.careet.net/1264</link>
