@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 14:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 15:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,11 +278,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8d9404a8-e675-4ed4-ab11-de07668659ca_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[셰인 패리시 : 전직 스파이, 월가와 실리콘밸리가 구독하는 뉴스레터를 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/945</link>
-            <guid>https://www.longblack.co/note/945</guid>
-            <pubDate>Sun, 07 Jan 2024 15:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L &nbsp;“나는 세 글자로 된 정보기관 ███에서 ██████의 책임자로 ██년을 보냈습니다. 차관 ███████ 밑에서 ██████로 일했고, 그건 세상에서 가장 흥미<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[달러쉐이브클럽 : 질레트에 맞섰던 면도 브랜드가 맞닥뜨린 잔혹동화 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/942</link>
+            <guid>https://www.longblack.co/note/942</guid>
+            <pubDate>Mon, 08 Jan 2024 15:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;비즈니스의 세계에서도 종종 동화 같은 일이 일어나곤 하지. 언더독의 약진이나, 골리앗을 무릎 꿇린 다윗의 이야기 같은.&nbsp;그 대표 브랜드가, 2011년 미국에서 등<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
