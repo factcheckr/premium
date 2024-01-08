@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 22:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 23:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해도 산천어 축제는 성공이다. 매년 질문이 쌓여간다]]></title>
+            <link>https://www.bookjournalism.com/books/68796</link>
+            <guid>https://www.bookjournalism.com/books/68796</guid>
+            <pubDate>Mon, 08 Jan 2024 23:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 왜 손맛을 사랑하나]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/610457/w/646/ex240109thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Dec 2023 15:19:08 GMT</pubDate>
             <content:encoded><![CDATA[잊힌 전쟁]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608545/w/646/e231229_thm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년은 인류 역사상 가장 뜨거운 해였다. 올해 지구에는 어떤 일이 있었을까?]]></title>
-            <link>https://www.bookjournalism.com/books/68618</link>
-            <guid>https://www.bookjournalism.com/books/68618</guid>
-            <pubDate>Wed, 27 Dec 2023 15:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[기후 위기 2023]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608409/w/646/ex231228thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
