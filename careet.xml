@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 23:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 01:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성수 말고 어디서 놀아? Z세대가 생각하는 서울 핫플별 이미지]]></title>
+            <link>https://www.careet.net/1265</link>
+            <guid>https://www.careet.net/1265</guid>
+            <pubDate>Tue, 09 Jan 2024 01:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대피셜 ‘덕질의 성지’는 어디일까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/1a651723-85eb-4ccc-b21d-13197592f4b4_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[새해 Z세대가 주목한 국내외 일 잘한 레퍼런스]]></title>
             <link>https://www.careet.net/1263</link>
