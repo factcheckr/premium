@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 14:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 15:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8d9404a8-e675-4ed4-ab11-de07668659ca_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[달러쉐이브클럽 : 질레트에 맞섰던 면도 브랜드가 맞닥뜨린 잔혹동화 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/942</link>
-            <guid>https://www.longblack.co/note/942</guid>
-            <pubDate>Mon, 08 Jan 2024 15:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;비즈니스의 세계에서도 종종 동화 같은 일이 일어나곤 하지. 언더독의 약진이나, 골리앗을 무릎 꿇린 다윗의 이야기 같은.&nbsp;그 대표 브랜드가, 2011년 미국에서 등<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[스프레드웍스 : 희녹과 노티드, 와인앤모어까지, 브랜드의 밑그림을 함께 그리다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/943</link>
+            <guid>https://www.longblack.co/note/943</guid>
+            <pubDate>Tue, 09 Jan 2024 15:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;편백수로 만든 탈취제 브랜드 희녹, 신세계가 운영하는 주류매장 와인앤모어, 패션 브랜드 팬암, 무지개 케이크로 유명한 카페 브랜드 도레도레, MBC의 유튜브 채널<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -375,6 +375,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국의 민간 달 탐사 시도가 실패로 돌아갔다. 중요한 질문은 남았다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68812</link>
+            <guid>https://www.bookjournalism.com/books/68812</guid>
+            <pubDate>Tue, 09 Jan 2024 15:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[모두를 위한 뉴스페이스]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/610740/w/646/240110_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Fri, 29 Dec 2023 08:23:17 GMT</pubDate>
             <content:encoded><![CDATA[2023년 12월 30일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608661/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나에서는 전쟁이 계속되고 있다. 2024년에는 마침표를 찍을 가능성이 높다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68642</link>
-            <guid>https://www.bookjournalism.com/books/68642</guid>
-            <pubDate>Thu, 28 Dec 2023 15:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[잊힌 전쟁]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608545/w/646/e231229_thm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
