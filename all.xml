@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 06:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 07:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -123,7 +123,7 @@
             <guid>https://www.careet.net/1256</guid>
             <pubDate>Tue, 02 Jan 2024 01:18:38 GMT</pubDate>
             <content:encoded><![CDATA[올해는 이런 이슈에 주목해 보세요]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/93c72d3f-859a-4984-aa83-2cf423e15f63_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/1822cdcf-8a2b-43d8-999c-07896c7b92f8_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[회의·미팅 가기 전 읽고 가세요! 내가 놓친 트렌드 3 (캐릿)]]></title>
