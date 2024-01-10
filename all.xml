@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 03:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 04:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,7 +82,7 @@
             <link>https://www.careet.net/1269</link>
             <guid>https://www.careet.net/1269</guid>
             <pubDate>Wed, 10 Jan 2024 01:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌 컴백 프로모션 맛집! '에이티즈' 마케팅팀의 업무 노하우]]></content:encoded>
+            <content:encoded><![CDATA[에이티즈 컴백 프로모션을 기획한 KQ 엔터테인먼트 마케팅전략팀 인터뷰]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/e8a30fe9-483b-4363-9a12-00d103a3a9d0_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
