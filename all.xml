@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 14:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 15:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,11 +302,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8d9404a8-e675-4ed4-ab11-de07668659ca_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[펜코 : 볼펜 하나로 출발한 후쿠오카 로컬 문구, 세계를 사로잡다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/946</link>
-            <guid>https://www.longblack.co/note/946</guid>
-            <pubDate>Wed, 10 Jan 2024 15:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;저만의 새해맞이 루틴이 있어요. 문구용품을 사는 것! 문구점을 한참 구경하다가 올해는 이 브랜드 제품을 사기로 했어요. 바로 펜코Penco. 70년대 미국 느낌이<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[먹장 한상묵 : 소나무 그을음으로 가장 한국적인 먹빛을 내다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/948</link>
+            <guid>https://www.longblack.co/note/948</guid>
+            <pubDate>Thu, 11 Jan 2024 15:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;송연먹松煙墨. 소나무를 태운 그을음을 모아서 만드는 전통 먹을 말합니다. 먹 하나를 만드는 데 소나무 한 그루와 1년의 건조 시간이 들어요.&nbsp;원래 한반도의 송연먹<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -391,6 +391,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비극이다. 이 비극이 애도로만 끝난다면 우리는 무거운 기회를 놓쳐버린다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68853</link>
+            <guid>https://www.bookjournalism.com/books/68853</guid>
+            <pubDate>Thu, 11 Jan 2024 15:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[연예인 마약 수사의 소비 과정]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/611164/w/646/e240112_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -479,14 +487,6 @@
             <pubDate>Tue, 02 Jan 2024 15:19:55 GMT</pubDate>
             <content:encoded><![CDATA[무엇이든 될 수 있는 미키마우스]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608867/w/646/240103_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년, 청년 세대는 행복해질까? 데이터는 아니라고 말한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68675</link>
-            <guid>https://www.bookjournalism.com/books/68675</guid>
-            <pubDate>Mon, 01 Jan 2024 15:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[영끌 담론에 갇힌 청년 세대]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608801/w/646/e240102_thm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
