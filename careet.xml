@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 23:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 01:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대와 알파세대, 도대체 몇 살부터 몇 살까지예요? (2024 ver)]]></title>
+            <link>https://www.careet.net/1270</link>
+            <guid>https://www.careet.net/1270</guid>
+            <pubDate>Thu, 11 Jan 2024 01:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[매년 Z세대의 나이가 헷갈린다면?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/b793abfb-a0c6-499a-b61b-2a45a37e443e_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘에이티즈 소속사 미쳤다’ MZ세대가 극찬한 아이돌 마케팅팀이 일하는 법]]></title>
             <link>https://www.careet.net/1269</link>
