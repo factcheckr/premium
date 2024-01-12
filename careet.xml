@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 23:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 01:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘은 예능도 유료로 구매해서 본다고? 이주의 유행템 3]]></title>
+            <link>https://www.careet.net/1267</link>
+            <guid>https://www.careet.net/1267</guid>
+            <pubDate>Fri, 12 Jan 2024 01:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[‘푸마(PUMA)’가 다시 돌아왔다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/ae67ebee-2166-4a9e-b815-2b4ac6cd3f8d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대와 알파세대, 도대체 몇 살부터 몇 살까지예요? (2024 ver)]]></title>
             <link>https://www.careet.net/1270</link>
