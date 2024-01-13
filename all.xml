@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 14:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 15:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,11 +310,13 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8d9404a8-e675-4ed4-ab11-de07668659ca_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[결심이 필요한 순간들 : 경제석학이 해설하는 인생의 문제들 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/949</link>
-            <guid>https://www.longblack.co/note/949</guid>
-            <pubDate>Fri, 12 Jan 2024 15:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;롱블랙 피플, 2024년 새해 계획들 세우셨나요? 저는 다이어리를 거침없이 적어내려다가 문득 멈칫했어요. 돌아보면 하루하루의 투두리스트나 한 주의 계획은 열심히 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 13 Jan 2024 15:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[L이 인상깊게 본 이번주 노트
+
+“우리 모두 승낙하고 싶지 않은 전화를 받은 적이 있을 거예요. 하고 싶지 않은 일도 남의 의견에 떠밀려 ‘예’라고 말하죠. 나만의 자동규칙을 세워보세요. 전화로 ‘예’라고 대답하지 않는 게 내 규칙이야, 처럼.”&lt;a target="<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
