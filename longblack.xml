@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-01-13T16:23:37.077Z</updated>
+    <updated>2024-01-13T17:17:06.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,8 +10,8 @@
         <id>https://www.longblack.co/weekend</id>
         <link href="https://www.longblack.co/weekend"/>
         <updated>2024-01-13T15:18:07.702Z</updated>
-        <content type="html"><![CDATA[L이 인상깊게 본 이번주 노트
+        <content type="html"><![CDATA[L이 인상깊게 본 이번 주 노트
 
-“우리 모두 승낙하고 싶지 않은 전화를 받은 적이 있을 거예요. 하고 싶지 않은 일도 남의 의견에 떠밀려 ‘예’라고 말하죠. 나만의 자동규칙을 세워보세요. 전화로 ‘예’라고 대답하지 않는 게 내 규칙이야, 처럼.”&lt;a target="<span class="circle-punctuation"></span>]]></content>
+“우리 모두 승낙하고 싶지 않은 전화를 받은 적이 있을 거예요. 하고 싶지 않은 일도 남의 의견에 떠밀려 ‘예’라고 말하죠. 나만의 자동규칙을 세워보는 건 어떨까요. 전화로 ‘예’라고 대답하지 않는 게 내 규칙이야, 라고 말하는 거<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
