@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-01-14T14:17:25.315Z</updated>
+    <updated>2024-01-14T15:18:47.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-01-13T15:18:07.702Z</updated>
-        <content type="html"><![CDATA[L이 인상깊게 본 이번 주 노트
-
-“우리 모두 승낙하고 싶지 않은 전화를 받은 적이 있을 거예요. 하고 싶지 않은 일도 남의 의견에 떠밀려 ‘예’라고 말하죠. 나만의 자동규칙을 세워보는 건 어떨까요. 전화로 ‘예’라고 대답하지 않는 게 내 규칙이야, 라고 말하는 거<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[CNP 노승훈 : 아우어에서 나이스웨더까지, 문화를 붙잡아 브랜드에 새기다]]></title>
+        <id>https://www.longblack.co/note/950</id>
+        <link href="https://www.longblack.co/note/950"/>
+        <updated>2024-01-14T15:17:54.173Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C순위나 점수가 무의미한 사람들이 있어요. 비교할 수 없이 고유해서, 존재감이 남다른 사람들이죠. 2024년 첫 번째 위크 , 바로 그런 사람들의 이야기를 준비했어요<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
