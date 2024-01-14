@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 22:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 23:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -314,7 +314,7 @@
             <link>https://www.longblack.co/note/950</link>
             <guid>https://www.longblack.co/note/950</guid>
             <pubDate>Sun, 14 Jan 2024 15:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C순위나 점수가 무의미한 사람들이 있어요. 비교할 수 없이 고유해서, 존재감이 남다른 사람들이죠. 2024년 첫 번째 위크 , 바로 그런 사람들의 이야기를 준비했어요<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;순위나 점수가 무의미한 사람들이 있어요. 비교할 수 없이 고유해서, 존재감이 남다른 사람들이죠. 2024년 첫 번째 위크 , 바로 그런 사람들의 이야기를 준비했어<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>

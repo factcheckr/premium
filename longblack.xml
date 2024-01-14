@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-01-14T22:18:42.537Z</updated>
+    <updated>2024-01-14T23:20:25.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/950</id>
         <link href="https://www.longblack.co/note/950"/>
         <updated>2024-01-14T15:17:54.173Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C순위나 점수가 무의미한 사람들이 있어요. 비교할 수 없이 고유해서, 존재감이 남다른 사람들이죠. 2024년 첫 번째 위크 , 바로 그런 사람들의 이야기를 준비했어요<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;순위나 점수가 무의미한 사람들이 있어요. 비교할 수 없이 고유해서, 존재감이 남다른 사람들이죠. 2024년 첫 번째 위크 , 바로 그런 사람들의 이야기를 준비했어<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
