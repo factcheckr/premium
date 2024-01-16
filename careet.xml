@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 23:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 01:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저장하세요! 2024년 마케팅에 설득력을 더하는 분야별 MZ세대 데이터]]></title>
+            <link>https://www.careet.net/1272</link>
+            <guid>https://www.careet.net/1272</guid>
+            <pubDate>Tue, 16 Jan 2024 01:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[인구, 라이프 스타일, 소비, 엔데믹, 가치관, 직장생활, AI/기술 데이터 모음]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/302f7a84-64df-480b-a52c-af6fd69360b3_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 오프라인 마케팅 트렌드 ‘장터 콘셉트’가 대세야?]]></title>
             <link>https://www.careet.net/1271</link>
