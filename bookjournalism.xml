@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 14:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 15:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 크롬이 쿠키 수집을 중단한다. 미래의 광고는 어떤 모습이 될까.]]></title>
+            <link>https://www.bookjournalism.com/books/68917</link>
+            <guid>https://www.bookjournalism.com/books/68917</guid>
+            <pubDate>Tue, 16 Jan 2024 15:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[쿠키가 사라진 자리]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612165/w/646/240117_exp_thumb.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 04 Jan 2024 15:21:21 GMT</pubDate>
             <content:encoded><![CDATA[PF 도미노를 이해하려면]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609771/w/646/ex240105thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아파르트헤이트를 포착한 사진작가, 피터 마구바네가 세상을 떠났다. 그는 한평생 카메라로 싸웠다.]]></title>
-            <link>https://www.bookjournalism.com/books/68710</link>
-            <guid>https://www.bookjournalism.com/books/68710</guid>
-            <pubDate>Wed, 03 Jan 2024 15:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[피터 마구바네, 1932-2024]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609155/w/646/ex240104thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
