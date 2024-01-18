@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 22:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 23:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후티 반군이 홍해를 막아섰다. 팍스 아메리카나가 흔들린다.]]></title>
+            <link>https://www.bookjournalism.com/books/68983</link>
+            <guid>https://www.bookjournalism.com/books/68983</guid>
+            <pubDate>Thu, 18 Jan 2024 23:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[홍해의 총성]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612665/w/646/e240119_thm.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[프랑스에서 34세 총리가 등장했다. 총리직을 맡기엔 인생 경험이 부족하다는 지적이 나온다. 역사학자 가이 월터스는 결코 그렇지 않다고 말한다.]]></title>
             <link>https://www.bookjournalism.com/books/68974</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 08 Jan 2024 23:19:57 GMT</pubDate>
             <content:encoded><![CDATA[우리는 왜 손맛을 사랑하나]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/611106/w/646/ex240109thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1970년대 팔로알토에서 제록스는 미래를 발명했다. 그리고 잃어버렸다.]]></title>
-            <link>https://www.bookjournalism.com/books/68774</link>
-            <guid>https://www.bookjournalism.com/books/68774</guid>
-            <pubDate>Sun, 07 Jan 2024 16:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[제록스가 성공을 복사하지 못한 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609997/w/646/ex240108thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
