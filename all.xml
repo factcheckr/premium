@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 06:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 07:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,6 +433,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[프랑스에서 34세 총리가 등장했다. 총리직을 맡기엔 인생 경험이 부족하다는 지적이 나온다. 역사학자 가이 월터스는 결코 그렇지 않다고 말한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68974</link>
+            <guid>https://www.bookjournalism.com/books/68974</guid>
+            <pubDate>Thu, 18 Jan 2024 07:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[34세의 프랑스 총리, 가브리엘 아탈]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612548/w/646/f240118thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정치 혐오가 혐오 정치를 만든다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/68931</link>
             <guid>https://www.bookjournalism.com/books/68931</guid>
@@ -519,14 +527,6 @@
             <pubDate>Sun, 07 Jan 2024 16:22:54 GMT</pubDate>
             <content:encoded><![CDATA[제록스가 성공을 복사하지 못한 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609997/w/646/ex240108thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명동의 대중교통과 바오밥나무, 엡스타인 리스트를 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/68765</link>
-            <guid>https://www.bookjournalism.com/audio/68765</guid>
-            <pubDate>Fri, 05 Jan 2024 08:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 1월 6일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609890/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
