@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 23:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 01:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 다이어리 대신 뜨는 ‘신년 필수템’은? 이주의 유행템 4]]></title>
+            <link>https://www.careet.net/1275</link>
+            <guid>https://www.careet.net/1275</guid>
+            <pubDate>Fri, 19 Jan 2024 01:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[은행 플러팅 챌린지가 뭐야?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/3d187dd5-66ba-40bc-b82a-893de53e4ed0_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 중3은 혼자서 해외여행 간다고? 달라진 여행 트렌드]]></title>
             <link>https://www.careet.net/1273</link>
