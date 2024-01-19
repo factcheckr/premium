@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 14:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 15:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,11 +350,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8d9404a8-e675-4ed4-ab11-de07668659ca_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[션 노승환 : 57억 기부와 81.5km 달리기 “거룩한 자극을 기획합니다” (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/954</link>
-            <guid>https://www.longblack.co/note/954</guid>
-            <pubDate>Thu, 18 Jan 2024 15:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;‘Bold’는 ‘용감하다’는 뜻을 지녔어요. 용감한 사람은 행동합니다. &lt;Be Bold&gt; 위크의 마지막 주인공, 션(본명 노승환) 대표처럼요. 힙합 가수이자 승일<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[작가 은유 : 안간힘을 다해, 삶을 옹호하는 글을 쓰다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/955</link>
+            <guid>https://www.longblack.co/note/955</guid>
+            <pubDate>Fri, 19 Jan 2024 15:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;많은 사람이 새해를 맞아 글쓰기를 다짐합니다. 저도 글 쓰는 일을 하고 싶어 에디터가 됐어요. 여전히 헤매고 있지만 말이죠. 작가 은유는 저서 『글쓰기의 최전선<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
