@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-01-20T14:17:22.458Z</updated>
+    <updated>2024-01-20T15:18:47.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[작가 은유 : 안간힘을 다해, 삶을 옹호하는 글을 쓰다]]></title>
-        <id>https://www.longblack.co/note/955</id>
-        <link href="https://www.longblack.co/note/955"/>
-        <updated>2024-01-19T15:20:10.911Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B &nbsp;많은 사람이 새해를 맞아 글쓰기를 다짐합니다. 저도 글 쓰는 일을 하고 싶어 에디터가 됐어요. 여전히 헤매고 있지만 말이죠. 작가 은유는 저서 『글쓰기의 최전선<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-01-20T15:17:55.574Z</updated>
+        <content type="html"><![CDATA[C가 재밌게 읽은 노승훈 CNP 대표 이야기
+
+“이제는 취향을 맘껏 풀어도 돼요. 소비자의 수준이 올라갔거든요. 해외여행이 보편화되면서, 소비자도 각 산업의 최고들을 봤어요. 눈높이가 올라가니 어설프게 타협된 브랜드에선 매력을 못 느끼는 거예요. 아예 대중적이거나,<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
