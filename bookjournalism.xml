@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jan 2024 14:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 15:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍콩H지수가 추락하며 ELS 손실이 커지고 있다. 올해 상반기에만 손실이 6조 원대까지 불어날 수 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/69040</link>
+            <guid>https://www.bookjournalism.com/books/69040</guid>
+            <pubDate>Sun, 21 Jan 2024 15:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[노후 자금이 반토막 났다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613059/w/646/ex240122thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앨라배마주의 지역 언론과 기후 대응 콘트롤타워, 반려견 복제를 다룹니다.]]></title>
             <link>https://www.bookjournalism.com/audio/69025</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 10 Jan 2024 15:20:18 GMT</pubDate>
             <content:encoded><![CDATA[더 많은 정당, 더 좋은 민주주의]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/611062/w/646/ex240111thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국의 민간 달 탐사 시도가 실패로 돌아갔다. 중요한 질문은 남았다.]]></title>
-            <link>https://www.bookjournalism.com/books/68812</link>
-            <guid>https://www.bookjournalism.com/books/68812</guid>
-            <pubDate>Tue, 09 Jan 2024 15:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[모두를 위한 뉴스페이스]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/610740/w/646/240110_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

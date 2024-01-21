@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-01-21T14:17:33.664Z</updated>
+    <updated>2024-01-21T15:19:04.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-01-20T15:17:55.574Z</updated>
-        <content type="html"><![CDATA[C가 재밌게 읽은 노승훈 CNP 대표 이야기
-
-“이제는 취향을 맘껏 풀어도 돼요. 소비자의 수준이 올라갔거든요. 해외여행이 보편화되면서, 소비자도 각 산업의 최고들을 봤어요. 눈높이가 올라가니 어설프게 타협된 브랜드에선 매력을 못 느끼는 거예요. 아예 대중적이거나,<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[파타고니아 : 타고난 사업가 이본 쉬나드, 룰 브레이커가 되다]]></title>
+        <id>https://www.longblack.co/note/956</id>
+        <link href="https://www.longblack.co/note/956"/>
+        <updated>2024-01-21T15:18:10.328Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K &nbsp;“이제 파타고니아의 유일한 주주는 지구입니다.”&nbsp;2022년 9월 14일. 파타고니아Patagonia 공식 홈페이지에 올라온, 창업자 이본 쉬나드Yvon Chou<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
