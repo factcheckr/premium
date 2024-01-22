@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jan 2024 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 01:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNS 운영부터 굿즈 출시까지, 소비자와 소통 잘해서 칭찬 받은 브랜드 2]]></title>
+            <link>https://www.careet.net/1279</link>
+            <guid>https://www.careet.net/1279</guid>
+            <pubDate>Mon, 22 Jan 2024 01:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[이주의 주목할 레퍼런스는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/9bde16aa-7d67-4ce8-808e-6ae0ec548fdb_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[다이어리 대신 쓴다! 품절 대란 일어난 ‘신년 필수템’은? 이주의 유행템 4]]></title>
             <link>https://www.careet.net/1275</link>
