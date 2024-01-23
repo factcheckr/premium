@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 14:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 15:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,11 +366,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8d9404a8-e675-4ed4-ab11-de07668659ca_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[에레혼 : 카다시안의 스무디, 발렌시아가의 가방을 만드는 동네 마트 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/957</link>
-            <guid>https://www.longblack.co/note/957</guid>
-            <pubDate>Mon, 22 Jan 2024 15:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C &nbsp;LA에서 할리우드 스타를 가장 많이 볼 수 있는 곳이 어딜까요? 고급 레스토랑이나 호텔? 요즘엔 마트에 가는 게 더 빠를지도 몰라요. 바로 유기농 식료품점 에레<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[사회역학자 김승섭 : 타인의 고통에 응답하는 공부를 말하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/958</link>
+            <guid>https://www.longblack.co/note/958</guid>
+            <pubDate>Tue, 23 Jan 2024 15:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;1960년대 실제 NASA 직원이었던 세 흑인 여성 과학자를 그린 영화 「히든 피겨스」(2017)의 한 장면. 주인공이 연구소 밖에 있는 유색인종 화장실에 가기 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -455,6 +455,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[음악 리뷰 웹사이트 피치포크가 〈GQ〉와 합병한다. 위기는 음악 팬들만의 것이 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69091</link>
+            <guid>https://www.bookjournalism.com/books/69091</guid>
+            <pubDate>Tue, 23 Jan 2024 15:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[피치포크의 종말]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613823/w/646/240124_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -543,14 +551,6 @@
             <pubDate>Fri, 12 Jan 2024 08:25:29 GMT</pubDate>
             <content:encoded><![CDATA[2024년 1월 13일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/611278/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비극이다. 이 비극이 애도로만 끝난다면 우리는 무거운 기회를 놓쳐버린다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68853</link>
-            <guid>https://www.bookjournalism.com/books/68853</guid>
-            <pubDate>Thu, 11 Jan 2024 15:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[연예인 마약 수사의 소비 과정]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/611164/w/646/e240112_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
