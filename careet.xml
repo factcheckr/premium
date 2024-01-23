@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 23:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 01:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해외 Z세대가 직접 제보한 2024년 글로벌 트렌드, 소개합니다!]]></title>
+            <link>https://www.careet.net/1276</link>
+            <guid>https://www.careet.net/1276</guid>
+            <pubDate>Tue, 23 Jan 2024 01:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[스탠리 텀블러 말고 요즘 유행하는 해외 트렌드 뭐 없나?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/41d3ab49-ec5f-446d-8a69-c2d4ed3a4037_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SNS 운영부터 굿즈 출시까지, 소비자와 소통 잘해서 칭찬 받은 브랜드 2]]></title>
             <link>https://www.careet.net/1279</link>
