@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 23:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 01:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신조어 또 생겼어? Z세대는 ‘맛있다’를 이렇게 말함!]]></title>
+            <link>https://www.careet.net/1281</link>
+            <guid>https://www.careet.net/1281</guid>
+            <pubDate>Wed, 24 Jan 2024 01:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브, 예능에서 유래한 밈 3]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/5ab04655-ee0d-4d11-8d38-16b5725b0459_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[해외 Z세대가 직접 제보한 2024년 글로벌 트렌드, 소개합니다!]]></title>
             <link>https://www.careet.net/1276</link>

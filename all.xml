@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 23:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 01:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7447?fr=category</guid>
             <pubDate>Wed, 10 Jan 2024 07:17:16 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7447?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/01/10/1704859072_vaxKFcLa3SGuXOx7dBTP1osG1c9sULIoGBWEnNdJ.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 8분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7447?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">[인터뷰] 전형적인 건 나랑 안 어울려: 크러시X카리나 기획 비하인드</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신조어 또 생겼어? Z세대는 ‘맛있다’를 이렇게 말함! (캐릿)]]></title>
+            <link>https://www.careet.net/1281</link>
+            <guid>https://www.careet.net/1281</guid>
+            <pubDate>Wed, 24 Jan 2024 01:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브, 예능에서 유래한 밈 3]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202401/5ab04655-ee0d-4d11-8d38-16b5725b0459_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[해외 Z세대가 직접 제보한 2024년 글로벌 트렌드, 소개합니다! (캐릿)]]></title>
@@ -457,20 +465,20 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613840/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[음악 리뷰 웹사이트 피치포크가 〈GQ〉와 합병한다. 위기는 음악 팬들만의 것이 아니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/69091</link>
             <guid>https://www.bookjournalism.com/books/69091</guid>
             <pubDate>Tue, 23 Jan 2024 15:21:13 GMT</pubDate>
             <content:encoded><![CDATA[피치포크의 종말]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613823/w/646/240124_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613753/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[G 대리가 점점 똑똑해진다. 김 대리의 자리는 무사할까. (북저널리즘)]]></title>
