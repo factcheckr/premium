@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 14:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 15:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,11 +374,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202311/8d9404a8-e675-4ed4-ab11-de07668659ca_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[사회역학자 김승섭 : 타인의 고통에 응답하는 공부를 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/958</link>
-            <guid>https://www.longblack.co/note/958</guid>
-            <pubDate>Tue, 23 Jan 2024 15:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;1960년대 실제 NASA 직원이었던 세 흑인 여성 과학자를 그린 영화 「히든 피겨스」(2017)의 한 장면. 주인공이 연구소 밖에 있는 유색인종 화장실에 가기 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[체스닷컴 : e스포츠가 된 체스, 1억 유저에게 유쾌한 패배를 가르치다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/959</link>
+            <guid>https://www.longblack.co/note/959</guid>
+            <pubDate>Wed, 24 Jan 2024 15:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L &nbsp;2023년 ‘타임지가 선정한 가장 영향력 있는 기업’ 리스트에 보드게임 회사가 이름을 올렸어. 체스닷컴Chess.com이란 서비스야! 애플리케이션도 있어. 혼자<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -463,6 +463,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지구 종말 시계가 오후 11시 58분 30초를 가리켰다. 자정이 되면 인류가 멸망한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69115</link>
+            <guid>https://www.bookjournalism.com/books/69115</guid>
+            <pubDate>Wed, 24 Jan 2024 15:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[지구 종말 90초 전]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613983/w/646/ex240125thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -551,14 +559,6 @@
             <pubDate>Sun, 14 Jan 2024 15:18:39 GMT</pubDate>
             <content:encoded><![CDATA[한국판 NASA가 온다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/611343/w/646/ex240115thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잊힐 권리와 팬톤 컬러, 기후 보도를 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/68865</link>
-            <guid>https://www.bookjournalism.com/audio/68865</guid>
-            <pubDate>Fri, 12 Jan 2024 08:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 1월 13일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/611278/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
