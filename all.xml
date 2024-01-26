@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 07:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 08:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[애플의 비전프로와 기후 위기 시대의 맥주, 자살 위기에 몰린 청년 여성을 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/69184</link>
+            <guid>https://www.bookjournalism.com/audio/69184</guid>
+            <pubDate>Fri, 26 Jan 2024 08:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 1월 27일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/614433/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 16 Jan 2024 15:20:35 GMT</pubDate>
             <content:encoded><![CDATA[쿠키가 사라진 자리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612165/w/646/240117_exp_thumb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[독립 영화사 A24는 마블의 홍수 속에서 어떻게 할리우드의 독보적인 제작사가 됐을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68891</link>
-            <guid>https://www.bookjournalism.com/books/68891</guid>
-            <pubDate>Mon, 15 Jan 2024 18:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[A24는 어떻게 할리우드 최고의 제작사가 됐을까?]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/611881/w/646/ex240116thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
