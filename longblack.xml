@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-01-28T14:16:16.145Z</updated>
+    <updated>2024-01-28T15:16:39.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-01-27T15:16:02.323Z</updated>
-        <content type="html"><![CDATA[이번 주 롱블랙 피플이 가장 많이 읽은 김승섭 사회역학자 이야기
-
-놓여 있는 현실과 바라는 가치 사이의 긴장 속에서, 삶을 꾸려나가는 게 필요해요. 풀 수 있는 문제를 푸는 게 아니라, 풀어야 하는 문제를 푸는 것. 쓸 수 있는 논문을 쓰는 게 아니라, 필요한 논문<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[리브미컴퍼니 : 사브서울과  윰드, 골든피스까지, 공간에 세계관을 입히다]]></title>
+        <id>https://www.longblack.co/note/965</id>
+        <link href="https://www.longblack.co/note/965"/>
+        <updated>2024-01-28T15:15:45.671Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;&nbsp;‘무드서울Mood Seoul’이란 와인바Bar를 아시나요? 한강 반포지구 세빛둥둥섬에 위치해 있어요. 일몰 시간에 맞춰 가길 추천드려요. 창 너머로 붉게 물들어<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
