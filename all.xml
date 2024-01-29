@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 14:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 15:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7448?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/01/16/1705369095_x3Cy8mBYeUFJqz1a3I6HOBrqZXYUfhXN6A16VXWe.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 12분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7448?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">가격을 올려도 고객의 지갑이 열릴까? 비싸도 사게 만드는 가격 인상 전략 3가지</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[리브미컴퍼니 : 사브서울과  윰드, 골든피스까지, 공간에 세계관을 입히다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/965</link>
-            <guid>https://www.longblack.co/note/965</guid>
-            <pubDate>Sun, 28 Jan 2024 15:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;&nbsp;‘무드서울Mood Seoul’이란 와인바Bar를 아시나요? 한강 반포지구 세빛둥둥섬에 위치해 있어요. 일몰 시간에 맞춰 가길 추천드려요. 창 너머로 붉게 물들어<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[버키스 : 빨간 모자 쓴 비버가 반기는, 휴게소계의 디즈니랜드 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/964</link>
+            <guid>https://www.longblack.co/note/964</guid>
+            <pubDate>Mon, 29 Jan 2024 15:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;미국 텍사스의 핵심 관광지 중 하나가 ‘휴게소’라는 거 아세요? 주인공은 버키스Buc-ee’s! 텍사스를 중심으로 미국에 47개 매장(2023년 12월 기준)을 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유럽의 농민들이 트랙터를 몰고 도시로 향한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69233</link>
+            <guid>https://www.bookjournalism.com/books/69233</guid>
+            <pubDate>Mon, 29 Jan 2024 15:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[도시의 무지]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/614841/w/646/e240130_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Thu, 18 Jan 2024 07:19:02 GMT</pubDate>
             <content:encoded><![CDATA[34세의 프랑스 총리, 가브리엘 아탈]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612606/w/646/f240118thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정치 혐오가 혐오 정치를 만든다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68931</link>
-            <guid>https://www.bookjournalism.com/books/68931</guid>
-            <pubDate>Wed, 17 Jan 2024 18:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[동료 시민에 대한 예의]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612330/w/646/ex240118thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
