@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 22:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 23:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,7 +174,7 @@
             <guid>https://www.bookjournalism.com/books/69243</guid>
             <pubDate>Tue, 30 Jan 2024 15:19:51 GMT</pubDate>
             <content:encoded><![CDATA[여론 조사, 공천과 공해 사이]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/614928/w/646/240131_exp_thumb.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/614952/w/646/240131_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
