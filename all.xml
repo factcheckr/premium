@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 14:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 15:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7461?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/01/19/1705636069_PeHsOVrQ9jVkjr1oUP4UeRQvMCzGxk8KCt0y8062.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 2분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7461?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">사업계획서 작성법 총정리.zip</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[달파란 : 무빙·킹덤·곡성 음악 감독, 이야기에 ‘공기감’을 설계하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/963</link>
-            <guid>https://www.longblack.co/note/963</guid>
-            <pubDate>Tue, 30 Jan 2024 15:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;“음악은 영화의 심장 박동이다.”「아바타」 시리즈를 연출한 제임스 카메론 감독의 말입니다. 여기 한국 영화의 심장 박동을 만든 사람이 있어요. 달파란 음악 감독입<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[요기보 : 격투기장과 야구장을 파고든 빈백, 편안함의 틀을 깨다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/966</link>
+            <guid>https://www.longblack.co/note/966</guid>
+            <pubDate>Wed, 31 Jan 2024 15:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;남다른 브랜드에는 특징이 있어요. 비즈니스를 재정의했다는 것이죠. 예를 들어, 마블엔터테인먼트는 기존 ‘만화책’에서 ‘캐릭터와 스토리’로 사업을 재정의해 부활했죠<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴럴링크가 사람의 뇌에 칩을 심었다. 뇌와 컴퓨터가 연결된다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69257</link>
+            <guid>https://www.bookjournalism.com/books/69257</guid>
+            <pubDate>Wed, 31 Jan 2024 15:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[뇌에 칩을 심었다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615269/w/646/ex240201thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 19 Jan 2024 08:25:05 GMT</pubDate>
             <content:encoded><![CDATA[2024년 1월 20일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612849/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후티 반군이 홍해를 막아섰다. 팍스 아메리카나가 흔들린다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68983</link>
-            <guid>https://www.bookjournalism.com/books/68983</guid>
-            <pubDate>Thu, 18 Jan 2024 23:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[홍해의 총성]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612665/w/646/e240119_thm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
