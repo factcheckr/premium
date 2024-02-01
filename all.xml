@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 14:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 15:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7455?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/01/22/1705884855_WydywK882RdLUA4u8ZkSpQU7Qblo8hpwhsOjBKi1.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 8분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7455?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">성과로 이어지는 프로젝트 개요 작성법 (원페이지 템플릿 제공)</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요기보 : 격투기장과 야구장을 파고든 빈백, 편안함의 틀을 깨다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/966</link>
-            <guid>https://www.longblack.co/note/966</guid>
-            <pubDate>Wed, 31 Jan 2024 15:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;남다른 브랜드에는 특징이 있어요. 비즈니스를 재정의했다는 것이죠. 예를 들어, 마블엔터테인먼트는 기존 ‘만화책’에서 ‘캐릭터와 스토리’로 사업을 재정의해 부활했죠<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[실리카겔 : 루저 중에 1등이 되고 싶던 밴드, 대세가 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/967</link>
+            <guid>https://www.longblack.co/note/967</guid>
+            <pubDate>Thu, 01 Feb 2024 15:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;“루저들 중에서 1등을 하고 싶은 거다.” 이렇게 말하던 인디밴드가 있어요. 그런데 대세가 되었죠. 2017년 한국대중음악상에서 올해의 신인상을 받더니, 2022<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -169,6 +169,22 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[합정역에 독수리 사진이 붙었다. 신경 쓰는 것은 사람뿐이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69298</link>
+            <guid>https://www.bookjournalism.com/books/69298</guid>
+            <pubDate>Thu, 01 Feb 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[비둘기와 함께 살 용기]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615365/w/646/e240202_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대가 이룩한 대이직 시대다. 지금 인재들의 니즈를 파악하지 못하면, 뒤처질 수밖에 없다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68989</link>
+            <guid>https://www.bookjournalism.com/books/68989</guid>
+            <pubDate>Thu, 01 Feb 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[대이직 시대]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615331/w/646/105_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -247,22 +263,6 @@
             <pubDate>Mon, 22 Jan 2024 16:25:46 GMT</pubDate>
             <content:encoded><![CDATA[당신이 필요 없는 세상]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613512/w/646/e240122_thm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍콩H지수가 추락하며 ELS 손실이 커지고 있다. 올해 상반기에만 손실이 6조 원대까지 불어날 수 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69040</link>
-            <guid>https://www.bookjournalism.com/books/69040</guid>
-            <pubDate>Sun, 21 Jan 2024 15:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[노후 자금이 반토막 났다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613059/w/646/ex240122thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앨라배마주의 지역 언론과 기후 대응 콘트롤타워, 반려견 복제를 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/69025</link>
-            <guid>https://www.bookjournalism.com/audio/69025</guid>
-            <pubDate>Fri, 19 Jan 2024 08:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 1월 20일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612849/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
