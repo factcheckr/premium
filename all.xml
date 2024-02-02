@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 07:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 08:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스와팅과 화곡동 전세 사기, 벚꽂과 기후위기에 대해 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/69314</link>
+            <guid>https://www.bookjournalism.com/audio/69314</guid>
+            <pubDate>Fri, 02 Feb 2024 08:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 2월 3일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615591/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 23 Jan 2024 15:21:13 GMT</pubDate>
             <content:encoded><![CDATA[피치포크의 종말]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613823/w/646/240124_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[G 대리가 점점 똑똑해진다. 김 대리의 자리는 무사할까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69063</link>
-            <guid>https://www.bookjournalism.com/books/69063</guid>
-            <pubDate>Mon, 22 Jan 2024 16:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[당신이 필요 없는 세상]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613512/w/646/e240122_thm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
