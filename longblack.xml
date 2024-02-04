@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-02-04T14:16:03.439Z</updated>
+    <updated>2024-02-04T15:17:43.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-02-03T15:17:10.490Z</updated>
-        <content type="html"><![CDATA[B가 만나고 온 달파란 음악감독의 이야기
-
-“전형성이 꼭 나쁜 건 아니에요. 그것도 우리가 쌓아온 고유한 맛이니까요. 거기에 새로움을 한 스푼만 추가해도, 사람들은 신선하다고 느껴요. 매일 마시는 커피에 우유나 시럽을 조금 더하면 달라지는 것처럼요.”&lt;a targe<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[녹싸 박정수 : “오늘, 어떠한 기분으로 세상을 대하실 건가요?”]]></title>
+        <id>https://www.longblack.co/note/972</id>
+        <link href="https://www.longblack.co/note/972"/>
+        <updated>2024-02-04T15:16:51.385Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;뭉게구름 흐르는 하늘로 아이스크림으로 만든다면, 어떤 맛이 날까요? 서울 마포구 염리동의 아이스크림 가게 ‘녹기 전에’는, 하늘색 바닐라 아이스크림에 솜사탕을 올<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
