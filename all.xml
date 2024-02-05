@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 23:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 01:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,12 +169,28 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[문제는 할인 한도가 아니다. 공급률이다. (북저널리즘)]]></title>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615947/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[동네 책방의 페인 포인트는 할인 한도가 아니다. 공급률이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/69323</link>
             <guid>https://www.bookjournalism.com/books/69323</guid>
             <pubDate>Sun, 04 Feb 2024 15:17:35 GMT</pubDate>
             <content:encoded><![CDATA[할인 한도를 풀면 동네 책방이 살아날까?]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615936/w/646/ex240205thm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615945/w/646/ex240205thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[희망과 발전을 함의하는 키워드로 보이지만 실은 정반대다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69291</link>
+            <guid>https://www.bookjournalism.com/books/69291</guid>
+            <pubDate>Mon, 05 Feb 2024 01:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[ISSUE 20. 혁신, 스포트라이트, 금융]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615327/w/646/thread20_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스와팅과 화곡동 전세 사기, 벚꽂과 기후위기에 대해 다룹니다. (북저널리즘)]]></title>
@@ -183,14 +199,6 @@
             <pubDate>Fri, 02 Feb 2024 08:22:41 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 3일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615591/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615422/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[합정역에 독수리 사진이 붙었다. 신경 쓰는 것은 사람뿐이다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Thu, 25 Jan 2024 16:26:52 GMT</pubDate>
             <content:encoded><![CDATA[매킨토시 비긴즈]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/614205/w/646/e240126_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구 종말 시계가 오후 11시 58분 30초를 가리켰다. 자정이 되면 인류가 멸망한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69115</link>
-            <guid>https://www.bookjournalism.com/books/69115</guid>
-            <pubDate>Wed, 24 Jan 2024 15:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[지구 종말 90초 전]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613983/w/646/ex240125thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
