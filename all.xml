@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 14:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 15:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7453?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/01/23/1705996372_IidPFLnL60h39ZBC403DzDYDWHG1sRc5AeSr85sU.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 8분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7453?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">제미나이(Gemini)로 더 똑똑해진 바드(Bard), 콘텐츠 제작에 활용하는 5가지 방법</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[녹싸 박정수 : “오늘, 어떠한 기분으로 세상을 대하실 건가요?” (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/972</link>
-            <guid>https://www.longblack.co/note/972</guid>
-            <pubDate>Sun, 04 Feb 2024 15:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;뭉게구름 흐르는 하늘로 아이스크림을 만든다면, 어떤 맛이 날까요? 서울 마포구 염리동의 아이스크림 가게 ‘녹기 전에’는, 하늘색 바닐라 아이스크림에 솜사탕을 올렸<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[코치 : 두 번 추락한 브랜드가, 역사책에 기록될 컴백을 하기까지 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/971</link>
+            <guid>https://www.longblack.co/note/971</guid>
+            <pubDate>Mon, 05 Feb 2024 15:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;나 너무 놀랐어. C가 코치COACH 가방을 들고 왔더라고! 아니, 코치라니. 2000년대에 메던 브랜드 아냐? 반전은 2023년 현재, Z세대가 가장 좋아하는 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시대가 달린다. 그래미의 시계도 움직이기 시작했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69350</link>
+            <guid>https://www.bookjournalism.com/books/69350</guid>
+            <pubDate>Mon, 05 Feb 2024 15:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[그래미의 느릿한 변화]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615979/w/646/e240206_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 26 Jan 2024 08:22:22 GMT</pubDate>
             <content:encoded><![CDATA[2024년 1월 27일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/614433/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아름다운 컴퓨터를 만든 사람들에겐 철학이 있었다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69173</link>
-            <guid>https://www.bookjournalism.com/books/69173</guid>
-            <pubDate>Thu, 25 Jan 2024 16:26:52 GMT</pubDate>
-            <content:encoded><![CDATA[매킨토시 비긴즈]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/614205/w/646/e240126_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
