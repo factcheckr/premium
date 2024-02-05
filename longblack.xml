@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-02-05T12:33:22.992Z</updated>
+    <updated>2024-02-05T13:20:15.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/972</id>
         <link href="https://www.longblack.co/note/972"/>
         <updated>2024-02-04T15:16:51.385Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;뭉게구름 흐르는 하늘로 아이스크림으로 만든다면, 어떤 맛이 날까요? 서울 마포구 염리동의 아이스크림 가게 ‘녹기 전에’는, 하늘색 바닐라 아이스크림에 솜사탕을 올<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;뭉게구름 흐르는 하늘로 아이스크림을 만든다면, 어떤 맛이 날까요? 서울 마포구 염리동의 아이스크림 가게 ‘녹기 전에’는, 하늘색 바닐라 아이스크림에 솜사탕을 올렸<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
