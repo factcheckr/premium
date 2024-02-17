@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-02-17T14:17:20.651Z</updated>
+    <updated>2024-02-17T15:18:02.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[당신은 지루함이 필요하다 : 주말을 기다리며 숨 가쁘게 보냈나요?]]></title>
-        <id>https://www.longblack.co/note/981</id>
-        <link href="https://www.longblack.co/note/981"/>
-        <updated>2024-02-16T15:18:57.608Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K &nbsp;휴일입니다. 오늘 하루를 어떻게 보낼 계획이신가요? 저는 ‘지루한 하루’를 보낼 작정입니다. 왜 사서 지루함을 쫓느냐고요?&nbsp;김지원 기자가 준비한 오늘 이야기를 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-02-17T15:17:10.420Z</updated>
+        <content type="html"><![CDATA[K가 만난 한이경 호텔기획자의 이야기
+
+“시나리오를 쓴다고 생각했어요. 호텔에 와서 행복할 고객부터 생각해요. 그 고객이 정문에서 프론트데스크로 온다면, 어때야 할까. 로비는 어떤 모양이어야 편안할까. 이 사람이 생각하는 럭셔리는 무얼까. 호텔이 가진 디자인과 테크<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
