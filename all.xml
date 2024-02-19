@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 14:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 15:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7465?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/02/07/1707278645_tLKglJEFea5Yuz9ZyS5Su5j1z8dcdy5RfbOLBD2i.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 10분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7465?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">사례로 보는, 좋은 콘텐츠를 만드는 피드백 노하우</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김원국 : ‘서울의 봄’ 제작자의 1300만을 불러 모은 스토리 기획법 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/984</link>
-            <guid>https://www.longblack.co/note/984</guid>
-            <pubDate>Sun, 18 Feb 2024 15:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K &nbsp;우리는 ‘스토리의 시대’를 살고 있어요. K 콘텐츠 시장 규모는 어느덧 148조원에 달하고, 이제는 기업들까지 자기만의 세계관 만들기에 나서고 있죠. 롱블랙이 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[토스 UX 라이팅 : 정답이 있는 글쓰기로, 1500만 사용자에게 말을 걸다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/985</link>
+            <guid>https://www.longblack.co/note/985</guid>
+            <pubDate>Mon, 19 Feb 2024 15:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;“대출 잔액이 달라졌어요. 잔액을 확인하세요.”대출금을 다 갚은 고객이 받는 금융 앱의 알림이에요. 토스는 이 문구를 아래처럼 바꿨어요.“갚느라 고생 많으셨어요!<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사실, 영화관은 팬덤 소비의 현장으로 변화했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69524</link>
+            <guid>https://www.bookjournalism.com/books/69524</guid>
+            <pubDate>Mon, 19 Feb 2024 15:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[〈건국전쟁〉은 왜 흥행하나]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617516/w/646/e240220_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 05 Feb 2024 15:18:45 GMT</pubDate>
             <content:encoded><![CDATA[그래미의 느릿한 변화]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615979/w/646/e240206_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동네 책방의 페인 포인트는 할인 한도가 아니다. 공급률이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69323</link>
-            <guid>https://www.bookjournalism.com/books/69323</guid>
-            <pubDate>Sun, 04 Feb 2024 15:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[할인 한도를 풀면 동네 책방이 살아날까?]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615945/w/646/ex240205thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

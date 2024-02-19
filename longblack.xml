@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-02-19T14:18:52.551Z</updated>
+    <updated>2024-02-19T15:19:54.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[김원국 : ‘서울의 봄’ 제작자의 1300만을 불러 모은 스토리 기획법]]></title>
-        <id>https://www.longblack.co/note/984</id>
-        <link href="https://www.longblack.co/note/984"/>
-        <updated>2024-02-18T15:18:34.396Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K &nbsp;우리는 ‘스토리의 시대’를 살고 있어요. K 콘텐츠 시장 규모는 어느덧 148조원에 달하고, 이제는 기업들까지 자기만의 세계관 만들기에 나서고 있죠. 롱블랙이 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[토스 UX 라이팅 : 정답이 있는 글쓰기로, 1500만 사용자에게 말을 걸다]]></title>
+        <id>https://www.longblack.co/note/985</id>
+        <link href="https://www.longblack.co/note/985"/>
+        <updated>2024-02-19T15:19:04.583Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;“대출 잔액이 달라졌어요. 잔액을 확인하세요.”대출금을 다 갚은 고객이 받는 금융 앱의 알림이에요. 토스는 이 문구를 아래처럼 바꿨어요.“갚느라 고생 많으셨어요!<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
