@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-02-24T14:15:55.074Z</updated>
+    <updated>2024-02-24T15:17:05.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[히든 포텐셜 : 애덤 그랜트가 말하는 성공 비결, “재능보다 숨은 잠재력”]]></title>
-        <id>https://www.longblack.co/note/988</id>
-        <link href="https://www.longblack.co/note/988"/>
-        <updated>2024-02-23T15:21:15.116Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;재능, 노력, 운. 성공에 무엇이 가장 강력한 도구라고 생각하세요? 아니, 그보다 성공이란 뭐라고 생각하시나요?&nbsp;저는 유명 자기계발서 저자인&nbsp;애덤 그랜트Adam <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-02-24T15:16:12.333Z</updated>
+        <content type="html"><![CDATA[C가 만난 강풀 작가의 이야기
+
+“제가 엄청나게 대중적인 사람이에요. 남들이 좋아하는 것만 좋아하죠. 그래서 맹목적으로 믿어요. ‘내가 재밌으면 남들도 재미있다’고. 가장 중요한 건, 나를 속이지 않는 거예요. 몸이 힘들어서, 피곤해서, ‘이정도면 재밌어’라고 타협<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
