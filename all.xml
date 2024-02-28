@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 14:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 15:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7480?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/02/21/1708483204_QDjFpL2hD9gCqDd5daYXDyraTPbvGzhDQ1gm5TXD.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 6분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7480?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">[5분 순삭] 평생 무기가 될 생산성 습관(1) 유튜브로 읽는 인간의 욕망</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Jerks at Work : 혹시 내가 우리 사무실의 빌런은 아니겠지? (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/991</link>
-            <guid>https://www.longblack.co/note/991</guid>
-            <pubDate>Tue, 27 Feb 2024 15:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C“저 인간 도대체 왜 저러는 거야?” 솔직히 이번 주에 이 생각, 해본 적 있지 않나요? 일하다 보면 종종 빌런Villain을 만나요. 그중에서도 가장 괴로운 건?<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[오우드 : 돈보다 감각을 좇던 카페, 샤넬과 자크뮈스의 선택을 받다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/992</link>
+            <guid>https://www.longblack.co/note/992</guid>
+            <pubDate>Wed, 28 Feb 2024 15:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;지난 주말에 성수동에 다녀왔어요. 한국에서 가장 핫한 지역이죠.&nbsp;언젠가부터 성수동에 럭셔리 브랜드들이 팝업을 열기 시작했어요. 2022년 디올 성수가 시작이었던가<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[개혁신당 이준석 대표는 스타트업 하듯 정치를 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69635</link>
+            <guid>https://www.bookjournalism.com/books/69635</guid>
+            <pubDate>Wed, 28 Feb 2024 15:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[정당은 스타트업이 아니다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618357/w/646/ex240229thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 16 Feb 2024 08:23:04 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 17일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617279/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돈이 영향력이 된다. 그래도 괜찮을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69467</link>
-            <guid>https://www.bookjournalism.com/books/69467</guid>
-            <pubDate>Thu, 15 Feb 2024 15:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[기부금의 정치학]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617208/w/646/e240216_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
