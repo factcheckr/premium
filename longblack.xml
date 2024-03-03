@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-03-03T03:19:13.555Z</updated>
+    <updated>2024-03-03T04:22:49.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,8 +10,8 @@
         <id>https://www.longblack.co/weekend</id>
         <link href="https://www.longblack.co/weekend"/>
         <updated>2024-03-02T15:16:46.678Z</updated>
-        <content type="html"><![CDATA[C가 만난 강풀 작가의 이야기
+        <content type="html"><![CDATA[K가 만난 온지음의 이야기
 
-“제가 엄청나게 대중적인 사람이에요. 남들이 좋아하는 것만 좋아하죠. 그래서 맹목적으로 믿어요. ‘내가 재밌으면 남들도 재미있다’고. 가장 중요한 건, 나를 속이지 않는 거예요. 몸이 힘들어서, 피곤해서, ‘이정도면 재밌어’라고 타협<span class="circle-punctuation"></span>]]></content>
+“한식의 세계화가, 전 세계 사람이 매일 한식을 먹는다는 뜻이 아니잖아요. 1년에 단 몇 번이라도 한국적인 메뉴를 찾으면, 그게 세계화고 일상화죠. 집도 마찬가지예요. 한국적 공간을 부분적으로 꾸려서 살면, 일상화예요. 시간을 점유하는 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
