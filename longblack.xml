@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-03-03T14:17:35.433Z</updated>
+    <updated>2024-03-03T15:19:19.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-03-02T15:16:46.678Z</updated>
-        <content type="html"><![CDATA[K가 만난 온지음의 이야기
-
-“한식의 세계화가, 전 세계 사람이 매일 한식을 먹는다는 뜻이 아니잖아요. 1년에 단 몇 번이라도 한국적인 메뉴를 찾으면, 그게 세계화고 일상화죠. 집도 마찬가지예요. 한국적 공간을 부분적으로 꾸려서 살면, 일상화예요. 시간을 점유하는 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[컨셉수업 : 하나의 말로, 흔들리지 않는 비즈니스를 만드는 법]]></title>
+        <id>https://www.longblack.co/note/995</id>
+        <link href="https://www.longblack.co/note/995"/>
+        <updated>2024-03-03T15:18:28.107Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;일을 하다 보면 온갖 고민이 들 때가 있습니다. 누구를 위해서 이 제품을 만드는가. 어떻게 서비스를 개선해야 할까. 이 제품으로 나는 어떤 세상을 만들고 싶은가.<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
