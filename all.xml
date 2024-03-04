@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 14:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 15:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7482?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/02/22/1708569158_fiipSOJ15GwAv0Fhu7WIjPdB7ZhW5eTSGfjxrArS.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 4분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7482?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">[5분 순삭] 평생 무기가 될 생산성 습관(3) 사소한 새로움에 감탄하기</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[컨셉수업 : 하나의 말로, 흔들리지 않는 비즈니스를 만드는 법 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/995</link>
-            <guid>https://www.longblack.co/note/995</guid>
-            <pubDate>Sun, 03 Mar 2024 15:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;일을 하다 보면 온갖 고민이 들 때가 있습니다. 누구를 위해서 이 제품을 만드는가. 어떻게 서비스를 개선해야 할까. 이 제품으로 나는 어떤 세상을 만들고 싶은가.<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[미쉐린 가이드 : 타이어 회사의 마케팅 콘텐츠, 브랜드가 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/996</link>
+            <guid>https://www.longblack.co/note/996</guid>
+            <pubDate>Mon, 04 Mar 2024 15:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;며칠 전 ‘미쉐린 가이드 서울 &amp; 부산 2024’가 발표됐죠? 한국 진출 8년 만에 서울이 아닌 도시를 다뤘어요. 덕분에 발표 전부터 미식가들의 주목을 끌었습니다<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무해한 푸바오의 매력에 인간은 행복했다. 그런데 마냥 행복해 할 일은 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69694</link>
+            <guid>https://www.bookjournalism.com/books/69694</guid>
+            <pubDate>Mon, 04 Mar 2024 15:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[판다 외교에 관한 문제 제기]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619176/w/646/e240305_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 20 Feb 2024 15:18:26 GMT</pubDate>
             <content:encoded><![CDATA[늙은 정치인과 낡은 정치판]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617619/w/646/240221_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사실, 영화관은 팬덤 소비의 현장으로 변화했다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69524</link>
-            <guid>https://www.bookjournalism.com/books/69524</guid>
-            <pubDate>Mon, 19 Feb 2024 15:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[〈건국전쟁〉은 왜 흥행하나]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617516/w/646/e240220_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
