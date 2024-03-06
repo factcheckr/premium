@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 14:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 15:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7478?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/02/26/1708917429_YrCUvUDdgoILxKEFlgkToymka15ODiKxFguNS8XJ.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 11분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7478?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">일의 권태기? 번아웃만큼 무서운 보어아웃, 진단과 해결 방안</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김선우 : 오픈런을 부른 바보 도도새, 영컬렉터와 불가리의 선택을 받다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/997</link>
-            <guid>https://www.longblack.co/note/997</guid>
-            <pubDate>Tue, 05 Mar 2024 15:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;1월에 나온 스타벅스 굿즈 봤어요? 도도새 그림이 그려진 텀블러와 토트백이에요. 텀블러에는 뭉툭한 부리를 가진 순진무구한 얼굴의 도도새 피규어가 달려 있어요. 진<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[스퀴시멜로우 : 워런 버핏의 눈에 든 봉제인형, 그 마케팅 비결 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/998</link>
+            <guid>https://www.longblack.co/note/998</guid>
+            <pubDate>Wed, 06 Mar 2024 15:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;2023년 5월 5일 미국 네브래스카주 오마하. 워런 버핏Warren Buffett이 이끄는 투자회사 버크셔 헤서웨이Berkshire Hathaway 주주총회장에<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새어 나가는 메탄을 잡아야 지구가 산다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69723</link>
+            <guid>https://www.bookjournalism.com/books/69723</guid>
+            <pubDate>Wed, 06 Mar 2024 15:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[메탄을 잡으러 우주로]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619422/w/646/ex240307thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Thu, 22 Feb 2024 15:19:24 GMT</pubDate>
             <content:encoded><![CDATA[바이오 슈퍼스타, 오가노이드]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617984/w/646/e240223_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄철이면 고로쇠 수액이 인기다. 불법 채취꾼들도 이때를 노린다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69551</link>
-            <guid>https://www.bookjournalism.com/books/69551</guid>
-            <pubDate>Wed, 21 Feb 2024 15:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[고로쇠도 아프다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617696/w/646/ex240222thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
