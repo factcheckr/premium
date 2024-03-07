@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 14:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 15:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7484?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/02/22/1708573930_9n0RZqsMiEDME7ItNY4lEbQNepcqG01ydPDB5dln.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 3분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7484?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">[5분 순삭] 평생 무기가 될 생산성 습관(5) 인맥을 넓히는 저녁 독서</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스퀴시멜로우 : 워런 버핏의 눈에 든 봉제인형, 그 마케팅 비결 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/998</link>
-            <guid>https://www.longblack.co/note/998</guid>
-            <pubDate>Wed, 06 Mar 2024 15:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;2023년 5월 5일 미국 네브래스카주 오마하. 워런 버핏Warren Buffett이 이끄는 투자회사 버크셔 헤서웨이Berkshire Hathaway 주주총회장에<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[나이키 1 : 나이키가 팬을 만드는 궁극의 법칙, 스파이크 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/999</link>
+            <guid>https://www.longblack.co/note/999</guid>
+            <pubDate>Thu, 07 Mar 2024 15:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;롱블랙 피플, 새로운 소식이 있어요. 금요일마다* 하나의 주제를 깊이 있게 파고들 거예요. 이른바, 롱블랙 클래스!*3~6월, 9~12월 학기제로 발행됩니다.20<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[종이 신문의 문제는 ‘종이’가 아닐지도 모른다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69736</link>
+            <guid>https://www.bookjournalism.com/books/69736</guid>
+            <pubDate>Thu, 07 Mar 2024 15:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[4년에 한 번 발행되는 신문]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619513/w/646/e240308_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 23 Feb 2024 08:23:30 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 24일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618128/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기술에 따라잡히기 전에 알아야 한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69571</link>
-            <guid>https://www.bookjournalism.com/books/69571</guid>
-            <pubDate>Thu, 22 Feb 2024 15:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[바이오 슈퍼스타, 오가노이드]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617984/w/646/e240223_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
