@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 08:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 09:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샘 올트먼과 일론 머스크의 소송전, 65주년을 맞은 바비에 대해 다룹니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/69746</link>
+            <guid>https://www.bookjournalism.com/audio/69746</guid>
+            <pubDate>Fri, 08 Mar 2024 09:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 3월 9일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619612/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 26 Feb 2024 01:17:25 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 전쟁 2년]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618159/w/646/ex240226thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난장이가 쏘아올린 작은 공과 변화하는 스프링캠프, 엔비디아와 AI에 대해 다룹니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/69583</link>
-            <guid>https://www.bookjournalism.com/audio/69583</guid>
-            <pubDate>Fri, 23 Feb 2024 08:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 2월 24일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618128/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
