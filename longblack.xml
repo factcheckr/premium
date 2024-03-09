@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-03-09T15:18:46.307Z</updated>
+    <updated>2024-03-09T16:23:38.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[모든 것이 괜찮아지는 기술: 당신이란 이야기의 각본, 남이 쓰게 두실 건가요?]]></title>
-        <id>https://www.longblack.co/note/1000</id>
-        <link href="https://www.longblack.co/note/1000"/>
-        <updated>2024-03-08T15:18:36.304Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B‘내가 계획대로 해낼 수 있을까.’ ‘나는 늘 실망만 안겨.’어떤 틀이 한번 우리 마음속에 잡히면, 삶은 그 틀을 강화하는 방향으로 흘러갑니다. 너무 걱정하진 마세<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-03-09T16:22:49.466Z</updated>
+        <content type="html"><![CDATA[B가 만난 호소다 다카히로의 『컨셉 수업』 이야기
+
+핵심은 질문을 계속해서 바꿔서 던지는 겁니다. “엘리베이터의 속도를 올리려면?”을, “기다리는 시간이 짧게 느껴지게 하려면?”으로 재구성한 것처럼. “질문은 곧 하나의 프레임이 돼요. 프레임이라는 매우 좁은 세계에<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
