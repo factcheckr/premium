@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 14:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 15:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2026년부터 기업의 기후 대응 정보가 재무적 요소처럼 취급된다.]]></title>
+            <link>https://www.bookjournalism.com/books/69760</link>
+            <guid>https://www.bookjournalism.com/books/69760</guid>
+            <pubDate>Sun, 10 Mar 2024 15:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[기후에 투자하세요]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619686/w/646/ex240311thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샘 올트먼과 일론 머스크의 소송전, 65주년을 맞은 바비에 대해 다룹니다.]]></title>
             <link>https://www.bookjournalism.com/audio/69746</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 26 Feb 2024 16:23:24 GMT</pubDate>
             <content:encoded><![CDATA[밸류업이 안되는 진짜 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618242/w/646/e240227_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아와 우크라이나의 전쟁이 2년을 맞았다. 전쟁은 교착 상태에 빠졌다.]]></title>
-            <link>https://www.bookjournalism.com/books/69600</link>
-            <guid>https://www.bookjournalism.com/books/69600</guid>
-            <pubDate>Mon, 26 Feb 2024 01:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 전쟁 2년]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618159/w/646/ex240226thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
