@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 14:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 15:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7487?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/02/28/1709088755_9zVcpdAXoRQOrZZ54elPHcfEP5gi7QGVagKodvwi.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 12분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7487?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">매일 10분, 꾸준하게 일기를 쓰는 4가지 방법</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[분장 감독 송종희 : 헤어질 결심·아가씨·올드보이의 ‘얼굴​’을 세공하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1001</link>
-            <guid>https://www.longblack.co/note/1001</guid>
-            <pubDate>Sun, 10 Mar 2024 15:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;“「올드보이」 스타 최민식, 「파묘」 출연”미국의 대중문화 매거진 버라이어티Variety의 올해 1월 기사 제목이에요. 영화 「파묘」를 소개하며 「올드보이」를 소<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[스킴스 : 마케터가 된 카다시안, 속옷으로 100대 기업을 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1002</link>
+            <guid>https://www.longblack.co/note/1002</guid>
+            <pubDate>Mon, 11 Mar 2024 15:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;킴 카다시안Kim Kardarsian이라는 이름, 다들 한 번쯤 들어봤을 거야. 할리우드의 이슈 메이커! 롱블랙에서 웬 가십 이야기냐고? 당연히 아니지. 비즈니스<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI시대, 돌봄과 교감은 상품이 된다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69778</link>
+            <guid>https://www.bookjournalism.com/books/69778</guid>
+            <pubDate>Mon, 11 Mar 2024 15:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[소셜 로봇이 온다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619859/w/646/e240312_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 27 Feb 2024 15:19:16 GMT</pubDate>
             <content:encoded><![CDATA[공기는 국경을 가리지 않는다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618342/w/646/240228_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코리아 디스카운트의 원인을 명확히 해야 해결책도 보인다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69609</link>
-            <guid>https://www.bookjournalism.com/books/69609</guid>
-            <pubDate>Mon, 26 Feb 2024 16:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[밸류업이 안되는 진짜 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618242/w/646/e240227_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
