@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 14:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 15:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아동 프리미엄 시장이 성장한다. 요즘 부모의 불안함 때문이다]]></title>
+            <link>https://www.bookjournalism.com/books/69789</link>
+            <guid>https://www.bookjournalism.com/books/69789</guid>
+            <pubDate>Tue, 12 Mar 2024 15:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[프리미엄 육아와 요즘 부모]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620008/w/646/240313_exp_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 28 Feb 2024 15:19:21 GMT</pubDate>
             <content:encoded><![CDATA[정당은 스타트업이 아니다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618357/w/646/ex240229thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후 위기 시대의 대기 오염은 메이드 인 꼬리표를 넘어선다.]]></title>
-            <link>https://www.bookjournalism.com/books/69617</link>
-            <guid>https://www.bookjournalism.com/books/69617</guid>
-            <pubDate>Tue, 27 Feb 2024 15:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[공기는 국경을 가리지 않는다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618342/w/646/240228_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
