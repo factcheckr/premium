@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 14:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 15:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7496?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/02/29/1709172655_tnfUbgAgkX5wZRz5mmOA9GRUTIAX6hBURS192h1O.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 13분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7496?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">일잘러가 제미나이를 데이터와 기획에 활용하는 6가지 방법 (+프롬프트 포함)</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마크앤샹탈 : 고객을 브랜드의 주인공으로 캐스팅하라 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1003</link>
-            <guid>https://www.longblack.co/note/1003</guid>
-            <pubDate>Tue, 12 Mar 2024 15:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;브랜드의 주인공은 누구일까요? 고객입니다. 하지만 브랜드나 마케터는 종종 그 사실을 잊습니다. 스스로를 주인공, 또는 영웅이라 착각하곤 하죠.여기, “고객을 브랜<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[유키 구라모토 : 내일 더 피아노를 잘 치고 싶다는, 일흔셋의 현역 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1008</link>
+            <guid>https://www.longblack.co/note/1008</guid>
+            <pubDate>Wed, 13 Mar 2024 15:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;유키 구라모토倉本 裕基*. 익숙한 이름이죠. 한국인이 가장 사랑하는 피아니스트. 뉴에이지의 거장. 대표곡인 ‘Lake Louise’는 학창 시절부터 제 플레이리스<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[저작권법이 생성 AI의 미래를 결정한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69802</link>
+            <guid>https://www.bookjournalism.com/books/69802</guid>
+            <pubDate>Wed, 13 Mar 2024 15:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[AI의 전장, 저작권법]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620033/w/646/ex240314thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 01 Mar 2024 04:23:22 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 1일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618567/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개혁신당 이준석 대표는 스타트업 하듯 정치를 한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69635</link>
-            <guid>https://www.bookjournalism.com/books/69635</guid>
-            <pubDate>Wed, 28 Feb 2024 15:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[정당은 스타트업이 아니다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618357/w/646/ex240229thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
