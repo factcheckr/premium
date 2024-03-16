@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 14:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 15:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,13 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7459?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/03/04/1709514118_G09N8R9T9crNAW00717s9JouvDFLAieo0VZRWwCP.png?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 11분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7459?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">15분 만에 나의 일주일을 돌아보는 법(한 주 리뷰 템플릿 제공)</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한남동 로컬 리포트 : 공실률 0%, 럭셔리와 힙의 중간지대를 분석하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1006</link>
-            <guid>https://www.longblack.co/note/1006</guid>
-            <pubDate>Fri, 15 Mar 2024 15:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;핫한 동네에는 이유가 있지. 롱블랙 피플이라면 로컬의 그 콘텐츠 맥락까지 알고 싶어할 거라고 생각했어. 그래서 준비해 봤지. 롱블랙 로컬 리포트! 앞으로 뜨는 동<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 16 Mar 2024 15:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[B가 만난 호소다 다카히로의 『컨셉 수업』 이야기
+
+핵심은 질문을 계속해서 바꿔서 던지는 겁니다. “엘리베이터의 속도를 올리려면?”을, “기다리는 시간이 짧게 느껴지게 하려면?”으로 재구성한 것처럼. “질문은 곧 하나의 프레임이 돼요. 프레임이라는 매우 좁은 세계에<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
