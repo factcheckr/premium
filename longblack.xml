@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-03-17T14:16:08.902Z</updated>
+    <updated>2024-03-17T15:19:13.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-03-16T15:16:47.687Z</updated>
-        <content type="html"><![CDATA[B가 만난 호소다 다카히로의 『컨셉 수업』 이야기
-
-핵심은 질문을 계속해서 바꿔서 던지는 겁니다. “엘리베이터의 속도를 올리려면?”을, “기다리는 시간이 짧게 느껴지게 하려면?”으로 재구성한 것처럼. “질문은 곧 하나의 프레임이 돼요. 프레임이라는 매우 좁은 세계에<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[스토리 2024 : 토스와 유튜브, 인스타그램에서 통하는 스토리텔링]]></title>
+        <id>https://www.longblack.co/note/1007</id>
+        <link href="https://www.longblack.co/note/1007"/>
+        <updated>2024-03-17T15:18:22.195Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;지금 비즈니스를 이끄는 힘은 어디에 있을까요? 롱블랙은 스토리에 있다고 봤어요. 사람들의 안목은 높아지고, 제품과 서비스는 상향평준화 됐죠. 무엇을 살지를 넘어,<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
