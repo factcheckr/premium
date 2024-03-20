@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 14:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 20:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7476?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/03/06/1709694499_H5kOVcsLNNLEhrCgKqXvWvAnahB0ACAc67r0V7yM.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 8분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7476?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">뒤죽박죽 마케팅 아이디어를 깔끔하게 시각화하는 법(원페이퍼 템플릿 제공)</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스토리 2024 : 매거진B와 메타코미디가 말하는 브랜드텔링 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1019</link>
-            <guid>https://www.longblack.co/note/1019</guid>
-            <pubDate>Tue, 19 Mar 2024 15:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;저는 무인양품이란 브랜드를 좋아합니다. 제가 물티슈 대신 사용하는 무인양품의 순면 행주. 방직공장에서 나온 자투리 솜을 편직해 만들어요. 즐겨 입는 슬립웨어는 색<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[블랙&어브로드 : 흑인을 위한 여행사, 차별을 마케팅으로 역이용하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1010</link>
+            <guid>https://www.longblack.co/note/1010</guid>
+            <pubDate>Wed, 20 Mar 2024 20:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;“그린북을 갖고 다니세요. 백인은 숙소를 구하는 데 어려움이 없지만, 흑인 여행자는 아닙니다.”_그린북 1936년 초판본 서문1900년대 초 미국에선, 해가 진 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국 하원이 틱톡을 금지하는 법안을 통과시켰다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69868</link>
+            <guid>https://www.bookjournalism.com/books/69868</guid>
+            <pubDate>Wed, 20 Mar 2024 20:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[틱톡틱톡, 180일 남았다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620560/w/646/ex240321thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Sun, 10 Mar 2024 15:17:06 GMT</pubDate>
             <content:encoded><![CDATA[기후에 투자하세요]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619686/w/646/ex240311thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샘 올트먼과 일론 머스크의 소송전, 65주년을 맞은 바비에 대해 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/69746</link>
-            <guid>https://www.bookjournalism.com/audio/69746</guid>
-            <pubDate>Fri, 08 Mar 2024 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 3월 9일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619845/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

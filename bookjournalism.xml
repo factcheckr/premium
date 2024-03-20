@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 14:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 20:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 하원이 틱톡을 금지하는 법안을 통과시켰다.]]></title>
+            <link>https://www.bookjournalism.com/books/69868</link>
+            <guid>https://www.bookjournalism.com/books/69868</guid>
+            <pubDate>Wed, 20 Mar 2024 20:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[틱톡틱톡, 180일 남았다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620560/w/646/ex240321thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 10 Mar 2024 15:17:06 GMT</pubDate>
             <content:encoded><![CDATA[기후에 투자하세요]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619686/w/646/ex240311thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샘 올트먼과 일론 머스크의 소송전, 65주년을 맞은 바비에 대해 다룹니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/69746</link>
-            <guid>https://www.bookjournalism.com/audio/69746</guid>
-            <pubDate>Fri, 08 Mar 2024 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 3월 9일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619845/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
