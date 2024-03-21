@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 14:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 15:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아는 하드웨어 회사다. 젠슨 황의 야망은 더 크다.]]></title>
+            <link>https://www.bookjournalism.com/books/69889</link>
+            <guid>https://www.bookjournalism.com/books/69889</guid>
+            <pubDate>Thu, 21 Mar 2024 15:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[AI 제국의 지배자는 누구인가]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620847/w/646/e240322_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 11 Mar 2024 15:20:35 GMT</pubDate>
             <content:encoded><![CDATA[소셜 로봇이 온다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619859/w/646/e240312_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026년부터 기업의 기후 대응 정보가 재무적 요소처럼 취급된다.]]></title>
-            <link>https://www.bookjournalism.com/books/69760</link>
-            <guid>https://www.bookjournalism.com/books/69760</guid>
-            <pubDate>Sun, 10 Mar 2024 15:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[기후에 투자하세요]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619686/w/646/ex240311thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
