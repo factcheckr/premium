@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 23:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 01:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,20 +169,20 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620755/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[미국 하원이 틱톡을 금지하는 법안을 통과시켰다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/69868</link>
             <guid>https://www.bookjournalism.com/books/69868</guid>
             <pubDate>Wed, 20 Mar 2024 20:20:05 GMT</pubDate>
             <content:encoded><![CDATA[틱톡틱톡, 180일 남았다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620560/w/646/ex240321thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 07 Nov 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620538/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[현대의 고기 소비는 조직적이다. 우리의 눈은 더 위쪽을 향해야 한다. (북저널리즘)]]></title>
