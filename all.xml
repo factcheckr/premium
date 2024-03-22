@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 08:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 09:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[기후 위기 시대의 투자와 미국 IPO 경향, WSJ가 주목한 반려돌 트렌드를 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/69905</link>
+            <guid>https://www.bookjournalism.com/audio/69905</guid>
+            <pubDate>Fri, 22 Mar 2024 09:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 3월 23일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620955/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 12 Mar 2024 15:19:13 GMT</pubDate>
             <content:encoded><![CDATA[프리미엄 육아와 요즘 부모]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620008/w/646/240313_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI시대, 돌봄과 교감은 상품이 된다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69778</link>
-            <guid>https://www.bookjournalism.com/books/69778</guid>
-            <pubDate>Mon, 11 Mar 2024 15:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 로봇이 온다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619859/w/646/e240312_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
