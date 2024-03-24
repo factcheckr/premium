@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-03-24T14:16:59.337Z</updated>
+    <updated>2024-03-24T15:17:37.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-03-23T15:19:13.095Z</updated>
-        <content type="html"><![CDATA[B가 만난 유키 구라모토의 이야기
-
-음대를 나오지도, 콩쿠르에 나가본 적도 없지만, 피아니스트로서 자신의 길을 개척해 온 유키 구라모토. 꿈을 품은 청년들을 위한 한마디를 부탁했습니다. “누구라도 장점이 하나씩 있습니다. 꿈을 위해선 그 장점을 꾸준히 갈고 닦는 게<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[랄프로렌 : 열망을 팔아 클래식이 되면 생기는 일, 숫자로 보다]]></title>
+        <id>https://www.longblack.co/note/1020</id>
+        <link href="https://www.longblack.co/note/1020"/>
+        <updated>2024-03-24T15:16:45.794Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L봄옷을 살 겸 오랜만에 백화점에 갔어. 랄프 로렌Ralph Lauren 매장에서 케이블 니트 카디건을 집었다가 금방 내려놨잖아. 한 벌에 27만9000원인 거야! <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
