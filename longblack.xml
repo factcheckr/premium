@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-03-25T12:33:22.335Z</updated>
+    <updated>2024-03-25T13:21:11.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1020</id>
         <link href="https://www.longblack.co/note/1020"/>
         <updated>2024-03-24T15:16:45.794Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 L봄옷을 살 겸 오랜만에 백화점에 갔어. 랄프 로렌Ralph Lauren 매장에서 케이블 니트 카디건을 집었다가 금방 내려놨잖아. 한 벌에 27만9000원인 거야! <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;봄옷을 살 겸 오랜만에 백화점에 갔어. 랄프 로렌Ralph Lauren 매장에서 케이블 니트 카디건을 집었다가 금방 내려놨잖아. 한 벌에 27만9000원인 거야!<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

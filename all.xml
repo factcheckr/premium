@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 12:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 13:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,7 +82,7 @@
             <link>https://www.longblack.co/note/1020</link>
             <guid>https://www.longblack.co/note/1020</guid>
             <pubDate>Sun, 24 Mar 2024 15:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L봄옷을 살 겸 오랜만에 백화점에 갔어. 랄프 로렌Ralph Lauren 매장에서 케이블 니트 카디건을 집었다가 금방 내려놨잖아. 한 벌에 27만9000원인 거야! <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;봄옷을 살 겸 오랜만에 백화점에 갔어. 랄프 로렌Ralph Lauren 매장에서 케이블 니트 카디건을 집었다가 금방 내려놨잖아. 한 벌에 27만9000원인 거야!<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
