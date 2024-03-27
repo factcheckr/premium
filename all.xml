@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 14:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 15:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7508?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/03/18/1710731873_a76Bv431fA7Kmy0O580PpfIZgdeW7atjg2tQAiWr.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 11분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7508?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">일 잘하는 서비스 기획자의 대화 사용법 (PRD 노션 템플릿 제공)</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TTNE : 도깨비부터 빙하까지, 사우나를 데이트 코스로 프로듀스하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1014</link>
-            <guid>https://www.longblack.co/note/1014</guid>
-            <pubDate>Tue, 26 Mar 2024 15:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;사우나 하면 어떤 이미지가 떠오르세요? 땀을 뻘뻘 흘리는 아저씨들이 생각나지 않나요. 몇 년 전만 해도 일본에서도 그랬어요. 하지만 지금은 달라요. 많은 20대가<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[문화심리학자 김정운 : 나만의 메타 언어를 편집하라, 창조의 길이 열린다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1022</link>
+            <guid>https://www.longblack.co/note/1022</guid>
+            <pubDate>Wed, 27 Mar 2024 15:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;‘크리에이티비티Creativity’. 우리말로 하면 창의성이죠. 그런데 인류가 이 단어를 사용한 지 100년밖에 되지 않았다는 것, 아셨나요? 그 시작은 건축 및<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트럼프가 트위터를 따라 한 소셜 미디어로 7조 원을 벌었다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69957</link>
+            <guid>https://www.bookjournalism.com/books/69957</guid>
+            <pubDate>Wed, 27 Mar 2024 15:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[트럼프의 조커]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621309/w/646/ex240328thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 15 Mar 2024 09:18:21 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 16일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620263/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초저가, Ultra-Fast. 중국의 공장이 세계 시장을 정복한다.. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69815</link>
-            <guid>https://www.bookjournalism.com/books/69815</guid>
-            <pubDate>Thu, 14 Mar 2024 15:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[알테쉬의 제국]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620182/w/646/e240315_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
