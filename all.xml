@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 14:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 15:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[다리가 무너졌다. 균열은 여기저기에 있었다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/69980</link>
+            <guid>https://www.bookjournalism.com/books/69980</guid>
+            <pubDate>Thu, 28 Mar 2024 15:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[볼티모어 교량 붕괴의 충격]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621524/w/646/e240329_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -255,14 +263,6 @@
             <pubDate>Sun, 17 Mar 2024 15:19:06 GMT</pubDate>
             <content:encoded><![CDATA[푸틴이 이기는 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620300/w/646/ex240318thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡의 로켓 확대와 비트코인의 국가 엘살바도르, 애플레이션을 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/69825</link>
-            <guid>https://www.bookjournalism.com/audio/69825</guid>
-            <pubDate>Fri, 15 Mar 2024 09:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 3월 16일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620263/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
