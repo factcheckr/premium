@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-03-30T14:16:07.873Z</updated>
+    <updated>2024-03-30T15:19:23.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[나로 존재하는 법 : 속에 불을 품은 당신에게, 헤르만 헤세가]]></title>
-        <id>https://www.longblack.co/note/1024</id>
-        <link href="https://www.longblack.co/note/1024"/>
-        <updated>2024-03-29T15:18:40.739Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B‘알은 세계이다. 태어나려는 자는 하나의 세계를 깨뜨려야 한다.’&nbsp;이 말에 가슴 뜨거워졌던 롱블랙 피플, 있으시죠? 저 또한 그랬습니다. 어른이 되고 나서도 삶이란<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-03-30T15:18:29.618Z</updated>
+        <content type="html"><![CDATA[C가 말하는 찰스 슐츠의 이야기
+
+삶의 근원적인 비극성을 받아들이되, 하루하루 더 나은 존재가 되려 애쓰는 일 말고, 우리가 할 수 있는 일은 없어요. 찰스 M. 슐츠가 『피너츠』로 우리에게 전하는 인생의 진리입니다. “철자 맞히기 대회 탓에 기분 상했어? 사람들이<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
