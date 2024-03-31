@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-03-31T14:16:10.410Z</updated>
+    <updated>2024-03-31T15:18:37.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-03-30T15:18:29.618Z</updated>
-        <content type="html"><![CDATA[C가 말하는 찰스 슐츠의 이야기
-
-삶의 근원적인 비극성을 받아들이되, 하루하루 더 나은 존재가 되려 애쓰는 일 말고, 우리가 할 수 있는 일은 없어요. 찰스 M. 슐츠가 『피너츠』로 우리에게 전하는 인생의 진리입니다. “철자 맞히기 대회 탓에 기분 상했어? 사람들이<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[던스트 : 인스타로 채용하고, 결재 안 받는 브랜드가 MZ 패션을 뚫기까지]]></title>
+        <id>https://www.longblack.co/note/1027</id>
+        <link href="https://www.longblack.co/note/1027"/>
+        <updated>2024-03-31T15:17:47.534Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;범상치 않은 채용 공고를 봤어요. 회사에 들어오고 싶으면 인스타그램 아이디를 적으래요. 선택이 아닌 필수예요! 실제 채용 공고에도 이렇게 돼 있어요.&nbsp;“인스타그램<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 14:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 15:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음모론이 양적으로도, 질적으로도 확장하고 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/70002</link>
+            <guid>https://www.bookjournalism.com/books/70002</guid>
+            <pubDate>Sun, 31 Mar 2024 15:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[틱톡 시대의 음모론]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621686/w/646/240401_exp_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기후학적 신경역학과 테슬라를 넘어선 비야디를 다룹니다.]]></title>
             <link>https://www.bookjournalism.com/audio/69995</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 19 Mar 2024 15:21:00 GMT</pubDate>
             <content:encoded><![CDATA[금융이 시키는 육식]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620504/w/646/240320_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대기업 간 싸움이 났다. 7.8조 원짜리 싸움, 혹은 그 이상이다.]]></title>
-            <link>https://www.bookjournalism.com/books/69846</link>
-            <guid>https://www.bookjournalism.com/books/69846</guid>
-            <pubDate>Mon, 18 Mar 2024 15:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[한국형 차기 구축함 사업의 의미]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620421/w/646/e240319_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
