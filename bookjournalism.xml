@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 15:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 16:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 자동차는 가전제품이며 전자 기기다.]]></title>
+            <link>https://www.bookjournalism.com/books/70036</link>
+            <guid>https://www.bookjournalism.com/books/70036</guid>
+            <pubDate>Mon, 01 Apr 2024 16:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[샤오미의 전기차가 선언한 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621814/w/646/e240402_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 20 Mar 2024 20:20:05 GMT</pubDate>
             <content:encoded><![CDATA[틱톡틱톡, 180일 남았다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620560/w/646/ex240321thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대의 고기 소비는 조직적이다. 우리의 눈은 더 위쪽을 향해야 한다.]]></title>
-            <link>https://www.bookjournalism.com/books/69855</link>
-            <guid>https://www.bookjournalism.com/books/69855</guid>
-            <pubDate>Tue, 19 Mar 2024 15:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[금융이 시키는 육식]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620504/w/646/240320_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 15:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 16:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7512?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/03/20/1710913436_9Y98Pg6ArK9XcWI2qG51IaaeqRmubg1E1zHChaB1.png?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 9분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7512?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">‘실패할 용기'를 갖게 하는 요즘 리더들의 빈틈 리더십 #장도연 #장항준</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[던스트 : 인스타로 채용하고, 결재 안 받는 브랜드가 MZ 패션을 뚫기까지 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1027</link>
-            <guid>https://www.longblack.co/note/1027</guid>
-            <pubDate>Sun, 31 Mar 2024 15:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;범상치 않은 채용 공고를 봤어요. 회사에 들어오고 싶으면 인스타그램 아이디를 적으래요. 선택이 아닌 필수예요! 실제 채용 공고에도 이렇게 돼 있어요.&nbsp;“인스타그램<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[아보카도 프롬 멕시코 : 슈퍼볼부터 대학 설립까지, 아보카도 열풍을 일으키다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1028</link>
+            <guid>https://www.longblack.co/note/1028</guid>
+            <pubDate>Mon, 01 Apr 2024 16:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L &nbsp;아보카도 샐러드, 아보카도 오일, 아보카도 스무디에 과카몰리까지. 아보카도는 어느새 한국인에게도 익숙한 식재료가 됐지. 그런데 십 년 전만 해도 미국에서조차 낯<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이제 자동차는 가전제품이며 전자 기기다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70036</link>
+            <guid>https://www.bookjournalism.com/books/70036</guid>
+            <pubDate>Mon, 01 Apr 2024 16:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[샤오미의 전기차가 선언한 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621814/w/646/e240402_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Wed, 20 Mar 2024 20:20:05 GMT</pubDate>
             <content:encoded><![CDATA[틱톡틱톡, 180일 남았다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620560/w/646/ex240321thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대의 고기 소비는 조직적이다. 우리의 눈은 더 위쪽을 향해야 한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69855</link>
-            <guid>https://www.bookjournalism.com/books/69855</guid>
-            <pubDate>Tue, 19 Mar 2024 15:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[금융이 시키는 육식]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620504/w/646/240320_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
