@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 14:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 15:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7507?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/03/26/1711424520_lfLx0XumFr8RrhEJI04ywujLGqoUXIqeYkLyezyR.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 14분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7507?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">실무용 이미지에 딱! 상황별 사례로 보는  미드저니  활용법</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[바비정 2 : 몽탄과 고도식의 기획자가 실패에서 배운 것들 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1029</link>
-            <guid>https://www.longblack.co/note/1029</guid>
-            <pubDate>Tue, 02 Apr 2024 15:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;우대갈비 열풍을 일으킨 삼각지의 몽탄, ‘돈마호크’를 유행시킨 고도식, LA 갈비집에 와 있는 듯한 컨셉의 청기와타운, 숭덩숭덩 자른 고기와 숯가마로 승부를 본 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[타코벨 : 고객을 문화적 반항아로 만들어, 혁신적인 브랜드가 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1030</link>
+            <guid>https://www.longblack.co/note/1030</guid>
+            <pubDate>Wed, 03 Apr 2024 15:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C타코벨Taco Bell. 타코를 대중화한 브랜드죠. 시작은 1962년 캘리포니아의 작은 가판대였대요. 창업자 글렌 벨Glen bell의 이름을 따서 타코벨! 지금은<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정신 건강과 자연환경은 밀접한 관련이 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70068</link>
+            <guid>https://www.bookjournalism.com/books/70068</guid>
+            <pubDate>Wed, 03 Apr 2024 15:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[자연은 무겁다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622007/w/646/ex240404thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 22 Mar 2024 09:20:59 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 23일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620955/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아는 하드웨어 회사다. 젠슨 황의 야망은 더 크다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69889</link>
-            <guid>https://www.bookjournalism.com/books/69889</guid>
-            <pubDate>Thu, 21 Mar 2024 15:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[AI 제국의 지배자는 누구인가]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620847/w/646/e240322_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
