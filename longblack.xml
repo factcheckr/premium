@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-04-06T14:16:22.117Z</updated>
+    <updated>2024-04-06T15:18:43.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 다큐, 김영란 : 소설과 영화에서 발견한 ‘나를 지키는 법’]]></title>
-        <id>https://www.longblack.co/note/1032</id>
-        <link href="https://www.longblack.co/note/1032"/>
-        <updated>2024-04-05T15:18:50.613Z</updated>
-        <content type="html"><![CDATA[다큐멘터리. 논픽션의 이야기를 전하지만, 객관적인 사실의 전달만이 목적은 아닌 장르를 말한다. 뉴스와는 달리 다큐멘터리스트documentarist라 부르는, 연출자의 주관적인 해석<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-04-06T15:17:53.369Z</updated>
+        <content type="html"><![CDATA[C가 만난 ‘도도새 작가’, 김선우의 이야기 
+
+김선우 작가는 스타 작가로 불려요. 하지만 그의 일상은 단출합니다. 새벽 4시 반쯤 일어나, 저녁 6시까지 작업실에서 그림을 그려요. 그런 다음 저녁을 먹고, 조깅이나 독서를 하다가 밤 10시쯤 잠들죠. 그는 절제 있<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
