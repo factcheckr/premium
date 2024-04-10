@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-04-10T01:17:07.174Z</updated>
+    <updated>2024-04-10T02:26:46.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1033</id>
         <link href="https://www.longblack.co/note/1033"/>
         <updated>2024-04-09T15:19:47.775Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B“죄송하지만, 지금은 심리치료가 아니라 협상 수업 아닌가요?”미국 와튼스쿨에서 협상학을 가르치는 모리 타헤리포어Mori Taheripou 교수가 학생들에게 자주 듣<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B“죄송하지만, 지금은 심리치료가 아니라 협상 수업 아닌가요?”미국 와튼스쿨에서 협상학을 가르치는 모리 타헤리포어Mori Taheripour 교수가 학생들에게 자주 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
