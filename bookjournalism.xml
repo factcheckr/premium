@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 14:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 15:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국제 사회가 원칙을 지켰다면, 전쟁을 막을 수 있었을지도 모른다.]]></title>
+            <link>https://www.bookjournalism.com/books/70164</link>
+            <guid>https://www.bookjournalism.com/books/70164</guid>
+            <pubDate>Mon, 15 Apr 2024 15:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[5차 중동 전쟁의 첫 페이지]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622758/w/646/e240416_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
             <content:encoded><![CDATA[자연은 무겁다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622007/w/646/ex240404thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부의 세 번째 대국민 담화는 단호했지만, 효과적이지는 않았다.]]></title>
-            <link>https://www.bookjournalism.com/books/70045</link>
-            <guid>https://www.bookjournalism.com/books/70045</guid>
-            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 골든 타임]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621876/w/646/240403_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
