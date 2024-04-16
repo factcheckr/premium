@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 23:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 01:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622812/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[국제 사회가 원칙을 지켰다면, 전쟁을 막을 수 있었을지도 모른다.]]></title>
             <link>https://www.bookjournalism.com/books/70164</link>
@@ -14,14 +22,6 @@
             <pubDate>Mon, 15 Apr 2024 15:19:30 GMT</pubDate>
             <content:encoded><![CDATA[5차 중동 전쟁의 첫 페이지]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622758/w/646/e240416_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622722/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[바이든과 트럼프의 ‘아메리카 퍼스트’는 같은 듯 다르다.]]></title>
