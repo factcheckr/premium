@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 14:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 15:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7514?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/04/03/1712123792_aLXddxEjouuRsubsZs5lP63bnxbcSTbpeaYHjjxn.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 8분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7514?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">초보 팀장 3개월, 팀 초기 작은 성공 프로젝트로 생존력 키우기</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크레이그 두비츠키 : 치약, 세제, 커피로, 일상 속 지루함을 파괴하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1041</link>
-            <guid>https://www.longblack.co/note/1041</guid>
-            <pubDate>Mon, 15 Apr 2024 15:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;욕실 세제, 립밤, 치약. 평범한 생활용품들이죠? 그런데 이 아이템들로 내놓는 사업마다 돌풍을 일으킨 사업가가 있어요. 2024년 1월에는 할리우드 배우 로버트 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[호호호비치 : 자매 마케터, 영화 컨설턴트가 되어 뛰다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1042</link>
+            <guid>https://www.longblack.co/note/1042</guid>
+            <pubDate>Tue, 16 Apr 2024 15:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;배우 티모시 샬라메Timothee Chalamet와 젠데이아Zendaya의 내한으로 더욱 화제가 된 작품 「듄: 파트2」. 개봉 직후부터 연일 박스오피스 1위를 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빅테크들이 데이터를 도둑질한다. 피해는 누구의 몫일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70158</link>
+            <guid>https://www.bookjournalism.com/books/70158</guid>
+            <pubDate>Tue, 16 Apr 2024 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 도둑질의 대가]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622732/w/646/240417_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
             <content:encoded><![CDATA[진격의 비야디]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622147/w/646/106_thm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정신 건강과 자연환경은 밀접한 관련이 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70068</link>
-            <guid>https://www.bookjournalism.com/books/70068</guid>
-            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[자연은 무겁다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622007/w/646/ex240404thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
