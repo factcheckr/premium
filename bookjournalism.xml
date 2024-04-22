@@ -4,9 +4,25 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 14:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 15:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍세화. 늦었지만, 그를 기억할 이유는 충분하다.]]></title>
+            <link>https://www.bookjournalism.com/books/70217</link>
+            <guid>https://www.bookjournalism.com/books/70217</guid>
+            <pubDate>Mon, 22 Apr 2024 15:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[한 택시 운전사의 일생]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623317/w/646/e240423_thm_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인간의 뇌로 컴퓨터를 만들 수 있다면, 우리는 그 컴퓨터를 무엇이라고 불러야 할까.]]></title>
+            <link>https://www.bookjournalism.com/books/70211</link>
+            <guid>https://www.bookjournalism.com/books/70211</guid>
+            <pubDate>Mon, 22 Apr 2024 15:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[ISSUE 22. 상품, 규제, 생명]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623140/w/646/thread22_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
             <content:encoded><![CDATA[캘리포니아는 영원할 수 있을까]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622336/w/646/240411_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완전 자율 주행은 오래된 미래다. 일론 머스크가 시간표를 확정했다.]]></title>
-            <link>https://www.bookjournalism.com/books/70113</link>
-            <guid>https://www.bookjournalism.com/books/70113</guid>
-            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라의 택시 사업]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622277/w/646/e240409_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화석 연료 회사에 기후 변화의 책임을 묻는 재판이 열렸다.]]></title>
-            <link>https://www.bookjournalism.com/books/70103</link>
-            <guid>https://www.bookjournalism.com/books/70103</guid>
-            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[기후 소송의 어머니]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622216/w/646/ex240408thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
