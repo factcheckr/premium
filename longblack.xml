@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-04-27T14:16:43.452Z</updated>
+    <updated>2024-04-27T15:18:55.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[젊은 시인에게 보내는 편지 : 두려움을 삶의 표지판으로 삼는 법]]></title>
-        <id>https://www.longblack.co/note/1059</id>
-        <link href="https://www.longblack.co/note/1059"/>
-        <updated>2024-04-26T15:20:30.477Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;롱블랙 피플, 한 주간 잘 보내셨나요? 치열한 한 주를 보내고 주말을 맞을 때면 어딘가 공허한 마음이 들기도 합니다. ‘나는 꽤 잘 살고 있다’는 생각이 드는 한<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-04-27T15:18:02.456Z</updated>
+        <content type="html"><![CDATA[B가 전하는 화가 김환기의 이야기 
+
+한국의 피카소, 현대 미술의 거장, 그림이 가장 비싸게 팔린 한국 화가. 김환기는 화려한 수식어가 많이 붙는 화가이죠. 정작 그는 찬사를 뒤로하고, 죽는 날까지 고독하게 그림을 그렸을 뿐입니다. 평생 달과 점을 사랑했던 그에게서<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
