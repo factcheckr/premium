@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-05-05T14:18:07.726Z</updated>
+    <updated>2024-05-05T15:20:39.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-05-04T15:19:01.031Z</updated>
-        <content type="html"><![CDATA[어린이날에 만나는 최종협 모금전문가 이야기
-
-오늘은 어린이날입니다. 아픈 아이들이 오늘 하루라도 고통 없이 즐겁기를 바랍니다. 20년이 넘는 세월을 매일 그 마음으로 일한 이가 있습니다. 어린이병원에서 일해온 최종협 모금가입니다. “작년에 1만원을 기부한 분이 올해<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[프리다 : 스토리텔링 대신 트루스텔링, 마케팅의 새 챕터를 열다]]></title>
+        <id>https://www.longblack.co/note/1062</id>
+        <link href="https://www.longblack.co/note/1062"/>
+        <updated>2024-05-05T15:19:50.289Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;혹시 육아용품 또는 산후 관리 브랜드의 광고라고 하면 어떤 모습이 떠올라? 오동통한 아기의 볼살과 귀여운 웃음소리, 아기를 바라보며 미소 짓는 엄마가 떠오를 거야<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
