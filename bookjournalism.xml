@@ -4,9 +4,25 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 14:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 15:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유럽이 사망할 수도 있다. 프랑스 대통령의 진단이다.]]></title>
+            <link>https://www.bookjournalism.com/books/70345</link>
+            <guid>https://www.bookjournalism.com/books/70345</guid>
+            <pubDate>Mon, 06 May 2024 15:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[유럽의 절멸 위기]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624527/w/646/e240507_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누가 왜 법을 만들고, 만들지 않는지를 들여다보면 사람들이 제각각 품고 있는 속셈이 보인다.]]></title>
+            <link>https://www.bookjournalism.com/books/70300</link>
+            <guid>https://www.bookjournalism.com/books/70300</guid>
+            <pubDate>Mon, 06 May 2024 15:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[ISSUE 23. 법, 도시, 마음]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624494/w/646/thread23_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공공기관 연봉 1위와 경기북부, 틱톡 퇴출법을 다룹니다.]]></title>
             <link>https://www.bookjournalism.com/audio/70332</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 23 Apr 2024 15:19:07 GMT</pubDate>
             <content:encoded><![CDATA[복제된 멸종 동물이 해결할 수 없는 문제]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623434/w/646/240424_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍세화. 늦었지만, 그를 기억할 이유는 충분하다.]]></title>
-            <link>https://www.bookjournalism.com/books/70217</link>
-            <guid>https://www.bookjournalism.com/books/70217</guid>
-            <pubDate>Mon, 22 Apr 2024 15:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[한 택시 운전사의 일생]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623317/w/646/e240423_thm_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인간의 뇌로 컴퓨터를 만들 수 있다면, 우리는 그 컴퓨터를 무엇이라고 불러야 할까.]]></title>
-            <link>https://www.bookjournalism.com/books/70211</link>
-            <guid>https://www.bookjournalism.com/books/70211</guid>
-            <pubDate>Mon, 22 Apr 2024 15:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[ISSUE 22. 상품, 규제, 생명]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623140/w/646/thread22_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
