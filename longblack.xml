@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-05-07T15:20:44.721Z</updated>
+    <updated>2024-05-07T16:23:37.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1064</id>
         <link href="https://www.longblack.co/note/1064"/>
         <updated>2024-05-07T15:19:54.343Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;1년 중 한 달을 길에서 보냅니다. 출근이 1시간 반 걸리거든요. 1년이면 720시간. 퇴근 후에 운동을 가는 것도 큰 다짐이 필요해요.괴로워하는 저에게 이원제 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;1년 중 한 달을 길에서 보냅니다. 출근이 1시간 반 걸리거든요. 1년이면 720시간. 퇴근하고 운동을 가는 것도 큰 다짐이 필요해요.괴로워하는 저에게 이원제 교<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
