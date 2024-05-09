@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 14:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 15:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7532?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/04/24/1713916866_tSqxVFHLC4HgjWlGCfZOrPRMDNU5xYZhoboQheLn.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 10분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7532?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">전 구글 디렉터 정김경숙이 말하는 글로벌 커리어 확장법</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[자우림 김윤아 : 27년 차 뮤지션, 계속 성장하는 음악을 꿈꾸다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1065</link>
-            <guid>https://www.longblack.co/note/1065</guid>
-            <pubDate>Wed, 08 May 2024 15:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;제 학창 시절을 함께 하던 가수가 있어요. 아침에 일어나면, “마치 좋은 일이 생길 것만 같은 날이야(‘Something Good’ 중에서)”라며 주문을 걸었죠.<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[B의 시선 1 : 브랜드의 감각은, 정면이 아닌 측면에서 드러난다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1066</link>
+            <guid>https://www.longblack.co/note/1066</guid>
+            <pubDate>Thu, 09 May 2024 15:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;롱블랙 클래스가 돌아왔습니다. 5월의 주제는 ‘브랜드란 무엇인가’입니다. 정면이 아닌 측면에서 브랜드를 파고들어 보려 합니다.&nbsp;브랜드의 측면까지 조명해온 매거진이<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리의 식문화는 비극을 품고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70382</link>
+            <guid>https://www.bookjournalism.com/books/70382</guid>
+            <pubDate>Thu, 09 May 2024 15:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[바나나, 두리안, 커피]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624797/w/646/e240510_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 26 Apr 2024 08:24:07 GMT</pubDate>
             <content:encoded><![CDATA[2024년 4월 27일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623655/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 환각은 우리 눈앞에서 벌어지고 있다. 기술이 사람을 숨긴다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70248</link>
-            <guid>https://www.bookjournalism.com/books/70248</guid>
-            <pubDate>Thu, 25 Apr 2024 15:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[사람을 숨긴 마트]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623535/w/646/e240426_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
