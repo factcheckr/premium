@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 23:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 01:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,20 +169,20 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624843/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[우리의 식문화는 비극을 품고 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/70382</link>
             <guid>https://www.bookjournalism.com/books/70382</guid>
             <pubDate>Thu, 09 May 2024 15:23:42 GMT</pubDate>
             <content:encoded><![CDATA[바나나, 두리안, 커피]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624797/w/646/e240510_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624774/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[미국 컬럼비아대의 팔레스타인 지지 시위가 미국 대선을 흔들고 있다. (북저널리즘)]]></title>
