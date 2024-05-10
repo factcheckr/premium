@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 07:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 08:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[차등 투표제와 말레이시아의 오랑우탄 외교에 대해 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/70390</link>
+            <guid>https://www.bookjournalism.com/audio/70390</guid>
+            <pubDate>Fri, 10 May 2024 08:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 11일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624852/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 29 Apr 2024 01:20:32 GMT</pubDate>
             <content:encoded><![CDATA[라인 전쟁]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623700/w/646/ex240429thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 지식인 개편과 MBC의 자막 방송에 대해 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/70258</link>
-            <guid>https://www.bookjournalism.com/audio/70258</guid>
-            <pubDate>Fri, 26 Apr 2024 08:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 4월 27일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623655/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
