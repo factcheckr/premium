@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 May 2024 14:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 May 2024 15:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트럼프 진영이 주한 미군 철수 가능성을 시사하고 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/70397</link>
+            <guid>https://www.bookjournalism.com/books/70397</guid>
+            <pubDate>Sun, 12 May 2024 15:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[주한 미군에 일어날 일]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624903/w/646/ex240513thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차등 투표제와 말레이시아의 오랑우탄 외교에 대해 다룹니다.]]></title>
             <link>https://www.bookjournalism.com/audio/70390</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 29 Apr 2024 15:21:43 GMT</pubDate>
             <content:encoded><![CDATA[뉴스는 누구의 것일까]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623774/w/646/e240430_thm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 정부가 네이버에 라인 지분 매각을 압박하고 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/70270</link>
-            <guid>https://www.bookjournalism.com/books/70270</guid>
-            <pubDate>Mon, 29 Apr 2024 01:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[라인 전쟁]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623700/w/646/ex240429thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

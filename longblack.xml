@@ -2,18 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-05-12T14:17:43.316Z</updated>
+    <updated>2024-05-12T15:20:08.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-05-11T15:18:10.685Z</updated>
-        <content type="html"><![CDATA[C가 읽은 책 『움직임의 뇌과학』
-
-성인은 일생의 70%를 앉거나 누워서 보낸다고 해요. 그런데 몸을 자주 움직일수록 기분도 사고도 긍정적으로 바뀐다는 것, 아시나요? 과학적을 증명된 이야기랍니다. 
-
-“내 경험인데, 불안감은 인생의 문제에 대처할 수 있을지 알<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[오월의종 : 매일의 일기 같은 투박한 빵, 단맛 없는 진심을 빚다]]></title>
+        <id>https://www.longblack.co/note/1068</id>
+        <link href="https://www.longblack.co/note/1068"/>
+        <updated>2024-05-12T15:19:18.530Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;그가 첫 마디를 떼자, 녹취를 위해 올려둔 핸드폰을 더 가까이 밀어야 했습니다. 허스키한 목소리가 낮고 느릿했어요. 배우 엄태구, 영화 「해리 포터」 속 스네이프<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
