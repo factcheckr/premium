@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 May 2024 23:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 01:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624953/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[트럼프 진영이 주한 미군 철수 가능성을 시사하고 있다.]]></title>
             <link>https://www.bookjournalism.com/books/70397</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 10 May 2024 08:24:35 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 11일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624852/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624843/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[우리의 식문화는 비극을 품고 있다.]]></title>
