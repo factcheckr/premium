@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 May 2024 21:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 May 2024 22:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[지난 주말 사이 소비자는 혼란에 빠져있었다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70446</link>
+            <guid>https://www.bookjournalism.com/books/70446</guid>
+            <pubDate>Sun, 19 May 2024 22:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[사흘 간의 직구 대란]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625431/w/646/e240520_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디지털 교도소와 코스타리카의 동물원, 뉴진스님을 다룹니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/70440</link>
             <guid>https://www.bookjournalism.com/audio/70440</guid>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 06 May 2024 15:20:47 GMT</pubDate>
             <content:encoded><![CDATA[유럽의 절멸 위기]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624527/w/646/e240507_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누가 왜 법을 만들고, 만들지 않는지를 들여다보면 사람들이 제각각 품고 있는 속셈이 보인다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70300</link>
-            <guid>https://www.bookjournalism.com/books/70300</guid>
-            <pubDate>Mon, 06 May 2024 15:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[ISSUE 23. 법, 도시, 마음]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624494/w/646/thread23_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
