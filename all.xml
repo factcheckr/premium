@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 14:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 15:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7531?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/04/25/1714018714_1RCpQwTaiVk6QnRrVfO2xMJsVVKe2EibFgWNMDVd.png?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 10분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7531?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">네이버, 토스, 구글을 거친 몰로코 한국팀 리더 안재균의 '글로벌 커리어 인사이트'</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[공간기획자 최원석 : ‘이 말’이 나온다면, 실패한 팝업입니다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1075</link>
-            <guid>https://www.longblack.co/note/1075</guid>
-            <pubDate>Sun, 19 May 2024 15:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C유난히 휴일이 많던 5월이었어요! 어쩌다 보니 세 번의 휴일 모두 성수동에 갔어요. 매주 팝업스토어에서 증정품을 한가득 안고 돌아왔죠. 그런데 막상 기억에 남는 건<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[초코잡 : 정장 입고 5분만 뛰다 가도 좋은 피트니스 브랜드를 만들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1076</link>
+            <guid>https://www.longblack.co/note/1076</guid>
+            <pubDate>Mon, 20 May 2024 15:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L룰루레몬은 ‘자신의 아파트를 소유하고 여행과 운동을 좋아하는 31세 전문직 여성’, 모노클은 ‘1년에 10회 이상 해외 출장을 다니는 C레벨’, 나이키는 ‘프로 운<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[젤렌스키가 삼중고를 겪고 있다. 외부 공격만큼 내부 분열도 위험하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70468</link>
+            <guid>https://www.bookjournalism.com/books/70468</guid>
+            <pubDate>Mon, 20 May 2024 15:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[젤렌스키의 임기가 끝났다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625654/w/646/ex240521thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 07 May 2024 15:20:37 GMT</pubDate>
             <content:encoded><![CDATA[애플이 만들 AI 시대]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624660/w/646/240508_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유럽이 사망할 수도 있다. 프랑스 대통령의 진단이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70345</link>
-            <guid>https://www.bookjournalism.com/books/70345</guid>
-            <pubDate>Mon, 06 May 2024 15:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[유럽의 절멸 위기]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624527/w/646/e240507_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
