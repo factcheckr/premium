@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 01:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 02:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,12 +169,20 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지난 주말 사이 소비자는 혼란에 빠져있었다. (북저널리즘)]]></title>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625445/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[지난 주말 사이 소비자는 혼란에 빠져 있었다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/70446</link>
             <guid>https://www.bookjournalism.com/books/70446</guid>
             <pubDate>Sun, 19 May 2024 22:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[사흘 간의 직구 대란]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625431/w/646/e240520_thm.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[사흘간의 직구 대란]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625470/w/646/e240520_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털 교도소와 코스타리카의 동물원, 뉴진스님을 다룹니다. (북저널리즘)]]></title>
@@ -183,14 +191,6 @@
             <pubDate>Fri, 17 May 2024 08:24:47 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 18일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625304/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625300/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[오픈AI와 구글이 또 한 발짝 내디뎠다. (북저널리즘)]]></title>
