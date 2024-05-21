@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 07:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 08:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진화는 기회주의적이고, 생명의 가능성은 종종 우리의 상상을 넘어선다.]]></title>
+            <link>https://www.bookjournalism.com/books/70462</link>
+            <guid>https://www.bookjournalism.com/books/70462</guid>
+            <pubDate>Tue, 21 May 2024 08:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[굶주림의 기억은 유전된다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625663/w/646/f240521_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젤렌스키가 삼중고를 겪고 있다. 외부 공격만큼 내부 분열도 위험하다.]]></title>
             <link>https://www.bookjournalism.com/books/70468</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 08 May 2024 15:20:24 GMT</pubDate>
             <content:encoded><![CDATA[바이든의 베트남]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624707/w/646/ex240509thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플다운 인공지능은 기술이 아닌 경험이다.]]></title>
-            <link>https://www.bookjournalism.com/books/70355</link>
-            <guid>https://www.bookjournalism.com/books/70355</guid>
-            <pubDate>Tue, 07 May 2024 15:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 만들 AI 시대]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624660/w/646/240508_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
