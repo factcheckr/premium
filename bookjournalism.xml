@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 14:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 15:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국이 난민을 르완다로 보낸다.]]></title>
+            <link>https://www.bookjournalism.com/books/70483</link>
+            <guid>https://www.bookjournalism.com/books/70483</guid>
+            <pubDate>Tue, 21 May 2024 15:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[망명의 외주화]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625685/w/646/e240522_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진화는 기회주의적이고, 생명의 가능성은 종종 우리의 상상을 넘어선다.]]></title>
             <link>https://www.bookjournalism.com/books/70462</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 May 2024 15:23:42 GMT</pubDate>
             <content:encoded><![CDATA[바나나, 두리안, 커피]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624797/w/646/e240510_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 컬럼비아대의 팔레스타인 지지 시위가 미국 대선을 흔들고 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/70372</link>
-            <guid>https://www.bookjournalism.com/books/70372</guid>
-            <pubDate>Wed, 08 May 2024 15:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[바이든의 베트남]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624707/w/646/ex240509thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
