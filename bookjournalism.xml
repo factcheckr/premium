@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 14:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 15:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불닭볶음면은 리믹스 시대를 영리하게 활용했다.]]></title>
+            <link>https://www.bookjournalism.com/books/70492</link>
+            <guid>https://www.bookjournalism.com/books/70492</guid>
+            <pubDate>Wed, 22 May 2024 15:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[불닭볶음면, 문화가 되다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625816/w/646/240523_exp_thumb.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 10 May 2024 08:24:35 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 11일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624852/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 식문화는 비극을 품고 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/70382</link>
-            <guid>https://www.bookjournalism.com/books/70382</guid>
-            <pubDate>Thu, 09 May 2024 15:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[바나나, 두리안, 커피]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624797/w/646/e240510_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
