@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 09:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 10:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아까시나무와 딥페이크 성범죄, 네슬레의 비만 치료제 대응을 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/70516</link>
+            <guid>https://www.bookjournalism.com/audio/70516</guid>
+            <pubDate>Fri, 24 May 2024 10:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 25일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626043/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 13 May 2024 15:21:34 GMT</pubDate>
             <content:encoded><![CDATA[담배의 시간]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624962/w/646/e240514_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 진영이 주한 미군 철수 가능성을 시사하고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70397</link>
-            <guid>https://www.bookjournalism.com/books/70397</guid>
-            <pubDate>Sun, 12 May 2024 15:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[주한 미군에 일어날 일]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624903/w/646/ex240513thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
