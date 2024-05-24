@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 23:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 01:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625941/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[대통령의 공백보다 더 위험한 건 차기 후계자의 공백이다.]]></title>
             <link>https://www.bookjournalism.com/books/70508</link>
@@ -14,14 +22,6 @@
             <pubDate>Thu, 23 May 2024 15:22:18 GMT</pubDate>
             <content:encoded><![CDATA[이란의 다음 최고 지도자]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625935/w/646/ex240524thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625840/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[불닭볶음면은 리믹스 시대를 영리하게 활용했다.]]></title>
