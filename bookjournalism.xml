@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 May 2024 14:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 15:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 스칼릿 조핸슨이 오픈AI가 자신의 목소리를 도용했다는 의혹을 제기했다.]]></title>
+            <link>https://www.bookjournalism.com/books/70526</link>
+            <guid>https://www.bookjournalism.com/books/70526</guid>
+            <pubDate>Sun, 26 May 2024 15:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[그녀(Her)의 목소리]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626052/w/646/ex240527thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아까시나무와 딥페이크 성범죄, 네슬레의 비만 치료제 대응을 다룹니다.]]></title>
             <link>https://www.bookjournalism.com/audio/70516</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 15 May 2024 15:20:23 GMT</pubDate>
             <content:encoded><![CDATA[군대라는 낭떠러지]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625105/w/646/240516_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전자 담배야말로 담배회사들의 미래다.]]></title>
-            <link>https://www.bookjournalism.com/books/70403</link>
-            <guid>https://www.bookjournalism.com/books/70403</guid>
-            <pubDate>Mon, 13 May 2024 15:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[담배의 시간]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624962/w/646/e240514_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-05-26T14:18:05.853Z</updated>
+    <updated>2024-05-26T15:21:17.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-05-25T15:19:59.583Z</updated>
-        <content type="html"><![CDATA[K가 들려주는 '못난이 농산물' 이야기 
-
-다리가 세 개인 당근, 혹 달린 감자, 구멍 난 케일이 배송 왔어요. 뭔가 잘못된 게 아니냐고요? 전혀요! 딱 제가 바라던 채소들이에요. 2020년 문을 연 농산물 구독 서비스 어글리어스는 못난이 농산물만 취급해요. 최현주<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[정종연 : <더 지니어스>와 <대탈출> PD, “모든 편집은 한 장면을 향해 달린다”]]></title>
+        <id>https://www.longblack.co/note/1081</id>
+        <link href="https://www.longblack.co/note/1081"/>
+        <updated>2024-05-26T15:20:25.405Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;무섭도록 무언가에 몰두하는 사람, 주변에 한 명쯤 있죠? 이들을 흔히 괴짜, 긱GEEK이라고 불러요.긱은 규칙을 잘 따르지 않아요. 기존 관습과 직종에 얽매이지 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
