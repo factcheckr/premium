@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 14:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 15:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기후 위기는 가면을 바꿔 낀다. 그 속의 민낯을 파헤쳐야 한다.]]></title>
+            <link>https://www.bookjournalism.com/books/70576</link>
+            <guid>https://www.bookjournalism.com/books/70576</guid>
+            <pubDate>Tue, 28 May 2024 15:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[정화조가 넘친다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626273/w/646/240529_exp_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노보 노디스크의 위고비, 암 정복을 위한 캔서문샷 프로젝트까지. 지금, 시장의 관심은 바이오를 향한다.]]></title>
             <link>https://www.bookjournalism.com/books/70570</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 19 May 2024 22:20:52 GMT</pubDate>
             <content:encoded><![CDATA[사흘간의 직구 대란]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625470/w/646/e240520_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 교도소와 코스타리카의 동물원, 뉴진스님을 다룹니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/70440</link>
-            <guid>https://www.bookjournalism.com/audio/70440</guid>
-            <pubDate>Fri, 17 May 2024 08:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 5월 18일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625304/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
