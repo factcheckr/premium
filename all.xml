@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 08:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 09:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[노보 노디스크의 위고비, 암 정복을 위한 캔서문샷 프로젝트까지. 지금, 시장의 관심은 바이오를 향한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70570</link>
+            <guid>https://www.bookjournalism.com/books/70570</guid>
+            <pubDate>Tue, 28 May 2024 09:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[2030 바이오 지도]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626377/w/646/2030_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 17 May 2024 08:24:47 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 18일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625304/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI와 구글이 또 한 발짝 내디뎠다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70431</link>
-            <guid>https://www.bookjournalism.com/books/70431</guid>
-            <pubDate>Fri, 17 May 2024 01:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[AI 시대의 포획자는 누구인가]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625237/w/646/e240517_thm.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
