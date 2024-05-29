@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 14:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 15:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7554?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/05/14/1715645413_uCHbTrcwixSZas3KGzh2HFsns8KbMlvFsTLA6fJG.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 3분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7554?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">직장인의 필수! 깔끔하고 직관적인 PPT 템플릿</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[타블로 : “최고의 복수는 행복”, 음악의 원동력을 말하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1083</link>
-            <guid>https://www.longblack.co/note/1083</guid>
-            <pubDate>Tue, 28 May 2024 15:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;저도 한 ‘긱Geek’하는 사람이거든요. 바르고 착한 이미지지만 눈에는 광기가 서려 있다는 말을 꽤나 듣죠. 저도 인정해요. 좋은 브랜드나 인물을 찾으면 정신없이<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[네이선 크롤리 : 「인터스텔라」 「웡카」, 리얼리티에 집착할 때 판타지는 완성된다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1088</link>
+            <guid>https://www.longblack.co/note/1088</guid>
+            <pubDate>Wed, 29 May 2024 15:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;‘하나’를 위해 얼마나 해보셨어요? 영화 한 편을 위해 30만 평이 넘는 옥수수밭을 일구고, 900만 송이의 튤립을 심는 사람이 있어요. 네이선 크롤리Natha<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[남아공 ANC의 30년 단독 집권이 끝나간다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70607</link>
+            <guid>https://www.bookjournalism.com/books/70607</guid>
+            <pubDate>Wed, 29 May 2024 15:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[만델라의 상속자들]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626391/w/646/ex240530thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 20 May 2024 15:22:04 GMT</pubDate>
             <content:encoded><![CDATA[젤렌스키의 임기가 끝났다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625654/w/646/ex240521thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 주말 사이 소비자는 혼란에 빠져 있었다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70446</link>
-            <guid>https://www.bookjournalism.com/books/70446</guid>
-            <pubDate>Sun, 19 May 2024 22:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[사흘간의 직구 대란]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625470/w/646/e240520_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
