@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 07:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 08:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,7 +190,7 @@
             <guid>https://www.bookjournalism.com/books/70570</guid>
             <pubDate>Tue, 28 May 2024 09:21:28 GMT</pubDate>
             <content:encoded><![CDATA[2030 바이오 지도]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626377/w/646/2030_thm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626470/w/646/107_thm.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[영화에 얼굴을 비춘 미군 조력자가 탈레반에 의해 희생되었다. (북저널리즘)]]></title>
