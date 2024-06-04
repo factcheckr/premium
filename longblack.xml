@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-06-04T03:23:55.473Z</updated>
+    <updated>2024-06-04T04:23:58.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1090</id>
         <link href="https://www.longblack.co/note/1090"/>
         <updated>2024-06-03T15:22:05.691Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 L올해 2월, 미국 식료품점에서 판매량 1위를 차지한 맥주 브랜드가 뭔지 알아? 하이네켄? 버드와이저? 둘 다 아냐. 애슬레틱 브루잉Athletic Brewing이란<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;&nbsp;올해 2월, 미국 식료품점에서 판매량 1위를 차지한 맥주 브랜드가 뭔지 알아? 하이네켄? 버드와이저? 둘 다 아냐. 애슬레틱 브루잉Athletic Brewing<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 03:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 04:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,7 +82,7 @@
             <link>https://www.longblack.co/note/1090</link>
             <guid>https://www.longblack.co/note/1090</guid>
             <pubDate>Mon, 03 Jun 2024 15:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L올해 2월, 미국 식료품점에서 판매량 1위를 차지한 맥주 브랜드가 뭔지 알아? 하이네켄? 버드와이저? 둘 다 아냐. 애슬레틱 브루잉Athletic Brewing이란<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;&nbsp;올해 2월, 미국 식료품점에서 판매량 1위를 차지한 맥주 브랜드가 뭔지 알아? 하이네켄? 버드와이저? 둘 다 아냐. 애슬레틱 브루잉Athletic Brewing<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
