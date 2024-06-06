@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 14:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 15:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7558?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/05/22/1716346674_YB7lOU4s8FAozcJm0PNkzIqCdRqUtv8LmHjz990Z.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 12분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7558?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">좋은 브랜딩을 위한 AI 활용법: 브랜드 스터디&amp;키워드 관리법</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[낼나 : 겁 없는 스몰 브랜드, 제품의 90%를 없애 살아남다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1092</link>
-            <guid>https://www.longblack.co/note/1092</guid>
-            <pubDate>Wed, 05 Jun 2024 15:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L요즘 학교에는 태블릿 PC 보관함이 있대. 고등학생들은 EBS 수능특강을 PDF로 다운받아 블루투스 펜슬로 푼다는 거야. 대학생들은 ‘굿노트’로 강의를 필기하고.&nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[공간 감상 수업 1 : 당신이 그곳을 좋아하는 진짜 이유를 아나요? (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1093</link>
+            <guid>https://www.longblack.co/note/1093</guid>
+            <pubDate>Thu, 06 Jun 2024 15:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K6월의 롱블랙 클래스, 많이들 기다리셨나요? 이번엔 저 K가 &lt;공간 감상 수업&gt;으로 찾아왔습니다. 최근 몇 년 사이, 좋은 공간들이 쏟아져 나왔죠. 저도 주말마다 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -169,6 +169,22 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[AI의 안전을 담보할 수 있는 주체가 없다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70758</link>
+            <guid>https://www.bookjournalism.com/books/70758</guid>
+            <pubDate>Thu, 06 Jun 2024 15:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[휘파람을 불 권리]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627661/w/646/e240607_thmjpg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저출산 시대에도 아이를 낳은 요즘 부모들이 있다. 그들의 일상 속에 해결의 열쇠가 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70535</link>
+            <guid>https://www.bookjournalism.com/books/70535</guid>
+            <pubDate>Thu, 06 Jun 2024 15:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 육아]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627542/w/646/108_thm.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -247,22 +263,6 @@
             <pubDate>Tue, 28 May 2024 09:21:28 GMT</pubDate>
             <content:encoded><![CDATA[2030 바이오 지도]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626470/w/646/107_thm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영화에 얼굴을 비춘 미군 조력자가 탈레반에 의해 희생되었다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70563</link>
-            <guid>https://www.bookjournalism.com/books/70563</guid>
-            <pubDate>Mon, 27 May 2024 15:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[아프가니스탄 저스틴 비버의 죽음]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626177/w/646/e240528_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 스칼릿 조핸슨이 오픈AI가 자신의 목소리를 도용했다는 의혹을 제기했다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70526</link>
-            <guid>https://www.bookjournalism.com/books/70526</guid>
-            <pubDate>Sun, 26 May 2024 15:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[그녀(Her)의 목소리]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626052/w/646/ex240527thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

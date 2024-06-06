@@ -4,9 +4,25 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 14:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 15:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI의 안전을 담보할 수 있는 주체가 없다.]]></title>
+            <link>https://www.bookjournalism.com/books/70758</link>
+            <guid>https://www.bookjournalism.com/books/70758</guid>
+            <pubDate>Thu, 06 Jun 2024 15:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[휘파람을 불 권리]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627661/w/646/e240607_thmjpg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저출산 시대에도 아이를 낳은 요즘 부모들이 있다. 그들의 일상 속에 해결의 열쇠가 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/70535</link>
+            <guid>https://www.bookjournalism.com/books/70535</guid>
+            <pubDate>Thu, 06 Jun 2024 15:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 육아]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627542/w/646/108_thm.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 28 May 2024 09:21:28 GMT</pubDate>
             <content:encoded><![CDATA[2030 바이오 지도]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626470/w/646/107_thm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영화에 얼굴을 비춘 미군 조력자가 탈레반에 의해 희생되었다.]]></title>
-            <link>https://www.bookjournalism.com/books/70563</link>
-            <guid>https://www.bookjournalism.com/books/70563</guid>
-            <pubDate>Mon, 27 May 2024 15:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[아프가니스탄 저스틴 비버의 죽음]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626177/w/646/e240528_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 스칼릿 조핸슨이 오픈AI가 자신의 목소리를 도용했다는 의혹을 제기했다.]]></title>
-            <link>https://www.bookjournalism.com/books/70526</link>
-            <guid>https://www.bookjournalism.com/books/70526</guid>
-            <pubDate>Sun, 26 May 2024 15:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[그녀(Her)의 목소리]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626052/w/646/ex240527thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
