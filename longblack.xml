@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-06-07T03:24:21.733Z</updated>
+    <updated>2024-06-07T04:25:29.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1093</id>
         <link href="https://www.longblack.co/note/1093"/>
         <updated>2024-06-06T15:22:27.346Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K6월의 롱블랙 클래스, 많이들 기다리셨나요? 이번엔 저 K가 &lt;공간 감상 수업&gt;으로 찾아왔습니다. 최근 몇 년 사이, 좋은 공간들이 쏟아져 나왔죠. 저도 주말마다 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;6월의 롱블랙 클래스, 많이들 기다리셨나요? 이번엔 저 K가 &lt;공간 감상 수업&gt;으로 찾아왔습니다. 최근 몇 년 사이, 좋은 공간들이 쏟아져 나왔죠. 저도 주말마다<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

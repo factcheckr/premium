@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 03:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 04:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,7 +82,7 @@
             <link>https://www.longblack.co/note/1093</link>
             <guid>https://www.longblack.co/note/1093</guid>
             <pubDate>Thu, 06 Jun 2024 15:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K6월의 롱블랙 클래스, 많이들 기다리셨나요? 이번엔 저 K가 &lt;공간 감상 수업&gt;으로 찾아왔습니다. 최근 몇 년 사이, 좋은 공간들이 쏟아져 나왔죠. 저도 주말마다 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;6월의 롱블랙 클래스, 많이들 기다리셨나요? 이번엔 저 K가 &lt;공간 감상 수업&gt;으로 찾아왔습니다. 최근 몇 년 사이, 좋은 공간들이 쏟아져 나왔죠. 저도 주말마다<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
