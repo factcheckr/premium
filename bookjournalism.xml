@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jun 2024 14:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 15:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달과 화성 탐사가 한 발짝 가까워졌다.]]></title>
+            <link>https://www.bookjournalism.com/books/70777</link>
+            <guid>https://www.bookjournalism.com/books/70777</guid>
+            <pubDate>Sun, 09 Jun 2024 15:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[스타십 4차 발사 성공]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627795/w/646/ex240610thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가짜 뉴스의 슈퍼 공유자, 에어컨이 만든 도시와 노들섬에 관해 이야기합니다.]]></title>
             <link>https://www.bookjournalism.com/audio/70766</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 29 May 2024 15:23:04 GMT</pubDate>
             <content:encoded><![CDATA[만델라의 상속자들]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626391/w/646/ex240530thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후 위기는 가면을 바꿔 낀다. 그 속의 민낯을 파헤쳐야 한다.]]></title>
-            <link>https://www.bookjournalism.com/books/70576</link>
-            <guid>https://www.bookjournalism.com/books/70576</guid>
-            <pubDate>Tue, 28 May 2024 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[정화조가 넘친다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626273/w/646/240529_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

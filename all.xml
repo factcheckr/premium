@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jun 2024 14:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 15:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,13 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7565?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/05/23/1716449157_cLJhRbNQqQCA0SqQkUNwg0VdScVlZYF0rzaXLMuL.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 4분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7565?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">5분 안에 끝내는 직장인을 위한 종합소득세 신고 방법과 절차</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 08 Jun 2024 15:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[L이 들려주는 잡초에게 배우는 비즈니스 
-
-인간은 자연한테서 배운다고 하잖아? 오늘은 잡초 이야기를 해볼까 해. 일본의 식물학자 이나가키 히데히로는 대학원 전공이 잡초였어. 잡초는 도감과 실제 모습의 차이가 큰 식물이라고 해. 그만큼 환경 변화에 적응을 잘 한다는 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[김성준 : 제냐부터 시몬스까지, 브랜드를 만들려면 사회부터 읽어라 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1095</link>
+            <guid>https://www.longblack.co/note/1095</guid>
+            <pubDate>Sun, 09 Jun 2024 15:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;그런 의문 들 때 있지 않나요? ‘저 브랜드 참 멋지긴 한데, 저래서 과연 돈을 벌 수 있나?’ 남 걱정할 때가 아니에요! 내 업무에서도 마찬가지죠. 브랜딩은 성<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -169,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[달과 화성 탐사가 한 발짝 가까워졌다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70777</link>
+            <guid>https://www.bookjournalism.com/books/70777</guid>
+            <pubDate>Sun, 09 Jun 2024 15:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[스타십 4차 발사 성공]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627795/w/646/ex240610thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가짜 뉴스의 슈퍼 공유자, 에어컨이 만든 도시와 노들섬에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -257,14 +263,6 @@
             <pubDate>Wed, 29 May 2024 15:23:04 GMT</pubDate>
             <content:encoded><![CDATA[만델라의 상속자들]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626391/w/646/ex240530thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후 위기는 가면을 바꿔 낀다. 그 속의 민낯을 파헤쳐야 한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70576</link>
-            <guid>https://www.bookjournalism.com/books/70576</guid>
-            <pubDate>Tue, 28 May 2024 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[정화조가 넘친다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626273/w/646/240529_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
