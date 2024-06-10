@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 14:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 15:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유럽 의회 선거가 끝났다. 극우 세력이 약진했다.]]></title>
+            <link>https://www.bookjournalism.com/books/70786</link>
+            <guid>https://www.bookjournalism.com/books/70786</guid>
+            <pubDate>Mon, 10 Jun 2024 15:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[유럽이 기운다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627885/w/646/e240611_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 30 May 2024 22:20:24 GMT</pubDate>
             <content:encoded><![CDATA[그 코미디가 웃기지 않았던 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626493/w/646/e240531_thm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[남아공 ANC의 30년 단독 집권이 끝나간다.]]></title>
-            <link>https://www.bookjournalism.com/books/70607</link>
-            <guid>https://www.bookjournalism.com/books/70607</guid>
-            <pubDate>Wed, 29 May 2024 15:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[만델라의 상속자들]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626391/w/646/ex240530thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
