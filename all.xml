@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 14:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 15:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7543?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/05/30/1717032775_j1xYkx2sTKaZs4EJO9JjZa77UjRKCY6I6a2lMzSB.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 10분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7543?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">마케팅 프로젝트의 성공 확률을 높이는 훈련법: 게스티메이션</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[PD 권성민 : 좌파·우파·페미니즘으로 역주행 예능을 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1097</link>
-            <guid>https://www.longblack.co/note/1097</guid>
-            <pubDate>Tue, 11 Jun 2024 15:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전 제60회 백상예술대상이 열렸죠. 콘텐츠 덕후인 저도 열심히 봤어요. 그런데 예능 부문 후보작 중 눈에 띄는 낯선 작품이 있더라고요. &lt;사상검증구역: 더 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[쿨헌팅 : 지적인 모험가들을 위한 잡지, 여행이 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1098</link>
+            <guid>https://www.longblack.co/note/1098</guid>
+            <pubDate>Wed, 12 Jun 2024 15:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L뉴욕에도 롱블랙 같은 미디어가 있다는 거 알아? 쿨헌팅COOL HUNTING이란 곳이야. 2003년부터 뉴욕의 비즈니스 리더들을 위한 콘텐츠를 만들어 왔어.그런데 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이재명 대표가 대선에서 이기면 재판은 멈출까, 계속될까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70809</link>
+            <guid>https://www.bookjournalism.com/books/70809</guid>
+            <pubDate>Wed, 12 Jun 2024 15:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[헌법 84조 논쟁]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628064/w/646/ex240613thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신기술이 혁신을 담보하지는 않는다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Sun, 02 Jun 2024 15:20:04 GMT</pubDate>
             <content:encoded><![CDATA[지구당보다 급한 것]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626686/w/646/ex240603thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다가오는 폭염과 복권을 사는 사람들에 관해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/70635</link>
-            <guid>https://www.bookjournalism.com/audio/70635</guid>
-            <pubDate>Fri, 31 May 2024 08:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 6월 1일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626647/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
