@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 07:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 08:26:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 시대의 생산성과 스타트업, 날씨의 정치화에 대해 다룹니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/70840</link>
+            <guid>https://www.bookjournalism.com/audio/70840</guid>
+            <pubDate>Fri, 14 Jun 2024 08:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 6월 15일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628362/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘리베이터가 멈추면 갇혀버리는 삶은 어떻게 시작되었나.]]></title>
             <link>https://www.bookjournalism.com/books/70825</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 03 Jun 2024 15:22:51 GMT</pubDate>
             <content:encoded><![CDATA[ISSUE 24. 취향, 인류, 전쟁]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627548/w/646/thread24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년에도 서울에서 퀴어문화축제가 열렸다.]]></title>
-            <link>https://www.bookjournalism.com/books/70679</link>
-            <guid>https://www.bookjournalism.com/books/70679</guid>
-            <pubDate>Mon, 03 Jun 2024 15:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[그 축제의 의미]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627161/w/646/e240604_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
