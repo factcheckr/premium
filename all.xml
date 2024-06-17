@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 14:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 15:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,13 +76,6 @@
             <guid>https://publy.co/content/7572?fr=category</guid>
             <pubDate>Fri, 31 May 2024 06:27:00 GMT</pubDate>
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7572?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/05/31/1717119930_zjSK2NFXKF1BmFv8Tx56vci2rQyCEM8a8MvZdwd8.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 2분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7572?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">업무 효율성을 높이는 시각화 노하우.zip</h6></a></div></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디자이너 석윤이 : 서점 평대에서 MoMA까지, 색과 패턴에 이야기를 담다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1103</link>
-            <guid>https://www.longblack.co/note/1103</guid>
-            <pubDate>Sun, 16 Jun 2024 15:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;얼마 전 도쿄에 다녀왔어요. 시부야에 있는 모마MoMA* 디자인 스토어도 구경했습니다. 그런데 웬일이죠. 제가 사무실에서 매일 쓰는 모스mohs의 코스터가 떡하니<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -169,6 +162,22 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[ㅂㅂㅂ (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70869</link>
+            <guid>https://www.bookjournalism.com/books/70869</guid>
+            <pubDate>Mon, 17 Jun 2024 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[누구를 위해 올림픽은 열리나]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628558/w/646/e240618_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈을 뜰 때부터 감을 때까지 현대인은 알고리즘에 예속된다. 챗GPT와 좋아요, 추천 알고리즘의 시대에 인간의 노동은 어디를 향하고 있는가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70717</link>
+            <guid>https://www.bookjournalism.com/books/70717</guid>
+            <pubDate>Mon, 17 Jun 2024 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[알고리즘 자본주의]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628541/w/646/109_thm.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -247,22 +256,6 @@
             <pubDate>Thu, 06 Jun 2024 15:23:12 GMT</pubDate>
             <content:encoded><![CDATA[휘파람을 불 권리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627661/w/646/e240607_thmjpg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저출산 시대에도 아이를 낳은 요즘 부모들이 있다. 그들의 일상 속에 해결의 열쇠가 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70535</link>
-            <guid>https://www.bookjournalism.com/books/70535</guid>
-            <pubDate>Thu, 06 Jun 2024 15:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 육아]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627542/w/646/108_thm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 〈드림 시나리오〉 속 폴은 알고리즘에 갇힌 우리와 닮았다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70698</link>
-            <guid>https://www.bookjournalism.com/books/70698</guid>
-            <pubDate>Tue, 04 Jun 2024 15:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[우리 모두의 드림 시나리오]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627397/w/646/240605_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

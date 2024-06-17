@@ -4,9 +4,25 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 14:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 15:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ㅂㅂㅂ]]></title>
+            <link>https://www.bookjournalism.com/books/70869</link>
+            <guid>https://www.bookjournalism.com/books/70869</guid>
+            <pubDate>Mon, 17 Jun 2024 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[누구를 위해 올림픽은 열리나]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628558/w/646/e240618_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈을 뜰 때부터 감을 때까지 현대인은 알고리즘에 예속된다. 챗GPT와 좋아요, 추천 알고리즘의 시대에 인간의 노동은 어디를 향하고 있는가.]]></title>
+            <link>https://www.bookjournalism.com/books/70717</link>
+            <guid>https://www.bookjournalism.com/books/70717</guid>
+            <pubDate>Mon, 17 Jun 2024 15:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[알고리즘 자본주의]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628541/w/646/109_thm.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 06 Jun 2024 15:23:12 GMT</pubDate>
             <content:encoded><![CDATA[휘파람을 불 권리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627661/w/646/e240607_thmjpg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저출산 시대에도 아이를 낳은 요즘 부모들이 있다. 그들의 일상 속에 해결의 열쇠가 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/70535</link>
-            <guid>https://www.bookjournalism.com/books/70535</guid>
-            <pubDate>Thu, 06 Jun 2024 15:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 육아]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627542/w/646/108_thm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 〈드림 시나리오〉 속 폴은 알고리즘에 갇힌 우리와 닮았다.]]></title>
-            <link>https://www.bookjournalism.com/books/70698</link>
-            <guid>https://www.bookjournalism.com/books/70698</guid>
-            <pubDate>Tue, 04 Jun 2024 15:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[우리 모두의 드림 시나리오]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627397/w/646/240605_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
