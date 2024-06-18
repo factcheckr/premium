@@ -4,16 +4,24 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 23:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 01:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ㅂㅂㅂ]]></title>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628639/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[파리 시민들은 올림픽을 환영하지 않는다.]]></title>
             <link>https://www.bookjournalism.com/books/70869</link>
             <guid>https://www.bookjournalism.com/books/70869</guid>
             <pubDate>Mon, 17 Jun 2024 15:23:30 GMT</pubDate>
             <content:encoded><![CDATA[누구를 위해 올림픽은 열리나]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628558/w/646/e240618_thm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628636/w/646/e240618_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[눈을 뜰 때부터 감을 때까지 현대인은 알고리즘에 예속된다. 챗GPT와 좋아요, 추천 알고리즘의 시대에 인간의 노동은 어디를 향하고 있는가.]]></title>
@@ -22,14 +30,6 @@
             <pubDate>Mon, 17 Jun 2024 15:23:30 GMT</pubDate>
             <content:encoded><![CDATA[알고리즘 자본주의]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628541/w/646/109_thm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Fri, 12 Apr 2024 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628537/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[쿠팡이 불공정 거래 행위로 1400억 원의 과징금을 부과받았다.]]></title>
