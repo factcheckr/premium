@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 14:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 15:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전기차가 미국 대선의 쟁점으로 부상했다.]]></title>
+            <link>https://www.bookjournalism.com/books/70892</link>
+            <guid>https://www.bookjournalism.com/books/70892</guid>
+            <pubDate>Wed, 19 Jun 2024 15:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[공화당은 왜 전기차를 증오하나]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628753/w/646/ex240620thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 09 Jun 2024 15:20:21 GMT</pubDate>
             <content:encoded><![CDATA[스타십 4차 발사 성공]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627795/w/646/ex240610thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가짜 뉴스의 슈퍼 공유자, 에어컨이 만든 도시와 노들섬에 관해 이야기합니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/70766</link>
-            <guid>https://www.bookjournalism.com/audio/70766</guid>
-            <pubDate>Fri, 07 Jun 2024 08:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 6월 8일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627704/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
