@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-06-23T14:19:08.056Z</updated>
+    <updated>2024-06-23T15:20:25.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-06-22T15:20:09.000Z</updated>
-        <content type="html"><![CDATA[B가 들려주는 늦깍이 천재 이야기 
-
-테니스 선수 로저 페더러Roger Federer는 어렸을 때부터 다양한 스포츠를 좋아했다고 합니다. 스키, 레슬링, 수영, 스케이트보드, 스쿼시에 손을 댔어요. 작가 데이비드 엡스타인은 성공한 운동선수들은 이같은 샘플링 시기를 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[허명행 : 천만 감독이 된 27년 차 스턴트맨, 커리어의 경계를 뛰어넘다]]></title>
+        <id>https://www.longblack.co/note/1107</id>
+        <link href="https://www.longblack.co/note/1107"/>
+        <updated>2024-06-23T15:19:33.402Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K친구와 함께 「범죄도시 4」를 보고 왔습니다. 가끔 액션 영화가 당길 때가 있어요. 쾌감 때문이죠. 저와 같은 사람이 많은가 봅니다.「범죄도시 4」는 현재까지 누적<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
