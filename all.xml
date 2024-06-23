@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jun 2024 21:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jun 2024 22:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국민의힘 전당 대회가 4파전으로 치러진다. 친윤과 비윤과 반윤의 대결이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70925</link>
+            <guid>https://www.bookjournalism.com/books/70925</guid>
+            <pubDate>Sun, 23 Jun 2024 22:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[친윤과 비윤과 반윤]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629118/w/646/ex240624thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공화당의 전기차 반대와 러브버그, 가디언의 한 다큐멘터리에 대해 다룹니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/70915</link>
             <guid>https://www.bookjournalism.com/audio/70915</guid>
@@ -255,14 +263,6 @@
             <pubDate>Wed, 12 Jun 2024 15:21:14 GMT</pubDate>
             <content:encoded><![CDATA[헌법 84조 논쟁]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628064/w/646/ex240613thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신기술이 혁신을 담보하지는 않는다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70795</link>
-            <guid>https://www.bookjournalism.com/books/70795</guid>
-            <pubDate>Tue, 11 Jun 2024 15:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[넥스트 스마트폰은 왜 실패했을까]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628023/w/646/240612_exp_thumb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
