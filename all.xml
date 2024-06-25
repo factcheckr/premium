@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 14:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 15:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7576?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/06/18/1718670195_FugN3rve8IYaghuUoZ4QJBzT2oOW4QmZUT9aXwyb.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 11분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7576?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">경력직 입사자의 빠른 적응에 필요한 6가지</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[줄라이 : 업계를 거스른 언더독 브랜드, 캐리어계의 스탠리가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1108</link>
-            <guid>https://www.longblack.co/note/1108</guid>
-            <pubDate>Mon, 24 Jun 2024 15:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L &nbsp;얼마 전에 해외 출장 갔다가 캐리어가 완전 찌그러졌어. 새로 뭘 살까 싶어 찾아보다가 재밌는 영상을 하나 발견했지 뭐야. 지프차가 캐리어 위를 거침없이 밟고 지<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[줄리 스콧 :  뷰티 에디터의 감각으로 젠지들의 케어 브랜드를 다시 쓰다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1110</link>
+            <guid>https://www.longblack.co/note/1110</guid>
+            <pubDate>Tue, 25 Jun 2024 15:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C마케팅의 구루guru인 세스 고딘Seth Godin은 그의 저서 『This is Marketing』에서 이렇게 말했죠. “마케팅에서는 기적이 아니라 경로를 찾아야 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이제 아이돌은 광고 모델이 아닌 브랜드다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70949</link>
+            <guid>https://www.bookjournalism.com/books/70949</guid>
+            <pubDate>Tue, 25 Jun 2024 15:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스의 콜라보레이션 전략]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629367/w/646/240626_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 14 Jun 2024 08:26:35 GMT</pubDate>
             <content:encoded><![CDATA[2024년 6월 15일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628362/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리베이터가 멈추면 갇혀버리는 삶은 어떻게 시작되었나. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70825</link>
-            <guid>https://www.bookjournalism.com/books/70825</guid>
-            <pubDate>Thu, 13 Jun 2024 15:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[높은 성의 한국인]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628215/w/646/e240614_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

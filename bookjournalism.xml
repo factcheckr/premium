@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 14:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 15:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 아이돌은 광고 모델이 아닌 브랜드다.]]></title>
+            <link>https://www.bookjournalism.com/books/70949</link>
+            <guid>https://www.bookjournalism.com/books/70949</guid>
+            <pubDate>Tue, 25 Jun 2024 15:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스의 콜라보레이션 전략]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629367/w/646/240626_exp_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 14 Jun 2024 08:26:35 GMT</pubDate>
             <content:encoded><![CDATA[2024년 6월 15일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628362/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리베이터가 멈추면 갇혀버리는 삶은 어떻게 시작되었나.]]></title>
-            <link>https://www.bookjournalism.com/books/70825</link>
-            <guid>https://www.bookjournalism.com/books/70825</guid>
-            <pubDate>Thu, 13 Jun 2024 15:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[높은 성의 한국인]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628215/w/646/e240614_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
