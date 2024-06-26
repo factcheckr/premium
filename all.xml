@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 14:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 15:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7561?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2024/06/12/1718164071_AeCuxrd05nQQN5zqQYYzPzm4a3cAM5BdfytnMJbx.png?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 11분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7561?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">프로젝트를 성공시키는 팀장의 역랑 3가지: 예측, 조율, 리스크 관리</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[줄리 스콧 :  뷰티 에디터의 감각으로 젠지들의 케어 브랜드를 다시 쓰다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1110</link>
-            <guid>https://www.longblack.co/note/1110</guid>
-            <pubDate>Tue, 25 Jun 2024 15:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;&nbsp;마케팅의 구루guru인 세스 고딘Seth Godin은 그의 저서 『This is Marketing』에서 이렇게 말했죠. “마케팅에서는 기적이 아니라 경로를 찾아<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[커뮤니티 빌더 : 외로움이 돈이 되는 시대, ‘팔리는’ 커뮤니티 기획법 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1111</link>
+            <guid>https://www.longblack.co/note/1111</guid>
+            <pubDate>Wed, 26 Jun 2024 15:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;퇴근 후 같이 맥주 한잔할 사람을 구했는데… 결국 혼맥 했어요. L은 독서 모임에, B는 한강 러닝 클럽에, C는 전통주 클래스에 간다는 거 있죠. 도대체 왜 퇴<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배터리의 시대다. 그런데 불이 나면 끌 방법이 없다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70963</link>
+            <guid>https://www.bookjournalism.com/books/70963</guid>
+            <pubDate>Wed, 26 Jun 2024 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[배터리에 불이 나면]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629523/w/646/ex240627thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Sun, 16 Jun 2024 15:21:43 GMT</pubDate>
             <content:encoded><![CDATA[탐사수는 어떻게 1위가 되었나?]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628441/w/646/ex240617thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 시대의 생산성과 스타트업, 날씨의 정치화에 대해 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/70840</link>
-            <guid>https://www.bookjournalism.com/audio/70840</guid>
-            <pubDate>Fri, 14 Jun 2024 08:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 6월 15일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628362/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

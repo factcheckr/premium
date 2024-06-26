@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 14:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 15:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배터리의 시대다. 그런데 불이 나면 끌 방법이 없다.]]></title>
+            <link>https://www.bookjournalism.com/books/70963</link>
+            <guid>https://www.bookjournalism.com/books/70963</guid>
+            <pubDate>Wed, 26 Jun 2024 15:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[배터리에 불이 나면]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629523/w/646/ex240627thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 16 Jun 2024 15:21:43 GMT</pubDate>
             <content:encoded><![CDATA[탐사수는 어떻게 1위가 되었나?]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628441/w/646/ex240617thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 시대의 생산성과 스타트업, 날씨의 정치화에 대해 다룹니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/70840</link>
-            <guid>https://www.bookjournalism.com/audio/70840</guid>
-            <pubDate>Fri, 14 Jun 2024 08:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 6월 15일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628362/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
