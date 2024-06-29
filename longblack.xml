@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-06-29T14:20:04.768Z</updated>
+    <updated>2024-06-29T15:20:25.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[액체 세대의 삶 : 물처럼 변하는 불안한 시대에, 행복을 찾는 법]]></title>
-        <id>https://www.longblack.co/note/1112</id>
-        <link href="https://www.longblack.co/note/1112"/>
-        <updated>2024-06-28T15:21:39.072Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;그런 날, 있지 않나요? 너무 피곤한데 잠은 오지 않는 밤. 상념들이 꼬리에 꼬리를 물고 이어지지만 뚜렷한 답은 나오지 않아요. 동틀 무렵 선명하게 남은 것은 불<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-06-29T15:19:33.774Z</updated>
+        <content type="html"><![CDATA[L이 들려주는 신개념 편의점 이야기
+
+이런 편의점 어때? 출근길엔 바리스타가 내려주는 커피를, 퇴근길엔 와인 한 잔을 즐길 수 있는 곳. 미국의 폭스트롯 마켓이야. 창업자 마이크 라비톨라는 럭셔리와 로컬을 키워드로 편의점의 새 장르를 열었어. 그 비결, 궁금하지 않<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
