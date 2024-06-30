@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-06-30T14:20:11.680Z</updated>
+    <updated>2024-06-30T15:22:07.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-06-29T15:19:33.774Z</updated>
-        <content type="html"><![CDATA[L이 들려주는 신개념 편의점 이야기
-
-이런 편의점 어때? 출근길엔 바리스타가 내려주는 커피를, 퇴근길엔 와인 한 잔을 즐길 수 있는 곳. 미국의 폭스트롯 마켓이야. 창업자 마이크 라비톨라는 럭셔리와 로컬을 키워드로 편의점의 새 장르를 열었어. 그 비결, 궁금하지 않<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[불렛저널 : ADHD 때문에 만든 노트 정리법, 37만 명의 삶을 바꾸다]]></title>
+        <id>https://www.longblack.co/note/1113</id>
+        <link href="https://www.longblack.co/note/1113"/>
+        <updated>2024-06-30T15:21:12.307Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B &nbsp;‘유튜브 영상 조회 수 1052만 뷰, 인스타그램 해시태그 수 1054만 개.’불렛저널Bullet Journal의 인기를 보여주죠. 2014년 등장한 이 다이어<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
