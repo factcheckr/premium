@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 14:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 15:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7570?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://d3oth3oks7q81w.cloudfront.net/images/2024/06/13/1718242558_ITlXMrN1pWN4M1Mnpq5UJK7uR5aBCB0oqMpjhkAV.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 7분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7570?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">유리멘탈 팀장의 멘탈 관리법: 효과적인 멘탈 페이스메이커 만들기</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[불렛저널 : ADHD 때문에 만든 노트 정리법, 37만 명의 삶을 바꾸다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1113</link>
-            <guid>https://www.longblack.co/note/1113</guid>
-            <pubDate>Sun, 30 Jun 2024 15:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;‘유튜브 영상 조회 수 1052만 뷰, 인스타그램 해시태그 수 1054만 개.’불렛저널Bullet Journal의 인기를 보여주죠. 2014년 등장한 이 다이어<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[빌리 : 면도기보다 메시지를 먼저 팔아 업계를 뒤흔들다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1114</link>
+            <guid>https://www.longblack.co/note/1114</guid>
+            <pubDate>Mon, 01 Jul 2024 15:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C &nbsp;문화 지능Cultural Intelligence을 아시나요? 브랜드 또는 기업이 사회 문제나 문화 트렌드에 관한 지식을 활용해 이익을 창출하는 동시에, 문화와 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도서관이 패스트 패션의 대안이 될 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71000</link>
+            <guid>https://www.bookjournalism.com/books/71000</guid>
+            <pubDate>Mon, 01 Jul 2024 15:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[옷 빌려주는 도서관]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629921/w/646/ex240701thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이번 토론은 체력 테스트였다. 바이든이 참패했다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Wed, 19 Jun 2024 15:22:56 GMT</pubDate>
             <content:encoded><![CDATA[공화당은 왜 전기차를 증오하나]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628753/w/646/ex240620thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소리 없는 재난의 시대다. 새로운 정의가 필요하다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70881</link>
-            <guid>https://www.bookjournalism.com/books/70881</guid>
-            <pubDate>Tue, 18 Jun 2024 15:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[소리 없는 재난, 폭염]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628651/w/646/240619_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
