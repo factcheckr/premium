@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 14:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 15:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국의 반일 감정은 우리의 정치와 멀지 않다.]]></title>
+            <link>https://www.bookjournalism.com/books/71016</link>
+            <guid>https://www.bookjournalism.com/books/71016</guid>
+            <pubDate>Tue, 02 Jul 2024 15:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[중국 반일 정서의 실체]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630079/w/646/240703_exp_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 20 Jun 2024 15:23:32 GMT</pubDate>
             <content:encoded><![CDATA[인구 국가비상사태]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628940/w/646/e240621_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기차가 미국 대선의 쟁점으로 부상했다.]]></title>
-            <link>https://www.bookjournalism.com/books/70892</link>
-            <guid>https://www.bookjournalism.com/books/70892</guid>
-            <pubDate>Wed, 19 Jun 2024 15:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[공화당은 왜 전기차를 증오하나]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628753/w/646/ex240620thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
