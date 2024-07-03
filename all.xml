@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 14:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 15:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7575?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://d3oth3oks7q81w.cloudfront.net/images/2024/06/17/1718592584_J5AAA52SjzVM1gvbvmdZHkuAhOYn81WE2RfYxasY.png?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 6분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7575?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">[5분 순삭] 초보 마케터 살아남기: 마케팅 예산은 어떻게 짜야 하는 걸까요?</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[글로니 : 익숙함 9에 새로움 1, 정교한 환상을 만드는 황금비율 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1115</link>
-            <guid>https://www.longblack.co/note/1115</guid>
-            <pubDate>Tue, 02 Jul 2024 15:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;혹시 ‘아네모이아anemoia’를 느껴본 적 있어? ‘경험하지 못한 것에 대해 느끼는 향수’를 말해. 요즘 라이프스타일 업계에서, 이 ‘아네모이아’가 꽤 중요하게<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[온 : 달리는 기분을 설계해 대세가 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1116</link>
+            <guid>https://www.longblack.co/note/1116</guid>
+            <pubDate>Wed, 03 Jul 2024 15:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L달리기 좋아해? 요즘 공원에 가면 다들 그렇게 뛰고 있더라. 분주히 움직이는 발들 사이로 특히 이 러닝화가 많이 보여. 2010년 스위스에서 출발한 ‘온On’. ‘<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[키보드 워리어가 나타났다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71031</link>
+            <guid>https://www.bookjournalism.com/books/71031</guid>
+            <pubDate>Wed, 03 Jul 2024 15:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[케냐의 디지털 액티비즘]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630311/w/646/ex240704thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 21 Jun 2024 08:25:38 GMT</pubDate>
             <content:encoded><![CDATA[2024년 6월 22일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629029/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저출생 대책이 늘 오답인 이유가 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70903</link>
-            <guid>https://www.bookjournalism.com/books/70903</guid>
-            <pubDate>Thu, 20 Jun 2024 15:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[인구 국가비상사태]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628940/w/646/e240621_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
