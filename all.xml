@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 14:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 15:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7581?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://d3oth3oks7q81w.cloudfront.net/images/2024/06/18/1718677542_RRrIziQFtbI0MUiNiLuvgTYxwtqscT2MepPjQ2Mz.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 6분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7581?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">[5분 순삭]  김성근 리더십: 팀원으로서 따르고 싶은 리더의 3가지 모습</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[온 : 달리는 기분을 설계해 대세가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1116</link>
-            <guid>https://www.longblack.co/note/1116</guid>
-            <pubDate>Wed, 03 Jul 2024 15:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L달리기 좋아해? 요즘 공원에 가면 다들 그렇게 뛰고 있더라. 분주히 움직이는 발들 사이로 특히 이 러닝화가 많이 보여. 2010년 스위스에서 출발한 ‘온On’. ‘<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[디자이너 박시영 : “새롭고 싶거든 싫어하는 걸 보고, 들어라” (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1117</link>
+            <guid>https://www.longblack.co/note/1117</guid>
+            <pubDate>Thu, 04 Jul 2024 15:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;“시영 선배 같은 분이 각 분야에 한 명씩만 있어도 한국 청년들이 더 살 만해질 것 같다.”SBS 유튜브 채널 &lt;문명특급&gt; 69회에 달린 댓글이에요. 해당 회차에<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일본 경제가 신권에 장래 희망을 담았다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71121</link>
+            <guid>https://www.bookjournalism.com/books/71121</guid>
+            <pubDate>Thu, 04 Jul 2024 15:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[1만 엔 지폐의 얼굴]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630473/w/646/e240705_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Sun, 23 Jun 2024 22:18:43 GMT</pubDate>
             <content:encoded><![CDATA[친윤과 비윤과 반윤]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629118/w/646/ex240624thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공화당의 전기차 반대와 러브버그, 가디언의 한 다큐멘터리에 대해 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/70915</link>
-            <guid>https://www.bookjournalism.com/audio/70915</guid>
-            <pubDate>Fri, 21 Jun 2024 08:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 6월 22일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629029/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

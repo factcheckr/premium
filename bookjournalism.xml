@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 14:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 15:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 경제가 신권에 장래 희망을 담았다.]]></title>
+            <link>https://www.bookjournalism.com/books/71121</link>
+            <guid>https://www.bookjournalism.com/books/71121</guid>
+            <pubDate>Thu, 04 Jul 2024 15:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[1만 엔 지폐의 얼굴]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630473/w/646/e240705_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 23 Jun 2024 22:18:43 GMT</pubDate>
             <content:encoded><![CDATA[친윤과 비윤과 반윤]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629118/w/646/ex240624thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공화당의 전기차 반대와 러브버그, 가디언의 한 다큐멘터리에 대해 다룹니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/70915</link>
-            <guid>https://www.bookjournalism.com/audio/70915</guid>
-            <pubDate>Fri, 21 Jun 2024 08:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 6월 22일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629029/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
