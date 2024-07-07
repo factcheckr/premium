@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 14:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 15:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노동당의 승리가 아니라 보수당의 패배다.]]></title>
+            <link>https://www.bookjournalism.com/books/71152</link>
+            <guid>https://www.bookjournalism.com/books/71152</guid>
+            <pubDate>Sun, 07 Jul 2024 15:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[영국 노동당의 정권 교체]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630613/w/646/ex240708thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나사의 인류 화성 거주 실험, 서울국제도서전 성황과 출판 불황을 다룹니다.]]></title>
             <link>https://www.bookjournalism.com/audio/71139</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 25 Jun 2024 15:22:32 GMT</pubDate>
             <content:encoded><![CDATA[뉴진스의 콜라보레이션 전략]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629367/w/646/240626_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주 쓰레기 피해를 두고 NASA가 소송당했다.]]></title>
-            <link>https://www.bookjournalism.com/books/70937</link>
-            <guid>https://www.bookjournalism.com/books/70937</guid>
-            <pubDate>Mon, 24 Jun 2024 15:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[그 쓰레기는 누가 버렸을까]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629269/w/646/e240625_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
