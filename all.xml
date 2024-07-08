@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 14:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 15:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7573?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://d3oth3oks7q81w.cloudfront.net/images/2024/06/19/1718763935_1lPZq54XEaAe3TDczwMCpXLYF5h9syM9v2SHWxwy.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 10분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><a href="/content/7573?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">17년 차 전문가가 말하는 밑 빠진 회사 조직문화 구축하기 - 동기자극, 정서관리편</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마트 PB 리포트 : 더 고급으로, 뾰족하게, 웰니스까지 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/1119</link>
-            <guid>https://www.longblack.co/note/1119</guid>
-            <pubDate>Sun, 07 Jul 2024 15:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;미국의 월마트Walmart 하면 이른바 ‘가성비’ 마트로 알려졌잖아? 그런데 최근에는 홀푸드Whole Foods Market나 트레이더 조Trader Joe’s를<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[마인드디자인 : 불교박람회 기획사, 장인정신으로 만든 ‘힙한 불교’ (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/1120</link>
+            <guid>https://www.longblack.co/note/1120</guid>
+            <pubDate>Mon, 08 Jul 2024 15:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;‘불교 또 나 빼고 재밌는 거 하네’, ‘힙한 불교’. 지난 4월 열린 서울국제불교박람회를 두고 나온 말들이에요. 13만 명이 찾으며 역대 최다 관객 수를 기록했<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온라인 서점이 AI 시대의 지배자가 된 이유 (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71172</link>
+            <guid>https://www.bookjournalism.com/books/71172</guid>
+            <pubDate>Mon, 08 Jul 2024 15:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[서른 살, 아마존]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630700/w/646/e240709_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Wed, 26 Jun 2024 15:23:39 GMT</pubDate>
             <content:encoded><![CDATA[배터리에 불이 나면]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629523/w/646/ex240627thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 아이돌은 광고 모델이 아닌 브랜드다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70949</link>
-            <guid>https://www.bookjournalism.com/books/70949</guid>
-            <pubDate>Tue, 25 Jun 2024 15:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스의 콜라보레이션 전략]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629367/w/646/240626_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
