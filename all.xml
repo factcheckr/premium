@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 22:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 23:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[바르셀로나의 에어비앤비 금지, 아마존의 서른 번째 생일을 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/71243</link>
+            <guid>https://www.bookjournalism.com/audio/71243</guid>
+            <pubDate>Fri, 12 Jul 2024 23:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 7월 13일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/631071/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 01 Jul 2024 15:22:25 GMT</pubDate>
             <content:encoded><![CDATA[옷 빌려주는 도서관]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629921/w/646/ex240701thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 토론은 체력 테스트였다. 바이든이 참패했다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70995</link>
-            <guid>https://www.bookjournalism.com/books/70995</guid>
-            <pubDate>Sun, 30 Jun 2024 15:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[사상 최악의 대선 토론]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629787/w/646/e240701_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
