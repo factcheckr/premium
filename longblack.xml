@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-07-14T14:26:02.211Z</updated>
+    <updated>2024-07-14T15:30:07.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-07-13T15:20:01.029Z</updated>
-        <content type="html"><![CDATA[C가 들려주는 피아니스트 손열음의 이야기
-
-피아니스트 손열음. ‘일반 학교 출신 영재’ ‘순수 국내파 출신 콩쿠르 우승자’ ‘젊은 거장’이란 수식어를 가진 연주자에요. 피아노 거장 아리에 바르디 교수는 손열음을 처음 보고 “내가 이 아이한테 도대체 뭘 가르칠 수 있<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[리전드 필름 : ‘아마겟돈’과 ‘해야’, K팝을 브랜딩하는 뮤비의 탄생]]></title>
+        <id>https://www.longblack.co/note/1125</id>
+        <link href="https://www.longblack.co/note/1125"/>
+        <updated>2024-07-14T15:29:03.492Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;“MV를 공짜로 보기 미안해서 앨범 샀다. 이건 현대미술관에서 틀어야 한다.”“MV 신선하다. 전개가 뻔하지 않다. 예쁘면서 신비롭다.”그룹 에스파aespa와 아<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
