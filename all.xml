@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 22:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 23:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[도널드 트럼프 전 미국 대통령이 J.D. 밴스 상원의원을 부통령 후보로 결정했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71339</link>
+            <guid>https://www.bookjournalism.com/books/71339</guid>
+            <pubDate>Mon, 15 Jul 2024 23:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[힐빌리의 부통령]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/631726/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[중도 좌파 노동당이 어떻게 영국 사회를 우경화하는가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/71160</link>
             <guid>https://www.bookjournalism.com/books/71160</guid>
@@ -255,14 +263,6 @@
             <pubDate>Wed, 03 Jul 2024 15:22:34 GMT</pubDate>
             <content:encoded><![CDATA[케냐의 디지털 액티비즘]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630311/w/646/ex240704thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 반일 감정은 우리의 정치와 멀지 않다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/71016</link>
-            <guid>https://www.bookjournalism.com/books/71016</guid>
-            <pubDate>Tue, 02 Jul 2024 15:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[중국 반일 정서의 실체]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630079/w/646/240703_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
