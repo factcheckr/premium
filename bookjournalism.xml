@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 05:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 06:31:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중도 좌파 노동당이 어떻게 영국 사회를 우경화하는가.]]></title>
+            <link>https://www.bookjournalism.com/books/71160</link>
+            <guid>https://www.bookjournalism.com/books/71160</guid>
+            <pubDate>Mon, 15 Jul 2024 06:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[삼각 측량의 함정]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/631639/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도널드 트럼프 전 대통령의 유세 도중 총격 사건이 발생했다.]]></title>
             <link>https://www.bookjournalism.com/books/71274</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 02 Jul 2024 15:21:01 GMT</pubDate>
             <content:encoded><![CDATA[중국 반일 정서의 실체]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630079/w/646/240703_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서관이 패스트 패션의 대안이 될 수 있을까?]]></title>
-            <link>https://www.bookjournalism.com/books/71000</link>
-            <guid>https://www.bookjournalism.com/books/71000</guid>
-            <pubDate>Mon, 01 Jul 2024 15:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[옷 빌려주는 도서관]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/629921/w/646/ex240701thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
