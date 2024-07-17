@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-07-17T14:21:33.968Z</updated>
+    <updated>2024-07-17T15:25:30.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[그라자 : 케첩처럼 뿌리고 캔에 담고, 고상함을 버린 올리브 오일]]></title>
-        <id>https://www.longblack.co/note/1128</id>
-        <link href="https://www.longblack.co/note/1128"/>
-        <updated>2024-07-16T15:18:11.773Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;마트에서 장을 보다 보면, ‘프리미엄 라벨’ 붙은 식재료가 심심찮게 보여요. 시그니처 에디션Signature Edition, 고메 스페셜Gourmet Specia<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[TDTD : 주신당과 메일룸, 힙당동을 만든 낯선 경험 기획법]]></title>
+        <id>https://www.longblack.co/note/1131</id>
+        <link href="https://www.longblack.co/note/1131"/>
+        <updated>2024-07-17T15:24:33.654Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 LC랑 이야기하다가 신기한 단어를 들었어. ‘힙당동’. ‘힙hip’과 서울의 지역명인 ‘신당동’이 합쳐진 말이야. 홍대나 성수도 아니고 신당? 어울리지 않는 단어라고<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
