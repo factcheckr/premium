@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 07:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 08:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[반도체보다, 개발자보다 전기가 경쟁력이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71590</link>
+            <guid>https://www.bookjournalism.com/books/71590</guid>
+            <pubDate>Fri, 26 Jul 2024 08:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[AI 정전 경보]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632428/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정부가 25년 만에 상속세를 개편한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/71584</link>
             <guid>https://www.bookjournalism.com/books/71584</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 16 Jul 2024 23:25:14 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크의 베팅]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/631827/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도널드 트럼프 전 미국 대통령이 J.D. 밴스 상원의원을 부통령 후보로 결정했다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/71339</link>
-            <guid>https://www.bookjournalism.com/books/71339</guid>
-            <pubDate>Mon, 15 Jul 2024 23:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[힐빌리의 부통령]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/631726/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
