@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 23:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 01:35:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -185,12 +185,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632485/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[직장인 열에 여섯은 태풍, 폭염 등 재해 상황에서도 평상시처럼 출퇴근한다. (북저널리즘)]]></title>
+            <title><![CDATA[직장인 열에 여섯은 태풍이 와도 평상시처럼 출근한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/71619</link>
             <guid>https://www.bookjournalism.com/books/71619</guid>
             <pubDate>Sun, 28 Jul 2024 23:21:07 GMT</pubDate>
             <content:encoded><![CDATA[재난을 뚫는 출근길]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632489/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632491/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반도체보다, 개발자보다 전기가 경쟁력이다. (북저널리즘)]]></title>
