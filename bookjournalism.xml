@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 22:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 23:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EU의 AI 규제법이 8월 1일 발효됐다.]]></title>
+            <link>https://www.bookjournalism.com/books/71702</link>
+            <guid>https://www.bookjournalism.com/books/71702</guid>
+            <pubDate>Thu, 01 Aug 2024 23:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최초의 AI 규제법]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632693/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이란과 하마스가 이스라엘에 복수를 다짐하고 있다.]]></title>
             <link>https://www.bookjournalism.com/books/71665</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 22 Jul 2024 08:28:39 GMT</pubDate>
             <content:encoded><![CDATA[장벽이 할 수 없는 것]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632322/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조 바이든 미국 대통령이 대선 후보직에서 사퇴했다.]]></title>
-            <link>https://www.bookjournalism.com/books/71508</link>
-            <guid>https://www.bookjournalism.com/books/71508</guid>
-            <pubDate>Sun, 21 Jul 2024 23:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[예정된 퇴진]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632289/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
