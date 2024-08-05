@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 22:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 23:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국을 비롯한 아시아 증시가 대폭락했다.]]></title>
+            <link>https://www.bookjournalism.com/books/71780</link>
+            <guid>https://www.bookjournalism.com/books/71780</guid>
+            <pubDate>Mon, 05 Aug 2024 23:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[블랙 먼데이]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632791/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인텔은 전략적 변곡점을 놓쳤다.]]></title>
             <link>https://www.bookjournalism.com/books/71743</link>
@@ -21,7 +29,7 @@
             <guid>https://www.bookjournalism.com/books/71732</guid>
             <pubDate>Sun, 04 Aug 2024 23:22:39 GMT</pubDate>
             <content:encoded><![CDATA[중동, 일촉즉발]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632731/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632795/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페루의 문명 비접촉 부족, 트럼프의 공화당 대선 후보 수락을 다룹니다.]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 26 Jul 2024 08:25:52 GMT</pubDate>
             <content:encoded><![CDATA[AI 정전 경보]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632428/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부가 25년 만에 상속세를 개편한다.]]></title>
-            <link>https://www.bookjournalism.com/books/71584</link>
-            <guid>https://www.bookjournalism.com/books/71584</guid>
-            <pubDate>Thu, 25 Jul 2024 23:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[상속세 최고세율 40퍼센트]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632417/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
