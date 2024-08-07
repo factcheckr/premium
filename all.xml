@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 22:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 23:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[태국 헌법재판소가 제1당 전진당에 정당 해산 명령을 내렸다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71801</link>
+            <guid>https://www.bookjournalism.com/books/71801</guid>
+            <pubDate>Wed, 07 Aug 2024 23:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[태국 왕실을 건드린 죄]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632835/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[민주당이 부통령 후보로 진보 성향의 팀 월즈 미네소타 주지사를 선택했다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/71790</link>
             <guid>https://www.bookjournalism.com/books/71790</guid>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 29 Jul 2024 06:30:31 GMT</pubDate>
             <content:encoded><![CDATA[테크노 리버럴은 왜 트럼프를 지지하나]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632485/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직장인 열에 여섯은 태풍이 와도 평상시처럼 출근한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/71619</link>
-            <guid>https://www.bookjournalism.com/books/71619</guid>
-            <pubDate>Sun, 28 Jul 2024 23:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[재난을 뚫는 출근길]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632491/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
