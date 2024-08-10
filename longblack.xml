@@ -2,14 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-08-10T14:19:36.708Z</updated>
+    <updated>2024-08-10T15:23:12.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[쿼시 : 바쁘고 지칠 때 청소해야 하는 이유]]></title>
-        <id>https://www.longblack.co/note/1158</id>
-        <link href="https://www.longblack.co/note/1158"/>
-        <updated>2024-08-09T15:23:33.975Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;여러분에게 ‘청소’는 어떤 의미인가요? 제겐 ‘스트레스 푸는 수단’이에요. 주방이나 화장실에 낀 물때를 벗겨내면, 마음까지 시원해지는 기분이거든요.그래서일까요? <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-08-10T15:22:15.745Z</updated>
+        <content type="html"><![CDATA[K가 들려주는 다니엘 핑크의 이야기
+
+이 이야기는 핑크가 앞서 11년 전에 쓴 책 『드라이브』에서 강조한 것과도 이어집니다. 당시 그는 창조적인 사람을 움직이게 하는 힘을 분석했어요. 그 힘은 돈이 아닌, 스스로 일하게 하는 동기 부여였습니다. 
+
+“프로가 된다<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
