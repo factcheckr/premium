@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-08-11T22:21:50.312Z</updated>
+    <updated>2024-08-11T23:20:53.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1152</id>
         <link href="https://www.longblack.co/note/1152"/>
         <updated>2024-08-11T15:21:51.678Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;“내가 그렇게 나쁩니까?”2022년 영화 「헤어질 결심」의 명대사입니다. 배우 탕웨이가 담담히 읊조리는 장면이, 관객 사이에서 두고두고 회자됐죠. 말 한마디에 억<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;“내가 그렇게 나쁩니까?”2022년 영화 「헤어질 결심」의 명대사입니다. 배우 탕웨이가 담담히 읊조리는 장면이 관객 사이에서 두고두고 회자됐죠. 말 한마디에 억울<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
