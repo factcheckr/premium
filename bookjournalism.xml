@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 07:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 08:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방글라데시가 두 번째 독립을 맞았다.]]></title>
+            <link>https://www.bookjournalism.com/books/71859</link>
+            <guid>https://www.bookjournalism.com/books/71859</guid>
+            <pubDate>Mon, 12 Aug 2024 08:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[두 번째 독립]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632933/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울시 1인 가구 10명 중 9명이 혼자 살면서 심리적 어려움을 겪는 것으로 나타났다.]]></title>
             <link>https://www.bookjournalism.com/books/71845</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Aug 2024 23:21:44 GMT</pubDate>
             <content:encoded><![CDATA[세계 최초의 AI 규제법]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632693/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이란과 하마스가 이스라엘에 복수를 다짐하고 있다.]]></title>
-            <link>https://www.bookjournalism.com/books/71665</link>
-            <guid>https://www.bookjournalism.com/books/71665</guid>
-            <pubDate>Wed, 31 Jul 2024 22:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[하마스 수장이 이란 수도에서 피살됐다.]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632550/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
