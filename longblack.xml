@@ -2,14 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-08-17T14:20:23.879Z</updated>
+    <updated>2024-08-17T15:20:42.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[그릿 : 도전가의 바이블, ‘제대로 노력하는 법’을 읽다]]></title>
-        <id>https://www.longblack.co/note/1157</id>
-        <link href="https://www.longblack.co/note/1157"/>
-        <updated>2024-08-16T15:21:12.719Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;사람들은 저마다의 목표를 세웁니다. 보통은 이루기 쉽지 않은 것부터 떠올리죠.&nbsp;모든 일이 술술 풀릴 땐 목표를 향해 달리는 것도 힘겹지 않아요. 하지만 예상치 못<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-08-17T15:19:42.990Z</updated>
+        <content type="html"><![CDATA[K가 들려주는 다니엘 핑크의 이야기
+
+이 이야기는 핑크가 앞서 11년 전에 쓴 책 『드라이브』에서 강조한 것과도 이어집니다. 당시 그는 창조적인 사람을 움직이게 하는 힘을 분석했어요. 그 힘은 돈이 아닌, 스스로 일하게 하는 동기 부여였습니다. 
+
+“프로가 된다<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
