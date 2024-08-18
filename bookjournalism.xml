@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Aug 2024 22:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Aug 2024 23:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더불어민주당 이재명 대표가 연임에 성공했다.]]></title>
+            <link>https://www.bookjournalism.com/books/71937</link>
+            <guid>https://www.bookjournalism.com/books/71937</guid>
+            <pubDate>Sun, 18 Aug 2024 23:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 2기 출범]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633126/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인류가 AI와 사랑에 빠졌다.]]></title>
             <link>https://www.bookjournalism.com/books/71907</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 07 Aug 2024 01:36:49 GMT</pubDate>
             <content:encoded><![CDATA[진보적인 백인 남성]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632810/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국을 비롯한 아시아 증시가 대폭락했다.]]></title>
-            <link>https://www.bookjournalism.com/books/71780</link>
-            <guid>https://www.bookjournalism.com/books/71780</guid>
-            <pubDate>Mon, 05 Aug 2024 23:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[블랙 먼데이]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632791/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
