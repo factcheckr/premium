@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 07:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 08:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탈레반이 집권 3년을 맞았다.]]></title>
+            <link>https://www.bookjournalism.com/books/71947</link>
+            <guid>https://www.bookjournalism.com/books/71947</guid>
+            <pubDate>Mon, 19 Aug 2024 08:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[탈레반에 대해 알아야 할 20가지]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633147/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더불어민주당 이재명 대표가 연임에 성공했다.]]></title>
             <link>https://www.bookjournalism.com/books/71937</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 07 Aug 2024 23:20:46 GMT</pubDate>
             <content:encoded><![CDATA[태국 왕실을 건드린 죄]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632835/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당이 부통령 후보로 진보 성향의 팀 월즈 미네소타 주지사를 선택했다.]]></title>
-            <link>https://www.bookjournalism.com/books/71790</link>
-            <guid>https://www.bookjournalism.com/books/71790</guid>
-            <pubDate>Wed, 07 Aug 2024 01:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[진보적인 백인 남성]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632810/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
