@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 22:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 23:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[셀럽들이 프리미엄 주류 시장에 진출하고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71992</link>
+            <guid>https://www.bookjournalism.com/books/71992</guid>
+            <pubDate>Wed, 21 Aug 2024 23:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[LVMH+비욘세=위스키]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633202/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국의 발전 용량이 21년 만에 최대 폭으로 증가했다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/71983</link>
             <guid>https://www.bookjournalism.com/books/71983</guid>
@@ -255,14 +263,6 @@
             <pubDate>Sun, 11 Aug 2024 23:20:46 GMT</pubDate>
             <content:encoded><![CDATA[고독한 서울]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632913/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기계가 굴리는 돈이 너무 많다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/71825</link>
-            <guid>https://www.bookjournalism.com/books/71825</guid>
-            <pubDate>Fri, 09 Aug 2024 04:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[알고리즘 투자의 비극]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632893/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
