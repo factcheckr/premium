@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 22:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 23:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동물원에 갇힌 동물에서만 보이는 행동이 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/72002</link>
+            <guid>https://www.bookjournalism.com/books/72002</guid>
+            <pubDate>Thu, 22 Aug 2024 23:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[40년 만에 풀려난 남아공 코끼리]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633213/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀럽들이 프리미엄 주류 시장에 진출하고 있다.]]></title>
             <link>https://www.bookjournalism.com/books/71992</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 12 Aug 2024 08:28:33 GMT</pubDate>
             <content:encoded><![CDATA[두 번째 독립]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632933/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시 1인 가구 10명 중 9명이 혼자 살면서 심리적 어려움을 겪는 것으로 나타났다.]]></title>
-            <link>https://www.bookjournalism.com/books/71845</link>
-            <guid>https://www.bookjournalism.com/books/71845</guid>
-            <pubDate>Sun, 11 Aug 2024 23:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[고독한 서울]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632913/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
