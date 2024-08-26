@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 22:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 23:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소멸 위기에 처한 카리브해 도서국들이 대규모 탄소 배출국들의 재정적 책임을 요구하고 있다.]]></title>
+            <link>https://www.bookjournalism.com/books/72088</link>
+            <guid>https://www.bookjournalism.com/books/72088</guid>
+            <pubDate>Mon, 26 Aug 2024 23:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[기후 부채를 갚을 시간]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633410/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배터리가 지배하는 세상, 배터리를 지배하는 기업]]></title>
             <link>https://www.bookjournalism.com/books/72051</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 16 Aug 2024 08:28:06 GMT</pubDate>
             <content:encoded><![CDATA[AI 중독]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633053/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ올리브영역이 되는 성수역, NBC의 올림픽 중계 전략을 다룹니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/71896</link>
-            <guid>https://www.bookjournalism.com/audio/71896</guid>
-            <pubDate>Fri, 16 Aug 2024 09:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 8월 17일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633110/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
