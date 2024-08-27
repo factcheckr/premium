@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 22:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 23:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[한국인의 절반가량이 장기적인 울분 상태에 있다는 연구 결과가 나왔다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72101</link>
+            <guid>https://www.bookjournalism.com/books/72101</guid>
+            <pubDate>Tue, 27 Aug 2024 23:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[울분의 나라]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633434/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소멸 위기에 처한 카리브해 도서국들이 대규모 탄소 배출국들의 재정적 책임을 요구하고 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72088</link>
             <guid>https://www.bookjournalism.com/books/72088</guid>
@@ -255,14 +263,6 @@
             <pubDate>Sun, 18 Aug 2024 23:22:50 GMT</pubDate>
             <content:encoded><![CDATA[이재명 2기 출범]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633126/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인류가 AI와 사랑에 빠졌다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/71907</link>
-            <guid>https://www.bookjournalism.com/books/71907</guid>
-            <pubDate>Fri, 16 Aug 2024 08:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[AI 중독]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633053/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
