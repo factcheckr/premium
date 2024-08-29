@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 22:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 23:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부의 기후 위기 대응 부족은 국민 기본권 침해다.]]></title>
+            <link>https://www.bookjournalism.com/books/72115</link>
+            <guid>https://www.bookjournalism.com/books/72115</guid>
+            <pubDate>Thu, 29 Aug 2024 23:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[탄소중립법 헌법불합치]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633478/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령실이 한동훈 대표의 의대 증원 중재안을 거부했다.]]></title>
             <link>https://www.bookjournalism.com/books/72109</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 19 Aug 2024 23:23:07 GMT</pubDate>
             <content:encoded><![CDATA[감염병이 돌아왔다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633152/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈레반이 돌아온 지 3년이 지났다.]]></title>
-            <link>https://www.bookjournalism.com/books/71947</link>
-            <guid>https://www.bookjournalism.com/books/71947</guid>
-            <pubDate>Mon, 19 Aug 2024 08:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[탈레반에 대해 알아야 할 20가지]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633424/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
