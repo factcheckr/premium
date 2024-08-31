@@ -2,14 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-08-31T14:19:44.890Z</updated>
+    <updated>2024-08-31T15:23:15.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[글쓰기의 감각 : 똑똑한 사람이 나쁜 글을 쓰는 이유]]></title>
-        <id>https://www.longblack.co/note/1175</id>
-        <link href="https://www.longblack.co/note/1175"/>
-        <updated>2024-08-30T15:23:03.028Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;살다 보면 글을 써야 하는 상황이 정말 많아요. 글쓰기를 직업으로 삼지 않더라도요. 상사에게 올릴 보고서를 쓸 때도, 연인이나 가족에게 고마운 마음을 전할 편지를<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-08-31T15:22:21.113Z</updated>
+        <content type="html"><![CDATA[C가 들려주는 모모스커피의 이야기
+
+직원들은 ‘커뮤니티’의 힘을 알게 됐어요. 직접 커뮤니티를 만들기로 했죠.
+
+“커피는 사람이 모이는 문화예요. 예전에는 진짜 맛있는 커피 한 잔을 만들어내는 기술자가 되려고 했어요. 반면, 지금 우리가 하는 일은 커피로 문화를<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
