@@ -2,18 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-09-01T14:19:38.611Z</updated>
+    <updated>2024-09-01T15:23:07.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-08-31T15:22:21.113Z</updated>
-        <content type="html"><![CDATA[C가 들려주는 모모스커피의 이야기
-
-직원들은 ‘커뮤니티’의 힘을 알게 됐어요. 직접 커뮤니티를 만들기로 했죠.
-
-“커피는 사람이 모이는 문화예요. 예전에는 진짜 맛있는 커피 한 잔을 만들어내는 기술자가 되려고 했어요. 반면, 지금 우리가 하는 일은 커피로 문화를<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[웨인 디킨 : 사람처럼 느껴지지 않는 브랜드엔 미래가 없다]]></title>
+        <id>https://www.longblack.co/note/1176</id>
+        <link href="https://www.longblack.co/note/1176"/>
+        <updated>2024-09-01T15:22:09.578Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;브랜드가 넘쳐나는 세상이에요. 모든 채널에서 마케팅 콘텐츠가 쏟아져요. 그래서 더욱 브랜딩이 필요한 것 같아요. 순식간에 소비되고 금세 잊히지 않으려면요.브랜드 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
