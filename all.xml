@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 22:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 23:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[정부가 최근 응급의료 위기를 일부 인정했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72200</link>
+            <guid>https://www.bookjournalism.com/books/72200</guid>
+            <pubDate>Mon, 02 Sep 2024 23:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[응급실의 군의관]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633691/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘표현의 자유 vs 범죄 방치’의 문제가 아닐 수 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72162</link>
             <guid>https://www.bookjournalism.com/books/72162</guid>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 23 Aug 2024 08:27:47 GMT</pubDate>
             <content:encoded><![CDATA[2024년 8월 24일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633280/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI는 선과 악을 초월한 존재일까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72010</link>
-            <guid>https://www.bookjournalism.com/books/72010</guid>
-            <pubDate>Fri, 23 Aug 2024 04:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[과학자의 면죄부]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633492/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
