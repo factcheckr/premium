@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Sep 2024 23:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 01:43:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[하마스의 인질로 잡혀 있던 이스라엘 민간인 여섯 명의 시신이 발견됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72153</link>
+            <guid>https://www.bookjournalism.com/books/72153</guid>
+            <pubDate>Mon, 02 Sep 2024 01:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[네타냐후의 자승자박]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633625/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오픈AI의 밸류에이션, 딥페이크 성범죄를 다룹니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/72129</link>
             <guid>https://www.bookjournalism.com/audio/72129</guid>
@@ -255,14 +263,6 @@
             <pubDate>Thu, 22 Aug 2024 23:24:05 GMT</pubDate>
             <content:encoded><![CDATA[40년 만에 풀려난 남아공 코끼리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633213/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽들이 프리미엄 주류 시장에 진출하고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/71992</link>
-            <guid>https://www.bookjournalism.com/books/71992</guid>
-            <pubDate>Wed, 21 Aug 2024 23:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[LVMH+비욘세=위스키]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633202/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
