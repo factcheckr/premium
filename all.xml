@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 07:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 08:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘표현의 자유 vs 범죄 방치’의 문제가 아닐 수 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72162</link>
+            <guid>https://www.bookjournalism.com/books/72162</guid>
+            <pubDate>Mon, 02 Sep 2024 08:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스가 텔레그램 CEO를 체포한 진짜 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633669/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하마스의 인질로 잡혀 있던 이스라엘 민간인 여섯 명의 시신이 발견됐다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72153</link>
             <guid>https://www.bookjournalism.com/books/72153</guid>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 23 Aug 2024 04:26:58 GMT</pubDate>
             <content:encoded><![CDATA[과학자의 면죄부]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633492/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동물원에 갇힌 동물에서만 보이는 행동이 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72002</link>
-            <guid>https://www.bookjournalism.com/books/72002</guid>
-            <pubDate>Thu, 22 Aug 2024 23:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[40년 만에 풀려난 남아공 코끼리]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633213/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
