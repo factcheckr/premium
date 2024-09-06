@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 13:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 14:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 06 Sep 2024 12:41:48 GMT</pubDate>
             <content:encoded><![CDATA[오리온, 스트로베리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633849/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계 최초의 뉴스 기반 데이팅 앱, 오아시스 티켓값의 비밀을 다룹니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/72234</link>
+            <guid>https://www.bookjournalism.com/audio/72234</guid>
+            <pubDate>Fri, 06 Sep 2024 14:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 9월 7일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633743/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성산에 제주공항 1.5배 크기로 2공항을 짓는다.]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 28 Aug 2024 23:23:18 GMT</pubDate>
             <content:encoded><![CDATA[저녁 식사는 다음에]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633469/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인의 절반가량이 장기적인 울분 상태에 있다는 연구 결과가 나왔다.]]></title>
-            <link>https://www.bookjournalism.com/books/72101</link>
-            <guid>https://www.bookjournalism.com/books/72101</guid>
-            <pubDate>Tue, 27 Aug 2024 23:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[울분의 나라]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633434/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
