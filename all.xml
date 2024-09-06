@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 10:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 11:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,7 +230,7 @@
             <guid>https://www.bookjournalism.com/books/72122</guid>
             <pubDate>Fri, 30 Aug 2024 08:28:39 GMT</pubDate>
             <content:encoded><![CDATA[카카오의 해자]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633500/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633850/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정부의 기후 위기 대응 부족은 국민 기본권 침해다. (북저널리즘)]]></title>
