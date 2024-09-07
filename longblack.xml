@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-09-07T15:23:17.863Z</updated>
+    <updated>2024-09-07T16:27:26.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,10 +10,10 @@
         <id>https://www.longblack.co/weekend</id>
         <link href="https://www.longblack.co/weekend"/>
         <updated>2024-09-07T15:22:22.042Z</updated>
-        <content type="html"><![CDATA[C가 들려주는 모모스커피의 이야기
+        <content type="html"><![CDATA[B가 들려주는 원의독백의 이야기
 
-직원들은 ‘커뮤니티’의 힘을 알게 됐어요. 직접 커뮤니티를 만들기로 했죠.
+더 이상 세상에 순수한 오리지널은 없는 만큼 오히려 인풋이 중요하다고 생각했다고요.
 
-“커피는 사람이 모이는 문화예요. 예전에는 진짜 맛있는 커피 한 잔을 만들어내는 기술자가 되려고 했어요. 반면, 지금 우리가 하는 일은 커피로 문화를<span class="circle-punctuation"></span>]]></content>
+“원래 있던 것들을 내가 조합하는 것이라면, 평소에 보고 듣는 것들이 굉장히 중요하다고 생각했어요. 원재료들이 좋아야 하는 것이니까요. 의식적<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
