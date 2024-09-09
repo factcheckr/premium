@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 22:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 23:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[화성 탐사 우주선 ‘스타십’이 빠르면 2년 뒤 화성 탐사 비행을 시작한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72286</link>
+            <guid>https://www.bookjournalism.com/books/72286</guid>
+            <pubDate>Mon, 09 Sep 2024 23:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[드디어, 화성으로]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633902/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[결국 펜실베이니아를 누가 가져가느냐에 달렸다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72269</link>
             <guid>https://www.bookjournalism.com/books/72269</guid>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 30 Aug 2024 08:28:39 GMT</pubDate>
             <content:encoded><![CDATA[2024년 8월 31일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633580/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오가 왜 흔들렸는지, 생태학자는 알고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72122</link>
-            <guid>https://www.bookjournalism.com/books/72122</guid>
-            <pubDate>Fri, 30 Aug 2024 08:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[카카오의 해자]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633850/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
