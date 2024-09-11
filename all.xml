@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 22:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 23:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[트럼프는 해리스의 도발에 넘어가 수차례 언성을 높이는 모습을 보였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72300</link>
+            <guid>https://www.bookjournalism.com/books/72300</guid>
+            <pubDate>Wed, 11 Sep 2024 23:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[트럼프가 해리스의 미끼를 물었다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633947/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이복현 금융감독원장이 은행 대출 정책과 관련한 혼선에 대해 사과했다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72292</link>
             <guid>https://www.bookjournalism.com/books/72292</guid>
@@ -193,12 +201,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633897/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올 여름 폭염으로 인해 말벌 피해가 급증하고 있다. (북저널리즘)]]></title>
+            <title><![CDATA[올여름 폭염으로 인해 말벌 피해가 급증하고 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72261</link>
             <guid>https://www.bookjournalism.com/books/72261</guid>
             <pubDate>Sun, 08 Sep 2024 23:24:43 GMT</pubDate>
             <content:encoded><![CDATA[기후위기의 증거]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633869/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633950/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI가 인간을 벗어나 스스로 똑똑해진다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 02 Sep 2024 08:29:39 GMT</pubDate>
             <content:encoded><![CDATA[프랑스가 텔레그램 CEO를 체포한 진짜 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633669/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하마스의 인질로 잡혀 있던 이스라엘 민간인 여섯 명의 시신이 발견됐다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72153</link>
-            <guid>https://www.bookjournalism.com/books/72153</guid>
-            <pubDate>Mon, 02 Sep 2024 01:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[네타냐후의 자승자박]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633625/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
