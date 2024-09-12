@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 22:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 23:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스위프트 팬덤이 미국 대통령을 결정할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72311</link>
+            <guid>https://www.bookjournalism.com/books/72311</guid>
+            <pubDate>Thu, 12 Sep 2024 23:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[스위프트 정치학]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633959/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트럼프는 해리스의 도발에 넘어가 수차례 언성을 높이는 모습을 보였다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72300</link>
             <guid>https://www.bookjournalism.com/books/72300</guid>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 02 Sep 2024 23:22:42 GMT</pubDate>
             <content:encoded><![CDATA[응급실의 군의관]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633691/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘표현의 자유 vs 범죄 방치’의 문제가 아닐 수 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72162</link>
-            <guid>https://www.bookjournalism.com/books/72162</guid>
-            <pubDate>Mon, 02 Sep 2024 08:29:39 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스가 텔레그램 CEO를 체포한 진짜 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633669/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
