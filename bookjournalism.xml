@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 22:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 23:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해리스도 트럼프도 아니다.]]></title>
+            <link>https://www.bookjournalism.com/books/72340</link>
+            <guid>https://www.bookjournalism.com/books/72340</guid>
+            <pubDate>Thu, 19 Sep 2024 23:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[레이 달리오의 선택]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634005/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레바논 전역에서 호출기 폭발 공격이 일어났다.]]></title>
             <link>https://www.bookjournalism.com/books/72333</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 05 Sep 2024 23:22:57 GMT</pubDate>
             <content:encoded><![CDATA[2034 제주2공항]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633733/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마지막 연금 개혁이 2007년이었다. 더는 미룰 수 없다.]]></title>
-            <link>https://www.bookjournalism.com/books/72218</link>
-            <guid>https://www.bookjournalism.com/books/72218</guid>
-            <pubDate>Wed, 04 Sep 2024 23:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[4%p 더 내고 2%p 더 받는 연금 개혁]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633727/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
