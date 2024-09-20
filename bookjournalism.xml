@@ -4,9 +4,25 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 07:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 08:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 신기함을 넘어 유용함으로 나아가기 위해서는 패러다임을 바꿔야 한다.]]></title>
+            <link>https://www.bookjournalism.com/books/72364</link>
+            <guid>https://www.bookjournalism.com/books/72364</guid>
+            <pubDate>Fri, 20 Sep 2024 08:29:16 GMT</pubDate>
+            <content:encoded><![CDATA[AI 에이전트의 조건]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634097/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기후 행동을 돕는 수사법, 숏폼 드라마 열풍을 다룹니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/72350</link>
+            <guid>https://www.bookjournalism.com/audio/72350</guid>
+            <pubDate>Fri, 20 Sep 2024 08:29:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 9월 21일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634076/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해리스도 트럼프도 아니다.]]></title>
             <link>https://www.bookjournalism.com/books/72340</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 06 Sep 2024 12:41:48 GMT</pubDate>
             <content:encoded><![CDATA[오리온, 스트로베리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633849/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최초의 뉴스 기반 데이팅 앱, 오아시스 티켓값의 비밀을 다룹니다.]]></title>
-            <link>https://www.bookjournalism.com/audio/72234</link>
-            <guid>https://www.bookjournalism.com/audio/72234</guid>
-            <pubDate>Fri, 06 Sep 2024 14:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 7일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633743/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성산에 제주공항 1.5배 크기로 2공항을 짓는다.]]></title>
-            <link>https://www.bookjournalism.com/books/72226</link>
-            <guid>https://www.bookjournalism.com/books/72226</guid>
-            <pubDate>Thu, 05 Sep 2024 23:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[2034 제주2공항]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633733/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
