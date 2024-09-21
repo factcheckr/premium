@@ -2,14 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-09-21T14:19:59.324Z</updated>
+    <updated>2024-09-21T15:25:16.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[인플루언서 : 사람들은 왜 ‘살아 있는 광고판’이 되길 자처하나]]></title>
-        <id>https://www.longblack.co/note/1197</id>
-        <link href="https://www.longblack.co/note/1197"/>
-        <updated>2024-09-20T15:24:16.038Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;연휴에 뒤늦게 몰아본 넷플릭스 예능이 있었어. 제목은 「더 인플루언서The Influencer」. 77명의 SNS·유튜브 인플루언서들이 ‘관심 서바이벌’을 벌이는<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-09-21T15:24:11.832Z</updated>
+        <content type="html"><![CDATA[B가 들려주는 원의독백의 이야기
+
+더 이상 세상에 순수한 오리지널은 없는 만큼 오히려 인풋이 중요하다고 생각했다고요.
+
+“원래 있던 것들을 내가 조합하는 것이라면, 평소에 보고 듣는 것들이 굉장히 중요하다고 생각했어요. 원재료들이 좋아야 하는 것이니까요. 의식적<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
