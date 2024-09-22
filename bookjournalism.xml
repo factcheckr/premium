@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Sep 2024 22:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 23:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이슬란드에서 쓰레기통을 뒤지던 북극곰이 사살됐다.]]></title>
+            <link>https://www.bookjournalism.com/books/72376</link>
+            <guid>https://www.bookjournalism.com/books/72376</guid>
+            <pubDate>Sun, 22 Sep 2024 23:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[북극곰의 죽음]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634129/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI가 신기함을 넘어 유용함으로 나아가기 위해서는 패러다임을 바꿔야 한다.]]></title>
             <link>https://www.bookjournalism.com/books/72364</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 08 Sep 2024 23:24:43 GMT</pubDate>
             <content:encoded><![CDATA[기후위기의 증거]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633950/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI가 인간을 벗어나 스스로 똑똑해진다.]]></title>
-            <link>https://www.bookjournalism.com/books/72246</link>
-            <guid>https://www.bookjournalism.com/books/72246</guid>
-            <pubDate>Fri, 06 Sep 2024 12:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[오리온, 스트로베리]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633849/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
