@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 22:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 23:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[샘 올트먼 CEO는 AI가 전례 없는 번영을 가져올 것이라고 선언했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72415</link>
+            <guid>https://www.bookjournalism.com/books/72415</guid>
+            <pubDate>Tue, 24 Sep 2024 23:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[초지능 시대가 온다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634166/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[올해는 가을이 없을 것이라는 전망이 나왔다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72406</link>
             <guid>https://www.bookjournalism.com/books/72406</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 10 Sep 2024 22:22:29 GMT</pubDate>
             <content:encoded><![CDATA[대출은 알잘딱깔센]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633927/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화성 탐사 우주선 ‘스타십’이 빠르면 2년 뒤 화성 탐사 비행을 시작한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72286</link>
-            <guid>https://www.bookjournalism.com/books/72286</guid>
-            <pubDate>Mon, 09 Sep 2024 23:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[드디어, 화성으로]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633902/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
