@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 22:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 23:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딥페이크 처벌법이 국회를 통과했다.]]></title>
+            <link>https://www.bookjournalism.com/books/72435</link>
+            <guid>https://www.bookjournalism.com/books/72435</guid>
+            <pubDate>Thu, 26 Sep 2024 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[딥페이크 성 착취물 시청하면 최대 3년형]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634206/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이스라엘과 헤즈볼라의 교전이 전면전으로 치닫고 있다.]]></title>
             <link>https://www.bookjournalism.com/books/72426</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 12 Sep 2024 23:24:28 GMT</pubDate>
             <content:encoded><![CDATA[스위프트 정치학]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633959/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프는 해리스의 도발에 넘어가 수차례 언성을 높이는 모습을 보였다.]]></title>
-            <link>https://www.bookjournalism.com/books/72300</link>
-            <guid>https://www.bookjournalism.com/books/72300</guid>
-            <pubDate>Wed, 11 Sep 2024 23:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[트럼프가 해리스의 미끼를 물었다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633947/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
