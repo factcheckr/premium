@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Sep 2024 22:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 23:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오스트리아 총선에서 제2차 세계대전 이후 처음으로 극우 정당이 승리한다.]]></title>
+            <link>https://www.bookjournalism.com/books/72477</link>
+            <guid>https://www.bookjournalism.com/books/72477</guid>
+            <pubDate>Sun, 29 Sep 2024 23:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[나치의 망령]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634376/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타가 미래를 발표했다.]]></title>
             <link>https://www.bookjournalism.com/books/72461</link>
@@ -24,12 +32,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634234/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크 처벌법이 국회를 통과했다.]]></title>
+            <title><![CDATA[딥페이크 특별법이 국회를 통과했다.]]></title>
             <link>https://www.bookjournalism.com/books/72435</link>
             <guid>https://www.bookjournalism.com/books/72435</guid>
             <pubDate>Thu, 26 Sep 2024 23:24:14 GMT</pubDate>
             <content:encoded><![CDATA[딥페이크 성 착취물 시청하면 최대 3년형]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634206/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634381/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘과 헤즈볼라의 교전이 전면전으로 치닫고 있다.]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 19 Sep 2024 23:23:14 GMT</pubDate>
             <content:encoded><![CDATA[레이 달리오의 선택]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634005/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레바논 전역에서 호출기 폭발 공격이 일어났다.]]></title>
-            <link>https://www.bookjournalism.com/books/72333</link>
-            <guid>https://www.bookjournalism.com/books/72333</guid>
-            <pubDate>Wed, 18 Sep 2024 23:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[삐삐가 폭발했다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633990/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
