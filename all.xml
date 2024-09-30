@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 07:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 08:32:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이스라엘과 ‘저항의 축’의 충돌했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72483</link>
+            <guid>https://www.bookjournalism.com/books/72483</guid>
+            <pubDate>Mon, 30 Sep 2024 08:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[헤즈볼라는 무엇인가?]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634393/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오스트리아 총선에서 제2차 세계대전 이후 처음으로 극우 정당이 승리한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72477</link>
             <guid>https://www.bookjournalism.com/books/72477</guid>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 20 Sep 2024 08:29:16 GMT</pubDate>
             <content:encoded><![CDATA[2024년 9월 21일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634076/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해리스도 트럼프도 아니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72340</link>
-            <guid>https://www.bookjournalism.com/books/72340</guid>
-            <pubDate>Thu, 19 Sep 2024 23:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[레이 달리오의 선택]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634005/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
