@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-10-01T19:19:42.627Z</updated>
+    <updated>2024-10-01T20:25:44.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1213</id>
         <link href="https://www.longblack.co/note/1213"/>
         <updated>2024-10-01T15:24:49.012Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 L최근 구글이 투자한 회사들을 보다가, 흥미로운 이름을 발견했어.&nbsp;이름은 몬조Monzo. 영국의 디지털 은행이야. 토스뱅크와 카카오뱅크 같은 곳이지. 구글은 2024<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;최근 구글이 투자한 회사들을 보다가, 흥미로운 이름을 발견했어.&nbsp;이름은 몬조Monzo. 영국의 디지털 은행이야. 토스뱅크와 카카오뱅크 같은 곳이지. 구글은 202<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
