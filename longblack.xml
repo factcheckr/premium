@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-10-04T14:23:44.288Z</updated>
+    <updated>2024-10-04T15:25:53.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[장 줄리앙 : 그림이란 언어로, 일상을 기록하는 저널리스트]]></title>
-        <id>https://www.longblack.co/note/1215</id>
-        <link href="https://www.longblack.co/note/1215"/>
-        <updated>2024-10-03T15:25:35.900Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;가끔 답답할 때가 있어요! 지하철을 탔는데, 모두 핸드폰만 보고 있는 거예요. 씁쓸한 감정이 느껴졌죠. 이걸 어떻게 설명하죠? 친구가 그림을 하나 보여줬어요. 핸<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[최선의 고통 : 삶의 무의미를 깨부수는 건 쾌락이 아닌, 고통이다]]></title>
+        <id>https://www.longblack.co/note/1216</id>
+        <link href="https://www.longblack.co/note/1216"/>
+        <updated>2024-10-04T15:24:56.478Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;저는 가을 하늘을 올려다볼 때면, ‘행복’의 의미를 다시 한번 생각합니다. ‘모든 게 갖춰져야 행복할까?’, ‘행복하려면 뭘 해야 할까?’와 같은 질문을 떠올리죠<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
