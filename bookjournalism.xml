@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 09:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 10:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국의 제재에도 기술의 상상력은 만리장성을 넘는다.]]></title>
+            <link>https://www.bookjournalism.com/books/72526</link>
+            <guid>https://www.bookjournalism.com/books/72526</guid>
+            <pubDate>Fri, 04 Oct 2024 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[중국에도 AI가 있다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634545/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생성형 AI로 뚝딱 만드는 팟캐스트, 스위스와 이탈리아가 국경선을 조정하는 사연을 다룹니다.]]></title>
             <link>https://www.bookjournalism.com/audio/72513</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 23 Sep 2024 23:22:47 GMT</pubDate>
             <content:encoded><![CDATA[올겨울은 영하 18도]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634161/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스라엘과 헤즈볼라의 전면전이 임박했다.]]></title>
-            <link>https://www.bookjournalism.com/books/72383</link>
-            <guid>https://www.bookjournalism.com/books/72383</guid>
-            <pubDate>Mon, 23 Sep 2024 08:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[누가 삐삐에 폭탄을 심었나]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634145/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
