@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 04:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 05:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생성형 AI로 뚝딱 만드는 팟캐스트, 스위스와 이탈리아가 국경선을 조정하는 사연을 다룹니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/72513</link>
+            <guid>https://www.bookjournalism.com/audio/72513</guid>
+            <pubDate>Fri, 04 Oct 2024 05:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 10월 5일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634534/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이스라엘과 이란이 서로 보복과 재보복을 공언하며 맞서고 있다.]]></title>
             <link>https://www.bookjournalism.com/books/72505</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 23 Sep 2024 08:30:57 GMT</pubDate>
             <content:encoded><![CDATA[누가 삐삐에 폭탄을 심었나]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634145/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이슬란드에서 쓰레기통을 뒤지던 북극곰이 사살됐다.]]></title>
-            <link>https://www.bookjournalism.com/books/72376</link>
-            <guid>https://www.bookjournalism.com/books/72376</guid>
-            <pubDate>Sun, 22 Sep 2024 23:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[북극곰의 죽음]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634129/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
