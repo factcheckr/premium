@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-10-05T23:22:31.658Z</updated>
+    <updated>2024-10-06T01:53:26.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,10 +10,10 @@
         <id>https://www.longblack.co/weekend</id>
         <link href="https://www.longblack.co/weekend"/>
         <updated>2024-10-05T15:23:06.555Z</updated>
-        <content type="html"><![CDATA[K가 들려주는 홍명완 선장의 이야기
+        <content type="html"><![CDATA[B가 들려주는 서체 디자이너 채희준의 이야기
 
-내가 멸치에 들인 시간과 노력, 그래서 나온 그 맛, 나만의 아이덴티티Identity는 남들이 못 따라잡는다고 생각해요. 만약 잡힌다면, 딱 그 수준이었던 거예요. 따라 하기 쉬운. 
+하지만 좋아하는 일을 한다는 것 자체에 만족해선 안 된다고 생각해요. 좋아하는 일을 꾸준히 할 수 있어야 하죠. 저만의 방법은 ‘일이 일처럼 느껴지지 않게 하는 것'입니다.
 
-&lt;a target="_blank" hr<span class="circle-punctuation"></span>]]></content>
+&lt;a target="_blank" hre<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
