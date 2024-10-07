@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-10-07T14:23:33.551Z</updated>
+    <updated>2024-10-07T15:26:17.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[스토리텔러 조승연 : 지식엔 위계가 없다, 깊이만 있을 뿐]]></title>
-        <id>https://www.longblack.co/note/1217</id>
-        <link href="https://www.longblack.co/note/1217"/>
-        <updated>2024-10-06T15:22:39.548Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C &nbsp;‘내 세상이 점점 좁아지는 것 같다’ 이런 생각 해본 적 있나요? 열심히 하루하루를 살아내다가도 문득, 내가 쳇바퀴 속에 있는 건 아닐까 하는 답답함이 밀려올 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[요즘 한글, 요즘 기획 : 맛으로, 놀이로 한글을 알리는 사람들]]></title>
+        <id>https://www.longblack.co/note/1218</id>
+        <link href="https://www.longblack.co/note/1218"/>
+        <updated>2024-10-07T15:25:22.105Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C 벌써 내일이 한글날(10월 9일)이에요! 세종대왕이 만든 한글은, 전 세계에서 유일하게 ‘만든 의도와 과정’이 전부 나와 있는 문자죠. 한글이 우수하다는 건 귀에<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
