@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 02:57:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 03:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[기후 대응의 방향과 속도를 결정할 미국 대선, 해리스와 트럼프의 입장은 무엇인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72553</link>
+            <guid>https://www.bookjournalism.com/books/72553</guid>
+            <pubDate>Tue, 08 Oct 2024 03:30:56 GMT</pubDate>
+            <content:encoded><![CDATA[해리스와 트럼프의 기후 입장]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634604/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자의 주가가 6만원대까지 추락했다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72548</link>
             <guid>https://www.bookjournalism.com/books/72548</guid>
@@ -255,14 +263,6 @@
             <pubDate>Thu, 26 Sep 2024 23:24:14 GMT</pubDate>
             <content:encoded><![CDATA[딥페이크 성 착취물 시청하면 최대 3년형]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634381/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스라엘과 헤즈볼라의 교전이 전면전으로 치닫고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72426</link>
-            <guid>https://www.bookjournalism.com/books/72426</guid>
-            <pubDate>Wed, 25 Sep 2024 23:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[헤즈볼라, 모사드 본부에 미사일 발사]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634184/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
