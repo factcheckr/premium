@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 22:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 23:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[소설가 한강이 한국 작가 최초로 노벨 문학상을 수상했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72574</link>
+            <guid>https://www.bookjournalism.com/books/72574</guid>
+            <pubDate>Thu, 10 Oct 2024 23:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[한강, 노벨상 수상]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634622/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AI 연구자가 노벨 물리학상과 노벨 화학상을 받게 됐다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72568</link>
             <guid>https://www.bookjournalism.com/books/72568</guid>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 27 Sep 2024 16:29:29 GMT</pubDate>
             <content:encoded><![CDATA[안경 너머의 진실]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634343/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미슐랭 스타의 저주, 미스코리아 대회 논란을 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/72445</link>
-            <guid>https://www.bookjournalism.com/audio/72445</guid>
-            <pubDate>Fri, 27 Sep 2024 08:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 28일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634234/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
