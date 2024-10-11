@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 09:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 10:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 노벨 물리학상은 ‘딥 러닝’을 선택했다.]]></title>
+            <link>https://www.bookjournalism.com/books/72582</link>
+            <guid>https://www.bookjournalism.com/books/72582</guid>
+            <pubDate>Fri, 11 Oct 2024 10:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[AI는 어떻게 깊이 학습하나]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634647/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소설가 한강이 한국 작가 최초로 노벨 문학상을 수상했다.]]></title>
             <link>https://www.bookjournalism.com/books/72574</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 29 Sep 2024 23:22:04 GMT</pubDate>
             <content:encoded><![CDATA[나치의 망령]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634376/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타가 미래를 발표했다.]]></title>
-            <link>https://www.bookjournalism.com/books/72461</link>
-            <guid>https://www.bookjournalism.com/books/72461</guid>
-            <pubDate>Fri, 27 Sep 2024 16:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[안경 너머의 진실]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634343/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
