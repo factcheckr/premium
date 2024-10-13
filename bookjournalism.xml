@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Oct 2024 21:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 22:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화석 연료 연소로 인한 이산화탄소 배출량이 올해부터 감소할 것이라는 전망이 나왔다.]]></title>
+            <link>https://www.bookjournalism.com/books/72594</link>
+            <guid>https://www.bookjournalism.com/books/72594</guid>
+            <pubDate>Sun, 13 Oct 2024 22:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[이제 줄어든다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634651/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024 노벨 물리학상은 ‘딥 러닝’을 선택했다.]]></title>
             <link>https://www.bookjournalism.com/books/72582</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 30 Sep 2024 08:32:31 GMT</pubDate>
             <content:encoded><![CDATA[헤즈볼라는 무엇인가?]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634580/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오스트리아 총선에서 제2차 세계대전 이후 처음으로 극우 정당이 승리한다.]]></title>
-            <link>https://www.bookjournalism.com/books/72477</link>
-            <guid>https://www.bookjournalism.com/books/72477</guid>
-            <pubDate>Sun, 29 Sep 2024 23:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[나치의 망령]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634376/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
