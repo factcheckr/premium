@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 22:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 23:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미국 도널드 트럼프 전 대통령이 수입산 자동차에 최대 2000퍼센트의 관세를 부과하겠다고 밝혔다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72697</link>
+            <guid>https://www.bookjournalism.com/books/72697</guid>
+            <pubDate>Wed, 16 Oct 2024 23:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[한국은 머니 머신]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635035/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NASA가 목성의 위성 유로파를 향해 탐사선을 발사했다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72679</link>
             <guid>https://www.bookjournalism.com/books/72679</guid>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 04 Oct 2024 10:26:49 GMT</pubDate>
             <content:encoded><![CDATA[중국에도 AI가 있다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634545/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생성형 AI로 뚝딱 만드는 팟캐스트, 스위스와 이탈리아가 국경선을 조정하는 사연을 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/72513</link>
-            <guid>https://www.bookjournalism.com/audio/72513</guid>
-            <pubDate>Fri, 04 Oct 2024 05:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 10월 5일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634534/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
