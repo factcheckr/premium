@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 07:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 08:30:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[틱톡이 직원 수백 명을 해고했다. 노벨 경제학상 수상자의 연구로 설명할 수 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72703</link>
+            <guid>https://www.bookjournalism.com/books/72703</guid>
+            <pubDate>Fri, 18 Oct 2024 08:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[AI가 일자리를 빼앗는다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635058/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국 연방거래위원회가 ‘클릭 투 캔슬(click to cancel)’ 규정을 발표했다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72709</link>
             <guid>https://www.bookjournalism.com/books/72709</guid>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 07 Oct 2024 23:22:48 GMT</pubDate>
             <content:encoded><![CDATA[5만전자]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634584/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크가 도널드 트럼프 전 미국 대통령의 ‘다크 히어로’가 되었다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72541</link>
-            <guid>https://www.bookjournalism.com/books/72541</guid>
-            <pubDate>Sun, 06 Oct 2024 23:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[다크히어로]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634566/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
