@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-10-18T01:48:09.740Z</updated>
+    <updated>2024-10-18T02:56:28.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1228</id>
         <link href="https://www.longblack.co/note/1228"/>
         <updated>2024-10-17T15:23:58.608Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C요즘 성장 서사가 그렇게 재밌더라고요. 왜, 그런 거 있잖아요? 최약체 농구팀이 심기일전해서 우승한다거나, 모두가 무시하던 계약직 직원이 능력 하나로 회장이 되는 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;요즘 성장 서사가 그렇게 재밌더라고요. 왜, 그런 거 있잖아요? 최약체 농구팀이 심기일전해서 우승한다거나, 모두가 무시하던 계약직 직원이 능력 하나로 회장이 되는<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
