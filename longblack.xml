@@ -2,14 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-10-19T14:21:08.021Z</updated>
+    <updated>2024-10-19T15:23:16.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[한강 : 아픈 이름들을 호명할 때, 비로소 역사는 문학이 된다]]></title>
-        <id>https://www.longblack.co/note/1229</id>
-        <link href="https://www.longblack.co/note/1229"/>
-        <updated>2024-10-18T15:24:30.182Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;지난 일주일, 우리는 한강 열병을 앓았습니다. 마치 목마른 사람처럼 한강을 읽고, 한강의 삶을 되짚었습니다.&nbsp;하지만 여전히 모르겠다는 생각이 들더군요. 솔직히 말<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-10-19T15:22:20.249Z</updated>
+        <content type="html"><![CDATA[C가 들려주는 작가 김초엽의 이야기
+
+어떤 사람들은 영감이나 상상력에 대한 환상이 있는 것 같아요. 어느 날 벼락처럼 찾아온다는. 제 생각에 상상력이 백지에서 나온다는 건 환상이에요. 저에게 상상력은 쓰레기 더미를 뒤져 업사이클링하는 것과 같아요.
+
+&lt;a tar<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
