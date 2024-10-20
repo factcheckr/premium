@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Oct 2024 22:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Oct 2024 23:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,22 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[기본소득 프로젝트, ‘월드 네트워크’가 신원 증명에 여권을 도입한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72734</link>
+            <guid>https://www.bookjournalism.com/books/72734</guid>
+            <pubDate>Sun, 20 Oct 2024 23:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[샘 올트먼의 ‘월드’ 프로젝트]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635213/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이탈리아의 위조 와인 사기단, 앤트로픽 CEO의 AI 전망을 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/72715</link>
+            <guid>https://www.bookjournalism.com/audio/72715</guid>
+            <pubDate>Sun, 20 Oct 2024 23:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 10월 19일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635114/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[틱톡이 직원 수백 명을 해고했다. 노벨 경제학상 수상자의 연구로 설명할 수 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72703</link>
             <guid>https://www.bookjournalism.com/books/72703</guid>
@@ -247,22 +263,6 @@
             <pubDate>Thu, 10 Oct 2024 01:46:47 GMT</pubDate>
             <content:encoded><![CDATA[노벨상 휩쓰는 AI]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634612/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후 대응의 방향과 속도를 결정할 미국 대선, 해리스와 트럼프의 입장은 무엇인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72553</link>
-            <guid>https://www.bookjournalism.com/books/72553</guid>
-            <pubDate>Tue, 08 Oct 2024 03:30:56 GMT</pubDate>
-            <content:encoded><![CDATA[해리스와 트럼프의 기후 입장]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634604/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자의 주가가 6만원대까지 추락했다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72548</link>
-            <guid>https://www.bookjournalism.com/books/72548</guid>
-            <pubDate>Mon, 07 Oct 2024 23:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[5만전자]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634584/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
