@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 23:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 01:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,7 +82,7 @@
             <link>https://www.longblack.co/note/1232</link>
             <guid>https://www.longblack.co/note/1232</guid>
             <pubDate>Tue, 22 Oct 2024 15:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L얼마 전 K가 한우 세트를 선물로 보냈어. 요새 내가 좀 허해 보였다나? 선물 포장이 눈에 띄더라. 보자기로 감싼 쨍한 주황색 상자, 그 속엔 진공 포장된 한우. <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;얼마 전 K가 한우 세트를 선물로 보냈어. 요새 내가 좀 허해 보였다나? 선물 포장이 눈에 띄더라. 보자기로 감싼 쨍한 주황색 상자, 그 속엔 진공 포장된 한우.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
