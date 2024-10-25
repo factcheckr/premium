@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 07:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 08:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,7 +82,7 @@
             <link>https://www.longblack.co/note/1238</link>
             <guid>https://www.longblack.co/note/1238</guid>
             <pubDate>Thu, 24 Oct 2024 15:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C유튜브를 보다 보면, 클릭할 수밖에 없는 영상이 꼭 있어요. 쓸데없지만 황당한 궁금증을 해결해 주는 영상들이죠. 예를 들면 이런 거요! ‘공룡은 실제로 존재할까?’<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;유튜브를 보다 보면, 클릭할 수밖에 없는 영상이 꼭 있어요. 쓸데없지만 황당한 궁금증을 해결해 주는 영상들이죠. 예를 들면 이런 거요! ‘공룡은 실제로 존재할까?<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부가 일제 강제징용 피해자에 대해 배상안을 내놨다. 반쪽짜리 방안은 해법이 될 수 없다. (북저널리즘)]]></title>
@@ -167,6 +167,14 @@
             <guid>https://www.bookjournalism.com/books/59628</guid>
             <pubDate>Wed, 22 Feb 2023 09:22:39 GMT</pubDate>
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다음 시대를 만들 새로운 기술이 정의되고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72773</link>
+            <guid>https://www.bookjournalism.com/books/72773</guid>
+            <pubDate>Fri, 25 Oct 2024 08:30:20 GMT</pubDate>
+            <content:encoded><![CDATA[퀄컴과 ARM의 팹리스 전쟁]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635305/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK하이닉스가 올해 3분기에 사상 최대 실적을 냈다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 15 Oct 2024 23:24:31 GMT</pubDate>
             <content:encoded><![CDATA[만나러 갑니다, 외계 생명체]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634930/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국이 콜럼버스의 날을 두고 둘로 쪼개졌다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72626</link>
-            <guid>https://www.bookjournalism.com/books/72626</guid>
-            <pubDate>Mon, 14 Oct 2024 23:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[위인전을 고쳐 쓸 때]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634693/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
