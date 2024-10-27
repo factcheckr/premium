@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Oct 2024 22:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 23:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[일본 자민·공명 연립 여당이 과반 의석 확보에 실패했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72797</link>
+            <guid>https://www.bookjournalism.com/books/72797</guid>
+            <pubDate>Sun, 27 Oct 2024 23:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[이시바, 한 달 만에 위기]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635323/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다음 시대를 만들 새로운 기술이 정의되고 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72773</link>
             <guid>https://www.bookjournalism.com/books/72773</guid>
@@ -255,14 +263,6 @@
             <pubDate>Wed, 16 Oct 2024 23:24:28 GMT</pubDate>
             <content:encoded><![CDATA[한국은 머니 머신]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635035/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NASA가 목성의 위성 유로파를 향해 탐사선을 발사했다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72679</link>
-            <guid>https://www.bookjournalism.com/books/72679</guid>
-            <pubDate>Tue, 15 Oct 2024 23:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[만나러 갑니다, 외계 생명체]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634930/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
