@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-10-31T04:29:13.674Z</updated>
+    <updated>2024-10-31T05:24:49.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1241</id>
         <link href="https://www.longblack.co/note/1241"/>
         <updated>2024-10-30T15:25:32.742Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B여러분은 ‘내 일’을 얼마나 안다고 생각하시나요? 전 10년 넘게 에디터로 일했지만, 여전히 모르겠습니다. 신입 때는 이쯤 되면 원고를 눈감고도 쓸 줄 알았어요. <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;여러분은 ‘내 일’을 얼마나 안다고 생각하시나요? 전 10년 넘게 에디터로 일했지만, 여전히 모르겠습니다. 신입 때는 이쯤 되면 원고를 눈감고도 쓸 줄 알았어요.<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
