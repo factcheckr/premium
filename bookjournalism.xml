@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Nov 2024 22:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Nov 2024 23:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국회가 오늘부터 677조 원 규모의 내년도 정부 예산안을 심의한다.]]></title>
+            <link>https://www.bookjournalism.com/books/72878</link>
+            <guid>https://www.bookjournalism.com/books/72878</guid>
+            <pubDate>Sun, 03 Nov 2024 23:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[677조 예산 전쟁]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635457/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대차와 도요타가 손을 잡았다. 휴머노이드 때문이다.]]></title>
             <link>https://www.bookjournalism.com/books/72857</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 22 Oct 2024 23:24:14 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크는 정치의 꿈을 꾸는가]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635243/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRICS 정상회의가 오늘부터 3일간 러시아 카잔에서 열린다.]]></title>
-            <link>https://www.bookjournalism.com/books/72745</link>
-            <guid>https://www.bookjournalism.com/books/72745</guid>
-            <pubDate>Mon, 21 Oct 2024 23:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 사우스의 꿈]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635233/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
