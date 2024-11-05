@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 22:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 23:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 대선 투표가 5일 0시부터 미국 뉴햄프셔주 딕스빌 노치를 시작으로 미국 전역에서 시작됐다.]]></title>
+            <link>https://www.bookjournalism.com/books/72910</link>
+            <guid>https://www.bookjournalism.com/books/72910</guid>
+            <pubDate>Tue, 05 Nov 2024 23:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[첫 개표 결과는 3 대 3]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635508/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7개 경합주가 승패를 가른다.]]></title>
             <link>https://www.bookjournalism.com/books/72900</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 25 Oct 2024 08:30:20 GMT</pubDate>
             <content:encoded><![CDATA[퀄컴과 ARM의 팹리스 전쟁]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635305/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스가 올해 3분기에 사상 최대 실적을 냈다.]]></title>
-            <link>https://www.bookjournalism.com/books/72767</link>
-            <guid>https://www.bookjournalism.com/books/72767</guid>
-            <pubDate>Thu, 24 Oct 2024 23:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 삼성을 제쳤다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635294/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
