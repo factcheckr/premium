@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-11-05T23:23:18.152Z</updated>
+    <updated>2024-11-06T01:45:12.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1247</id>
         <link href="https://www.longblack.co/note/1247"/>
         <updated>2024-11-05T15:24:25.595Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B손가락만 한 숯 조각 수만 개가 공중에 떠 있어요. 가까이서 들여다보면 투명한 낚싯줄에 매달려 있죠. 공중에 점이 가득 찍힌 것 같아요. 한발 한발 뒤로 물러서면 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;손가락만 한 숯 조각 수만 개가 공중에 떠 있어요. 가까이서 들여다보면 투명한 낚싯줄에 매달려 있죠. 공중에 점이 가득 찍힌 것 같아요. 한발 한발 뒤로 물러서면<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
