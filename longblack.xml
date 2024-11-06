@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-11-06T22:23:45.688Z</updated>
+    <updated>2024-11-06T23:22:15.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1246</id>
         <link href="https://www.longblack.co/note/1246"/>
         <updated>2024-11-06T15:24:24.957Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C다들 빨래 자주 하세요? 저는 빨래 개는 게 너무 귀찮아요…. 그래서 모바일 세탁 서비스를 쓰기 시작했어요. 빨래를 모아 집 앞에 놓고 앱으로 신청하면, 하룻밤 뒤<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;다들 빨래 자주 하세요? 저는 빨래 개는 게 너무 귀찮아요…. 그래서 모바일 세탁 서비스를 쓰기 시작했어요. 빨래를 모아 집 앞에 놓고 앱으로 신청하면, 하룻밤 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
