@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-11-09T14:20:39.014Z</updated>
+    <updated>2024-11-09T15:24:18.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 다큐, 신진희 : N번방⋅딥페이크, 성범죄 피해자의 변호인입니다]]></title>
-        <id>https://www.longblack.co/note/1249</id>
-        <link href="https://www.longblack.co/note/1249"/>
-        <updated>2024-11-08T15:24:06.413Z</updated>
-        <content type="html"><![CDATA[오늘의 노트를 쓰기까지 오랜 시간이 걸렸습니다. 혹여 범죄 사건에 대해 필요 이상으로 구체적인 묘사가 들어갈까 봐 재차 들여다봤죠.&nbsp;오늘 노트의 주인공도 거듭 당부했어요. “이 내<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-11-09T15:23:23.564Z</updated>
+        <content type="html"><![CDATA[K가 들려주는 에누마 이수인 대표의 이야기
+
+보통 ‘느리게 배우는 아이들을 위한 제품’은 좀 더 지루하고 단순할 거라고 생각하곤 하죠. 저는 그런 걸 참을 수 없었어요. 남들보다 느리게 배우는 아이들은 제품을 천천히 사용할 테니까 더 재미있어야 해요. 콘텐츠가 더 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
