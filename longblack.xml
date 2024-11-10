@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-11-10T14:20:03.913Z</updated>
+    <updated>2024-11-10T15:22:31.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-11-09T15:23:23.564Z</updated>
-        <content type="html"><![CDATA[K가 들려주는 에누마 이수인 대표의 이야기
-
-보통 ‘느리게 배우는 아이들을 위한 제품’은 좀 더 지루하고 단순할 거라고 생각하곤 하죠. 저는 그런 걸 참을 수 없었어요. 남들보다 느리게 배우는 아이들은 제품을 천천히 사용할 테니까 더 재미있어야 해요. 콘텐츠가 더 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[대커 켈트너 : ‘인사이드 아웃’의 감정 자문가, 경외심을 파고든 이유]]></title>
+        <id>https://www.longblack.co/note/1250</id>
+        <link href="https://www.longblack.co/note/1250"/>
+        <updated>2024-11-10T15:21:36.016Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B몇 주 전 강화도에서 밤하늘을 올려다봤습니다. 쏟아질 것 같이 많은 별들이, 촘촘히 박혀 있었습니다. 너무 선명해서 어떤 별자리인지도 알아볼 정도였어요. 왜인지 모<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
