@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-11-11T05:24:18.446Z</updated>
+    <updated>2024-11-11T06:33:19.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1250</id>
         <link href="https://www.longblack.co/note/1250"/>
         <updated>2024-11-10T15:21:36.016Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B몇 주 전 강화도에서 밤하늘을 올려다봤습니다. 쏟아질 것 같이 많은 별들이, 촘촘히 박혀 있었습니다. 너무 선명해서 어떤 별자리인지도 알아볼 정도였어요. 왜인지 모<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;몇 주 전 강화도에서 밤하늘을 올려다봤습니다. 쏟아질 것 같이 많은 별들이, 촘촘히 박혀 있었습니다. 너무 선명해서 어떤 별자리인지도 알아볼 정도였어요. 왜인지 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
