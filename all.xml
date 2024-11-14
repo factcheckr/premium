@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Nov 2024 22:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 23:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[삼성전자 주가가 4년 5개월 만에 4만 원대로 떨어졌다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72992</link>
+            <guid>https://www.bookjournalism.com/books/72992</guid>
+            <pubDate>Thu, 14 Nov 2024 23:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[4만전자]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635637/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[테슬라 CEO 일론 머스크가 미국 연방 정부를 개혁한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/72981</link>
             <guid>https://www.bookjournalism.com/books/72981</guid>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 04 Nov 2024 12:47:10 GMT</pubDate>
             <content:encoded><![CDATA[뉴델리의 탁한 겨울]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635484/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회가 오늘부터 677조 원 규모의 내년도 정부 예산안을 심의한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72878</link>
-            <guid>https://www.bookjournalism.com/books/72878</guid>
-            <pubDate>Sun, 03 Nov 2024 23:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[677조 예산 전쟁]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635457/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
