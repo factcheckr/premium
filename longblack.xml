@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-11-13T23:22:45.957Z</updated>
+    <updated>2024-11-14T01:46:57.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1253</id>
         <link href="https://www.longblack.co/note/1253"/>
         <updated>2024-11-13T15:25:55.869Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C기념품이 ‘빵’인 마라톤, 들어 보셨나요? 5km만 달려도 성심당의 튀김소보로, 풍년제과의 초코파이를 받을 수 있죠. 지난 9월 대전에서 열린 이 행사, 이름도 ‘<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;기념품이 ‘빵’인 마라톤, 들어 보셨나요? 5km만 달려도 성심당의 튀김소보로, 풍년제과의 초코파이를 받을 수 있죠. 지난 9월 대전에서 열린 이 행사, 이름도 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
