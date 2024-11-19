@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-11-18T23:24:38.462Z</updated>
+    <updated>2024-11-19T01:53:09.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1257</id>
         <link href="https://www.longblack.co/note/1257"/>
         <updated>2024-11-18T15:26:30.311Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 L18년간 1조원을 넘게 모아, 29개 나라에 ‘깨끗한 물’을 선물한 사람이 있어. 근데 이 사람, 이 일을 하기 전엔 나이트클럽 매니저로 일했어. 10년간 사람들에<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;18년간 1조원을 넘게 모아, 29개 나라에 ‘깨끗한 물’을 선물한 사람이 있어. 근데 이 사람, 이 일을 하기 전엔 나이트클럽 매니저로 일했어. 10년간 사람들<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
