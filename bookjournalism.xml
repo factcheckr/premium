@@ -4,7 +4,7 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 23:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 01:51:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 19 Nov 2024 23:23:42 GMT</pubDate>
             <content:encoded><![CDATA[홍콩 민주화 운동, 유죄]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635801/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초강대국 미국이 전쟁에 지쳤다. 그래서 택한 것이 ‘피 흘리지 않는 전쟁’, 바로 제재다.]]></title>
+            <link>https://www.bookjournalism.com/books/72997</link>
+            <guid>https://www.bookjournalism.com/books/72997</guid>
+            <pubDate>Wed, 20 Nov 2024 01:51:32 GMT</pubDate>
+            <content:encoded><![CDATA[제재 전쟁]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635805/w/646/sanction_war.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[조 바이든 미국 대통령이 우크라이나에 미국의 장거리 미사일로 러시아 본토를 타격하는 것을 허가했다.]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 08 Nov 2024 02:52:50 GMT</pubDate>
             <content:encoded><![CDATA[확성기를 가진 야심가]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635540/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 대통령이 7일 대국민 담화와 기자 회견을 열고 “제 주변의 일로 국민께 염려를 드렸다. 모든 것이 저의 불찰이고 부덕의 소치”라고 사과했다.]]></title>
-            <link>https://www.bookjournalism.com/books/72928</link>
-            <guid>https://www.bookjournalism.com/books/72928</guid>
-            <pubDate>Thu, 07 Nov 2024 23:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[사과는 했지만 특검엔 반대]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635533/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
