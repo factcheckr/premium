@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 22:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 23:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한 해킹 조직이 5년 전 업비트에서 580억 원을 탈취한 것으로 확인됐다.]]></title>
+            <link>https://www.bookjournalism.com/books/73117</link>
+            <guid>https://www.bookjournalism.com/books/73117</guid>
+            <pubDate>Thu, 21 Nov 2024 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[북한 정찰총국의 업비트 해킹]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635825/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 법무부가 구글에 크롬 매각을 명령해 달라고 법원에 요구할 예정이다. 구글의 검색 독점을 해소하기 위해서다.]]></title>
             <link>https://www.bookjournalism.com/books/73109</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 11 Nov 2024 10:26:08 GMT</pubDate>
             <content:encoded><![CDATA[더 강한 달러의 도래]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635572/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 2기를 앞두고 우리나라 경제의 3대 변수인 환율, 금리, 물가가 모두 상승할 수 있다는 우려가 나온다.]]></title>
-            <link>https://www.bookjournalism.com/books/72951</link>
-            <guid>https://www.bookjournalism.com/books/72951</guid>
-            <pubDate>Sun, 10 Nov 2024 23:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[트럼프 2기엔 환율, 금리, 물가가 모두 오를까?]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635566/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
