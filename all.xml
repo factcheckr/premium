@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 07:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 08:31:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,22 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인류는 아직 비인간 존재와 평화롭게 공존하는 법을 모른다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/73136</link>
+            <guid>https://www.bookjournalism.com/books/73136</guid>
+            <pubDate>Fri, 22 Nov 2024 08:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[AI가 고통을 느끼는 미래]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635957/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강제 매각 위기에 놓인 구글 크롬, AI의 복지까지 염려해야 하는 시대를 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/73124</link>
+            <guid>https://www.bookjournalism.com/audio/73124</guid>
+            <pubDate>Fri, 22 Nov 2024 08:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 11월 23일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635932/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[북한 해킹 조직이 5년 전 업비트에서 580억 원을 탈취한 것으로 확인됐다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/73117</link>
             <guid>https://www.bookjournalism.com/books/73117</guid>
@@ -247,22 +263,6 @@
             <pubDate>Tue, 12 Nov 2024 23:22:19 GMT</pubDate>
             <content:encoded><![CDATA[트럼프 2기의 외교·안보 투 톱]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635611/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비트코인이 계속 오른다. 10일 사상 최초로 8만 달러를 돌파했다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72965</link>
-            <guid>https://www.bookjournalism.com/books/72965</guid>
-            <pubDate>Mon, 11 Nov 2024 23:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[비트코인 8만 달러 돌파]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635598/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프가 승리한 까닭은 인플레이션이다. 이걸 해결하기 위해 트럼프는 무엇이든 한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72960</link>
-            <guid>https://www.bookjournalism.com/books/72960</guid>
-            <pubDate>Mon, 11 Nov 2024 10:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[더 강한 달러의 도래]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635572/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
