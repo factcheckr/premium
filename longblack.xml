@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-11-24T23:24:37.970Z</updated>
+    <updated>2024-11-25T01:55:00.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1262</id>
         <link href="https://www.longblack.co/note/1262"/>
         <updated>2024-11-24T15:22:31.152Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B매일 색다른 경험을 하는 사람을 보면 부러워집니다. 제겐 그런 사람이 하나 있어요. 광고기획사 TBWA코리아의 유병욱 크리에이티브 디렉터*죠.*2023년부터 그는 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;매일 색다른 경험을 하는 사람을 보면 부러워집니다. 제겐 그런 사람이 하나 있어요. 광고기획사 TBWA코리아의 유병욱 크리에이티브 디렉터*죠.*2024년부터 그는<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
