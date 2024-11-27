@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-11-27T22:24:10.695Z</updated>
+    <updated>2024-11-27T23:24:20.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1265</id>
         <link href="https://www.longblack.co/note/1265"/>
         <updated>2024-11-27T15:26:04.790Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;11월 26일, 이따금 비바람이 부는 늦가을의 흐린 아침이었습니다. 서울 역삼동 코엑스 3층은 롱블랙 피플로 북적였어요. &lt;롱블랙 컨퍼런스 2025 : 경험과 공<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;11월 26일, 이따금 비바람이 부는 늦가을의 흐린 아침이었습니다. 서울 삼성동 코엑스 3층은 롱블랙 피플로 북적였어요. &lt;롱블랙 컨퍼런스 2025 : 경험과 공<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
