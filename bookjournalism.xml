@@ -4,9 +4,25 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 07:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 08:32:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모델이 커질수록 성능이 향상되는 스케일링 법칙에 한계가 도래한다. 기회다.]]></title>
+            <link>https://www.bookjournalism.com/books/73202</link>
+            <guid>https://www.bookjournalism.com/books/73202</guid>
+            <pubDate>Fri, 29 Nov 2024 08:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[AI의 성장이 멈춘다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636140/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러-우 전쟁 1000일, 덴마크의 방귀세를 다룹니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/73194</link>
+            <guid>https://www.bookjournalism.com/audio/73194</guid>
+            <pubDate>Fri, 29 Nov 2024 08:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 11월 30일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636030/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국은행이 내년 성장률 전망치를 1.9퍼센트로 0.2퍼센트포인트 낮췄다.]]></title>
             <link>https://www.bookjournalism.com/books/73187</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 19 Nov 2024 23:23:42 GMT</pubDate>
             <content:encoded><![CDATA[홍콩 민주화 운동, 유죄]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635801/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초강대국 미국이 전쟁에 지쳤다. 그래서 택한 것이 ‘피 흘리지 않는 전쟁’, 바로 제재다.]]></title>
-            <link>https://www.bookjournalism.com/books/72997</link>
-            <guid>https://www.bookjournalism.com/books/72997</guid>
-            <pubDate>Wed, 20 Nov 2024 01:51:32 GMT</pubDate>
-            <content:encoded><![CDATA[제재 전쟁]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635805/w/646/sanction_war.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조 바이든 미국 대통령이 우크라이나에 미국의 장거리 미사일로 러시아 본토를 타격하는 것을 허가했다.]]></title>
-            <link>https://www.bookjournalism.com/books/73059</link>
-            <guid>https://www.bookjournalism.com/books/73059</guid>
-            <pubDate>Mon, 18 Nov 2024 23:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[3차 세계 대전의 전조]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635739/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
