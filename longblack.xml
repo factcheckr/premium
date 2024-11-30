@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-11-30T14:21:12.658Z</updated>
+    <updated>2024-11-30T15:24:02.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[가장 다정한 전염 : TED가 좋은 이야기를 전하면, 세상이 정말 바뀔까?]]></title>
-        <id>https://www.longblack.co/note/1267</id>
-        <link href="https://www.longblack.co/note/1267"/>
-        <updated>2024-11-29T15:26:06.475Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;빨간색 테드TED* 로고가 붙은 영상, 혹시 본 적 있으세요? TED는 한 주제를 18분 안팎으로 파고드는 강연이에요. ‘지식 강연의 모범’으로 꼽히죠.*Tech<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-11-30T15:23:07.724Z</updated>
+        <content type="html"><![CDATA[B가 들려주는 남형도 기자의 이야기
+
+“결국 인간은 모든 생각이나 행동을 할 때 ‘나’를 향하게 돼 있어요. 그래서 ‘남의 일’처럼 읽히게 하면 안 됩니다. 나와 상관있는 일, 나도 겪을 수 있는 일, 내가 참여할 수 있는 일이란 걸 알려줘야 하죠.”_남형도 머니투<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
