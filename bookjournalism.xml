@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 22:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 23:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더불어민주당이 4조 원을 깎은 내년도 예산안을 오늘 본회의에 상정한다.]]></title>
+            <link>https://www.bookjournalism.com/books/73213</link>
+            <guid>https://www.bookjournalism.com/books/73213</guid>
+            <pubDate>Sun, 01 Dec 2024 23:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[예산 전쟁]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636153/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모델이 커질수록 성능이 향상되는 스케일링 법칙에 한계가 도래한다. 기회다.]]></title>
             <link>https://www.bookjournalism.com/books/73202</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 20 Nov 2024 23:27:37 GMT</pubDate>
             <content:encoded><![CDATA[크롬을 팔아라]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635817/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍콩 법원이 2019년 홍콩 민주화 운동에 참여한 47명 중 45명에게 징역형을 선고했다.]]></title>
-            <link>https://www.bookjournalism.com/books/73067</link>
-            <guid>https://www.bookjournalism.com/books/73067</guid>
-            <pubDate>Tue, 19 Nov 2024 23:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[홍콩 민주화 운동, 유죄]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635801/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
