@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 22:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 23:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국과 중국이 서로 수출 통제를 강화했다.]]></title>
+            <link>https://www.bookjournalism.com/books/73232</link>
+            <guid>https://www.bookjournalism.com/books/73232</guid>
+            <pubDate>Tue, 03 Dec 2024 23:24:41 GMT</pubDate>
+            <content:encoded><![CDATA[제재 전쟁]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636172/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2025년 한국 공교육에 세계 최초로 AI 교과서가 도입된다.]]></title>
             <link>https://www.bookjournalism.com/books/73223</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 22 Nov 2024 08:31:38 GMT</pubDate>
             <content:encoded><![CDATA[2024년 11월 23일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635932/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 해킹 조직이 5년 전 업비트에서 580억 원을 탈취한 것으로 확인됐다.]]></title>
-            <link>https://www.bookjournalism.com/books/73117</link>
-            <guid>https://www.bookjournalism.com/books/73117</guid>
-            <pubDate>Thu, 21 Nov 2024 23:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[북한 정찰총국의 업비트 해킹]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635825/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
