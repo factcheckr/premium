@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-12-08T14:22:22.198Z</updated>
+    <updated>2024-12-08T15:25:23.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-12-07T15:23:24.486Z</updated>
-        <content type="html"><![CDATA[C가 들려주는 문화심리학자 김정운의 이야기
-
-“사람들은 책을 한 번에 쭉 읽는 게 좋다고 생각하지만, 그러면 저자의 생각을 따라가기 급급해요. 색인이나 목차를 활용해, 내가 필요한 지식을 찾아나가 보세요. 내 생각이 책을 자꾸만 종으로 꿰뚫을 때, 나만의 생각이 만<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[빛과 실 : 한강, 폭력과 고통에 대한 질문과 그 너머의 사랑을 말하다]]></title>
+        <id>https://www.longblack.co/note/1283</id>
+        <link href="https://www.longblack.co/note/1283"/>
+        <updated>2024-12-08T15:24:32.596Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;어느 때보다도 혼란스러웠던, 12월의 첫 주였습니다. 그 마지막 날에 한강 작가의 목소리를 들었습니다. 스웨덴 시각으로 12월 7일, 스톡홀름의 한림원에서 ‘20<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
