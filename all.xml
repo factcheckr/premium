@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 22:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 23:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -19,7 +19,7 @@
             <link>https://publy.co/content/7730?fr=category</link>
             <guid>https://publy.co/content/7730?fr=category</guid>
             <pubDate>Fri, 06 Dec 2024 06:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7730?fr=category"><img class="rounded-xl bg-slate-50 border border-slate-300" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://newneek.imgix.net/images/2024/12/05/1733364783_XAeO13H7LkxMxWWnCCe0kWTse3mgKaZUDroijxLw.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div><div class="pt-2 d-flex align-items-start justify-content-between"><a href="/content/7730?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0 pt-1 false">2024년에 독자들이 가장 많이 읽은 템플릿 콘텐츠 TOP5</h6></a><div class=" pb-1"><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div></div><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 2분 분량 · 86%가 만족</p></div></div></div></div></div>]]></content:encoded>
+            <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7730?fr=category"><img class="rounded-xl bg-slate-50 border border-slate-300" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://newneek.imgix.net/images/2024/12/05/1733364783_XAeO13H7LkxMxWWnCCe0kWTse3mgKaZUDroijxLw.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div><div class="pt-2 d-flex align-items-start justify-content-between"><a href="/content/7730?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0 pt-1 false">2024년에 독자들이 가장 많이 읽은 템플릿 콘텐츠 TOP5</h6></a><div class=" pb-1"><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div></div><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 2분 분량 · 88%가 만족</p></div></div></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (퍼블리)]]></title>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[12·3 비상계엄 사태와 관련해 직권 남용과 내란 혐의로 수사를 받는 윤석열 대통령이 출국 금지를 당했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/73363</link>
+            <guid>https://www.bookjournalism.com/books/73363</guid>
+            <pubDate>Mon, 09 Dec 2024 23:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 출국 금지]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636711/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국민의힘 한동훈 대표와 한덕수 국무총리가 8일 대국민 담화문을 통해 현재의 정국 상황을 조속히 수습하고 국정 공백이 없게 하겠다고 밝혔다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/73284</link>
             <guid>https://www.bookjournalism.com/books/73284</guid>
@@ -255,14 +263,6 @@
             <pubDate>Thu, 28 Nov 2024 23:24:02 GMT</pubDate>
             <content:encoded><![CDATA[내년 경제 1퍼센트대 성장]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636019/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스라엘과 레바논 무장 단체 헤즈볼라가 휴전에 합의했다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/73177</link>
-            <guid>https://www.bookjournalism.com/books/73177</guid>
-            <pubDate>Wed, 27 Nov 2024 23:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[이스라엘·헤즈볼라 휴전]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636013/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
