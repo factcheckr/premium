@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 21:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 22:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 대통령이 담화를 발표했다. 민심은 더욱 거세진다.]]></title>
+            <link>https://www.bookjournalism.com/books/73401</link>
+            <guid>https://www.bookjournalism.com/books/73401</guid>
+            <pubDate>Thu, 12 Dec 2024 22:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[1표 남았다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636845/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12월 3일 밤 윤석열 대통령의 비상계엄 선포 전후 국무회의 상황이 드러났다.]]></title>
             <link>https://www.bookjournalism.com/books/73383</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 01 Dec 2024 23:23:20 GMT</pubDate>
             <content:encoded><![CDATA[예산 전쟁]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636153/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델이 커질수록 성능이 향상되는 스케일링 법칙에 한계가 도래한다. 기회다.]]></title>
-            <link>https://www.bookjournalism.com/books/73202</link>
-            <guid>https://www.bookjournalism.com/books/73202</guid>
-            <pubDate>Fri, 29 Nov 2024 08:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[AI의 성장이 멈춘다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636140/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
