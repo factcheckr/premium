@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 10:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 11:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636916/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[구글이 미래를 선보였다. 비트코인은 아직 안전하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/73389</link>
+            <guid>https://www.bookjournalism.com/books/73389</guid>
+            <pubDate>Fri, 13 Dec 2024 11:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[검산을 잘하게 된 양자 컴퓨터]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636986/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 대통령이 담화를 발표했다. 민심은 더욱 거세진다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/73401</link>
             <guid>https://www.bookjournalism.com/books/73401</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 03 Dec 2024 23:24:41 GMT</pubDate>
             <content:encoded><![CDATA[제재 전쟁]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636172/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025년 한국 공교육에 세계 최초로 AI 교과서가 도입된다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/73223</link>
-            <guid>https://www.bookjournalism.com/books/73223</guid>
-            <pubDate>Mon, 02 Dec 2024 23:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[AI 디지털 교과서]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636163/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
