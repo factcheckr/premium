@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 07:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 08:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세르게이 브린도 탐내는 비행선, 미국 오리건주의 AI 가짜 뉴스 공장을 이야기합니다.]]></title>
+            <link>https://www.bookjournalism.com/audio/73422</link>
+            <guid>https://www.bookjournalism.com/audio/73422</guid>
+            <pubDate>Fri, 13 Dec 2024 08:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 12월 14일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636916/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 대통령이 담화를 발표했다. 민심은 더욱 거세진다.]]></title>
             <link>https://www.bookjournalism.com/books/73401</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 02 Dec 2024 23:26:21 GMT</pubDate>
             <content:encoded><![CDATA[AI 디지털 교과서]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636163/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더불어민주당이 4조 원을 깎은 내년도 예산안을 오늘 본회의에 상정한다.]]></title>
-            <link>https://www.bookjournalism.com/books/73213</link>
-            <guid>https://www.bookjournalism.com/books/73213</guid>
-            <pubDate>Sun, 01 Dec 2024 23:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[예산 전쟁]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636153/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
