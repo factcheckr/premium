@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-12-14T14:21:28.274Z</updated>
+    <updated>2024-12-14T15:24:36.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[창조적 행위 : 아델·에드 시런의 구루, “인풋 쌓기 전에, 마음부터 열어라”]]></title>
-        <id>https://www.longblack.co/note/1284</id>
-        <link href="https://www.longblack.co/note/1284"/>
-        <updated>2024-12-13T15:26:08.780Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;한 연사가 TV 강연에서 이런 이야길 했어요.“사회인이라면 내가 좋아하는 것만 할 수 없습니다. 적당히 타협하는 것이 더 현명할 때도 있죠.”맞는 말입니다. 하지<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-12-14T15:23:40.367Z</updated>
+        <content type="html"><![CDATA[C가 들려주는 광고 회사 아이디엇의 이야기
+
+“저는 풍족한 사람이 아니었잖아요. 돈 없어서 몇만원짜리로 문제를 해결해야 했고, 학벌도 인맥도 부족해서 도와줄 사람도 없었고. 그런데 그 모든 걸 이겨내는 과정에서 아이디엇의 크리에이티브가 나왔거든요. 결국 제 가난과 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
