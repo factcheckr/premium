@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 01:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 03:02:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -19,7 +19,7 @@
             <link>https://publy.co/content/7709?fr=category</link>
             <guid>https://publy.co/content/7709?fr=category</guid>
             <pubDate>Tue, 17 Dec 2024 07:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7709?fr=category"><img class="rounded-xl bg-slate-50 border border-slate-300" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://newneek.imgix.net/images/2024/12/14/1734128629_6T1aX6Y6zTAryWFf8gnFgM1mMavauWYqGsZbHT3f.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex pt-2 pb-1"><div class="my-auto"><p class="font-size-xsmall text-primary-900">일잘러의 업무스킬</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><div><a href="/content/7709?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0 false false">트렌드는 공부하는 것이 아니에요: 생활변화관측소 박현영 소장 인터뷰</h6></a></div><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 10분 분량</p></div></div></div></div></div>]]></content:encoded>
+            <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7709?fr=category"><img class="rounded-xl bg-slate-50 border border-slate-300" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://newneek.imgix.net/images/2024/12/14/1734128629_6T1aX6Y6zTAryWFf8gnFgM1mMavauWYqGsZbHT3f.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex pt-2 pb-1"><div class="my-auto"><p class="font-size-xsmall text-primary-900">일잘러의 업무스킬</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><div><a href="/content/7709?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0 false false">트렌드는 공부하는 것이 아니에요: 생활변화관측소 박현영 소장 인터뷰</h6></a></div><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 10분 분량 · 75%가 만족</p></div></div></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (퍼블리)]]></title>
@@ -169,12 +169,20 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[네덜란드에는 ‘닉센’이라는 문화가 있습니다. 잠시 게으름뱅이가 되는 시간이죠. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/73629</link>
+            <guid>https://www.bookjournalism.com/books/73629</guid>
+            <pubDate>Thu, 19 Dec 2024 03:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[몰입의 기술]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/638147/w/646/r241219.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이 범행을 ‘사적 제재’라 표현하기에는 좀 부족한 구석이 있습니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/73491</link>
             <guid>https://www.bookjournalism.com/books/73491</guid>
             <pubDate>Wed, 18 Dec 2024 05:23:41 GMT</pubDate>
             <content:encoded><![CDATA[한 청년이 미국의 안티히어로로 등극했습니다.]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/637965/w/646/r241218.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/638151/w/646/r241218.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안창호 재판관의 보충 의견은 반향을 일으키지 않았습니다. ‘깔끔하고 통쾌한’ 탄핵 주문에 사족을 달아 옥의 티였다는 의견이 더 많았죠. (북저널리즘)]]></title>
@@ -206,7 +214,7 @@
             <guid>https://www.bookjournalism.com/books/73389</guid>
             <pubDate>Fri, 13 Dec 2024 11:20:53 GMT</pubDate>
             <content:encoded><![CDATA[검산을 잘하게 된 양자 컴퓨터]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/637432/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/638142/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 대통령이 담화를 발표했다. 민심은 더욱 거세진다. (북저널리즘)]]></title>
@@ -214,7 +222,7 @@
             <guid>https://www.bookjournalism.com/books/73401</guid>
             <pubDate>Thu, 12 Dec 2024 22:25:10 GMT</pubDate>
             <content:encoded><![CDATA[1표 남았다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636845/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/638144/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12월 3일 밤 윤석열 대통령의 비상계엄 선포 전후 국무회의 상황이 드러났다. (북저널리즘)]]></title>
@@ -222,7 +230,7 @@
             <guid>https://www.bookjournalism.com/books/73383</guid>
             <pubDate>Wed, 11 Dec 2024 23:24:08 GMT</pubDate>
             <content:encoded><![CDATA[5분짜리 국무회의]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636783/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/638153/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[673조 3000억 원 규모의 내년도 예산안이 10일 국회 본회의를 통과했다. (북저널리즘)]]></title>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 06 Dec 2024 10:27:21 GMT</pubDate>
             <content:encoded><![CDATA[아마존의 큰 그림]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636385/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 제재 전쟁, 애기봉 스타벅스를 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/73266</link>
-            <guid>https://www.bookjournalism.com/audio/73266</guid>
-            <pubDate>Mon, 09 Dec 2024 04:30:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 12월 7일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636658/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
