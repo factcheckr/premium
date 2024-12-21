@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-12-21T14:19:57.596Z</updated>
+    <updated>2024-12-21T15:21:54.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[인생의 의미 : “왜 살아야 하나?” 삶의 끝에 선 인류학자가 답하다]]></title>
-        <id>https://www.longblack.co/note/1291</id>
-        <link href="https://www.longblack.co/note/1291"/>
-        <updated>2024-12-20T15:23:31.106Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;의미 있는 인생이란 무엇일까요.참 어려운 질문입니다. 누군가는 사랑하는 사람과 맞이하는 아침이 가장 의미 있는 순간이라 말합니다. 누군가는 원하던 커리어를 쌓으며<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-12-21T15:20:59.585Z</updated>
+        <content type="html"><![CDATA[B가 들려주는 작가 정서경의 이야기
+
+“쉽게 쓰는 사람은 고민하지 않아요. 하지만 ‘어떻게 써야 하나’ 고민하는 사람들은 계속해서 어떻게든 방법을 찾아내요. 영화를 찍는 일도 그래요. 처음에 잘하던 사람들은 곧 사라져요. 너무 쉬워서 그런가 봐.”_정서경 시나리오 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
