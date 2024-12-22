@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-12-22T22:21:18.331Z</updated>
+    <updated>2024-12-22T23:23:01.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1293</id>
         <link href="https://www.longblack.co/note/1293"/>
         <updated>2024-12-22T15:20:50.064Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;다음 주면 벌써 크리스마스예요! 매년 이맘때면 추운 몸과 마음을 데워줄 영화를 찾게 돼요.&nbsp;제가 요즘 애니메이션 영화를 보는 이유예요. 영화 속 주인공은 늘 의지<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;이번 주가 벌써 크리스마스예요! 매년 이맘때면 추운 몸과 마음을 데워줄 영화를 찾게 돼요.&nbsp;제가 요즘 애니메이션 영화를 보는 이유예요. 영화 속 주인공은 늘 의지<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
