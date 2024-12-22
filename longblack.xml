@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-12-22T14:22:29.821Z</updated>
+    <updated>2024-12-22T15:21:45.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2024-12-21T15:20:59.585Z</updated>
-        <content type="html"><![CDATA[B가 들려주는 작가 정서경의 이야기
-
-“쉽게 쓰는 사람은 고민하지 않아요. 하지만 ‘어떻게 써야 하나’ 고민하는 사람들은 계속해서 어떻게든 방법을 찾아내요. 영화를 찍는 일도 그래요. 처음에 잘하던 사람들은 곧 사라져요. 너무 쉬워서 그런가 봐.”_정서경 시나리오 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[윤나라 : 겨울왕국・모아나 애니메이터, “몰입감은 결점과 디테일이 만든다”]]></title>
+        <id>https://www.longblack.co/note/1293</id>
+        <link href="https://www.longblack.co/note/1293"/>
+        <updated>2024-12-22T15:20:50.064Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;다음 주면 벌써 크리스마스예요! 매년 이맘때면 추운 몸과 마음을 데워줄 영화를 찾게 돼요.&nbsp;제가 요즘 애니메이션 영화를 보는 이유예요. 영화 속 주인공은 늘 의지<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
