@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 10:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 11:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[트럼프에게 관료는 집권 1기 전까진 ‘무능한 집단’이었고, 집권 1기에 ‘내부의 적’이 됐고, 2기를 앞두고는 ‘딥 스테이트’가 됐습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/73786</link>
+            <guid>https://www.bookjournalism.com/books/73786</guid>
+            <pubDate>Mon, 23 Dec 2024 11:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[도지는 미국 연방 정부를 개조할 수 있을까요? ①]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/638721/w/646/bkjn_review_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AI는 할 수 없는 네 가지 이야기, 럭셔리 브랜드의 위기를 이야기합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/73778</link>
             <guid>https://www.bookjournalism.com/audio/73778</guid>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 09 Dec 2024 23:24:55 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 출국 금지]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636773/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 한동훈 대표와 한덕수 국무총리가 8일 대국민 담화문을 통해 현재의 정국 상황을 조속히 수습하고 국정 공백이 없게 하겠다고 밝혔다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/73284</link>
-            <guid>https://www.bookjournalism.com/books/73284</guid>
-            <pubDate>Sun, 08 Dec 2024 23:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[질서 있는 퇴진이냐, 탄핵이냐]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636410/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
