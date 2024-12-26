@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 07:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 08:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,12 +169,12 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브리태니커의 가치는 사람에게서 나옵니다. 얼굴과 이름을 가진 사람 말입니다. (북저널리즘)]]></title>
+            <title><![CDATA[브리태니커가 IPO를 예정하고 있습니다. 기업 가치 10억 달러가 목표입니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/73831</link>
             <guid>https://www.bookjournalism.com/books/73831</guid>
             <pubDate>Thu, 26 Dec 2024 07:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[지식을 세일즈한 사전]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/639288/w/646/r241226.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[시대가 요구하는 지식의 형태는 따로 있습니다.]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/639294/w/646/r241226.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정부의 비효율성을 최소화하려는 노력은 물론 필요하지만, 정부의 비효율성은 포용성, 책임성, 그리고 민주주의라는 가치를 지키기 위한 비용으로 봐야 합니다. (북저널리즘)]]></title>
