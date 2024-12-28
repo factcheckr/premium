@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-12-28T14:20:31.864Z</updated>
+    <updated>2024-12-28T15:22:08.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[어둠 속의 희망 : 희망을 말하기 낯간지러운 당신에게]]></title>
-        <id>https://www.longblack.co/note/1282</id>
-        <link href="https://www.longblack.co/note/1282"/>
-        <updated>2024-12-27T15:23:25.366Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;새해를 앞둔 마지막 토요일, “해 뜨기 전이 가장 어둡다”는 말이 떠오르는 주말입니다. 올해를 차분히 돌아보던 와중에, 힘찬 신년을 준비하고 싶어 책을 하나 골랐<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2024-12-28T15:21:12.284Z</updated>
+        <content type="html"><![CDATA[C가 들려주는 행복학자 서은국의 이야기
+
+“많은 사람은 인생을 ‘한방’, 그러니까 강도라고 생각해요. ‘죽어라 고생해서 강남에 아파트를 사면, 좋은 대학 간판을 달면, 고시를 패스하면 행복할 거야!’ 행복하긴 합니다. 그런데 얼마나? 일주일 혹은 몇 달. 아무리 큰<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
