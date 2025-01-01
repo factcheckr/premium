@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 07:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 08:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스의 시인이자 비평가인 샤를 보들레르에게 현대는 ‘사라지는 것’이었습니다.]]></title>
+            <link>https://www.bookjournalism.com/books/73907</link>
+            <guid>https://www.bookjournalism.com/books/73907</guid>
+            <pubDate>Wed, 01 Jan 2025 08:29:59 GMT</pubDate>
+            <content:encoded><![CDATA[AI 시대를 둘러보는 산책자의 새해 인사]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/639938/w/646/r250101.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오겜2가 기대 이하라는 평가가 많습니다. 여기서 근본적인 물음이 생깁니다. 왜 속편은 대체로 전편보다 좋은 평을 받지 못할까요?]]></title>
             <link>https://www.bookjournalism.com/books/73867</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 13 Dec 2024 08:32:50 GMT</pubDate>
             <content:encoded><![CDATA[2024년 12월 14일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/637423/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글이 미래를 선보였다. 비트코인은 아직 안전하다.]]></title>
-            <link>https://www.bookjournalism.com/books/73389</link>
-            <guid>https://www.bookjournalism.com/books/73389</guid>
-            <pubDate>Fri, 13 Dec 2024 11:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[검산을 잘하게 된 양자 컴퓨터]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/638142/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
