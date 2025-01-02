@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 07:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 08:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[넷플릭스에 맞서기 위해 돈을 들고 아등바등하고 있는 것은 그 어떤 방송사도 아닌, SK와 CJ입니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/73915</link>
+            <guid>https://www.bookjournalism.com/books/73915</guid>
+            <pubDate>Thu, 02 Jan 2025 08:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[SBS는 파운드리의 길을 갑니다.]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/640091/w/646/r250102.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[프랑스의 시인이자 비평가인 샤를 보들레르에게 현대는 ‘사라지는 것’이었습니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/73907</link>
             <guid>https://www.bookjournalism.com/books/73907</guid>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 16 Dec 2024 08:34:25 GMT</pubDate>
             <content:encoded><![CDATA[우리는 시간의 가장자리에 살고 있습니다.]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/637932/w/646/r241216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세르게이 브린도 탐내는 비행선, 미국 오리건주의 AI 가짜 뉴스 공장을 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/73422</link>
-            <guid>https://www.bookjournalism.com/audio/73422</guid>
-            <pubDate>Fri, 13 Dec 2024 08:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 12월 14일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/637423/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
