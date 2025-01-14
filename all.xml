@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 06:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 07:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[로스앤젤레스가 일주일째 불타고 있습니다. 황망한 상황 앞에서 누군가는 원망할 대상을 찾기 마련입니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74429</link>
+            <guid>https://www.bookjournalism.com/books/74429</guid>
+            <pubDate>Tue, 14 Jan 2025 07:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[산불이 지나간 자리에 남은 것 ①]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/642184/w/646/r250114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트럼프가 그린란드를 사고 싶어 합니다. 농담이 아닙니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/74403</link>
             <guid>https://www.bookjournalism.com/books/74403</guid>
@@ -255,14 +263,6 @@
             <pubDate>Thu, 26 Dec 2024 07:22:13 GMT</pubDate>
             <content:encoded><![CDATA[시대가 요구하는 지식의 형태는 따로 있습니다.]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/639294/w/646/r241226.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부의 비효율성을 최소화하려는 노력은 물론 필요하지만, 정부의 비효율성은 포용성, 책임성, 그리고 민주주의라는 가치를 지키기 위한 비용으로 봐야 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/73790</link>
-            <guid>https://www.bookjournalism.com/books/73790</guid>
-            <pubDate>Tue, 24 Dec 2024 08:29:46 GMT</pubDate>
-            <content:encoded><![CDATA[도지는 미국 연방 정부를 개조할 수 있을까요? ②]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/638908/w/646/r241224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
