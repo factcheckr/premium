@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 06:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 07:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://publy.co/content/7745?fr=category</link>
             <guid>https://publy.co/content/7745?fr=category</guid>
             <pubDate>Tue, 14 Jan 2025 04:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7745?fr=category"><img class="rounded-xl bg-slate-50 border border-slate-300" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://newneek.imgix.net/images/2025/01/10/1736494515_NuGYOmnEip2AOxKJrRil2bOMsACKoKnli2fw44Ka.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex pt-2 pb-1"><div class="my-auto"><p class="font-size-xsmall text-primary-900">리더십/매니지먼트</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><div><a href="/content/7745?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0 false false">다시 쓰는 '리더'의 의미: 예비 리더를 위한 4단계 준비 체크리스트</h6></a></div><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 11분 분량 · 80%가 만족</p></div></div></div></div></div>]]></content:encoded>
+            <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7745?fr=category"><img class="rounded-xl bg-slate-50 border border-slate-300" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://newneek.imgix.net/images/2025/01/10/1736494515_NuGYOmnEip2AOxKJrRil2bOMsACKoKnli2fw44Ka.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex pt-2 pb-1"><div class="my-auto"><p class="font-size-xsmall text-primary-900">리더십/매니지먼트</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#64748B"></path></svg></button></div></div><div><div><a href="/content/7745?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0 false false">다시 쓰는 '리더'의 의미: 예비 리더를 위한 4단계 준비 체크리스트</h6></a></div><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 11분 분량 · 82%가 만족</p></div></div></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (퍼블리)]]></title>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[능력만 된다면 멋진 곳에 멋진 집을 짓고 살 수 있다는 생각은 틀립니다. 인간은 단 한 번도 자연을 정복한 적이 없습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74446</link>
+            <guid>https://www.bookjournalism.com/books/74446</guid>
+            <pubDate>Wed, 15 Jan 2025 07:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[산불이 지나간 자리에 남은 것 ②]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/642360/w/646/r250114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로스앤젤레스가 일주일째 불타고 있습니다. 황망한 상황 앞에서 누군가는 원망할 대상을 찾기 마련입니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/74429</link>
             <guid>https://www.bookjournalism.com/books/74429</guid>
@@ -255,14 +263,6 @@
             <pubDate>Fri, 27 Dec 2024 04:27:29 GMT</pubDate>
             <content:encoded><![CDATA[2024년 12월 28일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/641261/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브리태니커가 IPO를 예정하고 있습니다. 기업 가치 10억 달러가 목표입니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/73831</link>
-            <guid>https://www.bookjournalism.com/books/73831</guid>
-            <pubDate>Thu, 26 Dec 2024 07:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[시대가 요구하는 지식의 형태는 따로 있습니다.]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/639294/w/646/r241226.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
