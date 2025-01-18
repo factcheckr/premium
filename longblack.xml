@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-01-18T14:20:07.019Z</updated>
+    <updated>2025-01-18T15:22:02.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[리사 제노바 : 20년 기억 연구자, “우린 왜 기억력 높이기에 집착할까요?”]]></title>
-        <id>https://www.longblack.co/note/1316</id>
-        <link href="https://www.longblack.co/note/1316"/>
-        <updated>2025-01-17T15:22:59.242Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;요즘 할 일이 늘어서일까요? 깜빡하는 일이 늘었어요. 매일 열심히 사는 것 같아도, 기억에 남은 게 없을 때도 많고요.&nbsp;이 고민을 풀고 싶어 ‘기억 전문가’를 찾<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2025-01-18T15:21:10.577Z</updated>
+        <content type="html"><![CDATA[B가 들려주는 시인 문보영의 이야기
+
+2024년을 사는 문보영 시인은 클리셰에 묶이지 않습니다. 대신 독자가 좋아할 ‘유머’를 전하려 부지런히 애쓰죠. “‘제 글을 읽어주는 대신 저는 당신을 좀 웃겨 주겠습니다.’ 이런 태도에요. 그래야 동등한 교환 같거든요. 일방<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
