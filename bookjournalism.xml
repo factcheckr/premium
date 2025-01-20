@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 06:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 07:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 문제는 3단계입니다. 가자 지구를 재건할 때 가자 지구를 누가 통치할 것인가를 두고 양측이 충돌할 수 있습니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74471</link>
+            <guid>https://www.bookjournalism.com/books/74471</guid>
+            <pubDate>Mon, 20 Jan 2025 07:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[가자 전쟁이 잠시 멈췄습니다.]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/642744/w/646/r250120.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파리협정의 목표가 깨진 것도 아니고 세상이 당장 끝나는 것도 아닙니다. 그러나 위험은 분명히 다가오고 있습니다.]]></title>
             <link>https://www.bookjournalism.com/books/74420</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 01 Jan 2025 08:29:59 GMT</pubDate>
             <content:encoded><![CDATA[AI 시대를 둘러보는 산책자의 새해 인사]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/639938/w/646/r250101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오겜2가 기대 이하라는 평가가 많습니다. 여기서 근본적인 물음이 생깁니다. 왜 속편은 대체로 전편보다 좋은 평을 받지 못할까요?]]></title>
-            <link>https://www.bookjournalism.com/books/73867</link>
-            <guid>https://www.bookjournalism.com/books/73867</guid>
-            <pubDate>Mon, 30 Dec 2024 08:30:03 GMT</pubDate>
-            <content:encoded><![CDATA[속편이 전편보다 재미없는 다섯 가지 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/639838/w/646/r241229.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
