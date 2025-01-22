@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 06:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 07:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[그들의 폭력은 어떻게 정당화되었고 실행되었을까요. 그들만의 세계관을 만든 것은 그들만의 언어입니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74518</link>
+            <guid>https://www.bookjournalism.com/books/74518</guid>
+            <pubDate>Wed, 22 Jan 2025 07:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[극우의 탄생]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643040/w/646/r250122.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[메시아 콤플렉스에 빠진 세계 최강대국의 새 지도자는 구원과 해방에 거래를 접목합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/74499</link>
             <guid>https://www.bookjournalism.com/books/74499</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 21 Jan 2025 12:44:30 GMT</pubDate>
             <content:encoded><![CDATA[2025년 1월 4일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/640309/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스에 맞서기 위해 돈을 들고 아등바등하는 것은 그 어떤 방송사도 아닌, CJ와 SK입니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/73915</link>
-            <guid>https://www.bookjournalism.com/books/73915</guid>
-            <pubDate>Tue, 21 Jan 2025 12:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[SBS는 파운드리의 길을 갑니다.]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/640099/w/646/r250102.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
