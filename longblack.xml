@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-02-02T14:19:26.562Z</updated>
+    <updated>2025-02-02T15:23:11.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2025-02-01T15:23:16.295Z</updated>
-        <content type="html"><![CDATA[C가 들려주는 뉴욕의 전설적인 목수 마크 엘리슨의 이야기
-
-“‘제가 해볼게요’라고 말할 용기가 있는 사람에게 언제나 기회가 주어진다 (⋯) 까다롭고 힘든 프로젝트를 맡는 것은 망설일 필요가 없다. 그 때문에 몇 날 몇 주를 스스로를 의심하고 스트레스로 불편한 속을 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[로웨나 버드 : 러쉬의 공동 창립자가 전하는, 신념을 지키며 일하는 법]]></title>
+        <id>https://www.longblack.co/note/1330</id>
+        <link href="https://www.longblack.co/note/1330"/>
+        <updated>2025-02-02T15:22:14.152Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;‘가치 있는 일을 하고 싶다’는 마음, 많이들 품고 있을 겁니다. 하지만 쉽지 않습니다. 나와 같은 사명을 품은 회사를 찾기가 어렵거든요. 그렇다고 모두가 창업을<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
