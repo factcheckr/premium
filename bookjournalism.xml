@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 23:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 01:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트럼프는 다보스 포럼을 휘어잡았습니다. 다보스 현장에는 존재하지도 않았는데 말이죠.]]></title>
+            <link>https://www.bookjournalism.com/books/74548</link>
+            <guid>https://www.bookjournalism.com/books/74548</guid>
+            <pubDate>Mon, 03 Feb 2025 01:46:16 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 경제학의 출현]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643251/w/646/r250203.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국의 한 스타트업이 증명했습니다. AI는 돈의 문제가 아니라 과학의 문제라는 것을 말이죠.]]></title>
             <link>https://www.bookjournalism.com/books/74538</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 Jan 2025 12:44:30 GMT</pubDate>
             <content:encoded><![CDATA[새로운 메타가 옵니다.]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/640820/w/646/r250108.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[독일은 딜레마에 빠집니다. 2021년 기준 독일의 전력 생산에서 천연가스가 차지하는 비중은 15퍼센트였습니다. 그중 절반을 러시아에서 들여오고 있었습니다.]]></title>
-            <link>https://www.bookjournalism.com/books/73982</link>
-            <guid>https://www.bookjournalism.com/books/73982</guid>
-            <pubDate>Tue, 21 Jan 2025 12:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[러시아 천연가스와 독일 정치의 50년사 ②]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/642282/w/646/r250107.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
