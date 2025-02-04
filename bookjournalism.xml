@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 05:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 06:32:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 어떤 세대를 이해하지 못한다면, 그것은 우리가 그 세대의 삶을 살아보지 않았기 때문입니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74560</link>
+            <guid>https://www.bookjournalism.com/books/74560</guid>
+            <pubDate>Tue, 04 Feb 2025 06:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[노인은 누구인가]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643361/w/646/r250204.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트럼프는 다보스 포럼을 휘어잡았습니다. 다보스 현장에는 존재하지도 않았는데 말이죠.]]></title>
             <link>https://www.bookjournalism.com/books/74548</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 Jan 2025 12:44:30 GMT</pubDate>
             <content:encoded><![CDATA[우븐 시티가 엮어 내려는 미래]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/640884/w/646/r250109.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대안적 진실의 시대, 팩트 체크는 모순적인 일입니다.]]></title>
-            <link>https://www.bookjournalism.com/books/73992</link>
-            <guid>https://www.bookjournalism.com/books/73992</guid>
-            <pubDate>Tue, 21 Jan 2025 12:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 메타가 옵니다.]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/640820/w/646/r250108.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
