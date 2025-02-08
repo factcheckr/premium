@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-02-08T14:20:28.840Z</updated>
+    <updated>2025-02-08T15:21:32.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[악마와 함께 춤을 : 화를 억누르면, 가장 먼저 사라지는 건 ‘나 자신’이다]]></title>
-        <id>https://www.longblack.co/note/1336</id>
-        <link href="https://www.longblack.co/note/1336"/>
-        <updated>2025-02-07T15:23:47.474Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;“참아야 복이 옵니다.”“참으면 병납니다.”살다 보면 이런 이야길 자주 듣죠. 어떻게 해야 할지 헷갈릴 때가 많습니다. 기분 나쁜 일 앞에서 감정을 억눌러야 할지<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2025-02-08T15:20:37.378Z</updated>
+        <content type="html"><![CDATA[C가 들려주는 작가 장류진의 이야기
+
+“비참함에도, 사람들은 어떻게든 살아가더라고요. 그 안에서 기쁨도 찾고요. 젊은 세대는 마냥 불행하기만 한, 납작한 세대가 아니다. 위에서 내려다보지 않고 진짜 속살을 보면, 실제로는 올록볼록에 가깝다는 얘기를 하고 싶었습니다.<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
