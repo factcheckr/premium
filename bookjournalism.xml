@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 02:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 03:29:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금값의 추이를 잘 들여다보면 신호가 보입니다. 달러의 황금기가 저물 수 있다는 신호입니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74597</link>
+            <guid>https://www.bookjournalism.com/books/74597</guid>
+            <pubDate>Mon, 10 Feb 2025 03:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[Goodbye, Golden Era!]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643632/w/646/r250210.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트럼프는 먼로주의를 부활시켜 서반구에서 미국의 이익을 재확인하려고 합니다. 관세는 그 일부일 뿐입니다.]]></title>
             <link>https://www.bookjournalism.com/books/74583</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 Jan 2025 12:44:30 GMT</pubDate>
             <content:encoded><![CDATA[산불이 지나간 자리에 남은 것 ②]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/642360/w/646/r250114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로스앤젤레스가 일주일째 불타고 있습니다. 황망한 상황 앞에서 누군가는 원망할 대상을 찾기 마련입니다.]]></title>
-            <link>https://www.bookjournalism.com/books/74429</link>
-            <guid>https://www.bookjournalism.com/books/74429</guid>
-            <pubDate>Tue, 21 Jan 2025 12:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[산불이 지나간 자리에 남은 것 ①]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/642184/w/646/r250114.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
