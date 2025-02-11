@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-02-11T01:46:38.234Z</updated>
+    <updated>2025-02-11T02:53:12.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1339</id>
         <link href="https://www.longblack.co/note/1339"/>
         <updated>2025-02-10T15:25:54.299Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K여기, 매년 550만 달러(약 80억원)를 버는 의사였던 유튜버가 있어요. 구독자 수는 무려 620만 명*. 주인공은 1994년생의 영국인 알리 압달Ali Abda<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;여기, 매년 550만 달러(약 80억원)를 버는 의사였던 유튜버가 있어요. 구독자 수는 무려 620만 명*. 주인공은 1994년생의 영국인 알리 압달Ali Abd<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
