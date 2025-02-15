@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-02-15T14:19:34.314Z</updated>
+    <updated>2025-02-15T15:22:50.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[최진영 : 역주행 베스트셀러 『구의 증명』 작가, 불행까지 끌어안는 사랑을 말하다]]></title>
-        <id>https://www.longblack.co/note/1344</id>
-        <link href="https://www.longblack.co/note/1344"/>
-        <updated>2025-02-14T15:24:19.363Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;출판계엔 ‘역주행 미스터리’라는 말이 있습니다. 나온 지 몇 년 지난 책의 판매가 갑자기 늘어나는 현상이죠. 이유를 알기 어렵다는 점에서 미스터리라는 단어가 붙었<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2025-02-15T15:21:56.530Z</updated>
+        <content type="html"><![CDATA[C가 들려주는 F&amp;B 기획자 뚜기의 이야기
+
+“저는 스테디셀러를 살짝 비트는 걸 좋아해요. 베이커리 메뉴 중 요즘 핫한 베이글, 도넛 말고 어떤 스테디셀러가 있을까 살폈어요. 크루아상밖에 없더라고요. 게다가 크루아상은 파리라는 낭만적인 도시를 연상시킬 수가 있잖아요<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
