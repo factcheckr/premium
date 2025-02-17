@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 07:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 08:34:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[케네디 주니어라는 인물을 거물급 정치인으로 키운 것은 팬데믹이었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74636</link>
+            <guid>https://www.bookjournalism.com/books/74636</guid>
+            <pubDate>Mon, 17 Feb 2025 08:34:10 GMT</pubDate>
+            <content:encoded><![CDATA[미국을 다시 건강하게 ①]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644076/w/646/r250217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구글의 광고는 따뜻하고 다정했습니다. 그런데 문제가 있었습니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/74628</link>
             <guid>https://www.bookjournalism.com/books/74628</guid>
@@ -255,14 +263,6 @@
             <pubDate>Wed, 22 Jan 2025 07:21:47 GMT</pubDate>
             <content:encoded><![CDATA[극우의 탄생]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643043/w/646/r250122.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메시아 콤플렉스에 빠진 세계 최강대국의 새 지도자는 구원과 해방에 거래를 접목합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74499</link>
-            <guid>https://www.bookjournalism.com/books/74499</guid>
-            <pubDate>Tue, 21 Jan 2025 12:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[대통령 취임사로 전망하는 트럼프 2기]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/642925/w/646/r250121.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
