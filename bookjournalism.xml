@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.bookjournalism.com/books</id>
-    <title>북저널리즘</title>
-    <updated>2025-02-18T20:26:18.656Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://d16q17a0zuuij1.cloudfront.net/img/favicon.png?v=1592277068</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>북저널리즘</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 18 Feb 2025 21:22:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판단의 근거는 과학이 아니라 ‘과학적 사고’여야 합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74647</link>
+            <guid>https://www.bookjournalism.com/books/74647</guid>
+            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[미국을 다시 건강하게 ②]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644199/w/646/r250217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케네디 주니어라는 인물을 거물급 정치인으로 키운 것은 팬데믹이었습니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74636</link>
+            <guid>https://www.bookjournalism.com/books/74636</guid>
+            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[미국을 다시 건강하게 ①]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644076/w/646/r250217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글의 광고는 따뜻하고 다정했습니다. 그런데 문제가 있었습니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74628</link>
+            <guid>https://www.bookjournalism.com/books/74628</guid>
+            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[AI를 광고하는 방법]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643942/w/646/r250213.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 미국은 새로운 세계를 향한 실험을 하고 있습니다. 테크 엘리트가 그린 설계도대로 사회를 재구성해도 될 것인가가 연구 주제입니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74618</link>
+            <guid>https://www.bookjournalism.com/books/74618</guid>
+            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크의 쿠데타]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643839/w/646/r250212.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[시간제 다음은 파견직, 비정규직 다음은 또다시 비정규직입니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74607</link>
+            <guid>https://www.bookjournalism.com/books/74607</guid>
+            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[일할 수 없는 사람들]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643823/w/646/r250211.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[금값의 추이를 잘 들여다보면 신호가 보입니다. 달러의 황금기가 저물 수 있다는 신호입니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74597</link>
+            <guid>https://www.bookjournalism.com/books/74597</guid>
+            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[Goodbye, Golden Era!]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643826/w/646/r250210.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트럼프는 먼로주의를 부활시켜 서반구에서 미국의 이익을 재확인하려고 합니다. 관세는 그 일부일 뿐입니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74583</link>
+            <guid>https://www.bookjournalism.com/books/74583</guid>
+            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[먼로주의의 부활]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643618/w/646/r250206.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가 어떤 음악과 ‘조우’할 기회가 여전히 존재하느냐의 문제입니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74569</link>
+            <guid>https://www.bookjournalism.com/books/74569</guid>
+            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[스포티파이의 취향]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643429/w/646/r250205.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가 어떤 세대를 이해하지 못한다면, 그것은 우리가 그 세대의 삶을 살아보지 않았기 때문입니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74560</link>
+            <guid>https://www.bookjournalism.com/books/74560</guid>
+            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[노인은 누구인가]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643361/w/646/r250204.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트럼프는 다보스 포럼을 휘어잡았습니다. 다보스 현장에는 존재하지도 않았는데 말이죠.]]></title>
+            <link>https://www.bookjournalism.com/books/74548</link>
+            <guid>https://www.bookjournalism.com/books/74548</guid>
+            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 경제학의 출현]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643251/w/646/r250203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국의 한 스타트업이 증명했습니다. AI는 돈의 문제가 아니라 과학의 문제라는 것을 말이죠.]]></title>
+            <link>https://www.bookjournalism.com/books/74538</link>
+            <guid>https://www.bookjournalism.com/books/74538</guid>
+            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[AI의 아하! 모멘트]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643135/w/646/r2401302.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트럼프가 이번 대선에서 틱톡 덕을 톡톡히 봤으니, 틱톡에 유리하게 움직일 것이라는 전망은 순진한 정도가 아니라 무지합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74529</link>
+            <guid>https://www.bookjournalism.com/books/74529</guid>
+            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[틱톡을 살려 준 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643124/w/646/r250123.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
