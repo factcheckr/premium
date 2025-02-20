@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 07:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 08:30:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[서울은 비싼 도시가 되었습니다. 그래서 쓰레기를 버릴 곳이 더는 없습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74666</link>
+            <guid>https://www.bookjournalism.com/books/74666</guid>
+            <pubDate>Thu, 20 Feb 2025 08:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[쓰레기의 비용]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644454/w/646/r250220.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본은 ‘가이진’과 이웃이 될 준비를 하지 않았습니다. 혐오가 자라나기 딱 좋은 환경입니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/74658</link>
             <guid>https://www.bookjournalism.com/books/74658</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
             <content:encoded><![CDATA[새로운 경제학의 출현]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643251/w/646/r250203.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 한 스타트업이 증명했습니다. AI는 돈의 문제가 아니라 과학의 문제라는 것을 말이죠. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74538</link>
-            <guid>https://www.bookjournalism.com/books/74538</guid>
-            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[AI의 아하! 모멘트]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643135/w/646/r2401302.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
