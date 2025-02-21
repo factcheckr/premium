@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-02-21T11:21:05.437Z</updated>
+    <updated>2025-02-21T12:45:48.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1353</id>
         <link href="https://www.longblack.co/note/1353"/>
         <updated>2025-02-20T15:26:16.587Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C매출의 86%를 ‘구독’으로 버는 장난감 회사가 있어요. 금액을 들으면 더 놀랄걸요? 2023년 기준 연간 구독 수익annual subscription revenu<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;매출의 86%를 ‘구독’으로 버는 장난감 회사가 있어요. 금액을 들으면 더 놀랄걸요? 2023년 기준 연간 구독 수익annual subscription reven<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
