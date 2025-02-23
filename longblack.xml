@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-02-23T14:21:26.185Z</updated>
+    <updated>2025-02-23T15:22:04.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2025-02-22T15:21:05.354Z</updated>
-        <content type="html"><![CDATA[B가 들려주는 신형철 평론가의 이야기
-
-“세상에 얼마나 다양한 슬픔이 있고, 비극 앞에서 사람이 어떤 감정을 느끼고, 결핍은 사람을 어떻게 흔드는가. 이런 것들을 이해하면 판단할 때 영향을 미치지 않겠어요? 사회학과 심리학과 문학이 결합하면 충분히 교과서로 만들 수<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[토니 파델 : 아이팟의 아버지, “혁신적인 제품은 당장 필요한 진통제와 같다”]]></title>
+        <id>https://www.longblack.co/note/1355</id>
+        <link href="https://www.longblack.co/note/1355"/>
+        <updated>2025-02-23T15:21:08.340Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;‘나의 세계’를 튼튼히 쌓아 올리는 사람들이 있어요. 자기만의 아이디어를 끈기 있게 붙잡아 벼린 끝에, 빛나는 결과물을 완성하는 이들이죠.&nbsp;이들의 여정은 때로는 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
