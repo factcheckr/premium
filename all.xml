@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 06:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 07:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인간이 넘어서는 안될 선을 넘는 것처럼 느껴지지만, 우리는 그 선을 진작에 넘어섰을지도 모릅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74692</link>
+            <guid>https://www.bookjournalism.com/books/74692</guid>
+            <pubDate>Tue, 25 Feb 2025 07:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[형광 토끼를 팝니다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644812/w/646/r250225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[니콜라는 10년 동안 실체도 없는 회사의 미래 가치를 팔아 회사를 운영해 왔습니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/74677</link>
             <guid>https://www.bookjournalism.com/books/74677</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
             <content:encoded><![CDATA[스포티파이의 취향]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643429/w/646/r250205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 어떤 세대를 이해하지 못한다면, 그것은 우리가 그 세대의 삶을 살아보지 않았기 때문입니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74560</link>
-            <guid>https://www.bookjournalism.com/books/74560</guid>
-            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[노인은 누구인가]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643361/w/646/r250204.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
