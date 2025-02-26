@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-02-26T15:27:49.612Z</updated>
+    <updated>2025-02-26T16:31:25.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1358</id>
         <link href="https://www.longblack.co/note/1358"/>
         <updated>2025-02-26T15:26:53.411Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K그로스 해킹Growth Hacking이라는 개념을 들어보셨나요? 실리콘밸리에서 초고속 성장한 기업들이 쓰는 업무 방식이에요.&nbsp;개념의 창시자는 션 엘리스Sean El<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;그로스 해킹Growth Hacking이라는 개념을 들어보셨나요? 실리콘밸리에서 초고속 성장한 기업들이 쓰는 업무 방식이에요.&nbsp;개념의 창시자는 션 엘리스Sean E<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
