@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 07:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 08:30:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[지도는 돈이 됩니다. 구글이 한국에 지도를 요구합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74716</link>
+            <guid>https://www.bookjournalism.com/books/74716</guid>
+            <pubDate>Thu, 27 Feb 2025 08:30:43 GMT</pubDate>
+            <content:encoded><![CDATA[고정밀 지도 반출 작전]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644964/w/646/r250227.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[스타벅스는 비싸져서 실패한 것이 아닙니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/74707</link>
             <guid>https://www.bookjournalism.com/books/74707</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
             <content:encoded><![CDATA[Goodbye, Golden Era!]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643826/w/646/r250210.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프는 먼로주의를 부활시켜 서반구에서 미국의 이익을 재확인하려고 합니다. 관세는 그 일부일 뿐입니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74583</link>
-            <guid>https://www.bookjournalism.com/books/74583</guid>
-            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[먼로주의의 부활]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643618/w/646/r250206.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
