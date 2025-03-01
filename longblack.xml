@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-03-01T14:21:53.378Z</updated>
+    <updated>2025-03-01T15:24:26.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[독도문방구 : 울릉도 최초의 소품샵, 사라진 강치 되살려 11년 차 핫플이 되다]]></title>
-        <id>https://www.longblack.co/note/1362</id>
-        <link href="https://www.longblack.co/note/1362"/>
-        <updated>2025-02-28T15:26:12.491Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;‘울릉도·독도 여행객의 필수 코스’로 꼽히는 곳이 하나 있어요. 이름은 독도문방구. 울릉도 최초의 소품샵이죠. 2014년부터 11년째 울릉도를 지키고 있어요.&nbsp;7<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2025-03-01T15:23:30.945Z</updated>
+        <content type="html"><![CDATA[B가 들려주는 박정수 녹기 전에 대표의 이야기
+
+“내 기분을 주위에서 눈치 못 챌 리가 있을까요? 번지기 마련이에요. 그러니 제안하고 싶어요. 애써 억누르지 말고, 좋은 기분을 만들자고요. 좋은 기분은 좋은 태도로 이어져요. 좋은 태도가 모여 좋은 사회가 되고요.”<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
