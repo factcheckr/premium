@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 06:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 07:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[시대에 따라 결혼과 사랑 간의 관계도, 결혼이 개인에게 갖는 의미도 달라집니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74726</link>
+            <guid>https://www.bookjournalism.com/books/74726</guid>
+            <pubDate>Tue, 04 Mar 2025 07:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[아파트에서 만나요]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645090/w/646/r250304.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[지도는 돈이 됩니다. 구글이 한국에 지도를 요구합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/74716</link>
             <guid>https://www.bookjournalism.com/books/74716</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
             <content:encoded><![CDATA[일할 수 없는 사람들]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643823/w/646/r250211.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금값의 추이를 잘 들여다보면 신호가 보입니다. 달러의 황금기가 저물 수 있다는 신호입니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74597</link>
-            <guid>https://www.bookjournalism.com/books/74597</guid>
-            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[Goodbye, Golden Era!]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643826/w/646/r250210.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
