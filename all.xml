@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 07:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 08:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[홈플러스에 문제가 생겼습니다. 쿠팡 때문만은 아닙니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74736</link>
+            <guid>https://www.bookjournalism.com/books/74736</guid>
+            <pubDate>Wed, 05 Mar 2025 08:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[숫자를 보는 리더십]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645165/w/646/r240305.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시대에 따라 결혼과 사랑 간의 관계도, 결혼이 개인에게 갖는 의미도 달라집니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/74726</link>
             <guid>https://www.bookjournalism.com/books/74726</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크의 쿠데타]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643839/w/646/r250212.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시간제 다음은 파견직, 비정규직 다음은 또다시 비정규직입니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74607</link>
-            <guid>https://www.bookjournalism.com/books/74607</guid>
-            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[일할 수 없는 사람들]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643823/w/646/r250211.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
