@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-03-06T23:23:46.546Z</updated>
+    <updated>2025-03-07T01:52:46.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1366</id>
         <link href="https://www.longblack.co/note/1366"/>
         <updated>2025-03-06T15:25:45.884Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 L생리대 시장에서 한 번도 매출이 꺾이지 않고 성장한 스타트업이 있어. 주인공은 해피문데이. 창업한 2017년부터 7년간 기록한 연평균 성장률(CAGR)이 무려 97<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;생리대 시장에서 한 번도 매출이 꺾이지 않고 성장한 스타트업이 있어. 주인공은 해피문데이. 창업한 2017년부터 7년간 기록한 연평균 성장률(CAGR)이 무려 9<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
