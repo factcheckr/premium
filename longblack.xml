@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-03-08T14:17:37.054Z</updated>
+    <updated>2025-03-08T15:19:52.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[어른을 위한 『이상한 나라의 앨리스』 : 판타지로 배우는 실전 처세술]]></title>
-        <id>https://www.longblack.co/note/1367</id>
-        <link href="https://www.longblack.co/note/1367"/>
-        <updated>2025-03-07T15:25:03.953Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;어른들이 가장 많이 건네는 조언 두 가지가 있어요. 첫째, 후회 없이 살아라. 둘째, 나답게 살아라.나답게 살라는 말, 가끔은 어렵게 느껴져요. 살다 보면 내 모<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2025-03-08T15:18:57.628Z</updated>
+        <content type="html"><![CDATA[C가 들려주는 크레이그 두비츠키의 이야기
+
+“영혼을 아웃소싱할 수는 없습니다. 사람들은 다 느낍니다. 디자인, 포장, 언어, 스토리 등. 당신에게 진정 열정이 있다면, 당신이 하는 모든 일에서 반드시 그 열정이 새어 나올 거예요. 당신은 스토리텔링하는 사람이 아니라<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
