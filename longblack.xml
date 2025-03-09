@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-03-09T14:18:06.634Z</updated>
+    <updated>2025-03-09T15:21:03.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2025-03-08T15:18:57.628Z</updated>
-        <content type="html"><![CDATA[C가 들려주는 크레이그 두비츠키의 이야기
-
-“영혼을 아웃소싱할 수는 없습니다. 사람들은 다 느낍니다. 디자인, 포장, 언어, 스토리 등. 당신에게 진정 열정이 있다면, 당신이 하는 모든 일에서 반드시 그 열정이 새어 나올 거예요. 당신은 스토리텔링하는 사람이 아니라<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[에드워드 리 : 인생을 접시에 담는 셰프, 그가 모험을 향해 나아가는 법]]></title>
+        <id>https://www.longblack.co/note/1368</id>
+        <link href="https://www.longblack.co/note/1368"/>
+        <updated>2025-03-09T15:20:07.089Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;서툰 한국어로 떡볶이 요리를 소개해 사람들의 마음을 울린 셰프가 있어요. 넷플릭스 시리즈 「흑백요리사」에서 준우승을 차지한 에드워드 리Edward Lee죠.&nbsp;그는<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
