@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 11:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 12:50:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뇌세포를 이용한 컴퓨터가 상용화됩니다. 5000만 원입니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74761</link>
+            <guid>https://www.bookjournalism.com/books/74761</guid>
+            <pubDate>Tue, 11 Mar 2025 12:50:09 GMT</pubDate>
+            <content:encoded><![CDATA[지속 가능한 컴퓨터의 정의]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645461/w/646/r250311.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[5년 만기 대출을 상환해야 할 시점이 도래하면서 자영업자들이 넘어지기 시작했습니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/74755</link>
             <guid>https://www.bookjournalism.com/books/74755</guid>
@@ -255,14 +263,6 @@
             <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
             <content:encoded><![CDATA[미국을 다시 건강하게 ②]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644199/w/646/r250217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케네디 주니어라는 인물을 거물급 정치인으로 키운 것은 팬데믹이었습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74636</link>
-            <guid>https://www.bookjournalism.com/books/74636</guid>
-            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[미국을 다시 건강하게 ①]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644076/w/646/r250217.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
