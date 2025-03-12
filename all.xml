@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 06:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 07:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미세 먼지는 환경 의제라기 보다는 안전 의제에 가까웠습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74769</link>
+            <guid>https://www.bookjournalism.com/books/74769</guid>
+            <pubDate>Wed, 12 Mar 2025 07:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[공기 청정기로는 거를 수 없는 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645474/w/646/r250312.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[뇌세포를 이용한 컴퓨터가 상용화됩니다. 5000만 원입니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/74761</link>
             <guid>https://www.bookjournalism.com/books/74761</guid>
@@ -255,14 +263,6 @@
             <pubDate>Wed, 19 Feb 2025 09:25:13 GMT</pubDate>
             <content:encoded><![CDATA[와라비의 쿠르드인]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644354/w/646/r240219.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[판단의 근거는 과학이 아니라 ‘과학적 사고’여야 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74647</link>
-            <guid>https://www.bookjournalism.com/books/74647</guid>
-            <pubDate>Tue, 18 Feb 2025 21:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[미국을 다시 건강하게 ②]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644199/w/646/r250217.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
