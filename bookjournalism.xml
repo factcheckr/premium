@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 04:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 05:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국과 러시아가 밀착하고 있습니다. 80년간 이어져 온 세계 질서가 붕괴하고 있습니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74776</link>
+            <guid>https://www.bookjournalism.com/books/74776</guid>
+            <pubDate>Thu, 13 Mar 2025 05:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 편이 바뀌면]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645595/w/646/r250313.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미세 먼지는 환경 의제라기 보다는 안전 의제에 가까웠습니다.]]></title>
             <link>https://www.bookjournalism.com/books/74769</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 20 Feb 2025 08:30:27 GMT</pubDate>
             <content:encoded><![CDATA[쓰레기의 비용]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644454/w/646/r250220.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본은 ‘가이진’과 이웃이 될 준비를 하지 않았습니다. 혐오가 자라나기 딱 좋은 환경입니다.]]></title>
-            <link>https://www.bookjournalism.com/books/74658</link>
-            <guid>https://www.bookjournalism.com/books/74658</guid>
-            <pubDate>Wed, 19 Feb 2025 09:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[와라비의 쿠르드인]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644354/w/646/r240219.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
