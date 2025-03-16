@@ -2,17 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-03-16T14:20:47.967Z</updated>
+    <updated>2025-03-16T15:23:50.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2025-03-15T15:23:01.036Z</updated>
-        <content type="html"><![CDATA[B가 들려주는 기록학자 김익한의 이야기
-
-“내가 걸어온 길을 저장하면, 나를 왜곡되게 규정하지 않는 힘이 생깁니다. 중요한 선택의 순간이 올 때마다 ‘나는 이런 사람이었지’ 하고 나다운 결정을 내릴 수 있게 돼요.”_김익한 명지대학교 기록정보과학전문대학원 명예교수
-<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[프레데릭 페르트 : 12년 구글 혁신 지도자가 ‘낙천성 훈련’ 권하는 이유]]></title>
+        <id>https://www.longblack.co/note/1377</id>
+        <link href="https://www.longblack.co/note/1377"/>
+        <updated>2025-03-16T15:22:54.347Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;그거 아시나요? 구글엔 ‘혁신 전도사’라는 직업이 있어요. 직원들에게 “누구나 원하는 미래를 만들 수 있다”며 기운을 북돋는 사람이죠. 말만 하지 않아요. 각자의<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
