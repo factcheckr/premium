@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 07:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 08:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 아이들은 카메라 앞에서 놀이를 하고 있는 것이 아닙니다. 노동이거나 훈련입니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74794</link>
+            <guid>https://www.bookjournalism.com/books/74794</guid>
+            <pubDate>Mon, 17 Mar 2025 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[예외적인 어린이]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645748/w/646/r250317.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국과 러시아가 밀착하고 있습니다. 80년간 이어져 온 세계 질서가 붕괴하고 있습니다.]]></title>
             <link>https://www.bookjournalism.com/books/74776</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 24 Feb 2025 08:32:03 GMT</pubDate>
             <content:encoded><![CDATA[언덕을 굴러 내려간 트럭]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644661/w/646/r250225.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울은 비싼 도시가 되었습니다. 그래서 쓰레기를 버릴 곳이 더는 없습니다.]]></title>
-            <link>https://www.bookjournalism.com/books/74666</link>
-            <guid>https://www.bookjournalism.com/books/74666</guid>
-            <pubDate>Thu, 20 Feb 2025 08:30:27 GMT</pubDate>
-            <content:encoded><![CDATA[쓰레기의 비용]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644454/w/646/r250220.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
