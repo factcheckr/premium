@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-03-22T14:22:47.152Z</updated>
+    <updated>2025-03-22T15:23:14.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[리더의 질문력 : 답정너 동료를 ‘최고의 협업 파트너’로 만드는 질문법]]></title>
-        <id>https://www.longblack.co/note/1390</id>
-        <link href="https://www.longblack.co/note/1390"/>
-        <updated>2025-03-21T15:26:16.978Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;열심히 일해도 잘 안 풀릴 때가 있지 않나요? 선배들은 그럴 때 조언해요. 끙끙 앓지 말고, “질문을 던지라”고요.&nbsp;하지만 아무 질문이나 던질 순 없죠. ‘어떤 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2025-03-22T15:22:18.427Z</updated>
+        <content type="html"><![CDATA[C가 들려주는 데이비드 영인 킴의 이야기
+
+“‘좋은 사람’의 아우라를 믿어요. 닙시 허슬과 녹음할 때, 스튜디오에 열 명 정도 있었어요. 허슬이 갑자기 나가더니, 물을 사 와서 한 병씩 나눠주는 거예요. 이렇게 높은 사람도 배려가 먼저일 수 있구나, 생각했죠. 그를<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
