@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-03-23T14:21:05.920Z</updated>
+    <updated>2025-03-23T15:24:40.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2025-03-22T15:22:18.427Z</updated>
-        <content type="html"><![CDATA[C가 들려주는 데이비드 영인 킴의 이야기
-
-“‘좋은 사람’의 아우라를 믿어요. 닙시 허슬과 녹음할 때, 스튜디오에 열 명 정도 있었어요. 허슬이 갑자기 나가더니, 물을 사 와서 한 병씩 나눠주는 거예요. 이렇게 높은 사람도 배려가 먼저일 수 있구나, 생각했죠. 그를<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[레드앤틀러 : ‘죽음에 대한 두려움’ 끌어낼 때, 브랜드는 성공한다]]></title>
+        <id>https://www.longblack.co/note/1385</id>
+        <link href="https://www.longblack.co/note/1385"/>
+        <updated>2025-03-23T15:23:48.642Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;실리콘밸리 기업가들은 브랜드 런칭을 앞두고, 꼭 뉴욕행 비행기에 올라요. 스타트업 브랜딩 에이전시 ‘레드앤틀러RedAntler’를 만나려고요.이들의 손을 거친 브<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
