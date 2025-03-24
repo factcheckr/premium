@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Mar 2025 06:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 07:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미드 센추리 모던은 몇 년째 전 세계의 열병 같은 것이 되어 버렸습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74884</link>
+            <guid>https://www.bookjournalism.com/books/74884</guid>
+            <pubDate>Mon, 24 Mar 2025 07:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[미니멀리즘 사회]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/646724/w/646/r250324.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[교황과 정치인에게는 공통점이 있습니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/74846</link>
             <guid>https://www.bookjournalism.com/books/74846</guid>
@@ -255,14 +263,6 @@
             <pubDate>Wed, 05 Mar 2025 08:32:01 GMT</pubDate>
             <content:encoded><![CDATA[숫자를 보는 리더십]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645165/w/646/r240305.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시대에 따라 결혼과 사랑 간의 관계도, 결혼이 개인에게 갖는 의미도 달라집니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74726</link>
-            <guid>https://www.bookjournalism.com/books/74726</guid>
-            <pubDate>Tue, 04 Mar 2025 07:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[아파트에서 만나요]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645090/w/646/r250304.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
