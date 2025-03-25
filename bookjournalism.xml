@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 07:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 08:32:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민연금이라는 제도 자체에 결함이 있기 때문일지도 모릅니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74901</link>
+            <guid>https://www.bookjournalism.com/books/74901</guid>
+            <pubDate>Tue, 25 Mar 2025 08:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[연금 게임]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/646744/w/646/r250325.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미드 센추리 모던은 몇 년째 전 세계의 열병 같은 것이 되어 버렸습니다.]]></title>
             <link>https://www.bookjournalism.com/books/74884</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 06 Mar 2025 08:31:24 GMT</pubDate>
             <content:encoded><![CDATA[언론 불신의 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645270/w/646/r240306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홈플러스에 문제가 생겼습니다. 쿠팡 때문만은 아닙니다.]]></title>
-            <link>https://www.bookjournalism.com/books/74736</link>
-            <guid>https://www.bookjournalism.com/books/74736</guid>
-            <pubDate>Wed, 05 Mar 2025 08:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[숫자를 보는 리더십]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645165/w/646/r240305.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
