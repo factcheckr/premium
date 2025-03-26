@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-03-26T01:55:14.917Z</updated>
+    <updated>2025-03-26T03:03:44.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1386</id>
         <link href="https://www.longblack.co/note/1386"/>
         <updated>2025-03-25T15:27:51.820Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B일하다 보면 유독 ‘번뜩이는 아이디어’를 가져오는 동료들이 있습니다. 비결을 물으니 다들 비슷한 대답을 내놓죠. “평소 주변을 관찰하는 게 습관이다.”이들은 특별한<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;일하다 보면 유독 ‘번뜩이는 아이디어’를 가져오는 동료들이 있습니다. 비결을 물으니 다들 비슷한 대답을 내놓죠. “평소 주변을 관찰하는 게 습관이다.”이들은 특별<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
