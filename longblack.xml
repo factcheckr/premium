@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-03-29T14:23:35.865Z</updated>
+    <updated>2025-03-29T15:25:10.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[생각의 도약 : AI가 아니어도, 당신의 생각 능력은 좁아지고 있다]]></title>
-        <id>https://www.longblack.co/note/1391</id>
-        <link href="https://www.longblack.co/note/1391"/>
-        <updated>2025-03-28T15:26:33.926Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;그동안 롱블랙이 만난 혁신가들에겐, 한 가지 공통점이 있었어요. 모두 ‘생각에 푹 빠지는 사람들’이라는 것.생각이 한번 떠오르면, 꼬리에 꼬리를 물어 질문하는 거<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2025-03-29T15:24:15.002Z</updated>
+        <content type="html"><![CDATA[K가 들려주는 별집 부동산의 이야기
+
+“살아온 경험을 더듬어보세요. 집에서 주로 뭘 하는지, 집을 떠나 있을 땐 집의 무엇이 그리웠는지 등을요. 살고 싶은 동네의 모습을 그려보기도 하고요. 그 조건들을 나열해 본 다음, 포기할 수 없는 3가지를 꼽아보는 거죠. 기준<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
