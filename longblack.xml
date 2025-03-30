@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-03-30T14:22:55.750Z</updated>
+    <updated>2025-03-30T15:24:31.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2025-03-29T15:24:15.002Z</updated>
-        <content type="html"><![CDATA[K가 들려주는 별집 부동산의 이야기
-
-“살아온 경험을 더듬어보세요. 집에서 주로 뭘 하는지, 집을 떠나 있을 땐 집의 무엇이 그리웠는지 등을요. 살고 싶은 동네의 모습을 그려보기도 하고요. 그 조건들을 나열해 본 다음, 포기할 수 없는 3가지를 꼽아보는 거죠. 기준<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[안무서운회사 : 히키코모리의 ‘은둔 경험’이 진짜 스펙인 이유]]></title>
+        <id>https://www.longblack.co/note/1393</id>
+        <link href="https://www.longblack.co/note/1393"/>
+        <updated>2025-03-30T15:23:36.601Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;최근 ‘생존’이라는 단어를 곱씹곤 합니다. 폐업한 동네 카페나 희망퇴직 기사를 볼 때 그렇죠. 그때마다 생각해요. ‘어떻게 살아남아야 할까.’&nbsp;남다른 생존력을 증<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
