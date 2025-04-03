@@ -4,16 +4,24 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 10:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 11:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[샘 올트먼에게는 ‘한방’이 필요했습니다.]]></title>
+            <title><![CDATA[관세 인상 ‘법’이 통과됐다면 차라리 더 나았을 겁니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74983</link>
+            <guid>https://www.bookjournalism.com/books/74983</guid>
+            <pubDate>Thu, 03 Apr 2025 11:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[관세 전쟁]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/647739/w/646/r250403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샘 올트먼에게는 ‘한 방’이 필요했습니다.]]></title>
             <link>https://www.bookjournalism.com/books/74972</link>
             <guid>https://www.bookjournalism.com/books/74972</guid>
             <pubDate>Wed, 02 Apr 2025 09:28:30 GMT</pubDate>
             <content:encoded><![CDATA[호모 파베르의 다음 도구]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/647293/w/646/r250402.png" length="0" type="image/png"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/647743/w/646/r250402.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[망가진 권력의 민낯은 재해 앞에서 폭로됩니다.]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 18 Mar 2025 10:27:28 GMT</pubDate>
             <content:encoded><![CDATA[카세트테이프는 왜 팔리나]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645816/w/646/r250318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 아이들은 카메라 앞에서 놀이를 하고 있는 것이 아닙니다. 노동이거나 훈련입니다.]]></title>
-            <link>https://www.bookjournalism.com/books/74794</link>
-            <guid>https://www.bookjournalism.com/books/74794</guid>
-            <pubDate>Mon, 17 Mar 2025 08:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[예외적인 어린이]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645748/w/646/r250317.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
