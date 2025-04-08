@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 08:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 09:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[수도 이전은 정치적 투쟁입니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/75013</link>
+            <guid>https://www.bookjournalism.com/books/75013</guid>
+            <pubDate>Tue, 08 Apr 2025 09:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 서울]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/647906/w/646/r250408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먹을거리를 수출하고 수입하는 문제는 살아 있는 것을 다른 지역으로 옮기는 문제입니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/75006</link>
             <guid>https://www.bookjournalism.com/books/75006</guid>
@@ -255,14 +263,6 @@
             <pubDate>Wed, 19 Mar 2025 08:32:46 GMT</pubDate>
             <content:encoded><![CDATA[에디토리얼 라이팅]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645732/w/646/ew-book-thumbnail.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이 기업의 기술력에 지구의 일상이 걸려 있는 셈입니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74862</link>
-            <guid>https://www.bookjournalism.com/books/74862</guid>
-            <pubDate>Wed, 19 Mar 2025 07:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[구글의 빅 딜]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/646386/w/646/r250319.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
