@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 08:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 09:29:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,14 @@
             <content:encoded><![CDATA[예측 불가능한 것을 예측하기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[비트코인은 투자의 대상이며 권력의 도구입니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/75043</link>
+            <guid>https://www.bookjournalism.com/books/75043</guid>
+            <pubDate>Wed, 09 Apr 2025 09:29:08 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 화폐에 관해 이야기하지 않는 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/648109/w/646/r250409.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[수도 이전은 정치적 투쟁입니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/75013</link>
             <guid>https://www.bookjournalism.com/books/75013</guid>
@@ -255,14 +263,6 @@
             <pubDate>Thu, 20 Mar 2025 08:32:11 GMT</pubDate>
             <content:encoded><![CDATA[책 표지를 보며 생각한 것]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/646120/w/646/r250319.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“어떻게 해야 글을 잘 쓸 수 있나요?” 이 책은 저 질문에 답한다. 더 잘 쓰는 방법을 13가지 키워드로 제시한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74788</link>
-            <guid>https://www.bookjournalism.com/books/74788</guid>
-            <pubDate>Wed, 19 Mar 2025 08:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[에디토리얼 라이팅]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645732/w/646/ew-book-thumbnail.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
