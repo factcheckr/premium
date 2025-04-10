@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-04-10T08:33:16.862Z</updated>
+    <updated>2025-04-10T09:28:47.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1402</id>
         <link href="https://www.longblack.co/note/1402"/>
         <updated>2025-04-09T15:30:06.835Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C &nbsp;4달러(약 5900원)짜리 수세미를 팔아, 연 매출 5000억원* 규모로 성장한 브랜드가 있어요. 팬덤도 어마어마해요. 브랜드의 틱톡 팔로워 수는 427만 명.<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;4달러(약 5900원)짜리 수세미를 팔아, 연 매출 5000억원* 규모로 성장한 브랜드가 있어요. 팬덤도 어마어마해요. 브랜드의 틱톡 팔로워 수는 427만 명. <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
