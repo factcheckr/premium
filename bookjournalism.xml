@@ -4,9 +4,17 @@
         <title>북저널리즘</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 04:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 05:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령도 없고 시도지사도 없습니다.]]></title>
+            <link>https://www.bookjournalism.com/books/75028</link>
+            <guid>https://www.bookjournalism.com/books/75028</guid>
+            <pubDate>Thu, 10 Apr 2025 05:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[시장님은 휴가 중]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/648194/w/646/r250410.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비트코인은 투자의 대상이며 권력의 도구입니다.]]></title>
             <link>https://www.bookjournalism.com/books/75043</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 24 Mar 2025 07:26:32 GMT</pubDate>
             <content:encoded><![CDATA[미니멀리즘 사회]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/646724/w/646/r250324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교황과 정치인에게는 공통점이 있습니다.]]></title>
-            <link>https://www.bookjournalism.com/books/74846</link>
-            <guid>https://www.bookjournalism.com/books/74846</guid>
-            <pubDate>Thu, 20 Mar 2025 08:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[책 표지를 보며 생각한 것]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/646120/w/646/r250319.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
