@@ -2,14 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-04-12T14:21:47.118Z</updated>
+    <updated>2025-04-12T15:23:59.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[재미가 습관 되는 법 : 만보기를 던져버린 그날, 산책이 즐거워졌다]]></title>
-        <id>https://www.longblack.co/note/1407</id>
-        <link href="https://www.longblack.co/note/1407"/>
-        <updated>2025-04-11T15:27:51.825Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;‘재미있는 삶’을 원하지 않는 사람이 있을까요? 저는 없다고 생각해요. 일할 때든, 놀 때든 다들 재밌으면 좋아하니까요!하지만 “지금 재밌게 살고 있나요?”라는 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2025-04-12T15:23:01.911Z</updated>
+        <content type="html"><![CDATA[K가 들려주는 골목길 연구자 모종린의 이야기
+
+“로컬의 본질은 문화입니다. 다른 곳에는 없는 그곳만의 문화가 있는가, 즉 독립적인 콘텐츠가 있는가가 중요해요. ‘다움’이죠. ‘한국다움’, ‘도시다움’, ‘동네다움’, ‘나다움’이 있어야 단단한 로컬인 거예요.”_모종<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
