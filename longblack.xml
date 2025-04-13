@@ -2,16 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-04-13T14:23:31.115Z</updated>
+    <updated>2025-04-13T15:26:30.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2025-04-12T15:23:01.911Z</updated>
-        <content type="html"><![CDATA[K가 들려주는 골목길 연구자 모종린의 이야기
-
-“로컬의 본질은 문화입니다. 다른 곳에는 없는 그곳만의 문화가 있는가, 즉 독립적인 콘텐츠가 있는가가 중요해요. ‘다움’이죠. ‘한국다움’, ‘도시다움’, ‘동네다움’, ‘나다움’이 있어야 단단한 로컬인 거예요.”_모종<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[CFC 전채리 : 백세주·뚜레쥬르·예스24, 리브랜딩 전문가는 사연을 캐낸다]]></title>
+        <id>https://www.longblack.co/note/1383</id>
+        <link href="https://www.longblack.co/note/1383"/>
+        <updated>2025-04-13T15:25:38.399Z</updated>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;주변에서 “리브랜딩을 준비하고 있다”는 말을 종종 듣습니다. 창업 5년이 안 된 스타트업도, 업력이 수십 년 쌓인 대기업도요. 볼 게 많아진 세상에서 ‘눈에 띄기<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
